@@ -1,7 +1,3 @@
-# Education
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Education GPTs
 - [**Time Travel Chat**](https://chat.openai.com/g/g-MOVDnrtbT-time-travel-chat)
 - [**📚 Summarizer Pro 📄**](https://chat.openai.com/g/g-uwJFgQQ4i-summarizer-pro)
 - [**Paul Graham**](https://chat.openai.com/g/g-p2M4Atl3N-paul-graham)

@@ -1,7 +1,3 @@
-# Other
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Other GPTs
 - [**Profile Review . com**](https://chat.openai.com/g/g-yPLAsV2bz-profile-review-com)
 - [**Caveman GPT**](https://chat.openai.com/g/g-6EER9RKH6-caveman-gpt)
 - [**Thread Weaver**](https://chat.openai.com/g/g-kROg0f5Tg-thread-weaver)

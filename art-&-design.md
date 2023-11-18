@@ -1,7 +1,3 @@
-# Art & Design
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Art & Design GPTs
 - [**Simpsonize Me**](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me)
 - [**Dish Roaster**](https://chat.openai.com/g/g-nzZCfAQ0M-dish-roaster)
 - [**Echo Writer**](https://chat.openai.com/g/g-shwWB8Wp4-echo-writer)

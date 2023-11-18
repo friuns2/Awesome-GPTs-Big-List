@@ -1,7 +1,3 @@
-# Productivity
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Productivity GPTs
 - [**From image to text 📷💬**](https://chat.openai.com/g/g-PTLXUA56g-from-image-to-text)
 - [**Echo Writer**](https://chat.openai.com/g/g-shwWB8Wp4-echo-writer)
 - [**📚 Summarizer Pro 📄**](https://chat.openai.com/g/g-uwJFgQQ4i-summarizer-pro)

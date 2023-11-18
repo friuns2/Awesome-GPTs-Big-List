@@ -1,7 +1,3 @@
-# Health & Fitness
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Health & Fitness GPTs
 - [**Pill Pal**](https://chat.openai.com/g/g-oHDhbozdt-pill-pal)
 - [**Daily Bedtime Journal**](https://chat.openai.com/g/g-rnsmLxOHR-daily-bedtime-journal)
 - [**Pocket Therapist**](https://chat.openai.com/g/g-uy0M27qrr-pocket-therapist)

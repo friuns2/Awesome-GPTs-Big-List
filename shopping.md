@@ -1,7 +1,3 @@
-# Shopping
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Shopping GPTs
 - [**Amazon Scout**](https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout)
 - [**Awesome BFCM Deals Finder 2023**](https://chat.openai.com/g/g-I0UcBW7ZU-awesome-bfcm-deals-finder-2023)
 - [**Amazon Listing Wizard**](https://chat.openai.com/g/g-cyCdsDpO9-amazon-listing-wizard)

@@ -1,7 +1,3 @@
-# Finance
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Finance GPTs
 - [**Currency Converter**](https://chat.openai.com/g/g-ZNvavsN3l)
 - [**Svenska Skatteassistenten**](https://chat.openai.com/g/g-caCXGWq48-svenska-skatteassistenten)
 - [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt)

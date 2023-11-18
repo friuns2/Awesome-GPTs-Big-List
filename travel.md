@@ -1,7 +1,3 @@
-# Travel
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Travel GPTs
 - [**Itinerary Planner - Globetrotter Guide**](https://chat.openai.com/g/g-rlxtQxHxC-itinerary-planner-globetrotter-guide)
 - [**Flight Coach**](https://chat.openai.com/g/g-5i1eI9Ciy-flight-coach)
 - [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor)

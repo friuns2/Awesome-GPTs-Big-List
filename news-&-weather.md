@@ -1,7 +1,3 @@
-# News & Weather
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## News & Weather GPTs
 - [**Good News Concierge**](https://chat.openai.com/g/g-0ZTu1ojV3-good-news-concierge)
 - [**No-Code News**](https://chat.openai.com/g/g-t2KCsqk91-no-code-news)
 - [**Bright News Gazette**](https://chat.openai.com/g/g-vbiIzSjVC-bright-news-gazette)

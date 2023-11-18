@@ -1,7 +1,3 @@
-# Communication
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Communication GPTs
 - [**Lex Fridman**](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman)
 - [**editGPT**](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 - [**Fart Hero**](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero)

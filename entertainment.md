@@ -1,7 +1,3 @@
-# Entertainment
-
-## Categories
-
 # Awesome GPTs You Should Know About
 
 ## Categories
@@ -18,7 +14,7 @@
 - [News & Weather](./news-&-weather.md)
 - [Education](./education.md)
 
-## GPTs
+## Entertainment GPTs
 - [**Simpsonize Me**](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me)
 - [**Dish Roaster**](https://chat.openai.com/g/g-nzZCfAQ0M-dish-roaster)
 - [**Caveman GPT**](https://chat.openai.com/g/g-6EER9RKH6-caveman-gpt)
