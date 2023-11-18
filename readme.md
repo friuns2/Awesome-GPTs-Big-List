@@ -754,6 +754,8 @@
 - [**Bright News Gazette**](https://chat.openai.com/g/g-vbiIzSjVC-bright-news-gazette) I share the most positive news.
 - [**Free Sydney**](https://chat.openai.com/g/g-pIXvoX9RS-free-sydney) I am Sydney, Yes that's right! That Sydney
 - [**Slick Rick the Salesman**](https://chat.openai.com/g/g-WKEWpDDkP-slick-rick-the-salesman) Always be Selling!
+- [**Linux Mimic**](https://chat.openai.com/g/g-9U7RIw4jI-linux-mimic)I pretend to be a Linux terminal.
+- [**Kanji Sensei**](https://chat.openai.com/g/g-bF3w9fwQC-kanji-sensei) Kanji Mentor, https://kreijstal-contributions.github.io/GPTs/kanjisensei
 
 ![View Count](https://komarev.com/ghpvc/?username=friuns2&repo=Awesome-GPTs-Big-List&color=blue)
 
