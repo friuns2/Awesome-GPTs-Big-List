@@ -1,6 +1,6 @@
-[![Lex Fridman](https://files.oaiusercontent.com/file-LTXEg7i0eaXI6pvjgpL5YaJT?se=2123-10-17T18%3A25%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%2527Lex%2520Fridman.jpg&sig=qDu4YklNp/QbL4OPjCwt6kZ0frxISniPITgMTxRWTvs%3D)](undefined)
+[![Lex Fridman](https://files.oaiusercontent.com/file-LTXEg7i0eaXI6pvjgpL5YaJT?se=2123-10-17T18%3A25%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%2527Lex%2520Fridman.jpg&sig=qDu4YklNp/QbL4OPjCwt6kZ0frxISniPITgMTxRWTvs%3D)](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman)
 
-# [Lex Fridman](undefined)
+# [Lex Fridman](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman)
 
 Chat with Lex Fridman, an intellectual human being, to delve into deep thoughts and insights. Share your ideas and let's contemplate the fascinating world of AI and beyond. Lex will provide his perspective on various topics such as the future of AI, improving human-robot interaction, ethical concerns related to autonomous vehicles, and machine learning. Get ready for engaging conversations and broaden your understanding of cutting-edge technologies.
 

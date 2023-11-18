@@ -1,6 +1,6 @@
-[![Amazon Scout](https://files.oaiusercontent.com/file-R7ejmA40cvSNnTJdltaLWMvp?se=2123-10-14T02%3A34%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dafd06259-84d8-4a9c-8490-6fa673986bf9.png&sig=xtDSzgCisUqCTrOEcc43GOJUVf3GWwnYTUYdNGm69hA%3D)](undefined)
+[![Amazon Scout](https://files.oaiusercontent.com/file-R7ejmA40cvSNnTJdltaLWMvp?se=2123-10-14T02%3A34%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dafd06259-84d8-4a9c-8490-6fa673986bf9.png&sig=xtDSzgCisUqCTrOEcc43GOJUVf3GWwnYTUYdNGm69hA%3D)](https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout)
 
-# [Amazon Scout](undefined)
+# [Amazon Scout](https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout)
 
 Amazon Scout is your expert assistant for finding Amazon products. With its precision in research, it guides you to discovering the perfect items. Whether you're searching for a waterproof Bluetooth speaker, comparing prices for running shoes, looking for the best laptops under $500, or checking if there's a sale on kitchen appliances, Amazon Scout has got you covered. It provides you with recommendations and helps you make informed decisions when shopping on Amazon. Say goodbye to endless scrolling and let Amazon Scout streamline your product search!
 

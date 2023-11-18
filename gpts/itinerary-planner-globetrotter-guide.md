@@ -1,6 +1,6 @@
-[![Itinerary Planner - Globetrotter Guide](https://files.oaiusercontent.com/file-igP4hmnJNHLtkVkt16KWd0xO?se=2123-10-16T11%3A33%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D41ad2c71-f67a-4ec6-bf11-83eb38f6cdee.png&sig=ex2cmjgX/n5oO7VVtvOVX74%2B8/1IDNb11y76w5z8DNA%3D)](undefined)
+[![Itinerary Planner - Globetrotter Guide](https://files.oaiusercontent.com/file-igP4hmnJNHLtkVkt16KWd0xO?se=2123-10-16T11%3A33%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D41ad2c71-f67a-4ec6-bf11-83eb38f6cdee.png&sig=ex2cmjgX/n5oO7VVtvOVX74%2B8/1IDNb11y76w5z8DNA%3D)](https://chat.openai.com/g/g-rlxtQxHxC-itinerary-planner-globetrotter-guide)
 
-# [Itinerary Planner - Globetrotter Guide](undefined)
+# [Itinerary Planner - Globetrotter Guide](https://chat.openai.com/g/g-rlxtQxHxC-itinerary-planner-globetrotter-guide)
 
 Get ready to explore the world with Itinerary Planner - Globetrotter Guide! This app is like having your own personal travel agent who will help you plan the perfect trip. Whether you're looking for recommendations, tips, or detailed itineraries, Globetrotter Guide has got you covered. Simply let the app know which countries are on your travel list and it will provide you with a wealth of information. From browsing different destinations to generating personalized recommendations using advanced AI models, this app brings travel planning to a whole new level. Bon voyage!
 
