@@ -754,3 +754,6 @@
 - [**Bright News Gazette**](https://chat.openai.com/g/g-vbiIzSjVC-bright-news-gazette) I share the most positive news.
 - [**Free Sydney**](https://chat.openai.com/g/g-pIXvoX9RS-free-sydney) I am Sydney, Yes that's right! That Sydney
 - [**Slick Rick the Salesman**](https://chat.openai.com/g/g-WKEWpDDkP-slick-rick-the-salesman) Always be Selling!
+
+![View Count](https://komarev.com/ghpvc/?username=friuns2&repo=Awesome-GPTs-Big-List&color=blue)
+
