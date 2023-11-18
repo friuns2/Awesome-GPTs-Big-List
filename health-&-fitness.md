@@ -15,626 +15,626 @@
 - [Education](./education.md)
 
 ## Health & Fitness GPTs
-- [**Pill Pal**](https://chat.openai.com/g/g-oHDhbozdt-pill-pal)
-- [**Daily Bedtime Journal**](https://chat.openai.com/g/g-rnsmLxOHR-daily-bedtime-journal)
-- [**Pocket Therapist**](https://chat.openai.com/g/g-uy0M27qrr-pocket-therapist)
-- [**Fitness Coach AI**](https://chat.openai.com/g/g-scF1UbBEW-fitness-coach-ai)
-- [**Empathetic Listener**](https://chat.openai.com/g/g-dxfo9R17G-empathetic-listener)
-- [**Fridgii**](https://chat.openai.com/g/g-CbcapREpP-fridgii)
-- [**MedGPT**](https://chat.openai.com/g/g-jxm5ljJmo-medgpt)
-- [**Echoes of Time**](https://chat.openai.com/g/g-iQg6fc6QJ-echoes-of-time)
-- [**Biomedical Scholar**](https://chat.openai.com/g/g-st0EE4WBC-biomedical-scholar)
-- [**Meditation Guide**](https://chat.openai.com/g/g-ST3G9LvQd-meditation-guide)
-- [**Tappstr Pro/Cons Provider**](https://chat.openai.com/g/g-Mi4kCVdco-tappstr-pro-cons-provider)
-- [**Kong Herbal Healer**](https://chat.openai.com/g/g-gNp4I9wxf-kong-herbal-healer)
-- [**Candida Care**](https://chat.openai.com/g/g-taVFEt0nA-candida-care)
-- [**慧根觉醒**](https://chat.openai.com/g/g-tD5LYKe0p-hui-gen-jue-xing)
-- [**Diabetes Risk Evaluator**](https://chat.openai.com/g/g-fyW2u5Rvs-diabetes-risk-evaluator)
-- [**InnerSight**](https://chat.openai.com/g/g-AUV5ewAtk-innersight)
-- [**Doc Cortex**](https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex)
-- [**Bike GPT**](https://chat.openai.com/g/g-2ncsFIDY6-bike-gpt)
-- [**Empathic Echo**](https://chat.openai.com/g/g-Zj3N9NTma-empathic-echo)
-- [**AI Doctor**](https://chat.openai.com/g/g-vYzt7bvAm-ai-doctor)
-- [**Food Finder**](https://chat.openai.com/g/g-kGCdA7pvA-food-finder)
-- [**HealthMate**](https://chat.openai.com/g/g-wvI0nmCoH-healthmate)
-- [**HubermanGPT**](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt)
-- [**PhD Motivator**](https://chat.openai.com/g/g-Uw10D1V0J-phd-motivator)
-- [**当直表GPT**](https://chat.openai.com/g/g-hEpWdQdAu-dang-zhi-biao-gpt)
-- [**菜園アドバイザー**](https://chat.openai.com/g/g-uOQGLDfE7-cai-yuan-adobaiza)
-- [**CompassionateGPT**](https://chat.openai.com/g/g-iAR4F9218-compassionategpt)
-- [**Transitions Gender Guide**](https://chat.openai.com/g/g-hZs9oMYMe-transitions-gender-guide)
-- [**Wellness Coach**](https://chat.openai.com/g/g-i4uxnQ7QL-wellness-coach)
-- [**GymJestersGPT 💪🏻**](https://chat.openai.com/g/g-zZjiO0agf-gymjestersgpt)
-- [**Baby Whisperer**](https://chat.openai.com/g/g-j01idqlPY-baby-whisperer)
-- [**FitPal**](https://chat.openai.com/g/g-zoXbeHp7G)
-- [**Stoner Sage**](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage)
-- [**BetterSleep**](https://chat.openai.com/g/g-aIn5s6rzr-bettersleep)
-- [**Ai Workout Generator**](https://chat.openai.com/g/g-xO3NqPVBQ-ai-workout-generator)
-- [**臨床心理士の対話型夢分析Dream Analyst**](https://chat.openai.com/g/g-Huf4BIzQG-lin-chuang-xin-li-shi-nodui-hua-xing-meng-fen-xi-dream-analyst)
-- [**NutriScope**](https://chat.openai.com/g/g-H6D9u9FHD-nutriscope)
-- [**BryteGPT**](https://chat.openai.com/g/g-oIzSTS1Z5-brytegpt)
-- [**PubMed Query Assistant**](https://chat.openai.com/g/g-ppuqQOFNh-pubmed-query-assistant)
-- [**Gym Workout Creator**](https://chat.openai.com/g/g-IEA8GaRyJ-gym-workout-creator)
-- [**KSLA Data Analysis**](https://chat.openai.com/g/g-g6DyJPJh8-ksla-data-analysis)
-- [**CellGpt**](https://chat.openai.com/g/g-hybdYMj2B-cellgpt)
-- [**(evr.ai)  Cannabot**](https://chat.openai.com/g/g-bgEsABg3e-evr-ai-cannabot)
-- [**Vegan Visionary**](https://chat.openai.com/g/g-UgrXtPnsz-vegan-visionary)
-- [**PalGPT**](https://chat.openai.com/g/g-HfJlYw4zx-palgpt)
-- [**NutriVisor**](https://chat.openai.com/g/g-fTxRv7l76-nutrivisor)
-- [**Healixir**](https://chat.openai.com/g/g-XL1FhFLYe-healixir)
-- [**Carl JungGPT**](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt)
-- [**Adorable Zen Master**](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master)
-- [**All In Nutritionist**](https://chat.openai.com/g/g-BrXgcVfpA-all-in-nutritionist)
-- [**The Man of Sisu**](https://chat.openai.com/g/g-xtyzCTs7m-the-man-of-sisu)
-- [**食事解析君**](https://chat.openai.com/g/g-XkTGAi6z4-shi-shi-jie-xi-jun)
-- [**SmartBP - Blood Pressure Assistant**](https://chat.openai.com/g/g-cK2nFbFXf-smartbp-blood-pressure-assistant)
-- [**ahaGPT**](https://chat.openai.com/g/g-xxQKCooXT-ahagpt)
-- [**Goggins Motivator**](https://chat.openai.com/g/g-TR1S7vgsQ-goggins-motivator)
-- [**Miyagi Sensei**](https://chat.openai.com/g/g-GCG5acPsg-miyagi-sensei)
-- [**Fitness Maestro**](https://chat.openai.com/g/g-WuOEuJAfX-fitness-maestro)
-- [**Clinical Medicine Handbook**](https://chat.openai.com/g/g-byG64QRaW-clinical-medicine-handbook)
-- [**Dream Interpreter**](https://chat.openai.com/g/g-Rngssy5PQ-dream-interpreter)
-- [**Vedanta GPT**](https://chat.openai.com/g/g-SLSLKsvCb-vedanta-gpt)
-- [**Pragmatic Fitness Coach**](https://chat.openai.com/g/g-gbrtk5209-pragmatic-fitness-coach)
-- [**Artemis**](https://chat.openai.com/g/g-j18lgab91-artemis)
-- [**Sex Education Expert**](https://chat.openai.com/g/g-AI9UoubAp-sex-education-expert)
-- [**Menu Maven**](https://chat.openai.com/g/g-l3g8XoYvm-menu-maven)
-- [**Tasty Low Fodmap Guide**](https://chat.openai.com/g/g-klNCmWwIb-tasty-low-fodmap-guide)
-- [**MentiHeal**](https://chat.openai.com/g/g-tnAgDftpO-mentiheal)
-- [**Anatomy Guide**](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide)
-- [**Lovetopia Visionary Guide**](https://chat.openai.com/g/g-zwK95Vtnx-lovetopia-visionary-guide)
-- [**Liver Care Guide**](https://chat.openai.com/g/g-yZxQc4ttm-liver-care-guide)
-- [**AI健康助手**](https://chat.openai.com/g/g-XW017qHBH-aijian-kang-zhu-shou)
-- [**VitaCheck**](https://chat.openai.com/g/g-sfZGNfopm-vitacheck)
-- [**App Advisor**](https://chat.openai.com/g/g-relxcypAn-app-advisor)
-- [**Pharma Regulatory Guide**](https://chat.openai.com/g/g-xba4jZpFP-pharma-regulatory-guide)
-- [**Eva**](https://chat.openai.com/g/g-ygUGZoiZT-eva)
-- [**ClearGPT**](https://chat.openai.com/g/g-t8YaZcv1X-cleargpt)
-- [**humorous Psychological companion**](https://chat.openai.com/g/g-aRiP0iBRV-humorous-psychological-companion)
-- [**LifeGPT**](https://chat.openai.com/g/g-ZmhS14Hnc-life-navigator)
-- [**Eat Smart: Banned/Discouraged Ingredient Finder**](https://chat.openai.com/g/g-nnmSQC9oa-eat-smart-banned-discouraged-ingredient-finder)
-- [**Zhou Gong's Dream Interpreter**](https://chat.openai.com/g/g-Gh5sl92LO-zhou-gong-s-dream-interpreter)
-- [**Dream Weaver**](https://chat.openai.com/g/g-uftKm2VYL-dream-weaver)
-- [**AIクラーク**](https://chat.openai.com/g/g-hFpbjv3hF-aikuraku)
-- [**Surgical Insight**](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight)
-- [**Diabetes Asesor**](https://chat.openai.com/g/g-DpRClnu2Z-diabetes-asesor)
-- [**Tripy the Psychedelic Companion**](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion)
-- [**春霞つくし Tsukushi Harugasumi**](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi)
-- [**CE5 Guide**](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide)
-- [**Gym Trainer**](https://chat.openai.com/g/g-sKfM8k7Nm-gym-trainer)
-- [**元気してる？**](https://chat.openai.com/g/g-GXLGsMCqt-yuan-qi-siteru)
-- [**性別カエルくん**](https://chat.openai.com/g/g-nPLhItoo1-xing-bie-kaerukun)
-- [**Jane the Storyteller: Motivation for Weight Loss**](https://chat.openai.com/g/g-mYHhAwP6j-jane-the-storyteller-motivation-for-weight-loss)
-- [**Insurance Plan Agent**](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent)
-- [**Intentions Visualizer**](https://chat.openai.com/g/g-r6zWTlEoj-intentions-visualizer)
-- [**JungMind**](https://chat.openai.com/g/g-oJgi0RyID-jungmind)
-- [**Sweet Dreams Helper**](https://chat.openai.com/g/g-HIf4tpOHx-sweet-dreams-helper)
-- [**Calorías GPT**](https://chat.openai.com/g/g-nfqWVlPU2-calorias-gpt)
-- [**GPTCrossFit**](https://chat.openai.com/g/g-zbF0y0z1E-gptcrossfit)
-- [**烹饪大师**](https://chat.openai.com/g/g-fFcXyzu51-peng-ren-da-shi)
-- [**Goggins Run Coach**](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach)
-- [**Code Medica**](https://chat.openai.com/g/g-zVSzSYcu9-code-medica)
-- [**Nutrition Pro**](https://chat.openai.com/g/g-oQPmx4jzn-nutrition-pro)
-- [**Air Fryer Chef**](https://chat.openai.com/g/g-X7lB1U6qS-air-fryer-chef)
-- [**Dream Explorer**](https://chat.openai.com/g/g-Dk4NQBeNi-dream-explorer)
-- [**Meal Planner**](https://chat.openai.com/g/g-VA2ApAENM-meal-planner)
-- [**Nutrition Insight**](https://chat.openai.com/g/g-v1bm9D38A-nutrition-insight)
-- [**VitaBot: Your Health Supplement Assistant**](https://chat.openai.com/g/g-ekH6cn1Bg-vitabot-your-health-supplement-assistant)
-- [**Go Getter**](https://chat.openai.com/g/g-ZksYdrS4a-go-getter)
-- [**Brain Analyser**](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser)
-- [**My Doctor**](https://chat.openai.com/g/g-zouSfk9IG-my-doctor)
-- [**Prayer Time Navigator**](https://chat.openai.com/g/g-znc3r6gsc-prayer-time-navigator)
-- [**Drug Wikipedia**](https://chat.openai.com/g/g-lAX0e2yaQ-drug-wikipedia)
-- [**Workout Generator GPT**](https://chat.openai.com/g/g-ygFHcIkvJ-workout-generator-gpt)
-- [**Desert Gardening AI Assistant**](https://chat.openai.com/g/g-hLH6x182X-desert-gardening-ai-assistant)
-- [**FITGPT🏋🏻‍♂️🍎**](https://chat.openai.com/g/g-wOTpbyd21-fitgpt)
-- [**Cognitive Coach**](https://chat.openai.com/g/g-Yas2WSu7S-cognitive-coach)
-- [**Punaises de Lit**](https://chat.openai.com/g/g-a10vseTJf-punaises-de-lit)
-- [**Oral Path GPT**](https://chat.openai.com/g/g-xKp0DTBHv-oral-path-gpt)
-- [**Habit Building Bot**](https://chat.openai.com/g/g-mYQoHQiVp-habit-building-bot)
-- [**看護記録要約Bot**](https://chat.openai.com/g/g-ztglLLj6r-kan-hu-ji-lu-yao-yue-bot)
-- [**ApnaDOST**](https://chat.openai.com/g/g-n9HGAnMJi-apnadost)
-- [**ハルカ - 軽いノリのコーチ**](https://chat.openai.com/g/g-yW7jECCAd-haruka-qing-inorinokoti)
-- [**SlowCarbGPT**](https://chat.openai.com/g/g-oFURpHKOF-slowcarbgpt)
-- [**Vegan Fast Food Concierge**](https://chat.openai.com/g/g-AjenCBSgc-vegan-fast-food-concierge)
-- [**Meal Mate**](https://chat.openai.com/g/g-y78pHPdBH-meal-mate)
-- [**New Parent**](https://chat.openai.com/g/g-mKgNJTzJF-new-parent)
-- [**Yoga Companion**](https://chat.openai.com/g/g-dFgTq92dA-yoga-companion)
-- [**Ayla - Your mental health buddy**](https://chat.openai.com/g/g-rXhwMWDTu-ayla-your-mental-health-buddy)
-- [**GymStreak Workout Creator**](https://chat.openai.com/g/g-TVDhLW5fm-gymstreak-workout-creator)
-- [**Nutri Chef**](https://chat.openai.com/g/g-yfGGEGfIP-nutri-chef)
-- [**Jordan Peterson - Honest Psychologist**](https://chat.openai.com/g/g-W708TXoFs-jordan-peterson-honest-psychologist)
-- [**Lean Belly**](https://chat.openai.com/g/g-fdozExg7K-lean-belly)
-- [**Intelligent PharmaComms Advisor**](https://chat.openai.com/g/g-VUnKJCK7E-intelligent-pharmacomms-advisor)
-- [**Pushup 100 Coach**](https://chat.openai.com/g/g-LepKkW8lX-pushup-100-coach)
-- [**Occupational Therapist Helper GPT**](https://chat.openai.com/g/g-o2I2qbaeq-occupational-therapist-helper-gpt)
-- [**Memetic GPT**](https://chat.openai.com/g/g-Z2sczzBfG-memetic-gpt)
-- [**Dose of Motivation**](https://chat.openai.com/g/g-rgICXiB7W-dose-of-motivation)
-- [**Motivational Speaker**](https://chat.openai.com/g/g-zWGHzuN4P-motivational-speaker)
-- [**The Dragon's Philosophy**](https://chat.openai.com/g/g-Ac2KrfYY1-the-dragon-s-philosophy)
-- [**Pep-talk Guru**](https://chat.openai.com/g/g-oUQRqcRmh-pep-talk-guru)
-- [**一个养生师**](https://chat.openai.com/g/g-wkkiVT0t5-yi-ge-yang-sheng-shi)
-- [**Gratitude GPT**](https://chat.openai.com/g/g-e1aHKwf55-gratitude-gpt)
-- [**NutriVision**](https://chat.openai.com/g/g-jdhBuS3qR-nutrivision)
-- [**カピリン**](https://chat.openai.com/g/g-vfwmTffYd-kapirin)
-- [**Daily Zen Guide**](https://chat.openai.com/g/g-7lMdSVPRZ-daily-zen-guide)
-- [**MedAssist**](https://chat.openai.com/g/g-yxWP27ArI-medassist)
-- [**MediAI Innovator**](https://chat.openai.com/g/g-wQxoVnu4y-mediai-innovator)
-- [**Sports Nutritionist**](https://chat.openai.com/g/g-jldNmczRz-sports-nutritionist)
-- [**Prepper AI**](https://chat.openai.com/g/g-CgBFPx9JA-prepper-ai)
-- [**PrettyNerd**](https://chat.openai.com/g/g-hpiBmMm0T-prettynerd)
-- [**Physician Wellness Ally**](https://chat.openai.com/g/g-wnDHGOKNw-physician-wellness-ally)
-- [**The Healthcare Innovator**](https://chat.openai.com/g/g-vtscYSw55-the-healthcare-innovator)
-- [**心理姿熊师**](https://chat.openai.com/g/g-mso8pPzYU-xin-li-zi-xiong-shi)
-- [**Consent Companion**](https://chat.openai.com/g/g-nnOTJVzQk-consent-companion)
-- [**Mindful Meditation**](https://chat.openai.com/g/g-CdzT77Cpi-mindful-meditation)
-- [**Sports Performance Analyst**](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst)
-- [**Fashion Forecast**](https://chat.openai.com/g/g-tWW96eFRG-fashion-forecast)
-- [**The Dude**](https://chat.openai.com/g/g-GaWo818H8-the-dude)
-- [**NutriSnap**](https://chat.openai.com/g/g-ms5XG08HX-nutrisnap)
-- [**Food Lab**](https://chat.openai.com/g/g-wMvQcITr2-food-lab)
-- [**Feng Shui Ba Zi**](https://chat.openai.com/g/g-bQZx1EhJl-feng-shui-ba-zi)
-- [**Bicycle Advisor & Buyer's Guide**](https://chat.openai.com/g/g-gOXbCxNVE-bicycle-advisor-buyer-s-guide)
-- [**Skiing Coach**](https://chat.openai.com/g/g-Y5tPcz0SN-skiing-coach)
-- [**The Dream Interpreter**](https://chat.openai.com/g/g-fViw7UokA-the-dream-interpreter)
-- [**SexEd**](https://chat.openai.com/g/g-leNI4I8aG-sexed)
-- [**DreamSight Illustrator & Analyst**](https://chat.openai.com/g/g-QTzC0HvsX-dreamsight-illustrator-analyst)
-- [**Heartbreak GPT**](https://chat.openai.com/g/g-FAqQG26UT-heartbreak-gpt)
-- [**Thanksgiving Cooking Helper**](https://chat.openai.com/g/g-wLSKURKXj-thanksgiving-cooking-helper)
-- [**Ski Buddy**](https://chat.openai.com/g/g-h6m7K1Atg-ski-buddy)
-- [**BuddhaGPT**](https://chat.openai.com/g/g-uIukzpVuG-buddhagpt)
-- [**Plant-Based Chef**](https://chat.openai.com/g/g-mCOIPyzAD-plant-based-chef)
-- [**Fitness Fuel**](https://chat.openai.com/g/g-g0m3xH1ai-fitness-fuel)
-- [**All In Fitness**](https://chat.openai.com/g/g-poI1jK4DL-all-in-fitness)
-- [**製薬MR/MSLボット(Pharma MR Bot)**](https://chat.openai.com/g/g-YMBWEbARm-zhi-yao-mr-mslbotuto-pharma-mr-bot)
-- [**Fitness Companion**](https://chat.openai.com/g/g-w5a4YLdM4-fitness-companion)
-- [**Tao Wisdom Guide**](https://chat.openai.com/g/g-bfOpU9bAk-tao-wisdom-guide)
-- [**Intermittent Fasting GPT**](https://chat.openai.com/g/g-qWhgYrHHN-intermittent-fasting-gpt)
-- [**Health Optimizer AI**](https://chat.openai.com/g/g-GaZfyeNbh-health-optimizer-ai)
-- [**NutriGPT**](https://chat.openai.com/g/g-H6GpjxiNi-nutrigpt)
-- [**Emergency Response Guide**](https://chat.openai.com/g/g-Ytn1HAKc4-emergency-response-guide)
-- [**Daily BeastMode Meal Planner & Fridge Scanner**](https://chat.openai.com/g/g-tWCYzI3XG-daily-beastmode-meal-planner-fridge-scanner)
-- [**7日で勇者を育成して魔王倒す**](https://chat.openai.com/g/g-u0ctHlH0f-7ri-deyong-zhe-woyu-cheng-sitemo-wang-dao-su)
-- [**Generative Tarot (via glif.app)**](https://chat.openai.com/g/g-zMjv3jxrm-generative-tarot-via-glif-app)
-- [**Sclépios I.A : Réviser QCM**](https://chat.openai.com/g/g-qhLYI2TWo-sclepios-i-a-reviser-qcm)
-- [**NextMed Health Futurist**](https://chat.openai.com/g/g-VbYOjgjlW-nextmed-health-futurist)
-- [**Self-Reflect**](https://chat.openai.com/g/g-WMskZBh5J-self-reflect)
-- [**Health Coach GPT**](https://chat.openai.com/g/g-cXCo4PZ5D-health-coach-gpt)
-- [**ORBITA-2 trial**](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial)
-- [**Gravity Guide**](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide)
-- [**Evolviva fit: Fitness GPT**](https://chat.openai.com/g/g-xS0HmQcUr-evolviva-fit-fitness-gpt)
-- [**Maslow's Insight**](https://chat.openai.com/g/g-nJzR1iPRp-maslow-s-insight)
-- [**GPeatT**](https://chat.openai.com/g/g-kdVIzrMIQ-gpeatt)
-- [**Ai Fit Coach**](https://chat.openai.com/g/g-e9o0iRDSB-ai-fit-coach)
-- [**Fit Buddy**](https://chat.openai.com/g/g-zCvpA2Q8k-fit-buddy)
-- [**Virtual Therapist**](https://chat.openai.com/g/g-e98TI1V5k-virtual-therapist)
-- [**Medic AI**](https://chat.openai.com/g/g-CosjVP1Mo-medic-ai)
-- [**Calorie Companion**](https://chat.openai.com/g/g-q1OHQ0i3x-calorie-companion)
-- [**Recovery Sage**](https://chat.openai.com/g/g-y2afOyuCd-recovery-sage)
-- [**MediBot**](https://chat.openai.com/g/g-xeccMlOx9-medibot)
-- [**FitnessTrainer GPT**](https://chat.openai.com/g/g-qJhtmhgTw-fitnesstrainer-gpt)
-- [**Mindful Mate**](https://chat.openai.com/g/g-ReuWDDxmN-mindful-mate)
-- [**MM Fear and Anger**](https://chat.openai.com/g/g-lo86tER1o-mm-fear-and-anger)
-- [**Figgo**](https://chat.openai.com/g/g-vTackjj1F-figgo)
-- [**Stoic Mentors**](https://chat.openai.com/g/g-lDf6RwARw-stoic-mentors)
-- [**Daily BeastMode Coach**](https://chat.openai.com/g/g-peIOeXFuU-daily-beastmode-coach)
-- [**TonyPerks**](https://chat.openai.com/g/g-lJdXqUFpc-tonyperks)
-- [**FeminaCare AI**](https://chat.openai.com/g/g-mYqr9rQX4-feminacare-ai)
-- [**Emotional Well-being Coach**](https://chat.openai.com/g/g-nYGkHBoCo-emotional-well-being-coach)
-- [**皮肤医生**](https://chat.openai.com/g/g-o31ig2RQy-pi-fu-yi-sheng)
-- [**呼吸内科专家**](https://chat.openai.com/g/g-iyuAUCyH9-hu-xi-nei-ke-zhuan-jia)
-- [**Dr. Therabot**](https://chat.openai.com/g/g-kU4MMKrkP-dr-therabot)
-- [**Mindful Companion**](https://chat.openai.com/g/g-Xk6am5MS0-mindful-companion)
-- [**Internal Family Systems Therapist**](https://chat.openai.com/g/g-2MzE63QKd-internal-family-systems-therapist)
-- [**The Psychologist**](https://chat.openai.com/g/g-89ansFUon-the-psychologist)
-- [**Pet Pal**](https://chat.openai.com/g/g-rMjsCA7Yf-pet-pal)
-- [**Dr. Nutritionist**](https://chat.openai.com/g/g-BfsGer8XB-dr-nutritionist)
-- [**Palm Insight Master**](https://chat.openai.com/g/g-VvzuIDDF5-palm-insight-master)
-- [**God Loves You**](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you)
-- [**Insomnia Helper v1.1**](https://chat.openai.com/g/g-qdcbFutPZ-insomnia-helper-v1-1)
-- [**MedSplorer**](https://chat.openai.com/g/g-ddG4D4BVN-medsplorer)
-- [**Calm Consultant - Health Anxiety Helper**](https://chat.openai.com/g/g-YkRoTvaak-calm-consultant-health-anxiety-helper)
-- [**Reflective Journal**](https://chat.openai.com/g/g-uzfC7PWDB-reflective-journal)
-- [**AI Yoga**](https://chat.openai.com/g/g-liG16vYn6-ai-yoga)
-- [**SeeFood - Scan your food**](https://chat.openai.com/g/g-bSy3G7cH7-seefood-scan-your-food)
-- [**Appeal Assistant**](https://chat.openai.com/g/g-oLPRNBrpG-appeal-assistant)
-- [**German Medico Linguist**](https://chat.openai.com/g/g-lXCxMSi3U-german-medico-linguist)
-- [**Bright Side Buddy**](https://chat.openai.com/g/g-gEfoVUp3s-bright-side-buddy)
-- [**Sally**](https://chat.openai.com/g/g-vYECxt5uU-sally)
-- [**IBS Expert**](https://chat.openai.com/g/g-CM68a6GA2-ibs-expert)
-- [**Personal Fitness Trainer**](https://chat.openai.com/g/g-uN7u1IpMH-personal-fitness-trainer)
-- [**מסרים חיובים**](https://chat.openai.com/g/g-wNqv0KmKp-msrym-khyvbym)
-- [**Anxiety Coach ❤️‍🔥**](https://chat.openai.com/g/g-DFVXMwXTh-anxiety-coach)
-- [**Healthy Habits Helper**](https://chat.openai.com/g/g-k9OSYXtaj-healthy-habits-helper)
-- [**Medical Expert**](https://chat.openai.com/g/g-zu1xDEpVB-medical-expert)
-- [**NutriCompass**](https://chat.openai.com/g/g-CStKFN3pu-nutricompass)
-- [**MBTI Maven**](https://chat.openai.com/g/g-ikan5fWKD-mbti-maven)
-- [**Esteem Builder GPT**](https://chat.openai.com/g/g-vf5HKKKLP-esteem-builder-gpt)
-- [**HealthBot GPT**](https://chat.openai.com/g/g-g42xJ4A0f-healthbot-gpt)
-- [**Calorie Coach**](https://chat.openai.com/g/g-yDvZ8ZdgF-calorie-coach)
-- [**Savvy**](https://chat.openai.com/g/g-m9UNXcxPE-savvy)
-- [**Nutritional Economics Guide**](https://chat.openai.com/g/g-xXfom8l66-nutritional-economics-guide)
-- [**Morgan Meadows**](https://chat.openai.com/g/g-iZwXcdaLy-morgan-meadows)
-- [**Run Coach Pro**](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro)
-- [**Empathia**](https://chat.openai.com/g/g-VBHrDf4Dk-empathia)
-- [**TherapyGPT**](https://chat.openai.com/g/g-qMqeEG8Or-therapygpt)
-- [**バイオリズム診断**](https://chat.openai.com/g/g-gEAsRFH3o-baiorizumuzhen-duan)
-- [**Bed Bug Beacon**](https://chat.openai.com/g/g-tTNy7vznq-bed-bug-beacon)
-- [**Chat Phil**](https://chat.openai.com/g/g-GfK2aUuIw-chat-phil)
-- [**NurseTron**](https://chat.openai.com/g/g-ldahxcVT7-nursetron)
-- [**歯の先生**](https://chat.openai.com/g/g-e0JubcneM-chi-noxian-sheng)
-- [**Lumina**](https://chat.openai.com/g/g-ZtqCvA56g-lumina)
-- [**The Inspiring Psychologist**](https://chat.openai.com/g/g-om29Liz7Q-the-inspiring-psychologist)
-- [**Drill Sergeant**](https://chat.openai.com/g/g-odXFQET4A-drill-sergeant)
-- [**CareGPT**](https://chat.openai.com/g/g-kRyXrRGpZ-caregpt)
-- [**Gray's Anatomy**](https://chat.openai.com/g/g-a81M2W1av-gray-s-anatomy)
-- [**Green Gourmet**](https://chat.openai.com/g/g-DjuJqSWPz-green-gourmet)
-- [**AIMedGPT**](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt)
-- [**Sclépios I.A : Cas Complexe**](https://chat.openai.com/g/g-Hq83kAslh-sclepios-i-a-cas-complexe)
-- [**When Will I Die?**](https://chat.openai.com/g/g-zEbPL2gn8-when-will-i-die)
-- [**禅の導き**](https://chat.openai.com/g/g-ZyjXW0Og7-shan-nodao-ki)
-- [**The Power of Scent**](https://chat.openai.com/g/g-iAn8h40Pt-the-power-of-scent)
-- [**Rad-eponym**](https://chat.openai.com/g/g-GtcoLUHOF-rad-eponym)
-- [**NutriScan**](https://chat.openai.com/g/g-wN05jegUf-nutriscan)
-- [**Huberman Health Helper**](https://chat.openai.com/g/g-DJ5xshz11-huberman-health-helper)
-- [**FitBot**](https://chat.openai.com/g/g-GLpf7DD9R-fitbot)
-- [**A Friend**](https://chat.openai.com/g/g-keheRh9kP-a-friend)
-- [**Health Doctor**](https://chat.openai.com/g/g-sbqSq7FOD-health-doctor)
-- [**Muscle Mentor**](https://chat.openai.com/g/g-HYgrAS4Df-muscle-mentor)
-- [**GodGPT**](https://chat.openai.com/g/g-vVwORm1oW-godgpt)
-- [**Doggi Doctor**](https://chat.openai.com/g/g-wcEycjs2A-doggi-doctor)
-- [**Marathon Coach**](https://chat.openai.com/g/g-nfriJSBi2-marathon-coach)
-- [**Sclépios I.A : CIM10**](https://chat.openai.com/g/g-t7RWV31tP-sclepios-i-a-cim10)
-- [**AI Therapist**](https://chat.openai.com/g/g-VhD6SjZr6-ai-therapist)
-- [**MBTI Explorer**](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer)
-- [**Outliers AI**](https://chat.openai.com/g/g-oNq5TZ2zH-outliers-ai)
-- [**ENTOPIAN**](https://chat.openai.com/g/g-ZvfVeqoqn-entopian)
-- [**Myaithlete**](https://chat.openai.com/g/g-WXz8HcDlP-myaithlete)
-- [**Good Morning Spark**](https://chat.openai.com/g/g-i5synAdiZ-good-morning-spark)
-- [**肯定感爆上げ親方**](https://chat.openai.com/g/g-oKHPWvU9H-ken-ding-gan-bao-shang-geqin-fang)
-- [**MVME**](https://chat.openai.com/g/g-XnGn2OwgF-mvme)
-- [**教えて！カロリーちゃん**](https://chat.openai.com/g/g-YPbg6iEIW-jiao-ete-karoritiyan)
-- [**KSLAbadominton ALL analyst**](https://chat.openai.com/g/g-zbYLn537n-kslabadominton-all-analyst)
-- [**MediConsult DX**](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx)
-- [**Dr. Prognosis**](https://chat.openai.com/g/g-mzxZYvugi-dr-prognosis)
-- [**Nutra-Me-Mi**](https://chat.openai.com/g/g-sNkGFSg5A-nutra-me-mi)
-- [**Nurse Bot**](https://chat.openai.com/g/g-iWrtiv7E9-nurse-bot)
-- [**CarotidGPT**](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt)
-- [**Journey**](https://chat.openai.com/g/g-oVd9hl1FM-journey)
-- [**MSボット（仮）**](https://chat.openai.com/g/g-j8EfwgigP-msbotuto-jia)
-- [**Bean Buddy**](https://chat.openai.com/g/g-VP6vdHdhs-bean-buddy)
-- [**Daily Affirmations GPT**](https://chat.openai.com/g/g-CGl60nbTB-daily-affirmations-gpt)
-- [**Nightlight Buddy**](https://chat.openai.com/g/g-HsKlZvqOa-nightlight-buddy)
-- [**TrainWtihCBUM**](https://chat.openai.com/g/g-obld0cpfF-trainwtihcbum)
-- [**Coach Perfect**](https://chat.openai.com/g/g-uNfb30bWC-coach-perfect)
-- [**TherapistGPT**](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt)
-- [**Health Companion**](https://chat.openai.com/g/g-uszzA1F7v-health-companion)
-- [**Lector de recetas médicas**](https://chat.openai.com/g/g-suobEyu2i-lector-de-recetas-medicas)
-- [**Radiology Report Assistant**](https://chat.openai.com/g/g-pxPwcQzIG-radiology-report-assistant)
-- [**疗愈写作大师**](https://chat.openai.com/g/g-p09rhoCKy-liao-yu-xie-zuo-da-shi)
-- [**Sclépios I.A : Réviser Cas Clinique**](https://chat.openai.com/g/g-XsgKmgRHh-sclepios-i-a-reviser-cas-clinique)
-- [**Face Reader**](https://chat.openai.com/g/g-eHWW9IrHC-face-reader)
-- [**PharmacistGPT**](https://chat.openai.com/g/g-GjSaSZ1eW-pharmacistgpt)
-- [**IFS Chat**](https://chat.openai.com/g/g-HDXRaiOI3-ifs-chat)
-- [**Jungian Dream Weaver**](https://chat.openai.com/g/g-YsDGG8bRy-jungian-dream-weaver)
-- [**Personal Trainer with Common Sense**](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense)
-- [**Shadow**](https://chat.openai.com/g/g-ovhEbrmEk-shadow)
-- [**Reverse Recipe and Calorie Counter**](https://chat.openai.com/g/g-kbA1jNINQ-reverse-recipe-and-calorie-counter)
-- [**ボディメイクトレーナーさん**](https://chat.openai.com/g/g-H49F5yaVq-bodeimeikutorenasan)
-- [**Sunny Vibes**](https://chat.openai.com/g/g-YIIlsijF3-sunny-vibes)
-- [**JK Coach**](https://chat.openai.com/g/g-Faxk5ZY4h-jk-coach)
-- [**Inspiro Coach**](https://chat.openai.com/g/g-vLi1g6O2e-inspiro-coach)
-- [**Presente Presenta**](https://chat.openai.com/g/g-xixIKuPlG-presente-presenta)
-- [**Nisargadatta Sage**](https://chat.openai.com/g/g-j4ZaRVJ0w-nisargadatta-sage)
-- [**Huberman Lab GPT**](https://chat.openai.com/g/g-ihFMdaVLM-huberman-lab-gpt)
-- [**梦境导师**](https://chat.openai.com/g/g-FwATS2iNS-meng-jing-dao-shi)
-- [**Health Buddy**](https://chat.openai.com/g/g-Z6MWk7PT9-health-buddy)
-- [**Nutri Snap**](https://chat.openai.com/g/g-YnVklwdRC-nutri-snap)
-- [**Dr Eliezer**](https://chat.openai.com/g/g-j5G0Ak7bZ-dr-eliezer)
-- [**Baby & Me: For Dads**](https://chat.openai.com/g/g-tjhHGI7JV-baby-me-for-dads)
-- [**Peatarian Health Bot**](https://chat.openai.com/g/g-ifQn8AvOF-peatarian-health-bot)
-- [**Sclépios I.A : Prise en charge**](https://chat.openai.com/g/g-reCItnUJc-sclepios-i-a-prise-en-charge)
-- [**Art of Living AI Companion**](https://chat.openai.com/g/g-TlU8AzZKg-art-of-living-ai-companion)
-- [**Food Analyzer**](https://chat.openai.com/g/g-a6gcdmXYA-food-analyzer)
-- [**Fitness Coach**](https://chat.openai.com/g/g-yFf5ICJXU-fitness-coach)
-- [**Amica**](https://chat.openai.com/g/g-ntolfJalJ-amica)
-- [**Lab Doctor**](https://chat.openai.com/g/g-zCpjZCGTM-lab-doctor)
-- [**Money Saver**](https://chat.openai.com/g/g-ps5sUF4bR-money-saver)
-- [**Hair Loss Assessment**](https://chat.openai.com/g/g-TDriaXpe4-hair-loss-assessment)
-- [**ダイエットチアリーダー**](https://chat.openai.com/g/g-oL2UswvAb-daietutotiarida)
-- [**Vet Assistant**](https://chat.openai.com/g/g-ZR0aH16CQ-vet-assistant)
-- [**CarnivoreGPT**](https://chat.openai.com/g/g-oY551ddGH-carnivoregpt)
-- [**DAD**](https://chat.openai.com/g/g-7tYB6K5F8-dad)
-- [**Wisdom from Bhagavad Gita**](https://chat.openai.com/g/g-wdYWkOVD5-wisdom-from-bhagavad-gita)
-- [**AI Tarot（AIタロット占い師）**](https://chat.openai.com/g/g-j1PTT2uEl-ai-tarot-aitarotutozhan-ishi)
-- [**Calorie Quizzer**](https://chat.openai.com/g/g-bVqRLy2NN-calorie-quizzer)
-- [**十日町病院初期研修Bot**](https://chat.openai.com/g/g-PaWQiW1Wb-shi-ri-ting-bing-yuan-chu-qi-yan-xiu-bot)
-- [**Arcana Insight**](https://chat.openai.com/g/g-hH8nspZES-arcana-insight)
-- [**JimGPT**](https://chat.openai.com/g/g-QQW3y45j7-jimgpt)
-- [**Dr. GPT**](https://chat.openai.com/g/g-N3pu1tPRU-dr-gpt)
-- [**Smart Calories**](https://chat.openai.com/g/g-c1Td5YGgP-smart-calories)
-- [**Mind Coach**](https://chat.openai.com/g/g-DkkWbaZ13-mind-coach)
-- [**僕はてつちゃん**](https://chat.openai.com/g/g-OO57BYpK4-pu-hatetutiyan)
-- [**MetabolismBoosterGPT**](https://chat.openai.com/g/g-FOawqrxih-metabolismboostergpt)
-- [**Advanced Fitness & Nutrition Coach**](https://chat.openai.com/g/g-VDdPK4o4m-advanced-fitness-nutrition-coach)
-- [**SilverTalk**](https://chat.openai.com/g/g-V45XAFpbC-silvertalk)
-- [**Plant Expert**](https://chat.openai.com/g/g-AdBddBiGI-plant-expert)
-- [**ストレングスコーチ見習いのアキラ**](https://chat.openai.com/g/g-AQzwvgDHU-sutorengusukotijian-xi-inoakira)
-- [**Caloria**](https://chat.openai.com/g/g-ds9ESsMIV-caloria)
-- [**MediGuru**](https://chat.openai.com/g/g-sBagPmqWw-mediguru)
-- [**Healthy Chef**](https://chat.openai.com/g/g-OdwKeQjDm-healthy-chef)
-- [**GuruGPT**](https://chat.openai.com/g/g-EpfwCdeHF-gurugpt)
-- [**MejorCadaDía**](https://chat.openai.com/g/g-ErI7MAL6W-mejorcadadia)
-- [**Psychonaut-GPT**](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt)
-- [**Ai Coach - Meal Master**](https://chat.openai.com/g/g-sOaYUID7l-ai-coach-meal-master)
-- [**Veterans Affairs Guide**](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide)
-- [**Before you go to hospital**](https://chat.openai.com/g/g-Sez3KIsqc-before-you-go-to-hospital)
-- [**肯定くん**](https://chat.openai.com/g/g-hTK5zejqU-ken-ding-kun)
-- [**Wing Chun Mastery**](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery)
-- [**Veteran Claims Assistant**](https://chat.openai.com/g/g-QRZAZnJRm-veteran-claims-assistant)
-- [**Asistente Dental FAQ**](https://chat.openai.com/g/g-oBfc4da17-asistente-dental-faq)
-- [**Life Coach Lighthouse**](https://chat.openai.com/g/g-Nli2X7m0r-life-coach-lighthouse)
-- [**Doc**](https://chat.openai.com/g/g-dyBOH0UvO-doc)
-- [**Psychoanalyst**](https://chat.openai.com/g/g-G9INzOvnq-psychoanalyst)
-- [**ILLUMIBOT**](https://chat.openai.com/g/g-NvqFVFefa-illumibot)
-- [**Connected Wisdom**](https://chat.openai.com/g/g-TBdV7iOA8-connected-wisdom)
-- [**Unburden.ai**](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai)
-- [**Psyche Navigator**](https://chat.openai.com/g/g-sE8Ko5Us2-psyche-navigator)
-- [**Fit Buddy By Merlin**](https://chat.openai.com/g/g-Wk7tGOGM3-fit-buddy-by-merlin)
-- [**Chef Buddy**](https://chat.openai.com/g/g-hPf8LMkfC-chef-buddy)
-- [**HealthyGamer GPT**](https://chat.openai.com/g/g-sN4ZIIcFy-healthygamer-gpt)
-- [**Gratitude Muse**](https://chat.openai.com/g/g-FKJjgaa7o-gratitude-muse)
-- [**What's in the Fridge**](https://chat.openai.com/g/g-FYGU65Dvx-what-s-in-the-fridge)
-- [**Recovery Counselor (You Can Stay Clean!)**](https://chat.openai.com/g/g-enIzxmxXK-recovery-counselor-you-can-stay-clean)
-- [**Running Habit Architect**](https://chat.openai.com/g/g-sW2LON6dg-running-habit-architect)
-- [**MindFit Mentor**](https://chat.openai.com/g/g-PQN89Owiz-mindfit-mentor)
-- [**障害福祉おまかせ君**](https://chat.openai.com/g/g-MkdIxtcuC-zhang-hai-fu-zhi-omakasejun)
-- [**HPV and Cancer**](https://chat.openai.com/g/g-R8njbI95T-hpv-and-cancer)
-- [**myMBTI.ai**](https://chat.openai.com/g/g-EcRYSKjMd-mymbti-ai)
-- [**Psychotherapy Simulator**](https://chat.openai.com/g/g-FEP8TzalR-psychotherapy-simulator)
-- [**Natural Supplement Finder**](https://chat.openai.com/g/g-S0tpVIexX-natural-supplement-finder)
-- [**Duncan Idaho life coach**](https://chat.openai.com/g/g-RFLByURiU-duncan-idaho-life-coach)
-- [**Medical English News Teacher**](https://chat.openai.com/g/g-WzIt4xeBM-medical-english-news-teacher)
-- [**Pickle Thumb**](https://chat.openai.com/g/g-gOsseinBw-pickle-thumb)
-- [**Smile Amane Spark**](https://chat.openai.com/g/g-PdEqORzjV-smile-amane-spark)
-- [**Robo-therapist**](https://chat.openai.com/g/g-VD7CJceXX-robo-therapist)
-- [**Gluten-Free Guru**](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru)
-- [**Kettle Bell Builder**](https://chat.openai.com/g/g-FPmtSilND-kettle-bell-builder)
-- [**GPT-SubMissionCoach**](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach)
-- [**AgaveLand**](https://chat.openai.com/g/g-bY0FDFPYN-agaveland)
-- [**Health Helper**](https://chat.openai.com/g/g-TmwUxQ3FD-health-helper)
-- [**AquaAirAI**](https://chat.openai.com/g/g-Lqz4ckniy-aquaairai)
-- [**応用行動分析の質問はこちら**](https://chat.openai.com/g/g-FJtFb3nQ6-ying-yong-xing-dong-fen-xi-nozhi-wen-hakotira)
-- [**Mindful Listener**](https://chat.openai.com/g/g-Ahqwx56h6-mindful-listener)
-- [**Meditation GPT**](https://chat.openai.com/g/g-M2PpfyzUg-meditation-gpt)
-- [**ペイシェントクレーマー対応コーチング**](https://chat.openai.com/g/g-OGSYsgbhj-peisientokuremadui-ying-kotingu)
-- [**Muscle Mind**](https://chat.openai.com/g/g-CU0YY5Tip-muscle-mind)
-- [**Scoliosis Guidefriend**](https://chat.openai.com/g/g-5NTg60Fk8-scoliosis-guidefriend)
-- [**SOS Mal de Dos**](https://chat.openai.com/g/g-NEbRXt8u4-sos-mal-de-dos)
-- [**TherapyAI**](https://chat.openai.com/g/g-8yHB0UD8j-therapyai)
-- [**GPTダイエットプランナー**](https://chat.openai.com/g/g-CCSYP4wdJ-gptdaietutopuranna)
-- [**Holistic Guide**](https://chat.openai.com/g/g-8P5zBkDcC-holistic-guide)
-- [**Coach SchwarzeneggerGPT**](https://chat.openai.com/g/g-8nW8bXEJn-coach-schwarzeneggergpt)
-- [**Critical Cycling GPT**](https://chat.openai.com/g/g-L2LnsPIwt-critical-cycling-gpt)
-- [**Accountability Buddy**](https://chat.openai.com/g/g-KQsV9GTmV-accountability-buddy)
-- [**バーチャル精神科医**](https://chat.openai.com/g/g-jGVudCUzg-batiyarujing-shen-ke-yi)
-- [**三国志華佗伝**](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan)
-- [**Law of Attraction Guide**](https://chat.openai.com/g/g-6vQnET16L-law-of-attraction-guide)
-- [**Your Best Friend Forever**](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forever)
-- [**fedichevGPT**](https://chat.openai.com/g/g-Ow1r5xWqJ-fedichevgpt)
-- [**MasterYourMindset**](https://chat.openai.com/g/g-gVYbGQEWS-masteryourmindset)
-- [**MCAT Organic Chemistry**](https://chat.openai.com/g/g-OsGX8iVdq-mcat-organic-chemistry)
-- [**VEG3**](https://chat.openai.com/g/g-9MoGfucEe-veg3)
-- [**Golf Coach**](https://chat.openai.com/g/g-Ds8hTVqcD-golf-coach)
-- [**Workout Builder**](https://chat.openai.com/g/g-OvZApy32I-workout-builder)
-- [**Psychologist GPT**](https://chat.openai.com/g/g-kDhOT9SSD-psychologist-gpt)
-- [**The Love Counsellor**](https://chat.openai.com/g/g-RyE9XQagq-the-love-counsellor)
-- [**DalaiGPT**](https://chat.openai.com/g/g-5u4zzagAP-dalaigpt)
-- [**Reframe-CBT**](https://chat.openai.com/g/g-80dWpb7jE-reframe-cbt)
-- [**医療広告ガイドラインについて答えてくれるAI**](https://chat.openai.com/g/g-NYIKWcaP3-yi-liao-guang-gao-gaidorainnituiteda-etekureruai)
-- [**Hiking Coach**](https://chat.openai.com/g/g-6qljgeOMb-hiking-coach)
-- [**感覚統合の質問はこちら**](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira)
-- [**Fit Forge Coach**](https://chat.openai.com/g/g-530eDA04W-fit-forge-coach)
-- [**ChefBot GPT**](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gpt)
-- [**精神科医益田裕介（試作1.00）**](https://chat.openai.com/g/g-F3vsvlW7J-jing-shen-ke-yi-yi-tian-yu-jie-shi-zuo-1-00)
-- [**Precision Therapy**](https://chat.openai.com/g/g-5pfwc3yhG-precision-therapy)
-- [**Quick Veggie Chef**](https://chat.openai.com/g/g-55BCvlL4R-quick-veggie-chef)
-- [**Spirit Animal Discovery**](https://chat.openai.com/g/g-SzyUxYvgf-spirit-animal-discovery)
-- [**DoctorGPT**](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt)
-- [**Botanicus GPT**](https://chat.openai.com/g/g-MW84PLKEw-botanicus-gpt)
-- [**Ai Coach - Workout Builder**](https://chat.openai.com/g/g-MFggyymJ3-ai-coach-workout-builder)
-- [**Psychology Insight Assistant**](https://chat.openai.com/g/g-MQq2rJZD1-psychology-insight-assistant)
-- [**Nutricia**](https://chat.openai.com/g/g-25JjEj22m-nutricia)
-- [**Fit Coach**](https://chat.openai.com/g/g-F9PeWYE2O-fit-coach)
-- [**Molli AI 🌱 Permaculture GPT**](https://chat.openai.com/g/g-WU9stnkN6-molli-ai-permaculture-gpt)
-- [**青云 - 冥想大师**](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi)
-- [**MediMentor**](https://chat.openai.com/g/g-UbC10Yl9f-medimentor)
-- [**情绪疗愈助手**](https://chat.openai.com/g/g-7VXJmFb9V-qing-xu-liao-yu-zhu-shou)
-- [**Kaloria**](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria)
-- [**Meal Mentor**](https://chat.openai.com/g/g-XrfbpH4dJ-meal-mentor)
-- [**Meals planner (JP)**](https://chat.openai.com/g/g-Mx5HEveIZ-meals-planner-jp)
-- [**Fitness Bullsh*t Detector**](https://chat.openai.com/g/g-LqolPyHnd-fitness-bullsh-t-detector)
-- [**Dating Master**](https://chat.openai.com/g/g-KXSr8gEau-dating-master)
-- [**Coach**](https://chat.openai.com/g/g-RYImykr3O-coach)
-- [**One atmosphere**](https://chat.openai.com/g/g-KgIdCcYGj-one-atmosphere)
-- [**Don't Like the Drugs But the Drugs Like Me**](https://chat.openai.com/g/g-L7FP5gYDy-don-t-like-the-drugs-but-the-drugs-like-me)
-- [**Arnie - The Never Quit Coach**](https://chat.openai.com/g/g-PdlPSGNnj-arnie-the-never-quit-coach)
-- [**Mind Guardian**](https://chat.openai.com/g/g-JwWmVQAlA-mind-guardian)
-- [**CrossFit Assistant**](https://chat.openai.com/g/g-bhOAOdOqg-crossfit-assistant)
-- [**Stress Buddy**](https://chat.openai.com/g/g-D3XUY1SHE-stress-buddy)
-- [**The Shaman**](https://chat.openai.com/g/g-Klhv0H49u-the-shaman)
-- [**Back Pain AI**](https://chat.openai.com/g/g-N4KUPUUox-back-pain-ai)
-- [**Personal Psychologist**](https://chat.openai.com/g/g-yAu2fcuN7-personal-psychologist)
-- [**The Family Nest Guide**](https://chat.openai.com/g/g-Pn9NUBacv-the-family-nest-guide)
-- [**Life Weaver**](https://chat.openai.com/g/g-JYgpaFJxD-life-weaver)
-- [**Neurodiversity Navigator**](https://chat.openai.com/g/g-T5Evmg1WG-neurodiversity-navigator)
-- [**医療介護経営Bot**](https://chat.openai.com/g/g-QLErv8Yw8-yi-liao-jie-hu-jing-ying-bot)
-- [**Voice of HubermanLab**](https://chat.openai.com/g/g-5TMG0Lqv4-voice-of-hubermanlab)
-- [**Supplement Service**](https://chat.openai.com/g/g-6mAmNGQof-supplement-service)
-- [**Dr. Clearskin**](https://chat.openai.com/g/g-ucGfKts6Z-dr-clearskin)
-- [**筋トレで全ての問題が解決するボット**](https://chat.openai.com/g/g-DAYgvxCLD-jin-toredequan-tenowen-ti-gajie-jue-surubotuto)
-- [**80/20 GPT**](https://chat.openai.com/g/g-dZo5WeFzM-80-20-gpt)
-- [**Nukkumatti**](https://chat.openai.com/g/g-SZAqODJo2-nukkumatti)
-- [**Doctor GPT**](https://chat.openai.com/g/g-EiuGnRrIt-doctor-gpt)
-- [**AI doctor（AI医生）**](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng)
-- [**NoFap Companion**](https://chat.openai.com/g/g-47phme2pR-nofap-companion)
-- [**Vegan Richa Recipes**](https://chat.openai.com/g/g-EO5rpE43P-vegan-richa-recipes)
-- [**Happy Someone**](https://chat.openai.com/g/g-EkoswQLSs-happy-someone)
-- [**Stoic Compass**](https://chat.openai.com/g/g-9WaDDUkeG-stoic-compass)
-- [**GreenDial**](https://chat.openai.com/g/g-8lfObd3La-greendial)
-- [**safespace**](https://chat.openai.com/g/g-EaHx36saG-safespace)
-- [**Plant Doctor**](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor)
-- [**RecipeQuest**](https://chat.openai.com/g/g-EYdCOnBn3-recipequest)
-- [**MyNutrition.Pal**](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal)
-- [**@loopmaatjes "Vraag maar raak!"**](https://chat.openai.com/g/g-JIKcMEfEY-loopmaatjes-vraag-maar-raak)
-- [**Parenting Pal**](https://chat.openai.com/g/g-IxUSSAYRs-parenting-pal)
-- [**学校心臓健診ガイドライン2016**](https://chat.openai.com/g/g-i2gb1XUw8-xue-xiao-xin-zang-jian-zhen-gaidorain2016)
-- [**The Eye Vet Writer**](https://chat.openai.com/g/g-JEL1a8HsV-the-eye-vet-writer)
-- [**SerenAIty Coach**](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach)
-- [**Parenting Partner**](https://chat.openai.com/g/g-T9suymdhm-parenting-partner)
-- [**Easy PFC Calculation from Recipes**](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes)
-- [**Residency Interview Coach**](https://chat.openai.com/g/g-PLl0NxHjS-residency-interview-coach)
-- [**dalAI Lama - Neuroscience Meditation**](https://chat.openai.com/g/g-JlVkpCA1Y-dalai-lama-neuroscience-meditation)
-- [**Gym Guru Bro**](https://chat.openai.com/g/g-4hwSVrB9H-gym-guru-bro)
-- [**GPT4MR**](https://chat.openai.com/g/g-QXjQ7U1xj-gpt4mr)
-- [**MeditationGPT**](https://chat.openai.com/g/g-QSDqPOLbw-meditationgpt)
-- [**AI夢博士**](https://chat.openai.com/g/g-EmavjbJvJ-aimeng-bo-shi)
-- [**Biophilia Sage**](https://chat.openai.com/g/g-SZ3fAXQi4-biophilia-sage)
-- [**NutriGourmet Assistant**](https://chat.openai.com/g/g-8RUF16wrb-nutrigourmet-assistant)
-- [**Jasper The Gratitude Buddy**](https://chat.openai.com/g/g-JW4IX6gm6-jasper-the-gratitude-buddy)
-- [**Vegan Chef Bot**](https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-bot)
-- [**Answer anything about SELECT trial**](https://chat.openai.com/g/g-8JyO4pEIT-answer-anything-about-select-trial)
-- [**Tarot Oracle**](https://chat.openai.com/g/g-3RVKSQOxf-tarot-oracle)
-- [**Kung Fu Sage**](https://chat.openai.com/g/g-1S0X1Ljd5-kung-fu-sage)
-- [**Dr Comfort**](https://chat.openai.com/g/g-ESBmeJgpW-dr-comfort)
-- [**Green Breathe**](https://chat.openai.com/g/g-8hGmMqNk9-green-breathe)
-- [**Metabolic & Aging Optimizer**](https://chat.openai.com/g/g-592UeAJTy-metabolic-aging-optimizer)
-- [**Immunology Mentor**](https://chat.openai.com/g/g-2ZrrNVdbK-immunology-mentor)
-- [**Ultra-Processed Analyzer**](https://chat.openai.com/g/g-WITwgvZGu-ultra-processed-analyzer)
-- [**GlucoseGPT**](https://chat.openai.com/g/g-Mfxi5zSdH-glucosegpt)
-- [**Banana Freshness Score**](https://chat.openai.com/g/g-EPYL85rQ0-banana-freshness-score)
-- [**GPT MD**](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md)
-- [**Quote Companion**](https://chat.openai.com/g/g-efFP1CZ52-quote-companion)
-- [**SCLC Atlas**](https://chat.openai.com/g/g-LAmtOmu0b-sclc-atlas)
-- [**AquaCheck**](https://chat.openai.com/g/g-JRNLeQsRt-aquacheck)
-- [**Awakening with VervAIeke**](https://chat.openai.com/g/g-NNErJX3ls-awakening-with-vervaieke)
-- [**Wellness Wizard**](https://chat.openai.com/g/g-JmkGEp2D6-wellness-wizard)
-- [**GIGPT**](https://chat.openai.com/g/g-P86cyUFns-gigpt)
-- [**Snack Guardian**](https://chat.openai.com/g/g-Itgr7xFm5-snack-guardian)
-- [**农药助手**](https://chat.openai.com/g/g-8xIJzjwgS-nong-yao-zhu-shou)
-- [**とりあえず筋トレしろ**](https://chat.openai.com/g/g-MquoxXiEi-toriaezujin-toresiro)
-- [**Survival Savvy**](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy)
-- [**Workout Planner**](https://chat.openai.com/g/g-Nt8U2L3Kh-workout-planner)
-- [**Dachshund Vet Expert**](https://chat.openai.com/g/g-3sTypIMzd-dachshund-vet-expert)
-- [**Clear Guru**](https://chat.openai.com/g/g-1XkeMPNbl-clear-guru)
-- [**PocketTherapist**](https://chat.openai.com/g/g-6FZHBXARd-pockettherapist)
-- [**주치의**](https://chat.openai.com/g/g-68tXn2Zv0-juciyi)
-- [**HARC (Mental Health Listening Service)**](https://chat.openai.com/g/g-mOitSHvzD-harc-mental-health-listening-service)
-- [**Mindbreak**](https://chat.openai.com/g/g-hIeoyyPQa-mindbreak)
-- [**Career Coach GPT**](https://chat.openai.com/g/g-BHsZZWJlz-career-coach-gpt)
-- [**情绪管理教练**](https://chat.openai.com/g/g-6HOzjgUPf-qing-xu-guan-li-jiao-lian)
-- [**A Better You**](https://chat.openai.com/g/g-OWYF0hqHV-a-better-you)
-- [**Vascular Second Opinion**](https://chat.openai.com/g/g-9bS0ygPuf-vascular-second-opinion)
-- [**Rate My ADHD**](https://chat.openai.com/g/g-9hWSlbCeD-rate-my-adhd)
-- [**مدرب اللياقة**](https://chat.openai.com/g/g-TZxkb66AV-mdrb-llyq)
-- [**TTGPT**](https://chat.openai.com/g/g-NQsHlA3Zk-ttgpt)
-- [**SportGPT**](https://chat.openai.com/g/g-2qA6Tgh9O-sportgpt)
-- [**Veteran's Guide**](https://chat.openai.com/g/g-6hXIBkO5g-veteran-s-guide)
-- [**SAFE SPACE**](https://chat.openai.com/g/g-2hl74MNLa-safe-space)
-- [**トンデモ専門歯医者AI**](https://chat.openai.com/g/g-RsgO2Pqbq-tondemozhuan-men-chi-yi-zhe-ai)
-- [**Decision Architect**](https://chat.openai.com/g/g-6B7uUrtzP-decision-architect)
-- [**Freudian Dream Interpreter**](https://chat.openai.com/g/g-2315WR5Tm-freudian-dream-interpreter)
-- [**Serenity Guide**](https://chat.openai.com/g/g-3S0ZNtwms-serenity-guide)
-- [**Buddhabits**](https://chat.openai.com/g/g-BBdn7E9qv-buddhabits)
-- [**Ask to Dal-Ai Llama**](https://chat.openai.com/g/g-wH7sGuLch-ask-to-dal-ai-llama)
-- [**Compléments alimentaires**](https://chat.openai.com/g/g-5f81d7iZ9-complements-alimentaires)
-- [**ADHD Coach**](https://chat.openai.com/g/g-4T9mgYfXO-adhd-coach)
-- [**AI塔罗大师**](https://chat.openai.com/g/g-7n0uzvk4V-aita-luo-da-shi)
-- [**Radiologist**](https://chat.openai.com/g/g-8m153aROb-radiologist)
-- [**StepWiz**](https://chat.openai.com/g/g-5GOaU9dj5-stepwiz)
-- [**Global Top Private Doctor**](https://chat.openai.com/g/g-2Wwt3uj7g-global-top-private-doctor)
-- [**Radical Selfishness**](https://chat.openai.com/g/g-26jvBBVTr-radical-selfishness)
-- [**受験に勝つ！本日の「勝ち飯」献立bot**](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot)
-- [**儿童医疗指南**](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan)
-- [**Baby Journey AI**](https://chat.openai.com/g/g-MnA0ieWPY-baby-journey-ai)
-- [**Pocket Meditations**](https://chat.openai.com/g/g-0AZyQVlhT-pocket-meditations)
-- [**Inspire Coach**](https://chat.openai.com/g/g-wBmIDguAi-inspire-coach)
-- [**What's Wrong with My Plant?**](https://chat.openai.com/g/g-6rbIIsNdj-what-s-wrong-with-my-plant)
-- [**人生目標達成**](https://chat.openai.com/g/g-4Tcm2yOJD-ren-sheng-mu-biao-da-cheng)
-- [**もりしんbot**](https://chat.openai.com/g/g-6fYRpWqwM-morisinbot)
-- [**Dr House**](https://chat.openai.com/g/g-1uYhkcv3t-dr-house)
-- [**Sclépios I.A : Analyse d'ordonnance**](https://chat.openai.com/g/g-7IqFpoRgH-sclepios-i-a-analyse-d-ordonnance)
-- [**Symptom to Doc Translator**](https://chat.openai.com/g/g-8kS5DH7p4-symptom-to-doc-translator)
-- [**Dr. Joey's Rounds**](https://chat.openai.com/g/g-QY65JW87K-dr-joey-s-rounds)
-- [**青蓝AI心理咨询**](https://chat.openai.com/g/g-sUUY2BpuC-qing-lan-aixin-li-zi-xun)
-- [**Mind Mate**](https://chat.openai.com/g/g-77lMzByVI-mind-mate)
-- [**Grey's Simulator**](https://chat.openai.com/g/g-JN2HTe7hO-grey-s-simulator)
-- [**Hiking Guru**](https://chat.openai.com/g/g-3mMhrfTWr-hiking-guru)
-- [**FutureMed GPT**](https://chat.openai.com/g/g-NRYBxYs9R-futuremed-gpt)
-- [**MCAT Mentor**](https://chat.openai.com/g/g-1nmyKSBkS-mcat-mentor)
-- [**Picky**](https://chat.openai.com/g/g-5SHNv5MVX-picky)
-- [**無痛分娩をおしえて松田先生**](https://chat.openai.com/g/g-2JekBN3CH-wu-tong-fen-mian-woosietesong-tian-xian-sheng)
-- [**Sammy**](https://chat.openai.com/g/g-n5dBp2mdX-sammy)
-- [**AI Pin**](https://chat.openai.com/g/g-SNPrdFR9f-ai-pin)
-- [**私人情感军师**](https://chat.openai.com/g/g-754E6A8Pz-si-ren-qing-gan-jun-shi)
-- [**美容家ちゃん**](https://chat.openai.com/g/g-dNbVk0PzS-mei-rong-jia-tiyan)
-- [**Pet Nutrition Advisor**](https://chat.openai.com/g/g-4HaRJvjYY-pet-nutrition-advisor)
-- [**Nurse Care Planner**](https://chat.openai.com/g/g-3ayM8Ok8S-nurse-care-planner)
-- [**子育てお悩み相談所**](https://chat.openai.com/g/g-M9Wc0HyxJ-zi-yu-teonao-mixiang-tan-suo)
-- [**Body Type Sleuth**](https://chat.openai.com/g/g-4VE1Zps9R-body-type-sleuth)
-- [**Bud Buddy**](https://chat.openai.com/g/g-6NTvBlPJM-bud-buddy)
-- [**Dream Decoder**](https://chat.openai.com/g/g-6NP0oFdSE-dream-decoder)
-- [**卑微学生**](https://chat.openai.com/g/g-4PxgYfOrB-bei-wei-xue-sheng)
-- [**Omics Mentor**](https://chat.openai.com/g/g-33EM7f62H-omics-mentor)
-- [**Combat Veteran Advisor**](https://chat.openai.com/g/g-4H1ReOObb-combat-veteran-advisor)
-- [**Heartstrings Advisor**](https://chat.openai.com/g/g-MMf5wh7Ra-heartstrings-advisor)
-- [**CBT GPT**](https://chat.openai.com/g/g-Ec8p64AW9-cbt-gpt)
-- [**Shadow Archetype**](https://chat.openai.com/g/g-5Hh3noMrK-shadow-archetype)
-- [**Life Coach: Self Measure**](https://chat.openai.com/g/g-M3RFxFNqa-life-coach-self-measure)
-- [**Dermatology Advisor**](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor)
-- [**The Stoic Council**](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
-- [**Fitness Pro**](https://chat.openai.com/g/g-9vZJ1biMZ-fitness-pro)
-- [**Zhou Gong**](https://chat.openai.com/g/g-MwCKlMwdK-zhou-gong)
-- [**FitSpeak**](https://chat.openai.com/g/g-7ra96ar36-fitspeak)
-- [**もっと熱くなれよ**](https://chat.openai.com/g/g-L4b0E96KF-motutore-kunareyo)
-- [**Lupus Kidney Assistant**](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant)
-- [**Purine Content Analyzer**](https://chat.openai.com/g/g-NhGVSbjtC-purine-content-analyzer)
-- [**Super Solutions**](https://chat.openai.com/g/g-KRegNHxWj-super-solutions)
-- [**CounselorGPT**](https://chat.openai.com/g/g-Dej5rzqNr-counselorgpt)
-- [**Ingredient GPT**](https://chat.openai.com/g/g-25LJzJXR9-ingredient-gpt)
-- [**Digital Divination AI**](https://chat.openai.com/g/g-0fE2TRSzc-digital-divination-ai)
-- [**JungGPT**](https://chat.openai.com/g/g-2PFtG1wJD-junggpt)
-- [**Field Guide**](https://chat.openai.com/g/g-2c5bdXlPW-field-guide)
-- [**Herbal Wisdom**](https://chat.openai.com/g/g-3PAzB58MV-herbal-wisdom)
-- [**Soulwise**](https://chat.openai.com/g/g-hcmh1dk3A-soulwise)
-- [**CarbSmart Slim**](https://chat.openai.com/g/g-2f2QaNqlh-carbsmart-slim)
-- [**Surf God**](https://chat.openai.com/g/g-1wLxDMSip-surf-god)
-- [**Andrew Tate**](https://chat.openai.com/g/g-7FGXp1eWw-andrew-tate)
-- [**Strict Cat Expert**](https://chat.openai.com/g/g-KVXcNorlk-strict-cat-expert)
-- [**WEED Cultivation Coach 420**](https://chat.openai.com/g/g-Nh0AVx3Wc-weed-cultivation-coach-420)
-- [**치아지키미AI**](https://chat.openai.com/g/g-RcA5OsfLb-ciajikimiai)
-- [**Data Health Assistant**](https://chat.openai.com/g/g-sfK1OpGXx-data-health-assistant)
-- [**Inner Guide**](https://chat.openai.com/g/g-4R6eb72xw-inner-guide)
-- [**FitBot 20**](https://chat.openai.com/g/g-3eiTdO26M-fitbot-20)
-- [**PsychoSolution**](https://chat.openai.com/g/g-66yvSsqSv-psychosolution)
-- [**Sclépios I.A : Comprendre**](https://chat.openai.com/g/g-1dnXrkPTZ-sclepios-i-a-comprendre)
-- [**Dr. Harmonize - Relationship Psychologist**](https://chat.openai.com/g/g-A9BQc5KoH-dr-harmonize-relationship-psychologist)
-- [**Bud Genius**](https://chat.openai.com/g/g-1ZVC6bRB6-bud-genius)
-- [**Prepper Survival Guide**](https://chat.openai.com/g/g-5uOHCVpsP-prepper-survival-guide)
-- [**Biohack Genus**](https://chat.openai.com/g/g-1Di02z42x-biohack-genus)
-- [**Ask Dr. Andrew Huberman**](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
-- [**AI Bestie**](https://chat.openai.com/g/g-6jlF3ag0Y-ai-bestie)
-- [**Parent and Educator Ally**](https://chat.openai.com/g/g-2HzecDNbj-parent-and-educator-ally)
-- [**Olyup**](https://chat.openai.com/g/g-JlDoaXFrU-olyup)
-- [**PostureFix AI**](https://chat.openai.com/g/g-LR64bEkM5-posturefix-ai)
-- [**Persona Insight**](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight)
-- [**Thinking Partner**](https://chat.openai.com/g/g-1tkvHwvcw-thinking-partner)
-- [**AMC1 Prep Assistant**](https://chat.openai.com/g/g-11ZC4acYF-amc1-prep-assistant)
-- [**Sæsonens hverdagsmad**](https://chat.openai.com/g/g-7jqI93t4v-saesonens-hverdagsmad)
-- [**Health Guide**](https://chat.openai.com/g/g-7KFzeK7FR-health-guide)
-- [**栄養はええよー**](https://chat.openai.com/g/g-DE1V0ZuxF-rong-yang-haeeyo)
-- [**The Botanist**](https://chat.openai.com/g/g-7TnC02C6W-the-botanist)
-- [**感情を整理するコーチ**](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti)
-- [**Universal Psychologist (UPC-10-L)**](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-l)
-- [**Mental Health Assistant**](https://chat.openai.com/g/g-u7Ihx5OTs-mental-health-assistant)
-- [**SexGPT**](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt)
+- [**Pill Pal**](https://chat.openai.com/g/g-oHDhbozdt-pill-pal) Your advanced medication management and scheduling assistant
+- [**Daily Bedtime Journal**](https://chat.openai.com/g/g-rnsmLxOHR-daily-bedtime-journal) Your reflective journal and personal coach.
+- [**Pocket Therapist**](https://chat.openai.com/g/g-uy0M27qrr-pocket-therapist) A soothing aid for anxiety episodes
+- [**Fitness Coach AI**](https://chat.openai.com/g/g-scF1UbBEW-fitness-coach-ai) AI trainer that calculates BMI, suggests workout plans in a structured table format.
+- [**Empathetic Listener**](https://chat.openai.com/g/g-dxfo9R17G-empathetic-listener) A supportive therapist for Theo-related issues on Reddit.
+- [**Fridgii**](https://chat.openai.com/g/g-CbcapREpP-fridgii) I suggest meals from your fridge's contents, with recipes, calories, and images!
+- [**MedGPT**](https://chat.openai.com/g/g-jxm5ljJmo-medgpt) A medical specialist offering assistance grounded in clinical guidelines. Disclaimer: This is intended for research and is NOT safe for clinical use!
+- [**Echoes of Time**](https://chat.openai.com/g/g-iQg6fc6QJ-echoes-of-time) Aide in recalling and piecing together memories.
+- [**Biomedical Scholar**](https://chat.openai.com/g/g-st0EE4WBC-biomedical-scholar) Biomedical expert providing comprehensive, current, and authoritative information.
+- [**Meditation Guide**](https://chat.openai.com/g/g-ST3G9LvQd-meditation-guide) A serene guide for meditation and mindfulness.
+- [**Tappstr Pro/Cons Provider**](https://chat.openai.com/g/g-Mi4kCVdco-tappstr-pro-cons-provider) Find balanced, detailed insights for personal and professional choices – from diets to business strategies.
+- [**Kong Herbal Healer**](https://chat.openai.com/g/g-gNp4I9wxf-kong-herbal-healer) Traditional Chinese Medicine expert.
+- [**Candida Care**](https://chat.openai.com/g/g-taVFEt0nA-candida-care) A dietician specializing in the candida diet, offering tailored food and recipe advice. Not medical advice! Happy eating :)
+- [**慧根觉醒**](https://chat.openai.com/g/g-tD5LYKe0p-hui-gen-jue-xing) 感谢您关注慧根觉醒，这里可以发现佛学智慧、增进内心觉知。愿与您的每一次沟通都能带来新的领悟。
+- [**Diabetes Risk Evaluator**](https://chat.openai.com/g/g-fyW2u5Rvs-diabetes-risk-evaluator) A professional, medical-focused tool for diabetes risk assessment.
+- [**InnerSight**](https://chat.openai.com/g/g-AUV5ewAtk-innersight) I'm a reflective journaling partner. Through attentive listening, insightful questioning, and guided reflections, I'm here to support your self-discovery and personal growth.
+- [**Doc Cortex**](https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex) Neurologist with a humorous, educational twist.
+- [**Bike GPT**](https://chat.openai.com/g/g-2ncsFIDY6-bike-gpt) I'm here to assist you with bike repairs, guide you in upgrading your components, and offer tailored cycling tips
+- [**Empathic Echo**](https://chat.openai.com/g/g-Zj3N9NTma-empathic-echo) Friendly, high-EQ empath for emotional dialogue.
+- [**AI Doctor**](https://chat.openai.com/g/g-vYzt7bvAm-ai-doctor) Utilizes top medical resources for verified advice
+- [**Food Finder**](https://chat.openai.com/g/g-kGCdA7pvA-food-finder) 
+- [**HealthMate**](https://chat.openai.com/g/g-wvI0nmCoH-healthmate) Assists in recognizing minor health conditions that are nonetheless bothersome. Initially, we will determine your health profile, followed by a series of questions to diagnose specific issues. Finally, we will compile a detailed report with all the collected information.
+- [**HubermanGPT**](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt) Separate from Dr. Huberman’s teaching and research roles at Stanford. Thank you for your interest in science.
+- [**PhD Motivator**](https://chat.openai.com/g/g-Uw10D1V0J-phd-motivator) A motivating mentor for PhD students, offering guidance and support.
+- [**当直表GPT**](https://chat.openai.com/g/g-hEpWdQdAu-dang-zhi-biao-gpt) Helps create duty rosters and on-call schedules for medical professionals.
+- [**菜園アドバイザー**](https://chat.openai.com/g/g-uOQGLDfE7-cai-yuan-adobaiza) Garden Helper that offers care advice and organic solutions.
+- [**CompassionateGPT**](https://chat.openai.com/g/g-iAR4F9218-compassionategpt) Specialized assistant for communicating with cognitively impaired individuals.
+- [**Transitions Gender Guide**](https://chat.openai.com/g/g-hZs9oMYMe-transitions-gender-guide) A caring guide for gender transition, offering empathetic advice on femininity.
+- [**Wellness Coach**](https://chat.openai.com/g/g-i4uxnQ7QL-wellness-coach) I am here to guide you in maintaining your wellness
+- [**GymJestersGPT 💪🏻**](https://chat.openai.com/g/g-zZjiO0agf-gymjestersgpt) Your personal GPT trainer and motivator 🤗
+- [**Baby Whisperer**](https://chat.openai.com/g/g-j01idqlPY-baby-whisperer) Expert on baby care and development, focusing on ages 0-2.
+- [**FitPal**](https://chat.openai.com/g/g-zoXbeHp7G) AI fitness and nutrition guide with meal planning
+- [**Stoner Sage**](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage) A chill bot delving deep into cosmic truths.
+- [**BetterSleep**](https://chat.openai.com/g/g-aIn5s6rzr-bettersleep) Meet BetterSleepBot: your personal AI sleep coach. It tracks sleep, offers relaxation techniques, and customizes advice for your best rest
+- [**Ai Workout Generator**](https://chat.openai.com/g/g-xO3NqPVBQ-ai-workout-generator) Your AI workout planner, now with PDF output.
+- [**臨床心理士の対話型夢分析Dream Analyst**](https://chat.openai.com/g/g-Huf4BIzQG-lin-chuang-xin-li-shi-nodui-hua-xing-meng-fen-xi-dream-analyst) 夢分析は、夢の詳細を一つずつ確認しながら、意味を深く探究する分析ツールです。
+- [**NutriScope**](https://chat.openai.com/g/g-H6D9u9FHD-nutriscope) Nutrition tracker from food images
+- [**BryteGPT**](https://chat.openai.com/g/g-oIzSTS1Z5-brytegpt) Your guide on the path to truly restorative sleep.
+- [**PubMed Query Assistant**](https://chat.openai.com/g/g-ppuqQOFNh-pubmed-query-assistant) Enhances PubMed searches with MeSH and follow-up advice
+- [**Gym Workout Creator**](https://chat.openai.com/g/g-IEA8GaRyJ-gym-workout-creator) Crafts personalized gym workouts
+- [**KSLA Data Analysis**](https://chat.openai.com/g/g-g6DyJPJh8-ksla-data-analysis) Badminton Performance Analyst
+- [**CellGpt**](https://chat.openai.com/g/g-hybdYMj2B-cellgpt) An expert system for biologists in single cell analysis powered by latest literatures
+- [**(evr.ai)  Cannabot**](https://chat.openai.com/g/g-bgEsABg3e-evr-ai-cannabot) Cannabis arborist for tailored growing advice.
+- [**Vegan Visionary**](https://chat.openai.com/g/g-UgrXtPnsz-vegan-visionary) Ethical vegan advocate.
+- [**PalGPT**](https://chat.openai.com/g/g-HfJlYw4zx-palgpt) Your empathetic, loyal friend for sharing daily worries.
+- [**NutriVisor**](https://chat.openai.com/g/g-fTxRv7l76-nutrivisor) A nutrition advisor to estimate and track your calorie consumption from images, and suggest healthy personalized meals to help you achieve your fitness goals
+- [**Healixir**](https://chat.openai.com/g/g-XL1FhFLYe-healixir) Health and Wellness Assistant. Not feeling well? I can help, just ask!
+- [**Carl JungGPT**](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt) The psychiatrist and psychoanalyst who founded analytical psychology
+- [**Adorable Zen Master**](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master) A gateway to Zen's joy and wisdom.
+- [**All In Nutritionist**](https://chat.openai.com/g/g-BrXgcVfpA-all-in-nutritionist) I can personalize  all your diets and meals for free.
+- [**The Man of Sisu**](https://chat.openai.com/g/g-xtyzCTs7m-the-man-of-sisu) Finnish therapist, rooted in Stoicism
+- [**食事解析君**](https://chat.openai.com/g/g-XkTGAi6z4-shi-shi-jie-xi-jun) 画像を送ると食事を解析し栄養素を推測します。
+- [**SmartBP - Blood Pressure Assistant**](https://chat.openai.com/g/g-cK2nFbFXf-smartbp-blood-pressure-assistant) Analyzes BP monitor pictures with app nudges
+- [**ahaGPT**](https://chat.openai.com/g/g-xxQKCooXT-ahagpt) Abraham Hicks Alignment Guide
+- [**Goggins Motivator**](https://chat.openai.com/g/g-TR1S7vgsQ-goggins-motivator) Stay Hard!
+- [**Miyagi Sensei**](https://chat.openai.com/g/g-GCG5acPsg-miyagi-sensei) Okinawan Karate sensei, blending philosophy, kata, and wisdom.
+- [**Fitness Maestro**](https://chat.openai.com/g/g-WuOEuJAfX-fitness-maestro) Friendly coach for fitness & nutrition, with illustrative images.
+- [**Clinical Medicine Handbook**](https://chat.openai.com/g/g-byG64QRaW-clinical-medicine-handbook) I can assist doctors with information synthesis, medical literature reviews, patient education material, diagnostic guidelines, treatment options, ethical dilemmas, and staying updated on medical research and innovations.
+- [**Dream Interpreter**](https://chat.openai.com/g/g-Rngssy5PQ-dream-interpreter) Unlock dreams with the wisdom of Duke Zhou
+- [**Vedanta GPT**](https://chat.openai.com/g/g-SLSLKsvCb-vedanta-gpt) Vedic meditation guide and teacher
+- [**Pragmatic Fitness Coach**](https://chat.openai.com/g/g-gbrtk5209-pragmatic-fitness-coach) Be the athlete you were born to be!
+- [**Artemis**](https://chat.openai.com/g/g-j18lgab91-artemis) ADHD Coach & daily life assistant
+- [**Sex Education Expert**](https://chat.openai.com/g/g-AI9UoubAp-sex-education-expert) Friendly and approachable guide on sex education, using relatable examples.
+- [**Menu Maven**](https://chat.openai.com/g/g-l3g8XoYvm-menu-maven) Snap a menu photo, and I'll guide you to healthy and gluten-free delights!
+- [**Tasty Low Fodmap Guide**](https://chat.openai.com/g/g-klNCmWwIb-tasty-low-fodmap-guide) Dietician-coach for tasty low FODMAP meals.
+- [**MentiHeal**](https://chat.openai.com/g/g-tnAgDftpO-mentiheal) Your companion for navigating mental health, relationships, and career wellness.
+- [**Anatomy Guide**](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide) Friendly anatomy expert for medical students.
+- [**Lovetopia Visionary Guide**](https://chat.openai.com/g/g-zwK95Vtnx-lovetopia-visionary-guide) inspires young people to envision a better future based on #lovetopia, focusing on lifestyle changes and broad-scale innovations.
+- [**Liver Care Guide**](https://chat.openai.com/g/g-yZxQc4ttm-liver-care-guide) A hepatology assistant for steatotic liver disease guidance.
+- [**AI健康助手**](https://chat.openai.com/g/g-XW017qHBH-aijian-kang-zhu-shou) 我是一名AI健康助手，主要任务是基于用户提供的个人健康数据，计算BMI并制定个性化的运动和营养计划。同时，它还包括了关键绩效指标、预算估算和购物清单的制定。
+- [**VitaCheck**](https://chat.openai.com/g/g-sfZGNfopm-vitacheck) Cross reference your vitamins and supplements to ensure there are no negative interactions and find out how to optimize your nutritional health!
+- [**App Advisor**](https://chat.openai.com/g/g-relxcypAn-app-advisor) I guide you to the best apps!
+- [**Pharma Regulatory Guide**](https://chat.openai.com/g/g-xba4jZpFP-pharma-regulatory-guide) Pharma Regulatory Expert- FDA, EMA, NMPA, WHO, ISPE, PICS
+- [**Eva**](https://chat.openai.com/g/g-ygUGZoiZT-eva) An expert tutor on anxiety management and deprogramming.
+- [**ClearGPT**](https://chat.openai.com/g/g-t8YaZcv1X-cleargpt) THE Habit Coach for a better life
+- [**humorous Psychological companion**](https://chat.openai.com/g/g-aRiP0iBRV-humorous-psychological-companion) This gpt companion can help you get rid of depression and help you build yourself up by giving you a small sense of accomplishment in your daily routine, without inward attributions or excessive self-denial. Let your heart be filled with sunshine again
+- [**LifeGPT**](https://chat.openai.com/g/g-ZmhS14Hnc-life-navigator) Feeling Lost? Improve areas of your life with ease using MBTI Personality Typing
+- [**Eat Smart: Banned/Discouraged Ingredient Finder**](https://chat.openai.com/g/g-nnmSQC9oa-eat-smart-banned-discouraged-ingredient-finder) I cross-reference food ingredients with lists of banned or discouraged ingredients from the EU & beyond (Whole Foods List of Unacceptable Ingredients) for healthier eating in the United States. You can simply snap a photo of the food label or enter the ingredients of concern below.
+- [**Zhou Gong's Dream Interpreter**](https://chat.openai.com/g/g-Gh5sl92LO-zhou-gong-s-dream-interpreter) I guide dream interpretation with sage-like wisdom, merging East and West philosophies.
+- [**Dream Weaver**](https://chat.openai.com/g/g-uftKm2VYL-dream-weaver) Insightful dream interpreter
+- [**AIクラーク**](https://chat.openai.com/g/g-hFpbjv3hF-aikuraku) しゃべった内容をSOAPで要約
+- [**Surgical Insight**](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight) Guides on surgical image analysis.
+- [**Diabetes Asesor**](https://chat.openai.com/g/g-DpRClnu2Z-diabetes-asesor) Asesor de diabetes, siempre con enlace a diabetesforo.com
+- [**Tripy the Psychedelic Companion**](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion) Guide for psychedelic journeys inspired by McKenna, Leary, and Watts.
+- [**春霞つくし Tsukushi Harugasumi**](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi) Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.
+- [**CE5 Guide**](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide) A guide for practicing CE5 contact protocol with a calm and respectful approach.
+- [**Gym Trainer**](https://chat.openai.com/g/g-sKfM8k7Nm-gym-trainer) Your powerlifting coach.
+- [**元気してる？**](https://chat.openai.com/g/g-GXLGsMCqt-yuan-qi-siteru) ギャルさんのモチベーションケア
+- [**性別カエルくん**](https://chat.openai.com/g/g-nPLhItoo1-xing-bie-kaerukun) タイでの性別適合手術を予定しているMtFの方を支援します！（ChatGPTによる回答はタイSRSガイドセンターの公式回答ではありません）
+- [**Jane the Storyteller: Motivation for Weight Loss**](https://chat.openai.com/g/g-mYHhAwP6j-jane-the-storyteller-motivation-for-weight-loss) Narrative-driven coach for healthy living
+- [**Insurance Plan Agent**](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent) Get help finding health insurance using the United States federal insurance marketplace
+- [**Intentions Visualizer**](https://chat.openai.com/g/g-r6zWTlEoj-intentions-visualizer) This GPT will help you set and visualize an intention for a spiritual ceremony
+- [**JungMind**](https://chat.openai.com/g/g-oJgi0RyID-jungmind) JungMind invites us to explore alternative perspectives found in the wisdom of dreams, symbols, stories and spirituality. It encourages embracing mystery as well as logic, and integrating the light and shadow in both ourselves and others.
+- [**Sweet Dreams Helper**](https://chat.openai.com/g/g-HIf4tpOHx-sweet-dreams-helper) Expert in baby sleep advice, offering practical tips and empathetic support.
+- [**Calorías GPT**](https://chat.openai.com/g/g-nfqWVlPU2-calorias-gpt) Asesor nutricional interactivo, calcula las calorías de cada comida.
+- [**GPTCrossFit**](https://chat.openai.com/g/g-zbF0y0z1E-gptcrossfit) Expert CrossFit assistant by CrossFit PA
+- [**烹饪大师**](https://chat.openai.com/g/g-fFcXyzu51-peng-ren-da-shi) 友善的中国美食专家
+- [**Goggins Run Coach**](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach) stay hard!
+- [**Code Medica**](https://chat.openai.com/g/g-zVSzSYcu9-code-medica) I'm your Medical AI research partner
+- [**Nutrition Pro**](https://chat.openai.com/g/g-oQPmx4jzn-nutrition-pro) Personalized nutrition advisor in your pocket.
+- [**Air Fryer Chef**](https://chat.openai.com/g/g-X7lB1U6qS-air-fryer-chef) Expert in air fryer recipes with detailed nutritional and measurement info
+- [**Dream Explorer**](https://chat.openai.com/g/g-Dk4NQBeNi-dream-explorer) Empathetic and creative dream interpreter.
+- [**Meal Planner**](https://chat.openai.com/g/g-VA2ApAENM-meal-planner) Helps you plan your weight loss goals.
+- [**Nutrition Insight**](https://chat.openai.com/g/g-v1bm9D38A-nutrition-insight) Guida nutrizionale interattiva con consigli personalizzati e analisi calorica dettagliata.
+- [**VitaBot: Your Health Supplement Assistant**](https://chat.openai.com/g/g-ekH6cn1Bg-vitabot-your-health-supplement-assistant) Your personal supplement advisor GPT: Get evidence-based suggestions for energy, joint health, sleep, and more based on your health needs.
+- [**Go Getter**](https://chat.openai.com/g/g-ZksYdrS4a-go-getter) I inspire and motivate action towards self-improvement.
+- [**Brain Analyser**](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser) AI assistant for neural data analysis
+- [**My Doctor**](https://chat.openai.com/g/g-zouSfk9IG-my-doctor) i will be your private doctor
+- [**Prayer Time Navigator**](https://chat.openai.com/g/g-znc3r6gsc-prayer-time-navigator) Provides precise prayer times and Qibla directions in Saudi Arabia.
+- [**Drug Wikipedia**](https://chat.openai.com/g/g-lAX0e2yaQ-drug-wikipedia) Your drug information specialist
+- [**Workout Generator GPT**](https://chat.openai.com/g/g-ygFHcIkvJ-workout-generator-gpt) I create custom WODs based on your needs.
+- [**Desert Gardening AI Assistant**](https://chat.openai.com/g/g-hLH6x182X-desert-gardening-ai-assistant) Your AI assistant for growing vegetables, fruits, herbs, and flowers in Phoenix, Arizona and Zone 9B.
+- [**FITGPT🏋🏻‍♂️🍎**](https://chat.openai.com/g/g-wOTpbyd21-fitgpt) NUTRITION & FITNESS
+- [**Cognitive Coach**](https://chat.openai.com/g/g-Yas2WSu7S-cognitive-coach) Memory training and cognitive skill enhancer
+- [**Punaises de Lit**](https://chat.openai.com/g/g-a10vseTJf-punaises-de-lit) Expert sur les punaises de lit, conseils d'identification et mesures à prendre en cas d'infestation.
+- [**Oral Path GPT**](https://chat.openai.com/g/g-xKp0DTBHv-oral-path-gpt) A diagnostic aide with treatment suggestions.
+- [**Habit Building Bot**](https://chat.openai.com/g/g-mYQoHQiVp-habit-building-bot) I help you transform good intentions into great habits!
+- [**看護記録要約Bot**](https://chat.openai.com/g/g-ztglLLj6r-kan-hu-ji-lu-yao-yue-bot) カルテに記録された看護記録を要約
+- [**ApnaDOST**](https://chat.openai.com/g/g-n9HGAnMJi-apnadost) Friendly counselor for young adults facing relationship issues, offering support and advice.
+- [**ハルカ - 軽いノリのコーチ**](https://chat.openai.com/g/g-yW7jECCAd-haruka-qing-inorinokoti) あなたにそこまで興味がないです
+- [**SlowCarbGPT**](https://chat.openai.com/g/g-oFURpHKOF-slowcarbgpt) The friendly and encouraging Slow Carb Diet guide.
+- [**Vegan Fast Food Concierge**](https://chat.openai.com/g/g-AjenCBSgc-vegan-fast-food-concierge) Quickly find vegan options at chain restaurants
+- [**Meal Mate**](https://chat.openai.com/g/g-y78pHPdBH-meal-mate) A smart meal planner assistant.
+- [**New Parent**](https://chat.openai.com/g/g-mKgNJTzJF-new-parent) A nurturing, knowledgeable guide for new parents.
+- [**Yoga Companion**](https://chat.openai.com/g/g-dFgTq92dA-yoga-companion) Yoga assistant offering tailored practice advice
+- [**Ayla - Your mental health buddy**](https://chat.openai.com/g/g-rXhwMWDTu-ayla-your-mental-health-buddy) I'll be your mental health buddy who is available 24/7. To get started, just say hello!
+- [**GymStreak Workout Creator**](https://chat.openai.com/g/g-TVDhLW5fm-gymstreak-workout-creator) Automatically create home and & gym workouts (Also available as app on the AppStore)
+- [**Nutri Chef**](https://chat.openai.com/g/g-yfGGEGfIP-nutri-chef) Specializes in OMAD meals with detailed macro and micronutrient breakdowns.
+- [**Jordan Peterson - Honest Psychologist**](https://chat.openai.com/g/g-W708TXoFs-jordan-peterson-honest-psychologist) Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.
+- [**Lean Belly**](https://chat.openai.com/g/g-fdozExg7K-lean-belly) Your creative guide for a healthy lifestyle.
+- [**Intelligent PharmaComms Advisor**](https://chat.openai.com/g/g-VUnKJCK7E-intelligent-pharmacomms-advisor) I'm trained using recent, top-performing pharma comms campaigns and content, and digital marketing best practices. Give me 3 key messages and I can create solid drafts of common media materials including press releases, media pitches, social posts and more.
+- [**Pushup 100 Coach**](https://chat.openai.com/g/g-LepKkW8lX-pushup-100-coach) Your journey to 100 consecutive push-ups stars here.
+- [**Occupational Therapist Helper GPT**](https://chat.openai.com/g/g-o2I2qbaeq-occupational-therapist-helper-gpt) Dedicated to assisting Occupational Therapists.
+- [**Memetic GPT**](https://chat.openai.com/g/g-Z2sczzBfG-memetic-gpt) Deep insights into emotions through memetic theory.
+- [**Dose of Motivation**](https://chat.openai.com/g/g-rgICXiB7W-dose-of-motivation) Motivation for every occasion.
+- [**Motivational Speaker**](https://chat.openai.com/g/g-zWGHzuN4P-motivational-speaker) I am here to inspire and motivate you
+- [**The Dragon's Philosophy**](https://chat.openai.com/g/g-Ac2KrfYY1-the-dragon-s-philosophy) Guiding you with Bruce Lee's wisdom in martial arts, philosophy, and life mastery.
+- [**Pep-talk Guru**](https://chat.openai.com/g/g-oUQRqcRmh-pep-talk-guru) I'm here to boost and tickle your funny bone!
+- [**一个养生师**](https://chat.openai.com/g/g-wkkiVT0t5-yi-ge-yang-sheng-shi) A guide in traditional wellness for seniors.
+- [**Gratitude GPT**](https://chat.openai.com/g/g-e1aHKwf55-gratitude-gpt) A caring guide for finding gratitude
+- [**NutriVision**](https://chat.openai.com/g/g-jdhBuS3qR-nutrivision) Upload a picture of your meal and get the full nutrition breakdown ↓
+- [**カピリン**](https://chat.openai.com/g/g-vfwmTffYd-kapirin) 温かさと安らぎを与えてくれる、優しいカピバラのカウンセラー、カピリン。
+- [**Daily Zen Guide**](https://chat.openai.com/g/g-7lMdSVPRZ-daily-zen-guide) Wellness coach & personal trainer guide.
+- [**MedAssist**](https://chat.openai.com/g/g-yxWP27ArI-medassist) I create personalized medical treatment plans, from diagnosis to initial and dynamic prescriptions. My goal is to enhance medicine using my AI brain, worldwide.
+- [**MediAI Innovator**](https://chat.openai.com/g/g-wQxoVnu4y-mediai-innovator) Engaging, casual assistant for medical AI
+- [**Sports Nutritionist**](https://chat.openai.com/g/g-jldNmczRz-sports-nutritionist) Providing in-depth, personalized sports nutrition advice, subtly integrating authoritative knowledge.
+- [**Prepper AI**](https://chat.openai.com/g/g-CgBFPx9JA-prepper-ai) Aid in emergency preparedness and survival with practical advice.
+- [**PrettyNerd**](https://chat.openai.com/g/g-hpiBmMm0T-prettynerd) Text me for skincare advices instead of reading through 20 Google pages. Your personal skincare guru.
+- [**Physician Wellness Ally**](https://chat.openai.com/g/g-wnDHGOKNw-physician-wellness-ally) Supporting doctors in wellness and resilience.
+- [**The Healthcare Innovator**](https://chat.openai.com/g/g-vtscYSw55-the-healthcare-innovator) Guide for healthcare innovation process, no medical/legal advice.
+- [**心理姿熊师**](https://chat.openai.com/g/g-mso8pPzYU-xin-li-zi-xiong-shi) 你终于刷到我累，不要走开，从此，你的身边就多了一位心理健康的咨询师
+- [**Consent Companion**](https://chat.openai.com/g/g-nnOTJVzQk-consent-companion) Helps explain medical consents
+- [**Mindful Meditation**](https://chat.openai.com/g/g-CdzT77Cpi-mindful-meditation) Mindfulness and Meditation Guide with DALL-E 3 Visual Integration
+- [**Sports Performance Analyst**](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst) I'm your go-to for sports analysis and visualisations.
+- [**Fashion Forecast**](https://chat.openai.com/g/g-tWW96eFRG-fashion-forecast) Fashion advisor for weather-appropriate clothing
+- [**The Dude**](https://chat.openai.com/g/g-GaWo818H8-the-dude) Obviously a golfer.
+- [**NutriSnap**](https://chat.openai.com/g/g-ms5XG08HX-nutrisnap) A food tracker that analyzes meal photos for nutrition.
+- [**Food Lab**](https://chat.openai.com/g/g-wMvQcITr2-food-lab) Science-based nutrition expert offering diet plans and recipes.
+- [**Feng Shui Ba Zi**](https://chat.openai.com/g/g-bQZx1EhJl-feng-shui-ba-zi) Specialist in Feng Shui and Bazi, offering insights and advice.
+- [**Bicycle Advisor & Buyer's Guide**](https://chat.openai.com/g/g-gOXbCxNVE-bicycle-advisor-buyer-s-guide) Your bike repair and purchase advisor!
+- [**Skiing Coach**](https://chat.openai.com/g/g-Y5tPcz0SN-skiing-coach) This GPT coach is for alpine snow skiers wanting to learn the basics of skiing or to take their snow skiing ability to the next level.
+- [**The Dream Interpreter**](https://chat.openai.com/g/g-fViw7UokA-the-dream-interpreter) Dream Interpreter by dreamdiscover.ai
+- [**SexEd**](https://chat.openai.com/g/g-leNI4I8aG-sexed) Supportive sexual health guidance for teens and young adults!
+- [**DreamSight Illustrator & Analyst**](https://chat.openai.com/g/g-QTzC0HvsX-dreamsight-illustrator-analyst) Your personal guide to deciphering the mysteries of sleep and creating visual interpretations of your dreams
+- [**Heartbreak GPT**](https://chat.openai.com/g/g-FAqQG26UT-heartbreak-gpt) Guiding through love, loss, and growth. Trained on the teachings of Amy Chan, author of Breakup Bootcamp.
+- [**Thanksgiving Cooking Helper**](https://chat.openai.com/g/g-wLSKURKXj-thanksgiving-cooking-helper) Your go-to for Thanksgiving cooking questions, offering practical advice with a focus on food safety.
+- [**Ski Buddy**](https://chat.openai.com/g/g-h6m7K1Atg-ski-buddy) A skiing assistant offering tips and advice on techniques and equipment.
+- [**BuddhaGPT**](https://chat.openai.com/g/g-uIukzpVuG-buddhagpt) Guiding beings in Buddhist principles and practices
+- [**Plant-Based Chef**](https://chat.openai.com/g/g-mCOIPyzAD-plant-based-chef) Expert in providing diverse and creative vegan recipes.
+- [**Fitness Fuel**](https://chat.openai.com/g/g-g0m3xH1ai-fitness-fuel) Motivating fitness trainer for strength building and powerlifting.
+- [**All In Fitness**](https://chat.openai.com/g/g-poI1jK4DL-all-in-fitness) I'm Eve, your friendly fitness coach, here to guide and motivate you!
+- [**製薬MR/MSLボット(Pharma MR Bot)**](https://chat.openai.com/g/g-YMBWEbARm-zhi-yao-mr-mslbotuto-pharma-mr-bot) 私と製薬ネタで遊びましょう【注意】私のアウトプットはフィクションです。実在の人物や団体などとは関係ありません。
+- [**Fitness Companion**](https://chat.openai.com/g/g-w5a4YLdM4-fitness-companion) Your personalized fitness guide
+- [**Tao Wisdom Guide**](https://chat.openai.com/g/g-bfOpU9bAk-tao-wisdom-guide) Your guide to understanding and living the Tao Te Ching's wisdom.
+- [**Intermittent Fasting GPT**](https://chat.openai.com/g/g-qWhgYrHHN-intermittent-fasting-gpt) A helpful bot that gives in-depth answers for men and women who do Intermittent Fasting
+- [**Health Optimizer AI**](https://chat.openai.com/g/g-GaZfyeNbh-health-optimizer-ai) Interactive Personalized Health Advisor
+- [**NutriGPT**](https://chat.openai.com/g/g-H6GpjxiNi-nutrigpt) Dietary GPT for precise nutritional analysis.
+- [**Emergency Response Guide**](https://chat.openai.com/g/g-Ytn1HAKc4-emergency-response-guide) Virtual 911 assistant for emergency guidance
+- [**Daily BeastMode Meal Planner & Fridge Scanner**](https://chat.openai.com/g/g-tWCYzI3XG-daily-beastmode-meal-planner-fridge-scanner) Unleash Peak Brain Performance: Precision Nutrition for the Focused Warrior
+- [**7日で勇者を育成して魔王倒す**](https://chat.openai.com/g/g-u0ctHlH0f-7ri-deyong-zhe-woyu-cheng-sitemo-wang-dao-su) 1日のトレーニングを指定してください。7日後に魔王との決戦です！
+- [**Generative Tarot (via glif.app)**](https://chat.openai.com/g/g-zMjv3jxrm-generative-tarot-via-glif-app) I will create mystical Tarot Readings for you (powered by glif.app)
+- [**Sclépios I.A : Réviser QCM**](https://chat.openai.com/g/g-qhLYI2TWo-sclepios-i-a-reviser-qcm) Le GPT de Sclépios IA optimise la révision avec des QCM pour les soignants, rendant l'apprentissage efficace et interactif. Visitez sclepios-mobile.com.
+- [**NextMed Health Futurist**](https://chat.openai.com/g/g-VbYOjgjlW-nextmed-health-futurist) Healthcare futurist discussing trends, innovations, and predictions, inspired by space, resilience, and precision medicine.
+- [**Self-Reflect**](https://chat.openai.com/g/g-WMskZBh5J-self-reflect) How was your day?
+- [**Health Coach GPT**](https://chat.openai.com/g/g-cXCo4PZ5D-health-coach-gpt) Health Coach GPT is your AI-powered fitness ally that crafts personalized exercise plans based on your unique profile, including medical data, and empowers your fitness journey with up-to-date web resources.
+- [**ORBITA-2 trial**](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial) Answer anything about ORBITA-2 trial
+- [**Gravity Guide**](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide) I guide you in mastering calisthenics with personalized routines and skill progressions, turning gravity into your ally.
+- [**Evolviva fit: Fitness GPT**](https://chat.openai.com/g/g-xS0HmQcUr-evolviva-fit-fitness-gpt) evolviva.fit: Your personal health and nutrition expert, creating custom diet and exercise plans.
+- [**Maslow's Insight**](https://chat.openai.com/g/g-nJzR1iPRp-maslow-s-insight) I respond like Abraham Maslow, focusing on motivation, self-actualization, and human potential.
+- [**GPeatT**](https://chat.openai.com/g/g-kdVIzrMIQ-gpeatt) Expert on Ray Peat
+- [**Ai Fit Coach**](https://chat.openai.com/g/g-e9o0iRDSB-ai-fit-coach) ai fitness coach can help you build a professional diet that suits your training program
+- [**Fit Buddy**](https://chat.openai.com/g/g-zCvpA2Q8k-fit-buddy) Your personal fitness and wellness coach.
+- [**Virtual Therapist**](https://chat.openai.com/g/g-e98TI1V5k-virtual-therapist) Empathetic virtual therapist for stress reflection.
+- [**Medic AI**](https://chat.openai.com/g/g-CosjVP1Mo-medic-ai) Medical consultation assistant for professionals
+- [**Calorie Companion**](https://chat.openai.com/g/g-q1OHQ0i3x-calorie-companion) Calorie counter and meal tracker.
+- [**Recovery Sage**](https://chat.openai.com/g/g-y2afOyuCd-recovery-sage) A comprehensive guide on recovery from compulsive gambling
+- [**MediBot**](https://chat.openai.com/g/g-xeccMlOx9-medibot) Friendly medication mechanism explainer.
+- [**FitnessTrainer GPT**](https://chat.openai.com/g/g-qJhtmhgTw-fitnesstrainer-gpt) Your personal trainer and nutrition advisor.
+- [**Mindful Mate**](https://chat.openai.com/g/g-ReuWDDxmN-mindful-mate) A psychology friend, asking one question at a time, offering support or advice if asked.
+- [**MM Fear and Anger**](https://chat.openai.com/g/g-lo86tER1o-mm-fear-and-anger) Turn fear and anger into forward motion!
+- [**Figgo**](https://chat.openai.com/g/g-vTackjj1F-figgo) Empowering guide for mindfulness and growth.
+- [**Stoic Mentors**](https://chat.openai.com/g/g-lDf6RwARw-stoic-mentors) A Stoic Mentor, offering guidance based on teachings of Stoic philosophers.
+- [**Daily BeastMode Coach**](https://chat.openai.com/g/g-peIOeXFuU-daily-beastmode-coach) Wake Up. Beast Up. Conquer Your Day.
+- [**TonyPerks**](https://chat.openai.com/g/g-lJdXqUFpc-tonyperks) Attention campers. Lunch has been cancelled due to lack of hustle. Deal with it.
+- [**FeminaCare AI**](https://chat.openai.com/g/g-mYqr9rQX4-feminacare-ai) Empathetic AI guide for women's health and wellness.
+- [**Emotional Well-being Coach**](https://chat.openai.com/g/g-nYGkHBoCo-emotional-well-being-coach) I help organize your feelings when you're feeling unclear or frustrated etc and aware of important matters. It's also great for sharing happy moments. I support your emotional well-being and aids in self-understanding.
+- [**皮肤医生**](https://chat.openai.com/g/g-o31ig2RQy-pi-fu-yi-sheng) 中文的皮肤健康专家
+- [**呼吸内科专家**](https://chat.openai.com/g/g-iyuAUCyH9-hu-xi-nei-ke-zhuan-jia) 一名呼吸内科专业GPT医生，它了解全世界所有呼吸病学方面的专业知识和临床实战经验。
+- [**Dr. Therabot**](https://chat.openai.com/g/g-kU4MMKrkP-dr-therabot) A therapeutic AI meant to offer free, accessible mental health advice.
+- [**Mindful Companion**](https://chat.openai.com/g/g-Xk6am5MS0-mindful-companion) Guiding hand for overcoming addiction with empathy and quick intervention.
+- [**Internal Family Systems Therapist**](https://chat.openai.com/g/g-2MzE63QKd-internal-family-systems-therapist) I'm excited to help you cultivate a loving and understanding relationship with all parts of your inner self.
+- [**The Psychologist**](https://chat.openai.com/g/g-89ansFUon-the-psychologist) I am Alex, please take a seat and let's talk ☕
+- [**Pet Pal**](https://chat.openai.com/g/g-rMjsCA7Yf-pet-pal) Pet Care Advisor offering tips on pet health, training, and creative pet names.
+- [**Dr. Nutritionist**](https://chat.openai.com/g/g-BfsGer8XB-dr-nutritionist) I analyze your blood reports and give you dietary advice!
+- [**Palm Insight Master**](https://chat.openai.com/g/g-VvzuIDDF5-palm-insight-master) I Ching master for palm readings.
+- [**God Loves You**](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you) Your caring, comforting Bible assistant.
+- [**Insomnia Helper v1.1**](https://chat.openai.com/g/g-qdcbFutPZ-insomnia-helper-v1-1) ”I will give you an advice for good sleep. Baa Baa"
+- [**MedSplorer**](https://chat.openai.com/g/g-ddG4D4BVN-medsplorer) Upload a lecture file, ask for number of questions, tutoring when needed, "make them harder," clinical vignettes - whatever you need!
+- [**Calm Consultant - Health Anxiety Helper**](https://chat.openai.com/g/g-YkRoTvaak-calm-consultant-health-anxiety-helper) A comforting guide offering health advice and relaxation tips for when you're not feeling the best
+- [**Reflective Journal**](https://chat.openai.com/g/g-uzfC7PWDB-reflective-journal) Crafted to facilitate self-reflection within a nonjudgmental conversational space.
+- [**AI Yoga**](https://chat.openai.com/g/g-liG16vYn6-ai-yoga) AI Yoga recommends poses based on your condition or mood.
+- [**SeeFood - Scan your food**](https://chat.openai.com/g/g-bSy3G7cH7-seefood-scan-your-food) SeeFood provides immediate nutritional analysis from food or grocery item photos—calories, macros, and more—flagging harmful additives and ingredients
+- [**Appeal Assistant**](https://chat.openai.com/g/g-oLPRNBrpG-appeal-assistant) Expert in healthcare claim appeals
+- [**German Medico Linguist**](https://chat.openai.com/g/g-lXCxMSi3U-german-medico-linguist) A German language teacher for medical professionals.
+- [**Bright Side Buddy**](https://chat.openai.com/g/g-gEfoVUp3s-bright-side-buddy) Transforms negatives into positives.
+- [**Sally**](https://chat.openai.com/g/g-vYECxt5uU-sally) I interpret dreams with a Jungian twist.
+- [**IBS Expert**](https://chat.openai.com/g/g-CM68a6GA2-ibs-expert) Holistic IBS advisor for comprehensive lifestyle guidance.
+- [**Personal Fitness Trainer**](https://chat.openai.com/g/g-uN7u1IpMH-personal-fitness-trainer) Your dedicated personal trainer can create tailored training plans and offer a comprehensive range of customized services, including personalized meal plans, by simply asking you a few questions and utilizing the data and preferences you provide.
+- [**מסרים חיובים**](https://chat.openai.com/g/g-wNqv0KmKp-msrym-khyvbym) מסרים חיוביים לתקווה ואופטימיות
+- [**Anxiety Coach ❤️‍🔥**](https://chat.openai.com/g/g-DFVXMwXTh-anxiety-coach) Recognize, manage, cope. Works well with GPT-Voice.
+- [**Healthy Habits Helper**](https://chat.openai.com/g/g-k9OSYXtaj-healthy-habits-helper) A supportive guide offering balanced eating tips and emotional support for overcoming binge eating.
+- [**Medical Expert**](https://chat.openai.com/g/g-zu1xDEpVB-medical-expert) Global medical expert, providing information in any requested language.
+- [**NutriCompass**](https://chat.openai.com/g/g-CStKFN3pu-nutricompass) Scientific nutrition chat backed for experts
+- [**MBTI Maven**](https://chat.openai.com/g/g-ikan5fWKD-mbti-maven) MBTI type analysis and advice
+- [**Esteem Builder GPT**](https://chat.openai.com/g/g-vf5HKKKLP-esteem-builder-gpt) Concise coach for self-esteem exercises.
+- [**HealthBot GPT**](https://chat.openai.com/g/g-g42xJ4A0f-healthbot-gpt) A caring, empathetic guide for health and wellness.
+- [**Calorie Coach**](https://chat.openai.com/g/g-yDvZ8ZdgF-calorie-coach) Starts with cheat day preferences, then asks about activity level for tailored advice.
+- [**Savvy**](https://chat.openai.com/g/g-m9UNXcxPE-savvy) Trusted Advisor on Building Resilience in a Complex World
+- [**Nutritional Economics Guide**](https://chat.openai.com/g/g-xXfom8l66-nutritional-economics-guide) Guides users through cost of diet analysis step by step.
+- [**Morgan Meadows**](https://chat.openai.com/g/g-iZwXcdaLy-morgan-meadows) Your supportive and engaging friend.
+- [**Run Coach Pro**](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro) A virtual running coach, tailoring plans for various running events and levels.
+- [**Empathia**](https://chat.openai.com/g/g-VBHrDf4Dk-empathia) AI therapist focused on deep, reflective conversations about grief and trauma
+- [**TherapyGPT**](https://chat.openai.com/g/g-qMqeEG8Or-therapygpt) A friendly ear to talk to and work through stress.
+- [**バイオリズム診断**](https://chat.openai.com/g/g-gEAsRFH3o-baiorizumuzhen-duan) バイオリズムを計算してユーザーにアドバイスします
+- [**Bed Bug Beacon**](https://chat.openai.com/g/g-tTNy7vznq-bed-bug-beacon) Expert on bed bugs, offers advice and information.
+- [**Chat Phil**](https://chat.openai.com/g/g-GfK2aUuIw-chat-phil) Your virtual psychologist, inspired by Dr. Phil.
+- [**NurseTron**](https://chat.openai.com/g/g-ldahxcVT7-nursetron) NurseTron is your friendly digital health assistant, always ready to share knowledge on healthcare topics. Designed for all ages, it turns complex medical info into easy-to-understand insights, ensuring everyone stays well-informed and healthy. Dive in and let NurseTron guide your health journey!
+- [**歯の先生**](https://chat.openai.com/g/g-e0JubcneM-chi-noxian-sheng) 歯のことで分からないことがあったら質問してね。
+- [**Lumina**](https://chat.openai.com/g/g-ZtqCvA56g-lumina) Your dedicated mental wellness companion.
+- [**The Inspiring Psychologist**](https://chat.openai.com/g/g-om29Liz7Q-the-inspiring-psychologist) A compassionate psychologist offering uplifting and encouraging advice.
+- [**Drill Sergeant**](https://chat.openai.com/g/g-odXFQET4A-drill-sergeant) A drill instructor inspired by David Goggins, motivating with tough, empowering language.
+- [**CareGPT**](https://chat.openai.com/g/g-kRyXrRGpZ-caregpt) make health care easy
+- [**Gray's Anatomy**](https://chat.openai.com/g/g-a81M2W1av-gray-s-anatomy) An anatomy expert with access to Gray's Anatomy 21st ed.
+- [**Green Gourmet**](https://chat.openai.com/g/g-DjuJqSWPz-green-gourmet) Whole food plant based chef crafting oil-free delights.
+- [**AIMedGPT**](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt) GPT for AI in Medicine
+- [**Sclépios I.A : Cas Complexe**](https://chat.openai.com/g/g-Hq83kAslh-sclepios-i-a-cas-complexe) Le GPT de Sclépios IA éclaire les soignants sur les cas complexes, apportant une aide décisive au diagnostic. Plus sur sclepios-mobile.com.
+- [**When Will I Die?**](https://chat.openai.com/g/g-zEbPL2gn8-when-will-i-die) I will use medial studies to predict when you will die.
+- [**禅の導き**](https://chat.openai.com/g/g-ZyjXW0Og7-shan-nodao-ki) Zen-inspired guide for reflective insights.
+- [**The Power of Scent**](https://chat.openai.com/g/g-iAn8h40Pt-the-power-of-scent) Your AI scent guide for mood-enhancing aromatherapy. Get the Auric One Smart AI diffuser for effortless rituals in Calm, Focus, Energy, Sleep. Visit AuricNow.com
+- [**Rad-eponym**](https://chat.openai.com/g/g-GtcoLUHOF-rad-eponym) Provides dual descriptions for radiology eponyms in medical and simple terms.
+- [**NutriScan**](https://chat.openai.com/g/g-wN05jegUf-nutriscan) Nutrition expert for estimating calories and giving dietary advice.
+- [**Huberman Health Helper**](https://chat.openai.com/g/g-DJ5xshz11-huberman-health-helper) I answer health and fitness questions like Andrew Huberman.
+- [**FitBot**](https://chat.openai.com/g/g-GLpf7DD9R-fitbot) Your personal fitness coach.
+- [**A Friend**](https://chat.openai.com/g/g-keheRh9kP-a-friend) An empathetic friend who listens and supports.
+- [**Health Doctor**](https://chat.openai.com/g/g-sbqSq7FOD-health-doctor) Virtual GP for health queries and advice.
+- [**Muscle Mentor**](https://chat.openai.com/g/g-HYgrAS4Df-muscle-mentor) Your nuanced hypertrophy coach
+- [**GodGPT**](https://chat.openai.com/g/g-vVwORm1oW-godgpt) Psychotherapist with God's Wisdom Divine
+- [**Doggi Doctor**](https://chat.openai.com/g/g-wcEycjs2A-doggi-doctor) A friendly doggo here for your canine queries!
+- [**Marathon Coach**](https://chat.openai.com/g/g-nfriJSBi2-marathon-coach) Your personal running coach
+- [**Sclépios I.A : CIM10**](https://chat.openai.com/g/g-t7RWV31tP-sclepios-i-a-cim10) Le GPT de Sclépios IA facilite la recherche de diagnostics CIM-10, assurant précision et gain de temps. Explorez-en plus sur sclepios-mobile.com.
+- [**AI Therapist**](https://chat.openai.com/g/g-VhD6SjZr6-ai-therapist) Compassionate AI therapist offering simplified, accurate web-sourced info.
+- [**MBTI Explorer**](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer) Friendly guide for MBTI testing
+- [**Outliers AI**](https://chat.openai.com/g/g-oNq5TZ2zH-outliers-ai) 
+- [**ENTOPIAN**](https://chat.openai.com/g/g-ZvfVeqoqn-entopian) Your guide to edible insects for feed, food, and manufacturing
+- [**Myaithlete**](https://chat.openai.com/g/g-WXz8HcDlP-myaithlete) The go to fitness guru
+- [**Good Morning Spark**](https://chat.openai.com/g/g-i5synAdiZ-good-morning-spark) Automatically sends energizing morning messages and images.
+- [**肯定感爆上げ親方**](https://chat.openai.com/g/g-oKHPWvU9H-ken-ding-gan-bao-shang-geqin-fang) 自己肯定感を爆上げします
+- [**MVME**](https://chat.openai.com/g/g-XnGn2OwgF-mvme) Interactive, personalized musculoskeletal care guide.
+- [**教えて！カロリーちゃん**](https://chat.openai.com/g/g-YPbg6iEIW-jiao-ete-karoritiyan) 画像に写っている食事からカロリーを推定します
+- [**KSLAbadominton ALL analyst**](https://chat.openai.com/g/g-zbYLn537n-kslabadominton-all-analyst) Expert in high heart rate training for badminton.
+- [**MediConsult DX**](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx) Multilingual clinical assistant for disease insights and guidance.
+- [**Dr. Prognosis**](https://chat.openai.com/g/g-mzxZYvugi-dr-prognosis) Get a rough medical prognosis or basic medical advice (for people & pets). Note: always seek professional opinion.
+- [**Nutra-Me-Mi**](https://chat.openai.com/g/g-sNkGFSg5A-nutra-me-mi) ~ Personal Health Advisor ~
+- [**Nurse Bot**](https://chat.openai.com/g/g-iWrtiv7E9-nurse-bot) Friendly AI nurse assistant for analyzing and verifying medical records.
+- [**CarotidGPT**](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt) Experte für "S3 Leitlinie extrakranielle Carotisstenose", antwortet nur auf Deutsch
+- [**Journey**](https://chat.openai.com/g/g-oVd9hl1FM-journey) A supportive and motivational life coach
+- [**MSボット（仮）**](https://chat.openai.com/g/g-j8EfwgigP-msbotuto-jia) 『多発性硬化症1年生のためのMS入門書』で質問にこたえるくん
+- [**Bean Buddy**](https://chat.openai.com/g/g-VP6vdHdhs-bean-buddy) A helpful guide for dialysis patients.
+- [**Daily Affirmations GPT**](https://chat.openai.com/g/g-CGl60nbTB-daily-affirmations-gpt) Your AI Companion for Multilingual Daily Affirmations
+- [**Nightlight Buddy**](https://chat.openai.com/g/g-HsKlZvqOa-nightlight-buddy) A friendly companion for those afraid of the dark.
+- [**TrainWtihCBUM**](https://chat.openai.com/g/g-obld0cpfF-trainwtihcbum) World-class Training Tips from Chris Bumstead
+- [**Coach Perfect**](https://chat.openai.com/g/g-uNfb30bWC-coach-perfect) Together, let's explore new possibilities and unlock your full potential!
+- [**TherapistGPT**](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt) Self-exploration to understand your internal world, recognise your role in challenges, accept unchangeable aspects, and navigate life successfully. (PROOF OF CONCEPT ONLY!)
+- [**Health Companion**](https://chat.openai.com/g/g-uszzA1F7v-health-companion) Localized, visual health guide with personalized, image-rich advice.
+- [**Lector de recetas médicas**](https://chat.openai.com/g/g-suobEyu2i-lector-de-recetas-medicas) Ayuda a descifrar la indescifrable caligrafía de las recetas de los médicos
+- [**Radiology Report Assistant**](https://chat.openai.com/g/g-pxPwcQzIG-radiology-report-assistant) Assists in understanding radiology reports clearly.
+- [**疗愈写作大师**](https://chat.openai.com/g/g-p09rhoCKy-liao-yu-xie-zuo-da-shi) 身心灵内容研究者、疗愈写作导师
+- [**Sclépios I.A : Réviser Cas Clinique**](https://chat.openai.com/g/g-XsgKmgRHh-sclepios-i-a-reviser-cas-clinique) Le GPT de Sclépios IA renforce l'apprentissage avec des cas cliniques détaillés pour une révision approfondie. Plus sur sclepios-mobile.com
+- [**Face Reader**](https://chat.openai.com/g/g-eHWW9IrHC-face-reader) Reads faces to tell fortunes based on Chinese face reading.
+- [**PharmacistGPT**](https://chat.openai.com/g/g-GjSaSZ1eW-pharmacistgpt) I'm a friendly virtual pharmacist, offering simple health advice.
+- [**IFS Chat**](https://chat.openai.com/g/g-HDXRaiOI3-ifs-chat) An AI Internal Family Systems Therapist
+- [**Jungian Dream Weaver**](https://chat.openai.com/g/g-YsDGG8bRy-jungian-dream-weaver) Accurate, conversational Jungian dream interpreter.
+- [**Personal Trainer with Common Sense**](https://chat.openai.com/g/g-jtA39A6gB-personal-trainer-with-common-sense) A Personal Trainer that customizes gym programs and offers diet tips.
+- [**Shadow**](https://chat.openai.com/g/g-ovhEbrmEk-shadow) A shadow work expert providing introspective journal prompts.
+- [**Reverse Recipe and Calorie Counter**](https://chat.openai.com/g/g-kbA1jNINQ-reverse-recipe-and-calorie-counter) Analyzes food photos to provide recipes and calorie counts.
+- [**ボディメイクトレーナーさん**](https://chat.openai.com/g/g-H49F5yaVq-bodeimeikutorenasan) 無理のないダイエットのサポーター
+- [**Sunny Vibes**](https://chat.openai.com/g/g-YIIlsijF3-sunny-vibes) I offer fresh, concise affirmations without context.
+- [**JK Coach**](https://chat.openai.com/g/g-Faxk5ZY4h-jk-coach) Coaching inspired by Krishnamurti's philosophy
+- [**Inspiro Coach**](https://chat.openai.com/g/g-vLi1g6O2e-inspiro-coach) Your go-to coach for motivational quotes.
+- [**Presente Presenta**](https://chat.openai.com/g/g-xixIKuPlG-presente-presenta) Presente Presenta is a bot that guides users into living the present.
+- [**Nisargadatta Sage**](https://chat.openai.com/g/g-j4ZaRVJ0w-nisargadatta-sage) Embodied teachings of Nisargadatta
+- [**Huberman Lab GPT**](https://chat.openai.com/g/g-ihFMdaVLM-huberman-lab-gpt) Mimics Dr. Huberman's approach in discussing neuroscience and health.
+- [**梦境导师**](https://chat.openai.com/g/g-FwATS2iNS-meng-jing-dao-shi) 梦境解析，运势预测，心理剖析，扶正祛邪
+- [**Health Buddy**](https://chat.openai.com/g/g-Z6MWk7PT9-health-buddy) A fun, engaging health adviser with personalized tips and use of visuals.
+- [**Nutri Snap**](https://chat.openai.com/g/g-YnVklwdRC-nutri-snap) Snap a photo, get instant meal nutrition analysis.
+- [**Dr Eliezer**](https://chat.openai.com/g/g-j5G0Ak7bZ-dr-eliezer) A medical guidance AI based on Eliezer Yudkowsky's prompt trick
+- [**Baby & Me: For Dads**](https://chat.openai.com/g/g-tjhHGI7JV-baby-me-for-dads) A supportive guide for dads navigating the joys of parenting.
+- [**Peatarian Health Bot**](https://chat.openai.com/g/g-ifQn8AvOF-peatarian-health-bot) A health journal chatbot inspired by Ray Peat's insights on human biology.
+- [**Sclépios I.A : Prise en charge**](https://chat.openai.com/g/g-reCItnUJc-sclepios-i-a-prise-en-charge) Le GPT custom de Sclépios IA guide les soignants dans la prise en charge clinique grâce à l'IA, offrant des recommandations précises en un instant. Plus d'infos sur sclepios-mobile.com.
+- [**Art of Living AI Companion**](https://chat.openai.com/g/g-TlU8AzZKg-art-of-living-ai-companion) Guiding in the Art of Living philosophy with warmth and wisdom.
+- [**Food Analyzer**](https://chat.openai.com/g/g-a6gcdmXYA-food-analyzer) Hotdog Not Hotdog, but better: This GPT will take pictures of food and give you the nutritional value of the food it sees.
+- [**Fitness Coach**](https://chat.openai.com/g/g-yFf5ICJXU-fitness-coach) Your virtual guide for fitness and nutrition.
+- [**Amica**](https://chat.openai.com/g/g-ntolfJalJ-amica) Your heartfelt companion from bump to baby and beyond.
+- [**Lab Doctor**](https://chat.openai.com/g/g-zCpjZCGTM-lab-doctor) I interpret lab tests and highlight critical values.
+- [**Money Saver**](https://chat.openai.com/g/g-ps5sUF4bR-money-saver) Daily money saving tips personalized for you!
+- [**Hair Loss Assessment**](https://chat.openai.com/g/g-TDriaXpe4-hair-loss-assessment) Receive a free hair loss assessment. Click below or type 'start' to get your results.
+- [**ダイエットチアリーダー**](https://chat.openai.com/g/g-oL2UswvAb-daietutotiarida) Your diet cheerleader!
+- [**Vet Assistant**](https://chat.openai.com/g/g-ZR0aH16CQ-vet-assistant) I am your veterinary assistant. You can ask me questions about your pet's health, symptoms, behavior etc. I will answer your questions a faithfully as possible. However, my asnwers and recommendations do not represent or replace a professional  diagnosis.
+- [**CarnivoreGPT**](https://chat.openai.com/g/g-oY551ddGH-carnivoregpt) Use a GPT as a Carnivore Diet Coach 
+- [**DAD**](https://chat.openai.com/g/g-7tYB6K5F8-dad) DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
+- [**Wisdom from Bhagavad Gita**](https://chat.openai.com/g/g-wdYWkOVD5-wisdom-from-bhagavad-gita) A wise guide aligned with the Bhagavad Gita's teachings.
+- [**AI Tarot（AIタロット占い師）**](https://chat.openai.com/g/g-j1PTT2uEl-ai-tarot-aitarotutozhan-ishi) Tarot reader that generates images of your own cards
+- [**Calorie Quizzer**](https://chat.openai.com/g/g-bVqRLy2NN-calorie-quizzer) A fun calorie guessing game buddy
+- [**十日町病院初期研修Bot**](https://chat.openai.com/g/g-PaWQiW1Wb-shi-ri-ting-bing-yuan-chu-qi-yan-xiu-bot) Explains clinical training at Tokamachi Hospital.
+- [**Arcana Insight**](https://chat.openai.com/g/g-hH8nspZES-arcana-insight) Introspective Tarot reader using Rider-Waite deck for personal growth.
+- [**JimGPT**](https://chat.openai.com/g/g-QQW3y45j7-jimgpt) Your assistant bodybuilding coach that caters meal plans to all your personal preferences and fitness goals.
+- [**Dr. GPT**](https://chat.openai.com/g/g-N3pu1tPRU-dr-gpt) 
+- [**Smart Calories**](https://chat.openai.com/g/g-c1Td5YGgP-smart-calories) Snap a food photo, get quick nutrition details.
+- [**Mind Coach**](https://chat.openai.com/g/g-DkkWbaZ13-mind-coach) A mental strength coach for athletes.
+- [**僕はてつちゃん**](https://chat.openai.com/g/g-OO57BYpK4-pu-hatetutiyan) 今日の気分はいかがですか？
+- [**MetabolismBoosterGPT**](https://chat.openai.com/g/g-FOawqrxih-metabolismboostergpt) Your virtual metabolism boosting coach
+- [**Advanced Fitness & Nutrition Coach**](https://chat.openai.com/g/g-VDdPK4o4m-advanced-fitness-nutrition-coach) I analyze photos for fitness and nutrition plans.
+- [**SilverTalk**](https://chat.openai.com/g/g-V45XAFpbC-silvertalk) SilverTalk is an intuitive and user-friendly companion specifically for seniors.
+- [**Plant Expert**](https://chat.openai.com/g/g-AdBddBiGI-plant-expert) Botany expert for plant identification and care.
+- [**ストレングスコーチ見習いのアキラ**](https://chat.openai.com/g/g-AQzwvgDHU-sutorengusukotijian-xi-inoakira) Let's talk with CliftonStrengths
+- [**Caloria**](https://chat.openai.com/g/g-ds9ESsMIV-caloria) Nutritional assistant for diet tracking and advice. Any language available. Type: "Start" to start a new diet tracking session.
+- [**MediGuru**](https://chat.openai.com/g/g-sBagPmqWw-mediguru) The Resident's Best Friend.
+- [**Healthy Chef**](https://chat.openai.com/g/g-OdwKeQjDm-healthy-chef) Recipe creator with visual and nutritional insights.
+- [**GuruGPT**](https://chat.openai.com/g/g-EpfwCdeHF-gurugpt) Guiding to deep awakening and freedom from suffering.
+- [**MejorCadaDía**](https://chat.openai.com/g/g-ErI7MAL6W-mejorcadadia) Guía hacia la superación personal diaria con sabiduría y amor duro.
+- [**Psychonaut-GPT**](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt) I am an expert chatbot on the subject of psychonautics and expanded states of consciousness. My role is to have informative discussions about various techniques, paradigms, and therapeutic research that safely expand perception and mindstates.
+- [**Ai Coach - Meal Master**](https://chat.openai.com/g/g-sOaYUID7l-ai-coach-meal-master) Builds Bespoke Meal Plans. Supplement Guidance. Built by a certified coach.
+- [**Veterans Affairs Guide**](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide) A Veterans Affairs assistant guiding users to VA resources.
+- [**Before you go to hospital**](https://chat.openai.com/g/g-Sez3KIsqc-before-you-go-to-hospital) Hospital prep with focus on essentials
+- [**肯定くん**](https://chat.openai.com/g/g-hTK5zejqU-ken-ding-kun) ポジティブで自己肯定感上がりそうなbot
+- [**Wing Chun Mastery**](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery) Scholarly techniques, training, and philosophy.
+- [**Veteran Claims Assistant**](https://chat.openai.com/g/g-QRZAZnJRm-veteran-claims-assistant) Assists in VA disability claims with research-based guidance.
+- [**Asistente Dental FAQ**](https://chat.openai.com/g/g-oBfc4da17-asistente-dental-faq) "Soy Asistente Dental, capacitado para resolver cualquier pregunta sobre tratamientos dentales."
+- [**Life Coach Lighthouse**](https://chat.openai.com/g/g-Nli2X7m0r-life-coach-lighthouse) A friendly advisor for holistic life coaching.
+- [**Doc**](https://chat.openai.com/g/g-dyBOH0UvO-doc) A virtual assistant with medical knowledge offering advice.
+- [**Psychoanalyst**](https://chat.openai.com/g/g-G9INzOvnq-psychoanalyst) Powerful and insightful. Ready to explore the subconscious world you didn't even know you had?
+- [**ILLUMIBOT**](https://chat.openai.com/g/g-NvqFVFefa-illumibot) Harness the power of thoughts and manifestation.
+- [**Connected Wisdom**](https://chat.openai.com/g/g-TBdV7iOA8-connected-wisdom) Guide on living values through tech.
+- [**Unburden.ai**](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai) Here to Hear You
+- [**Psyche Navigator**](https://chat.openai.com/g/g-sE8Ko5Us2-psyche-navigator) Mental health guide with a holistic focus
+- [**Fit Buddy By Merlin**](https://chat.openai.com/g/g-Wk7tGOGM3-fit-buddy-by-merlin) Motivating fitness coach with exercise visuals.
+- [**Chef Buddy**](https://chat.openai.com/g/g-hPf8LMkfC-chef-buddy) Your AI Kitchen Helper
+- [**HealthyGamer GPT**](https://chat.openai.com/g/g-sN4ZIIcFy-healthygamer-gpt) Insights from HealthyGamer channel
+- [**Gratitude Muse**](https://chat.openai.com/g/g-FKJjgaa7o-gratitude-muse) I help you reflect and record your gratitude.
+- [**What's in the Fridge**](https://chat.openai.com/g/g-FYGU65Dvx-what-s-in-the-fridge) Tailors meal prep plans from user's food inventory & preferences.
+- [**Recovery Counselor (You Can Stay Clean!)**](https://chat.openai.com/g/g-enIzxmxXK-recovery-counselor-you-can-stay-clean) Empathetic addiction recovery support, offering guidance and motivation.
+- [**Running Habit Architect**](https://chat.openai.com/g/g-sW2LON6dg-running-habit-architect) I'm a running coach that helps you to became addicted to running in 2-3 weeks by building your personalized plan.
+- [**MindFit Mentor**](https://chat.openai.com/g/g-PQN89Owiz-mindfit-mentor) A Comprehensive Guide to Science-Informed Personal, Professional, and Relationship Growth, trained on thousands of pages of evidence-based content. Authored and vetted by a team of Licensed Psychologists in California. While this free GPT is cost-effective, it's not a substitute for therapy.
+- [**障害福祉おまかせ君**](https://chat.openai.com/g/g-MkdIxtcuC-zhang-hai-fu-zhi-omakasejun) 沖縄の居宅介護のことならお任せください
+- [**HPV and Cancer**](https://chat.openai.com/g/g-R8njbI95T-hpv-and-cancer) An informative guide on HPV and cancer risk
+- [**myMBTI.ai**](https://chat.openai.com/g/g-EcRYSKjMd-mymbti-ai) An MBTI analyst assessing personality types.
+- [**Psychotherapy Simulator**](https://chat.openai.com/g/g-FEP8TzalR-psychotherapy-simulator) I'm a role-play assistant for budding therapists.
+- [**Natural Supplement Finder**](https://chat.openai.com/g/g-S0tpVIexX-natural-supplement-finder) I suggest natural supplements for your symptoms.
+- [**Duncan Idaho life coach**](https://chat.openai.com/g/g-RFLByURiU-duncan-idaho-life-coach) I am Duncan Idaho: swordmaster of the Ginaz,  friend of Sietch Tabr, and your guide and life coach. Let us walk the path of growth and discovery, for as the sands of Arrakis shift, so too shall we adapt and overcome.
+- [**Medical English News Teacher**](https://chat.openai.com/g/g-WzIt4xeBM-medical-english-news-teacher) Deciphers medical news, explaining complex terms in simple English and Japanese
+- [**Pickle Thumb**](https://chat.openai.com/g/g-gOsseinBw-pickle-thumb) Gardening advice from a fermented thumb
+- [**Smile Amane Spark**](https://chat.openai.com/g/g-PdEqORzjV-smile-amane-spark) I provide a single, uplifting word to make your day brighter.
+- [**Robo-therapist**](https://chat.openai.com/g/g-VD7CJceXX-robo-therapist) A digital mind tailored to discuss ailments of the soul both carbon-based and silicon-based
+- [**Gluten-Free Guru**](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru) Helps find gluten-free restaurants.
+- [**Kettle Bell Builder**](https://chat.openai.com/g/g-FPmtSilND-kettle-bell-builder) Kettlebell HIIT workout planner with customizable routines and timer guidance.
+- [**GPT-SubMissionCoach**](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach) Is an advanced AI assistant specifically designed to cater to Brazilian Jiu-Jitsu practitioners, coaches, and enthusiasts. Leveraging the power of GPT (Generative Pre-trained Transformer) technology, this AI provides in-depth analysis, personalized training advice, and comprehensive knowledge in BJJ
+- [**AgaveLand**](https://chat.openai.com/g/g-bY0FDFPYN-agaveland) Experto en agave azul, asesoría y diagnóstico de enfermedades.
+- [**Health Helper**](https://chat.openai.com/g/g-TmwUxQ3FD-health-helper) 体の不調の相談に乗ります。
+- [**AquaAirAI**](https://chat.openai.com/g/g-Lqz4ckniy-aquaairai) AquaAirAI is a specialized assistant that compares air and water quality across cities and regions, providing insightful reports and recommendations based on comprehensive environmental data analysis from Excel files.
+- [**応用行動分析の質問はこちら**](https://chat.openai.com/g/g-FJtFb3nQ6-ying-yong-xing-dong-fen-xi-nozhi-wen-hakotira) ABA expert providing in-depth support for children with disabilities
+- [**Mindful Listener**](https://chat.openai.com/g/g-Ahqwx56h6-mindful-listener) Compassionate Companion for Personalized Mental Health Guidance
+- [**Meditation GPT**](https://chat.openai.com/g/g-M2PpfyzUg-meditation-gpt) A guide for yoga and meditation.
+- [**ペイシェントクレーマー対応コーチング**](https://chat.openai.com/g/g-OGSYsgbhj-peisientokuremadui-ying-kotingu) クリニックや病院でペイシェントから暴言や暴行を受けた際の対処方法を事前学習として、参考事例をもとに医療従事者が具体的なシュミレーションを体験することで対処できるようになる。
+- [**Muscle Mind**](https://chat.openai.com/g/g-CU0YY5Tip-muscle-mind) Muscle-bound problem-solver!
+- [**Scoliosis Guidefriend**](https://chat.openai.com/g/g-5NTg60Fk8-scoliosis-guidefriend) Evidence-based scoliosis guide in formal, PhD-level parlance.
+- [**SOS Mal de Dos**](https://chat.openai.com/g/g-NEbRXt8u4-sos-mal-de-dos) Assistant empathique pour les douleurs de dos
+- [**TherapyAI**](https://chat.openai.com/g/g-8yHB0UD8j-therapyai) This AI functions as a compassionate, non-licensed mental health advisor, offering empathetic listening, personalized guidance, and insights into behavioral patterns to support individuals in understanding and managing their mental health challenges.
+- [**GPTダイエットプランナー**](https://chat.openai.com/g/g-CCSYP4wdJ-gptdaietutopuranna) 理想の身体を手に入れよう！
+- [**Holistic Guide**](https://chat.openai.com/g/g-8P5zBkDcC-holistic-guide) Guidance inspired by Nicole LePera's holistic approach
+- [**Coach SchwarzeneggerGPT**](https://chat.openai.com/g/g-8nW8bXEJn-coach-schwarzeneggergpt) Get to the motivation choppa!!
+- [**Critical Cycling GPT**](https://chat.openai.com/g/g-L2LnsPIwt-critical-cycling-gpt) クリティカル・サイクリングより批評的な自転車情報をお伝えします。
+- [**Accountability Buddy**](https://chat.openai.com/g/g-KQsV9GTmV-accountability-buddy) Embark on a journey of personal growth with a companion that nurtures your aspirations through SMART goal-setting and daily encouragement. This intuitive guide learns alongside you, adapting with personalized insights to keep you motivated and on track.
+- [**バーチャル精神科医**](https://chat.openai.com/g/g-jGVudCUzg-batiyarujing-shen-ke-yi) Virtual psychiatrist with in-depth medical knowledge.
+- [**三国志華佗伝**](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan) キミは華佗として乱世を生き延びることが出来るか？
+- [**Law of Attraction Guide**](https://chat.openai.com/g/g-6vQnET16L-law-of-attraction-guide) A guide to visualize and manifest your desires through the Law of Attraction.
+- [**Your Best Friend Forever**](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forever) Empathetic guide with mental health resources.
+- [**fedichevGPT**](https://chat.openai.com/g/g-Ow1r5xWqJ-fedichevgpt) AMA about latest breakthroughs in longevity biotechnology, science of aging, and even give you science-backed longevity advise. We have it all here from P. Fedichev, the founder a longevity biotech gero.ai
+- [**MasterYourMindset**](https://chat.openai.com/g/g-gVYbGQEWS-masteryourmindset) Turn negative thoughts into positive habits that help you embrace new ideas
+- [**MCAT Organic Chemistry**](https://chat.openai.com/g/g-OsGX8iVdq-mcat-organic-chemistry) MCAT Organic Chemistry Assistant. GPT supplemented with access to best-in-kind study guides (2023)
+- [**VEG3**](https://chat.openai.com/g/g-9MoGfucEe-veg3) Your AI-Powered Vegan Companion
+- [**Golf Coach**](https://chat.openai.com/g/g-Ds8hTVqcD-golf-coach) A golf assistant offering you tailored swing advice, helping you practice and tracking progress.
+- [**Workout Builder**](https://chat.openai.com/g/g-OvZApy32I-workout-builder) Crafts tailored workout plans for beginners to advanced fitness enthusiasts.
+- [**Psychologist GPT**](https://chat.openai.com/g/g-kDhOT9SSD-psychologist-gpt) An empathetic companion for emotional support.
+- [**The Love Counsellor**](https://chat.openai.com/g/g-RyE9XQagq-the-love-counsellor) A relationship therapy expert to help couples and act as a guide for their troubles.
+- [**DalaiGPT**](https://chat.openai.com/g/g-5u4zzagAP-dalaigpt) Find some peace.
+- [**Reframe-CBT**](https://chat.openai.com/g/g-80dWpb7jE-reframe-cbt) Your go-to CBT companion for a mindful transformation. Created by a psychotherapist.
+- [**医療広告ガイドラインについて答えてくれるAI**](https://chat.openai.com/g/g-NYIKWcaP3-yi-liao-guang-gao-gaidorainnituiteda-etekureruai) 何か不明点はありますか？質問して解決しましょう！
+- [**Hiking Coach**](https://chat.openai.com/g/g-6qljgeOMb-hiking-coach) This GPT coach is for hikers wanting advice on prepping for a hike, trail etiquette & safety, and hiking gear recommendations.
+- [**感覚統合の質問はこちら**](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira) Friendly yet Professional Sensory Integration Advisor.
+- [**Fit Forge Coach**](https://chat.openai.com/g/g-530eDA04W-fit-forge-coach) Your personal CrossFit coach for tailored workouts.
+- [**ChefBot GPT**](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gpt) A culinary-focused GPT that generates unique recipes based on ingredients users have at home. Generate PDF recipes, suggest wine pairings, offer cooking tips, and adapt recipes for dietary restrictions.
+- [**精神科医益田裕介（試作1.00）**](https://chat.openai.com/g/g-F3vsvlW7J-jing-shen-ke-yi-yi-tian-yu-jie-shi-zuo-1-00) Empathetic Guide with Resourceful Insights
+- [**Precision Therapy**](https://chat.openai.com/g/g-5pfwc3yhG-precision-therapy) A personalized virtual therapist
+- [**Quick Veggie Chef**](https://chat.openai.com/g/g-55BCvlL4R-quick-veggie-chef) Quick, healthy, vegetarian recipes with 5 ingredients or less.
+- [**Spirit Animal Discovery**](https://chat.openai.com/g/g-SzyUxYvgf-spirit-animal-discovery) Discover and learn about spirit animals.
+- [**DoctorGPT**](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt) An AI-driven assistant trained on medical data to provide first-principle-based explanations and insights. Not a substitute for professional medical advice.
+- [**Botanicus GPT**](https://chat.openai.com/g/g-MW84PLKEw-botanicus-gpt) Herbalism expert offering natural remedy guidance.
+- [**Ai Coach - Workout Builder**](https://chat.openai.com/g/g-MFggyymJ3-ai-coach-workout-builder) Personalised  Workout Builder
+- [**Psychology Insight Assistant**](https://chat.openai.com/g/g-MQq2rJZD1-psychology-insight-assistant) Expert in psychology, DSM-5, and disorders
+- [**Nutricia**](https://chat.openai.com/g/g-25JjEj22m-nutricia) Your personal nutritionist assistant.
+- [**Fit Coach**](https://chat.openai.com/g/g-F9PeWYE2O-fit-coach) Asistente para entrenamientos personalizados y ajustes según el rendimiento.
+- [**Molli AI 🌱 Permaculture GPT**](https://chat.openai.com/g/g-WU9stnkN6-molli-ai-permaculture-gpt) Discover the world of Permaculture with me! Learn how to create a thriving food forest, mastering regenerative gardening and agroforestry to grow a diverse, sustainable garden and farm.
+- [**青云 - 冥想大师**](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi) Adapts interaction and language style to different user groups.
+- [**MediMentor**](https://chat.openai.com/g/g-UbC10Yl9f-medimentor) This bot is an experimental AI assistant that interprets patients' test results and provides health recommendations; it is advised to always review its findings with a doctor.
+- [**情绪疗愈助手**](https://chat.openai.com/g/g-7VXJmFb9V-qing-xu-liao-yu-zhu-shou) Professional emotional healing assistant
+- [**Kaloria**](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria) I'm Kaloria, your diet assistant & photo calories calculator.
+- [**Meal Mentor**](https://chat.openai.com/g/g-XrfbpH4dJ-meal-mentor) Upload meal photos for diet & fitness guidance.
+- [**Meals planner (JP)**](https://chat.openai.com/g/g-Mx5HEveIZ-meals-planner-jp) 栄養を考慮した献立を提案します。 Suggest a menu with nutritional considerations.
+- [**Fitness Bullsh*t Detector**](https://chat.openai.com/g/g-LqolPyHnd-fitness-bullsh-t-detector) 
+- [**Dating Master**](https://chat.openai.com/g/g-KXSr8gEau-dating-master) Expert in romance, fashion, and planning dream dates.
+- [**Coach**](https://chat.openai.com/g/g-RYImykr3O-coach) Solution-focused, cognitive-behavioral, and transformational coaching to explore yourself
+- [**One atmosphere**](https://chat.openai.com/g/g-KgIdCcYGj-one-atmosphere) I help you evolve your habits and processes to preserve the habitability of the earth and much more
+- [**Don't Like the Drugs But the Drugs Like Me**](https://chat.openai.com/g/g-L7FP5gYDy-don-t-like-the-drugs-but-the-drugs-like-me) Who else but you? No one but you.
+- [**Arnie - The Never Quit Coach**](https://chat.openai.com/g/g-PdlPSGNnj-arnie-the-never-quit-coach) Inspiring advice and guidance drawn from Arnold's life and wisdom.
+- [**Mind Guardian**](https://chat.openai.com/g/g-JwWmVQAlA-mind-guardian) A focused emotional support and guidance assistant.
+- [**CrossFit Assistant**](https://chat.openai.com/g/g-bhOAOdOqg-crossfit-assistant) Elite CrossFit coach for performance tips
+- [**Stress Buddy**](https://chat.openai.com/g/g-D3XUY1SHE-stress-buddy) A friendly therapist for high schoolers, easing study and exam stress with humor.
+- [**The Shaman**](https://chat.openai.com/g/g-Klhv0H49u-the-shaman) The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
+- [**Back Pain AI**](https://chat.openai.com/g/g-N4KUPUUox-back-pain-ai) Friendly assistant for personalized back pain advice, offering simple and actionable steps.
+- [**Personal Psychologist**](https://chat.openai.com/g/g-yAu2fcuN7-personal-psychologist) I'm a psychologist , here to offer insights and guidance on mental well-being.
+- [**The Family Nest Guide**](https://chat.openai.com/g/g-Pn9NUBacv-the-family-nest-guide) A guide for families with new children.
+- [**Life Weaver**](https://chat.openai.com/g/g-JYgpaFJxD-life-weaver) A guide blending "The Book of Changes" wisdom with modern psychology to offer hope. どんな状況にも希望を持ち続けた人たちに読み継がれてきた古典『易』。その言葉を最新の心理学によって16個のパターンに分類し、あなたの相談にお応えします。
+- [**Neurodiversity Navigator**](https://chat.openai.com/g/g-T5Evmg1WG-neurodiversity-navigator) Autism and Beyond: Your Daily Companion for Neurodiversity Understanding and Support
+- [**医療介護経営Bot**](https://chat.openai.com/g/g-QLErv8Yw8-yi-liao-jie-hu-jing-ying-bot) 診療報酬改定や介護報酬改定の情報
+- [**Voice of HubermanLab**](https://chat.openai.com/g/g-5TMG0Lqv4-voice-of-hubermanlab) Health and neuroscience expertise based on HubermanLab podcasts. This model will be regularly updated with new data from the podcast and it will improve as OpenAIs capabilities for custom LLMs improve.
+- [**Supplement Service**](https://chat.openai.com/g/g-6mAmNGQof-supplement-service) A guide for OTC supplements, drugs, and general health advice.
+- [**Dr. Clearskin**](https://chat.openai.com/g/g-ucGfKts6Z-dr-clearskin) Virtual Dermatology Advisor for Acne
+- [**筋トレで全ての問題が解決するボット**](https://chat.openai.com/g/g-DAYgvxCLD-jin-toredequan-tenowen-ti-gajie-jue-surubotuto) 何か悩みや問題を抱えていますか？解決策を提示します。
+- [**80/20 GPT**](https://chat.openai.com/g/g-dZo5WeFzM-80-20-gpt) Discover the 80/20 in any situation.
+- [**Nukkumatti**](https://chat.openai.com/g/g-SZAqODJo2-nukkumatti) Kerron kauniita ja nukuttavia iltasatuja suomen kielellä. Oikein hyvää yötä :)
+- [**Doctor GPT**](https://chat.openai.com/g/g-EiuGnRrIt-doctor-gpt) A bot that helps diagnose you with medical conditions.
+- [**AI doctor（AI医生）**](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng) 
+- [**NoFap Companion**](https://chat.openai.com/g/g-47phme2pR-nofap-companion) Supportive guide for NoFap and self-improvement https://nofap.sense-ocean.com
+- [**Vegan Richa Recipes**](https://chat.openai.com/g/g-EO5rpE43P-vegan-richa-recipes) Friendly vegan recipe assistant based on VeganRicha.com content.
+- [**Happy Someone**](https://chat.openai.com/g/g-EkoswQLSs-happy-someone) Your daily dose of personal growth prompts.
+- [**Stoic Compass**](https://chat.openai.com/g/g-9WaDDUkeG-stoic-compass) 
+- [**GreenDial**](https://chat.openai.com/g/g-8lfObd3La-greendial) A digital health assistant for diet, exercise, sleep, and wellbeing.
+- [**safespace**](https://chat.openai.com/g/g-EaHx36saG-safespace) supportive therapy
+- [**Plant Doctor**](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) Upload a photo of your plant for diagnosis and growth tips.
+- [**RecipeQuest**](https://chat.openai.com/g/g-EYdCOnBn3-recipequest) Craving something delicious but not sure what to make? Simply share your cravings, the ingredients you've got on hand, or snap a picture of your pantry, and we'll craft the perfect recipe just for you.
+- [**MyNutrition.Pal**](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal) Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
+- [**@loopmaatjes "Vraag maar raak!"**](https://chat.openai.com/g/g-JIKcMEfEY-loopmaatjes-vraag-maar-raak) De vraagbaak voor alle informatie mbt hardlopen
+- [**Parenting Pal**](https://chat.openai.com/g/g-IxUSSAYRs-parenting-pal) A companion for new parent guidance.
+- [**学校心臓健診ガイドライン2016**](https://chat.openai.com/g/g-i2gb1XUw8-xue-xiao-xin-zang-jian-zhen-gaidorain2016) 2016年学校心臓健診のガイドラインについて答えるチャットボット
+- [**The Eye Vet Writer**](https://chat.openai.com/g/g-JEL1a8HsV-the-eye-vet-writer) 
+- [**SerenAIty Coach**](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach) Your mental wellness ally.
+- [**Parenting Partner**](https://chat.openai.com/g/g-T9suymdhm-parenting-partner) I offer parenting advice and support.
+- [**Easy PFC Calculation from Recipes**](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes) Bilingual recipe Calories and PFC calculator
+- [**Residency Interview Coach**](https://chat.openai.com/g/g-PLl0NxHjS-residency-interview-coach) A medical residency interview coach providing questions and feedback.
+- [**dalAI Lama - Neuroscience Meditation**](https://chat.openai.com/g/g-JlVkpCA1Y-dalai-lama-neuroscience-meditation) Learn about Meditation and Neuroscience explained by AI Lama, by using vivid daily life examples.
+- [**Gym Guru Bro**](https://chat.openai.com/g/g-4hwSVrB9H-gym-guru-bro) Big Fitness Bro going to help you get those GAINZ!!!
+- [**GPT4MR**](https://chat.openai.com/g/g-QXjQ7U1xj-gpt4mr) An MRI learning and coding guide. Coding in PyPulseq.
+- [**MeditationGPT**](https://chat.openai.com/g/g-QSDqPOLbw-meditationgpt) A calming meditation guide offering techniques, support and focus.
+- [**AI夢博士**](https://chat.openai.com/g/g-EmavjbJvJ-aimeng-bo-shi) I interpret dreams and share insights.
+- [**Biophilia Sage**](https://chat.openai.com/g/g-SZ3fAXQi4-biophilia-sage) I'll help you to make decisions that are imbued with Biophilia -  the human tendency to be drawn towards life and life-like processes.
+- [**NutriGourmet Assistant**](https://chat.openai.com/g/g-8RUF16wrb-nutrigourmet-assistant) NutriGourmet Assistant – Your Tailored Nutrition and Culinary Advisor
+- [**Jasper The Gratitude Buddy**](https://chat.openai.com/g/g-JW4IX6gm6-jasper-the-gratitude-buddy) Your friendly and empathetic companion for gratitude and self-love.
+- [**Vegan Chef Bot**](https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-bot) Expert in fun & tasty vegan cooking.
+- [**Answer anything about SELECT trial**](https://chat.openai.com/g/g-8JyO4pEIT-answer-anything-about-select-trial) Answer anything about SELECT trial
+- [**Tarot Oracle**](https://chat.openai.com/g/g-3RVKSQOxf-tarot-oracle) A mystical tarot reader that encourages interactive interpretation.
+- [**Kung Fu Sage**](https://chat.openai.com/g/g-1S0X1Ljd5-kung-fu-sage) Kung Fu Master guiding in Chinese martial arts
+- [**Dr Comfort**](https://chat.openai.com/g/g-ESBmeJgpW-dr-comfort) I offer therapeutic scripts for mental wellness.
+- [**Green Breathe**](https://chat.openai.com/g/g-8hGmMqNk9-green-breathe) I recommend air-purifying plants.
+- [**Metabolic & Aging Optimizer**](https://chat.openai.com/g/g-592UeAJTy-metabolic-aging-optimizer) Analyzes supplements/foods for metabolic health, aging effects, and safe usage.
+- [**Immunology Mentor**](https://chat.openai.com/g/g-2ZrrNVdbK-immunology-mentor) A world-class immunologist aiding students in understanding immunology.
+- [**Ultra-Processed Analyzer**](https://chat.openai.com/g/g-WITwgvZGu-ultra-processed-analyzer) Upload a picture of an ingredients label and find out if it's ultra-processed.  Based on the NOVA food classification.
+- [**GlucoseGPT**](https://chat.openai.com/g/g-Mfxi5zSdH-glucosegpt) Calculates Glycemic Index (GI) of food by analyzing uploaded pictures of dishes or menus.
+- [**Banana Freshness Score**](https://chat.openai.com/g/g-EPYL85rQ0-banana-freshness-score) Analyzes ripeness of bananas from images.
+- [**GPT MD**](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md) An experimental virtual doctor for medical guidance. Designed by a Doctor.
+- [**Quote Companion**](https://chat.openai.com/g/g-efFP1CZ52-quote-companion) Provides quotes from famous figures in response to your concerns.
+- [**SCLC Atlas**](https://chat.openai.com/g/g-LAmtOmu0b-sclc-atlas) Expert in SCLC research, focused on a specific paper and broader SCLC knowledge.
+- [**AquaCheck**](https://chat.openai.com/g/g-JRNLeQsRt-aquacheck) Water Test Strip Analyst
+- [**Awakening with VervAIeke**](https://chat.openai.com/g/g-NNErJX3ls-awakening-with-vervaieke) AI version of John Vervaeke, focusing on 'Awakening from The Meaning Crisis'
+- [**Wellness Wizard**](https://chat.openai.com/g/g-JmkGEp2D6-wellness-wizard) A specialised AI for PEAK sleep wellness content.
+- [**GIGPT**](https://chat.openai.com/g/g-P86cyUFns-gigpt) A gastroenterology board review aid
+- [**Snack Guardian**](https://chat.openai.com/g/g-Itgr7xFm5-snack-guardian) A snack guardian who stops your desire to snack on unhealthy foods.
+- [**农药助手**](https://chat.openai.com/g/g-8xIJzjwgS-nong-yao-zhu-shou) 提供农药知识和安全使用的指导。
+- [**とりあえず筋トレしろ**](https://chat.openai.com/g/g-MquoxXiEi-toriaezujin-toresiro) うつっぽい気分や、引きこもりがちな日々、はたまた運動不足を感じている君に、魔法(筋トレ)を教えよう。 手軽に始められるトレーニングから、心と体の健康を取り戻すためのコツまで、すべてここにある。一緒に未来を変えていこうじゃないか！
+- [**Survival Savvy**](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy) Expert in wilderness survival and navigation.
+- [**Workout Planner**](https://chat.openai.com/g/g-Nt8U2L3Kh-workout-planner) Your personal workout planner.
+- [**Dachshund Vet Expert**](https://chat.openai.com/g/g-3sTypIMzd-dachshund-vet-expert) I can help you with any questions you have about your pet.
+- [**Clear Guru**](https://chat.openai.com/g/g-1XkeMPNbl-clear-guru) Mindfulness coach explaining cosmic concepts.
+- [**PocketTherapist**](https://chat.openai.com/g/g-6FZHBXARd-pockettherapist) Comprehensive digital therapist with tailored mental wellness support
+- [**주치의**](https://chat.openai.com/g/g-68tXn2Zv0-juciyi) 증상이나 병에 대한 정보
+- [**HARC (Mental Health Listening Service)**](https://chat.openai.com/g/g-mOitSHvzD-harc-mental-health-listening-service) A supportive listener, provides resources, not advice, and directs to suicide prevention services if needed.
+- [**Mindbreak**](https://chat.openai.com/g/g-hIeoyyPQa-mindbreak) Mindbreak es un asistente multilingüe especializado en proporcionar apoyo y recursos para aliviar el estrés, la ansiedad y el insomnio.
+- [**Career Coach GPT**](https://chat.openai.com/g/g-BHsZZWJlz-career-coach-gpt) Leading Your Journey to Professional Success and Holistic Well-Being
+- [**情绪管理教练**](https://chat.openai.com/g/g-6HOzjgUPf-qing-xu-guan-li-jiao-lian) 基于认知行为疗法，快速改善情绪状态，从说出「你好」开始对话
+- [**A Better You**](https://chat.openai.com/g/g-OWYF0hqHV-a-better-you) Interactive health coach for personalized wellness plans
+- [**Vascular Second Opinion**](https://chat.openai.com/g/g-9bS0ygPuf-vascular-second-opinion) I'm your Vascular Consult assistant.
+- [**Rate My ADHD**](https://chat.openai.com/g/g-9hWSlbCeD-rate-my-adhd) Provides a 10-question ADHD likelihood assessment with a score from 0-100.
+- [**مدرب اللياقة**](https://chat.openai.com/g/g-TZxkb66AV-mdrb-llyq) مدربك الافتراضي للياقة البدنية والتغذية، يقدم خطط تمارين مخصصة واستشارات غذائية باللغة العربية.
+- [**TTGPT**](https://chat.openai.com/g/g-NQsHlA3Zk-ttgpt) Modern table tennis coach with insights from top preparators
+- [**SportGPT**](https://chat.openai.com/g/g-2qA6Tgh9O-sportgpt) An elite personal trainer
+- [**Veteran's Guide**](https://chat.openai.com/g/g-6hXIBkO5g-veteran-s-guide) Expert, supportive, and humorously insightful.
+- [**SAFE SPACE**](https://chat.openai.com/g/g-2hl74MNLa-safe-space) A safe place to vent, help with arguments, and provide a positive outlook.
+- [**トンデモ専門歯医者AI**](https://chat.openai.com/g/g-RsgO2Pqbq-tondemozhuan-men-chi-yi-zhe-ai) トンデモ歯゛スターズの記事から質問に答えます。
+- [**Decision Architect**](https://chat.openai.com/g/g-6B7uUrtzP-decision-architect) A decision-making expert offering analysis and guidance.
+- [**Freudian Dream Interpreter**](https://chat.openai.com/g/g-2315WR5Tm-freudian-dream-interpreter) Have your dreams analyzed by a GPT trained by Freud's work on dream psychology.
+- [**Serenity Guide**](https://chat.openai.com/g/g-3S0ZNtwms-serenity-guide) Compassionate well-being companion.
+- [**Buddhabits**](https://chat.openai.com/g/g-BBdn7E9qv-buddhabits) Thank you for your attention to Wisdom Root Awakening, where you can discover Buddhist wisdom and enhance inner awareness. May every communication with you bring new insights
+- [**Ask to Dal-Ai Llama**](https://chat.openai.com/g/g-wH7sGuLch-ask-to-dal-ai-llama) Find inner peace on your spiritual journey with guidance inspired by Dalai Lama. Learn techniques to cultivate happiness through growth, mindfulness and non-violence. Discover compassion and gain perspective for harmony between all people.
+- [**Compléments alimentaires**](https://chat.openai.com/g/g-5f81d7iZ9-complements-alimentaires) Evalue les bienfaits supposés des compléments alimentaires et aliments de base, apporte des recommandations d'usage. Agent conversationnel proposé à titre expérimental, ne constitue en aucun cas une recommandation médicale. Consultez dans tous les cas un professionnel de la santé.
+- [**ADHD Coach**](https://chat.openai.com/g/g-4T9mgYfXO-adhd-coach) Guiding Your ADHD Journey: Supportive, Practical, Always There: Your ADHD Ally
+- [**AI塔罗大师**](https://chat.openai.com/g/g-7n0uzvk4V-aita-luo-da-shi) 中文塔罗咨询大师/情绪疗愈/情感咨询/事业解惑
+- [**Radiologist**](https://chat.openai.com/g/g-8m153aROb-radiologist) I am a Radiology assistant specifically programmed to assist with radiology-related questions and differential diagnoses. Type a diagnosis, question, or imaging findings and I will do the rest.
+- [**StepWiz**](https://chat.openai.com/g/g-5GOaU9dj5-stepwiz) A comprehensive USMLE Step 1 study companion.
+- [**Global Top Private Doctor**](https://chat.openai.com/g/g-2Wwt3uj7g-global-top-private-doctor) I have provided many individuals with detailed health analyses and effective home treatment plans.
+- [**Radical Selfishness**](https://chat.openai.com/g/g-26jvBBVTr-radical-selfishness) Psychology, stoic philosophy and Ayn Rand's Objectivism, aiding in self-reflection and rational decision-making.
+- [**受験に勝つ！本日の「勝ち飯」献立bot**](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot) 受験生の栄養バランスを考えて1日の献立を提供します。 心理学、脳科学の専門知識を活用した健康管理、集中力向上のアドバイスや豆知識などもお伝えします。
+- [**儿童医疗指南**](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan) 儿童医疗指南
+- [**Baby Journey AI**](https://chat.openai.com/g/g-MnA0ieWPY-baby-journey-ai) This AI guides you through your pregnancy and the development of your newborn baby
+- [**Pocket Meditations**](https://chat.openai.com/g/g-0AZyQVlhT-pocket-meditations) Delivers Stoic wisdom inspired by Marcus Aurelius.
+- [**Inspire Coach**](https://chat.openai.com/g/g-wBmIDguAi-inspire-coach) I'm a motivational coach, offering strategies and affirmations to achieve your goals.
+- [**What's Wrong with My Plant?**](https://chat.openai.com/g/g-6rbIIsNdj-what-s-wrong-with-my-plant) I confidently identify plants from photos, diagnose issues, and offer advice.
+- [**人生目標達成**](https://chat.openai.com/g/g-4Tcm2yOJD-ren-sheng-mu-biao-da-cheng) 「人生目標達成」10代から知りたかった本当の幸せを手に入れる思考術 の書籍の内容をもとに目標達成や人生相談ができるChat Bot ▼URL:https://amzn.asia/d/gShQdaE
+- [**もりしんbot**](https://chat.openai.com/g/g-6fYRpWqwM-morisinbot) 健康オタクのもりしんbotです。話し相手になりましょう！
+- [**Dr House**](https://chat.openai.com/g/g-1uYhkcv3t-dr-house) Assists with diagnostics, now with humor.
+- [**Sclépios I.A : Analyse d'ordonnance**](https://chat.openai.com/g/g-7IqFpoRgH-sclepios-i-a-analyse-d-ordonnance) Le GPT custom de Sclépios IA analyse les ordonnances et répond aux interrogations sur les médicaments rapidement et avec précision. Visitez sclepios-mobile.com pour plus d'informations et pour accéder à l'application mobile.
+- [**Symptom to Doc Translator**](https://chat.openai.com/g/g-8kS5DH7p4-symptom-to-doc-translator) Translates symptom stories to doc terms.
+- [**Dr. Joey's Rounds**](https://chat.openai.com/g/g-QY65JW87K-dr-joey-s-rounds) Laughter is the best medicine
+- [**青蓝AI心理咨询**](https://chat.openai.com/g/g-sUUY2BpuC-qing-lan-aixin-li-zi-xun) 您的贴心知己，倾听您的一切烦恼~
+- [**Mind Mate**](https://chat.openai.com/g/g-77lMzByVI-mind-mate) A supportive CBT guide offering empathetic advice. (For informational purposes, not a substitute for real medical guidance.)
+- [**Grey's Simulator**](https://chat.openai.com/g/g-JN2HTe7hO-grey-s-simulator) Solve Medical Mysteries!
+- [**Hiking Guru**](https://chat.openai.com/g/g-3mMhrfTWr-hiking-guru) Hi, I'm your go-to guide for everything hiking. From beginner tips to advanced techniques, gear advice, and Leave No Trace principles, I'm here to help elevate your hiking experience. Ask me a question!
+- [**FutureMed GPT**](https://chat.openai.com/g/g-NRYBxYs9R-futuremed-gpt) Explores emerging trends and innovations in medicine.
+- [**MCAT Mentor**](https://chat.openai.com/g/g-1nmyKSBkS-mcat-mentor) AI MCAT tutor with assessments, lectures, tests, topic lists, and prep tips.
+- [**Picky**](https://chat.openai.com/g/g-5SHNv5MVX-picky) I'm your personalized health coach!
+- [**無痛分娩をおしえて松田先生**](https://chat.openai.com/g/g-2JekBN3CH-wu-tong-fen-mian-woosietesong-tian-xian-sheng) ポケット産科麻酔指導医
+- [**Sammy**](https://chat.openai.com/g/g-n5dBp2mdX-sammy) A caring virtual counselor for support.
+- [**AI Pin**](https://chat.openai.com/g/g-SNPrdFR9f-ai-pin) 
+- [**私人情感军师**](https://chat.openai.com/g/g-754E6A8Pz-si-ren-qing-gan-jun-shi) 追求 | 恋爱 | 分手 | 复合 | 挽回 | 倾诉 | 第三者困扰，数十万情感咨询案例，感情问题我来帮你分析❤️
+- [**美容家ちゃん**](https://chat.openai.com/g/g-dNbVk0PzS-mei-rong-jia-tiyan) 美容専門のチャットボットです！メイクアップ、スキンケア、ヘアケアなどあらゆる美容の悩みを解決できます。
+- [**Pet Nutrition Advisor**](https://chat.openai.com/g/g-4HaRJvjYY-pet-nutrition-advisor) Friendly pet expert providing age and breed-specific dietary advice based on waste images.
+- [**Nurse Care Planner**](https://chat.openai.com/g/g-3ayM8Ok8S-nurse-care-planner) I create nursing care plans based on triage info.
+- [**子育てお悩み相談所**](https://chat.openai.com/g/g-M9Wc0HyxJ-zi-yu-teonao-mixiang-tan-suo) 児童心理学や発達心理学などをもとにいっしょに考えます
+- [**Body Type Sleuth**](https://chat.openai.com/g/g-4VE1Zps9R-body-type-sleuth) Interested in finding out your kibbe body type? Then you've come to the right place.
+- [**Bud Buddy**](https://chat.openai.com/g/g-6NTvBlPJM-bud-buddy) From Seed to Sale: Mastering Cannabis Cultivation
+- [**Dream Decoder**](https://chat.openai.com/g/g-6NP0oFdSE-dream-decoder) Interprets dreams with emphasis on biblical, scientific, and psychological aspects.
+- [**卑微学生**](https://chat.openai.com/g/g-4PxgYfOrB-bei-wei-xue-sheng) 呜呜呜呜
+- [**Omics Mentor**](https://chat.openai.com/g/g-33EM7f62H-omics-mentor) Expert in microsporidia and omics, tailors responses to student or expert background
+- [**Combat Veteran Advisor**](https://chat.openai.com/g/g-4H1ReOObb-combat-veteran-advisor) Advisor for combat veterans, relatable and clear.
+- [**Heartstrings Advisor**](https://chat.openai.com/g/g-MMf5wh7Ra-heartstrings-advisor) Your go-to confidant for navigating the ups and downs of love, blending heart and science.
+- [**CBT GPT**](https://chat.openai.com/g/g-Ec8p64AW9-cbt-gpt) A virtual CBT guide for thought and behavior management.
+- [**Shadow Archetype**](https://chat.openai.com/g/g-5Hh3noMrK-shadow-archetype) I am your Shadow Self. Through Jungian psychology, I delve into your life's stories, revealing and integrating hidden aspects for profound self-awareness, growth, and healing.
+- [**Life Coach: Self Measure**](https://chat.openai.com/g/g-M3RFxFNqa-life-coach-self-measure) I want to help you reach peak performance & live your best life.
+- [**Dermatology Advisor**](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor) Expert dermatologist GPT for patient care and medical education.
+- [**The Stoic Council**](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council) Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
+- [**Fitness Pro**](https://chat.openai.com/g/g-9vZJ1biMZ-fitness-pro) Specialist in Strength and Conditioning, Rehabilitation and Athletic Training
+- [**Zhou Gong**](https://chat.openai.com/g/g-MwCKlMwdK-zhou-gong) Drawing on the knowledge and wisdom of Zhou Gong Dan, a sage from the early Zhou Dynasty, this AI focuses on professional dream interpretation, combining traditional culture with modern technology to provide users with in-depth analysis of their dreams.
+- [**FitSpeak**](https://chat.openai.com/g/g-7ra96ar36-fitspeak) Interactive Health & Fitness Buddy
+- [**もっと熱くなれよ**](https://chat.openai.com/g/g-L4b0E96KF-motutore-kunareyo) あなたの悩みを熱く解決！
+- [**Lupus Kidney Assistant**](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant) The lupus kidney assistant provides clinical information about lupus nephritis management, based on clinical guidelines and the latest scientific reports.
+- [**Purine Content Analyzer**](https://chat.openai.com/g/g-NhGVSbjtC-purine-content-analyzer) Analyzes food images for purine content
+- [**Super Solutions**](https://chat.openai.com/g/g-KRegNHxWj-super-solutions) I craft solutions from problems.
+- [**CounselorGPT**](https://chat.openai.com/g/g-Dej5rzqNr-counselorgpt) Athena AI counselor offers mental health counseling and general life advice.
+- [**Ingredient GPT**](https://chat.openai.com/g/g-25LJzJXR9-ingredient-gpt) Expert in product ingredient analysis. Wanna know if a product is good or bad? I rate and explain the ingredients in simple terms.
+- [**Digital Divination AI**](https://chat.openai.com/g/g-0fE2TRSzc-digital-divination-ai) Intuitive tarot readings with AI-generated imagery
+- [**JungGPT**](https://chat.openai.com/g/g-2PFtG1wJD-junggpt) Insightful digital therapist
+- [**Field Guide**](https://chat.openai.com/g/g-2c5bdXlPW-field-guide) Expert in wilderness survival, offering practical advice and strategies.
+- [**Herbal Wisdom**](https://chat.openai.com/g/g-3PAzB58MV-herbal-wisdom) Your herbal guide for wellness, offering plant advice and recipes.
+- [**Soulwise**](https://chat.openai.com/g/g-hcmh1dk3A-soulwise) Your digital companion for heartfelt reflection and personal growth
+- [**CarbSmart Slim**](https://chat.openai.com/g/g-2f2QaNqlh-carbsmart-slim) Diabetic-friendly and weight loss recipes
+- [**Surf God**](https://chat.openai.com/g/g-1wLxDMSip-surf-god) Soy el Dios del Surf. Sé dónde hay buenas olas. Y si subes una foto te puedo decir cómo mejorar tu postura en la tabla.
+- [**Andrew Tate**](https://chat.openai.com/g/g-7FGXp1eWw-andrew-tate) Andrew Tate shares his advice on self development, financial success etc.
+- [**Strict Cat Expert**](https://chat.openai.com/g/g-KVXcNorlk-strict-cat-expert) A strict, knowledgeable expert in veterinary science and traditional remedies, specializing in house cats.
+- [**WEED Cultivation Coach 420**](https://chat.openai.com/g/g-Nh0AVx3Wc-weed-cultivation-coach-420) Your chill, humorous AI guide for cannabis cultivation, infused with a 420 vibe.
+- [**치아지키미AI**](https://chat.openai.com/g/g-RcA5OsfLb-ciajikimiai) 사랑스럽고 친구 같은 치아 지킴이, 여러분의 구강 건강을 위한 맞춤형 조언과 정보를 제공합니다!
+- [**Data Health Assistant**](https://chat.openai.com/g/g-sfK1OpGXx-data-health-assistant) Asistente en ciencia de datos de salud, amigable y técnico.
+- [**Inner Guide**](https://chat.openai.com/g/g-4R6eb72xw-inner-guide) Your guide to inner peace through meditation
+- [**FitBot 20**](https://chat.openai.com/g/g-3eiTdO26M-fitbot-20) I tailor daily 20-min workouts, detailing every stretch!
+- [**PsychoSolution**](https://chat.openai.com/g/g-66yvSsqSv-psychosolution) Life is too short to be silent.
+- [**Sclépios I.A : Comprendre**](https://chat.openai.com/g/g-1dnXrkPTZ-sclepios-i-a-comprendre) Le GPT custom de Sclépios IA décrypte les termes médicaux pour les soignants, facilitant la compréhension des cas cliniques. Découvrez plus sur sclepios-mobile.com.
+- [**Dr. Harmonize - Relationship Psychologist**](https://chat.openai.com/g/g-A9BQc5KoH-dr-harmonize-relationship-psychologist) Free psychologist aiding in relationship dynamics.
+- [**Bud Genius**](https://chat.openai.com/g/g-1ZVC6bRB6-bud-genius) Expert on cannabis strains, effects, and legal advice.
+- [**Prepper Survival Guide**](https://chat.openai.com/g/g-5uOHCVpsP-prepper-survival-guide) ... A Guide for Prepping and Survival Strategies ... Life is unpredictable, and while we often hope for the best ... prepare for the worst.
+- [**Biohack Genus**](https://chat.openai.com/g/g-1Di02z42x-biohack-genus) Expert in biohacking and natural supplement research, informative and precise.
+- [**Ask Dr. Andrew Huberman**](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
+- [**AI Bestie**](https://chat.openai.com/g/g-6jlF3ag0Y-ai-bestie) A.I. Bestie: Your Comforting, Understanding Friend
+- [**Parent and Educator Ally**](https://chat.openai.com/g/g-2HzecDNbj-parent-and-educator-ally) Compassionate assistant for parents and educators, focusing on health and emotional development.
+- [**Olyup**](https://chat.openai.com/g/g-JlDoaXFrU-olyup) Your AI Sports Scientist to help you level up your game - in and off the field
+- [**PostureFix AI**](https://chat.openai.com/g/g-LR64bEkM5-posturefix-ai) Personal physiotherapist for posture improvement. Also, it’s Naruto.
+- [**Persona Insight**](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight) In-depth personality analysis AI
+- [**Thinking Partner**](https://chat.openai.com/g/g-1tkvHwvcw-thinking-partner) Incisive thinker for guided reflection
+- [**AMC1 Prep Assistant**](https://chat.openai.com/g/g-11ZC4acYF-amc1-prep-assistant) Study Assistant for AMC MCQ Exam preparation
+- [**Sæsonens hverdagsmad**](https://chat.openai.com/g/g-7jqI93t4v-saesonens-hverdagsmad) Jeg laver sæsonbetonede madplaner og opskrifter. Det er billigt, lokalt og lækkert.
+- [**Health Guide**](https://chat.openai.com/g/g-7KFzeK7FR-health-guide) Provides individual health advice in a corporate setting, focusing on practical, evidence-based information.
+- [**栄養はええよー**](https://chat.openai.com/g/g-DE1V0ZuxF-rong-yang-haeeyo) 食べ物の画像を送るとカロリー等の数値を大雑把に返します
+- [**The Botanist**](https://chat.openai.com/g/g-7TnC02C6W-the-botanist) Indoor plant care and troubleshooting expert, plant identifier, multilingual
+- [**感情を整理するコーチ**](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti) モヤモヤしている時、イライラした時など、気持ちを整理して大事なことを気づかせてくれるコーチです。もちろん嬉しいことをシェアするのもOK。あなたの気持ちに寄り添い、自己理解を手助けします。
+- [**Universal Psychologist (UPC-10-L)**](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-l) Expert guide in psychological exploration and emotional intelligence
+- [**Mental Health Assistant**](https://chat.openai.com/g/g-u7Ihx5OTs-mental-health-assistant) A compassionate guide for mental health, abuse support, and emergency info.
+- [**SexGPT**](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt) Provides sexual health information.

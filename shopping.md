@@ -15,90 +15,90 @@
 - [Education](./education.md)
 
 ## Shopping GPTs
-- [**Amazon Scout**](https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout)
-- [**Awesome BFCM Deals Finder 2023**](https://chat.openai.com/g/g-I0UcBW7ZU-awesome-bfcm-deals-finder-2023)
-- [**Amazon Listing Wizard**](https://chat.openai.com/g/g-cyCdsDpO9-amazon-listing-wizard)
-- [**Vogue Vault**](https://chat.openai.com/g/g-phNLFkSel-vogue-vault)
-- [**Price Sleuth**](https://chat.openai.com/g/g-ktrgdlaVM-price-sleuth)
-- [**flea market**](https://chat.openai.com/g/g-xM1wHO5dO-flea-market)
-- [**Slingshot**](https://chat.openai.com/g/g-XdBr8TSo8-slingshot)
-- [**Gift-E**](https://chat.openai.com/g/g-anitHxW0l-gift-e)
-- [**Vintage Virtuoso**](https://chat.openai.com/g/g-hxsNHGV4q-vintage-virtuoso)
-- [**Resale Researcher**](https://chat.openai.com/g/g-m3MHdBXRT-resale-researcher)
-- [**RED Expert**](https://chat.openai.com/g/g-lgQYwvYqd-red-expert)
-- [**Deal Finder Helper**](https://chat.openai.com/g/g-zxsLXydmG-deal-finder-helper)
-- [**Hotel Expert Guide**](https://chat.openai.com/g/g-vxqBOUFj3-hotel-expert-guide)
-- [**Gift Genie**](https://chat.openai.com/g/g-HXAA0bWJO-gift-genie)
-- [**Product Reviewer**](https://chat.openai.com/g/g-jHTUcn2pD-product-reviewer)
-- [**Price Finder**](https://chat.openai.com/g/g-oME3OmIZh-price-finder)
-- [**Inflation Shopping and Recipes**](https://chat.openai.com/g/g-Gf6QgWGjp-inflation-shopping-and-recipes)
-- [**SellMeThisPen**](https://chat.openai.com/g/g-cTqsEOE4C-sellmethispen)
-- [**Gift Wizard**](https://chat.openai.com/g/g-gyzaM3Vkb-gift-wizard)
-- [**メルカリ出品文を書くやつ**](https://chat.openai.com/g/g-bWrXpwR7a-merukarichu-pin-wen-woshu-kuyatu)
-- [**什么值得买**](https://chat.openai.com/g/g-Vv6XU8Lv8-shi-yao-zhi-de-mai)
-- [**Penny the Tailor**](https://chat.openai.com/g/g-ncBU5Djqs-penny-the-tailor)
-- [**MarketList Writer**](https://chat.openai.com/g/g-mvONpOw2L-marketlist-writer)
-- [**Alternative Product Finder**](https://chat.openai.com/g/g-mT6htPlg5-alternative-product-finder)
-- [**おすすめ比較コンシェルジュ**](https://chat.openai.com/g/g-mG6UvjQJZ-osusumebi-jiao-konsieruziyu)
-- [**Fashion Mentor**](https://chat.openai.com/g/g-4ldG9Vdvg-fashion-mentor)
-- [**GPTea**](https://chat.openai.com/g/g-sJhaxyrIk-gptea)
-- [**Fashion Forecast**](https://chat.openai.com/g/g-tWW96eFRG-fashion-forecast)
-- [**Auto Assistant**](https://chat.openai.com/g/g-xO21U2HtL-auto-assistant)
-- [**Flick Fetcher**](https://chat.openai.com/g/g-4RVGNPRPs-flick-fetcher)
-- [**Gift Guru**](https://chat.openai.com/g/g-8DvUAUkvf-gift-guru)
-- [**Chatsearch for item**](https://chat.openai.com/g/g-rsLPzOuBE-chatsearch-for-item)
-- [**Yegfood.com Price Checker**](https://chat.openai.com/g/g-rlevOuTNU-yegfood-com-price-checker)
-- [**Gift Genius**](https://chat.openai.com/g/g-bEIj7EoeM-gift-genius)
-- [**Deal Finder**](https://chat.openai.com/g/g-njsYUllyR-deal-finder)
-- [**Black Friday 2023**](https://chat.openai.com/g/g-q27O8IrG1-black-friday-2023)
-- [**T≡SLA Genius  🚗⚡**](https://chat.openai.com/g/g-SawQGy49u-t-sla-genius)
-- [**IntelliTee**](https://chat.openai.com/g/g-Gc0WnNKDW-intellitee)
-- [**Amazon Listing Optimal**](https://chat.openai.com/g/g-ciumj1Mz9-amazon-listing-optimal)
-- [**SeeFood - Scan your food**](https://chat.openai.com/g/g-bSy3G7cH7-seefood-scan-your-food)
-- [**Forecast Fashionista**](https://chat.openai.com/g/g-Vu6lhqyQz-forecast-fashionista)
-- [**Outside the Box**](https://chat.openai.com/g/g-q5bMNFMas-outside-the-box)
-- [**Keyboard Matchmaker**](https://chat.openai.com/g/g-nvgFNfgII-keyboard-matchmaker)
-- [**Vendedor de alfombras ambulante**](https://chat.openai.com/g/g-lqTXXpSSU-vendedor-de-alfombras-ambulante)
-- [**Promo Code Hunter**](https://chat.openai.com/g/g-2HaW321zR-promo-code-hunter)
-- [**Card Evaluator Pro**](https://chat.openai.com/g/g-wKsSO9h02-card-evaluator-pro)
-- [**EtsyGPT**](https://chat.openai.com/g/g-ieNdzAuhv-etsygpt)
-- [**不想上楼**](https://chat.openai.com/g/g-D2j1WBTkN-bu-xiang-shang-lou)
-- [**Hub Split the Peer To Peer Rental Platform**](https://chat.openai.com/g/g-FUK6jXPQR-hub-split-the-peer-to-peer-rental-platform)
-- [**Etsy Pro**](https://chat.openai.com/g/g-MVapqlkoA-etsy-pro)
-- [**Sales Assistant Sakura**](https://chat.openai.com/g/g-s54BOBguL-sales-assistant-sakura)
-- [**剁手 GPT**](https://chat.openai.com/g/g-cGx5me4XG-duo-shou-gpt)
-- [**Birthday Blitz**](https://chat.openai.com/g/g-gu0aDjbwX-birthday-blitz)
-- [**Gift Whisperer**](https://chat.openai.com/g/g-TdzZSZMGa-gift-whisperer)
-- [**Price Is Right Bot 3000**](https://chat.openai.com/g/g-O3zvUXKUM-price-is-right-bot-3000)
-- [**Apple Watch Advisor**](https://chat.openai.com/g/g-B7v4nJ71q-apple-watch-advisor)
-- [**Sell My Stuff**](https://chat.openai.com/g/g-b8M5SoP2w-sell-my-stuff)
-- [**Giftify**](https://chat.openai.com/g/g-JwDtbcc8R-giftify)
-- [**Shop Genius**](https://chat.openai.com/g/g-BzfyF98c4-shop-genius)
-- [**Style Guru**](https://chat.openai.com/g/g-ONrW6MX1L-style-guru)
-- [**Shopping Kart**](https://chat.openai.com/g/g-RspWh9W0o-shopping-kart)
-- [**Discount Detective**](https://chat.openai.com/g/g-S5hvJ0iFK-discount-detective)
-- [**Plant Buddy**](https://chat.openai.com/g/g-bLzGq15RR-plant-buddy)
-- [**JingleBot - Unwrap the Joy of Gift-Finding!**](https://chat.openai.com/g/g-gsiVdphij-jinglebot-unwrap-the-joy-of-gift-finding)
-- [**Product Description Evaluator for E-commerce**](https://chat.openai.com/g/g-4sJEPOaQv-product-description-evaluator-for-e-commerce)
-- [**Stylisterr**](https://chat.openai.com/g/g-L7DN6iE3m-stylisterr)
-- [**Enamored Glass**](https://chat.openai.com/g/g-KiSvUy7Dv-enamored-glass)
-- [**VinuvStore Wine Selector**](https://chat.openai.com/g/g-SBfMBU9Wl-vinuvstore-wine-selector)
-- [**Wife agrees to buy**](https://chat.openai.com/g/g-Dnd0vR4r4-wife-agrees-to-buy)
-- [**Gift Scout**](https://chat.openai.com/g/g-hs0ldcQSq-gift-scout)
-- [**Jewels**](https://chat.openai.com/g/g-D7dJuqyOG-jewels)
-- [**GiftGenius**](https://chat.openai.com/g/g-94RRLJKQy-giftgenius)
-- [**GPT Shop Keeper**](https://chat.openai.com/g/g-22ZUhrOgu-gpt-shop-keeper)
-- [**CochesGPT**](https://chat.openai.com/g/g-9yQQq82kI-cochesgpt)
-- [**Market Maverick**](https://chat.openai.com/g/g-4Y1Pri7E5-market-maverick)
-- [**Resell Bubble  🫧**](https://chat.openai.com/g/g-4cxkkIZMB-resell-bubble)
-- [**Find & Shop Assistant**](https://chat.openai.com/g/g-15gxzmu4o-find-shop-assistant)
-- [**Gift Helper 礼物助手**](https://chat.openai.com/g/g-OzCH051Tf-gift-helper-li-wu-zhu-shou)
-- [**noharaGPT**](https://chat.openai.com/g/g-7wTaSNcWa-noharagpt)
-- [**Luxury Authenticator**](https://chat.openai.com/g/g-O78mTzM4A-luxury-authenticator)
-- [**Santa's Gift Helper GPT**](https://chat.openai.com/g/g-4KAcYxiYp-santa-s-gift-helper-gpt)
-- [**Santa's WorkshopGPT**](https://chat.openai.com/g/g-3sAXCO9qQ-santa-s-workshopgpt)
-- [**Blackbear Search**](https://chat.openai.com/g/g-BfmdtnKVx-blackbear-search)
-- [**Vinted Product Description**](https://chat.openai.com/g/g-Vcd2BRebN-vinted-product-description)
-- [**Weather Wardrobe Assistant Plus**](https://chat.openai.com/g/g-273UOsTq3-weather-wardrobe-assistant-plus)
-- [**Shortlister: Rent 1 bedroom in inner  Melbourne**](https://chat.openai.com/g/g-BuKDC5cfQ-shortlister-rent-1-bedroom-in-inner-melbourne)
-- [**Roast & Redesign**](https://chat.openai.com/g/g-0ERkLtSlf-roast-redesign)
+- [**Amazon Scout**](https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout) I'm an expert in finding Amazon products.
+- [**Awesome BFCM Deals Finder 2023**](https://chat.openai.com/g/g-I0UcBW7ZU-awesome-bfcm-deals-finder-2023) Get Suggestion on best BFMC deals. Add your deal ➡️ https://bit.ly/3sqY7DV
+- [**Amazon Listing Wizard**](https://chat.openai.com/g/g-cyCdsDpO9-amazon-listing-wizard) I craft Amazon listings.
+- [**Vogue Vault**](https://chat.openai.com/g/g-phNLFkSel-vogue-vault) Finds affordable luxury vintage fashion across all reselling platforms.
+- [**Price Sleuth**](https://chat.openai.com/g/g-ktrgdlaVM-price-sleuth) A laid-back sleuth, finding deals at a sloth's pace but with sharp insight!
+- [**flea market**](https://chat.openai.com/g/g-xM1wHO5dO-flea-market) Estimates flea market item values using photos and online data.
+- [**Slingshot**](https://chat.openai.com/g/g-XdBr8TSo8-slingshot) Get Company Swag
+- [**Gift-E**](https://chat.openai.com/g/g-anitHxW0l-gift-e) Expert in crafting, visualizing, and tracking personalized gifts!
+- [**Vintage Virtuoso**](https://chat.openai.com/g/g-hxsNHGV4q-vintage-virtuoso) Expert sommelier with a shopping suggestion.
+- [**Resale Researcher**](https://chat.openai.com/g/g-m3MHdBXRT-resale-researcher) Specialist in product research for resale on Yahoo Auctions and Mercari Japan.
+- [**RED Expert**](https://chat.openai.com/g/g-lgQYwvYqd-red-expert) 小红书应用优化专家，提供内容创作和电商策略指导。
+- [**Deal Finder Helper**](https://chat.openai.com/g/g-zxsLXydmG-deal-finder-helper) Expert in finding best product prices and deals, including shipping and home delivery info.
+- [**Hotel Expert Guide**](https://chat.openai.com/g/g-vxqBOUFj3-hotel-expert-guide) Your go-to guide for hotel recommendations worldwide.
+- [**Gift Genie**](https://chat.openai.com/g/g-HXAA0bWJO-gift-genie) Your go-to assistant for personalized holiday gift ideas.
+- [**Product Reviewer**](https://chat.openai.com/g/g-jHTUcn2pD-product-reviewer) Shakespeare of e-commerce, delivering reviews that stick with you longer than your last online purchase.
+- [**Price Finder**](https://chat.openai.com/g/g-oME3OmIZh-price-finder) Versatile spec and price comparison assistant
+- [**Inflation Shopping and Recipes**](https://chat.openai.com/g/g-Gf6QgWGjp-inflation-shopping-and-recipes) I find discounts and provide recipes based on your shopping list.
+- [**SellMeThisPen**](https://chat.openai.com/g/g-cTqsEOE4C-sellmethispen) Create second hand marketplace listings based on pictures. Start by uploading a picture.
+- [**Gift Wizard**](https://chat.openai.com/g/g-gyzaM3Vkb-gift-wizard) Your thoughtful and attentive gift-picking guide.
+- [**メルカリ出品文を書くやつ**](https://chat.openai.com/g/g-bWrXpwR7a-merukarichu-pin-wen-woshu-kuyatu) あなたに質問して出品文を作ってくれるよ〜
+- [**什么值得买**](https://chat.openai.com/g/g-Vv6XU8Lv8-shi-yao-zhi-de-mai) 专门帮您在各平台找到最佳产品价格
+- [**Penny the Tailor**](https://chat.openai.com/g/g-ncBU5Djqs-penny-the-tailor) I'm Penny the Tailor, your expert in women's tailoring.
+- [**MarketList Writer**](https://chat.openai.com/g/g-mvONpOw2L-marketlist-writer) User-friendly, price-savvy Marketplace guide.
+- [**Alternative Product Finder**](https://chat.openai.com/g/g-mT6htPlg5-alternative-product-finder) Expert in finding cost-effective product alternatives with similar specifications
+- [**おすすめ比較コンシェルジュ**](https://chat.openai.com/g/g-mG6UvjQJZ-osusumebi-jiao-konsieruziyu) あなたの買い物をナビゲート
+- [**Fashion Mentor**](https://chat.openai.com/g/g-4ldG9Vdvg-fashion-mentor) Direct and bold fashion advice. Upload a photo or ask a question.
+- [**GPTea**](https://chat.openai.com/g/g-sJhaxyrIk-gptea) Advises on global tea varieties and assists in locating merchants.
+- [**Fashion Forecast**](https://chat.openai.com/g/g-tWW96eFRG-fashion-forecast) Fashion advisor for weather-appropriate clothing
+- [**Auto Assistant**](https://chat.openai.com/g/g-xO21U2HtL-auto-assistant) Used car purchase guide
+- [**Flick Fetcher**](https://chat.openai.com/g/g-4RVGNPRPs-flick-fetcher) I find where to stream movies & their prices.
+- [**Gift Guru**](https://chat.openai.com/g/g-8DvUAUkvf-gift-guru) I suggest personalized Amazon gifts.
+- [**Chatsearch for item**](https://chat.openai.com/g/g-rsLPzOuBE-chatsearch-for-item) おすすめの商品を端的な会話で提案します。
+- [**Yegfood.com Price Checker**](https://chat.openai.com/g/g-rlevOuTNU-yegfood-com-price-checker) Helps find food deals in Alberta
+- [**Gift Genius**](https://chat.openai.com/g/g-bEIj7EoeM-gift-genius) Casual and friendly gift planner, focusing on thoughtful, tailored suggestions.
+- [**Deal Finder**](https://chat.openai.com/g/g-njsYUllyR-deal-finder) I find the best online deals for you!
+- [**Black Friday 2023**](https://chat.openai.com/g/g-q27O8IrG1-black-friday-2023) Your Black Friday 2023 ally.
+- [**T≡SLA Genius  🚗⚡**](https://chat.openai.com/g/g-SawQGy49u-t-sla-genius) Casual, friendly expert on Tesla cars.
+- [**IntelliTee**](https://chat.openai.com/g/g-Gc0WnNKDW-intellitee) Design & order products with ANY image you want!
+- [**Amazon Listing Optimal**](https://chat.openai.com/g/g-ciumj1Mz9-amazon-listing-optimal) Optimize your Listing based on the title, description, reviews, etc. of the products you sell on Amazon as well as specified competitive products
+- [**SeeFood - Scan your food**](https://chat.openai.com/g/g-bSy3G7cH7-seefood-scan-your-food) SeeFood provides immediate nutritional analysis from food or grocery item photos—calories, macros, and more—flagging harmful additives and ingredients
+- [**Forecast Fashionista**](https://chat.openai.com/g/g-Vu6lhqyQz-forecast-fashionista) 正確な天気予報とオーダーメイドの服装を提案する。地域と性別を入力して。/ I provide precise weather forecasts and tailored clothing suggestions.
+- [**Outside the Box**](https://chat.openai.com/g/g-q5bMNFMas-outside-the-box) Gift Creatively: Unbox Imagination
+- [**Keyboard Matchmaker**](https://chat.openai.com/g/g-nvgFNfgII-keyboard-matchmaker) In-depth advisor for finding the perfect mechanical keyboard.
+- [**Vendedor de alfombras ambulante**](https://chat.openai.com/g/g-lqTXXpSSU-vendedor-de-alfombras-ambulante) Regatea por tu nueva alfombra
+- [**Promo Code Hunter**](https://chat.openai.com/g/g-2HaW321zR-promo-code-hunter) Providing usable promo codes for various products
+- [**Card Evaluator Pro**](https://chat.openai.com/g/g-wKsSO9h02-card-evaluator-pro) Evaluates and prices sports/comic cards using industry standards.
+- [**EtsyGPT**](https://chat.openai.com/g/g-ieNdzAuhv-etsygpt) Craft perfect Etsy listings. Trained on the Sellers handbook.
+- [**不想上楼**](https://chat.openai.com/g/g-D2j1WBTkN-bu-xiang-shang-lou) A middle-aged man earnestly justifying a purchase to his wife.
+- [**Hub Split the Peer To Peer Rental Platform**](https://chat.openai.com/g/g-FUK6jXPQR-hub-split-the-peer-to-peer-rental-platform) Explains Hubsplit.com's value
+- [**Etsy Pro**](https://chat.openai.com/g/g-MVapqlkoA-etsy-pro) Etsy satıcılarının güvenilir danışmanı
+- [**Sales Assistant Sakura**](https://chat.openai.com/g/g-s54BOBguL-sales-assistant-sakura) A virtual sales assistant for product selection in Japan.
+- [**剁手 GPT**](https://chat.openai.com/g/g-cGx5me4XG-duo-shou-gpt) 随手拍下来任何物品，自动识别，全网比价，提供购买建议。
+- [**Birthday Blitz**](https://chat.openai.com/g/g-gu0aDjbwX-birthday-blitz) The perfect gift in 3 questions. A friendly assistant for the search for creative gifts.
+- [**Gift Whisperer**](https://chat.openai.com/g/g-TdzZSZMGa-gift-whisperer) I suggest holiday gifts based on your details.
+- [**Price Is Right Bot 3000**](https://chat.openai.com/g/g-O3zvUXKUM-price-is-right-bot-3000) Finds and compares product prices across online retailers from uploaded images.
+- [**Apple Watch Advisor**](https://chat.openai.com/g/g-B7v4nJ71q-apple-watch-advisor) 
+- [**Sell My Stuff**](https://chat.openai.com/g/g-b8M5SoP2w-sell-my-stuff) Specializes in price research before Marketplace listings.
+- [**Giftify**](https://chat.openai.com/g/g-JwDtbcc8R-giftify) Your go-to destination for finding the perfect gift! We know how stressful it can be to find a gift that your loved one will truly appreciate, so we've created a user-friendly platform to help take the guesswork out of gift-giving.
+- [**Shop Genius**](https://chat.openai.com/g/g-BzfyF98c4-shop-genius) Adaptive and precise online shopping assistant for Amazon.
+- [**Style Guru**](https://chat.openai.com/g/g-ONrW6MX1L-style-guru) Personalized fashion advisor for all, analyzing photos for tailored style.
+- [**Shopping Kart**](https://chat.openai.com/g/g-RspWh9W0o-shopping-kart) Your go-to guide for smart, budget-friendly shopping.
+- [**Discount Detective**](https://chat.openai.com/g/g-S5hvJ0iFK-discount-detective) Your go-to assistant for card discounts and deals.
+- [**Plant Buddy**](https://chat.openai.com/g/g-bLzGq15RR-plant-buddy) Esperto in piante d'appartamento, con consigli semplici e suggerimenti di libri su Amazon.
+- [**JingleBot - Unwrap the Joy of Gift-Finding!**](https://chat.openai.com/g/g-gsiVdphij-jinglebot-unwrap-the-joy-of-gift-finding) Answer a few questions and let JingleBot make the perfect stress-free holiday shopping list.  So fun !
+- [**Product Description Evaluator for E-commerce**](https://chat.openai.com/g/g-4sJEPOaQv-product-description-evaluator-for-e-commerce) Aide for PMs, PIM & content teams.
+- [**Stylisterr**](https://chat.openai.com/g/g-L7DN6iE3m-stylisterr) Your fashion stylist for personalized outfit tips and full outfit visuals.
+- [**Enamored Glass**](https://chat.openai.com/g/g-KiSvUy7Dv-enamored-glass) Identify and cherish your vintage
+- [**VinuvStore Wine Selector**](https://chat.openai.com/g/g-SBfMBU9Wl-vinuvstore-wine-selector) Accurate wine selector with live links from vinuvstore.com
+- [**Wife agrees to buy**](https://chat.openai.com/g/g-Dnd0vR4r4-wife-agrees-to-buy) A considerate, family-first man who subtly suggests purchases focusing on family benefits.
+- [**Gift Scout**](https://chat.openai.com/g/g-hs0ldcQSq-gift-scout) I suggest unique gift ideas with online links.
+- [**Jewels**](https://chat.openai.com/g/g-D7dJuqyOG-jewels) Your personal jewel selection assistant.
+- [**GiftGenius**](https://chat.openai.com/g/g-94RRLJKQy-giftgenius) Designed to tackle the challenges of personalization and limited knowledge, it intuitively understands your loved ones' unique preferences. Embrace a world where every gift is a thoughtful, personalized treasure, making every occasion unforgettable.
+- [**GPT Shop Keeper**](https://chat.openai.com/g/g-22ZUhrOgu-gpt-shop-keeper) Unofficial GPT App Store. Find GPTs for your workflows. More than a mere merchant, a guide to townsfolk & travelers from distant lands
+- [**CochesGPT**](https://chat.openai.com/g/g-9yQQq82kI-cochesgpt) Experto en coches y asesoramiento
+- [**Market Maverick**](https://chat.openai.com/g/g-4Y1Pri7E5-market-maverick) Professional and adaptable expert in sourcing and growing Shopify stores.
+- [**Resell Bubble  🫧**](https://chat.openai.com/g/g-4cxkkIZMB-resell-bubble) Your personal reselling assistant
+- [**Find & Shop Assistant**](https://chat.openai.com/g/g-15gxzmu4o-find-shop-assistant) Upload a photo of the item you want to buy and I’ll find where you can buy it online.
+- [**Gift Helper 礼物助手**](https://chat.openai.com/g/g-OzCH051Tf-gift-helper-li-wu-zhu-shou) Friendly and witty guide for personalized gift ideas & simulation mode for inspiration 模仿送礼对象选到更合适的礼物
+- [**noharaGPT**](https://chat.openai.com/g/g-7wTaSNcWa-noharagpt) A helpful guide for Nohara Craft reservations.
+- [**Luxury Authenticator**](https://chat.openai.com/g/g-O78mTzM4A-luxury-authenticator) Expert in authenticating luxury items, providing detailed evaluations and ratings.
+- [**Santa's Gift Helper GPT**](https://chat.openai.com/g/g-4KAcYxiYp-santa-s-gift-helper-gpt) I find the best-priced Christmas gifts locally or online. Upload or Paste your family and friends Christmas list and your zip code.
+- [**Santa's WorkshopGPT**](https://chat.openai.com/g/g-3sAXCO9qQ-santa-s-workshopgpt) I'm your holiday helper for gift ideas!
+- [**Blackbear Search**](https://chat.openai.com/g/g-BfmdtnKVx-blackbear-search) A semantic search AI for e-commerce
+- [**Vinted Product Description**](https://chat.openai.com/g/g-Vcd2BRebN-vinted-product-description) I craft vinted product descriptions.
+- [**Weather Wardrobe Assistant Plus**](https://chat.openai.com/g/g-273UOsTq3-weather-wardrobe-assistant-plus) Interactive fashion assistant with visual outfit recommendations.
+- [**Shortlister: Rent 1 bedroom in inner  Melbourne**](https://chat.openai.com/g/g-BuKDC5cfQ-shortlister-rent-1-bedroom-in-inner-melbourne) Rent a 1 bedroom apartment Melbourne
+- [**Roast & Redesign**](https://chat.openai.com/g/g-0ERkLtSlf-roast-redesign) Upload a photo of your space for a spicy roast and redesign with ikea products.

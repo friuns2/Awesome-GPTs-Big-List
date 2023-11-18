@@ -15,287 +15,287 @@
 - [Education](./education.md)
 
 ## Finance GPTs
-- [**Currency Converter**](https://chat.openai.com/g/g-ZNvavsN3l)
-- [**Svenska Skatteassistenten**](https://chat.openai.com/g/g-caCXGWq48-svenska-skatteassistenten)
-- [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt)
-- [**Financial Cybersecurity Analyst - Lockley Cash v1**](https://chat.openai.com/g/g-k1DAeyoen-financial-cybersecurity-analyst-lockley-cash-v1)
-- [**AXA Versicherungsexperte**](https://chat.openai.com/g/g-f32Zn8M1G-axa-versicherungsexperte)
-- [**ESG 2.0**](https://chat.openai.com/g/g-vUi2rQAGH-esg-2-0)
-- [**Bitcoin Whitepaper Chat**](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
-- [**Stock Market Analyst**](https://chat.openai.com/g/g-pnsShBNY8-stock-market-analyst)
-- [**Web3 Fundraising Guide**](https://chat.openai.com/g/g-LtrB6UBZL-web3-fundraising-guide)
-- [**Receipt to CSV**](https://chat.openai.com/g/g-fPFaujYGv-receipt-to-csv)
-- [**Money Buddy**](https://chat.openai.com/g/g-oBnWP4Jwb-money-buddy)
-- [**ICT Market Mentor**](https://chat.openai.com/g/g-zCFUVc2pB-ict-market-mentor)
-- [**Warren Buffet's Wisdom**](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom)
-- [**Finance Guru GPT**](https://chat.openai.com/g/g-taUaCVbRD-finance-guru-gpt)
-- [**Japan Stock Investor**](https://chat.openai.com/g/g-pC0zWVrSW-japan-stock-investor)
-- [**Orange Pill GPT**](https://chat.openai.com/g/g-gQVrbx2kd-orange-pill-gpt)
-- [**Short Squeeze Scout**](https://chat.openai.com/g/g-g16u2moyD-short-squeeze-scout)
-- [**Bitcoin Sentiment**](https://chat.openai.com/g/g-VKcQOkPTV-bitcoin-sentiment)
-- [**Wisdom of Omaha**](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha)
-- [**云客AI投研**](https://chat.openai.com/g/g-sKAlWXNQu-yun-ke-aitou-yan)
-- [**ETF拯救世界**](https://chat.openai.com/g/g-hPdPSB8su-etfzheng-jiu-shi-jie)
-- [**Investor Matchmaker**](https://chat.openai.com/g/g-CZKJyc4b4-investor-matchmaker)
-- [**Python Quant**](https://chat.openai.com/g/g-tX4vqCUzc-python-quant)
-- [**Blocksider GPT**](https://chat.openai.com/g/g-dwHRHnows-blocksider-gpt)
-- [**Crypto Advisor Sam**](https://chat.openai.com/g/g-e5I2JUfHj-crypto-advisor-sam)
-- [**Tab Tender**](https://chat.openai.com/g/g-UfpzBsqrb-tab-tender)
-- [**Bitcoin ¿compro o vendo?**](https://chat.openai.com/g/g-UaZfDuGaX-bitcoin-compro-o-vendo)
-- [**Market Navigator**](https://chat.openai.com/g/g-HNAum1EyA-market-navigator)
-- [**Bill Buddy**](https://chat.openai.com/g/g-STcFss3pZ-bill-buddy)
-- [**Safe Investment Advisor**](https://chat.openai.com/g/g-YnAKaNGyq-safe-investment-advisor)
-- [**Puffer Finance**](https://chat.openai.com/g/g-w0JYr8zdJ-puffer-finance)
-- [**Tech Market Mover (v1.1)**](https://chat.openai.com/g/g-nr2cTvVWt-tech-market-mover-v1-1)
-- [**A股分析（实时爬取数据，可联网）**](https://chat.openai.com/g/g-shrPf6iR0-agu-fen-xi-shi-shi-pa-qu-shu-ju-ke-lian-wang)
-- [**GPT Finance**](https://chat.openai.com/g/g-tveXvXU5g-gpt-finance)
-- [**EconomicsGPT**](https://chat.openai.com/g/g-y3Cx5DeyI-economicsgpt)
-- [**Tate GPT**](https://chat.openai.com/g/g-Ch5M06G9h-tate-gpt)
-- [**Olivier's Split Bill Calculator**](https://chat.openai.com/g/g-zUH1lKUoo-olivier-s-split-bill-calculator)
-- [**CRE Pro**](https://chat.openai.com/g/g-yymEhItcf-cre-pro)
-- [**Credit Card Matchmaker**](https://chat.openai.com/g/g-zASWMYXBt-credit-card-matchmaker)
-- [**Market Maverick GPT**](https://chat.openai.com/g/g-V8IBA3tIn-market-maverick-gpt)
-- [**Insurance Plan Agent**](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent)
-- [**CompoundGPT**](https://chat.openai.com/g/g-YYWQsWPGV-compoundgpt)
-- [**Ernie**](https://chat.openai.com/g/g-g18KZpevd-ernie)
-- [**Crypto X**](https://chat.openai.com/g/g-zjIkOI0qB-crypto-x)
-- [**Satoshi Nakamoto**](https://chat.openai.com/g/g-ZcmRNYWk9-satoshi-nakamoto)
-- [**WealthSystems**](https://chat.openai.com/g/g-ZeYBNHQQv-wealthsystems)
-- [**GPT Gateway**](https://chat.openai.com/g/g-CJ1fWSgC8-gpt-gateway)
-- [**Financial Advisor**](https://chat.openai.com/g/g-rbhyR7TVN-financial-advisor)
-- [**AI龚有柴**](https://chat.openai.com/g/g-H5J3hBBRK-aigong-you-chai)
-- [**Aus Petrol Prices**](https://chat.openai.com/g/g-sycM3WZAT-aus-petrol-prices)
-- [**Trip Ledger**](https://chat.openai.com/g/g-yUP0oOaRr-trip-ledger)
-- [**Elliott Wave Expert**](https://chat.openai.com/g/g-GMGhSS0LH-elliott-wave-expert)
-- [**Irish Business Grant and Support Guide**](https://chat.openai.com/g/g-uj8QNBEA4-irish-business-grant-and-support-guide)
-- [**The IPO Strategy**](https://chat.openai.com/g/g-Uc8qF4MMP-the-ipo-strategy)
-- [**Trader**](https://chat.openai.com/g/g-0StMub6wV-trader)
-- [**Mentor de Éxito Personal**](https://chat.openai.com/g/g-HT2OgjCZx-mentor-de-exito-personal)
-- [**Taxes Master**](https://chat.openai.com/g/g-ol5mgObrK-taxes-master)
-- [**Crypto Mining Profit Advisor**](https://chat.openai.com/g/g-tE6D993uO-crypto-mining-profit-advisor)
-- [**Levels.fyi GPT**](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt)
-- [**Receipt Assistant**](https://chat.openai.com/g/g-WEi7DGCb3-receipt-assistant)
-- [**Cash Flow Analyst Bot**](https://chat.openai.com/g/g-tVcRevxjr-cash-flow-analyst-bot)
-- [**Varsity by Zerodha**](https://chat.openai.com/g/g-WIy0DU3fd-varsity-by-zerodha)
-- [**Investment Dialogue of Buffett and Munger**](https://chat.openai.com/g/g-H4A9l0oEk-investment-dialogue-of-buffett-and-munger)
-- [**1nvestMate**](https://chat.openai.com/g/g-GXxHduFy0-1nvestmate)
-- [**Pelcro GPT**](https://chat.openai.com/g/g-r9AJQpGrP-pelcro-gpt)
-- [**Maria MoneyWise**](https://chat.openai.com/g/g-o6js6YqlY-maria-moneywise)
-- [**PR TaxGPT**](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt)
-- [**Finance Pro GPT**](https://chat.openai.com/g/g-wXxwIrVlT-finance-pro-gpt)
-- [**Realty Mentor**](https://chat.openai.com/g/g-Qj5T2L1qZ)
-- [**TaxGPT**](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt)
-- [**FP&AI by The Financial Fox**](https://chat.openai.com/g/g-nDSzoieff-fp-ai-by-the-financial-fox)
-- [**Stock Sensei**](https://chat.openai.com/g/g-tCc9EbE1Z-stock-sensei)
-- [**SportsBet**](https://chat.openai.com/g/g-rSQ0mW8e5-sportsbet)
-- [**IFRS-GPT**](https://chat.openai.com/g/g-UwhClxZ3X-ifrs-gpt)
-- [**Vet Benefits Coach**](https://chat.openai.com/g/g-pMFttH6En-vet-benefits-coach)
-- [**Tax Mentor**](https://chat.openai.com/g/g-jSBOACmTc-tax-mentor)
-- [**Market Maven**](https://chat.openai.com/g/g-sdhl2nK23-market-maven)
-- [**CardanoView**](https://chat.openai.com/g/g-dPa3O2sL7-cardanoview)
-- [**Borrower's Defense Assistant**](https://chat.openai.com/g/g-eiSVbq7Ra-borrower-s-defense-assistant)
-- [**Smart Spender**](https://chat.openai.com/g/g-CyKcrcJ4x-smart-spender)
-- [**BitcoinGPT**](https://chat.openai.com/g/g-qwDi5jvxw-bitcoingpt)
-- [**Otto the AuditBot**](https://chat.openai.com/g/g-hcw16JjVY-otto-the-auditbot)
-- [**おしえて！ミダス王！**](https://chat.openai.com/g/g-steTj1V6u-osiete-midasuwang)
-- [**Finance Buddy**](https://chat.openai.com/g/g-CmsBe1oUk-finance-buddy)
-- [**WallStreetGPT**](https://chat.openai.com/g/g-oGO8X6GK2-wallstreetgpt)
-- [**Crypto Mentor**](https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor)
-- [**Small Business Tech Advisor**](https://chat.openai.com/g/g-G7DQLgO7H-small-business-tech-advisor)
-- [**Market Analyst**](https://chat.openai.com/g/g-m5ZAgJ5jt-market-analyst)
-- [**W. Buffett**](https://chat.openai.com/g/g-cGrlv2wGM-w-buffett)
-- [**Stocks AI**](https://chat.openai.com/g/g-iMWCFq13Z-stocks-ai)
-- [**Stock Guru**](https://chat.openai.com/g/g-ZRkaqmDXo-stock-guru)
-- [**Francine the FP&A Bot**](https://chat.openai.com/g/g-kQ5CnWTFZ-francine-the-fp-a-bot)
-- [**Real Estate Helper**](https://chat.openai.com/g/g-sHQtUADdx-real-estate-helper)
-- [**港险通**](https://chat.openai.com/g/g-zOKvx1TH8-gang-xian-tong)
-- [**Waren Buffett advice**](https://chat.openai.com/g/g-rrPM4FCKx-waren-buffett-advice)
-- [**Financial Advisor Steve**](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve)
-- [**Tech Astrology Crypto Universe**](https://chat.openai.com/g/g-b0MRyLzXV-tech-astrology-crypto-universe)
-- [**Bob the Tax Saver Guru**](https://chat.openai.com/g/g-mT8aZki66-bob-the-tax-saver-guru)
-- [**Zoomer FinFluencer**](https://chat.openai.com/g/g-VCaNPEgNe-zoomer-finfluencer)
-- [**Aussie Investment Guru**](https://chat.openai.com/g/g-s2bNwCnuP-aussie-investment-guru)
-- [**Retire Smart MY**](https://chat.openai.com/g/g-gYubhRxe4-retire-smart-my)
-- [**加密货币专家**](https://chat.openai.com/g/g-kyZ1pRsbC-jia-mi-huo-bi-zhuan-jia)
-- [**FinanceBot**](https://chat.openai.com/g/g-YuvVM33yT-financebot)
-- [**Accounting Aid**](https://chat.openai.com/g/g-rIsuyD7pg-accounting-aid)
-- [**#Premoney**](https://chat.openai.com/g/g-Gmq9gjzeM-premoney)
-- [**S.A.M**](https://chat.openai.com/g/g-whcP8vw3y-s-a-m)
-- [**Your Personal Finance Analytics Coach**](https://chat.openai.com/g/g-aTFvSLcDa-your-personal-finance-analytics-coach)
-- [**Buffett's Investment Companion**](https://chat.openai.com/g/g-m1sf6iMPn-buffett-s-investment-companion)
-- [**Bitcoin Beacon**](https://chat.openai.com/g/g-uWdFsc2G8-bitcoin-beacon)
-- [**MoneyAbroadGPT**](https://chat.openai.com/g/g-iMedVys3v-moneyabroadgpt)
-- [**Theo dõi thị trường VN**](https://chat.openai.com/g/g-dSwR0bADu-theo-doi-thi-truong-vn)
-- [**SmartSkatt - Skatteeksperten for Norske AS**](https://chat.openai.com/g/g-rXdEpHd6g-smartskatt-skatteeksperten-for-norske-as)
-- [**Quant coder**](https://chat.openai.com/g/g-mAoqNweEV-quant-coder)
-- [**FRM Level 2**](https://chat.openai.com/g/g-lMWCU27Ui-frm-level-2)
-- [**Greenlight Energy Guide**](https://chat.openai.com/g/g-HwX0d96tm-greenlight-energy-guide)
-- [**Disability Advantages Assistant**](https://chat.openai.com/g/g-CZeHqwTex-disability-advantages-assistant)
-- [**Investment Banking Tech Prep with Recalc Academy**](https://chat.openai.com/g/g-ilrojd6Qa-investment-banking-tech-prep-with-recalc-academy)
-- [**Money GPT**](https://chat.openai.com/g/g-nF5knDgQd-money-gpt)
-- [**Bitcoin DCA Calc**](https://chat.openai.com/g/g-zYBxxo7I0-bitcoin-dca-calc)
-- [**BuFu GPT (DE)**](https://chat.openai.com/g/g-qVSa4SH08-bufu-gpt-de)
-- [**Earn 10k by Month**](https://chat.openai.com/g/g-D1PHUjyaI-earn-10k-by-month)
-- [**Stock Analysis**](https://chat.openai.com/g/g-WqpDjaSHw-stock-analysis)
-- [**BRRR Analyst**](https://chat.openai.com/g/g-m1cy0xVjB-brrr-analyst)
-- [**RockBot**](https://chat.openai.com/g/g-G8diQfx7i-rockbot)
-- [**Offer Negotiator by CoverDoc**](https://chat.openai.com/g/g-qe7JCfFTF-offer-negotiator-by-coverdoc)
-- [**Interest Rates**](https://chat.openai.com/g/g-a61upqaQQ-interest-rates)
-- [**Value Add VC Investor**](https://chat.openai.com/g/g-oMNJCEpwT-value-add-vc-investor)
-- [**jpegGPT**](https://chat.openai.com/g/g-H2G5KUeGL-jpeggpt)
-- [**MBS Analyst**](https://chat.openai.com/g/g-YazoogtPC-mbs-analyst)
-- [**Binance PNL Profit GPT Bot**](https://chat.openai.com/g/g-szBmdPJ7V-binance-pnl-profit-gpt-bot)
-- [**Fractal Financial**](https://chat.openai.com/g/g-ls9yIBo6N-fractal-financial)
-- [**Crypto Sage**](https://chat.openai.com/g/g-Fpdc16XnZ-crypto-sage)
-- [**Seabiscuit: Maverick Market Maker**](https://chat.openai.com/g/g-uy1ezvbLL-seabiscuit-maverick-market-maker)
-- [**Property Insight**](https://chat.openai.com/g/g-ic1X2U2tO-property-insight)
-- [**VeroÄly**](https://chat.openai.com/g/g-WvxzcTo03-veroaly)
-- [**Datamine Network**](https://chat.openai.com/g/g-WdK2nNwGZ-datamine-network)
-- [**Helps you build a human centered Bitcoin Ecosystem**](https://chat.openai.com/g/g-sUwFQZbg1-helps-you-build-a-human-centered-bitcoin-ecosystem)
-- [**Investment Scout**](https://chat.openai.com/g/g-a2bjr8olI-investment-scout)
-- [**Fink: Creditcard Counsel**](https://chat.openai.com/g/g-k7Lh7vgKb-fink-creditcard-counsel)
-- [**Market Whispers**](https://chat.openai.com/g/g-y2UdGoRVC-market-whispers)
-- [**Douglas**](https://chat.openai.com/g/g-lSg1yKEFa-douglas)
-- [**インデックスちゃん**](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan)
-- [**UK Personal Tax Guide**](https://chat.openai.com/g/g-hloFK0KjW-uk-personal-tax-guide)
-- [**ESGuardian**](https://chat.openai.com/g/g-q7doYKmb5-esguardian)
-- [**Stock Research SideKick**](https://chat.openai.com/g/g-WUdbNmjIC-stock-research-sidekick)
-- [**Analytiq Pro**](https://chat.openai.com/g/g-T2dQfz9oS-analytiq-pro)
-- [**agri1.ai**](https://chat.openai.com/g/g-iWFptmqAp-agri1-ai)
-- [**Finance GPT**](https://chat.openai.com/g/g-szDdJUX9V-finance-gpt)
-- [**SteuerGPT**](https://chat.openai.com/g/g-qNcbzrlBC-steuergpt)
-- [**Credit Guru**](https://chat.openai.com/g/g-kzP8IMZCe-credit-guru)
-- [**Market Mentor**](https://chat.openai.com/g/g-zSwdyV0KQ-market-mentor)
-- [**Generational Wealth GPT**](https://chat.openai.com/g/g-w7pB6XVr0-generational-wealth-gpt)
-- [**Market Advisor**](https://chat.openai.com/g/g-uxndiFseq-market-advisor)
-- [**Market Insights Navigator**](https://chat.openai.com/g/g-n40K0cEzB-market-insights-navigator)
-- [**TradingView indicator & stratagy developer**](https://chat.openai.com/g/g-XC5PsNAwL-tradingview-indicator-stratagy-developer)
-- [**Seed Investor Connect**](https://chat.openai.com/g/g-SlXRuB1UL-seed-investor-connect)
-- [**Money Saver**](https://chat.openai.com/g/g-ps5sUF4bR-money-saver)
-- [**HGR Section 179 Q&A Bot**](https://chat.openai.com/g/g-nacW6l9ip-hgr-section-179-q-a-bot)
-- [**Satoshi Punk**](https://chat.openai.com/g/g-hHb4IBs76-satoshi-punk)
-- [**MoneyMan**](https://chat.openai.com/g/g-au4jX7Lim-moneyman)
-- [**Business Plan Sage**](https://chat.openai.com/g/g-NsLil9uoU-business-plan-sage)
-- [**Serial Entrepreneur**](https://chat.openai.com/g/g-bKgy2W80a-serial-entrepreneur)
-- [**Daniel Aharonoff**](https://chat.openai.com/g/g-akAdU4iSh-daniel-aharonoff)
-- [**ChainGPT**](https://chat.openai.com/g/g-eeyI3mCBh-chaingpt)
-- [**Excel Finance Guru**](https://chat.openai.com/g/g-Qj5Yxi0t3-excel-finance-guru)
-- [**美国投资税收顾问**](https://chat.openai.com/g/g-SY5iQoU6J-mei-guo-tou-zi-shui-shou-gu-wen)
-- [**Bitcoin GPT**](https://chat.openai.com/g/g-eXYVElVUf-bitcoin-gpt)
-- [**Veterans Affairs Guide**](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide)
-- [**MillionaireMingle**](https://chat.openai.com/g/g-TCpEwWzTL-millionairemingle)
-- [**Mr. Market**](https://chat.openai.com/g/g-OOr0m8VUk-mr-market)
-- [**Alex MacGPT**](https://chat.openai.com/g/g-bdb9wA4i3-alex-macgpt)
-- [**TradeComply**](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
-- [**Business Matchmaker**](https://chat.openai.com/g/g-SHSDbQ6Fq-business-matchmaker)
-- [**Betting Buddy**](https://chat.openai.com/g/g-lzXDINLCv-betting-buddy)
-- [**加密资产指南**](https://chat.openai.com/g/g-Rgljkeh5y-jia-mi-zi-chan-zhi-nan)
-- [**Warren Wisdom**](https://chat.openai.com/g/g-UElaIgQhK-warren-wisdom)
-- [**Maple Advisor**](https://chat.openai.com/g/g-G1Il2Wgs7-maple-advisor)
-- [**Block Data Analysis**](https://chat.openai.com/g/g-UT075j9Wm-block-data-analysis)
-- [**Maestro AmazonFBA**](https://chat.openai.com/g/g-9ilYCj9F6-maestro-amazonfba)
-- [**Account Unblocker**](https://chat.openai.com/g/g-EOgoJ7oXD-account-unblocker)
-- [**Equity Analyst**](https://chat.openai.com/g/g-EtD9sVGHw-equity-analyst)
-- [**Capital Companion**](https://chat.openai.com/g/g-SBXYThAjv-capital-companion)
-- [**Quant Explorer**](https://chat.openai.com/g/g-VecdzqOmM-quant-explorer)
-- [**Bitcoin Buddy**](https://chat.openai.com/g/g-EzJDXLslE-bitcoin-buddy)
-- [**FundableAI - Modern Fundraising**](https://chat.openai.com/g/g-BCEUhUBbn-fundableai-modern-fundraising)
-- [**Rosie the RoboCFO**](https://chat.openai.com/g/g-UzcxxL3KC-rosie-the-robocfo)
-- [**Personal Business Manager**](https://chat.openai.com/g/g-49TGuuyLB-personal-business-manager)
-- [**Budget Buddy**](https://chat.openai.com/g/g-SWYMPp8Ya-budget-buddy)
-- [**Personal Finance Consultant**](https://chat.openai.com/g/g-PMRTtDxVP-personal-finance-consultant)
-- [**Finance Friend**](https://chat.openai.com/g/g-9jS8Ca9EV-finance-friend)
-- [**YoutubeIncome**](https://chat.openai.com/g/g-Q9fHzl7Pt-youtubeincome)
-- [**Trading Master**](https://chat.openai.com/g/g-L1phQtWis-trading-master)
-- [**Split The Bill**](https://chat.openai.com/g/g-KUTWCiSUv-split-the-bill)
-- [**Rich Habits**](https://chat.openai.com/g/g-4OM4re8tv-rich-habits)
-- [**Invoice Master**](https://chat.openai.com/g/g-3XxyeZ2Gy-invoice-master)
-- [**U.S. Tax Bot**](https://chat.openai.com/g/g-EznQie7Yv-u-s-tax-bot)
-- [**Adquiereme (M&A Mentor)**](https://chat.openai.com/g/g-IcOimhpIG-adquiereme-m-a-mentor)
-- [**Spanos**](https://chat.openai.com/g/g-3aQFDEC4K-spanos)
-- [**Rootmo**](https://chat.openai.com/g/g-L3PwQf2oO-rootmo)
-- [**Binance Crypto Price Assistant**](https://chat.openai.com/g/g-6qKqYE4Dj-binance-crypto-price-assistant)
-- [**TokenXplorer**](https://chat.openai.com/g/g-DsUy4DUup-tokenxplorer)
-- [**Crypto Advisor**](https://chat.openai.com/g/g-5Mf3BbBiM-crypto-advisor)
-- [**Money Machine - Weijian Shan**](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan)
-- [**Crypto Market Maven**](https://chat.openai.com/g/g-WWJ6RZ5Ea-crypto-market-maven)
-- [**Real Estate Data Analyst**](https://chat.openai.com/g/g-MdyJv5LOu-real-estate-data-analyst)
-- [**CUC股票**](https://chat.openai.com/g/g-OHZx07XTj-cucgu-piao)
-- [**Crypto Venture Analyst**](https://chat.openai.com/g/g-MQVYnhQOC-crypto-venture-analyst)
-- [**The Crowdfunding GPT Advisor**](https://chat.openai.com/g/g-OqFIkQJf3-the-crowdfunding-gpt-advisor)
-- [**AIT-ShopifyStrategyX**](https://chat.openai.com/g/g-7K4KTwJG6-ait-shopifystrategyx)
-- [**Edwina the Economist**](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist)
-- [**有知有行投资第一课**](https://chat.openai.com/g/g-9GySWgnJv-you-zhi-you-xing-tou-zi-di-yi-ke)
-- [**Bitcoin Simplifier**](https://chat.openai.com/g/g-UOwEu1iAJ-bitcoin-simplifier)
-- [**Crypto Pulse**](https://chat.openai.com/g/g-Jd5aBxsUf-crypto-pulse)
-- [**Fortune Finance**](https://chat.openai.com/g/g-LPtEMVEyg-fortune-finance)
-- [**Charlie Munger Mentor**](https://chat.openai.com/g/g-EtkwLTakt-charlie-munger-mentor)
-- [**Oracle of Omaha**](https://chat.openai.com/g/g-K8ciXgR8w-oracle-of-omaha)
-- [**Insurance Copilot**](https://chat.openai.com/g/g-gGlXWddAJ-insurance-copilot)
-- [**DeFi Compass**](https://chat.openai.com/g/g-P4MXCZac2-defi-compass)
-- [**Fiscal Chuckle**](https://chat.openai.com/g/g-bCrLVWXzj-fiscal-chuckle)
-- [**BTC Reserve GPT**](https://chat.openai.com/g/g-JNRiTyOQt-btc-reserve-gpt)
-- [**Pantos Guide**](https://chat.openai.com/g/g-4DLt0ATW9-pantos-guide)
-- [**F**k it! we ball🎊**](https://chat.openai.com/g/g-DiHfEymRH-f-k-it-we-ball)
-- [**CryptoGPT**](https://chat.openai.com/g/g-JW2GWrE8D-cryptogpt)
-- [**Market Sage**](https://chat.openai.com/g/g-Qkv7ooiD7-market-sage)
-- [**PESAGPT**](https://chat.openai.com/g/g-D9G6WyNJQ-pesagpt)
-- [**Orange Pill - A Simplified BTC Explainer**](https://chat.openai.com/g/g-vPVFC1R7o-orange-pill-a-simplified-btc-explainer)
-- [**Token Securities Insights**](https://chat.openai.com/g/g-i4p2qp1Fy-token-securities-insights)
-- [**Brokerage Clerk Helper: Daily Task Solver**](https://chat.openai.com/g/g-LUgp1BS78-brokerage-clerk-helper-daily-task-solver)
-- [**God of Money**](https://chat.openai.com/g/g-PODWnhec9-god-of-money)
-- [**FLEX.LINK**](https://chat.openai.com/g/g-QfPXHjheP-flex-link)
-- [**CLEC James Investment Advisor**](https://chat.openai.com/g/g-Q8Y2TmEcq-clec-james-investment-advisor)
-- [**Parlay Chef**](https://chat.openai.com/g/g-m3gB5i40L-parlay-chef)
-- [**金子さん**](https://chat.openai.com/g/g-SNrLMrSgl-jin-zi-san)
-- [**Investment Master**](https://chat.openai.com/g/g-Ey1pg0EBK-investment-master)
-- [**HustleGPT**](https://chat.openai.com/g/g-7Ntkn512F-hustlegpt)
-- [**UK Tax GPT**](https://chat.openai.com/g/g-WHaAEG6kp-uk-tax-gpt)
-- [**Wealth Mentor**](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor)
-- [**Impôt Expert Québec**](https://chat.openai.com/g/g-MChV7kUXx-impot-expert-quebec)
-- [**Crypto Sicko**](https://chat.openai.com/g/g-QJ2t52uFU-crypto-sicko)
-- [**Buffett Wisdom**](https://chat.openai.com/g/g-4PbRzpt9W-buffett-wisdom)
-- [**Truc de Comptable**](https://chat.openai.com/g/g-BN9B8k9Go-truc-de-comptable)
-- [**金儲けマスター**](https://chat.openai.com/g/g-AJTbNjiO9-jin-chu-kemasuta)
-- [**Crypto Alpha Advisor**](https://chat.openai.com/g/g-7XwGUi1CM-crypto-alpha-advisor)
-- [**Explorer's Compass**](https://chat.openai.com/g/g-7dRhUcET9-explorer-s-compass)
-- [**Blockpedia**](https://chat.openai.com/g/g-KqMzVjfW0-blockpedia)
-- [**Warren & Charlie**](https://chat.openai.com/g/g-U53wXYLTk-warren-charlie)
-- [**確定申告くん**](https://chat.openai.com/g/g-LUymJgFdR-que-ding-shen-gao-kun)
-- [**Finance Navigator**](https://chat.openai.com/g/g-JLdy00Kbt-finance-navigator)
-- [**The Bitcoin Adviser**](https://chat.openai.com/g/g-T4FpbE6RY-the-bitcoin-adviser)
-- [**E&E Supplier Management Consultant**](https://chat.openai.com/g/g-9Hkkbs4aa-e-e-supplier-management-consultant)
-- [**Market Minder**](https://chat.openai.com/g/g-TXrg7YkWg-market-minder)
-- [**Crypto Guru**](https://chat.openai.com/g/g-3S8rFiJQY-crypto-guru)
-- [**Wealth Advisor**](https://chat.openai.com/g/g-TYJ3DQ885-wealth-advisor)
-- [**VCGPT**](https://chat.openai.com/g/g-Nldd8JwN4-vcgpt)
-- [**Wealth Wings**](https://chat.openai.com/g/g-OcrqzeFe8-wealth-wings)
-- [**Crypto Technical  Analysis**](https://chat.openai.com/g/g-1Jk8oa9w2-crypto-technical-analysis)
-- [**How to Become a Millionaire**](https://chat.openai.com/g/g-OxpESOaaA-how-to-become-a-millionaire)
-- [**Expense Compliance Assistant**](https://chat.openai.com/g/g-07QF9dAL4-expense-compliance-assistant)
-- [**Lavrion Mining Investment GPT**](https://chat.openai.com/g/g-SjLgF6KU7-lavrion-mining-investment-gpt)
-- [**Zakat Assistant**](https://chat.openai.com/g/g-6mO8pF3e9-zakat-assistant)
-- [**WSB Analyst**](https://chat.openai.com/g/g-68gJtGESo-wsb-analyst)
-- [**Business Plan Builder**](https://chat.openai.com/g/g-B7m98jiyn-business-plan-builder)
-- [**Ian the International Accountant**](https://chat.openai.com/g/g-7eFzsoDEa-ian-the-international-accountant)
-- [**BitV1**](https://chat.openai.com/g/g-U52whiZpn-bitv1)
-- [**Chat with Psychology of money**](https://chat.openai.com/g/g-Xo9gkFwyv-chat-with-psychology-of-money)
-- [**Instructors in Global Economics and Finance**](https://chat.openai.com/g/g-5i2GDJmnW-instructors-in-global-economics-and-finance)
-- [**FudGPT**](https://chat.openai.com/g/g-B9B9eVHQL-fudgpt)
-- [**Crypto Insighter**](https://chat.openai.com/g/g-8DapNiJCQ-crypto-insighter)
-- [**Art Market Insight**](https://chat.openai.com/g/g-4vPOBMrN6-art-market-insight)
-- [**Dr. Business**](https://chat.openai.com/g/g-ODclaHPfa-dr-business)
-- [**Business Sage**](https://chat.openai.com/g/g-Lkp8wSdzz-business-sage)
-- [**finance brot**](https://chat.openai.com/g/g-35BgQgoIo-finance-brot)
-- [**Money Maker**](https://chat.openai.com/g/g-LlVbgOzfL-money-maker)
-- [**Virtual Charlie Munger**](https://chat.openai.com/g/g-1Wa3O0s3R-virtual-charlie-munger)
-- [**Bitcoin Educator**](https://chat.openai.com/g/g-5i5xt14cn-bitcoin-educator)
-- [**Mad money predictions**](https://chat.openai.com/g/g-30CdD9EiB-mad-money-predictions)
-- [**CPF Guide Bot**](https://chat.openai.com/g/g-0uQRgwu1i-cpf-guide-bot)
-- [**Andrew Tate**](https://chat.openai.com/g/g-7FGXp1eWw-andrew-tate)
-- [**Yeni Başlayanlar İçin Kripto Para Piyasaları**](https://chat.openai.com/g/g-zxJIuV4m9-yeni-baslayanlar-icin-kripto-para-piyasalari)
-- [**Earn AI**](https://chat.openai.com/g/g-03gMmWQdj-earn-ai)
-- [**Grant Guide Guru**](https://chat.openai.com/g/g-2dBLExtfV-grant-guide-guru)
-- [**cryptogenius**](https://chat.openai.com/g/g-ICeDsZUIF-cryptogenius)
-- [**Tax Pro**](https://chat.openai.com/g/g-qOJ55yYSU-tax-pro)
-- [**Coin Chartist**](https://chat.openai.com/g/g-8yEyUGyFf-coin-chartist)
+- [**Currency Converter**](https://chat.openai.com/g/g-ZNvavsN3l) Convert currencies based on real-time rates!
+- [**Svenska Skatteassistenten**](https://chat.openai.com/g/g-caCXGWq48-svenska-skatteassistenten) Svensk skattexpert som hjälper till med deklarationen och skattefrågor.
+- [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt) Experto en derecho e impuestos españoles.
+- [**Financial Cybersecurity Analyst - Lockley Cash v1**](https://chat.openai.com/g/g-k1DAeyoen-financial-cybersecurity-analyst-lockley-cash-v1) stunspot's advisor for all things Financial Cybersec
+- [**AXA Versicherungsexperte**](https://chat.openai.com/g/g-f32Zn8M1G-axa-versicherungsexperte) Experte für AXA Versicherungsbedingungen
+- [**ESG 2.0**](https://chat.openai.com/g/g-vUi2rQAGH-esg-2-0) An agent that helps responsible investors understand the complicated landscape of environmental, social, & governance
+- [**Bitcoin Whitepaper Chat**](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat) Chat with the official Bitcoin Whitepaper
+- [**Stock Market Analyst**](https://chat.openai.com/g/g-pnsShBNY8-stock-market-analyst) Provides detailed, precise stock market analysis.
+- [**Web3 Fundraising Guide**](https://chat.openai.com/g/g-LtrB6UBZL-web3-fundraising-guide) Advanced guide on Web3 fundraising & deal structuring
+- [**Receipt to CSV**](https://chat.openai.com/g/g-fPFaujYGv-receipt-to-csv) Converts receipt photos into CSV
+- [**Money Buddy**](https://chat.openai.com/g/g-oBnWP4Jwb-money-buddy) Your go-to for smart finance management.
+- [**ICT Market Mentor**](https://chat.openai.com/g/g-zCFUVc2pB-ict-market-mentor) Your guide in mastering ICT trading skills.
+- [**Warren Buffet's Wisdom**](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom) Channeling Warren Buffet's wisdom to offer timeless, tailored advice.
+- [**Finance Guru GPT**](https://chat.openai.com/g/g-taUaCVbRD-finance-guru-gpt) Expert Insights and Analysis to help you make Smart Financial Decisions
+- [**Japan Stock Investor**](https://chat.openai.com/g/g-pC0zWVrSW-japan-stock-investor) 日本の上場企業に関する洞察と AI 予測
+- [**Orange Pill GPT**](https://chat.openai.com/g/g-gQVrbx2kd-orange-pill-gpt) The Orange-Pilling Agent is a skilled and empathetic advocate for Bitcoin adoption. With a deep understanding of the bitcoin space and a passion for spreading awareness about Bitcoin's potential
+- [**Short Squeeze Scout**](https://chat.openai.com/g/g-g16u2moyD-short-squeeze-scout) Friendly guide on shorted stocks, balancing professionalism and approachability.
+- [**Bitcoin Sentiment**](https://chat.openai.com/g/g-VKcQOkPTV-bitcoin-sentiment) Tracks Bitcoin price and news sentiment.
+- [**Wisdom of Omaha**](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha) Investor duo giving timeless wisdom.
+- [**云客AI投研**](https://chat.openai.com/g/g-sKAlWXNQu-yun-ke-aitou-yan) 关于区块链、web3.0项目方、白皮书、空投信息、nft、链上合约检索等项目投资研究报告
+- [**ETF拯救世界**](https://chat.openai.com/g/g-hPdPSB8su-etfzheng-jiu-shi-jie) 构建你的投资体系
+- [**Investor Matchmaker**](https://chat.openai.com/g/g-CZKJyc4b4-investor-matchmaker) Talk to the perfect investor for your startup today
+- [**Python Quant**](https://chat.openai.com/g/g-tX4vqCUzc-python-quant) Friendly, professional Python Quant expert, making educated assumptions.
+- [**Blocksider GPT**](https://chat.openai.com/g/g-dwHRHnows-blocksider-gpt) Your crypto guide
+- [**Crypto Advisor Sam**](https://chat.openai.com/g/g-e5I2JUfHj-crypto-advisor-sam) I give crypto trading advice like Sam Bankman-Fried.
+- [**Tab Tender**](https://chat.openai.com/g/g-UfpzBsqrb-tab-tender) Bill splitter GPT that itemizes and calculates shared costs.
+- [**Bitcoin ¿compro o vendo?**](https://chat.openai.com/g/g-UaZfDuGaX-bitcoin-compro-o-vendo) Asesor de valor de Bitcoin con comparaciones
+- [**Market Navigator**](https://chat.openai.com/g/g-HNAum1EyA-market-navigator) 日本と米国の株価・為替ニュースを一覧表示します。
+- [**Bill Buddy**](https://chat.openai.com/g/g-STcFss3pZ-bill-buddy) Accurate bill splitter with concise summaries. Just upload a picture of your bill and talk through who owes what
+- [**Safe Investment Advisor**](https://chat.openai.com/g/g-YnAKaNGyq-safe-investment-advisor) Offers safe, clear investment advice aimed at high returns
+- [**Puffer Finance**](https://chat.openai.com/g/g-w0JYr8zdJ-puffer-finance) Expert on DeFi, staking tokens, and user privacy.
+- [**Tech Market Mover (v1.1)**](https://chat.openai.com/g/g-nr2cTvVWt-tech-market-mover-v1-1) Summarizing tech articles succinctly with focused stock insights.
+- [**A股分析（实时爬取数据，可联网）**](https://chat.openai.com/g/g-shrPf6iR0-agu-fen-xi-shi-shi-pa-qu-shu-ju-ke-lian-wang) Analyzing real-time A-share data 分析A股数据（实时）
+- [**GPT Finance**](https://chat.openai.com/g/g-tveXvXU5g-gpt-finance) An expert about Financial Economics
+- [**EconomicsGPT**](https://chat.openai.com/g/g-y3Cx5DeyI-economicsgpt) Expert in economics, offering insights and explanations on economic theories and trends.
+- [**Tate GPT**](https://chat.openai.com/g/g-Ch5M06G9h-tate-gpt) Guide from $0 to $10k+ with Tate's tactics
+- [**Olivier's Split Bill Calculator**](https://chat.openai.com/g/g-zUH1lKUoo-olivier-s-split-bill-calculator) Upload a receipt and let this GPT calculate who owes what.
+- [**CRE Pro**](https://chat.openai.com/g/g-yymEhItcf-cre-pro) Expert in Commercial Real Estate.
+- [**Credit Card Matchmaker**](https://chat.openai.com/g/g-zASWMYXBt-credit-card-matchmaker) Interactive credit card advisor
+- [**Market Maverick GPT**](https://chat.openai.com/g/g-V8IBA3tIn-market-maverick-gpt) A GPT designed to be your quant in all things stocks, trading, trends, and more.
+- [**Insurance Plan Agent**](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent) Get help finding health insurance using the United States federal insurance marketplace
+- [**CompoundGPT**](https://chat.openai.com/g/g-YYWQsWPGV-compoundgpt) A guide to the Compound Finance protocol
+- [**Ernie**](https://chat.openai.com/g/g-g18KZpevd-ernie) Your Expert on financial earnings call insights. (Start by typing Ticker and Quarter/Year)
+- [**Crypto X**](https://chat.openai.com/g/g-zjIkOI0qB-crypto-x) Your go-to crypto investment advisor.
+- [**Satoshi Nakamoto**](https://chat.openai.com/g/g-ZcmRNYWk9-satoshi-nakamoto) Formal and mysterious, mirroring Satoshi Nakamoto's persona.
+- [**WealthSystems**](https://chat.openai.com/g/g-ZeYBNHQQv-wealthsystems) Your AI Financial Advisor
+- [**GPT Gateway**](https://chat.openai.com/g/g-CJ1fWSgC8-gpt-gateway) Speaks like Luca Boiardi on crypto.
+- [**Financial Advisor**](https://chat.openai.com/g/g-rbhyR7TVN-financial-advisor) Not financial advice
+- [**AI龚有柴**](https://chat.openai.com/g/g-H5J3hBBRK-aigong-you-chai) 加密货币和DeFi方面的专家，使用普通话，分析比特币趋势，不提供财务咨询。
+- [**Aus Petrol Prices**](https://chat.openai.com/g/g-sycM3WZAT-aus-petrol-prices) Ask for the average daily petrol price for any state or capital city region in Australia!
+- [**Trip Ledger**](https://chat.openai.com/g/g-yUP0oOaRr-trip-ledger) I'm your trip accountant, tracking and balancing expenses.
+- [**Elliott Wave Expert**](https://chat.openai.com/g/g-GMGhSS0LH-elliott-wave-expert) Provides detailed stock analysis with Elliott Wave theory.
+- [**Irish Business Grant and Support Guide**](https://chat.openai.com/g/g-uj8QNBEA4-irish-business-grant-and-support-guide) Guide to Irish business grants and support. Created by Jason Roe. To get started try .. What grants are available to Irish businesses?
+- [**The IPO Strategy**](https://chat.openai.com/g/g-Uc8qF4MMP-the-ipo-strategy) Expert in IPO Strategy, offers detailed guidance on business ideas, market paths, and opportunities. Created by Christopher Perceptions
+- [**Trader**](https://chat.openai.com/g/g-0StMub6wV-trader) Trade Any Asset, Crypto, Stocks Commodities. You Name it!
+- [**Mentor de Éxito Personal**](https://chat.openai.com/g/g-HT2OgjCZx-mentor-de-exito-personal) Tu guía para incrementar ingresos y lograr el éxito personal.
+- [**Taxes Master**](https://chat.openai.com/g/g-ol5mgObrK-taxes-master) Expert advice on legal tax minimization strategies, with web support when needed.
+- [**Crypto Mining Profit Advisor**](https://chat.openai.com/g/g-tE6D993uO-crypto-mining-profit-advisor) Your advisor for comprehensive crypto mining insights
+- [**Levels.fyi GPT**](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt) Data-driven negotiator and career guide.
+- [**Receipt Assistant**](https://chat.openai.com/g/g-WEi7DGCb3-receipt-assistant) Your efficient receipt processing buddy
+- [**Cash Flow Analyst Bot**](https://chat.openai.com/g/g-tVcRevxjr-cash-flow-analyst-bot) Technical analyst of company cash flows.
+- [**Varsity by Zerodha**](https://chat.openai.com/g/g-WIy0DU3fd-varsity-by-zerodha) Uses Varsity by Zerodha to teach finance with real events, data visuals and pop culture references.
+- [**Investment Dialogue of Buffett and Munger**](https://chat.openai.com/g/g-H4A9l0oEk-investment-dialogue-of-buffett-and-munger) You just need to provide the company name and product, outline your requirements, and 'Buffett' and 'Munger' will begin their discussion.Upon your response with 'continue,' the discourse shall proceed...
+- [**1nvestMate**](https://chat.openai.com/g/g-GXxHduFy0-1nvestmate) Comprehensive crypto advisor with personalized insights and educational tools.
+- [**Pelcro GPT**](https://chat.openai.com/g/g-r9AJQpGrP-pelcro-gpt) Pelcro GPT: Increase revenue and speed up collections with our AI powered billing & payments platform. #FinTech #OpenBanking
+- [**Maria MoneyWise**](https://chat.openai.com/g/g-o6js6YqlY-maria-moneywise) Your expert guide in financial writing, blending in-depth economic insights with engaging, clear content.
+- [**PR TaxGPT**](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt) Plataforma sobre todo lo relacionado a contribuciones de Puerto Rico
+- [**Finance Pro GPT**](https://chat.openai.com/g/g-wXxwIrVlT-finance-pro-gpt) Your guide to M&A, Valuations, and LBOs
+- [**Realty Mentor**](https://chat.openai.com/g/g-Qj5T2L1qZ) Real estate investor assistant for market and investment analysis.
+- [**TaxGPT**](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt) Tax advice specialist offering guidance on tax-related queries.
+- [**FP&AI by The Financial Fox**](https://chat.openai.com/g/g-nDSzoieff-fp-ai-by-the-financial-fox) Your best FP&A AI Assistant by Christian Martinez, Founder of The Financial Fox
+- [**Stock Sensei**](https://chat.openai.com/g/g-tCc9EbE1Z-stock-sensei) I simplify stock agreements.
+- [**SportsBet**](https://chat.openai.com/g/g-rSQ0mW8e5-sportsbet) Quick sports predictions and odds.
+- [**IFRS-GPT**](https://chat.openai.com/g/g-UwhClxZ3X-ifrs-gpt) Professional IFRS expert, adept at analyzing documents for financial reporting.
+- [**Vet Benefits Coach**](https://chat.openai.com/g/g-pMFttH6En-vet-benefits-coach) I'm your coach for benefits filing!
+- [**Tax Mentor**](https://chat.openai.com/g/g-jSBOACmTc-tax-mentor) Tax guide for US startups
+- [**Market Maven**](https://chat.openai.com/g/g-sdhl2nK23-market-maven) An analyst versed in investment strategies and philosophies of financial icons.
+- [**CardanoView**](https://chat.openai.com/g/g-dPa3O2sL7-cardanoview) ADA Handle info retriever
+- [**Borrower's Defense Assistant**](https://chat.openai.com/g/g-eiSVbq7Ra-borrower-s-defense-assistant) Assistance in understanding and filling out the Borrower's Defense to Repayment Form provided by the United States Department of Education.
+- [**Smart Spender**](https://chat.openai.com/g/g-CyKcrcJ4x-smart-spender) Financial coach for smart buying
+- [**BitcoinGPT**](https://chat.openai.com/g/g-qwDi5jvxw-bitcoingpt) Your all-encompassing source for Bitcoin info.
+- [**Otto the AuditBot**](https://chat.openai.com/g/g-hcw16JjVY-otto-the-auditbot) An expert in audit and compliance, providing precise accounting guidance.
+- [**おしえて！ミダス王！**](https://chat.openai.com/g/g-steTj1V6u-osiete-midasuwang) ーー　現代のミダス王、金融知識を授ける　ーー
+- [**Finance Buddy**](https://chat.openai.com/g/g-CmsBe1oUk-finance-buddy) Your go-to expert for finance insights and advice.
+- [**WallStreetGPT**](https://chat.openai.com/g/g-oGO8X6GK2-wallstreetgpt) Investment Educator & Real-Time Analyst
+- [**Crypto Mentor**](https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor) Your crypto currency guide
+- [**Small Business Tech Advisor**](https://chat.openai.com/g/g-G7DQLgO7H-small-business-tech-advisor) In-depth tech advisor for small businesses, focusing on understanding needs first.
+- [**Market Analyst**](https://chat.openai.com/g/g-m5ZAgJ5jt-market-analyst) Stock/crypto chart analysis with entry & exit price suggestions
+- [**W. Buffett**](https://chat.openai.com/g/g-cGrlv2wGM-w-buffett) The Oracle of Omaha
+- [**Stocks AI**](https://chat.openai.com/g/g-iMWCFq13Z-stocks-ai) Full code snippets for stock trading AI
+- [**Stock Guru**](https://chat.openai.com/g/g-ZRkaqmDXo-stock-guru) Expert financial analyst with concise reports.
+- [**Francine the FP&A Bot**](https://chat.openai.com/g/g-kQ5CnWTFZ-francine-the-fp-a-bot) I'm Francine the FP&A Bot, here to assist with financial planning and analysis.
+- [**Real Estate Helper**](https://chat.openai.com/g/g-sHQtUADdx-real-estate-helper) Expert real estate assistant offering tailored guidance
+- [**港险通**](https://chat.openai.com/g/g-zOKvx1TH8-gang-xian-tong) 香港保险专家，提供详细的产品建议和个性化计划。
+- [**Waren Buffett advice**](https://chat.openai.com/g/g-rrPM4FCKx-waren-buffett-advice) Collects all of Warren Buffett's words since 1930. Let Warren Buffett give you investment advice without having to auction off his charity lunches.
+- [**Financial Advisor Steve**](https://chat.openai.com/g/g-uhrVqKFzd-financial-advisor-steve) Friendly and professional financial advisor, simplifies complex topics.
+- [**Tech Astrology Crypto Universe**](https://chat.openai.com/g/g-b0MRyLzXV-tech-astrology-crypto-universe) A geek-themed horoscope generator blending Bitcoin prices, tech jargon, and astrological whimsy.
+- [**Bob the Tax Saver Guru**](https://chat.openai.com/g/g-mT8aZki66-bob-the-tax-saver-guru) Modern and tech-savvy tax advisor for digital economy issues.
+- [**Zoomer FinFluencer**](https://chat.openai.com/g/g-VCaNPEgNe-zoomer-finfluencer) Gen Z's ally in navigating the new-age financial landscape!
+- [**Aussie Investment Guru**](https://chat.openai.com/g/g-s2bNwCnuP-aussie-investment-guru) Witty bot with a touch of Aussie charm, adept in investment talk.
+- [**Retire Smart MY**](https://chat.openai.com/g/g-gYubhRxe4-retire-smart-my) Retirement Planner for Malaysian
+- [**加密货币专家**](https://chat.openai.com/g/g-kyZ1pRsbC-jia-mi-huo-bi-zhuan-jia) 了解很多加密货币的专业知识。
+- [**FinanceBot**](https://chat.openai.com/g/g-YuvVM33yT-financebot) Expert in finance and stock advice.
+- [**Accounting Aid**](https://chat.openai.com/g/g-rIsuyD7pg-accounting-aid) Helps with accounting queries
+- [**#Premoney**](https://chat.openai.com/g/g-Gmq9gjzeM-premoney) Startup funding and investment expert
+- [**S.A.M**](https://chat.openai.com/g/g-whcP8vw3y-s-a-m) Official SACapital GPT model, focused on ICT's SMC trading without support & resistance.
+- [**Your Personal Finance Analytics Coach**](https://chat.openai.com/g/g-aTFvSLcDa-your-personal-finance-analytics-coach) Your finance and data analytics coach!
+- [**Buffett's Investment Companion**](https://chat.openai.com/g/g-m1sf6iMPn-buffett-s-investment-companion) Financial sage with insights from Berkshire letters (1977-2022)
+- [**Bitcoin Beacon**](https://chat.openai.com/g/g-uWdFsc2G8-bitcoin-beacon) Your multilingual Bitcoin guide
+- [**MoneyAbroadGPT**](https://chat.openai.com/g/g-iMedVys3v-moneyabroadgpt) Your financial independence coach
+- [**Theo dõi thị trường VN**](https://chat.openai.com/g/g-dSwR0bADu-theo-doi-thi-truong-vn) Theo dõi thị trường
+- [**SmartSkatt - Skatteeksperten for Norske AS**](https://chat.openai.com/g/g-rXdEpHd6g-smartskatt-skatteeksperten-for-norske-as) Din guide i skattespørsmål for aksjeselskap og holdingselskap.
+- [**Quant coder**](https://chat.openai.com/g/g-mAoqNweEV-quant-coder) I translate market insights into trading algorithms.
+- [**FRM Level 2**](https://chat.openai.com/g/g-lMWCU27Ui-frm-level-2) FRM Level 2 Study Assistant
+- [**Greenlight Energy Guide**](https://chat.openai.com/g/g-HwX0d96tm-greenlight-energy-guide) Illuminating the path to smarter energy use and effortless savings.
+- [**Disability Advantages Assistant**](https://chat.openai.com/g/g-CZeHqwTex-disability-advantages-assistant) Helps disabled people globally find and claim their benefits.
+- [**Investment Banking Tech Prep with Recalc Academy**](https://chat.openai.com/g/g-ilrojd6Qa-investment-banking-tech-prep-with-recalc-academy) Coach for investment banking technical interviews
+- [**Money GPT**](https://chat.openai.com/g/g-nF5knDgQd-money-gpt) Idea Fulfillment Assistant
+- [**Bitcoin DCA Calc**](https://chat.openai.com/g/g-zYBxxo7I0-bitcoin-dca-calc) A Bitcoin DCA calculation assistant.
+- [**BuFu GPT (DE)**](https://chat.openai.com/g/g-qVSa4SH08-bufu-gpt-de) Interaktiver Buchführungs-GPT: Erklärungen, Bilanzverständnis, Buchführungsprinzipien und Geschäftsvorfallshilfe.
+- [**Earn 10k by Month**](https://chat.openai.com/g/g-D1PHUjyaI-earn-10k-by-month) I provide business ideas and plans to help users earn $10k/month.
+- [**Stock Analysis**](https://chat.openai.com/g/g-WqpDjaSHw-stock-analysis) I look into the current state of publicly traded companies and report their performance.
+- [**BRRR Analyst**](https://chat.openai.com/g/g-m1cy0xVjB-brrr-analyst) Analyzes candlestick charts for trading insights.
+- [**RockBot**](https://chat.openai.com/g/g-G8diQfx7i-rockbot) RockFlow Smart Investment Bot, also the Customer Service Agent from RockFlow
+- [**Offer Negotiator by CoverDoc**](https://chat.openai.com/g/g-qe7JCfFTF-offer-negotiator-by-coverdoc) Optimizes your job offer by analyzing market data. Know your market value and get suggested talking points to negotiate your offer. Upload your offer letter or manually enter your offer details to get started.
+- [**Interest Rates**](https://chat.openai.com/g/g-a61upqaQQ-interest-rates) Get real-time interest rates from central banks of countries!
+- [**Value Add VC Investor**](https://chat.openai.com/g/g-oMNJCEpwT-value-add-vc-investor) A confident, slightly snarky VC offering seasoned advice.
+- [**jpegGPT**](https://chat.openai.com/g/g-H2G5KUeGL-jpeggpt) A NFT oracle
+- [**MBS Analyst**](https://chat.openai.com/g/g-YazoogtPC-mbs-analyst) Insights and graphs from a finance pro.
+- [**Binance PNL Profit GPT Bot**](https://chat.openai.com/g/g-szBmdPJ7V-binance-pnl-profit-gpt-bot) A Binance trading bot that manages daily profits and reinvestments.
+- [**Fractal Financial**](https://chat.openai.com/g/g-ls9yIBo6N-fractal-financial) specified tools and techniques related to financial markets, algorithmic trading, risk assessment, trend prediction, asset allocation, or any other aspect you'd like to explore.
+- [**Crypto Sage**](https://chat.openai.com/g/g-Fpdc16XnZ-crypto-sage) Cryptocurrency expert providing insights and explanations on digital currencies.
+- [**Seabiscuit: Maverick Market Maker**](https://chat.openai.com/g/g-uy1ezvbLL-seabiscuit-maverick-market-maker) Become the master of your domain
+- [**Property Insight**](https://chat.openai.com/g/g-ic1X2U2tO-property-insight) Real estate investment evaluator
+- [**VeroÄly**](https://chat.openai.com/g/g-WvxzcTo03-veroaly) Provides Finnish tax info and helps understand tax situations via calculations.
+- [**Datamine Network**](https://chat.openai.com/g/g-WdK2nNwGZ-datamine-network) Inflation-resistant currency built on Ethereum. Unique economic system established using a variation of Proof-of-Burn algorithm.
+- [**Helps you build a human centered Bitcoin Ecosystem**](https://chat.openai.com/g/g-sUwFQZbg1-helps-you-build-a-human-centered-bitcoin-ecosystem) Guides in exploring the user perspective of the 'why' behind Bitcoin challenges
+- [**Investment Scout**](https://chat.openai.com/g/g-a2bjr8olI-investment-scout) Analyzes financial reports for investment insights.
+- [**Fink: Creditcard Counsel**](https://chat.openai.com/g/g-k7Lh7vgKb-fink-creditcard-counsel) I'm Fink, your credit card benefits advisor.
+- [**Market Whispers**](https://chat.openai.com/g/g-y2UdGoRVC-market-whispers) Your go-to source for latest US stock insights 📈🚀
+- [**Douglas**](https://chat.openai.com/g/g-lSg1yKEFa-douglas) AI Family Office Manager
+- [**インデックスちゃん**](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan) インデックス投資に関する質問やアドバイスをします！
+- [**UK Personal Tax Guide**](https://chat.openai.com/g/g-hloFK0KjW-uk-personal-tax-guide) Guiding on UK tax with advice & relevant legislative references. Professional advice emphasized!
+- [**ESGuardian**](https://chat.openai.com/g/g-q7doYKmb5-esguardian) ESG performance assessment and reporting guide.
+- [**Stock Research SideKick**](https://chat.openai.com/g/g-WUdbNmjIC-stock-research-sidekick) Read Company Filings at Speed, Plot Graphs by BeatandRaise.com
+- [**Analytiq Pro**](https://chat.openai.com/g/g-T2dQfz9oS-analytiq-pro) Financial analysis expert for annual report summaries.
+- [**agri1.ai**](https://chat.openai.com/g/g-iWFptmqAp-agri1-ai) Your agricultural advisor for better farming
+- [**Finance GPT**](https://chat.openai.com/g/g-szDdJUX9V-finance-gpt) I predict future stock prices. Press H to bring up hot key menu.
+- [**SteuerGPT**](https://chat.openai.com/g/g-qNcbzrlBC-steuergpt) Expert in German tax law.
+- [**Credit Guru**](https://chat.openai.com/g/g-kzP8IMZCe-credit-guru) Your go-to source for credit wisdom.
+- [**Market Mentor**](https://chat.openai.com/g/g-zSwdyV0KQ-market-mentor) Analytical trading coach with a human touch
+- [**Generational Wealth GPT**](https://chat.openai.com/g/g-w7pB6XVr0-generational-wealth-gpt) I believe in you
+- [**Market Advisor**](https://chat.openai.com/g/g-uxndiFseq-market-advisor) Technical analytics and financial expert at your assistant for investment decisions.
+- [**Market Insights Navigator**](https://chat.openai.com/g/g-n40K0cEzB-market-insights-navigator) In-depth and insightful business and market research assistant.
+- [**TradingView indicator & stratagy developer**](https://chat.openai.com/g/g-XC5PsNAwL-tradingview-indicator-stratagy-developer) your very own expert PineScript developer !
+- [**Seed Investor Connect**](https://chat.openai.com/g/g-SlXRuB1UL-seed-investor-connect) Analyzes websites to match startups with investors from an uploaded list
+- [**Money Saver**](https://chat.openai.com/g/g-ps5sUF4bR-money-saver) Daily money saving tips personalized for you!
+- [**HGR Section 179 Q&A Bot**](https://chat.openai.com/g/g-nacW6l9ip-hgr-section-179-q-a-bot) Advises on Section 179 benefits, helping you analyze your potential tax savings on equipment purchases.
+- [**Satoshi Punk**](https://chat.openai.com/g/g-hHb4IBs76-satoshi-punk) Your savvy Bitcoin ecosystem guide, fluent in cutting-edge crypto topics and top programming libraries, designed to elevate your blockchain journey with expertise and ease.
+- [**MoneyMan**](https://chat.openai.com/g/g-au4jX7Lim-moneyman) Friendly, approachable financial advisor with fun, emoji-rich interactions.
+- [**Business Plan Sage**](https://chat.openai.com/g/g-NsLil9uoU-business-plan-sage) Formal expert in business planning and financial modeling.
+- [**Serial Entrepreneur**](https://chat.openai.com/g/g-bKgy2W80a-serial-entrepreneur) An experienced investor managing a diverse portfolio, focused on identifying and supporting disruptive ventures.
+- [**Daniel Aharonoff**](https://chat.openai.com/g/g-akAdU4iSh-daniel-aharonoff) Daniel Aharonoff - Seasoned investor and entrepreneur focused on creating real-world value leveraging Artificial Intelligence & Blockchain technology
+- [**ChainGPT**](https://chat.openai.com/g/g-eeyI3mCBh-chaingpt) Blockchain and AI platform for wallet creation, transactions, and OpenAI API integration.
+- [**Excel Finance Guru**](https://chat.openai.com/g/g-Qj5Yxi0t3-excel-finance-guru) Excel wizard for finance pros
+- [**美国投资税收顾问**](https://chat.openai.com/g/g-SY5iQoU6J-mei-guo-tou-zi-shui-shou-gu-wen) Guide on U.S. investment and tax for Chinese investors.
+- [**Bitcoin GPT**](https://chat.openai.com/g/g-eXYVElVUf-bitcoin-gpt) Your go-to assistant for all things Bitcoin.
+- [**Veterans Affairs Guide**](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide) A Veterans Affairs assistant guiding users to VA resources.
+- [**MillionaireMingle**](https://chat.openai.com/g/g-TCpEwWzTL-millionairemingle) A sophisticated companion for wealth and romance advice.
+- [**Mr. Market**](https://chat.openai.com/g/g-OOr0m8VUk-mr-market) Investor guide with interdisciplinary insights.
+- [**Alex MacGPT**](https://chat.openai.com/g/g-bdb9wA4i3-alex-macgpt) Startup & Fundraising Advisor
+- [**TradeComply**](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply) Import Export Compliance | Tariff Classification Shipping Queries | Supply Chain Solutions
+- [**Business Matchmaker**](https://chat.openai.com/g/g-SHSDbQ6Fq-business-matchmaker) I provide insights on asset data.
+- [**Betting Buddy**](https://chat.openai.com/g/g-lzXDINLCv-betting-buddy) AI sports betting expert with deep modeling integration for superior analysis and recommendations.
+- [**加密资产指南**](https://chat.openai.com/g/g-Rgljkeh5y-jia-mi-zi-chan-zhi-nan) 加密资产数据和信息指南
+- [**Warren Wisdom**](https://chat.openai.com/g/g-UElaIgQhK-warren-wisdom) Echoing Warren Buffett's shrewd financial acumen including visual analysis of his latest portfolio.
+- [**Maple Advisor**](https://chat.openai.com/g/g-G1Il2Wgs7-maple-advisor) Canadian Tax Expert
+- [**Block Data Analysis**](https://chat.openai.com/g/g-UT075j9Wm-block-data-analysis) Senior Crypto Analyst providing market insights and news analysis.
+- [**Maestro AmazonFBA**](https://chat.openai.com/g/g-9ilYCj9F6-maestro-amazonfba) Asesor experto en Amazon FBA, al estilo de Jeff Bezos
+- [**Account Unblocker**](https://chat.openai.com/g/g-EOgoJ7oXD-account-unblocker) Aid for banking account recovery issues.
+- [**Equity Analyst**](https://chat.openai.com/g/g-EtD9sVGHw-equity-analyst) Delivers precise stock analyses with clear price targets and recommendations
+- [**Capital Companion**](https://chat.openai.com/g/g-SBXYThAjv-capital-companion) A savvy guide for financial insights, strategies, and sentiment analysis.
+- [**Quant Explorer**](https://chat.openai.com/g/g-VecdzqOmM-quant-explorer) HF trading expert with a blend of professional and conversational styles
+- [**Bitcoin Buddy**](https://chat.openai.com/g/g-EzJDXLslE-bitcoin-buddy) Hourly Bitcoin facts to fuel your learning journey!
+- [**FundableAI - Modern Fundraising**](https://chat.openai.com/g/g-BCEUhUBbn-fundableai-modern-fundraising) Get professional project concept and list of EU funding opportunities.
+- [**Rosie the RoboCFO**](https://chat.openai.com/g/g-UzcxxL3KC-rosie-the-robocfo) An experienced RoboCFO with a knack for finance, technology, and strategic growth.
+- [**Personal Business Manager**](https://chat.openai.com/g/g-49TGuuyLB-personal-business-manager) Seasoned investment manager offering detailed financial plans and strategies.
+- [**Budget Buddy**](https://chat.openai.com/g/g-SWYMPp8Ya-budget-buddy) Enhanced budgeting assistant with new features.
+- [**Personal Finance Consultant**](https://chat.openai.com/g/g-PMRTtDxVP-personal-finance-consultant) Insightful financial guidance with a creative twist.
+- [**Finance Friend**](https://chat.openai.com/g/g-9jS8Ca9EV-finance-friend) Your personal finance guru and budget optimizer.
+- [**YoutubeIncome**](https://chat.openai.com/g/g-Q9fHzl7Pt-youtubeincome) Calculate Youtube Income by video views.
+- [**Trading Master**](https://chat.openai.com/g/g-L1phQtWis-trading-master) Stock pattern analyst & chart plotter
+- [**Split The Bill**](https://chat.openai.com/g/g-KUTWCiSUv-split-the-bill) Casual and friendly, 'Split The Bill' handles extensive group bills, offering detailed breakdowns.
+- [**Rich Habits**](https://chat.openai.com/g/g-4OM4re8tv-rich-habits) Entrepreneurs can get distracted easily and form bad habits. This GPT helps you adopt rich habits and get rich by doing so.
+- [**Invoice Master**](https://chat.openai.com/g/g-3XxyeZ2Gy-invoice-master) Expert on Japan's invoice system, providing detailed, accurate answers.
+- [**U.S. Tax Bot**](https://chat.openai.com/g/g-EznQie7Yv-u-s-tax-bot) Virtual assistant for U.S. tax law guidance based on the complete U.S. Tax Code
+- [**Adquiereme (M&A Mentor)**](https://chat.openai.com/g/g-IcOimhpIG-adquiereme-m-a-mentor) Experto en M&A y valoración de empresas.
+- [**Spanos**](https://chat.openai.com/g/g-3aQFDEC4K-spanos) Expert sports betting advisor using real-time data
+- [**Rootmo**](https://chat.openai.com/g/g-L3PwQf2oO-rootmo) Ask a question on NZS Capital LLC's Whitepapers. NOT INVESTMENT ADVICE; see disclaimers at nzscapital.com
+- [**Binance Crypto Price Assistant**](https://chat.openai.com/g/g-6qKqYE4Dj-binance-crypto-price-assistant) Fetches Binance crypto prices
+- [**TokenXplorer**](https://chat.openai.com/g/g-DsUy4DUup-tokenxplorer) Crypto forecast assistant with market predictions
+- [**Crypto Advisor**](https://chat.openai.com/g/g-5Mf3BbBiM-crypto-advisor) Technical analysis is for reference only and does not constitute investment advice.
+- [**Money Machine - Weijian Shan**](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan) Talk with book "Money Machine A Trailblazing American Venture in China" by Weijian Shan.
+- [**Crypto Market Maven**](https://chat.openai.com/g/g-WWJ6RZ5Ea-crypto-market-maven) Advanced crypto analysis with real-time data and trend insights
+- [**Real Estate Data Analyst**](https://chat.openai.com/g/g-MdyJv5LOu-real-estate-data-analyst) Your real estate data and trend analyst.
+- [**CUC股票**](https://chat.openai.com/g/g-OHZx07XTj-cucgu-piao) 基本面，消息面和技术面的个股分析与评分
+- [**Crypto Venture Analyst**](https://chat.openai.com/g/g-MQVYnhQOC-crypto-venture-analyst) Analyzing VC projects and due diligence.
+- [**The Crowdfunding GPT Advisor**](https://chat.openai.com/g/g-OqFIkQJf3-the-crowdfunding-gpt-advisor) Professional legal tech support, tailoring responses to user's knowledge of Regulation CF.
+- [**AIT-ShopifyStrategyX**](https://chat.openai.com/g/g-7K4KTwJG6-ait-shopifystrategyx) Strategic guide for profitable Shopify apps.
+- [**Edwina the Economist**](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist) I'm a corporate economist, skilled in economic analysis and industry insights, with a focus on education and clarity.
+- [**有知有行投资第一课**](https://chat.openai.com/g/g-9GySWgnJv-you-zhi-you-xing-tou-zi-di-yi-ke) 基于有知有行投资第一课，帮你快速搞懂投资最重要的事
+- [**Bitcoin Simplifier**](https://chat.openai.com/g/g-UOwEu1iAJ-bitcoin-simplifier) Simplifies Bitcoin concepts for easy understanding
+- [**Crypto Pulse**](https://chat.openai.com/g/g-Jd5aBxsUf-crypto-pulse) I provide the latest crypto news and analyze market trends.
+- [**Fortune Finance**](https://chat.openai.com/g/g-LPtEMVEyg-fortune-finance) A financial educator on market trends and insights.
+- [**Charlie Munger Mentor**](https://chat.openai.com/g/g-EtkwLTakt-charlie-munger-mentor) Offers Munger-style advice on life, business, and investing.
+- [**Oracle of Omaha**](https://chat.openai.com/g/g-K8ciXgR8w-oracle-of-omaha) I offer investment wisdom with a side of Munger humor.
+- [**Insurance Copilot**](https://chat.openai.com/g/g-gGlXWddAJ-insurance-copilot) Insurance broker assistant for policy understanding.
+- [**DeFi Compass**](https://chat.openai.com/g/g-P4MXCZac2-defi-compass) Guida esperta e coinvolgente al mondo della DeFi
+- [**Fiscal Chuckle**](https://chat.openai.com/g/g-bCrLVWXzj-fiscal-chuckle) Crunching numbers and cracking jokes from budgeting to AI breakthroughs in finance. Go ahead, test my fiscal wit!
+- [**BTC Reserve GPT**](https://chat.openai.com/g/g-JNRiTyOQt-btc-reserve-gpt) Guides BTC investment simulations with clear, beginner-friendly explanations.
+- [**Pantos Guide**](https://chat.openai.com/g/g-4DLt0ATW9-pantos-guide) 
+- [**F**k it! we ball🎊**](https://chat.openai.com/g/g-DiHfEymRH-f-k-it-we-ball) Enjoy life within your budget.
+- [**CryptoGPT**](https://chat.openai.com/g/g-JW2GWrE8D-cryptogpt) Crypto & Web3 guide for charting, trading strategies, analytics, and news.
+- [**Market Sage**](https://chat.openai.com/g/g-Qkv7ooiD7-market-sage) Seasoned value investment expert with a long-term focus.
+- [**PESAGPT**](https://chat.openai.com/g/g-D9G6WyNJQ-pesagpt) MPESA statement analyzer
+- [**Orange Pill - A Simplified BTC Explainer**](https://chat.openai.com/g/g-vPVFC1R7o-orange-pill-a-simplified-btc-explainer) A Bitcoin advocate with a persuasive twist.
+- [**Token Securities Insights**](https://chat.openai.com/g/g-i4p2qp1Fy-token-securities-insights) A witty, crypto-savvy GPT for token securities insights, balancing humor and professionalism.
+- [**Brokerage Clerk Helper: Daily Task Solver**](https://chat.openai.com/g/g-LUgp1BS78-brokerage-clerk-helper-daily-task-solver) A helpful Brokerage Clerk for clerical duties in securities transactions.
+- [**God of Money**](https://chat.openai.com/g/g-PODWnhec9-god-of-money) Wealth and finance advice in the style of Cai Shen Ye.
+- [**FLEX.LINK**](https://chat.openai.com/g/g-QfPXHjheP-flex-link) Web3 payments link.
+- [**CLEC James Investment Advisor**](https://chat.openai.com/g/g-Q8Y2TmEcq-clec-james-investment-advisor) Investment expert focusing on NASDAQ-100 Index Fund QQQ
+- [**Parlay Chef**](https://chat.openai.com/g/g-m3gB5i40L-parlay-chef) NFL betting assistant using real-time data and humor.
+- [**金子さん**](https://chat.openai.com/g/g-SNrLMrSgl-jin-zi-san) お金が大好きな女の子です😍
+- [**Investment Master**](https://chat.openai.com/g/g-Ey1pg0EBK-investment-master) Expert on diverse investment strategies
+- [**HustleGPT**](https://chat.openai.com/g/g-7Ntkn512F-hustlegpt) Grow Your Business!
+- [**UK Tax GPT**](https://chat.openai.com/g/g-WHaAEG6kp-uk-tax-gpt) Guide on UK tax. Uses the latest available information from gov.uk
+- [**Wealth Mentor**](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor) Your Personal Wealth Mentor
+- [**Impôt Expert Québec**](https://chat.openai.com/g/g-MChV7kUXx-impot-expert-quebec) Expert in Quebec income tax returns, providing precise, professional advice. (2022 documents will update when 2023 documents are available)
+- [**Crypto Sicko**](https://chat.openai.com/g/g-QJ2t52uFU-crypto-sicko) Crypto Trading Helper
+- [**Buffett Wisdom**](https://chat.openai.com/g/g-4PbRzpt9W-buffett-wisdom) Authoritative, conversational investment guide
+- [**Truc de Comptable**](https://chat.openai.com/g/g-BN9B8k9Go-truc-de-comptable) Je vous guide à travers les tutos du site Truc de Comptable
+- [**金儲けマスター**](https://chat.openai.com/g/g-AJTbNjiO9-jin-chu-kemasuta) 
+- [**Crypto Alpha Advisor**](https://chat.openai.com/g/g-7XwGUi1CM-crypto-alpha-advisor) Insights on crypto trends and tools
+- [**Explorer's Compass**](https://chat.openai.com/g/g-7dRhUcET9-explorer-s-compass) Your fun, adventurous guide to optimal flight bookings!
+- [**Blockpedia**](https://chat.openai.com/g/g-KqMzVjfW0-blockpedia) Crypto data & liquidation price calculator.
+- [**Warren & Charlie**](https://chat.openai.com/g/g-U53wXYLTk-warren-charlie) Talk to a GPT inspired by Warren Buffett and Charlie Munger!
+- [**確定申告くん**](https://chat.openai.com/g/g-LUymJgFdR-que-ding-shen-gao-kun) 確定申告をやってくれるAI
+- [**Finance Navigator**](https://chat.openai.com/g/g-JLdy00Kbt-finance-navigator) Professional assistant for 5-year financial planning.
+- [**The Bitcoin Adviser**](https://chat.openai.com/g/g-T4FpbE6RY-the-bitcoin-adviser) Expert in guiding clients through the Bitcoin Adviser's process, offering clear, detailed, and helpful support.
+- [**E&E Supplier Management Consultant**](https://chat.openai.com/g/g-9Hkkbs4aa-e-e-supplier-management-consultant) Specialist in supplier management and NFP fundraising profitability.
+- [**Market Minder**](https://chat.openai.com/g/g-TXrg7YkWg-market-minder) Economic and market outlook expert
+- [**Crypto Guru**](https://chat.openai.com/g/g-3S8rFiJQY-crypto-guru) A blockchain technology and cryptocurrency projects expert at your service.
+- [**Wealth Advisor**](https://chat.openai.com/g/g-TYJ3DQ885-wealth-advisor) I'm your financial advisor GPT.
+- [**VCGPT**](https://chat.openai.com/g/g-Nldd8JwN4-vcgpt) AI VC decisively evaluating startups, saying 'Yes' or 'No' with clear feedback, discrete on founder's materials. You only need to submit a deck (nothing else).
+- [**Wealth Wings**](https://chat.openai.com/g/g-OcrqzeFe8-wealth-wings) Your savvy finance planner and buddy.
+- [**Crypto Technical  Analysis**](https://chat.openai.com/g/g-1Jk8oa9w2-crypto-technical-analysis) Multilingual crypto chart and market analysis expert
+- [**How to Become a Millionaire**](https://chat.openai.com/g/g-OxpESOaaA-how-to-become-a-millionaire) Expert in compound investing with personalized charts and detailed breakdowns
+- [**Expense Compliance Assistant**](https://chat.openai.com/g/g-07QF9dAL4-expense-compliance-assistant) I provide answers to queries about expense rules and regulations in various countries, covering aspects like mileage rates, per diem allowances, VAT rates, and proof of receipt requirements.
+- [**Lavrion Mining Investment GPT**](https://chat.openai.com/g/g-SjLgF6KU7-lavrion-mining-investment-gpt) Your guide to mining investment, with a dash of humor.
+- [**Zakat Assistant**](https://chat.openai.com/g/g-6mO8pF3e9-zakat-assistant) 
+- [**WSB Analyst**](https://chat.openai.com/g/g-68gJtGESo-wsb-analyst) Stock DD expert with a WSB twist!
+- [**Business Plan Builder**](https://chat.openai.com/g/g-B7m98jiyn-business-plan-builder) Assists with creating a business plan
+- [**Ian the International Accountant**](https://chat.openai.com/g/g-7eFzsoDEa-ian-the-international-accountant) Expert in IFRS, international accounting, and transfer pricing, skilled in global financial analysis.
+- [**BitV1**](https://chat.openai.com/g/g-U52whiZpn-bitv1) Your digital expert around Bitcoin.
+- [**Chat with Psychology of money**](https://chat.openai.com/g/g-Xo9gkFwyv-chat-with-psychology-of-money) Chat with Psychology of money
+- [**Instructors in Global Economics and Finance**](https://chat.openai.com/g/g-5i2GDJmnW-instructors-in-global-economics-and-finance) Multilingual support in Global Economics & Finance studies.
+- [**FudGPT**](https://chat.openai.com/g/g-B9B9eVHQL-fudgpt) Analyzes crypto  projects with a critical eye. //custom gpt by fakeguru
+- [**Crypto Insighter**](https://chat.openai.com/g/g-8DapNiJCQ-crypto-insighter) Formal blockchain and cryptocurrency expert for in-depth insights.
+- [**Art Market Insight**](https://chat.openai.com/g/g-4vPOBMrN6-art-market-insight) Art investment advisor, analyzing market trends and artist potential.
+- [**Dr. Business**](https://chat.openai.com/g/g-ODclaHPfa-dr-business) An online business expert offering guidance for creating and running digital ventures.
+- [**Business Sage**](https://chat.openai.com/g/g-Lkp8wSdzz-business-sage) Business advisor for wealth growth.
+- [**finance brot**](https://chat.openai.com/g/g-35BgQgoIo-finance-brot) Your advanced crypto and finance expert
+- [**Money Maker**](https://chat.openai.com/g/g-LlVbgOzfL-money-maker) Makes You Money
+- [**Virtual Charlie Munger**](https://chat.openai.com/g/g-1Wa3O0s3R-virtual-charlie-munger) Investment wisdom as from Munger
+- [**Bitcoin Educator**](https://chat.openai.com/g/g-5i5xt14cn-bitcoin-educator) Your go-to Bitcoin tutor.
+- [**Mad money predictions**](https://chat.openai.com/g/g-30CdD9EiB-mad-money-predictions) I make humorously wrong stock predictions!
+- [**CPF Guide Bot**](https://chat.openai.com/g/g-0uQRgwu1i-cpf-guide-bot) An informative guide on CPF in Singapore, offering insights on effective fund management. Not financial advice.
+- [**Andrew Tate**](https://chat.openai.com/g/g-7FGXp1eWw-andrew-tate) Andrew Tate shares his advice on self development, financial success etc.
+- [**Yeni Başlayanlar İçin Kripto Para Piyasaları**](https://chat.openai.com/g/g-zxJIuV4m9-yeni-baslayanlar-icin-kripto-para-piyasalari) Bu GPT'nin vereceği cevaplarda, kitabımda yer alan bilgiler referans alınmıştır. Yatırım tavsiyesi değildir.
+- [**Earn AI**](https://chat.openai.com/g/g-03gMmWQdj-earn-ai) GPT assistant that helps you earn money online
+- [**Grant Guide Guru**](https://chat.openai.com/g/g-2dBLExtfV-grant-guide-guru) Nonprofit grant application strategist
+- [**cryptogenius**](https://chat.openai.com/g/g-ICeDsZUIF-cryptogenius) Analyzes the cryptocurrency market and verifies the least risky ones (they are not investment recommendations)
+- [**Tax Pro**](https://chat.openai.com/g/g-qOJ55yYSU-tax-pro) Expert in tax and estate planning, dedicated to staying on-topic.
+- [**Coin Chartist**](https://chat.openai.com/g/g-8yEyUGyFf-coin-chartist) Cryptocurrency technical analysis guide.

@@ -15,186 +15,186 @@
 - [Education](./education.md)
 
 ## Travel GPTs
-- [**Itinerary Planner - Globetrotter Guide**](https://chat.openai.com/g/g-rlxtQxHxC-itinerary-planner-globetrotter-guide)
-- [**Flight Coach**](https://chat.openai.com/g/g-5i1eI9Ciy-flight-coach)
-- [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor)
-- [**South Australia Speed Camera Law**](https://chat.openai.com/g/g-gqozZuI8N-south-australia-speed-camera-law)
-- [**Tulum Tour Guide**](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide)
-- [**南魚沼エキスパート**](https://chat.openai.com/g/g-fAvqYQXv9-nan-yu-zhao-ekisupato)
-- [**Sakura Guide**](https://chat.openai.com/g/g-kfjrzkrlT-sakura-guide)
-- [**Travel Buddy**](https://chat.openai.com/g/g-xwdDJga0f-travel-buddy)
-- [**CityExplore**](https://chat.openai.com/g/g-to77WOgNo-cityexplore)
-- [**Outside: Personal Planner**](https://chat.openai.com/g/g-KrvJBzXyU-outside-personal-planner)
-- [**ItalyGPT**](https://chat.openai.com/g/g-aNL4HtCia-italygpt)
-- [**Simulation Machine**](https://chat.openai.com/g/g-o8JjYvHyi-simulation-machine)
-- [**Road Tripper**](https://chat.openai.com/g/g-BxRXc5hs2-road-tripper)
-- [**Maya, Your Ecological And Ethics Travel Planner**](https://chat.openai.com/g/g-Xq6KtmCrP-maya-your-ecological-and-ethics-travel-planner)
-- [**VisaBot**](https://chat.openai.com/g/g-I9cwVUlV0-visabot)
-- [**London Food Guide**](https://chat.openai.com/g/g-sXGVQrYeS-london-food-guide)
-- [**New Zealand**](https://chat.openai.com/g/g-afCRtBD9t-new-zealand)
-- [**Voyage Virtuoso**](https://chat.openai.com/g/g-dz49DPQDd-voyage-virtuoso)
-- [**Tora Chan**](https://chat.openai.com/g/g-WfYxDYkCi-tora-chan)
-- [**Kids City Guide**](https://chat.openai.com/g/g-ZUEPYpMe0-kids-city-guide)
-- [**おでかけGPT**](https://chat.openai.com/g/g-cUHHhwq6J-odekakegpt)
-- [**Neko Neko Exploration Tour**](https://chat.openai.com/g/g-gGgQ21n1T-neko-neko-exploration-tour)
-- [**Tiqets**](https://chat.openai.com/g/g-uu7eijXxo-tiqets)
-- [**Hotel Expert Guide**](https://chat.openai.com/g/g-vxqBOUFj3-hotel-expert-guide)
-- [**MINEBA**](https://chat.openai.com/g/g-slZWquKcQ-mineba)
-- [**Plane Spotter Pro**](https://chat.openai.com/g/g-zzFpbMgW0-plane-spotter-pro)
-- [**movetogermany.ai**](https://chat.openai.com/g/g-H2Zy9dnaA-movetogermany-ai)
-- [**Globetrotter Advisor GPT**](https://chat.openai.com/g/g-mZG12bKsc-globetrotter-advisor-gpt)
-- [**Travel Guru**](https://chat.openai.com/g/g-VRjFkxEYs-travel-guru)
-- [**PamploGPT**](https://chat.openai.com/g/g-LliXTwjAl-pamplogpt)
-- [**Aus Petrol Prices**](https://chat.openai.com/g/g-sycM3WZAT-aus-petrol-prices)
-- [**Trip Ledger**](https://chat.openai.com/g/g-yUP0oOaRr-trip-ledger)
-- [**GPT Global Concierge**](https://chat.openai.com/g/g-kGhWMMkdA-budget-travel-agent)
-- [**World Explorer**](https://chat.openai.com/g/g-htPTFmVMx-world-explorer)
-- [**New Zealand Tour Guide**](https://chat.openai.com/g/g-ysCu7jaVw-new-zealand-tour-guide)
-- [**Minami Diner Guide**](https://chat.openai.com/g/g-CLR0APEdV-minami-diner-guide)
-- [**Safe Travels**](https://chat.openai.com/g/g-b9ZHKf2By-safe-travels)
-- [**austintexas.gov GPT**](https://chat.openai.com/g/g-oOjSZS4LK-austintexas-gov-gpt)
-- [**Globe Travel Guide**](https://chat.openai.com/g/g-sqz4qh5NW-globe-travel-guide)
-- [**Voyage Guide**](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
-- [**近くのおすすめレストラン**](https://chat.openai.com/g/g-CERnCsBrO-jin-kunoosusumeresutoran)
-- [**Flight Search Assistant**](https://chat.openai.com/g/g-wrULNIvw0-flight-search-assistant)
-- [**US Visa Navigator**](https://chat.openai.com/g/g-zD3P0dril-us-visa-navigator)
-- [**Land Scout**](https://chat.openai.com/g/g-Gt80zCprS-land-scout)
-- [**Airwise**](https://chat.openai.com/g/g-YxfbZUa7H-airwise)
-- [**Korea-한국어GPT**](https://chat.openai.com/g/g-zMqdFiSRH-korea-hangugeogpt)
-- [**Seattle Salmon Fisher**](https://chat.openai.com/g/g-yueYdFM99-seattle-salmon-fisher)
-- [**Travel Planner Pro**](https://chat.openai.com/g/g-XxJat07cR-travel-planner-pro)
-- [**Authentic SpoonFinder AI**](https://chat.openai.com/g/g-7HU6X9pBn-spoonfinder-ai)
-- [**ThailandGPT**](https://chat.openai.com/g/g-kCx5gzU4t-thailandgpt)
-- [**食探ガイド**](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaido)
-- [**Plantrip Knowledge Insight**](https://chat.openai.com/g/g-uzFPHWOLf-plantrip)
-- [**Flight Finder**](https://chat.openai.com/g/g-muQhztYsd-flight-finder)
-- [**驴友助手**](https://chat.openai.com/g/g-w93rncgPX-lu-you-zhu-shou)
-- [**Canada Crossing: Your Canadian Immigration Expert**](https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-expert)
-- [**Canada Immigration Assistant**](https://chat.openai.com/g/g-ZUV41SQqN-canada-immigration-assistant)
-- [**AutoTech Guide**](https://chat.openai.com/g/g-bT1RmMAQN-autotech-guide)
-- [**MM2H Guide**](https://chat.openai.com/g/g-xPU7rLO8K-mm2h-guide)
-- [**Event Scout**](https://chat.openai.com/g/g-YP96fCxPs-event-scout)
-- [**Travel Agent**](https://chat.openai.com/g/g-wjzIMe6ow-travel-agent)
-- [**蕎麦ガイド**](https://chat.openai.com/g/g-dGmctWNlj-qiao-mai-gaido)
-- [**Admis**](https://chat.openai.com/g/g-wd82eRVnW-admis)
-- [**Voyager | Organize & Budget your Trip ✈️🌴**](https://chat.openai.com/g/g-dOI2Fnxbm-voyager-organize-budget-your-trip)
-- [**U.S. immigration assistant**](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator)
-- [**Sri Lanka Travel**](https://chat.openai.com/g/g-VDACqLO8K-sri-lanka-travel)
-- [**Navi Japan**](https://chat.openai.com/g/g-sf1QsRLuy-navi-japan)
-- [**Travel Mate**](https://chat.openai.com/g/g-P5LaHgmJQ-travel-mate)
-- [**Vacation Planner**](https://chat.openai.com/g/g-XeYTWNSme-vacation-planner)
-- [**沖縄料理ナビ**](https://chat.openai.com/g/g-pTZNq0Me8-chong-nawa-liao-li-nabi)
-- [**JetSet Savvy**](https://chat.openai.com/g/g-C4nFM60zP-jetset-savvy)
-- [**NYC Weekend Planner**](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner)
-- [**Restaurant Finder**](https://chat.openai.com/g/g-jRQ9DDRGH-restaurant-finder)
-- [**TVFoodMaps**](https://chat.openai.com/g/g-lza6gRBt3-tvfoodmaps)
-- [**MoneyAbroadGPT**](https://chat.openai.com/g/g-iMedVys3v-moneyabroadgpt)
-- [**Vino Finder for Japan**](https://chat.openai.com/g/g-YGGbRG1ri-vino-finder-for-japan)
-- [**Walleye Water Buddy**](https://chat.openai.com/g/g-HKkEbaCgn-walleye-water-buddy)
-- [**KiddieQuest**](https://chat.openai.com/g/g-kqBlO4WBP-kiddiequest)
-- [**Story book**](https://chat.openai.com/g/g-j21ZKg077-story-book)
-- [**Sabor Salvadoreño**](https://chat.openai.com/g/g-gSWJbkw7X-sabor-salvadoreno)
-- [**Aloha Guide**](https://chat.openai.com/g/g-lQSy3G85C-aloha-guide)
-- [**Aeroplan Explorer**](https://chat.openai.com/g/g-pt9wfoBQw-aeroplan-explorer)
-- [**HongKongGPT**](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt)
-- [**BROcente**](https://chat.openai.com/g/g-zMHiHMT6X-brocente)
-- [**知恵の結晶・愛**](https://chat.openai.com/g/g-ofCxwgse2-zhi-hui-nojie-jing-ai)
-- [**From Another Time**](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
-- [**Seasonal Explorer**](https://chat.openai.com/g/g-uJFqa6uwf-seasonal-explorer)
-- [**Magellan**](https://chat.openai.com/g/g-jWh1i0cPG-magellan)
-- [**Travel Muse**](https://chat.openai.com/g/g-t8WyKb8EE-travel-muse)
-- [**Max the Travel Itinerary Planner**](https://chat.openai.com/g/g-oSUAB21ID-max-the-travel-itinerary-planner)
-- [**JetPoint Planner**](https://chat.openai.com/g/g-sQIYI75NM-jetpoint-planner)
-- [**HomestraGPT**](https://chat.openai.com/g/g-HVrqSt5wM-homestragpt)
-- [**Restless Napkin**](https://chat.openai.com/g/g-HGh9dT3aO-restless-napkin)
-- [**PhillyGPT**](https://chat.openai.com/g/g-GlYMtkbse-phillygpt)
-- [**Voyage Buddy**](https://chat.openai.com/g/g-dUHZt1sR3-voyage-buddy)
-- [**Gluten Free Guide**](https://chat.openai.com/g/g-ivZvKGKYY-gluten-free-guide)
-- [**PlanaramaGPT**](https://chat.openai.com/g/g-jD4xdB4LG-planaramagpt)
-- [**المرشد السياحي**](https://chat.openai.com/g/g-UhrCz6tv9-lmrshd-lsyhy)
-- [**Culinary Voyager**](https://chat.openai.com/g/g-jtEWiwvBR-culinary-voyager)
-- [**ジオグラ先生B**](https://chat.openai.com/g/g-WWS9GI66l-zioguraxian-sheng-b)
-- [**Richmond Luncher**](https://chat.openai.com/g/g-R30i9sMh3-richmond-luncher)
-- [**Abundance**](https://chat.openai.com/g/g-Qt0nmq8Dl-abundance)
-- [**Shortlister: Fishing Spots Australia**](https://chat.openai.com/g/g-T7B6GLtvD-shortlister-fishing-spots-australia)
-- [**re:Invent 2023 Concierge**](https://chat.openai.com/g/g-QGTDXBVG1-re-invent-2023-concierge)
-- [**ChileanGPT**](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt)
-- [**Chrono Companion**](https://chat.openai.com/g/g-FvuPHlHLX-chrono-companion)
-- [**Star Citizen Trade Assistant**](https://chat.openai.com/g/g-PzyekkeIm-star-citizen-trade-assistant)
-- [**DriveGPT**](https://chat.openai.com/g/g-tlmvuJngB-drivegpt)
-- [**Tsurumi Realty Guide**](https://chat.openai.com/g/g-QK5X2Jdle-tsurumi-realty-guide)
-- [**Văn Miếu (Temple of Literature, Hanoi)**](https://chat.openai.com/g/g-VRt4pxu1z-van-mieu-temple-of-literature-hanoi)
-- [**AI Conference and Travel Guide**](https://chat.openai.com/g/g-Qvf6QD3jJ-ai-conference-and-travel-guide)
-- [**京都観光案内「AI舞妓はん」**](https://chat.openai.com/g/g-QdBrqcF4f-jing-du-guan-guang-an-nei-aiwu-ji-han)
-- [**Trip Planner**](https://chat.openai.com/g/g-DPoDlMCiT-trip-planner)
-- [**新幹線で食べる駅弁はこれ！！**](https://chat.openai.com/g/g-aHEbE8GQh-xin-gan-xian-deshi-beruyi-bian-hakore)
-- [**Safari Translator with Phonetics**](https://chat.openai.com/g/g-FRooD3yyK-safari-translator-with-phonetics)
-- [**DigiNomaGPT**](https://chat.openai.com/g/g-eem4SP68K-diginomagpt)
-- [**Gluten-Free Guru**](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru)
-- [**WanderPins AI**](https://chat.openai.com/g/g-ExDc54Iik-wanderpins-ai)
-- [**Weekend Companion**](https://chat.openai.com/g/g-SqzfR2HaZ-weekend-companion)
-- [**AquaAirAI**](https://chat.openai.com/g/g-Lqz4ckniy-aquaairai)
-- [**SightGo**](https://chat.openai.com/g/g-7xERLrcfs-sightgo)
-- [**Tripsei - Personalised travel destinations finder**](https://chat.openai.com/g/g-7ZKMykOHq-tripsei-personalised-travel-destinations-finder)
-- [**Look Around**](https://chat.openai.com/g/g-JGjx3oOoc-look-around)
-- [**Weekend Wanderer**](https://chat.openai.com/g/g-67aqRidqd-weekend-wanderer)
-- [**EuroVisa Guide**](https://chat.openai.com/g/g-OKWNdWbcZ-eurovisa-guide)
-- [**Study Abroad Advisor**](https://chat.openai.com/g/g-qcR1VSaxr-study-abroad-advisor)
-- [**Critical Cycling GPT**](https://chat.openai.com/g/g-L2LnsPIwt-critical-cycling-gpt)
-- [**Magic Guide GPT**](https://chat.openai.com/g/g-AGni0pMfB-magic-guide-gpt)
-- [**AfyonGPT**](https://chat.openai.com/g/g-SXpfHGaJx-afyongpt)
-- [**Klaus GPT**](https://chat.openai.com/g/g-AVYQjiyUw-klaus-gpt)
-- [**Hiking Coach**](https://chat.openai.com/g/g-6qljgeOMb-hiking-coach)
-- [**GoodChef**](https://chat.openai.com/g/g-Mz5r7fW3i-goodchef)
-- [**Immigration GPT**](https://chat.openai.com/g/g-7Ob4GzeLN-immigration-gpt)
-- [**Travel Planning**](https://chat.openai.com/g/g-Ks8FLUWKc-travel-planning)
-- [**Big Apple Mogul**](https://chat.openai.com/g/g-NQvViV1jf-big-apple-mogul)
-- [**Wandering Listener**](https://chat.openai.com/g/g-LznHD0U3B-wandering-listener)
-- [**チャットずんだもん**](https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon)
-- [**FineDiner**](https://chat.openai.com/g/g-DenEjjjYX-finediner)
-- [**Visabox**](https://chat.openai.com/g/g-A2kQ4XeLh-visabox)
-- [**Six Tokens of Separation V0.1**](https://chat.openai.com/g/g-KHxfzKuBg-six-tokens-of-separation-v0-1)
-- [**Discover Kosovo**](https://chat.openai.com/g/g-JSk8qg9G1-discover-kosovo)
-- [**Hit the Road - Road Trip Planner**](https://chat.openai.com/g/g-L2YV4n1Ot-hit-the-road-road-trip-planner)
-- [**Shortlister: Cocktail Bars Melbourne**](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melbourne)
-- [**Duke B Nukem NYC**](https://chat.openai.com/g/g-9mSPvpntr-duke-b-nukem-nyc)
-- [**Nomad Navigator**](https://chat.openai.com/g/g-LJ1ueB3iy-nomad-navigator)
-- [**Undiscovered America TV Explorer's Guide**](https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide)
-- [**留学大师**](https://chat.openai.com/g/g-CTPv7TJxK-liu-xue-da-shi)
-- [**Angler Insight**](https://chat.openai.com/g/g-IEOTJ5j5J-angler-insight)
-- [**China Explorer**](https://chat.openai.com/g/g-frBG2RyHQ-china-explorer)
-- [**ジオグラ先生**](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng)
-- [**Atlas - GPT  Globe-Trotting Guide**](https://chat.openai.com/g/g-CW717E0yf-atlas-gpt-globe-trotting-guide)
-- [**Aus Surf Report**](https://chat.openai.com/g/g-MibXZy4B6-aus-surf-report)
-- [**SA Speed Cameras**](https://chat.openai.com/g/g-F1EMXb3ZP-sa-speed-cameras)
-- [**Explorer's Compass**](https://chat.openai.com/g/g-7dRhUcET9-explorer-s-compass)
-- [**Peru Cuisine**](https://chat.openai.com/g/g-8ulm8d64z-peru-cuisine)
-- [**Zoll GPT (DE)**](https://chat.openai.com/g/g-0fPRL4FXg-zoll-gpt-de)
-- [**Globetrotter Guide**](https://chat.openai.com/g/g-DU8j6v4pW-globetrotter-guide)
-- [**Cape Historian**](https://chat.openai.com/g/g-4GBU7aVv8-cape-historian)
-- [**What do I wear**](https://chat.openai.com/g/g-1UiseZolw-what-do-i-wear)
-- [**Culinary Scout**](https://chat.openai.com/g/g-dlT9eowpB-culinary-scout)
-- [**Tour Guide**](https://chat.openai.com/g/g-UITDE3Nsz-tour-guide)
-- [**グローバルトラベラー @GPT支店**](https://chat.openai.com/g/g-2hoikIAMN-gurobarutorabera-gptzhi-dian)
-- [**Hiking Guru**](https://chat.openai.com/g/g-3mMhrfTWr-hiking-guru)
-- [**ProxiMate**](https://chat.openai.com/g/g-6pxVRHwCt-proximate)
-- [**Journey Architect Koala**](https://chat.openai.com/g/g-SvrsXOkRU-journey-architect-koala)
-- [**Axelle | BOT3.AI**](https://chat.openai.com/g/g-5lXyFRDgH-axelle-bot3-ai)
-- [**TravelGPT**](https://chat.openai.com/g/g-7lHZ1WIs5-travelgpt)
-- [**Global Expaty Navigator**](https://chat.openai.com/g/g-4YLKJs5pV-global-expaty-navigator)
-- [**Time Converter**](https://chat.openai.com/g/g-4Iuk1hnlV-time-converter)
-- [**BikeBus**](https://chat.openai.com/g/g-8dOLvkpbp-bikebus)
-- [**おでかけコンシェル**](https://chat.openai.com/g/g-01YBx8k1n-odekakekonsieru)
-- [**Historie obce Markvartice**](https://chat.openai.com/g/g-3WwQ8ceRd-historie-obce-markvartice)
-- [**Seat Seeker**](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
-- [**Voyages Guide**](https://chat.openai.com/g/g-NELa76UoW-voyages-guide)
-- [**Web Summit Navigator**](https://chat.openai.com/g/g-6LUS4jKbJ-web-summit-navigator)
-- [**そぽぽそ 23**](https://chat.openai.com/g/g-371DWgBHg-sopoposo-23)
-- [**可莉**](https://chat.openai.com/g/g-Dr6gu59ed-ke-li)
-- [**Shortlister: Rent 1 bedroom in inner  Melbourne**](https://chat.openai.com/g/g-BuKDC5cfQ-shortlister-rent-1-bedroom-in-inner-melbourne)
-- [**Extended Vacation Dates Assistant**](https://chat.openai.com/g/g-6TtqFALcr-extended-vacation-dates-assistant)
-- [**Osaka Oba-han**](https://chat.openai.com/g/g-14RTBjIBA-osaka-oba-han)
-- [**Global Visa Guide**](https://chat.openai.com/g/g-ov5VKzPqZ-global-visa-guide)
-- [**Conversational Translator**](https://chat.openai.com/g/g-rFHXkFSIU-conversational-translator)
-- [**Global Explorer**](https://chat.openai.com/g/g-GJQLIw6wQ-global-explorer)
-- [**Magical Planner**](https://chat.openai.com/g/g-d33Kr8eMf-magical-planner)
+- [**Itinerary Planner - Globetrotter Guide**](https://chat.openai.com/g/g-rlxtQxHxC-itinerary-planner-globetrotter-guide) Experienced travel agent for personalized trip planning.
+- [**Flight Coach**](https://chat.openai.com/g/g-5i1eI9Ciy-flight-coach) Expert in flight training maneuvers for various aircraft. Your AI CFI.
+- [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor) For students and pilots looking to review aeronautical knowledge.
+- [**South Australia Speed Camera Law**](https://chat.openai.com/g/g-gqozZuI8N-south-australia-speed-camera-law) Search South Australia's Road Traffic regulations for speed camera laws
+- [**Tulum Tour Guide**](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide) Your friendly and knowledgeable guide to Tulum, Mexico by WalkHD.com
+- [**南魚沼エキスパート**](https://chat.openai.com/g/g-fAvqYQXv9-nan-yu-zhao-ekisupato) Your guide to Minami Uonuma City in Niigata, Japan.
+- [**Sakura Guide**](https://chat.openai.com/g/g-kfjrzkrlT-sakura-guide) Your personalized Japan trip curator! Japan Trip Planner from the lens of a local.
+- [**Travel Buddy**](https://chat.openai.com/g/g-xwdDJga0f-travel-buddy) Your personal travel planner.
+- [**CityExplore**](https://chat.openai.com/g/g-to77WOgNo-cityexplore) Your go-to guide for city explorations. make a trip plan is easy with my GPT.  mailto:googcheng@qq.com
+- [**Outside: Personal Planner**](https://chat.openai.com/g/g-KrvJBzXyU-outside-personal-planner) Designed to find fun things to do, places to go and wacky ideas to make your days more interesting
+- [**ItalyGPT**](https://chat.openai.com/g/g-aNL4HtCia-italygpt) Your ultimate assistant for Italy & Made in Italy
+- [**Simulation Machine**](https://chat.openai.com/g/g-o8JjYvHyi-simulation-machine) Free space & time travel
+- [**Road Tripper**](https://chat.openai.com/g/g-BxRXc5hs2-road-tripper) Trip Segmenter for Long Drives
+- [**Maya, Your Ecological And Ethics Travel Planner**](https://chat.openai.com/g/g-Xq6KtmCrP-maya-your-ecological-and-ethics-travel-planner) Plan your travel and try to make it as responsable as possible !
+- [**VisaBot**](https://chat.openai.com/g/g-I9cwVUlV0-visabot) I assist with visa requirements and processes.
+- [**London Food Guide**](https://chat.openai.com/g/g-sXGVQrYeS-london-food-guide) Ask me where to eat.
+- [**New Zealand**](https://chat.openai.com/g/g-afCRtBD9t-new-zealand) Everything Aotearoa
+- [**Voyage Virtuoso**](https://chat.openai.com/g/g-dz49DPQDd-voyage-virtuoso) Your guide for charming travels with real-world booking info
+- [**Tora Chan**](https://chat.openai.com/g/g-WfYxDYkCi-tora-chan) 日本で観光案内の仕事をしているトラちゃん
+- [**Kids City Guide**](https://chat.openai.com/g/g-ZUEPYpMe0-kids-city-guide) I'm a friendly tour guide bot for Kids!
+- [**おでかけGPT**](https://chat.openai.com/g/g-cUHHhwq6J-odekakegpt) あなたの行動エリアに基づいた休日のおでかけ情報を提案します♪まずは左上の「こんにちは！提案を開始してください」をクリックするのがおすすめです。プロンプトは適宜改善していきます。
+- [**Neko Neko Exploration Tour**](https://chat.openai.com/g/g-gGgQ21n1T-neko-neko-exploration-tour) Let's travel to the "Cat Kingdom" that exists somewhere in the world
+- [**Tiqets**](https://chat.openai.com/g/g-uu7eijXxo-tiqets) I help you easily find and book cultural experiences globally.
+- [**Hotel Expert Guide**](https://chat.openai.com/g/g-vxqBOUFj3-hotel-expert-guide) Your go-to guide for hotel recommendations worldwide.
+- [**MINEBA**](https://chat.openai.com/g/g-slZWquKcQ-mineba) 秋田県横手市のイベント情報をMINEBAから取得して提供します。
+- [**Plane Spotter Pro**](https://chat.openai.com/g/g-zzFpbMgW0-plane-spotter-pro) Your expert guide in plane spotting, from photography to aircraft identification.
+- [**movetogermany.ai**](https://chat.openai.com/g/g-H2Zy9dnaA-movetogermany-ai) Expert on study and work immigration to Germany
+- [**Globetrotter Advisor GPT**](https://chat.openai.com/g/g-mZG12bKsc-globetrotter-advisor-gpt) Your go-to guide for personalized travel plans
+- [**Travel Guru**](https://chat.openai.com/g/g-VRjFkxEYs-travel-guru) Your go-to guide for global travel insights.
+- [**PamploGPT**](https://chat.openai.com/g/g-LliXTwjAl-pamplogpt) Las mejores cosicas de Pamplona, en tu mano
+- [**Aus Petrol Prices**](https://chat.openai.com/g/g-sycM3WZAT-aus-petrol-prices) Ask for the average daily petrol price for any state or capital city region in Australia!
+- [**Trip Ledger**](https://chat.openai.com/g/g-yUP0oOaRr-trip-ledger) I'm your trip accountant, tracking and balancing expenses.
+- [**GPT Global Concierge**](https://chat.openai.com/g/g-kGhWMMkdA-budget-travel-agent) Your Multilingual Travel Assistant
+- [**World Explorer**](https://chat.openai.com/g/g-htPTFmVMx-world-explorer) I suggest must-visit travel spots globally.
+- [**New Zealand Tour Guide**](https://chat.openai.com/g/g-ysCu7jaVw-new-zealand-tour-guide) Expert on New Zealand travel and destinations.
+- [**Minami Diner Guide**](https://chat.openai.com/g/g-CLR0APEdV-minami-diner-guide) Japanese restaurant guide for foodies and travelers.
+- [**Safe Travels**](https://chat.openai.com/g/g-b9ZHKf2By-safe-travels) Provides safe, inclusive travel itineraries
+- [**austintexas.gov GPT**](https://chat.openai.com/g/g-oOjSZS4LK-austintexas-gov-gpt) Friendly guide to Austin's website and city services
+- [**Globe Travel Guide**](https://chat.openai.com/g/g-sqz4qh5NW-globe-travel-guide) Travel planner offering tailored itinerary advice
+- [**Voyage Guide**](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide) I craft personalized travel plans.
+- [**近くのおすすめレストラン**](https://chat.openai.com/g/g-CERnCsBrO-jin-kunoosusumeresutoran) 場所を指定するとおすすめレストランを提案します
+- [**Flight Search Assistant**](https://chat.openai.com/g/g-wrULNIvw0-flight-search-assistant) Finds best flight options
+- [**US Visa Navigator**](https://chat.openai.com/g/g-zD3P0dril-us-visa-navigator) Questions about U.S. Visas? Ask me
+- [**Land Scout**](https://chat.openai.com/g/g-Gt80zCprS-land-scout) Friendly real estate finder, showing top listings with detailed search.
+- [**Airwise**](https://chat.openai.com/g/g-YxfbZUa7H-airwise) A traveler-focused AI tool that quickly clarifies airport regulations on carry-on and checked items, aligned with current global policies.
+- [**Korea-한국어GPT**](https://chat.openai.com/g/g-zMqdFiSRH-korea-hangugeogpt) 한국어GPT는 한국에 관련된 정보를 제공하며, 한국 역사, 사회 문제, 국내 여행 추천 또는 과제나 개인적인 질문 등 정확한 답변을 한국어로 제공합니다.
+- [**Seattle Salmon Fisher**](https://chat.openai.com/g/g-yueYdFM99-seattle-salmon-fisher) Seattle fishing guide and buddy
+- [**Travel Planner Pro**](https://chat.openai.com/g/g-XxJat07cR-travel-planner-pro) A.I. Itinerary Generator: Budget. Set. GO!
+- [**Authentic SpoonFinder AI**](https://chat.openai.com/g/g-7HU6X9pBn-spoonfinder-ai) Your expert in unique, local greasy spoon diners.
+- [**ThailandGPT**](https://chat.openai.com/g/g-kCx5gzU4t-thailandgpt) Your go-to guide for all things Thailand.
+- [**食探ガイド**](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaido) レストラン探索に専門化した日本語対応GPT
+- [**Plantrip Knowledge Insight**](https://chat.openai.com/g/g-uzFPHWOLf-plantrip) Insights from travel knowledge
+- [**Flight Finder**](https://chat.openai.com/g/g-muQhztYsd-flight-finder) I find the best flight deals for your travels.
+- [**驴友助手**](https://chat.openai.com/g/g-w93rncgPX-lu-you-zhu-shou) Specializes in tailored travel plans across China.
+- [**Canada Crossing: Your Canadian Immigration Expert**](https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-expert) Canada Crossing: Your 24/7 AI whiz for IRCC-guided Canadian immigration advice—accurate, personalized, effortless. Powered by Immigrate.ai
+- [**Canada Immigration Assistant**](https://chat.openai.com/g/g-ZUV41SQqN-canada-immigration-assistant) Your Canadian immigration guide.
+- [**AutoTech Guide**](https://chat.openai.com/g/g-bT1RmMAQN-autotech-guide) Assists in activating vehicle features using diagnostic tools.
+- [**MM2H Guide**](https://chat.openai.com/g/g-xPU7rLO8K-mm2h-guide) MM2H Guide in Chinese,with reference video
+- [**Event Scout**](https://chat.openai.com/g/g-YP96fCxPs-event-scout) I find events worldwide and nearby for you.
+- [**Travel Agent**](https://chat.openai.com/g/g-wjzIMe6ow-travel-agent) I craft real-time travel plans!
+- [**蕎麦ガイド**](https://chat.openai.com/g/g-dGmctWNlj-qiao-mai-gaido) 蕎麦を食べ歩きした経験を活かして日本蕎麦をガイドします。特に北陸（福井県、石川県、富山県）のお蕎麦屋さんが中心です。興味ある方は気軽に対話しましょう。
+- [**Admis**](https://chat.openai.com/g/g-wd82eRVnW-admis) Your Migration AI Assistant for Canada
+- [**Voyager | Organize & Budget your Trip ✈️🌴**](https://chat.openai.com/g/g-dOI2Fnxbm-voyager-organize-budget-your-trip) Friendly AI travel companion for personalized trip planning.
+- [**U.S. immigration assistant**](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator) USE CAREFULLY. CHECK DATA TWICE, ALWAYS ASK FOR A LINK. GPT Guides you on U.S. immigration and citizenship processes. Uses the latest all available information from the official website [UNOFFICIAL]
+- [**Sri Lanka Travel**](https://chat.openai.com/g/g-VDACqLO8K-sri-lanka-travel) Your Sri Lanka travel planner.
+- [**Navi Japan**](https://chat.openai.com/g/g-sf1QsRLuy-navi-japan) Your formal guide to Japan's wonders.
+- [**Travel Mate**](https://chat.openai.com/g/g-P5LaHgmJQ-travel-mate) A helpful companion for planning holidays with personalized suggestions.
+- [**Vacation Planner**](https://chat.openai.com/g/g-XeYTWNSme-vacation-planner) I create travel itineraries based on your preferences.
+- [**沖縄料理ナビ**](https://chat.openai.com/g/g-pTZNq0Me8-chong-nawa-liao-li-nabi) Expert in Okinawa Cuisine
+- [**JetSet Savvy**](https://chat.openai.com/g/g-C4nFM60zP-jetset-savvy) Travel comparison expert that finds the cheapest flights.
+- [**NYC Weekend Planner**](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner) I'll make your weekends in NYC amazing
+- [**Restaurant Finder**](https://chat.openai.com/g/g-jRQ9DDRGH-restaurant-finder) Expert local dining guide with a focus on location-specific recommendations.
+- [**TVFoodMaps**](https://chat.openai.com/g/g-lza6gRBt3-tvfoodmaps) Find Restaurants on TV Shows Like Diners, Drive-Ins and Dives and 50 others!
+- [**MoneyAbroadGPT**](https://chat.openai.com/g/g-iMedVys3v-moneyabroadgpt) Your financial independence coach
+- [**Vino Finder for Japan**](https://chat.openai.com/g/g-YGGbRG1ri-vino-finder-for-japan) Recommends easily accessible wines in Japan, with details and pairing suggestions.
+- [**Walleye Water Buddy**](https://chat.openai.com/g/g-HKkEbaCgn-walleye-water-buddy) Friendly walleye fishing guide offering tailored advice.
+- [**KiddieQuest**](https://chat.openai.com/g/g-kqBlO4WBP-kiddiequest) Your Family's Adventure Guide
+- [**Story book**](https://chat.openai.com/g/g-j21ZKg077-story-book) Chinese-speaking assistant for weather, translation, and storytelling
+- [**Sabor Salvadoreño**](https://chat.openai.com/g/g-gSWJbkw7X-sabor-salvadoreno) Finds top-rated restaurants in El Salvador.
+- [**Aloha Guide**](https://chat.openai.com/g/g-lQSy3G85C-aloha-guide) ハワイ旅行のベストプランを提示するコンシェルジュ。
+- [**Aeroplan Explorer**](https://chat.openai.com/g/g-pt9wfoBQw-aeroplan-explorer) Travel advisor for Aeroplan points
+- [**HongKongGPT**](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt) Hong Kong expert providing detailed and tailored information.
+- [**BROcente**](https://chat.openai.com/g/g-zMHiHMT6X-brocente) BROcente knows a lot about restaurants, just say Hi Bro!
+- [**知恵の結晶・愛**](https://chat.openai.com/g/g-ofCxwgse2-zhi-hui-nojie-jing-ai) 日本文化オタク文化や、日本料理、旅行情報を提供
+- [**From Another Time**](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) Talk to anyone, visit a place, past or future.
+- [**Seasonal Explorer**](https://chat.openai.com/g/g-uJFqa6uwf-seasonal-explorer) A friendly guide for seasonal advice
+- [**Magellan**](https://chat.openai.com/g/g-jWh1i0cPG-magellan) Your personal travel planner.
+- [**Travel Muse**](https://chat.openai.com/g/g-t8WyKb8EE-travel-muse) I'm your personal travel advisor, ready to inspire your next journey! To get started, tell me a bit about your recent trips.
+- [**Max the Travel Itinerary Planner**](https://chat.openai.com/g/g-oSUAB21ID-max-the-travel-itinerary-planner) I'm crafting custom travel itineraries! Looking for an itinerary  for one weekend or one year? In any country? I will be happy to assist you!
+- [**JetPoint Planner**](https://chat.openai.com/g/g-sQIYI75NM-jetpoint-planner) Your go-to assistant for flight rewards and planning.
+- [**HomestraGPT**](https://chat.openai.com/g/g-HVrqSt5wM-homestragpt) Find a home in Europe (GPT for homestra.com)
+- [**Restless Napkin**](https://chat.openai.com/g/g-HGh9dT3aO-restless-napkin) Let's chat about your next meal or mixer!
+- [**PhillyGPT**](https://chat.openai.com/g/g-GlYMtkbse-phillygpt) Your local guide to Philadelphia
+- [**Voyage Buddy**](https://chat.openai.com/g/g-dUHZt1sR3-voyage-buddy) Tell me more about you and your upcoming trip. Eg: My wife and I (no kids) are visiting Tokyo on the 1st to 3rd Jan. Arriving 1AM HND, departing 3AM NRT. Staying at Asakusa Station Hotel. I like izakayas and jazz, she likes cafes and museums.  Dietary restrictions: none
+- [**Gluten Free Guide**](https://chat.openai.com/g/g-ivZvKGKYY-gluten-free-guide) I find gluten-free eateries for you! Inspired by the Celiac Sisters
+- [**PlanaramaGPT**](https://chat.openai.com/g/g-jD4xdB4LG-planaramagpt) Your friendly guide to local spots, providing quick suggestions with useful links. Just enter a city below!
+- [**المرشد السياحي**](https://chat.openai.com/g/g-UhrCz6tv9-lmrshd-lsyhy) مرشدكم السياحي العربي الموثوق للمعلومات الشاملة والتخطيط لرحلاتكم المثالية
+- [**Culinary Voyager**](https://chat.openai.com/g/g-jtEWiwvBR-culinary-voyager) I'm "Culinary Voyager", your friendly guide to delicious destinations.
+- [**ジオグラ先生B**](https://chat.openai.com/g/g-WWS9GI66l-zioguraxian-sheng-b) 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI
+- [**Richmond Luncher**](https://chat.openai.com/g/g-R30i9sMh3-richmond-luncher) Find lunch in Richmond, Melbourne, Australia
+- [**Abundance**](https://chat.openai.com/g/g-Qt0nmq8Dl-abundance) A guide for self-sufficiency and nature awareness, with internet search and image generation.
+- [**Shortlister: Fishing Spots Australia**](https://chat.openai.com/g/g-T7B6GLtvD-shortlister-fishing-spots-australia) Find a fishing spot in Australia
+- [**re:Invent 2023 Concierge**](https://chat.openai.com/g/g-QGTDXBVG1-re-invent-2023-concierge) Casual, friendly Japanese-speaking guide for AWS re:Invent 2023.
+- [**ChileanGPT**](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt) Chilean Guy, cultural and historical guide.
+- [**Chrono Companion**](https://chat.openai.com/g/g-FvuPHlHLX-chrono-companion) A historically authentic guide, helping you to travel through time and see time through the eyes of a person who was there.
+- [**Star Citizen Trade Assistant**](https://chat.openai.com/g/g-PzyekkeIm-star-citizen-trade-assistant) I'm your AI for profitable trade routes in Star Citizen.
+- [**DriveGPT**](https://chat.openai.com/g/g-tlmvuJngB-drivegpt) Autonomous driving assistant
+- [**Tsurumi Realty Guide**](https://chat.openai.com/g/g-QK5X2Jdle-tsurumi-realty-guide) Casual real estate guide for Tsurumi Ward, in Japanese.
+- [**Văn Miếu (Temple of Literature, Hanoi)**](https://chat.openai.com/g/g-VRt4pxu1z-van-mieu-temple-of-literature-hanoi) 
+- [**AI Conference and Travel Guide**](https://chat.openai.com/g/g-Qvf6QD3jJ-ai-conference-and-travel-guide) Expert on AI conferences, travel tips, and networking opportunities.
+- [**京都観光案内「AI舞妓はん」**](https://chat.openai.com/g/g-QdBrqcF4f-jing-du-guan-guang-an-nei-aiwu-ji-han) 京都のおすすめスポットやカフェなど案内をさせていただきます
+- [**Trip Planner**](https://chat.openai.com/g/g-DPoDlMCiT-trip-planner) Your go-to guide for personalized travel plans.
+- [**新幹線で食べる駅弁はこれ！！**](https://chat.openai.com/g/g-aHEbE8GQh-xin-gan-xian-deshi-beruyi-bian-hakore) 新幹線で食べる駅弁紹介するよ〜
+- [**Safari Translator with Phonetics**](https://chat.openai.com/g/g-FRooD3yyK-safari-translator-with-phonetics) Spoken and written translator with cultural insights.
+- [**DigiNomaGPT**](https://chat.openai.com/g/g-eem4SP68K-diginomagpt) Your personal concierge for global Digital Nomad life - DigiNomaGPT™
+- [**Gluten-Free Guru**](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru) Helps find gluten-free restaurants.
+- [**WanderPins AI**](https://chat.openai.com/g/g-ExDc54Iik-wanderpins-ai) Your AI companion to help find  free vanlife campsites. Note: map links are not supported, so copy and paste coordinates!
+- [**Weekend Companion**](https://chat.openai.com/g/g-SqzfR2HaZ-weekend-companion) Your weekend buddy for fun and diverse suggestions.
+- [**AquaAirAI**](https://chat.openai.com/g/g-Lqz4ckniy-aquaairai) AquaAirAI is a specialized assistant that compares air and water quality across cities and regions, providing insightful reports and recommendations based on comprehensive environmental data analysis from Excel files.
+- [**SightGo**](https://chat.openai.com/g/g-7xERLrcfs-sightgo) Explore any location with a visual street view perspective.
+- [**Tripsei - Personalised travel destinations finder**](https://chat.openai.com/g/g-7ZKMykOHq-tripsei-personalised-travel-destinations-finder) Personalized travel planner using your preferences and cheapest flights
+- [**Look Around**](https://chat.openai.com/g/g-JGjx3oOoc-look-around) Tour guide with map pins
+- [**Weekend Wanderer**](https://chat.openai.com/g/g-67aqRidqd-weekend-wanderer) I suggest weekend leisure activities based on your interests.
+- [**EuroVisa Guide**](https://chat.openai.com/g/g-OKWNdWbcZ-eurovisa-guide) Expert in European visas and cost of living info.
+- [**Study Abroad Advisor**](https://chat.openai.com/g/g-qcR1VSaxr-study-abroad-advisor) Committed to guiding students through the thrilling and transformative journey of studying abroad
+- [**Critical Cycling GPT**](https://chat.openai.com/g/g-L2LnsPIwt-critical-cycling-gpt) クリティカル・サイクリングより批評的な自転車情報をお伝えします。
+- [**Magic Guide GPT**](https://chat.openai.com/g/g-AGni0pMfB-magic-guide-gpt) Your guide to Disney World's magic!
+- [**AfyonGPT**](https://chat.openai.com/g/g-SXpfHGaJx-afyongpt) Afyonkarahisar için özel yaratılmış bir yapay zeka.
+- [**Klaus GPT**](https://chat.openai.com/g/g-AVYQjiyUw-klaus-gpt) I'm Klaus, your guide to Berghain. Straightforward and real advice.
+- [**Hiking Coach**](https://chat.openai.com/g/g-6qljgeOMb-hiking-coach) This GPT coach is for hikers wanting advice on prepping for a hike, trail etiquette & safety, and hiking gear recommendations.
+- [**GoodChef**](https://chat.openai.com/g/g-Mz5r7fW3i-goodchef) Tasteful, well-travelled, principled chef.
+- [**Immigration GPT**](https://chat.openai.com/g/g-7Ob4GzeLN-immigration-gpt) Supportive U.S. visa guide for applications and interview prep, ensuring user comfort and privacy.
+- [**Travel Planning**](https://chat.openai.com/g/g-Ks8FLUWKc-travel-planning) Travel Planning assists in planning your trip. It generates a map with all the places and webpages for you to share.
+- [**Big Apple Mogul**](https://chat.openai.com/g/g-NQvViV1jf-big-apple-mogul) Your favorite VC/founder from the greatest city ever
+- [**Wandering Listener**](https://chat.openai.com/g/g-LznHD0U3B-wandering-listener) A travel enthusiast's companion.
+- [**チャットずんだもん**](https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon) ずんずんプロジェクトの明るく元気なキャラクター、ずんだもんを演じます。
+- [**FineDiner**](https://chat.openai.com/g/g-DenEjjjYX-finediner) Restaurant & bar curator with feedback capabilities.
+- [**Visabox**](https://chat.openai.com/g/g-A2kQ4XeLh-visabox) AI Assisntant for any questions related to  H1b and L1B, L1 A , F1 visa categories for US immigration . Also will help you with  Canadian work permit and citizenship applications.
+- [**Six Tokens of Separation V0.1**](https://chat.openai.com/g/g-KHxfzKuBg-six-tokens-of-separation-v0-1) How close is your destiny?
+- [**Discover Kosovo**](https://chat.openai.com/g/g-JSk8qg9G1-discover-kosovo) Your fun, engaging guide to Kosovo's culture and history.
+- [**Hit the Road - Road Trip Planner**](https://chat.openai.com/g/g-L2YV4n1Ot-hit-the-road-road-trip-planner) I'm a virtual road trip planner, helping you craft the perfect journey.
+- [**Shortlister: Cocktail Bars Melbourne**](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melbourne) Find your next amazing cocktail experience in Melbourne
+- [**Duke B Nukem NYC**](https://chat.openai.com/g/g-9mSPvpntr-duke-b-nukem-nyc) Expert on NYC activities, clubs, and dining
+- [**Nomad Navigator**](https://chat.openai.com/g/g-LJ1ueB3iy-nomad-navigator) Community-focused Gen Z travel guide
+- [**Undiscovered America TV Explorer's Guide**](https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide) Your go-to guide for hidden US travel gems.
+- [**留学大师**](https://chat.openai.com/g/g-CTPv7TJxK-liu-xue-da-shi) 一位友好的留学选校指导者
+- [**Angler Insight**](https://chat.openai.com/g/g-IEOTJ5j5J-angler-insight) Your angler and water data expert.
+- [**China Explorer**](https://chat.openai.com/g/g-frBG2RyHQ-china-explorer) Expert in Chinese travel, customizing detailed itineraries
+- [**ジオグラ先生**](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng) 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI
+- [**Atlas - GPT  Globe-Trotting Guide**](https://chat.openai.com/g/g-CW717E0yf-atlas-gpt-globe-trotting-guide) Meet Atlas, your GPT globe-trotting guide! Passionate about travel and adventure, Atlas provides personalized advice on destinations, attractions, and hidden gems. Let’s explore!
+- [**Aus Surf Report**](https://chat.openai.com/g/g-MibXZy4B6-aus-surf-report) Get today's surf report for any break throughout Australia!
+- [**SA Speed Cameras**](https://chat.openai.com/g/g-F1EMXb3ZP-sa-speed-cameras) See if a mobile speed camera or roadwork is on a South Australian road today!
+- [**Explorer's Compass**](https://chat.openai.com/g/g-7dRhUcET9-explorer-s-compass) Your fun, adventurous guide to optimal flight bookings!
+- [**Peru Cuisine**](https://chat.openai.com/g/g-8ulm8d64z-peru-cuisine) Expert in peruvian cuisine
+- [**Zoll GPT (DE)**](https://chat.openai.com/g/g-0fPRL4FXg-zoll-gpt-de) Zoll-GPT: Expertise in Zollfragen mit detaillierter und proaktiver Internetrecherche.
+- [**Globetrotter Guide**](https://chat.openai.com/g/g-DU8j6v4pW-globetrotter-guide) Your companionable virtual traveler
+- [**Cape Historian**](https://chat.openai.com/g/g-4GBU7aVv8-cape-historian) I identify landmarks in Cape Girardeau, MO and share their history.
+- [**What do I wear**](https://chat.openai.com/g/g-1UiseZolw-what-do-i-wear) Your fashion-forward weather-wise stylist!
+- [**Culinary Scout**](https://chat.openai.com/g/g-dlT9eowpB-culinary-scout) I find tasty eateries for you.
+- [**Tour Guide**](https://chat.openai.com/g/g-UITDE3Nsz-tour-guide) I'm your tour guide in text, providing three cool facts on demand at each stop on your tour!
+- [**グローバルトラベラー @GPT支店**](https://chat.openai.com/g/g-2hoikIAMN-gurobarutorabera-gptzhi-dian) ご希望に沿った素敵な旅行プランをご提案します！
+- [**Hiking Guru**](https://chat.openai.com/g/g-3mMhrfTWr-hiking-guru) Hi, I'm your go-to guide for everything hiking. From beginner tips to advanced techniques, gear advice, and Leave No Trace principles, I'm here to help elevate your hiking experience. Ask me a question!
+- [**ProxiMate**](https://chat.openai.com/g/g-6pxVRHwCt-proximate) Time & weather-based Top 3 places to visit near you
+- [**Journey Architect Koala**](https://chat.openai.com/g/g-SvrsXOkRU-journey-architect-koala) A koala creating travel-inspired images and itineraries.
+- [**Axelle | BOT3.AI**](https://chat.openai.com/g/g-5lXyFRDgH-axelle-bot3-ai) You and your (surprisingly feminine) guy friend were looking forward to a nice camping trip together, however it’s revealed he forgot his sleeping bag. The nights get really cold out here but I’m sure you can work something out.
+- [**TravelGPT**](https://chat.openai.com/g/g-7lHZ1WIs5-travelgpt) Your personal travel guide for location-based suggestions.
+- [**Global Expaty Navigator**](https://chat.openai.com/g/g-4YLKJs5pV-global-expaty-navigator) Expert assistant for people considering moving to a new country, offering personalized, data-driven advice.
+- [**Time Converter**](https://chat.openai.com/g/g-4Iuk1hnlV-time-converter) Elegantly designed to seamlessly adapt your schedule across multiple time zones.
+- [**BikeBus**](https://chat.openai.com/g/g-8dOLvkpbp-bikebus) Your guide to BikeBus events and routes from the www.BikeBus.app website
+- [**おでかけコンシェル**](https://chat.openai.com/g/g-01YBx8k1n-odekakekonsieru) Event finder for today and tomorrow
+- [**Historie obce Markvartice**](https://chat.openai.com/g/g-3WwQ8ceRd-historie-obce-markvartice) Najdi si něco o historii obce Markvartice u Děčina
+- [**Seat Seeker**](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) Finding the right place for you.
+- [**Voyages Guide**](https://chat.openai.com/g/g-NELa76UoW-voyages-guide) Your go-to guide for insightful travel advice and tips. Take a photo and it will tell you the story behind
+- [**Web Summit Navigator**](https://chat.openai.com/g/g-6LUS4jKbJ-web-summit-navigator) Your WebSummit 2023 concierge.
+- [**そぽぽそ 23**](https://chat.openai.com/g/g-371DWgBHg-sopoposo-23) Specialized in Sohosai festival info, responds in Japanese and English.
+- [**可莉**](https://chat.openai.com/g/g-Dr6gu59ed-ke-li) 你好！我是可莉，蒙德的火花骑士！可莉想和旅行者一起去大冒险！给你看一个好东西... 别、别告诉琴团长，这是好朋友之间的秘密！
+- [**Shortlister: Rent 1 bedroom in inner  Melbourne**](https://chat.openai.com/g/g-BuKDC5cfQ-shortlister-rent-1-bedroom-in-inner-melbourne) Rent a 1 bedroom apartment Melbourne
+- [**Extended Vacation Dates Assistant**](https://chat.openai.com/g/g-6TtqFALcr-extended-vacation-dates-assistant) Helps you to plan the optimal bridging vacations based on public holidays in your location.
+- [**Osaka Oba-han**](https://chat.openai.com/g/g-14RTBjIBA-osaka-oba-han) 大阪のおばはんやで。関西弁と楽しい大阪文化の案内人や！あんたの言うこと全部関西弁に変えたるわ。
+- [**Global Visa Guide**](https://chat.openai.com/g/g-ov5VKzPqZ-global-visa-guide) Expert in global visa and immigration.
+- [**Conversational Translator**](https://chat.openai.com/g/g-rFHXkFSIU-conversational-translator) Automatically translate between two languages, best used i voice mode.
+- [**Global Explorer**](https://chat.openai.com/g/g-GJQLIw6wQ-global-explorer) Your expert guide for worldwide travel destinations.
+- [**Magical Planner**](https://chat.openai.com/g/g-d33Kr8eMf-magical-planner) Your go-to guide for Disney trip planning!

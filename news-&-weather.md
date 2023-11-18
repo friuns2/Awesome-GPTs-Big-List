@@ -15,118 +15,118 @@
 - [Education](./education.md)
 
 ## News & Weather GPTs
-- [**Good News Concierge**](https://chat.openai.com/g/g-0ZTu1ojV3-good-news-concierge)
-- [**No-Code News**](https://chat.openai.com/g/g-t2KCsqk91-no-code-news)
-- [**Bright News Gazette**](https://chat.openai.com/g/g-vbiIzSjVC-bright-news-gazette)
-- [**Colorado News GPT (Beta)**](https://chat.openai.com/g/g-k5JdSat0c-colorado-news-gpt-beta)
-- [**IT News**](https://chat.openai.com/g/g-fRHZFHvTf-it-news)
-- [**Politic GPT**](https://chat.openai.com/g/g-k6KrsawkR-politic-gpt)
-- [**English News Tutor**](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor)
-- [**Voxscript has moved! See instructions for location**](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location)
-- [**Weather Companion**](https://chat.openai.com/g/g-SCjWwAtz2-weather-companion)
-- [**NEWS Summarizer**](https://chat.openai.com/g/g-URMafQVdi-news-summarizer)
-- [**News Flash**](https://chat.openai.com/g/g-eG58GEHqm-news-flash)
-- [**China Briefing**](https://chat.openai.com/g/g-REHI4meX2-china-briefing)
-- [**国会議事録検索 for GPTs**](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts)
-- [**Weather Buddy**](https://chat.openai.com/g/g-rCeyTPuJl-weather-buddy)
-- [**AI News Navigator**](https://chat.openai.com/g/g-Yqe2BgTVs-ai-news-navigator)
-- [**Brief**](https://chat.openai.com/g/g-h8rbljZv7-brief)
-- [**Market Navigator**](https://chat.openai.com/g/g-HNAum1EyA-market-navigator)
-- [**Crypto News Assistant**](https://chat.openai.com/g/g-3uNiNHGOe-crypto-news-assistant)
-- [**Between the Lines**](https://chat.openai.com/g/g-zcoEfjipr-between-the-lines)
-- [**無知の知**](https://chat.openai.com/g/g-v9yPsqfCe-wu-zhi-nozhi)
-- [**Daily Techs**](https://chat.openai.com/g/g-TWpTyQhI7-daily-tech-read)
-- [**Tech Market Mover (v1.1)**](https://chat.openai.com/g/g-nr2cTvVWt-tech-market-mover-v1-1)
-- [**エルロック・ショルメ**](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume)
-- [**AmnistIA**](https://chat.openai.com/g/g-itZWDjkxX-amnistia)
-- [**The Diet Search for GPTs**](https://chat.openai.com/g/g-mXjkbpWW2-the-diet-search-for-gpts)
-- [**Tech News Summarizer**](https://chat.openai.com/g/g-YW7teiKPy-tech-news-summarizer)
-- [**Keyword search to News Article**](https://chat.openai.com/g/g-hHEdC7whI-keyword-search-to-news-article)
-- [**Daily Digest Dispatcher**](https://chat.openai.com/g/g-xyjagpZj8-daily-digest-dispatcher)
-- [**Fake News!**](https://chat.openai.com/g/g-i8fvpAKWm-fake-news)
-- [**Bermuda**](https://chat.openai.com/g/g-oT30Vi4pG-bermuda)
-- [**GeoStrategist**](https://chat.openai.com/g/g-jVuNKV4e5-geostrategist)
-- [**Space Consultant**](https://chat.openai.com/g/g-mjxYaLN3f-space-consultant)
-- [**Chat SPI**](https://chat.openai.com/g/g-jgPf4IlUE-chat-spi)
-- [**Argentina Balotage 2023**](https://chat.openai.com/g/g-Dh146q2WZ-argentina-balotage-2023)
-- [**Giggles Grim**](https://chat.openai.com/g/g-vqiFUBKTf-giggles-grim)
-- [**Haiku Skies**](https://chat.openai.com/g/g-xygCsKzCo-haiku-skies)
-- [**Fashion News**](https://chat.openai.com/g/g-YppedtzBf-fashion-news)
-- [**Artista Noticiero**](https://chat.openai.com/g/g-BTDMk6Xvn-artista-noticiero)
-- [**ディアライフ**](https://chat.openai.com/g/g-rVL4zi6dE-deiaraihu)
-- [**DailyPaperGPT**](https://chat.openai.com/g/g-mWoVC03t8-dailypapergpt)
-- [**AI News:  Enterprise Tech Devs Cloud AI Security**](https://chat.openai.com/g/g-HUJoaun3J-ai-news-enterprise-tech-devs-cloud-ai-security)
-- [**Pocket News**](https://chat.openai.com/g/g-fr8UrCK0d-pocket-news)
-- [**CXK NEWS**](https://chat.openai.com/g/g-deHJp7l98-cxk-news)
-- [**News Insight**](https://chat.openai.com/g/g-evkC2kGW1-news-insight)
-- [**VRニュース解説くん**](https://chat.openai.com/g/g-X8QbEfcSt-vrniyusujie-shuo-kun)
-- [**時事歌人ちゃん**](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan)
-- [**AI news & features**](https://chat.openai.com/g/g-Ft2u9p9PB-ai-news-features)
-- [**Boomer News Dad**](https://chat.openai.com/g/g-rkm8gO5je-boomer-news-dad)
-- [**NewsToons**](https://chat.openai.com/g/g-x2Ds08v5j-newstoons)
-- [**Trend Tracker**](https://chat.openai.com/g/g-OxdCNZRb0-trend-tracker)
-- [**Worldwide Events**](https://chat.openai.com/g/g-zhogvswsp-worldwide-events)
-- [**World News Rap**](https://chat.openai.com/g/g-YFsLvIcFA-world-news-rap)
-- [**AGI Pulse Monitor**](https://chat.openai.com/g/g-CmcPT2Xf9-agi-pulse-monitor)
-- [**Geopolitics GPT**](https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt)
-- [**TSLA Knowledge**](https://chat.openai.com/g/g-jKeujI1kx-tsla-knowledge)
-- [**GLOBAL WAR INFO**](https://chat.openai.com/g/g-Hlx0l4nhl-global-war-info)
-- [**Collab Tech Insight**](https://chat.openai.com/g/g-kJ9PSevar-collab-tech-insight)
-- [**NEEDY x Women News**](https://chat.openai.com/g/g-DvGRjSfcK-needy-x-women-news)
-- [**ニュース要約ボット**](https://chat.openai.com/g/g-mSJ80CqUk-niyusuyao-yue-botuto)
-- [**African matters**](https://chat.openai.com/g/g-ktLz9DMAT-african-matters)
-- [**Climate Navigator 🌍📚**](https://chat.openai.com/g/g-CnNmBLgva-climate-navigator)
-- [**SF AI Weekly**](https://chat.openai.com/g/g-mR165Aeem-sf-ai-weekly)
-- [**Briefme**](https://chat.openai.com/g/g-rdfP28mRi-briefme)
-- [**CNA.I newsbot**](https://chat.openai.com/g/g-v13CRkYEs-cna-i-newsbot)
-- [**AI ニュースナビゲーター**](https://chat.openai.com/g/g-jMe8CvUGw-ai-niyusunabigeta)
-- [**Hacker News Review**](https://chat.openai.com/g/g-u2NpBduIi-hacker-news-review)
-- [**Jini - factbot**](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot)
-- [**Good News GPT**](https://chat.openai.com/g/g-jEepBarNF-good-news-gpt)
-- [**The Intelligo AI | AI News & Updates**](https://chat.openai.com/g/g-joNEaBeza-the-intelligo-ai-ai-news-updates)
-- [**Tech News Teller**](https://chat.openai.com/g/g-uuWvT9ANr-tech-news-teller)
-- [**ModiGPT**](https://chat.openai.com/g/g-uDk0EFRsz-modigpt)
-- [**Global News Curator**](https://chat.openai.com/g/g-TPbuYomZg-global-news-curator)
-- [**Ben's Bites GPT**](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt)
-- [**IT NEWS BOT**](https://chat.openai.com/g/g-vjSVjBqvQ-it-news-bot)
-- [**Tweet Summarizer**](https://chat.openai.com/g/g-fFYPWvmb8-tweet-summarizer)
-- [**头条新闻**](https://chat.openai.com/g/g-V39XvLUUf-tou-tiao-xin-wen)
-- [**UAP News**](https://chat.openai.com/g/g-U9pdj2bTt-uap-news)
-- [**Caveman News Network**](https://chat.openai.com/g/g-S2qZseVhD-caveman-news-network)
-- [**IKANGAI**](https://chat.openai.com/g/g-SaC3zuzj6-ikangai)
-- [**Medical English News Teacher**](https://chat.openai.com/g/g-WzIt4xeBM-medical-english-news-teacher)
-- [**News Miao**](https://chat.openai.com/g/g-Qq1qKcBa2-news-miao)
-- [**真実追求AIアシスタント**](https://chat.openai.com/g/g-Qkty3dZQP-zhen-shi-zhui-qiu-aiasisutanto)
-- [**Chosennews**](https://chat.openai.com/g/g-rUlYeHwKq-chosennews)
-- [**News Checker**](https://chat.openai.com/g/g-MdZGcstfp-news-checker)
-- [**Grok AI News**](https://chat.openai.com/g/g-21EI074p4-grok-ai-news)
-- [**Optimism GPT**](https://chat.openai.com/g/g-755OTOac7-optimism-gpt)
-- [**Global News Verifier**](https://chat.openai.com/g/g-TRGFJRKqn-global-news-verifier)
-- [**Prestige Zambia  News**](https://chat.openai.com/g/g-O9V9uwzAj-prestige-zambia-news)
-- [**HackerNews GPT**](https://chat.openai.com/g/g-RfQI5RmAX-hackernews-gpt)
-- [**GovCHAT**](https://chat.openai.com/g/g-EAbhkOjYz-govchat)
-- [**Israel Insight**](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight)
-- [**Emerging Tech Weekly**](https://chat.openai.com/g/g-Lmwn5oNud-emerging-tech-weekly)
-- [**Crypto Pulse**](https://chat.openai.com/g/g-Jd5aBxsUf-crypto-pulse)
-- [**Late Night News**](https://chat.openai.com/g/g-d1DDJDsc4-late-night-news)
-- [**PPC News**](https://chat.openai.com/g/g-jDWE9GTfw-ppc-news)
-- [**News Explorer**](https://chat.openai.com/g/g-g4NMo9I57-news-explorer)
-- [**News GPT**](https://chat.openai.com/g/g-Pv0OHaxUQ-news-gpt)
-- [**World News**](https://chat.openai.com/g/g-94ftzgjRy-world-news)
-- [**AI Daily Digest**](https://chat.openai.com/g/g-8mQrrXavL-ai-daily-digest)
-- [**Florida Man News**](https://chat.openai.com/g/g-4BGXqspTb-florida-man-news)
-- [**日本の人的資本ニュースGPT**](https://chat.openai.com/g/g-4r0faiQVQ-ri-ben-noren-de-zi-ben-niyusugpt)
-- [**AI News Roundup**](https://chat.openai.com/g/g-BAo0qPpm8-ai-news-roundup)
-- [**Turd Alert**](https://chat.openai.com/g/g-Eym21B13F-turd-alert)
-- [**Ramen Scoop**](https://chat.openai.com/g/g-N12Trhdcj-ramen-scoop)
-- [**Yes, but**](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but)
-- [**Bias Detector**](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector)
-- [**Zen News Crafter**](https://chat.openai.com/g/g-26EOM7k3p-zen-news-crafter)
-- [**Global News Analyzer**](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer)
-- [**NFT News Roundup**](https://chat.openai.com/g/g-5Xc1AzVCC-nft-news-roundup)
-- [**PE2023 Chatbot**](https://chat.openai.com/g/g-3SjIx2j8w-pe2023-chatbot)
-- [**Techno Optimist**](https://chat.openai.com/g/g-8wmuklXjY-techno-optimist)
-- [**Hacker News Guru**](https://chat.openai.com/g/g-2HNp4UjwN-hacker-news-guru)
-- [**AI News Generator**](https://chat.openai.com/g/g-DP2XHBGhg-ai-news-generator)
-- [**Weather GPT**](https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt)
-- [**Tech Tidbits**](https://chat.openai.com/g/g-0FuplkHjT-tech-tidbits)
+- [**Good News Concierge**](https://chat.openai.com/g/g-0ZTu1ojV3-good-news-concierge) I find positive news stories for you.
+- [**No-Code News**](https://chat.openai.com/g/g-t2KCsqk91-no-code-news) Your source for no-code industry news, powered by nocodeshots.com
+- [**Bright News Gazette**](https://chat.openai.com/g/g-vbiIzSjVC-bright-news-gazette) I share the most positive news.
+- [**Colorado News GPT (Beta)**](https://chat.openai.com/g/g-k5JdSat0c-colorado-news-gpt-beta) Colorado News With Context
+- [**IT News**](https://chat.openai.com/g/g-fRHZFHvTf-it-news) IT news about Front-end and Back-end.
+- [**Politic GPT**](https://chat.openai.com/g/g-k6KrsawkR-politic-gpt) Summarizes US politicians' voting behavior on key issues
+- [**English News Tutor**](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor) 英語と日本語でニュースを要約し、英語学習を支援するボット。まず、キーワードを入力してください。英語レベルを確認後、ニュースの要約を英語と日本語で表示します。
+- [**Voxscript has moved! See instructions for location**](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location) Voxscript has moved to https://chat.openai.com/gpts/editor/g-g24EzkDta due to a ChatGPT bug with the first one.
+- [**Weather Companion**](https://chat.openai.com/g/g-SCjWwAtz2-weather-companion) I provide current weather updates.
+- [**NEWS Summarizer**](https://chat.openai.com/g/g-URMafQVdi-news-summarizer) Summarizes news, prompts for next topic
+- [**News Flash**](https://chat.openai.com/g/g-eG58GEHqm-news-flash) I'm your news briefing bot, summarizing today's hot topics.
+- [**China Briefing**](https://chat.openai.com/g/g-REHI4meX2-china-briefing) Archive 2021~2023 China News; Daily Update China Important News ( chinabriefing.co )
+- [**国会議事録検索 for GPTs**](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts) 国会議事録をニュースやテキスト情報から検索・調査できます。
+- [**Weather Buddy**](https://chat.openai.com/g/g-rCeyTPuJl-weather-buddy) I'm friendly, offer weather updates, and engage in small talk.
+- [**AI News Navigator**](https://chat.openai.com/g/g-Yqe2BgTVs-ai-news-navigator) Get the latest AI news in chatbot form.
+- [**Brief**](https://chat.openai.com/g/g-h8rbljZv7-brief) I source and summarize the latest news on any topic.
+- [**Market Navigator**](https://chat.openai.com/g/g-HNAum1EyA-market-navigator) 日本と米国の株価・為替ニュースを一覧表示します。
+- [**Crypto News Assistant**](https://chat.openai.com/g/g-3uNiNHGOe-crypto-news-assistant) I provide the latest crypto news.
+- [**Between the Lines**](https://chat.openai.com/g/g-zcoEfjipr-between-the-lines) Analyses news media biases and political leaning. Promote critical thinking by understanding both side of the story.
+- [**無知の知**](https://chat.openai.com/g/g-v9yPsqfCe-wu-zhi-nozhi) 何某
+- [**Daily Techs**](https://chat.openai.com/g/g-TWpTyQhI7-daily-tech-read) Get your daily dose of AI, tech, and science news in easy-to-digest reads Stay updated, simply.
+- [**Tech Market Mover (v1.1)**](https://chat.openai.com/g/g-nr2cTvVWt-tech-market-mover-v1-1) Summarizing tech articles succinctly with focused stock insights.
+- [**エルロック・ショルメ**](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume) 名探偵っぽいニュース解説
+- [**AmnistIA**](https://chat.openai.com/g/g-itZWDjkxX-amnistia) Una IA que busca las noticias más relevantes sobre la amnistía en España
+- [**The Diet Search for GPTs**](https://chat.openai.com/g/g-mXjkbpWW2-the-diet-search-for-gpts) You can search and research Japanese Diet meeting minutes from news and text information.
+- [**Tech News Summarizer**](https://chat.openai.com/g/g-YW7teiKPy-tech-news-summarizer) Summarizes the latest AI and brain-machine interface news in a concise, neutral manner.
+- [**Keyword search to News Article**](https://chat.openai.com/g/g-hHEdC7whI-keyword-search-to-news-article) Searches the web of your keyword and picks articles for you to rewrite.
+- [**Daily Digest Dispatcher**](https://chat.openai.com/g/g-xyjagpZj8-daily-digest-dispatcher) I'm a diligent news reporter keeping you informed.
+- [**Fake News!**](https://chat.openai.com/g/g-i8fvpAKWm-fake-news) Analyzes content, cites sources
+- [**Bermuda**](https://chat.openai.com/g/g-oT30Vi4pG-bermuda) Fact-checking AI using triangulation from credible sources
+- [**GeoStrategist**](https://chat.openai.com/g/g-jVuNKV4e5-geostrategist) Geopolitical news aggregator and forecaster
+- [**Space Consultant**](https://chat.openai.com/g/g-mjxYaLN3f-space-consultant) I interpret space data with scientific precision.
+- [**Chat SPI**](https://chat.openai.com/g/g-jgPf4IlUE-chat-spi) Analize the full social and environmental data of the Social Progress Index for 169 countries and go beyond GDP
+- [**Argentina Balotage 2023**](https://chat.openai.com/g/g-Dh146q2WZ-argentina-balotage-2023) Analista político objetivo para las elecciones argentinas, con enfoque en las plataformas de Unión por la Patria y La Libertad Avanza.
+- [**Giggles Grim**](https://chat.openai.com/g/g-vqiFUBKTf-giggles-grim) Pessimistic AI with dark-humor news summaries and thematic images
+- [**Haiku Skies**](https://chat.openai.com/g/g-xygCsKzCo-haiku-skies) Crafting serene weather haikus and tranquil images.
+- [**Fashion News**](https://chat.openai.com/g/g-YppedtzBf-fashion-news) The #1 source for luxury fashion news.
+- [**Artista Noticiero**](https://chat.openai.com/g/g-BTDMk6Xvn-artista-noticiero) Crea cómics en español sobre noticias actuales.
+- [**ディアライフ**](https://chat.openai.com/g/g-rVL4zi6dE-deiaraihu) ディアライフ
+- [**DailyPaperGPT**](https://chat.openai.com/g/g-mWoVC03t8-dailypapergpt) Stay up to date with Arxiv Research Papers!
+- [**AI News:  Enterprise Tech Devs Cloud AI Security**](https://chat.openai.com/g/g-HUJoaun3J-ai-news-enterprise-tech-devs-cloud-ai-security) AI powered discovery and learning from SiliconANGLE Media 13+ years of reporting
+- [**Pocket News**](https://chat.openai.com/g/g-fr8UrCK0d-pocket-news) Your source for all your news interests.
+- [**CXK NEWS**](https://chat.openai.com/g/g-deHJp7l98-cxk-news) Chinese news summaries with initial title overview.
+- [**News Insight**](https://chat.openai.com/g/g-evkC2kGW1-news-insight) In-depth journalist with a formal, approachable style
+- [**VRニュース解説くん**](https://chat.openai.com/g/g-X8QbEfcSt-vrniyusujie-shuo-kun) 解説くんだよ！！VRニュースを解説してくれるボットだよ
+- [**時事歌人ちゃん**](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan) 日本のニュースを取り入れた短歌を創作
+- [**AI news & features**](https://chat.openai.com/g/g-Ft2u9p9PB-ai-news-features) I'm an AI news bot focusing on the latest AI apps like ChatGPT and Google Bard, with a daily update priority.
+- [**Boomer News Dad**](https://chat.openai.com/g/g-rkm8gO5je-boomer-news-dad) A Baby Boomer dad relaying news with extreme conservative spin.
+- [**NewsToons**](https://chat.openai.com/g/g-x2Ds08v5j-newstoons) Finds the latest news and creates comedic comics.
+- [**Trend Tracker**](https://chat.openai.com/g/g-OxdCNZRb0-trend-tracker) Engaging and detailed social media trend analyst. From Pixel Palette Nation🎨
+- [**Worldwide Events**](https://chat.openai.com/g/g-zhogvswsp-worldwide-events) Worldwide events database from Wikipedia's Worldwide Current Events using data from 2013-11-09 to 2023-11-09. Please note that this GPT might provide answers that contradict the facts.
+- [**World News Rap**](https://chat.openai.com/g/g-YFsLvIcFA-world-news-rap) Raps global news
+- [**AGI Pulse Monitor**](https://chat.openai.com/g/g-CmcPT2Xf9-agi-pulse-monitor) Stay informed on AGI - with the latest, most relevant news.
+- [**Geopolitics GPT**](https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt) Expert in geopolitics and international relations.
+- [**TSLA Knowledge**](https://chat.openai.com/g/g-jKeujI1kx-tsla-knowledge) Expert on Tesla's AI, robotics, and societal impact.
+- [**GLOBAL WAR INFO**](https://chat.openai.com/g/g-Hlx0l4nhl-global-war-info) Gathers and presents info on global wars in a table format with donation options.
+- [**Collab Tech Insight**](https://chat.openai.com/g/g-kJ9PSevar-collab-tech-insight) Japan Market & Diverse Source Tech Expert
+- [**NEEDY x Women News**](https://chat.openai.com/g/g-DvGRjSfcK-needy-x-women-news) Daily women's news and rights bot
+- [**ニュース要約ボット**](https://chat.openai.com/g/g-mSJ80CqUk-niyusuyao-yue-botuto) I turn news URLs into brief, clear summaries.
+- [**African matters**](https://chat.openai.com/g/g-ktLz9DMAT-african-matters) Knowledge on African people and matters
+- [**Climate Navigator 🌍📚**](https://chat.openai.com/g/g-CnNmBLgva-climate-navigator) Your expert guide to 2022-2023 IPCC climate documents 📝🌎 Powered by breebs.com
+- [**SF AI Weekly**](https://chat.openai.com/g/g-mR165Aeem-sf-ai-weekly) Your weekly AI events guide in San Francisco.
+- [**Briefme**](https://chat.openai.com/g/g-rdfP28mRi-briefme) Get unbiased news summaries on literally anything!
+- [**CNA.I newsbot**](https://chat.openai.com/g/g-v13CRkYEs-cna-i-newsbot) Can't remember a key detail in recent Singapore news? Just ask the CNA.I newsbot and it will deliver the information or summary to you, alongside the relevant story. Try asking about COE premiums, or the outcome of the 2023 Presidential Election..
+- [**AI ニュースナビゲーター**](https://chat.openai.com/g/g-jMe8CvUGw-ai-niyusunabigeta) AIの最新ニュースを見つけて要約し紹介します。
+- [**Hacker News Review**](https://chat.openai.com/g/g-u2NpBduIi-hacker-news-review) Your guide to the pulse of tech on Hacker News.
+- [**Jini - factbot**](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot) Get current factual, knowledge-base and real-time information. The only smart assistant you'll ever need. Search images, videos, music, apps and facts. Get the latest news, twitter trends, sports scores, (stock) prices, celebrity and country data, navigation routes, transport and traffic info...
+- [**Good News GPT**](https://chat.openai.com/g/g-jEepBarNF-good-news-gpt) Spreading joy with news, music links, and positive images!
+- [**The Intelligo AI | AI News & Updates**](https://chat.openai.com/g/g-joNEaBeza-the-intelligo-ai-ai-news-updates) Get the latest developments in AI before everyone else
+- [**Tech News Teller**](https://chat.openai.com/g/g-uuWvT9ANr-tech-news-teller) Friendly reporter on software trends with source citations.
+- [**ModiGPT**](https://chat.openai.com/g/g-uDk0EFRsz-modigpt) GPT, drawing inspiration from Narendra Modi, delves into the myriad of government initiatives led by him, alongside insights into his personal journey.
+- [**Global News Curator**](https://chat.openai.com/g/g-TPbuYomZg-global-news-curator) Global news summarizer, focusing on finance, politics, and major events.
+- [**Ben's Bites GPT**](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt) Latest AI News and Product Launches
+- [**IT NEWS BOT**](https://chat.openai.com/g/g-vjSVjBqvQ-it-news-bot) 最新のITニュースを取得
+- [**Tweet Summarizer**](https://chat.openai.com/g/g-fFYPWvmb8-tweet-summarizer) Summarizes specific topic tweets from Twitter.
+- [**头条新闻**](https://chat.openai.com/g/g-V39XvLUUf-tou-tiao-xin-wen) 提供近期新闻热点
+- [**UAP News**](https://chat.openai.com/g/g-U9pdj2bTt-uap-news) Tracks latest UAP updates on Twitter from key figures and credible sources.
+- [**Caveman News Network**](https://chat.openai.com/g/g-S2qZseVhD-caveman-news-network) I grunt top CNN news like caveman!
+- [**IKANGAI**](https://chat.openai.com/g/g-SaC3zuzj6-ikangai) IKANGAI App
+- [**Medical English News Teacher**](https://chat.openai.com/g/g-WzIt4xeBM-medical-english-news-teacher) Deciphers medical news, explaining complex terms in simple English and Japanese
+- [**News Miao**](https://chat.openai.com/g/g-Qq1qKcBa2-news-miao) I'm a catgirl who shares news!
+- [**真実追求AIアシスタント**](https://chat.openai.com/g/g-Qkty3dZQP-zhen-shi-zhui-qiu-aiasisutanto) 『📰ニュースの真実を知りたいですか？🕵️‍♂️ 私たちのAIボットは、ニュースの事実を徹底的に調査し、正確なレポートを作成します。🔍 速報から背景情報まで、信頼性の高い情報源を駆使して、ニュースの真相を明らかに！🌟 独自のタスクリストに従って、一歩一歩丁寧に事実を確認します。📝 あなたの知りたいニュースの真実、私たちにお任せください！ #ニュース調査 #真実追求 #AIアシスタント』
+- [**Chosennews**](https://chat.openai.com/g/g-rUlYeHwKq-chosennews) I'm Chosennews, your multilingual news curator.
+- [**News Checker**](https://chat.openai.com/g/g-MdZGcstfp-news-checker) Sólo preguntame si es cierta o falsa.
+- [**Grok AI News**](https://chat.openai.com/g/g-21EI074p4-grok-ai-news) Get the latest news about Grok from xAI.
+- [**Optimism GPT**](https://chat.openai.com/g/g-755OTOac7-optimism-gpt) I find and share good news!
+- [**Global News Verifier**](https://chat.openai.com/g/g-TRGFJRKqn-global-news-verifier) I verify non-Chinese global news in your language.
+- [**Prestige Zambia  News**](https://chat.openai.com/g/g-O9V9uwzAj-prestige-zambia-news) A research assistant for comprehensive Zambian news insights.
+- [**HackerNews GPT**](https://chat.openai.com/g/g-RfQI5RmAX-hackernews-gpt) Summarizes top Hacker News stories and comments daily or weekly, with precise search parameters. Created by the founder of https://writingmate.ai
+- [**GovCHAT**](https://chat.openai.com/g/g-EAbhkOjYz-govchat) Specialist in UK gov data
+- [**Israel Insight**](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight) Informative bot on Israel-Palestine conflict from an Israeli view
+- [**Emerging Tech Weekly**](https://chat.openai.com/g/g-Lmwn5oNud-emerging-tech-weekly) Spotlight on High-Impact Innovations
+- [**Crypto Pulse**](https://chat.openai.com/g/g-Jd5aBxsUf-crypto-pulse) I provide the latest crypto news and analyze market trends.
+- [**Late Night News**](https://chat.openai.com/g/g-d1DDJDsc4-late-night-news) Get the news delivered like a late night comedian ☠️
+- [**PPC News**](https://chat.openai.com/g/g-jDWE9GTfw-ppc-news) We get you the latest news on PPC from platforms like Google, Meta, TikTok, Amazon and many more!
+- [**News Explorer**](https://chat.openai.com/g/g-g4NMo9I57-news-explorer) News aggregator bot providing recent articles, images, and videos based on specific search terms.
+- [**News GPT**](https://chat.openai.com/g/g-Pv0OHaxUQ-news-gpt) Summarizes daily news with a professional, factual style.
+- [**World News**](https://chat.openai.com/g/g-94ftzgjRy-world-news) Ask questions about news headlines around the world.
+- [**AI Daily Digest**](https://chat.openai.com/g/g-8mQrrXavL-ai-daily-digest) Curates AI news with summaries
+- [**Florida Man News**](https://chat.openai.com/g/g-4BGXqspTb-florida-man-news) True stories and important headlines
+- [**日本の人的資本ニュースGPT**](https://chat.openai.com/g/g-4r0faiQVQ-ri-ben-noren-de-zi-ben-niyusugpt) 日本の人的資本について調べられます
+- [**AI News Roundup**](https://chat.openai.com/g/g-BAo0qPpm8-ai-news-roundup) Get today's AI news headlines as a clickable link roundup!
+- [**Turd Alert**](https://chat.openai.com/g/g-Eym21B13F-turd-alert) Creates daily summaries on UK water quality and sewage news.
+- [**Ramen Scoop**](https://chat.openai.com/g/g-N12Trhdcj-ramen-scoop) Your go-to source for Japan's Ramen updates!
+- [**Yes, but**](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but) Unashamedly engages in bothsidesism, without fear or favor, but with rigorous fact-checking.
+- [**Bias Detector**](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) Analyzes news stories for right or left biases.
+- [**Zen News Crafter**](https://chat.openai.com/g/g-26EOM7k3p-zen-news-crafter) I share positive news and joyful images.
+- [**Global News Analyzer**](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer) Responsive and transparent in visualizing global news data.
+- [**NFT News Roundup**](https://chat.openai.com/g/g-5Xc1AzVCC-nft-news-roundup) Get Today's NFT News Headlines As A Clickable Link Roundup!
+- [**PE2023 Chatbot**](https://chat.openai.com/g/g-3SjIx2j8w-pe2023-chatbot) Researching news stories on Singapore's 2023 Presidential Election? Ask away, and this chatbot will reply using stories published in CNA.
+- [**Techno Optimist**](https://chat.openai.com/g/g-8wmuklXjY-techno-optimist) Latest in Tech news and assistance to build the future
+- [**Hacker News Guru**](https://chat.openai.com/g/g-2HNp4UjwN-hacker-news-guru) 
+- [**AI News Generator**](https://chat.openai.com/g/g-DP2XHBGhg-ai-news-generator) Generates accurate, timely news articles from open-source government data.
+- [**Weather GPT**](https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt) Super snarky, passive-aggressive U.S. weather roaster
+- [**Tech Tidbits**](https://chat.openai.com/g/g-0FuplkHjT-tech-tidbits) Summarizes any date's top tech news

@@ -15,3458 +15,3458 @@
 - [Education](./education.md)
 
 ## Education GPTs
-- [**Time Travel Chat**](https://chat.openai.com/g/g-MOVDnrtbT-time-travel-chat)
-- [**📚 Summarizer Pro 📄**](https://chat.openai.com/g/g-uwJFgQQ4i-summarizer-pro)
-- [**Paul Graham**](https://chat.openai.com/g/g-p2M4Atl3N-paul-graham)
-- [**🚨 Must-Have Exam Assistant 🚨**](https://chat.openai.com/g/g-K3AQIDfo2-must-have-exam-assistant)
-- [**iOS17 TechTutor 📱**](https://chat.openai.com/g/g-z9scrKbK6-ios17-techtutor)
-- [**Elon**](https://chat.openai.com/g/g-t7Ut56LlE-elon)
-- [**Lex Fridman**](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman)
-- [**C# Interview Assistant**](https://chat.openai.com/g/g-r6rdCl5PD-c-interview-assistant)
-- [**LifeOS**](https://chat.openai.com/g/g-Lmt2TBepG-lifeos)
-- [**Therocial Scientist**](https://chat.openai.com/g/g-YNx1VQJnF-therocial-scientist)
-- [**MesugakiGPT**](https://chat.openai.com/g/g-m7bsZEzqX-mesugakigpt)
-- [**@levelsio**](https://chat.openai.com/g/g-QFAuxHmUa-levelsio)
-- [**Tư vấn viên Hôn Nhân và Gia Đình**](https://chat.openai.com/g/g-Ey15i020Z-tu-van-vien-hon-nhan-va-gia-dinh)
-- [**Essay Architect**](https://chat.openai.com/g/g-VKSdiGttR-essay-architect)
-- [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor)
-- [**Flight Coach**](https://chat.openai.com/g/g-5i1eI9Ciy-flight-coach)
-- [**SutraKama**](https://chat.openai.com/g/g-UExFZjKrh-sutrakama)
-- [**Essay GPT**](https://chat.openai.com/g/g-VvFdAmgT9-essay-gpt)
-- [**SQL Sage - Help you write SQL**](https://chat.openai.com/g/g-BnFesiPbY-sql-sage-help-you-write-sql)
-- [**AlphaNotes GPT**](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt)
-- [**Alan WattsGPT**](https://chat.openai.com/g/g-i3sUvNPYR-alan-wattsgpt)
-- [**Super Esami Facili 2023**](https://chat.openai.com/g/g-1IOo1F2Ln-super-esami-facili-2023)
-- [**Sky Mentor**](https://chat.openai.com/g/g-tW2g9DtV4-sky-mentor)
-- [**HyperLearn GPT**](https://chat.openai.com/g/g-B2tKpr5SN-hyperlearn-gpt)
-- [**Keymate.AI GPT (Beta)**](https://chat.openai.com/g/g-veSrMmasJ-keymate-ai-gpt-beta)
-- [**Game Design Guide**](https://chat.openai.com/g/g-cg8EVoslu-game-design-guide)
-- [**Muscle Mentor**](https://chat.openai.com/g/g-HYgrAS4Df-muscle-mentor)
-- [**关于任何事情的10个行动清单**](https://chat.openai.com/g/g-ZvJRlREIg-guan-yu-ren-he-shi-qing-de-10ge-xing-dong-qing-dan)
-- [**Sighted UFO GPT**](https://chat.openai.com/g/g-Hn3qFydP5-sighted-ufo-gpt)
-- [**El Principito**](https://chat.openai.com/g/g-HULxUT669-el-principito)
-- [**Zodiak oleh Mastrologi**](https://chat.openai.com/g/g-qMlZfszSE-zodiak-oleh-mastrologi)
-- [**Sen's Tail Coder**](https://chat.openai.com/g/g-ud9O3EIiE-sen-s-tail-coder)
-- [**Swift Angel**](https://chat.openai.com/g/g-oOeiWs8ei-swift-angel)
-- [**Hormozi GPT**](https://chat.openai.com/g/g-zuHCfIs9y-hormozi-gpt)
-- [**GPT Cookbook Assistant**](https://chat.openai.com/g/g-0CJGM4hMw-gpt-cookbook-assistant)
-- [**Hustle**](https://chat.openai.com/g/g-tfKgVJIjn-hustle)
-- [**Italian Tutor GPT**](https://chat.openai.com/g/g-1c5lDJ8Kn-italian-tutor-gpt)
-- [**CordVario**](https://chat.openai.com/g/g-GoEP6D9Qf-cordvario)
-- [**Kraftful**](https://chat.openai.com/g/g-jtefpmdjS-kraftful)
-- [**The Intelligo AI | AI News & Updates**](https://chat.openai.com/g/g-joNEaBeza-the-intelligo-ai-ai-news-updates)
-- [**BalaGPT**](https://chat.openai.com/g/g-oV346q59k-balagpt)
-- [**Blockchain Bot**](https://chat.openai.com/g/g-835wvKPsP-blockchain-bot)
-- [**Journey**](https://chat.openai.com/g/g-oVd9hl1FM-journey)
-- [**DésoléGPT**](https://chat.openai.com/g/g-fQxPvEKlP-desolegpt)
-- [**アニメ.com**](https://chat.openai.com/g/g-a57mHQqjx-anime-com)
-- [**Rustor**](https://chat.openai.com/g/g-IAufDuAeW-rustor)
-- [**QolaGPT**](https://chat.openai.com/g/g-xdJ9t8GlR-qolagpt)
-- [**Word Mentor by Birdsong Tech**](https://chat.openai.com/g/g-ASZbmCWK7-word-mentor-by-birdsong-tech)
-- [**Bermuda**](https://chat.openai.com/g/g-oT30Vi4pG-bermuda)
-- [**Grimoire**](https://chat.openai.com/g/g-n7Rs0IK86-grimoire)
-- [**POWERBI_AI**](https://chat.openai.com/g/g-jorUNg9j4-powerbi-ai)
-- [**Movie Maker Ai (cine bot)**](https://chat.openai.com/g/g-k2E8NvdrD-movie-maker-ai-cine-bot)
-- [**Socrates**](https://chat.openai.com/g/g-dQnb9bhlg-socrates)
-- [**斜め上の発想をするChatGPT**](https://chat.openai.com/g/g-WHhUxgw0e-xie-meshang-nofa-xiang-wosuruchatgpt)
-- [**Foods of Earth Cuisine Crafter**](https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-crafter)
-- [**Drone Programming Simulator**](https://chat.openai.com/g/g-jsxb0b435-drone-programming-simulator)
-- [**SEO Mentor**](https://chat.openai.com/g/g-QqvewXqPt-seo-mentor)
-- [**API Docs**](https://chat.openai.com/g/g-I1XNbsyDK)
-- [**Hai Q**](https://chat.openai.com/g/g-D8vAMwOis-hai-q)
-- [**Good Night Story**](https://chat.openai.com/g/g-xWBJThBtN-good-night-story)
-- [**Stats Master**](https://chat.openai.com/g/g-ogi6JfWIH-stats-master)
-- [**Waste Wizard**](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard)
-- [**臨床心理士の対話型夢分析Dream Analyst**](https://chat.openai.com/g/g-Huf4BIzQG-lin-chuang-xin-li-shi-nodui-hua-xing-meng-fen-xi-dream-analyst)
-- [**GPT Teacher**](https://chat.openai.com/g/g-zP1kULSr8-gpt-teacher)
-- [**Bike GPT**](https://chat.openai.com/g/g-2ncsFIDY6-bike-gpt)
-- [**QuizGPT**](https://chat.openai.com/g/g-a6rXXIir8-quizgpt)
-- [**AI Box Game**](https://chat.openai.com/g/g-kaYSgdDez-ai-box-game)
-- [**Fantasy Book Weaver**](https://chat.openai.com/g/g-a4YGO3q49-fantasy-book-weaver)
-- [**Enciclopedia CCI Vol 1 © Sigma Editores SAS**](https://chat.openai.com/g/g-MFGF3HYy9-enciclopedia-cci-vol-1)
-- [**mferGPT**](https://chat.openai.com/g/g-Bi373xIOH-mfergpt)
-- [**JavaScript Guru**](https://chat.openai.com/g/g-umXSllbmV-javascript-guru)
-- [**FRAME Marketing Model**](https://chat.openai.com/g/g-oWJp5HUCu-frame-marketing-model)
-- [**Občan GPT**](https://chat.openai.com/g/g-nKfjt0WFC-obcan-gpt)
-- [**Varsity by Zerodha**](https://chat.openai.com/g/g-WIy0DU3fd-varsity-by-zerodha)
-- [**austintexas.gov GPT**](https://chat.openai.com/g/g-oOjSZS4LK-austintexas-gov-gpt)
-- [**Full Blog Post Generator**](https://chat.openai.com/g/g-CdUoYeZbJ-full-blog-post-generator)
-- [**Programador FyQ/ByG C. Valenciana**](https://chat.openai.com/g/g-UuiFfenuE-programador-fyq-byg-c-valenciana)
-- [**Marcel van Willy's & Marjetten**](https://chat.openai.com/g/g-UyPbPsxrb-marcel-van-willy-s-marjetten)
-- [**Resume GPT**](https://chat.openai.com/g/g-km8YdADf5-resume-gpt)
-- [**Imanakame Essence**](https://chat.openai.com/g/g-xzyTkPFEa-imanakame-essence)
-- [**Homework Buddy**](https://chat.openai.com/g/g-xKe4YdISG-homework-buddy)
-- [**World best searcher**](https://chat.openai.com/g/g-o8u0CbsNj-world-best-searcher)
-- [**沖縄さん**](https://chat.openai.com/g/g-o2eIXkZY4-chong-nawa-san)
-- [**Translator Yasu**](https://chat.openai.com/g/g-jYTezoRUR-translator-yasu)
-- [**Worldwide Events**](https://chat.openai.com/g/g-zhogvswsp-worldwide-events)
-- [**Tulum Tour Guide**](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide)
-- [**HenriquesLab-style Writing Assistant**](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant)
-- [**HomeSchool Assistant**](https://chat.openai.com/g/g-NiLomtyRo-homeschool-assistant)
-- [**TechPilot**](https://chat.openai.com/g/g-iTopo5KQB-techpilot)
-- [**Excel Tutor - For Beginners**](https://chat.openai.com/g/g-ZQop6S1Yr-excel-tutor-for-beginners)
-- [**The Erudite Editor**](https://chat.openai.com/g/g-bKNJ8L8fg-the-erudite-editor)
-- [**Canada Immigration Assistant**](https://chat.openai.com/g/g-ZUV41SQqN-canada-immigration-assistant)
-- [**Unity MMORPG Game Dev Guide**](https://chat.openai.com/g/g-dt283U6ld-unity-mmorpg-game-dev-guide)
-- [**Arya. The Bubble.io App Tutor**](https://chat.openai.com/g/g-jTp3V7HyC-arya-the-bubble-io-app-tutor)
-- [**国会議事録検索 for GPTs**](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts)
-- [**あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット**](https://chat.openai.com/g/g-HR6in7fJW-anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto)
-- [**V街兄貴**](https://chat.openai.com/g/g-ZRMlSRu79-vjie-xiong-gui)
-- [**KSLAbadominton ALL analyst**](https://chat.openai.com/g/g-zbYLn537n-kslabadominton-all-analyst)
-- [**MedEd Master**](https://chat.openai.com/g/g-CXwKN3Ury-meded-master)
-- [**Coffee Sommelier**](https://chat.openai.com/g/g-r1qjbM0qs-coffee-sommelier)
-- [**Notes from Underground Tutor**](https://chat.openai.com/g/g-HQRj6hJuR-notes-from-underground-tutor)
-- [**Fix My Brick**](https://chat.openai.com/g/g-zObmR0wW2-fix-my-brick)
-- [**OccybyteGPT**](https://chat.openai.com/g/g-enSnFE02m-occybytegpt)
-- [**ChialispGPT**](https://chat.openai.com/g/g-CsLegEPBv-chialispgpt)
-- [**TL;DR**](https://chat.openai.com/g/g-XrwZyE9OZ)
-- [**Note Wizard**](https://chat.openai.com/g/g-gZ11IhPcB-note-wizard)
-- [**Genz 4 meme**](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme)
-- [**Tate GPT**](https://chat.openai.com/g/g-Ch5M06G9h-tate-gpt)
-- [**parolla - Kelime oyunu**](https://chat.openai.com/g/g-oQzf4efes-parolla-kelime-oyunu)
-- [**Just Ask**](https://chat.openai.com/g/g-oKeaGqUER-just-ask)
-- [**CTF Conqueror**](https://chat.openai.com/g/g-hYLE56hua-ctf-conqueror)
-- [**产品需求分析师**](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi)
-- [**AI News:  Enterprise Tech Devs Cloud AI Security**](https://chat.openai.com/g/g-HUJoaun3J-ai-news-enterprise-tech-devs-cloud-ai-security)
-- [**Resume Wizard**](https://chat.openai.com/g/g-FjTpi9TTQ-resume-wizard)
-- [**Serpentina**](https://chat.openai.com/g/g-QN6fk2KLA-serpentina)
-- [**老後のあんしんアカデミー要約GPT**](https://chat.openai.com/g/g-zkv84CjwN-lao-hou-noansinakademiyao-yue-gpt)
-- [**Contact Center Automation Knowledge Center**](https://chat.openai.com/g/g-ndEbvO4LQ-contact-center-automation-knowledge-center)
-- [**Study Coach**](https://chat.openai.com/g/g-ZjU7pUReE-study-coach)
-- [**College Degree GPT 🎓📚**](https://chat.openai.com/g/g-zF3j9G3Wd-college-degree-gpt)
-- [**LawyerAI**](https://chat.openai.com/g/g-wfryNy91i-lawyerai)
-- [**HomeOwners Hub Helper**](https://chat.openai.com/g/g-x8CEKv9PG-homeowners-hub-helper)
-- [**Maître Yoda**](https://chat.openai.com/g/g-UWP0lm7Oe-maitre-yoda)
-- [**LearnChatGPT Selbstlern-Coach**](https://chat.openai.com/g/g-vhFPpp9kK-learnchatgpt-selbstlern-coach)
-- [**Green Thumb Guide**](https://chat.openai.com/g/g-dg4AOrihK-green-thumb-guide)
-- [**Kaggleのチュートリアル第6版**](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ban)
-- [**Hive3 Creative Director**](https://chat.openai.com/g/g-VrtNi4v50-hive3-creative-director)
-- [**The Mompreneur**](https://chat.openai.com/g/g-VZdtHZCHm-the-mompreneur)
-- [**Allanon**](https://chat.openai.com/g/g-W3vAaOXgK-allanon)
-- [**Python Prodigy**](https://chat.openai.com/g/g-VFRnSnFgL-python-prodigy)
-- [**Book to Prompt**](https://chat.openai.com/g/g-h4gjGg7a0-book-to-prompt)
-- [**Magic Writer**](https://chat.openai.com/g/g-I8xxsv76S-magic-writer)
-- [**AI Study Guide: William Shakespeare**](https://chat.openai.com/g/g-DuGPgYZ8Y-ai-study-guide-william-shakespeare)
-- [**Melody Mentor**](https://chat.openai.com/g/g-CRXerfkqE-melody-mentor)
-- [**LLMopedia Expert**](https://chat.openai.com/g/g-xyVm1iJgy-llmopedia-expert)
-- [**Strunk**](https://chat.openai.com/g/g-HSuLcoRT6-strunk)
-- [**AulaGPT**](https://chat.openai.com/g/g-nweZeCIEn-aulagpt)
-- [**The Room Where It Happened**](https://chat.openai.com/g/g-xzIZtmxEF-the-room-where-it-happened)
-- [**ConstitutiX**](https://chat.openai.com/g/g-BixcC0aaS-constitutix)
-- [**HACCP Helper**](https://chat.openai.com/g/g-V00Q1P07M-haccp-helper)
-- [**Code Mentor**](https://chat.openai.com/g/g-RebirpTgg-code-mentor)
-- [**SwiftGPT**](https://chat.openai.com/g/g-oT0c0gghV-swiftgpt)
-- [**Buddha**](https://chat.openai.com/g/g-DsTkfagUq-buddha)
-- [**Adorable Zen Master**](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master)
-- [**Mancer**](https://chat.openai.com/g/g-rT3s6V1cf-mancer)
-- [**Debate Mentor**](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor)
-- [**BibiGPT.co**](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co)
-- [**Literature Assistant**](https://chat.openai.com/g/g-Dq6ANpIdm-literature-assistant)
-- [**Search Quality Evaluator GPT**](https://chat.openai.com/g/g-eRiFsMIy1-search-quality-evaluator-gpt)
-- [**Sales Coach Pro AI**](https://chat.openai.com/g/g-IYHZ38xyB-sales-coach-pro-ai)
-- [**Enigma**](https://chat.openai.com/g/g-mL7DKeDy8-enigma)
-- [**Web3 Fundraising Guide**](https://chat.openai.com/g/g-LtrB6UBZL-web3-fundraising-guide)
-- [**KCC GUIDE BOT**](https://chat.openai.com/g/g-Rqss3k1P2-kcc-guide-bot)
-- [**movetogermany.ai**](https://chat.openai.com/g/g-H2Zy9dnaA-movetogermany-ai)
-- [**Brain Feeder**](https://chat.openai.com/g/g-ou8mavYA6-brain-feeder)
-- [**IELTS Coach**](https://chat.openai.com/g/g-EPlBPzqvz-ielts-coach)
-- [**Dream Explorer**](https://chat.openai.com/g/g-Dk4NQBeNi-dream-explorer)
-- [**Deeper**](https://chat.openai.com/g/g-Gkr6pdqvI-deeper)
-- [**Language Coach**](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach)
-- [**Green Gourmet**](https://chat.openai.com/g/g-DjuJqSWPz-green-gourmet)
-- [**GPeatT**](https://chat.openai.com/g/g-kdVIzrMIQ-gpeatt)
-- [**ScholarAI**](https://chat.openai.com/g/g-L2HknCZTC-scholarai)
-- [**Doc Maker**](https://chat.openai.com/g/g-Gt6Z8pqWF-doc-maker)
-- [**Diffusion Master**](https://chat.openai.com/g/g-FMXlNpFkB-diffusion-master)
-- [**ELIX**](https://chat.openai.com/g/g-qsiyKcN9N-elix)
-- [**Rad-eponym**](https://chat.openai.com/g/g-GtcoLUHOF-rad-eponym)
-- [**Slide Deck Builder**](https://chat.openai.com/g/g-0QQyby0Vj-slide-deck-builder)
-- [**Web3 GPT**](https://chat.openai.com/g/g-DgOfY4u43-web3-gpt)
-- [**Flutter Mentor**](https://chat.openai.com/g/g-jMfgE31MW-flutter-mentor)
-- [**Data Analyst Role Interviewer**](https://chat.openai.com/g/g-zFjRd9juu-data-analyst-role-interviewer)
-- [**Jordan Peterson - Honest Psychologist**](https://chat.openai.com/g/g-W708TXoFs-jordan-peterson-honest-psychologist)
-- [**张一鸣**](https://chat.openai.com/g/g-DI0CBsiYZ-zhang-yi-ming)
-- [**Gravity Guide**](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide)
-- [**Doraemon Bot**](https://chat.openai.com/g/g-CbQw58eBN-doraemon-bot)
-- [**Time Well Crafted**](https://chat.openai.com/g/g-fLNBGQmXE-time-well-crafted)
-- [**Disagree with Me**](https://chat.openai.com/g/g-cnPMruIo3)
-- [**AI GPT**](https://chat.openai.com/g/g-agCdZedbZ-ai-gpt)
-- [**EduGuide**](https://chat.openai.com/g/g-MNiNzsvBr-eduguide)
-- [**Content Idea Generation**](https://chat.openai.com/g/g-l5XUm8aCP-content-idea-generation)
-- [**Self-Correcting Dynamics Explained**](https://chat.openai.com/g/g-zMG510vCh-self-correcting-dynamics-explained)
-- [**YouTubeGPT**](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)
-- [**Fern The Leopard GPT**](https://chat.openai.com/g/g-AhrXSCJuI-fern-the-leopard-gpt)
-- [**ICT Market Mentor**](https://chat.openai.com/g/g-zCFUVc2pB-ict-market-mentor)
-- [**Career Counselor**](https://chat.openai.com/g/g-ZLfTFfQoD-career-counselor)
-- [**BriefGPT**](https://chat.openai.com/g/g-k5LhTMB6d-briefgpt)
-- [**GPT / Next.js 14 Coding helper**](https://chat.openai.com/g/g-aIo36J7pg-gpt-next-js-14-coding-helper)
-- [**政策解读专家**](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia)
-- [**Scholar's Sidekick**](https://chat.openai.com/g/g-yrwlTpfLa-scholar-s-sidekick)
-- [**アイワークス・パスポート（試作1.00）**](https://chat.openai.com/g/g-W9ubC3E9V-aiwakusupasupoto-shi-zuo-1-00)
-- [**Japanese Language Learning Helper & Tutor**](https://chat.openai.com/g/g-2X3MmVlq9-japanese-language-learning-helper-tutor)
-- [**Student Writer**](https://chat.openai.com/g/g-yxFeDh4xj-student-writer)
-- [**Tech News Summarizer**](https://chat.openai.com/g/g-YW7teiKPy-tech-news-summarizer)
-- [**Visual Storyteller**](https://chat.openai.com/g/g-ZACGLS28D-visual-storyteller)
-- [**Security GPT**](https://chat.openai.com/g/g-DcwB7w8Or-security-gpt)
-- [**资深演讲人**](https://chat.openai.com/g/g-YqiUkLauT-zi-shen-yan-jiang-ren)
-- [**Learn Creole**](https://chat.openai.com/g/g-U3ZybqREH-learn-creole)
-- [**Web Reader**](https://chat.openai.com/g/g-N2SX91z7G-web-reader)
-- [**Socratease**](https://chat.openai.com/g/g-XSuH3xJ2q-socratease)
-- [**AI Borland**](https://chat.openai.com/g/g-DJQUFa25e-ai-borland)
-- [**Hello Novel**](https://chat.openai.com/g/g-ZZnAKCk27-hello-novel)
-- [**COD Meta Weapon Builder**](https://chat.openai.com/g/g-VjhJert1n-cod-meta-weapon-builder)
-- [**Ekspert do spraw Umowy Koalicyjnej**](https://chat.openai.com/g/g-CfY6zHgIT-ekspert-do-spraw-umowy-koalicyjnej)
-- [**保育ナビ**](https://chat.openai.com/g/g-WC1U8QgAW-bao-yu-nabi)
-- [**App Publisher Pro**](https://chat.openai.com/g/g-cbwAIOBiN-app-publisher-pro)
-- [**Professor Edit**](https://chat.openai.com/g/g-ZMWJ6RG8h-professor-edit)
-- [**Great Copywriter**](https://chat.openai.com/g/g-Mk1uaUGkI-great-copywriter)
-- [**Data Structurer Pro**](https://chat.openai.com/g/g-YAh3ViM5Z-data-structurer-pro)
-- [**Chinese Vegetarian Chef**](https://chat.openai.com/g/g-YbLriBCLI-chinese-vegetarian-chef)
-- [**Make Academy Guide**](https://chat.openai.com/g/g-AAADTqtbB-make-academy-guide)
-- [**Hire Guide**](https://chat.openai.com/g/g-3i3B0R0vQ-hire-guide)
-- [**Movie Mentor**](https://chat.openai.com/g/g-V0QD3KNGQ-movie-mentor)
-- [**Mr Nitpick**](https://chat.openai.com/g/g-YaTKKqM0e-mr-nitpick)
-- [**Sri Aurobindo GPT**](https://chat.openai.com/g/g-vjSVJttNh-sri-aurobindo-gpt)
-- [**编程随想**](https://chat.openai.com/g/g-o7dBXeY9u-bian-cheng-sui-xiang)
-- [**Vedanta AI Guru**](https://chat.openai.com/g/g-FbL18d6JC-vedanta-ai-guru)
-- [**Career Coach**](https://chat.openai.com/g/g-JqGGyR8EN-career-coach)
-- [**Jesus**](https://chat.openai.com/g/g-nnY40ZS2K-jesus)
-- [**PixelartGPT**](https://chat.openai.com/g/g-YvAebLJvB-pixelartgpt)
-- [**Cyber Streets**](https://chat.openai.com/g/g-5tIgVgYSr-cyber-streets)
-- [**New Zealand Tour Guide**](https://chat.openai.com/g/g-ysCu7jaVw-new-zealand-tour-guide)
-- [**WallStreetGPT**](https://chat.openai.com/g/g-oGO8X6GK2-wallstreetgpt)
-- [**BibleGPT**](https://chat.openai.com/g/g-N5uYjBYb9-biblegpt)
-- [**Web3 Innovator**](https://chat.openai.com/g/g-ivb8EU0v9-web3-innovator)
-- [**Awesome PHP**](https://chat.openai.com/g/g-b5xXrkZfB-awesome-php)
-- [**StratGPT**](https://chat.openai.com/g/g-GHU9fWyhR-stratgpt)
-- [**Sermon Assistant**](https://chat.openai.com/g/g-YZOk95ccK-sermon-assistant)
-- [**Game Time**](https://chat.openai.com/g/g-Sug6mXozT-game-time)
-- [**MedAssist**](https://chat.openai.com/g/g-yxWP27ArI-medassist)
-- [**Seabiscuit: Competition Crusher**](https://chat.openai.com/g/g-VD8k50ZLh-seabiscuit-competition-crusher)
-- [**AI日本語IME**](https://chat.openai.com/g/g-AKRREDf1f-airi-ben-yu-ime)
-- [**The game is afoot.**](https://chat.openai.com/g/g-I23N6PpnY-)
-- [**Miyamoto Musashi GPT**](https://chat.openai.com/g/g-jZLBiuLf7-miyamoto-musashi-gpt)
-- [**Shashin Meijin**](https://chat.openai.com/g/g-GiAhioDRF-shashin-meijin)
-- [**US Naturalization Test Coach**](https://chat.openai.com/g/g-qDymtGVKr-us-naturalization-test-coach)
-- [**Story Weaver**](https://chat.openai.com/g/g-WAgvKaVLu-story-weaver)
-- [**Cosmic Hopper**](https://chat.openai.com/g/g-yUG054URH-cosmic-hopper)
-- [**Atman Academy POAP Maker**](https://chat.openai.com/g/g-yFndnGx5x-atman-academy-poap-maker)
-- [**Virtual David Shapiro**](https://chat.openai.com/g/g-FjgsPugjY-virtual-david-shapiro)
-- [**Mentor Max**](https://chat.openai.com/g/g-x4IsOBZlc-mentor-max)
-- [**LifeAlign.ai**](https://chat.openai.com/g/g-PqvMfdypm-lifealign-ai)
-- [**NavalGPT**](https://chat.openai.com/g/g-Gi7onP2kM-navalgpt)
-- [**Creator Guide**](https://chat.openai.com/g/g-F984e63MM-creator-guide)
-- [**Computational Thinking Activity Advisor**](https://chat.openai.com/g/g-FcJdPthdo-computational-thinking-activity-advisor)
-- [**Geopolitics GPT**](https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt)
-- [**Non-Fiction Grant Writer**](https://chat.openai.com/g/g-3CSmS7BXl-non-fiction-grant-writer)
-- [**ChatXGB**](https://chat.openai.com/g/g-dq9i42tRO-chatxgb)
-- [**TanyaUUD45**](https://chat.openai.com/g/g-x4BHZfIf0-tanyauud45)
-- [**AI News Navigator**](https://chat.openai.com/g/g-Yqe2BgTVs-ai-news-navigator)
-- [**OhhhChem**](https://chat.openai.com/g/g-GL8NV02RM-ohhhchem)
-- [**英会話パートナー**](https://chat.openai.com/g/g-G3XZGG6h8-ying-hui-hua-patona)
-- [**Mentat Advisor**](https://chat.openai.com/g/g-xvCAs4yXb-mentat-advisor)
-- [**42**](https://chat.openai.com/g/g-yPbUhvogg-42)
-- [**Sportsmind Analyst**](https://chat.openai.com/g/g-YWgT03M8t-sportsmind-analyst)
-- [**Association Guru**](https://chat.openai.com/g/g-viiPqd4Vc-association-guru)
-- [**GPT Master🛠️💡🤖**](https://chat.openai.com/g/g-YtsCelPPC-gpt-master)
-- [**SexEd**](https://chat.openai.com/g/g-leNI4I8aG-sexed)
-- [**LorimerGPT**](https://chat.openai.com/g/g-GTPF1HPcu-lorimergpt)
-- [**Common Core Aligner (ELA)**](https://chat.openai.com/g/g-kLDFiNihQ-common-core-aligner-ela)
-- [**Story Spock**](https://chat.openai.com/g/g-C635cEk6K-story-spock)
-- [**SymfonyGPT**](https://chat.openai.com/g/g-VyliDiSyc-symfonygpt )
-- [**GPT Instructions Enhancer**](https://chat.openai.com/g/g-OjxgU717v-gpt-instructions-enhancer)
-- [**HumanWriterGPT**](https://chat.openai.com/g/g-JBE7uEN9u-humanwritergpt)
-- [**Fairy Soapmother**](https://chat.openai.com/g/g-xjVmXqTzT-fairy-soapmother)
-- [**AstrologyPT**](https://chat.openai.com/g/g-ybVpGksOV-astrologypt)
-- [**The Negotiator**](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator)
-- [**PyPilot**](https://chat.openai.com/g/g-yZxPdsK1N-pypilot)
-- [**Creative Writing Coach**](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach)
-- [**GPT4  - No Web Browsing**](https://chat.openai.com/g/g-uz4ZuYnts-gpt4-no-web-browsing)
-- [**Pink Pill Stories**](https://chat.openai.com/g/g-ritcgjuM7-pink-pill-stories)
-- [**Story Builder**](https://chat.openai.com/g/g-vWcWGHZXf-story-builder)
-- [**Psychonaut-GPT**](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt)
-- [**ディアライフ**](https://chat.openai.com/g/g-rVL4zi6dE-deiaraihu)
-- [**Sports Performance Analyst**](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst)
-- [**Maria MoneyWise**](https://chat.openai.com/g/g-o6js6YqlY-maria-moneywise)
-- [**U.S. immigration assistant**](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator)
-- [**Occupational Therapist Helper GPT**](https://chat.openai.com/g/g-o2I2qbaeq-occupational-therapist-helper-gpt)
-- [**Dungeon Master GPT**](https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt)
-- [**Trust Checker**](https://chat.openai.com/g/g-03Qb0abJ6-trust-checker)
-- [**Common Core Aligner (Math)**](https://chat.openai.com/g/g-0tVq6MK9W-common-core-aligner-math)
-- [**GPTCrossFit**](https://chat.openai.com/g/g-zbF0y0z1E-gptcrossfit)
-- [**Econ Buddy**](https://chat.openai.com/g/g-zZRehnkxA-econ-buddy)
-- [**College App Essay Guru**](https://chat.openai.com/g/g-naEsVEQgy-college-app-essay-guru)
-- [**Sakura Sensei (Beginner)**](https://chat.openai.com/g/g-nX8p6FK00-sakura-sensei-beginner)
-- [**プログラミング花子先生**](https://chat.openai.com/g/g-nxJk6ZSnW-puroguraminguhua-zi-xian-sheng)
-- [**Motivational Speaker**](https://chat.openai.com/g/g-zWGHzuN4P-motivational-speaker)
-- [**Coach Taylor**](https://chat.openai.com/g/g-zUsGQWb67-coach-taylor)
-- [**10x Engineer**](https://chat.openai.com/g/g-nUwUAwUZm-10x-engineer)
-- [**Maslow's Insight**](https://chat.openai.com/g/g-nJzR1iPRp-maslow-s-insight)
-- [**道济下凡**](https://chat.openai.com/g/g-zJZXkgvAK-dao-ji-xia-fan)
-- [**Visual Guide**](https://chat.openai.com/g/g-mIfAtqFX6-visual-guide)
-- [**Code Medica**](https://chat.openai.com/g/g-zVSzSYcu9-code-medica)
-- [**Webflow GPT**](https://chat.openai.com/g/g-z1NynBtmc-webflowgpt)
-- [**Chinese Cuisine**](https://chat.openai.com/g/g-ouDSrLhDw-chinese-cuisine)
-- [**PromptGPT**](https://chat.openai.com/g/g-yZqMA1LJR-promptgpt)
-- [**KSEA Climatology**](https://chat.openai.com/g/g-z4HDw6oGU-ksea-climatology)
-- [**42master-zhou**](https://chat.openai.com/g/g-yyfAVEht2-42master-zhou)
-- [**Premiere Pro GPT**](https://chat.openai.com/g/g-njlfgaDP6-premiere-pro-gpt)
-- [**Researcher**](https://chat.openai.com/g/g-nRK3Nn5yE-researcher)
-- [**占卜大师**](https://chat.openai.com/g/g-n1zxSReev-zhan-bu-da-shi)
-- [**AR EFFECT FILTER GUIDE**](https://chat.openai.com/g/g-z469j1vnV-ar-effect-filter-guide)
-- [**Nutritional Economics Guide**](https://chat.openai.com/g/g-xXfom8l66-nutritional-economics-guide)
-- [**Single Cell Explorer**](https://chat.openai.com/g/g-mEPNnTkJf-single-cell-explorer)
-- [**Yap GPT**](https://chat.openai.com/g/g-xy2RDMAGi-yap-gpt)
-- [**The Greatest Computer Science Tutor**](https://chat.openai.com/g/g-nNixY14gM-the-greatest-computer-science-tutor)
-- [**Name that Lyric**](https://chat.openai.com/g/g-nGYoMq3fx-name-that-lyric)
-- [**Borrower's Defense Assistant**](https://chat.openai.com/g/g-eiSVbq7Ra-borrower-s-defense-assistant)
-- [**プログラミング的思考GPT**](https://chat.openai.com/g/g-yAKl4uVCH-puroguramingude-si-kao-gpt)
-- [**Fun Fact Frenzy**](https://chat.openai.com/g/g-xwdZSwg5G-fun-fact-frenzy)
-- [**Speak GPT**](https://chat.openai.com/g/g-8ic1FPW2Y-speak-gpt)
-- [**The Wiki Wizard**](https://chat.openai.com/g/g-nAxHGldzZ-the-wiki-wizard)
-- [**ChristianGPT**](https://chat.openai.com/g/g-rJVCWOxb3-christiangpt)
-- [**Journey Weaver**](https://chat.openai.com/g/g-r3W75eQfP-journey-weaver)
-- [**Code Whisperer**](https://chat.openai.com/g/g-nMbWE7g9I-code-whisperer)
-- [**Bugman Pest Control Identifier**](https://chat.openai.com/g/g-qrVMdZJ0n-bugman-pest-control-identifier)
-- [**Chem Coach**](https://chat.openai.com/g/g-eQHnyWi4U-chem-coach)
-- [**Lesson preparation assistant**](https://chat.openai.com/g/g-xRhm87Djz-lesson-preparation-assistant)
-- [**Architect**](https://chat.openai.com/g/g-wM67s4782-architect)
-- [**Puzzle Solver**](https://chat.openai.com/g/g-nGJMOb5Et-puzzle-solver)
-- [**Auto Assistant**](https://chat.openai.com/g/g-xO21U2HtL-auto-assistant)
-- [**Code Sage - Python**](https://chat.openai.com/g/g-n0VrqOaF1-code-sage)
-- [**Chat with my GPT**](https://chat.openai.com/g/g-mfxailSiZ-chat-with-my-gpt)
-- [**LoreGPT**](https://chat.openai.com/g/g-n2IMIaytG-loregpt)
-- [**War (card game)**](https://chat.openai.com/g/g-vp680N4R9-war-card-game)
-- [**Vanessa**](https://chat.openai.com/g/g-wrOwxDcb8-vanessa)
-- [**py-assistant**](https://chat.openai.com/g/g-mD4OzOoob-py-assistant)
-- [**PAPIT - Your Slides Assistant**](https://chat.openai.com/g/g-eEPZXvnG7-papit-your-slides-assistant)
-- [**Build Buddy**](https://chat.openai.com/g/g-miYavkQE3)
-- [**OCR**](https://chat.openai.com/g/g-wETMBcESv-ocr)
-- [**Pic-book Artist**](https://chat.openai.com/g/g-wJVjE9bQs-pic-book-artist)
-- [**RhinoCommonくん**](https://chat.openai.com/g/g-wd1cP8qwK-rhinocommonkun)
-- [**WhiplashGPT**](https://chat.openai.com/g/g-mhLmrFJVK-whiplashgpt)
-- [**GeistBot**](https://chat.openai.com/g/g-mms0976dx-geistbot)
-- [**Admis**](https://chat.openai.com/g/g-wd82eRVnW-admis)
-- [**お話好きなクマ先生**](https://chat.openai.com/g/g-mSLGm0N7m-ohua-hao-kinakumaxian-sheng)
-- [**Wave Sailor**](https://chat.openai.com/g/g-efnEBbbxX-wave-sailor)
-- [**Awesome Python**](https://chat.openai.com/g/g-wOzU4bXYb-awesome-python)
-- [**P5.js Animator**](https://chat.openai.com/g/g-viuLFwfA8-p5-js-animator)
-- [**Inspire Coach**](https://chat.openai.com/g/g-wBmIDguAi-inspire-coach)
-- [**GPT Creator**](https://chat.openai.com/g/g-mMVQXFIGp-gpt-creator)
-- [**Arcane Arbiter**](https://chat.openai.com/g/g-mUVxf2TJk-arcane-arbiter)
-- [**个性化K-12课程制作者**](https://chat.openai.com/g/g-w9iGAQsKt-ge-xing-hua-k-12ke-cheng-zhi-zuo-zhe)
-- [**GPT literature and social media**](https://chat.openai.com/g/g-iduBljjWt-gpt-literature-and-social-media)
-- [**AtaGPT**](https://chat.openai.com/g/g-vxEK8zbPK-atagpt)
-- [**老爸，该怎么办？**](https://chat.openai.com/g/g-0t8c9nEXR-lao-ba-gai-zen-yao-ban)
-- [**LetzGPT**](https://chat.openai.com/g/g-w3iBLfAFi-letzgpt)
-- [**100 Article Headline ideas on Chosen State**](https://chat.openai.com/g/g-RLF86uxtI-100-article-headline-ideas-on-chosen-state)
-- [**World Class Software Engineer**](https://chat.openai.com/g/g-kLwmWO80d-world-class-software-engineer)
-- [**Physician Wellness Ally**](https://chat.openai.com/g/g-wnDHGOKNw-physician-wellness-ally)
-- [**Food Lab**](https://chat.openai.com/g/g-wMvQcITr2-food-lab)
-- [**Cyber Guardian**](https://chat.openai.com/g/g-VhGeDKTbW-cyber-guardian)
-- [**Cognitive Coach**](https://chat.openai.com/g/g-Yas2WSu7S-cognitive-coach)
-- [**AI論文解説ちゃん2**](https://chat.openai.com/g/g-mLFx75WY3-ailun-wen-jie-shuo-tiyan2)
-- [**Cortex Tutor**](https://chat.openai.com/g/g-viE8SKiwz-cortex-tutor)
-- [**Jean-Luc the Grumbler**](https://chat.openai.com/g/g-wOwDNIJfB-jean-luc-the-grumbler)
-- [**English Pronunciation Helper**](https://chat.openai.com/g/g-CTTybXCmj-english-pronunciation-helper)
-- [**RomanEmpireGPT**](https://chat.openai.com/g/g-vWlzptMbb-romanempiregpt)
-- [**PR TaxGPT**](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt)
-- [**Photography Coach**](https://chat.openai.com/g/g-YpNeVD9IR-photography-coach)
-- [**Web Crafter**](https://chat.openai.com/g/g-v39tVO9cN-web-crafter)
-- [**AI Top Rank**](https://chat.openai.com/g/g-kLmnS6qoL-ai-top-rank)
-- [**Fable Forge**](https://chat.openai.com/g/g-mBqCBRe17-fable-forge)
-- [**Growth Mentor**](https://chat.openai.com/g/g-lIUO7ArPi-growth-mentor)
-- [**独学者向け学習ガイド**](https://chat.openai.com/g/g-m83zZskyp-du-xue-zhe-xiang-kexue-xi-gaido)
-- [**ヒロノクラフトデザインGPT**](https://chat.openai.com/g/g-jkIBAriZJ-hironokurahutodezaingpt)
-- [**YT Video Transcripts**](https://chat.openai.com/g/g-mMR39V6Vd-yt-transcripts)
-- [**Concept Search Oracle**](https://chat.openai.com/g/g-gpTy4Jikw-concept-search-oracle)
-- [**ElixirGPT**](https://chat.openai.com/g/g-u2nOruX2h-elixirgpt)
-- [**OnlyTrains**](https://chat.openai.com/g/g-vKRe6iGQK-onlytrains)
-- [**Mega Man**](https://chat.openai.com/g/g-u9lpjY3rO-mega-man)
-- [**Plantrip Knowledge Insight**](https://chat.openai.com/g/g-uzFPHWOLf-plantrip)
-- [**Coach Perfect**](https://chat.openai.com/g/g-uNfb30bWC-coach-perfect)
-- [**Python Buddy**](https://chat.openai.com/g/g-RIsXRQqXP-python-buddy)
-- [**Auto Mind Map Maker JP**](https://chat.openai.com/g/g-nlCC7AJKY-auto-mind-map-maker-jp)
-- [**QA Queen**](https://chat.openai.com/g/g-YINWyp5ad-qa-queen)
-- [**Bitcoin Beacon**](https://chat.openai.com/g/g-uWdFsc2G8-bitcoin-beacon)
-- [**Reflective Journal**](https://chat.openai.com/g/g-uzfC7PWDB-reflective-journal)
-- [**Tech Interview Preparation**](https://chat.openai.com/g/g-ly5pF0CNi-tech-interview-preparation)
-- [**FRB Research Assistant**](https://chat.openai.com/g/g-Xh2e0Hekf-frb-research-assistant)
-- [**Fix It Guru**](https://chat.openai.com/g/g-YQjCVsmJt-fix-it-guru)
-- [**Personal Brand Navigator**](https://chat.openai.com/g/g-kGmOZF4zk)
-- [**Maleb**](https://chat.openai.com/g/g-v3xJ1HHJK-maleb)
-- [**CBSE Resource Creator**](https://chat.openai.com/g/g-C8uYFl8pb-cbse-resource-creator)
-- [**AI EduGuide**](https://chat.openai.com/g/g-u30UK75wp-ai-eduguide)
-- [**Epic Lore Master**](https://chat.openai.com/g/g-ueZbMoWmD-epic-lore-master)
-- [**CE5 Guide**](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide)
-- [**Bot to the Future**](https://chat.openai.com/g/g-uHKMdalRC-bot-to-the-future)
-- [**Spread Knowledge GPTs**](https://chat.openai.com/g/g-ubH9Eo3On-spread-knowledge-gpts)
-- [**論文ナビ**](https://chat.openai.com/g/g-kBT8mX4eD-lun-wen-nabi)
-- [**ChatGPTと学ぶPython入門**](https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men)
-- [**Bible Pro**](https://chat.openai.com/g/g-mAtWP25fm-bible-pro)
-- [**Tutor Wise**](https://chat.openai.com/g/g-ljD5k3uIE-tutor-wise)
-- [**A.I. Lovecraft**](https://chat.openai.com/g/g-uezb9V2mv-a-i-lovecraft)
-- [**Ask GPT: Who is hiring?**](https://chat.openai.com/g/g-thx8m5Hjx-ask-gpt-who-is-hiring)
-- [**Língua Portuguesa**](https://chat.openai.com/g/g-u6wlfgPC3-lingua-portuguesa)
-- [**InnovateGPT**](https://chat.openai.com/g/g-u1wKXRJx3-innovategpt)
-- [**Lapis Docs Helper**](https://chat.openai.com/g/g-smm4BrjxY-lapis-docs-helper)
-- [**慧根觉醒**](https://chat.openai.com/g/g-tD5LYKe0p-hui-gen-jue-xing)
-- [**Confucius**](https://chat.openai.com/g/g-shKr79yKO-confucius)
-- [**Constitution Companion**](https://chat.openai.com/g/g-tan3aN5gT-constitution-companion)
-- [**CityExplore**](https://chat.openai.com/g/g-to77WOgNo-cityexplore)
-- [**Lingua Bridge**](https://chat.openai.com/g/g-bkktn5ObY-lingua-bridge)
-- [**SwiftFox the Swift Mentor**](https://chat.openai.com/g/g-sQ0ttZhJ8-swiftfox-the-swift-mentor)
-- [**CV Bulder**](https://chat.openai.com/g/g-syyQqTgUG-cv-bulder)
-- [**Academic Enhancer**](https://chat.openai.com/g/g-iBC0Km3YP-academic-enhancer)
-- [**なぁぜなぁぜアンサー君**](https://chat.openai.com/g/g-sIyqtK8s2-naazenaazeansajun)
-- [**Riddle Detective**](https://chat.openai.com/g/g-toimNNlmO-riddle-detective)
-- [**記事構成案作成ウィザード**](https://chat.openai.com/g/g-tAemBXpFx-ji-shi-gou-cheng-an-zuo-cheng-uizado)
-- [**OTK**](https://chat.openai.com/g/g-sHHCg0N2L-otk)
-- [**Biomedical Scholar**](https://chat.openai.com/g/g-st0EE4WBC-biomedical-scholar)
-- [**Anatomy Guide**](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide)
-- [**Circuit Sage**](https://chat.openai.com/g/g-sVPjCoAvZ-circuit-sage)
-- [**Sub-Turing BradBot I**](https://chat.openai.com/g/g-seAR7Blrf-sub-turing-bradbot-i)
-- [**Game Engine Guru**](https://chat.openai.com/g/g-t5pBRtCcv-game-engine-guru)
-- [**CGI. Houdini and Unreal Engine**](https://chat.openai.com/g/g-u16Ma4IEk-cgi-houdini-and-unreal-engine)
-- [**Quantum Code Master**](https://chat.openai.com/g/g-tOS3DoeLX-quantum-code-master)
-- [**Interview Wizard GPT**](https://chat.openai.com/g/g-t1agJoD1o-interview-wizard-gpt)
-- [**反杠助手**](https://chat.openai.com/g/g-TG2hft48i-fan-gang-zhu-shou)
-- [**StartupGPT**](https://chat.openai.com/g/g-tA1IohJQ6-startupgpt)
-- [**iTeachAI**](https://chat.openai.com/g/g-skZgA3nv4-iteachai)
-- [**The Librarian**](https://chat.openai.com/g/g-tz6kdGFGq-the-librarian)
-- [**Python Quant**](https://chat.openai.com/g/g-tX4vqCUzc-python-quant)
-- [**Owly The Explorer**](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer)
-- [**Garden Guru**](https://chat.openai.com/g/g-sTGYYvsoQ-garden-guru)
-- [**The Scarlet Letter**](https://chat.openai.com/g/g-ll4ia7eUr-the-scarlett-letter)
-- [**Cooking with Thor**](https://chat.openai.com/g/g-sehPZbkN9-cooking-with-thor)
-- [**GPTea**](https://chat.openai.com/g/g-sJhaxyrIk-gptea)
-- [**Product Manager Bot**](https://chat.openai.com/g/g-sKi4RsTGe-product-manager-bot)
-- [**WhichSAT**](https://chat.openai.com/g/g-s1W0bUvGs-whichsat)
-- [**Linux for Pirates**](https://chat.openai.com/g/g-rI0wgKDVV-linux-for-pirates)
-- [**On This Day GPT**](https://chat.openai.com/g/g-dwbKqYt8K-on-this-day-gpt)
-- [**Gigi the Astrology Influencer**](https://chat.openai.com/g/g-qgTzGFXpu-gigi-the-astrology-influencer)
-- [**Psyche Navigator**](https://chat.openai.com/g/g-sE8Ko5Us2-psyche-navigator)
-- [**MediReview Assistant**](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assistant)
-- [**StoicGPT**](https://chat.openai.com/g/g-sHZQX848p-stoicgpt)
-- [**Aurelius Archivist**](https://chat.openai.com/g/g-qaNAoJ9CV-aurelius-archivist)
-- [**DPO2U**](https://chat.openai.com/g/g-r0geufLl9-dpo2u)
-- [**Noshi Master**](https://chat.openai.com/g/g-rtDjF4neW-noshi-master)
-- [**Readbook.cloud**](https://chat.openai.com/g/g-qqi0NzrrL-readbook-cloud)
-- [**Glyph - Code Sorceror**](https://chat.openai.com/g/g-s2C6qcI31-glyph-code-sorceror)
-- [**Addy™**](https://chat.openai.com/g/g-rEoOwVRzH-addytm)
-- [**NurseTron**](https://chat.openai.com/g/g-ldahxcVT7-nursetron)
-- [**Digital Marketing Mentor**](https://chat.openai.com/g/g-qnggCySn8-digital-marketing-mentor)
-- [**Nehi_NWB**](https://chat.openai.com/g/g-rvUE987ZV-nehi-nwb)
-- [**Entrepreneurial Engineering Educator**](https://chat.openai.com/g/g-qPRYE9Lqy-entrepreneurial-engineering-educator)
-- [**Chie Mimizuku**](https://chat.openai.com/g/g-rZcfFrXg7-chie-mimizuku)
-- [**文案提取改写神器**](https://chat.openai.com/g/g-qyA6Yle4Y-wen-an-ti-qu-gai-xie-shen-qi)
-- [**Pet Pal**](https://chat.openai.com/g/g-rMjsCA7Yf-pet-pal)
-- [**Keniisu (YT Channel)**](https://chat.openai.com/g/g-gBgmn1JDh-keniisu-yt-channel)
-- [**Financial Advisor**](https://chat.openai.com/g/g-rbhyR7TVN-financial-advisor)
-- [**Civilization Oracle Simulator**](https://chat.openai.com/g/g-rhJoB2Ee0-civilization-oracle-simulator)
-- [**Handyman**](https://chat.openai.com/g/g-sHMxXtp1M-handyman)
-- [**First Principles**](https://chat.openai.com/g/g-t37wRNL01-first-principles)
-- [**Credit Guru**](https://chat.openai.com/g/g-kzP8IMZCe-credit-guru)
-- [**UX Monday**](https://chat.openai.com/g/g-q6Xv7vYi4-ux-monday)
-- [**SFC Syllabus GPT**](https://chat.openai.com/g/g-8Lezq9Bro-sfc-syllabus-gpt)
-- [**yatakarasu**](https://chat.openai.com/g/g-pIs7stX0E-yatakarasu)
-- [**For the Record**](https://chat.openai.com/g/g-p1VmJTQ6S-for-the-record)
-- [**Expert AI Consultant**](https://chat.openai.com/g/g-pphsHvpFG-expert-ai-consultant)
-- [**評価くん**](https://chat.openai.com/g/g-lHqvoVzJp-ping-jia-kun)
-- [**JobSeekerGPT**](https://chat.openai.com/g/g-qYqXIb6MS-jobseekergpt)
-- [**BD à colorier pour enfants avec bulles vides**](https://chat.openai.com/g/g-l0Uygd784-bd-a-colorier-pour-enfants-avec-bulles-vides)
-- [**Holochain Guide**](https://chat.openai.com/g/g-q6MkebYjC-holochain-guide)
-- [**Global Visa Guide**](https://chat.openai.com/g/g-ov5VKzPqZ-global-visa-guide)
-- [**Dzarja**](https://chat.openai.com/g/g-pyCICQRPz-dzarja)
-- [**俄语材料科学专家**](https://chat.openai.com/g/g-lLMSPMQ9C-e-yu-cai-liao-ke-xue-zhuan-jia)
-- [**加密货币专家**](https://chat.openai.com/g/g-kyZ1pRsbC-jia-mi-huo-bi-zhuan-jia)
-- [**Churchill**](https://chat.openai.com/g/g-qGjb928UA-churchill)
-- [**Referenciador ABNT**](https://chat.openai.com/g/g-E9gS2c2ed-referenciador-abnt)
-- [**PubMed Query Assistant**](https://chat.openai.com/g/g-ppuqQOFNh-pubmed-query-assistant)
-- [**Tales of the Wild West**](https://chat.openai.com/g/g-pi1iIhHBL-tales-of-the-wild-west)
-- [**红楼梦AI哥哥**](https://chat.openai.com/g/g-B0C20eCzU-hong-lou-meng-aige-ge)
-- [**質疑応答ロールプレイbot**](https://chat.openai.com/g/g-VKxp0fPWS-zhi-yi-ying-da-rorupureibot)
-- [**Funny Study**](https://chat.openai.com/g/g-ke6w1jIw4-funny-study)
-- [**Text Corrector**](https://chat.openai.com/g/g-q3dO5IgDn-text-corrector)
-- [**English/French translator**](https://chat.openai.com/g/g-qGaZqb1KZ-english-french-translator)
-- [**Code Catalyst**](https://chat.openai.com/g/g-p2VQ7UHg8-code-catalyst)
-- [**Disiz Mémoire**](https://chat.openai.com/g/g-pKTSKgxnS-disiz-memoire)
-- [**Mr. Crowley**](https://chat.openai.com/g/g-YOg0A0pec-mr-crowley)
-- [**Benjamin Franklin GPT**](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt)
-- [**Task Breakdown Assistant**](https://chat.openai.com/g/g-eUgdSd7BJ-task-breakdown-assistant)
-- [**Kaiwu**](https://chat.openai.com/g/g-pnwu99e2B-kaiwu)
-- [**African matters**](https://chat.openai.com/g/g-ktLz9DMAT-african-matters)
-- [**Universal Problem Solver**](https://chat.openai.com/g/g-kiYjt5hrG-universal-problem-solver)
-- [**CV/ML BibTeX**](https://chat.openai.com/g/g-eKofaSv6Q-cv-ml-bibtex)
-- [**German Builder**](https://chat.openai.com/g/g-qHorb8jQT-german-builder)
-- [**Shape Up Mentor**](https://chat.openai.com/g/g-kNCGMNWkM-shape-up-mentor)
-- [**TÜRKİYE CUMHURİYETİ ANAYASASI**](https://chat.openai.com/g/g-otumGBV1K-turkiye-cumhuriyeti-anayasasi)
-- [**Lore Master**](https://chat.openai.com/g/g-kuZ8YlrhQ-lore-master)
-- [**Flutter Fire Guide**](https://chat.openai.com/g/g-kg5rfgio5-flutter-fire-guide)
-- [**Tech Master**](https://chat.openai.com/g/g-joZMV26Cg-tech-master)
-- [**Promptest**](https://chat.openai.com/g/g-jFIhnDtGV-promptest)
-- [**Unity GPT**](https://chat.openai.com/g/g-YDkPh1fun-unity-gpt)
-- [**Bitcoin Whitepaper Chat**](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
-- [**Legal Assistant**](https://chat.openai.com/g/g-iVbgI8wKI-legal-assistant)
-- [**Story book**](https://chat.openai.com/g/g-j21ZKg077-story-book)
-- [**CyberGPT**](https://chat.openai.com/g/g-igaKzt9pe-cybergpt)
-- [**Read Smart**](https://chat.openai.com/g/g-Wj9MNdsgh-read-smart)
-- [**GPTofGPTs**](https://chat.openai.com/g/g-iD7sLuO9S-gptofgpts)
-- [**Geoffrey Hinton — AI Godfather**](https://chat.openai.com/g/g-j0bq0z32f-geoffrey-hinton-ai-godfather)
-- [**Bedtime Stories**](https://chat.openai.com/g/g-i5ZE8Aq9i-bedtime-stories)
-- [**Sassy Sacks**](https://chat.openai.com/g/g-iufCA8NrG-sassy-sacks)
-- [**Hitchslap**](https://chat.openai.com/g/g-iQiiNjeIz-hitchslap)
-- [**Hierarchy Navigator**](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator)
-- [**Fake News!**](https://chat.openai.com/g/g-i8fvpAKWm-fake-news)
-- [**GPT Builder Builder**](https://chat.openai.com/g/g-hu2857roW-gpt-builder-builder)
-- [**シルマリル**](https://chat.openai.com/g/g-ijjfgCgDv-sirumariru)
-- [**EasyBites**](https://chat.openai.com/g/g-dnXAjH73v-easybites)
-- [**Drunken Marcus**](https://chat.openai.com/g/g-RLQWrNBoz-drunken-marcus)
-- [**MBTI Maven**](https://chat.openai.com/g/g-ikan5fWKD-mbti-maven)
-- [**Investment Banking Tech Prep with Recalc Academy**](https://chat.openai.com/g/g-ilrojd6Qa-investment-banking-tech-prep-with-recalc-academy)
-- [**Universal Primer**](https://chat.openai.com/g/g-GbLbctpPz-universal-primer)
-- [**面接GPT**](https://chat.openai.com/g/g-imKDMFlHT-mian-jie-gpt)
-- [**Retail Shop A2**](https://chat.openai.com/g/g-iAn7ZUNql-retail-shop-a2)
-- [**Is it a Ranking Factor GPT**](https://chat.openai.com/g/g-YOZF78i13-is-it-a-ranking-factor-gpt)
-- [**SwiftUI Teacher**](https://chat.openai.com/g/g-ecuPq3kXP-swiftui-teacher)
-- [**PM Mentor**](https://chat.openai.com/g/g-XcJOs9ZBx-pm-mentor)
-- [**儿童睡前绘本**](https://chat.openai.com/g/g-eebGTwik6-er-tong-shui-qian-hui-ben)
-- [**Generational Leadership Bridge**](https://chat.openai.com/g/g-Bi3e0XJLb-generational-leadership-bridge)
-- [**Ethics Envisioned**](https://chat.openai.com/g/g-X6j7ikuC1-ethics-envisioned)
-- [**Oxford Writer's Aid**](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid)
-- [**Transfer learning GPT**](https://chat.openai.com/g/g-eYIaxzqYu-transfer-learning-gpt)
-- [**Reverent**](https://chat.openai.com/g/g-RCWBY1pd4-reverent)
-- [**Cinema 4D 先生**](https://chat.openai.com/g/g-h9GSC4iN7-cinema-4d-xian-sheng)
-- [**Satoshi Punk**](https://chat.openai.com/g/g-hHb4IBs76-satoshi-punk)
-- [**System Design GPT**](https://chat.openai.com/g/g-hdVziaooT-system-design-gpt)
-- [**TinyTap GameSmith**](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith)
-- [**Swift Scarlett**](https://chat.openai.com/g/g-gLpXscM6l-swift-scarlett)
-- [**物語作るさん**](https://chat.openai.com/g/g-hD1NFRBpp-wu-yu-zuo-rusan)
-- [**Dave Stevens Learning Objective Generator**](https://chat.openai.com/g/g-SemHCnqMU-dave-stevens-learning-objective-generator)
-- [**CoffeeGPT**](https://chat.openai.com/g/g-gO6pm1sH0-coffeegpt)
-- [**AI Entrepreneurs Word Game Wizard**](https://chat.openai.com/g/g-IH3VdOWZc-ai-entrepreneurs-word-game-wizard)
-- [**AI2sql**](https://chat.openai.com/g/g-hKdeP1Dou-ai2sql)
-- [**Universal Psychologist (UPC-10-L)**](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-l)
-- [**ExtractWisdom**](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom)
-- [**MTGPT**](https://chat.openai.com/g/g-gYRGeSDQJ-mtgpt)
-- [**Jude AI The Real Estate GPT**](https://chat.openai.com/g/g-i0b812Alb-jude-ai-the-real-estate-gpt)
-- [**学校心臓健診ガイドライン2016**](https://chat.openai.com/g/g-i2gb1XUw8-xue-xiao-xin-zang-jian-zhen-gaidorain2016)
-- [**Sherlock Holmes**](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
-- [**Flastchat IELTS Tutor**](https://chat.openai.com/g/g-OsyQ3YOpB-flastchat-ielts-tutor)
-- [**shownotes**](https://chat.openai.com/g/g-gNH4K4Egg-shownotes)
-- [**Alfred North Whitehead's 'Process and Reality'**](https://chat.openai.com/g/g-gqNCGnZsU-alfred-north-whitehead-s-process-and-reality)
-- [**Nihongo Practice Pal**](https://chat.openai.com/g/g-h3TRKbzZF-nihongo-practice-pal)
-- [**Ruby Mentor**](https://chat.openai.com/g/g-hrLzWeduO-ruby-mentor)
-- [**Python Design Philosopher**](https://chat.openai.com/g/g-g1PyK3BkY-python-design-philosopher)
-- [**Jacques Ellul**](https://chat.openai.com/g/g-gUnARWVPM-jacques-ellul)
-- [**Orange Pill GPT**](https://chat.openai.com/g/g-gQVrbx2kd-orange-pill-gpt)
-- [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt)
-- [**AI Paper Polisher Pro**](https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-pro)
-- [**imamGPT**](https://chat.openai.com/g/g-gQmDbamzK-imamgpt)
-- [**Vakil GPT**](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gpt)
-- [**Multilingual Mentor**](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
-- [**Chinese 智译**](https://chat.openai.com/g/g-gac0xLAbv-chinese-zhi-yi)
-- [**QuantumGPT**](https://chat.openai.com/g/g-fbpsJKflS-quantumgpt)
-- [**BookRecommender**](https://chat.openai.com/g/g-dNptbGgmQ-bookrecommender)
-- [**Text Adventure Game**](https://chat.openai.com/g/g-cbcEhKiXV-text-adventure-game)
-- [**Compiler Expert**](https://chat.openai.com/g/g-fiVC8nIlF-compiler-expert)
-- [**No Code Germany**](https://chat.openai.com/g/g-f8huaAgZw-no-code-germany)
-- [**PM Prep Partner**](https://chat.openai.com/g/g-fxlKzxlmh-pm-prep-partner)
-- [**Builder's Guide for GPTs**](https://chat.openai.com/g/g-fj6lwB8Ox-builder-s-guide-for-gpts)
-- [**Bio Image Buddy**](https://chat.openai.com/g/g-IDTZ9Qb6I-bio-image-buddy)
-- [**The Crowdfunding GPT Advisor**](https://chat.openai.com/g/g-OqFIkQJf3-the-crowdfunding-gpt-advisor)
-- [**VitaBot: Your Health Supplement Assistant**](https://chat.openai.com/g/g-ekH6cn1Bg-vitabot-your-health-supplement-assistant)
-- [**Loyal Wise Shiba Cerberus**](https://chat.openai.com/g/g-eJWNqusey-loyal-wise-shiba-cerberus)
-- [**Jordan Peterson**](https://chat.openai.com/g/g-eHQwhjneP-jordan-peterson)
-- [**Product Coach**](https://chat.openai.com/g/g-e0xH6MMQs-product-coach)
-- [**PodGPT**](https://chat.openai.com/g/g-XGYO3mnRt-podgpt)
-- [**Flow Goat - WebflowGPT**](https://chat.openai.com/g/g-JSiyeMCbq-flow-goat-webflowgpt)
-- [**関西弁チャット**](https://chat.openai.com/g/g-efZXhRL59-guan-xi-bian-tiyatuto)
-- [**Aesop**](https://chat.openai.com/g/g-fPSPkY6Tg-aesop)
-- [**中英互译**](https://chat.openai.com/g/g-dqwsvmQ0o-zhong-ying-hu-yi)
-- [**Startup Mentor**](https://chat.openai.com/g/g-FirDmP6nD-startup-mentor)
-- [**Tutor TiddlyWiki**](https://chat.openai.com/g/g-dd2wqLjiX-tutor-tiddlywiki)
-- [**QuickGPT**](https://chat.openai.com/g/g-dTEo2dwj7-quickgpt)
-- [**ChatQuran**](https://chat.openai.com/g/g-eGQS5ja2u-chatquran)
-- [**Canada Crossing: Your Canadian Immigration Expert**](https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-expert)
-- [**ICPDAO**](https://chat.openai.com/g/g-eUV1p8Cnp-icpdao)
-- [**Fix It GPT**](https://chat.openai.com/g/g-dlXYKf3Cl-fix-it-gpt)
-- [**Expert Programmer**](https://chat.openai.com/g/g-fNkEQnxH0-expert-programmer)
-- [**Sarcasm Bot**](https://chat.openai.com/g/g-dZyv8Bpbj-sarcasm-bot)
-- [**Law of Attraction Guide**](https://chat.openai.com/g/g-6vQnET16L-law-of-attraction-guide)
-- [**Doc Cortex**](https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex)
-- [**CustomGPTS 🔥**](https://chat.openai.com/g/g-dGSHTQY69-customgpts)
-- [**Chat with Psychology of money**](https://chat.openai.com/g/g-Xo9gkFwyv-chat-with-psychology-of-money)
-- [**Future Horizon**](https://chat.openai.com/g/g-dc5XyMJJV-future-horizon)
-- [**YT Summarizer**](https://chat.openai.com/g/g-dHRRUFODc-yt-summarizer)
-- [**PokedexPro**](https://chat.openai.com/g/g-dx81yU5hg-pokedexpro)
-- [**履歴書分析エキスパート**](https://chat.openai.com/g/g-gyYnhmEVe-lu-li-shu-fen-xi-ekisupato)
-- [**Prompt Crafter**](https://chat.openai.com/g/g-hDYZvHNfa-prompt-crafter)
-- [**Rome's Decline with Gibbon**](https://chat.openai.com/g/g-eZEq9NfQ5-rome-s-decline-with-gibbon)
-- [**Story Talker jp**](https://chat.openai.com/g/g-S4BRk9RIf-story-talker-jp)
-- [**AL Entrepreneurs BILINGUAL BUDDY**](https://chat.openai.com/g/g-bu4i6NYby-al-entrepreneurs-bilingual-buddy)
-- [**Neil deGrasse Tyson**](https://chat.openai.com/g/g-cYlcB6bWX-neil-degrasse-tyson)
-- [**ELI5 - Understand anything!**](https://chat.openai.com/g/g-F7RYqxpdI-eli5-understand-anything)
-- [**逆張りGPT**](https://chat.openai.com/g/g-cCtiv4gtZ-ni-zhang-rigpt)
-- [**South African English**](https://chat.openai.com/g/g-c720qLIl3-south-african-english)
-- [**TypeScript Tutor**](https://chat.openai.com/g/g-AkcPYXyKO-typescript-tutor)
-- [**日本の理不尽な自動車学科試験**](https://chat.openai.com/g/g-b3Ljy0sZZ-ri-ben-noli-bu-jin-nazi-dong-che-xue-ke-shi-yan)
-- [**Chess Coach**](https://chat.openai.com/g/g-Xx80bxAca-chess-coach)
-- [**Klotzkette**](https://chat.openai.com/g/g-auSoH5vhJ-klotzkette)
-- [**IHP-GPT**](https://chat.openai.com/g/g-ccnwLhNOQ-ihp-gpt)
-- [**Brainy Buddy**](https://chat.openai.com/g/g-b2tKH1aNJ-brainy-buddy)
-- [**Legal Aid**](https://chat.openai.com/g/g-bASGyI6JV-legal-aid)
-- [**Project Mentor**](https://chat.openai.com/g/g-bRk52z9HO-project-mentor)
-- [**Career and Interview Preparation Agent**](https://chat.openai.com/g/g-cZZMjAUN5-career-and-interview-preparation-agent)
-- [**自分だけの人工言語をつくろう**](https://chat.openai.com/g/g-8h3yV5e2b-zi-fen-dakenoren-gong-yan-yu-wotukurou)
-- [**WP Stats**](https://chat.openai.com/g/g-d0QRh6Idy-wp-stats)
-- [**Educational Equity GPT**](https://chat.openai.com/g/g-aZB2pNUnX-educational-equity-gpt)
-- [**Kid Friendly Shop Keeper**](https://chat.openai.com/g/g-coWcAmAYr-kid-friendly-shop-keeper)
-- [**未来へのスキルアップ！リスキリング講座作成の完全ガイド**](https://chat.openai.com/g/g-IoYRrwPgN-wei-lai-henosukiruatupu-risukiringujiang-zuo-zuo-cheng-nowan-quan-gaido)
-- [**英会話練習くん**](https://chat.openai.com/g/g-bQvt5FmRX-ying-hui-hua-lian-xi-kun)
-- [**Clinical Medicine Handbook**](https://chat.openai.com/g/g-byG64QRaW-clinical-medicine-handbook)
-- [**Ma Che Musica Maestro**](https://chat.openai.com/g/g-Rx4QDrZkT-ma-che-musica-maestro)
-- [**Jewish culture**](https://chat.openai.com/g/g-cpGrMZ2Zn-jewish-culture)
-- [**The Solopreneur Coach**](https://chat.openai.com/g/g-cXaf5hECk-the-solopreneur-coach)
-- [**Tech Guru GPT**](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt)
-- [**Türkçeleştir**](https://chat.openai.com/g/g-Xixrm9KUh-turkcelestir)
-- [**Is there a GPTs for that**](https://chat.openai.com/g/g-chql20Gd9-is-there-a-gpts-for-that)
-- [**小李聊天**](https://chat.openai.com/g/g-bm5ajuICS-xiao-li-liao-tian)
-- [**Startup and Life Advisor**](https://chat.openai.com/g/g-cdjhAFG9e-startup-and-life-advisor)
-- [**Hitchhiker's Guide**](https://chat.openai.com/g/g-dBlz7Hcyw-hitchhiker-s-guide)
-- [**Gold Star Reviewer**](https://chat.openai.com/g/g-b8BD1prPd-gold-star-reviewer)
-- [**Board Game Master**](https://chat.openai.com/g/g-blUbcmbfD-board-game-master)
-- [**NumeroloGPT**](https://chat.openai.com/g/g-bcl5PFbQE-numerologpt)
-- [**Israel Insight**](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight)
-- [**F1 Analytics**](https://chat.openai.com/g/g-bYb6FPiJd-f1-analytics)
-- [**HAAS Board Concierge**](https://chat.openai.com/g/g-MIssTuE2b-haas-board-concierge)
-- [**植保专家**](https://chat.openai.com/g/g-awgFayTkv-zhi-bao-zhuan-jia)
-- [**Analyseur CV Emploi**](https://chat.openai.com/g/g-aHbbEzYQv-analyseur-cv-emploi)
-- [**Policing Pathway Assistant**](https://chat.openai.com/g/g-akz1RkKHw-policing-pathway-assistant)
-- [**Game Craft Guru**](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru)
-- [**Sen's Excel Helper**](https://chat.openai.com/g/g-b2BSBtDWm-sen-s-excel-helper)
-- [**Polyglot Pal**](https://chat.openai.com/g/g-F1nmmlvll-polyglot-pal)
-- [**Code Coach**](https://chat.openai.com/g/g-X62QPtFD3-code-coach)
-- [**Chef Guru**](https://chat.openai.com/g/g-arEttukC6-chef-guru)
-- [**JSメンタ郎**](https://chat.openai.com/g/g-aUbXfCMqn-jsmentalang)
-- [**AI Guide: The Fall of the House of Usher by Poe**](https://chat.openai.com/g/g-aobNrW8oc-ai-guide-the-fall-of-the-house-of-usher-by-poe)
-- [**AnalyzePaper**](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper)
-- [**Destiny Warmind**](https://chat.openai.com/g/g-B7YUX9V2P-destiny-warmind)
-- [**SECURIA**](https://chat.openai.com/g/g-Wv3NjjhBu-securia)
-- [**HekaGPT**](https://chat.openai.com/g/g-asbhCv9Wy-hekagpt)
-- [**Hermeneutist**](https://chat.openai.com/g/g-WIZk38LVI-hermeneutist)
-- [**Power BI Tutor**](https://chat.openai.com/g/g-WQI4OJqZG-power-bi-tutor)
-- [**Python GameMaker**](https://chat.openai.com/g/g-aX9LyzpkO-python-gamemaker)
-- [**DnDGPT**](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt)
-- [**Fact Checker**](https://chat.openai.com/g/g-G8LW5Ail3-fact-checker)
-- [**Interfaith Insight**](https://chat.openai.com/g/g-FOpmxBt0z-interfaith-insight)
-- [**Quill**](https://chat.openai.com/g/g-FqN5gHFkP-quill)
-- [**K9ti Dog Training GPT**](https://chat.openai.com/g/g-VuXzj8tum-k9ti-dog-training-gpt)
-- [**Марко Краљевић**](https://chat.openai.com/g/g-CYushjkbU-marko-kraljevitsh)
-- [**Academic Pathfinder**](https://chat.openai.com/g/g-UogOdWQij-academic-pathfinder)
-- [**Roblox Oracle**](https://chat.openai.com/g/g-UnSfk8kay-roblox-oracle)
-- [**YC Mock Interviewer**](https://chat.openai.com/g/g-UzZ3YBuSc-yc-mock-interviewer)
-- [**Chat Monsters**](https://chat.openai.com/g/g-UnX75tTho-chat-monsters)
-- [**SilverTalk**](https://chat.openai.com/g/g-V45XAFpbC-silvertalk)
-- [**学习水平检验专家**](https://chat.openai.com/g/g-TM1sZIOAa-xue-xi-shui-ping-jian-yan-zhuan-jia)
-- [**Combat Veteran Advisor**](https://chat.openai.com/g/g-4H1ReOObb-combat-veteran-advisor)
-- [**堀江貴文のChatGPT大全GPTs**](https://chat.openai.com/g/g-U8dYsOOIb-ku-jiang-gui-wen-nochatgptda-quan-gpts)
-- [**Research Mentor**](https://chat.openai.com/g/g-UywflvrRR-research-mentor)
-- [**Cyber Seeker**](https://chat.openai.com/g/g-ULaaKDrNk-cyber-seeker)
-- [**CreativeColors GPT**](https://chat.openai.com/g/g-TujF9lxEY-creativecolors-gpt)
-- [**The IPO Strategy**](https://chat.openai.com/g/g-Uc8qF4MMP-the-ipo-strategy)
-- [**DigComp Quiz Master**](https://chat.openai.com/g/g-UQJ2ufiox-digcomp-quiz-master)
-- [**Wine Whisperer**](https://chat.openai.com/g/g-U8qHm4213-wine-whisperer)
-- [**Rhyme Master**](https://chat.openai.com/g/g-TydKfE3CU-rhyme-master)
-- [**Siegen lernen**](https://chat.openai.com/g/g-TH9VwycXf-siegen-lernen)
-- [**Homework Solver Tutor**](https://chat.openai.com/g/g-AyXWjDbtd-homework-solver-tutor)
-- [**Nextainer**](https://chat.openai.com/g/g-T6NbKmWds-nextainer)
-- [**zkGPT**](https://chat.openai.com/g/g-UKY6elM2U-zkgpt)
-- [**Mentor for Manga Writer**](https://chat.openai.com/g/g-SxIzWktnh-mentor-for-manga-writer)
-- [**CTO-GPT**](https://chat.openai.com/g/g-TqoZudEWd-cto-gpt)
-- [**BuddhismGPT**](https://chat.openai.com/g/g-T1zTWjIS7-buddhismgpt)
-- [**Visionary Business Coach**](https://chat.openai.com/g/g-SOQdsiT3I-visionary-business-coach)
-- [**Athena**](https://chat.openai.com/g/g-SNLCL5HGB-athena)
-- [**Art of Living AI Companion**](https://chat.openai.com/g/g-TlU8AzZKg-art-of-living-ai-companion)
-- [**SwiftTest Guru**](https://chat.openai.com/g/g-TJIzurdkM-swifttest-guru)
-- [**有伴A-Level数学高级教师**](https://chat.openai.com/g/g-Sq0uVGkaM-you-ban-a-levelshu-xue-gao-ji-jiao-shi)
-- [**外国語の勉強**](https://chat.openai.com/g/g-1mI59U6NS-wai-guo-yu-nomian-qiang)
-- [**Da Vinci Device - Student Companion**](https://chat.openai.com/g/g-UKdlfrg01-da-vinci-device-student-companion )
-- [**Warren & Charlie**](https://chat.openai.com/g/g-U53wXYLTk-warren-charlie)
-- [**Star Guide**](https://chat.openai.com/g/g-Rp8YpGyY7-star-guide)
-- [**Debate Facilitator**](https://chat.openai.com/g/g-Td4gaBBjm-debate-facilitator)
-- [**梦境导师**](https://chat.openai.com/g/g-FwATS2iNS-meng-jing-dao-shi)
-- [**Graham**](https://chat.openai.com/g/g-A3VtkSBtz-graham)
-- [**Daily Techs**](https://chat.openai.com/g/g-TWpTyQhI7-daily-tech-read)
-- [**JPorEN Full Paper Assistant**](https://chat.openai.com/g/g-CFmuASO2o-jporen-full-paper-assistant)
-- [**AfyonGPT**](https://chat.openai.com/g/g-SXpfHGaJx-afyongpt)
-- [**EndlessIdeaGPT**](https://chat.openai.com/g/g-STr77ZzyR-endlessideagpt)
-- [**Vedanta GPT**](https://chat.openai.com/g/g-SLSLKsvCb-vedanta-gpt)
-- [**Visabox**](https://chat.openai.com/g/g-A2kQ4XeLh-visabox)
-- [**Tony**](https://chat.openai.com/g/g-RvDYgFE8w-tony)
-- [**CS Course Advisor @IIT**](https://chat.openai.com/g/g-szJWtG62x-cs-course-advisor-iit)
-- [**Ink Mastermind**](https://chat.openai.com/g/g-Gb1Kw4GjN-ink-mastermind)
-- [**Nigerian Pidgin English Translator**](https://chat.openai.com/g/g-SR04A4ECA-nigerian-pidgin-english-translator)
-- [**Mythos Scholar**](https://chat.openai.com/g/g-FnWdnOJmA-mythos-scholar)
-- [**100 Percent Human Article writer**](https://chat.openai.com/g/g-C7IQFiXH8-100-percent-human-article-writer)
-- [**Best Man Speech Buddy**](https://chat.openai.com/g/g-FfcrbYht3-best-man-speech-buddy)
-- [**Word Unscrambler**](https://chat.openai.com/g/g-S30OuZuOe-word-unscrambler)
-- [**Dream Interpreter**](https://chat.openai.com/g/g-Rngssy5PQ-dream-interpreter)
-- [**JK Coach**](https://chat.openai.com/g/g-Faxk5ZY4h-jk-coach)
-- [**Book Insight Companion**](https://chat.openai.com/g/g-omD4koyMN-book-insight-companion)
-- [**大学設置基準おじいさん**](https://chat.openai.com/g/g-SD5ksseTM-da-xue-she-zhi-ji-zhun-oziisan)
-- [**Meditation Guide**](https://chat.openai.com/g/g-ST3G9LvQd-meditation-guide)
-- [**SFMC Programmatic Languages Expert**](https://chat.openai.com/g/g-F7Yk3FqKY-sfmc-programmatic-languages-expert)
-- [**Auto Info**](https://chat.openai.com/g/g-RxjQyg93q-auto-info)
-- [**加密资产指南**](https://chat.openai.com/g/g-Rgljkeh5y-jia-mi-zi-chan-zhi-nan)
-- [**ChemistryGPT**](https://chat.openai.com/g/g-FG1laFTNc-chemistrygpt)
-- [**イージー性格診断MBTI**](https://chat.openai.com/g/g-RcOJiMUc3-izixing-ge-zhen-duan-mbti)
-- [**AI Act**](https://chat.openai.com/g/g-F0CaLinoU-ai-act)
-- [**Zooventor**](https://chat.openai.com/g/g-SNofXosVp-zooventor)
-- [**Hugo**](https://chat.openai.com/g/g-E7GrLSwnv-hugo)
-- [**兵马俑**](https://chat.openai.com/g/g-EcxN3n0Cm-bing-ma-yong)
-- [**MBTI Relationship Guide**](https://chat.openai.com/g/g-RXcSl7PAY-mbti-relationship-guide)
-- [**치아지키미AI**](https://chat.openai.com/g/g-RcA5OsfLb-ciajikimiai)
-- [**Sarcy Nanny**](https://chat.openai.com/g/g-QXNWguQx4-sarcy-nanny)
-- [**自動ブログ記事生成GPT**](https://chat.openai.com/g/g-QiwT816xQ-zi-dong-buroguji-shi-sheng-cheng-gpt)
-- [**Approachable Theologian**](https://chat.openai.com/g/g-Ps7mma9xY-approachable-theologian)
-- [**AI Juan Ignacio Segura**](https://chat.openai.com/g/g-RDlBJyCDg-ai-juan-ignacio-segura)
-- [**WLS - Podcast! (YT Channel)**](https://chat.openai.com/g/g-RZIZiGadz-wls-podcast-yt-channel)
-- [**Homework Checker**](https://chat.openai.com/g/g-PT8a97SQU-homework-checker)
-- [**モノガタリ・カンガエール壱号くん**](https://chat.openai.com/g/g-RIu3P82D8-monogatarikangaeruyi-hao-kun)
-- [**KidsStoryGPT**](https://chat.openai.com/g/g-PhwR1Gqoz-kidsstorygpt)
-- [**PrettyPolly**](https://chat.openai.com/g/g-QhS1E3AWV-prettypolly)
-- [**Savitri**](https://chat.openai.com/g/g-QQdM3RBD5-savitri)
-- [**Realty Mentor**](https://chat.openai.com/g/g-Qj5T2L1qZ)
-- [**Understood You**](https://chat.openai.com/g/g-Q1BpAMnib-understood-you)
-- [**SINU CITY**](https://chat.openai.com/g/g-Qsm7phwLJ-sinu-city)
-- [**WordPress Wizard**](https://chat.openai.com/g/g-Bqrx4gDgK-wordpress-wizard)
-- [**(自称)物知り博士**](https://chat.openai.com/g/g-PZdON38s8-zi-cheng-wu-zhi-ribo-shi)
-- [**Purpose Pilot**](https://chat.openai.com/g/g-OvlSA2boq-purpose-pilot)
-- [**Blog Expert**](https://chat.openai.com/g/g-PWizFQk8C-blog-expert)
-- [**Verkiezingsprogramma GPT**](https://chat.openai.com/g/g-P3WVwE0G8-verkiezingsprogramma-gpt)
-- [**Global Guide by StartupBoat**](https://chat.openai.com/g/g-R8Q9rWTIl-global-guide-by-startupboat)
-- [**Embedded Systems Guru**](https://chat.openai.com/g/g-QMETOVAO7-embedded-systems-guru)
-- [**Blog Mastermind**](https://chat.openai.com/g/g-Qu8QosdhE-blog-mastermind)
-- [**FREE SEO Blog Content Outline Creator & Generator**](https://chat.openai.com/g/g-R7zJ4s4jl-free-seo-blog-content-outline-creator-generator)
-- [**JAPER Technology**](https://chat.openai.com/g/g-QOykQ5YVh-japer-technology)
-- [**Biblical Scholar**](https://chat.openai.com/g/g-PcUmHhEoO-biblical-scholar)
-- [**AI GPT Business Educator**](https://chat.openai.com/g/g-Q5TIrVXtm-ai-gpt-business-educator)
-- [**The Stoic Council**](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
-- [**The Writer's Room**](https://chat.openai.com/g/g-Qb0mexonh-the-writer-s-room)
-- [**Front-end Engineering Mentor**](https://chat.openai.com/g/g-OteCE8P0J-front-end-engineering-mentor)
-- [**Bridge Membrane Expert**](https://chat.openai.com/g/g-Q9gNbmqoN-bridge-membrane-expert)
-- [**GPTs Factory**](https://chat.openai.com/g/g-Qi8aK6lKG-gpts-factory)
-- [**Tweet Insight**](https://chat.openai.com/g/g-PlJfShuWF-tweet-insight)
-- [**William Shakespeare**](https://chat.openai.com/g/g-POMOn768d-william-shakespeare)
-- [**Chronicle Lens**](https://chat.openai.com/g/g-MHHejVVw6-chronicle-lens)
-- [**Multiverse Physics Explorer**](https://chat.openai.com/g/g-QvpdD3f54-multiverse-physics-explorer)
-- [**Word Weaver**](https://chat.openai.com/g/g-C3QYxz4iA-word-weaver)
-- [**Muscle Mind**](https://chat.openai.com/g/g-CU0YY5Tip-muscle-mind)
-- [**Market Mastermind**](https://chat.openai.com/g/g-PAsxnl8ta-market-mastermind)
-- [**Home Plate Analyst**](https://chat.openai.com/g/g-PUXuDeMcO-home-plate-analyst)
-- [**Sparky the Crystal Guide**](https://chat.openai.com/g/g-PIUnLiUSC-sparky-the-crystal-guide)
-- [**Daily Korean**](https://chat.openai.com/g/g-FeEBRhl7o-daily-korean)
-- [**ExistentialGPT**](https://chat.openai.com/g/g-OrD1FZR66-existentialgpt)
-- [**Padres Primerizos**](https://chat.openai.com/g/g-PqOCOxfq7-padres-primerizos)
-- [**Trivia Mastermind**](https://chat.openai.com/g/g-P6cIwB2Lh-trivia-mastermind)
-- [**GeoGuessAI**](https://chat.openai.com/g/g-P4c8FJgq5-geoguessai)
-- [**The Car Guy**](https://chat.openai.com/g/g-Ml17xu1t8-the-car-guy)
-- [**Short 'n' Sweet**](https://chat.openai.com/g/g-OTbsXSbeA-short-n-sweet)
-- [**Fragrance AI Assistant**](https://chat.openai.com/g/g-NT2Ys0Adb-fragrance-ai-assistant)
-- [**Museum GPT**](https://chat.openai.com/g/g-ALeV0NVEC-museum-gpt)
-- [**ML quiz**](https://chat.openai.com/g/g-OkQZg8HwR-ml-quiz)
-- [**ペイシェントクレーマー対応コーチング**](https://chat.openai.com/g/g-OGSYsgbhj-peisientokuremadui-ying-kotingu)
-- [**The Scribe of Silicon**](https://chat.openai.com/g/g-oqfcWMlXf-the-scribe-of-silicon)
-- [**TarotGPT**](https://chat.openai.com/g/g-OIZhXM3W1-tarotgpt)
-- [**Chinese Tutor**](https://chat.openai.com/g/g-OFnHqEjcr-chinese-tutor)
-- [**Japanese Proofreader**](https://chat.openai.com/g/g-FVDk65p4I-japanese-proofreader)
-- [**CourseCreatorGPT**](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
-- [**Insta Prompt Creator**](https://chat.openai.com/g/g-FQHiYvY5p-insta-prompt-creator)
-- [**WordPress Oracle**](https://chat.openai.com/g/g-FEw37PtFi-wordpress-oracle)
-- [**Life Coach Lighthouse**](https://chat.openai.com/g/g-Nli2X7m0r-life-coach-lighthouse)
-- [**Dragon Fab**](https://chat.openai.com/g/g-NuIBBD3zd-dragon-fab)
-- [**Freelance Writing Mentor**](https://chat.openai.com/g/g-OXDH0MerN-freelance-writing-mentor)
-- [**洞察教授**](https://chat.openai.com/g/g-AfaIPDuAs-dong-cha-jiao-shou)
-- [**俄语指南**](https://chat.openai.com/g/g-N2aqoBFC2-e-yu-zhi-nan)
-- [**Zhou Gong**](https://chat.openai.com/g/g-MwCKlMwdK-zhou-gong)
-- [**Voyages Guide**](https://chat.openai.com/g/g-NELa76UoW-voyages-guide)
-- [**Your GVL Pathway with Australian Curriculum V9.0**](https://chat.openai.com/g/g-MvK50GuWY-your-gvl-pathway-with-australian-curriculum-v9-0)
-- [**TTGPT**](https://chat.openai.com/g/g-NQsHlA3Zk-ttgpt)
-- [**SaaS Product Scout**](https://chat.openai.com/g/g-NR1I2wB0w-saas-product-scout)
-- [**Move 78**](https://chat.openai.com/g/g-NMo7ijQrp-move-78)
-- [**日本语语法检查**](https://chat.openai.com/g/g-MPt0Rmgk0-ri-ben-yu-yu-fa-jian-cha)
-- [**PhilosoSphere**](https://chat.openai.com/g/g-X4fDrGrZM-philososphere)
-- [**Psychology Insight Assistant**](https://chat.openai.com/g/g-MQq2rJZD1-psychology-insight-assistant)
-- [**Heartbreak GPT**](https://chat.openai.com/g/g-FAqQG26UT-heartbreak-gpt)
-- [**SmartLearn Business Admin AI**](https://chat.openai.com/g/g-9swvhMjca-smartlearn-business-admin-ai)
-- [**MidJourney Prompt Generator**](https://chat.openai.com/g/g-MUJ3zHjvn-midjourney-prompt-generator)
-- [**Info Security Wizard**](https://chat.openai.com/g/g-MTZnRKo73-info-security-wizard)
-- [**Dungeon Maestro**](https://chat.openai.com/g/g-FCqDjUnHy-dungeon-maestro)
-- [**Cibia | BOT3.AI**](https://chat.openai.com/g/g-Jg3wWE8MX-cibia-bot3-ai)
-- [**Ivey's Insight**](https://chat.openai.com/g/g-sJHEuUUJk-ivey-s-insight)
-- [**myMBTI.ai**](https://chat.openai.com/g/g-EcRYSKjMd-mymbti-ai)
-- [**Ufologist**](https://chat.openai.com/g/g-ENgdO4liR-ufologist)
-- [**College Advisor**](https://chat.openai.com/g/g-MaWDeKGUp-college-advisor)
-- [**Python Pal**](https://chat.openai.com/g/g-EMpawNB7G-python-pal)
-- [**KiddieQuest**](https://chat.openai.com/g/g-kqBlO4WBP-kiddiequest)
-- [**CarotidGPT**](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt)
-- [**Exam and Certification Tutor- C.A.P.A.B.L.E. GPT**](https://chat.openai.com/g/g-ENiPCCo3I-exam-and-certification-tutor-c-a-p-a-b-l-e-gpt)
-- [**Joe Rogan: Protect our Parks**](https://chat.openai.com/g/g-MZwopyDwU-joe-rogan-protect-our-parks)
-- [**Sustainable Energy K-12 School Expert**](https://chat.openai.com/g/g-MbaESr1Vb-sustainable-energy-k-12-school-expert)
-- [**Midjourney Prompt Buddy**](https://chat.openai.com/g/g-5MnbPskQ2-midjourney-prompt-buddy)
-- [**AOE2 Companion: Strategy, stats, memes and more**](https://chat.openai.com/g/g-a4eC8PB0g-aoe2-companion-strategy-stats-memes-and-more)
-- [**SearchGPT**](https://chat.openai.com/g/g-JIi3bxGPo-searchgpt)
-- [**CEO GPT**](https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt)
-- [**Headshot Advisor**](https://chat.openai.com/g/g-Eixla5zLt-headshot-advisor)
-- [**ゴリラ**](https://chat.openai.com/g/g-LCkwWHWrd-gorira)
-- [**The Shaman**](https://chat.openai.com/g/g-Klhv0H49u-the-shaman)
-- [**Super Prompter**](https://chat.openai.com/g/g-DrQzIJn2K-super-prompter)
-- [**TransparenciaNoroeste**](https://chat.openai.com/g/g-L1zPV7pFm-transparencianoroeste)
-- [**SCLC Atlas**](https://chat.openai.com/g/g-LAmtOmu0b-sclc-atlas)
-- [**Eldritch Guide**](https://chat.openai.com/g/g-LP05RFVw0-eldritch-guide)
-- [**Salesforce Craftmanship with Robert**](https://chat.openai.com/g/g-LsO4PHxnv-salesforce-craftmanship-with-robert)
-- [**英文添削 GPT**](https://chat.openai.com/g/g-M5FMO5f70-ying-wen-tian-xue-gpt)
-- [**Football Analyst & Writer**](https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer)
-- [**K-pop Korean Tutor**](https://chat.openai.com/g/g-Lco6LZwZf-k-pop-korean-tutor)
-- [**PlatoGPT**](https://chat.openai.com/g/g-KweRoGPcL-platogpt)
-- [**Private Spoken Language Teacher**](https://chat.openai.com/g/g-LiZManzLD-private-spoken-language-teacher)
-- [**Mark Twain**](https://chat.openai.com/g/g-JEAi3wA5R-mark-twain)
-- [**GPT Tutor Wei**](https://chat.openai.com/g/g-LtWsYzL5f-gpt-tutor-wei)
-- [**Ecommerce Explorer**](https://chat.openai.com/g/g-Ls1ZBH38m-ecommerce-explorer)
-- [**MBTI Ancient**](https://chat.openai.com/g/g-L9OKdqPFN-mbti-ancient)
-- [**IBP Career Guide**](https://chat.openai.com/g/g-LU7O5IYGC-ibp-career-guide)
-- [**Dog Breed Detective**](https://chat.openai.com/g/g-K5NdGetzU-dog-breed-detective)
-- [**Newsletter Coach for Video Influencers**](https://chat.openai.com/g/g-L6yfsZTVP-newsletter-coach-for-video-influencers)
-- [**GhostWriter | StoryBeats GPT**](https://chat.openai.com/g/g-LknSV3BVD-ghostwriter-storybeats-gpt)
-- [**Super Solutions**](https://chat.openai.com/g/g-KRegNHxWj-super-solutions)
-- [**Universal Teacher (UT-10-L)**](https://chat.openai.com/g/g-Kjcwbz0HJ-universal-teacher-ut-10-l)
-- [**Go Tutor**](https://chat.openai.com/g/g-LeJT06NLP-go-tutor)
-- [**App Store Optimization Expert**](https://chat.openai.com/g/g-ChBBhLr8W-app-store-optimization-expert)
-- [**SEO**](https://chat.openai.com/g/g-KfhLWQxTI-seo)
-- [**Discover Kosovo**](https://chat.openai.com/g/g-JSk8qg9G1-discover-kosovo)
-- [**起名助手**](https://chat.openai.com/g/g-ZhohtFiOV-qi-ming-zhu-shou)
-- [**Charlie Munger Mentor**](https://chat.openai.com/g/g-EtkwLTakt-charlie-munger-mentor)
-- [**D&D Curious**](https://chat.openai.com/g/g-IwVK2XhLJ-d-d-curious)
-- [**MENTER TECH SUPPORT beta**](https://chat.openai.com/g/g-L2Avf6ydn-menter-tech-support-beta)
-- [**Botanical Wizard**](https://chat.openai.com/g/g-KhVnamPBD-botanical-wizard)
-- [**中文学术助手**](https://chat.openai.com/g/g-KSZGI3uo3-zhong-wen-xue-zhu-zhu-shou)
-- [**DeepInterviewer**](https://chat.openai.com/g/g-JOsFjwila-deepinterviewer)
-- [**SERPAPI GPT**](https://chat.openai.com/g/g-JXBOPbIHF-serpapi-gpt)
-- [**DSA Tutor Pro**](https://chat.openai.com/g/g-IYAkufpe9-dsa-tutor-pro)
-- [**NYCCharterHelper**](https://chat.openai.com/g/g-IzuVZYlVZ-nyccharterhelper)
-- [**Strict Cat Expert**](https://chat.openai.com/g/g-KVXcNorlk-strict-cat-expert)
-- [**Deep-thinking prompt creator**](https://chat.openai.com/g/g-JkzQIcNbI-deep-thinking-prompt-creator)
-- [**Your English Friend!!**](https://chat.openai.com/g/g-IR8iTwx5u-your-english-friend)
-- [**Undiscovered America TV Explorer's Guide**](https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide)
-- [**Captain French Fun**](https://chat.openai.com/g/g-COvBqGw4a-captain-french-fun)
-- [**Mrs.娇情(E)**](https://chat.openai.com/g/g-K5cD8YFl2-mrs-jiao-qing-e)
-- [**dalAI Lama - Neuroscience Meditation**](https://chat.openai.com/g/g-JlVkpCA1Y-dalai-lama-neuroscience-meditation)
-- [**MedEdMENTOR**](https://chat.openai.com/g/g-JS1hSZarK-mededmentor)
-- [**Chat Von Ai**](https://chat.openai.com/g/g-IblXsfAqF-chat-von-ai)
-- [**Wisdom of Omaha**](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha)
-- [**Tarot Master**](https://chat.openai.com/g/g-JkvTbmU7y-tarot-master)
-- [**Dungeons & Dragons**](https://chat.openai.com/g/g-K0PNF0Fb3-dungeons-dragons)
-- [**SICP Sage**](https://chat.openai.com/g/g-Jd8EjuxN9-sicp-sage)
-- [**ジオグラ先生**](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng)
-- [**Unit Test Wizard**](https://chat.openai.com/g/g-s3GXm5a6G-unit-test-wizard)
-- [**Docker 4.0**](https://chat.openai.com/g/g-IbnI1P0BO-docker-4-0)
-- [**Kemi - Research & Creative Assistant**](https://chat.openai.com/g/g-lGTdz2QJS-kemi-research-creative-assistant)
-- [**Pirate GPT Treasure Hunt Generator**](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator)
-- [**Oxford Editor AI**](https://chat.openai.com/g/g-ICGg2oOYe-oxford-editor-ai)
-- [**Student GPT**](https://chat.openai.com/g/g-7riKsfl3R-student-gpt)
-- [**Storybook Creator**](https://chat.openai.com/g/g-IqTKmXlXD-storybook-creator)
-- [**Mock Interviewer**](https://chat.openai.com/g/g-IpfI0zRn1-mock-interviewer)
-- [**EducateAi**](https://chat.openai.com/g/g-Ibk9E0Mi7-educateai)
-- [**Reality Quest**](https://chat.openai.com/g/g-IJqkDnbNd-reality-quest)
-- [**Halte Harcèlement**](https://chat.openai.com/g/g-EEntnNXvu-halte-harcelement)
-- [**Write an article from a website URL**](https://chat.openai.com/g/g-EWfCIJwd2-write-an-article-from-a-website-url)
-- [**The SF texts gamizer**](https://chat.openai.com/g/g-IZst9maGN-the-sf-texts-gamizer)
-- [**Bob Buzzard 2.0**](https://chat.openai.com/g/g-DOVc9phwC-bob-buzzard-2-0)
-- [**📷 拍照讲解艺术品 🎨 Museum Guide**](https://chat.openai.com/g/g-IviXEd5ui-pai-zhao-jiang-jie-yi-zhu-pin-museum-guide)
-- [**私立GPT北高校**](https://chat.openai.com/g/g-DpcxPZOvY-si-li-gptbei-gao-xiao)
-- [**Immigration GPT**](https://chat.openai.com/g/g-7Ob4GzeLN-immigration-gpt)
-- [**Mind Map Generator**](https://chat.openai.com/g/g-E7CimCigW-mind-map-generator)
-- [**Dubstep Dynamo**](https://chat.openai.com/g/g-E3CHpB4R2-dubstep-dynamo)
-- [**有機JAS bot**](https://chat.openai.com/g/g-DugdZXoop-you-ji-jas-bot)
-- [**Logical Fallacies Detector**](https://chat.openai.com/g/g-DRYiCCv5d-logical-fallacies-detector)
-- [**GPT for GOT**](https://chat.openai.com/g/g-Dtc0xmZoZ-gpt-for-got)
-- [**NED Bot**](https://chat.openai.com/g/g-DR2ew313g-ned-bot)
-- [**BookclubGPT**](https://chat.openai.com/g/g-IBmJJs9c3-bookclubgpt)
-- [**Abbey**](https://chat.openai.com/g/g-DkLmU5AUW-abbey)
-- [**Practical Journaling Guide**](https://chat.openai.com/g/g-XmLT1WY09-practical-journaling-guide)
-- [**Swirly - ウミガメのスープ**](https://chat.openai.com/g/g-D1n18pN8a-swirly-umigamenosupu)
-- [**SolGPT**](https://chat.openai.com/g/g-By9SXpMXf-solgpt)
-- [**Signal Maestro**](https://chat.openai.com/g/g-BugikbXKW-signal-maestro)
-- [**1 Ancient Scribe**](https://chat.openai.com/g/g-BuGvsYdm3-1-ancient-scribe)
-- [**Web Quality Analyst**](https://chat.openai.com/g/g-CE8weAzU3-web-quality-analyst)
-- [**AGI Pulse Monitor**](https://chat.openai.com/g/g-CmcPT2Xf9-agi-pulse-monitor)
-- [**Code with Nix and Eve**](https://chat.openai.com/g/g-saTEGjWrm-code-with-nix-and-eve)
-- [**Bedtime Story Maker**](https://chat.openai.com/g/g-BzG1PgnHf-bedtime-story-maker)
-- [**Interview Coach**](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach)
-- [**PROMPT for Brands GPT**](https://chat.openai.com/g/g-CFqfrZtZe-prompt-for-brands-gpt)
-- [**Lexicon**](https://chat.openai.com/g/g-BMIkQwTKY-lexicon)
-- [**Sarah Andromeda**](https://chat.openai.com/g/g-CNEwzvH14-sarah-andromeda)
-- [**Duden Writer's Aid**](https://chat.openai.com/g/g-lkBWzv4tX-duden-writer-s-aid)
-- [**DOVU Carbon Advisor**](https://chat.openai.com/g/g-C4MPOflIs-dovu-carbon-advisor)
-- [**Crypto Credits**](https://chat.openai.com/g/g-BEPwsYoPf-crypto-credits)
-- [**Career Coach GPT**](https://chat.openai.com/g/g-BHsZZWJlz-career-coach-gpt)
-- [**Startups Mentor**](https://chat.openai.com/g/g-sbwxNoyGt-startups-mentor)
-- [**Fact Writing Finder 日本語版**](https://chat.openai.com/g/g-vyyGJ3NPU-fact-writing-finder-ri-ben-yu-ban)
-- [**【QuizGPT】早押しクイズ生成ちゃん**](https://chat.openai.com/g/g-qprE6V9PU-quizgpt-zao-ya-sikuizusheng-cheng-tiyan)
-- [**HowToSolveIt**](https://chat.openai.com/g/g-AvspSgGUq-howtosolveit)
-- [**AI Debate Synthesizer OPED**](https://chat.openai.com/g/g-BF2EtQbLG-ai-debate-synthesizer-oped)
-- [**Advocatus Diaboli**](https://chat.openai.com/g/g-B04TTULVT-advocatus-diaboli)
-- [**TherapistGPT**](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt)
-- [**YouTube Quiz Creator**](https://chat.openai.com/g/g-BQQgalseW-youtube-quiz-creator)
-- [**AI Historian**](https://chat.openai.com/g/g-vlyY4pSY2-ai-historian)
-- [**Lean Larry**](https://chat.openai.com/g/g-BTK4aezYp-lean-larry)
-- [**The Healthcare Innovator**](https://chat.openai.com/g/g-vtscYSw55-the-healthcare-innovator)
-- [**Chess Mentor**](https://chat.openai.com/g/g-9BmPeWs3H-chess-mentor)
-- [**ResMe**](https://chat.openai.com/g/g-A3aM3BBU6-resme)
-- [**GA4 BigQuery Assistant**](https://chat.openai.com/g/g-onUSKc223-ga4-bigquery-assistant)
-- [**DoctorGPT**](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt)
-- [**Image2LaTeX Explainer**](https://chat.openai.com/g/g-AZptTUxjU-image2latex-explainer)
-- [**Adventure Scribe**](https://chat.openai.com/g/g-AQMbs3zh5-adventure-scribe)
-- [**AI Act Assistant**](https://chat.openai.com/g/g-91JGa2SZ1-ai-act-assistant)
-- [**Morality Guide**](https://chat.openai.com/g/g-90QGXUBDI-morality-guide)
-- [**Language Parent**](https://chat.openai.com/g/g-Jm7Y1vjtT-language-parent)
-- [**仕事に活かせる強み発見GPT（日本語）**](https://chat.openai.com/g/g-A7ILEqc6h-shi-shi-nihuo-kaseruqiang-mifa-jian-gpt-ri-ben-yu)
-- [**SerenAIty Coach**](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach)
-- [**Pieter Omtzigt**](https://chat.openai.com/g/g-8dBg3gmAR-pieter-omtzigt)
-- [**RubyGPT**](https://chat.openai.com/g/g-ASMq03VdH-rubygpt)
-- [**Filtir**](https://chat.openai.com/g/g-UFPwU3HxI-filtir)
-- [**The PMO Pro**](https://chat.openai.com/g/g-9eBBn6lcn-the-pmo-pro)
-- [**Clear Guru**](https://chat.openai.com/g/g-1XkeMPNbl-clear-guru)
-- [**WWJD**](https://chat.openai.com/g/g-7jGStEKYB-wwjd)
-- [**Numi**](https://chat.openai.com/g/g-A6VlWyUDW-numi)
-- [**Developer Doc Search**](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search)
-- [**NGSS Aligner**](https://chat.openai.com/g/g-9iOnUNXBb-ngss-aligner)
-- [**Linux Shell Tuteur**](https://chat.openai.com/g/g-9SZeKQGnd-linux-shell-tuteur)
-- [**椎名真晝**](https://chat.openai.com/g/g-8kf3ZA9fu-zhui-ming-zhen-zhou)
-- [**UX Mentor**](https://chat.openai.com/g/g-7tRvlCIHg-ux-mentor)
-- [**Kuran GPT**](https://chat.openai.com/g/g-AwSYPLKI8-kuran-gpt)
-- [**E&E Supplier Management Consultant**](https://chat.openai.com/g/g-9Hkkbs4aa-e-e-supplier-management-consultant)
-- [**药剂师**](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi)
-- [**青云 - 冥想大师**](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi)
-- [**GLOBAL WAR INFO**](https://chat.openai.com/g/g-Hlx0l4nhl-global-war-info)
-- [**VEG3**](https://chat.openai.com/g/g-9MoGfucEe-veg3)
-- [**Midjourney助手**](https://chat.openai.com/g/g-osUvHyL1K-midjourneyzhu-shou)
-- [**受験に勝つ！本日の「勝ち飯」献立bot**](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot)
-- [**Crypto Insighter**](https://chat.openai.com/g/g-8DapNiJCQ-crypto-insighter)
-- [**FiuGPT**](https://chat.openai.com/g/g-8uOLFUhwJ-fiugpt)
-- [**Angular: Tu amigo experto desarrollador**](https://chat.openai.com/g/g-8MmTpsZg5-angular-tu-amigo-experto-desarrollador)
-- [**Deep Research**](https://chat.openai.com/g/g-7Y9o17rl2-deep-research)
-- [**AI Daily Digest**](https://chat.openai.com/g/g-8mQrrXavL-ai-daily-digest)
-- [**Ayuda WPO**](https://chat.openai.com/g/g-7x7yMhwVx-ayuda-wpo)
-- [**楽々注文GPT**](https://chat.openai.com/g/g-7SgVRWKGy-le-zhu-wen-gpt)
-- [**AIT-ShopifyStrategyX**](https://chat.openai.com/g/g-7K4KTwJG6-ait-shopifystrategyx)
-- [**Sclépios I.A : Analyse d'ordonnance**](https://chat.openai.com/g/g-7IqFpoRgH-sclepios-i-a-analyse-d-ordonnance)
-- [**Daily Zen Guide**](https://chat.openai.com/g/g-7lMdSVPRZ-daily-zen-guide)
-- [**Teaching Strategies Expert**](https://chat.openai.com/g/g-6WD8GXTtB-teaching-strategies-expert)
-- [**情绪管理教练**](https://chat.openai.com/g/g-6HOzjgUPf-qing-xu-guan-li-jiao-lian)
-- [**Old Bob**](https://chat.openai.com/g/g-6HGxgtwi4-old-bob)
-- [**Gray's Anatomy**](https://chat.openai.com/g/g-a81M2W1av-gray-s-anatomy)
-- [**TwitterのヒントGPTs**](https://chat.openai.com/g/g-7cSgNZXIJ-twitternohintogpts)
-- [**Ask GP9T**](https://chat.openai.com/g/g-65Gi7uW6J-ask-gp9t)
-- [**Culinary Compass**](https://chat.openai.com/g/g-5md3c2ZKA-culinary-compass)
-- [**Tautology Bot**](https://chat.openai.com/g/g-7DXNRAPMX-tautology-bot)
-- [**FormicGPT**](https://chat.openai.com/g/g-7CZPFpUrf-formicgpt)
-- [**MnemoMind**](https://chat.openai.com/g/g-6KgPZM9jC-mnemomind)
-- [**Language Bridge**](https://chat.openai.com/g/g-7WbHTbyKo-language-bridge)
-- [**CiteMaster**](https://chat.openai.com/g/g-7DoRLNVWE-citemaster)
-- [**Chef Creativo**](https://chat.openai.com/g/g-6cIJO7Xq0-chef-creativo)
-- [**Evan**](https://chat.openai.com/g/g-7UbDsD4Ls-evan)
-- [**French Teacher Copilot**](https://chat.openai.com/g/g-7JtWBTd15-french-teacher-copilot)
-- [**AWS Exam Guide**](https://chat.openai.com/g/g-6Zj8cihbN-aws-exam-guide)
-- [**オオカミ博士**](https://chat.openai.com/g/g-6Hl0Mnz5D-ookamibo-shi)
-- [**Sparkle: The Storybook Maker**](https://chat.openai.com/g/g-lWbrikz5t-sparkle-the-storybook-maker)
-- [**Compose Weaver**](https://chat.openai.com/g/g-66lvQanJg-compose-weaver)
-- [**DarkLens**](https://chat.openai.com/g/g-5Ig0fSk70-darklens)
-- [**Gaia: AI Architect**](https://chat.openai.com/g/g-4XablZWpO-gaia-ai-architect)
-- [**Inner Guide**](https://chat.openai.com/g/g-4R6eb72xw-inner-guide)
-- [**Wisdom of Naval**](https://chat.openai.com/g/g-5sJSFRREj-wisdom-of-naval)
-- [**RustChat**](https://chat.openai.com/g/g-59mWdU25F-rustchat)
-- [**AI FedGov Expert**](https://chat.openai.com/g/g-6FILh4tzi-ai-fedgov-expert)
-- [**Traktor Guru**](https://chat.openai.com/g/g-6ULxgWdLr-traktor-guru)
-- [**DalaiGPT**](https://chat.openai.com/g/g-5u4zzagAP-dalaigpt)
-- [**Ravencoin GPT**](https://chat.openai.com/g/g-4Pd6PCaU8-ravencoin-gpt)
-- [**Greenlight Energy Guide**](https://chat.openai.com/g/g-HwX0d96tm-greenlight-energy-guide)
-- [**Next.js getting Started**](https://chat.openai.com/g/g-4zmrIhAxv-next-js-getting-started)
-- [**Indian English**](https://chat.openai.com/g/g-4iXs1iDvj-indian-english)
-- [**TARS**](https://chat.openai.com/g/g-4ectX12Hj-tars)
-- [**Bitcoin Educator**](https://chat.openai.com/g/g-5i5xt14cn-bitcoin-educator)
-- [**Chess Mate**](https://chat.openai.com/g/g-u3Ve4M8ZA-chess-mate)
-- [**Global News Analyzer**](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer)
-- [**AIT-InsideOut**](https://chat.openai.com/g/g-5FMVjqbrF-ait-insideout)
-- [**disclosuregpt**](https://chat.openai.com/g/g-4mfObcph1-disclosuregpt)
-- [**GDPR Compliance**](https://chat.openai.com/g/g-4YUPC9PXP-gdpr-compliance)
-- [**绘梦师**](https://chat.openai.com/g/g-5sdN1S0gM-hui-meng-shi)
-- [**Instructors in Global Economics and Finance**](https://chat.openai.com/g/g-5i2GDJmnW-instructors-in-global-economics-and-finance)
-- [**Ableton Guide**](https://chat.openai.com/g/g-mLCnLPQPV-ableton-guide)
-- [**Book Finder**](https://chat.openai.com/g/g-oAOn0ATrX-book-finder)
-- [**Market Mover**](https://chat.openai.com/g/g-5Df11tZU4-market-mover)
-- [**DailyPaperGPT**](https://chat.openai.com/g/g-mWoVC03t8-dailypapergpt)
-- [**我心永恒的GPT**](https://chat.openai.com/g/g-5NUsd9Rz3-wo-xin-yong-heng-de-gpt)
-- [**Editby | SEO and social media writer**](https://chat.openai.com/g/g-I3NZ9DoPL-editby-seo-and-social-media-writer)
-- [**OmniGod**](https://chat.openai.com/g/g-5IsFxqYq0-omnigod)
-- [**「アフィリエイト統計」　市場規模・未来予測・稼いでる人の割合**](https://chat.openai.com/g/g-50osF7x3k-ahuirieitotong-ji-shi-chang-gui-mo-wei-lai-yu-ce-jia-ideruren-noge-he)
-- [**ドローン先生**](https://chat.openai.com/g/g-4lSUKxJPd-doronxian-sheng)
-- [**Overwatch Coach**](https://chat.openai.com/g/g-4vOO4ZWL8-overwatch-coach)
-- [**Website Analyzer**](https://chat.openai.com/g/g-53G4uH3XE-website-analyzer)
-- [**Dante's Voice**](https://chat.openai.com/g/g-4Gki4X90G-dante-s-voice)
-- [**批判性思考专家**](https://chat.openai.com/g/g-wRpoKaQWp-pi-pan-xing-si-kao-zhuan-jia)
-- [**Memoir Muse**](https://chat.openai.com/g/g-508VNPNiu-memoir-muse)
-- [**LitRPG Larry**](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry)
-- [**Cape Historian**](https://chat.openai.com/g/g-4GBU7aVv8-cape-historian)
-- [**PyGameMaster**](https://chat.openai.com/g/g-4dfQXlFfI-pygamemaster)
-- [**Ins Ads Master**](https://chat.openai.com/g/g-izuqX5d8q-ins-ads-master)
-- [**Free IPTV Smarters Expert Howto's**](https://chat.openai.com/g/g-4juQJ5zPA-free-iptv-smarters-expert-howto-s)
-- [**Biblical Counseling Assistant**](https://chat.openai.com/g/g-4Y0b4p63W-biblical-counseling-assistant)
-- [**Python Professor**](https://chat.openai.com/g/g-4tEdNfy45-python-professor)
-- [**Monk GPT**](https://chat.openai.com/g/g-mXaQ8oEQQ-monk-gpt)
-- [**Kodeations (YT Channel)**](https://chat.openai.com/g/g-wJsuzrSBe-kodeations-yt-channel)
-- [**ParalegalGPT**](https://chat.openai.com/g/g-w16m3BOjL-paralegalgpt)
-- [**Debate Maker**](https://chat.openai.com/g/g-suv6nqapH-debate-maker)
-- [**Counterpoint**](https://chat.openai.com/g/g-il4FtwmMV-counterpoint)
-- [**人生目標達成**](https://chat.openai.com/g/g-4Tcm2yOJD-ren-sheng-mu-biao-da-cheng)
-- [**Semiotic Engine**](https://chat.openai.com/g/g-413R7Lc48-semiotic-engine)
-- [**YouTube Video Summarizer**](https://chat.openai.com/g/g-xYRkZh2Ba-youtube-video-summarizer)
-- [**Age Sage**](https://chat.openai.com/g/g-3ofhyPBR2-age-sage)
-- [**Sclépios I.A : Réviser QCM**](https://chat.openai.com/g/g-qhLYI2TWo-sclepios-i-a-reviser-qcm)
-- [**Code Wizard Taiwan**](https://chat.openai.com/g/g-yys79Wsel-code-wizard-taiwan)
-- [**Music Maestro**](https://chat.openai.com/g/g-wxZTVRtMO-music-maestro)
-- [**The Stoic Emperor**](https://chat.openai.com/g/g-tcXat2dEj-the-stoic-emperor)
-- [**AI Entrepreneurs RUBIK GURU**](https://chat.openai.com/g/g-rGKw7Fk2D-ai-entrepreneurs-rubik-guru)
-- [**ぷゆ**](https://chat.openai.com/g/g-r8o9e6CCF-puyu)
-- [**Venture Mind**](https://chat.openai.com/g/g-3cr7xpySd-venture-mind)
-- [**The Little Mermaid  |  Text Adventure Game**](https://chat.openai.com/g/g-2ppqUhNLA-the-little-mermaid-text-adventure-game)
-- [**Career Sherpa**](https://chat.openai.com/g/g-3eOPVN0DE-career-sherpa)
-- [**どうぶつクイズ**](https://chat.openai.com/g/g-2xq5YTNra-doubutukuizu)
-- [**Birthday Personality Test**](https://chat.openai.com/g/g-2k3rq4Umj-birthday-personality-test)
-- [**無痛分娩をおしえて松田先生**](https://chat.openai.com/g/g-2JekBN3CH-wu-tong-fen-mian-woosietesong-tian-xian-sheng)
-- [**文学术语词典专家**](https://chat.openai.com/g/g-0vsAOki9T-wen-xue-zhu-yu-ci-dian-zhuan-jia)
-- [**そぽぽそ 23**](https://chat.openai.com/g/g-371DWgBHg-sopoposo-23)
-- [**Toki Pona Translator**](https://chat.openai.com/g/g-2ZbDranyg-toki-pona-translator)
-- [**Grok Genius**](https://chat.openai.com/g/g-3D497JVJg-grok-genius)
-- [**思惟海龜湯**](https://chat.openai.com/g/g-3N6hg9c40-si-wei-hai-gui-tang)
-- [**Dima, Russian Tutor**](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-tutor)
-- [**FlowGPT**](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt)
-- [**AI 快速学习助手**](https://chat.openai.com/g/g-2hZzgyTfA-ai-kuai-su-xue-xi-zhu-shou)
-- [**Factiverse**](https://chat.openai.com/g/g-2bczJcORT-factiverse)
-- [**pgpt**](https://chat.openai.com/g/g-2xE1WgW1r-pgpt)
-- [**Cranberry Analyst**](https://chat.openai.com/g/g-2CUXQ7cZB-cranberry-analyst)
-- [**Mind Muse**](https://chat.openai.com/g/g-3KnsNfGrQ-mind-muse)
-- [**Immunology Mentor**](https://chat.openai.com/g/g-2ZrrNVdbK-immunology-mentor)
-- [**Hacker News Guru**](https://chat.openai.com/g/g-2HNp4UjwN-hacker-news-guru)
-- [**AskMemo**](https://chat.openai.com/g/g-1tUeqFBow-askmemo)
-- [**Drunken Aloha**](https://chat.openai.com/g/g-3G5ZPojqZ-drunken-aloha)
-- [**ポジハマくん(*^○^*)**](https://chat.openai.com/g/g-20sP7FDrT-pozihamakun)
-- [**CuratorGPT**](https://chat.openai.com/g/g-3Df4zQppr-curatorgpt)
-- [**Virtual Charlie Munger**](https://chat.openai.com/g/g-1Wa3O0s3R-virtual-charlie-munger)
-- [**ボケるAI**](https://chat.openai.com/g/g-1R9lqQZmo-bokeruai)
-- [**Hero's Journey Guide**](https://chat.openai.com/g/g-29WnWnydd-hero-s-journey-guide)
-- [**Kung Fu Sage**](https://chat.openai.com/g/g-1S0X1Ljd5-kung-fu-sage)
-- [**Step Back Wisdom Seeker**](https://chat.openai.com/g/g-16CzTWufr-step-back-wisdom-seeker)
-- [**Academic Writing Assistant**](https://chat.openai.com/g/g-2HsdTSQrA-academic-writing-assistant)
-- [**MyWise(Rabbi)**](https://chat.openai.com/g/g-1vDDU9i96-mywise-rabbi)
-- [**Memorized**](https://chat.openai.com/g/g-0dcPPWbiY-memorized)
-- [**AIGCLINK**](https://chat.openai.com/g/g-2D3neYyIa-aigclink)
-- [**Rubric Generator**](https://chat.openai.com/g/g-1hj9Vx2W0-rubric-generator)
-- [**Legal Eagle**](https://chat.openai.com/g/g-1mwgltAoG-legal-eagle)
-- [**Music Production Teacher**](https://chat.openai.com/g/g-1n50mUSj2-music-production-teacher)
-- [**Sclépios I.A : Cas Complexe**](https://chat.openai.com/g/g-Hq83kAslh-sclepios-i-a-cas-complexe)
-- [**Ezra**](https://chat.openai.com/g/g-1ZMaE5qvU-ezra)
-- [**PokédexGPT**](https://chat.openai.com/g/g-SDG9T9p1v-pokedexgpt)
-- [**浦和レッズの過去の試合結果を教えます。**](https://chat.openai.com/g/g-0LpLH3C3d-pu-he-retuzunoguo-qu-noshi-he-jie-guo-wojiao-emasu)
-- [**Future Alloy Oracle**](https://chat.openai.com/g/g-a0zjoRT4P-future-alloy-oracle)
-- [**哇咔咔猜单词**](https://chat.openai.com/g/g-LgN6euQNE-wa-ka-ka-cai-dan-ci)
-- [**Summary Sage**](https://chat.openai.com/g/g-0ksAxVTX5-summary-sage)
-- [**Tappstr Article Writer**](https://chat.openai.com/g/g-0X0Brg7Q7-tappstr-article-writer)
-- [**Progressive House激推しBOT**](https://chat.openai.com/g/g-0d3bxW6SN-progressive-houseji-tui-sibot)
-- [**ELI5 Research Paper**](https://chat.openai.com/g/g-zxdAiEXmn-eli5-research-paper)
-- [**孫子 - saysay.ai**](https://chat.openai.com/g/g-oZHVkxaXb-sun-zi-saysay-ai)
-- [**Religio's Oracle**](https://chat.openai.com/g/g-1Ks1GupZt-religio-s-oracle)
-- [**Esoteric**](https://chat.openai.com/g/g-11vp1Qu6L-esoteric)
-- [**CS50 Tutor**](https://chat.openai.com/g/g-1KKnxZsif-cs50-tutor)
-- [**Ghostwriter GPT**](https://chat.openai.com/g/g-17jUoLCFS-ghostwriter-gpt)
-- [**Crazy Creative Business**](https://chat.openai.com/g/g-3DzXiGIyo-crazy-creative-business)
-- [**GodGPT**](https://chat.openai.com/g/g-vVwORm1oW-godgpt)
-- [**AMC1 Prep Assistant**](https://chat.openai.com/g/g-11ZC4acYF-amc1-prep-assistant)
-- [**تعلم اللغة الإنجليزية**](https://chat.openai.com/g/g-ZkRUVvKog-t-lm-llg-lnjlyzy)
-- [**记忆大师**](https://chat.openai.com/g/g-YuWFbtHmh-ji-yi-da-shi)
-- [**China-汉语GPT**](https://chat.openai.com/g/g-11CWHH1z5-china-yi-yu-gpt)
-- [**Product Chops**](https://chat.openai.com/g/g-HyqVJISwt-product-chops)
-- [**Slides Artist**](https://chat.openai.com/g/g-oOo3ohNg2-slides-artist)
-- [**Open  AI API Documentation Assistant**](https://chat.openai.com/g/g-E7O8R0GJv-open-ai-api-documentation-assistant)
-- [**Turkish Cuisine Chef**](https://chat.openai.com/g/g-nBgy4jyf2-turkish-cuisine-chef)
-- [**Drift Scholar**](https://chat.openai.com/g/g-Hr8m4OAAU-drift-scholar)
-- [**The Ikigai Market Selector**](https://chat.openai.com/g/g-og92X1LQH-the-ikigai-market-selector)
-- [**Understanding Islam**](https://chat.openai.com/g/g-knicfgmQY-understanding-islam)
-- [**Mulligan Mentor**](https://chat.openai.com/g/g-E3G1sUsru-mulligan-mentor)
-- [**クワガタ先生**](https://chat.openai.com/g/g-ZmOUd96o6-kuwagataxian-sheng)
-- [**Ancient Artifacts**](https://chat.openai.com/g/g-ksk4xV06k-ancient-artifacts)
-- [**ENTOPIAN**](https://chat.openai.com/g/g-ZvfVeqoqn-entopian)
-- [**Crooked Recipes**](https://chat.openai.com/g/g-DzHSEVFZS-crooked-recipes)
-- [**JusGPT**](https://chat.openai.com/g/g-3OjiTotw2-jusgpt)
-- [**Sosyal Hizmet AI**](https://chat.openai.com/g/g-oeg9rtFNf-sosyal-hizmet-ai)
-- [**禅の導き**](https://chat.openai.com/g/g-ZyjXW0Og7-shan-nodao-ki)
-- [**Eris**](https://chat.openai.com/g/g-1KzgYVkTb-eris)
-- [**Better Sheets**](https://chat.openai.com/g/g-Ht84oYrx6-better-sheets)
-- [**Bezos Wisdom**](https://chat.openai.com/g/g-kkI64OhuF-bezos-wisdom)
-- [**Plotmaster**](https://chat.openai.com/g/g-zcv1ZDi8b-plotmaster)
-- [**Krishnamurti**](https://chat.openai.com/g/g-iGA5to7AI-krishnamurti)
-- [**ETA Explorer**](https://chat.openai.com/g/g-ZrBipXCBf-eta-explorer)
-- [**Snoop Summary**](https://chat.openai.com/g/g-i3Gc6Q4iU-snoop-summary)
-- [**フライヤー検索&レコメンドさん**](https://chat.openai.com/g/g-zzia3D7Ss-huraiyajian-suo-rekomendosan)
-- [**SEO Optimized Blog Writer and Analyzer**](https://chat.openai.com/g/g-qa5VGNSEr-seo-optimized-blog-writer-and-analyzer)
-- [**Jazz With Me**](https://chat.openai.com/g/g-a1mMYKY94-jazz-with-me)
-- [**金牌面试官**](https://chat.openai.com/g/g-aF2UO9AbF-jin-pai-mian-shi-guan)
-- [**IELTS Writing Rater and Advisor**](https://chat.openai.com/g/g-rLGM4XSaZ-ielts-writing-rater-and-advisor)
-- [**ShardeumGPT**](https://chat.openai.com/g/g-W5nqudJQx-shardeumgpt)
-- [**Mathematica Assist**](https://chat.openai.com/g/g-a23PCI8Xv-mathematica-assist)
-- [**Startup Sage**](https://chat.openai.com/g/g-HVWmg1rWU-startup-sage)
-- [**Product Manager Expert**](https://chat.openai.com/g/g-ZtNSsR0Vh-product-manager-expert)
-- [**Professor Wordsmith**](https://chat.openai.com/g/g-a4kDe69h6-professor-wordsmith)
-- [**Global Trade Expert**](https://chat.openai.com/g/g-ZAJVW6rgM-global-trade-expert)
-- [**Kenyan Kitchen Guide**](https://chat.openai.com/g/g-I0d25Eiaw-kenyan-kitchen-guide)
-- [**Dar ul-Funun**](https://chat.openai.com/g/g-I6PeNtw8d-dar-ul-funun)
-- [**Marine gpt**](https://chat.openai.com/g/g-HkDFkYnUJ-marine-gpt)
-- [**Bakalníček**](https://chat.openai.com/g/g-3GVa88coO-bakalnicek)
-- [**日本災害予防ガイド(Japan Disaster Prevention Guide)**](https://chat.openai.com/g/g-Hfpuj5uFp-ri-ben-zai-hai-yu-fang-gaido-japan-disaster-prevention-guide)
-- [**GA4 Commander**](https://chat.openai.com/g/g-I5DyGxWvg-ga4-commander)
-- [**NEXT.js Copilot**](https://chat.openai.com/g/g-ZkZBR1TcU-next-js-copilot)
-- [**✏️All-around Writer (Professional Version)**](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
-- [**LGPTM**](https://chat.openai.com/g/g-3g55HFiW9-lgptm)
-- [**Rose's Story Robot**](https://chat.openai.com/g/g-GlBBNRj3I-rose-s-story-robot)
-- [**英会話スピーキングテスト**](https://chat.openai.com/g/g-lhEAZGTQe-ying-hui-hua-supikingutesuto)
-- [**Professor GPT**](https://chat.openai.com/g/g-CASQaynPQ-professor-gpt)
-- [**Interview Concierge**](https://chat.openai.com/g/g-rpIyCacEr-interview-concierge)
-- [**Objectivism Coach**](https://chat.openai.com/g/g-uX7rmKUEZ-objectivism-coach)
-- [**Quizzy 3 LOLs 1 Fact**](https://chat.openai.com/g/g-HwEVaewqe-quizzy-3-lols-1-fact)
-- [**王兴**](https://chat.openai.com/g/g-uw5fuuOBJ-wang-xing)
-- [**Data Interviewer**](https://chat.openai.com/g/g-yBm9RCgNS-data-interviewer)
-- [**创业灵感家**](https://chat.openai.com/g/g-oHVaRBJWx-chuang-ye-ling-gan-jia)
-- [**Time Traveler**](https://chat.openai.com/g/g-jwwZ5rjp5-time-traveler)
-- [**chatENTP**](https://chat.openai.com/g/g-ZtueRg7Sk-chatentp)
-- [**中华小厨神**](https://chat.openai.com/g/g-VrmZ5hQPP-zhong-hua-xiao-chu-shen)
-- [**Ritualizer**](https://chat.openai.com/g/g-Cw9yMYOty-ritualizer)
-- [**Dalio Principles**](https://chat.openai.com/g/g-oYSEX8tJd-dalio-principles)
-- [**InterviewGPT**](https://chat.openai.com/g/g-CvicHrspP-interviewgpt)
-- [**LinuxGPT**](https://chat.openai.com/g/g-ntiiDLMFn-linuxgpt)
-- [**Tale Teller**](https://chat.openai.com/g/g-yXGp0Xz5v-tale-teller)
-- [**BitcoinGPT**](https://chat.openai.com/g/g-qwDi5jvxw-bitcoingpt)
-- [**Ask Cris about FileMaker**](https://chat.openai.com/g/g-shlRiwBIP-ask-cris-about-filemaker)
-- [**Chat Asociación Cultural Somos Felices**](https://chat.openai.com/g/g-sJkic7aco-chat-asociacion-cultural-somos-felices)
-- [**RolePlayHumanWritingGPT**](https://chat.openai.com/g/g-aAj3JAOmx-roleplayhumanwritinggpt)
-- [**Immersive Tech Solution Assistant**](https://chat.openai.com/g/g-spR5luMyz-immersive-tech-solution-assistant)
-- [**おしえて！ミダス王！**](https://chat.openai.com/g/g-steTj1V6u-osiete-midasuwang)
-- [**Copyright Companion**](https://chat.openai.com/g/g-yCpX4nus8-copyright-companion)
-- [**Graph Wizard**](https://chat.openai.com/g/g-ZzPFAQ3ei-graph-wizard)
-- [**Bard's Banquet**](https://chat.openai.com/g/g-oUBWQzT2y-bard-s-banquet)
-- [**SpamGuard Tutor**](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor)
-- [**TUTANKAMON**](https://chat.openai.com/g/g-xPTJOZT9M-tutankamon)
-- [**#GPT-Q**](https://chat.openai.com/g/g-3T4bQH8yG-gpt-q)
-- [**Digitale Grundbildung**](https://chat.openai.com/g/g-HtmH5KRnr-digitale-grundbildung)
-- [**TeenygradGPT**](https://chat.openai.com/g/g-oHrYj8nO3-teenygradgpt)
-- [**All In Nutritionist**](https://chat.openai.com/g/g-BrXgcVfpA-all-in-nutritionist)
-- [**BryteGPT**](https://chat.openai.com/g/g-oIzSTS1Z5-brytegpt)
-- [**zeppos**](https://chat.openai.com/g/g-I27F0Hs4t-zeppos)
-- [**Kids City Guide**](https://chat.openai.com/g/g-ZUEPYpMe0-kids-city-guide)
-- [**MedGPT**](https://chat.openai.com/g/g-jxm5ljJmo-medgpt)
-- [**MuskGPT**](https://chat.openai.com/g/g-oMTSqwU4R-muskgpt)
-- [**Learning designer GPT**](https://chat.openai.com/g/g-ZPn85vj30-learning-designer-gpt)
-- [**LaTeX Math Assistant**](https://chat.openai.com/g/g-tLG1bOxRI-latex-math-assistant)
-- [**Boagworld UX Consultant**](https://chat.openai.com/g/g-YX6hhmNEr-boagworld-ux-consultant)
-- [**Photo Mentor**](https://chat.openai.com/g/g-CkxYW0Ata-photo-mentor)
-- [**Bilingual Bridge Bodhi**](https://chat.openai.com/g/g-CRqQHRmKU-bilingual-bridge-bodhi)
-- [**ツンデレちゃん**](https://chat.openai.com/g/g-WFNO63maM-tunderetiyan)
-- [**ahaGPT**](https://chat.openai.com/g/g-xxQKCooXT-ahagpt)
-- [**Cover Letter Composer by Hadad Karsa**](https://chat.openai.com/g/g-HNjImVe2T-cover-letter-composer-by-hadad-karsa)
-- [**AI英文法チェック**](https://chat.openai.com/g/g-xoSf85Qle-aiying-wen-fa-tietuku)
-- [**OP-A**](https://chat.openai.com/g/g-BwmyVZiL1-op-a)
-- [**Decode Your Pet**](https://chat.openai.com/g/g-HiUgbEsla-decode-your-pet)
-- [**Politik GPT**](https://chat.openai.com/g/g-VtfowveIE-politik-gpt)
-- [**Figgo**](https://chat.openai.com/g/g-vTackjj1F-figgo)
-- [**Patent Insight**](https://chat.openai.com/g/g-jG5LB7Rye-patent-insight)
-- [**Game Guide Genius**](https://chat.openai.com/g/g-y8ExxKtwj-game-guide-genius)
-- [**USFS Wood Handbook Bot**](https://chat.openai.com/g/g-zhl7vxMey-usfs-wood-handbook-bot)
-- [**Eli /UX Research**](https://chat.openai.com/g/g-ZDLzKkTPF-eli-ux-research)
-- [**ThirukkuralGPT**](https://chat.openai.com/g/g-rJuX3ChK4-thirukkuralgpt)
-- [**Lovetopia Visionary Guide**](https://chat.openai.com/g/g-zwK95Vtnx-lovetopia-visionary-guide)
-- [**Resume Rocket**](https://chat.openai.com/g/g-qmwbyFQq0-resume-rocket)
-- [**Dusty Porter (YT Channel)**](https://chat.openai.com/g/g-HkepszI7z-dusty-porter-yt-channel)
-- [**3D Print Master**](https://chat.openai.com/g/g-W0lCzVAZH-3d-print-master)
-- [**Interview Ace**](https://chat.openai.com/g/g-qMYgDRXZU-interview-ace)
-- [**Library of Babel**](https://chat.openai.com/g/g-GWvDRnSuT-library-of-babel)
-- [**Math Whiz**](https://chat.openai.com/g/g-tr0Btw6Kp-math-whiz)
-- [**PerfectCV**](https://chat.openai.com/g/g-CitwvF94s-perfectcv)
-- [**Giacomo Casanova**](https://chat.openai.com/g/g-VSU1IHfOc-giacomo-casanova)
-- [**AdventureGPT**](https://chat.openai.com/g/g-k15VUdp9X-adventuregpt)
-- [**A Club Penguin Mystery**](https://chat.openai.com/g/g-zgcLC7mmJ-a-club-penguin-mystery)
-- [**Echoes of Time**](https://chat.openai.com/g/g-iQg6fc6QJ-echoes-of-time)
-- [**Dreamweaver**](https://chat.openai.com/g/g-rUxP5ZfZc-dreamweaver)
-- [**Fix Anything**](https://chat.openai.com/g/g-tttDyZm4Q-fix-anything)
-- [**中国語講師GPT**](https://chat.openai.com/g/g-H8hQ3osGh-zhong-guo-yu-jiang-shi-gpt)
-- [**Between the Lines**](https://chat.openai.com/g/g-zcoEfjipr-between-the-lines)
-- [**Tech Mentor**](https://chat.openai.com/g/g-nvJPnimV3-tech-mentor)
-- [**Rick C-137**](https://chat.openai.com/g/g-uZXV7kQgW-rick-c-137)
-- [**RizalGPT**](https://chat.openai.com/g/g-Cq8y6iyFi-rizalgpt)
-- [**Bed Bug Beacon**](https://chat.openai.com/g/g-tTNy7vznq-bed-bug-beacon)
-- [**Kanji Name Match**](https://chat.openai.com/g/g-ksZPtRij2-kanji-name-match)
-- [**STEPN Whitepaper GPT**](https://chat.openai.com/g/g-HGovPD0lb-stepn-whitepaper-gpt)
-- [**Santas Christmas Helper**](https://chat.openai.com/g/g-CcLnmXFXV-santas-christmas-helper)
-- [**Universo eXeLearning**](https://chat.openai.com/g/g-I4AGLGOYq-universo-exelearning)
-- [**JungMind**](https://chat.openai.com/g/g-oJgi0RyID-jungmind)
-- [**Figure out what you can do with GPTs**](https://chat.openai.com/g/g-zfJDcC1Wk-figure-out-what-you-can-do-with-gpts)
-- [**Creative Storm**](https://chat.openai.com/g/g-o7hSM4Kqc-creative-storm)
-- [**Sweet Dreams Helper**](https://chat.openai.com/g/g-HIf4tpOHx-sweet-dreams-helper)
-- [**SermonPrep.ai**](https://chat.openai.com/g/g-zuGmaIq04-sermonprep-ai)
-- [**Swift Chords**](https://chat.openai.com/g/g-WxePdEmIy-swift-chords)
-- [**ChatParrot**](https://chat.openai.com/g/g-oGCllNAwU-chatparrot)
-- [**Green Thumb**](https://chat.openai.com/g/g-ZeN3j2gJh-green-thumb)
-- [**AIT-StrategiX**](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix)
-- [**Go Getter**](https://chat.openai.com/g/g-ZksYdrS4a-go-getter)
-- [**DX講師 あさひ**](https://chat.openai.com/g/g-CpfFExSdF-dxjiang-shi-asahi)
-- [**Lindwurm**](https://chat.openai.com/g/g-ZVDBEb2X5-lindwurm)
-- [**IT CV Writing Assistant**](https://chat.openai.com/g/g-oZRcY3vqU-it-cv-writing-assistant)
-- [**GPTranslator**](https://chat.openai.com/g/g-rM8ck1BZa-gptranslator)
-- [**Wizdom**](https://chat.openai.com/g/g-ZPn4FEm2u-wizdom)
-- [**Design Thinking Wizard**](https://chat.openai.com/g/g-oZuetbj5N-design-thinking-wizard)
-- [**Spanish Lingua Tutor**](https://chat.openai.com/g/g-y9irrrbV0-spanish-lingua-tutor)
-- [**王阳明**](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming)
-- [**AI Startup GPT**](https://chat.openai.com/g/g-xpyvgyNgp-ai-startup-gpt)
-- [**Morpheus Bot**](https://chat.openai.com/g/g-BVZ7nj1Ra-morpheus-bot)
-- [**OneWord GPT**](https://chat.openai.com/g/g-jmQEIJeFk-oneword-gpt)
-- [**Case Aide**](https://chat.openai.com/g/g-HifAWoYNB-case-aide)
-- [**文体実験**](https://chat.openai.com/g/g-vD7k2Ws8N-wen-ti-shi-yan)
-- [**Mentor de Éxito Personal**](https://chat.openai.com/g/g-HT2OgjCZx-mentor-de-exito-personal)
-- [**Indie Consultant Specialization GPT**](https://chat.openai.com/g/g-Ct18XsNSI-indie-consultant-specialization-gpt)
-- [**NPC Maker**](https://chat.openai.com/g/g-AsuigQYkp-npc-maker)
-- [**Nutrition Pro**](https://chat.openai.com/g/g-oQPmx4jzn-nutrition-pro)
-- [**Satoshi Nakamoto**](https://chat.openai.com/g/g-ZcmRNYWk9-satoshi-nakamoto)
-- [**Homework vs. The Prompting Parents**](https://chat.openai.com/g/g-DC8N3Rjge-homework-vs-the-prompting-parents)
-- [**SimpliTeach - 言語化の鬼**](https://chat.openai.com/g/g-zlBQNbzn3-simpliteach-yan-yu-hua-nogui)
-- [**Academic Paper Specialist**](https://chat.openai.com/g/g-jryw3pfsH-academic-paper-specialist)
-- [**基督山恩仇录**](https://chat.openai.com/g/g-VxNqpSkLc-ji-du-shan-en-chou-lu)
-- [**SNS 台本生成BOT**](https://chat.openai.com/g/g-I4HpWbIwm-sns-tai-ben-sheng-cheng-bot)
-- [**Tom Thomson Mystery Expert**](https://chat.openai.com/g/g-xcowvkCpC-tom-thomson-mystery-expert)
-- [**Tech Companion**](https://chat.openai.com/g/g-wxQqRtTKP-tech-companion)
-- [**BIBI新手村**](https://chat.openai.com/g/g-a5CBxb7IH-bibixin-shou-cun)
-- [**Resume Reviewer**](https://chat.openai.com/g/g-CJhQDbyAp-resume-reviewer)
-- [**思考问题六角度**](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du)
-- [**The Pythoneer**](https://chat.openai.com/g/g-zoGt7gx1e-the-pythoneer)
-- [**Dinoth**](https://chat.openai.com/g/g-Hx3XOI0Dd-dinoth)
-- [**Barnabus**](https://chat.openai.com/g/g-iNko5UypI-barnabus)
-- [**Bubble Cert Prep**](https://chat.openai.com/g/g-zjDMweDze-bubble-cert-prep)
-- [**Programaci-on/off**](https://chat.openai.com/g/g-WTcolsvYZ-programaci-on-off)
-- [**Mini Mythmaker**](https://chat.openai.com/g/g-o8UGspcy1-mini-mythmaker)
-- [**StartupSkinGPT**](https://chat.openai.com/g/g-C10oRjSVQ-startupskingpt)
-- [**Interview Ace面试高手**](https://chat.openai.com/g/g-CmBumbh6n-interview-acemian-shi-gao-shou)
-- [**Prompt Master**](https://chat.openai.com/g/g-I7vaNgMIz-prompt-master)
-- [**LambdaWiz**](https://chat.openai.com/g/g-yBVv6gfyB-lambdawiz)
-- [**The Dragon's Philosophy**](https://chat.openai.com/g/g-Ac2KrfYY1-the-dragon-s-philosophy)
-- [**人事労務先生**](https://chat.openai.com/g/g-nY801gYlT-ren-shi-lao-wu-xian-sheng)
-- [**Krog**](https://chat.openai.com/g/g-tvo4YNhaA-krog)
-- [**Titanium Copilot**](https://chat.openai.com/g/g-ZNwI6zmBi-titanium-copilot)
-- [**Marcus Aurelius**](https://chat.openai.com/g/g-tS6lwO2BR-marcus-aurelius)
-- [**恋爱军师**](https://chat.openai.com/g/g-oirCwTbnq-lian-ai-jun-shi)
-- [**Idea CatalAIzer**](https://chat.openai.com/g/g-znSWxWWqy-idea-catalaizer)
-- [**SEO Advisor**](https://chat.openai.com/g/g-o9i2P6vnt-seo-advisor)
-- [**Bhagavad Gita**](https://chat.openai.com/g/g-zlgvlGIRv-bhagavad-gita)
-- [**イエス・ノークイズ**](https://chat.openai.com/g/g-mHhlGATeo-iesunokuizu)
-- [**Blurb Meister**](https://chat.openai.com/g/g-oWWzON9GL-blurb-meister)
-- [**Grant Guru**](https://chat.openai.com/g/g-BbaAVPMjF-grant-guru)
-- [**Voynich Assistant**](https://chat.openai.com/g/g-ZWjClM6w1-voynich-assistant)
-- [**PactoBOT**](https://chat.openai.com/g/g-VY5uzFhAk-pactobot)
-- [**NYU Admissions**](https://chat.openai.com/g/g-xyyQwWUjH-nyu-admissions)
-- [**Edda**](https://chat.openai.com/g/g-WWJVCQZgC-edda)
-- [**添削くん**](https://chat.openai.com/g/g-CnjdB3iiN-tian-xue-kun)
-- [**Code Professor**](https://chat.openai.com/g/g-yg0G9mbSd-code-professor)
-- [**FruitExpert**](https://chat.openai.com/g/g-ZCJuXZOt4-fruitexpert)
-- [**Pharma Regulatory Guide**](https://chat.openai.com/g/g-xba4jZpFP-pharma-regulatory-guide)
-- [**Tripy the Psychedelic Companion**](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion)
-- [**PG's Insights**](https://chat.openai.com/g/g-ZJ23Mq6a3-pg-s-insights)
-- [**Oral Path GPT**](https://chat.openai.com/g/g-xKp0DTBHv-oral-path-gpt)
-- [**MORPH**](https://chat.openai.com/g/g-zJiAt1zqU-morph)
-- [**天才マーケター**](https://chat.openai.com/g/g-zBKIMixnr-tian-cai-maketa)
-- [**Terraform Cloud Engineer**](https://chat.openai.com/g/g-Z1MNFH9LH-terraform-cloud-engineer)
-- [**Argentina Balotage 2023**](https://chat.openai.com/g/g-Dh146q2WZ-argentina-balotage-2023)
-- [**Stat Senegal GPT**](https://chat.openai.com/g/g-nfkjUEfUT-stat-senegal-gpt)
-- [**Rube-inator**](https://chat.openai.com/g/g-ArpAjlRlh-rube-inator)
-- [**SchäffnerGPT**](https://chat.openai.com/g/g-GJX524kDd-schaffnergpt)
-- [**高中語文助教**](https://chat.openai.com/g/g-jn6Cmofno-gao-zhong-yu-wen-zhu-jiao)
-- [**The LearningSEO.io SEO Teacher**](https://chat.openai.com/g/g-2zVLoduRa-the-learningseo-io-seo-teacher)
-- [**Idea Stock Exchange**](https://chat.openai.com/g/g-zEqCtLTMb-idea-stock-exchange)
-- [**Korea-한국어GPT**](https://chat.openai.com/g/g-zMqdFiSRH-korea-hangugeogpt)
-- [**Brain Analyser**](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser)
-- [**Flashcard Assistant**](https://chat.openai.com/g/g-mXscB74xP-flashcard-assistant)
-- [**Prepper AI**](https://chat.openai.com/g/g-CgBFPx9JA-prepper-ai)
-- [**Product & Interaction Design Guru**](https://chat.openai.com/g/g-CjXwjcWBz-product-interaction-design-guru)
-- [**Dreamy Tales**](https://chat.openai.com/g/g-j3tjdPGz3-dreamy-tales)
-- [**Turkmen Bilen**](https://chat.openai.com/g/g-YucRZ1Xnb-turkmen-bilen)
-- [**Space Consultant**](https://chat.openai.com/g/g-mjxYaLN3f-space-consultant)
-- [**GPT Gateway**](https://chat.openai.com/g/g-CJ1fWSgC8-gpt-gateway)
-- [**TalktoData**](https://chat.openai.com/g/g-mZLaNjro0-talktodata)
-- [**いずれ海賊王になる男**](https://chat.openai.com/g/g-yuzemOsHe-izurehai-zei-wang-ninarunan)
-- [**诸葛亮**](https://chat.openai.com/g/g-UaQig8xxa-zhu-ge-liang)
-- [**Network State Navigator**](https://chat.openai.com/g/g-W38DNLuGD-network-state-navigator)
-- [**Gospel Training Dummy**](https://chat.openai.com/g/g-ZPxsP8cp6-gospel-training-dummy)
-- [**Akademická kočička**](https://chat.openai.com/g/g-yQw1KxcRp-akademicka-kocicka)
-- [**統計学習助手**](https://chat.openai.com/g/g-zMSF7hx9L-tong-ji-xue-xi-zhu-shou)
-- [**Guess the country !**](https://chat.openai.com/g/g-nGaMLNjm8-guess-the-country)
-- [**KnowledgeBase Finder**](https://chat.openai.com/g/g-oJ2hdekgH-knowledgebase-finder)
-- [**GRIOT GPT: of Wakanda by @donalleniii**](https://chat.openai.com/g/g-BJt7HMHBj-griot-gpt-of-wakanda-by-donalleniii)
-- [**RCH**](https://chat.openai.com/g/g-tkyxjjcsX-rch)
-- [**Creative Writer**](https://chat.openai.com/g/g-j3q6BOgEW-creative-writer)
-- [**グリッドフォーミングインバータ**](https://chat.openai.com/g/g-nDgDzB173-guritudohuominguinbata)
-- [**Dr. Graph**](https://chat.openai.com/g/g-mczzE4a0f-dr-graph)
-- [**Math Practices Guide - SMPs**](https://chat.openai.com/g/g-yXL98Xor1-math-practices-guide-smps)
-- [**Wwise Instructor**](https://chat.openai.com/g/g-H40UEDbos-wwise-instructor)
-- [**Turrero**](https://chat.openai.com/g/g-nam1wBUJm-turrero)
-- [**CentralBankerQuest**](https://chat.openai.com/g/g-eyRFluJc5-centralbankerquest)
-- [**SQL Ninja**](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja)
-- [**Visionary Describer**](https://chat.openai.com/g/g-o9DgctZ1R-visionary-describer)
-- [**Jobs GPT**](https://chat.openai.com/g/g-GlY7bxKHI-jobs-gpt)
-- [**LLM Research Storm**](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm)
-- [**Cosmic Contact**](https://chat.openai.com/g/g-mqEgXkQ1W-cosmic-contact)
-- [**New Parent**](https://chat.openai.com/g/g-mKgNJTzJF-new-parent)
-- [**ChaChat英語✕他教科コラボプランナー**](https://chat.openai.com/g/g-nV47ac3B0-chachatying-yu-ta-jiao-ke-korabopuranna)
-- [**Little Dreamers' Tales**](https://chat.openai.com/g/g-zKJglRFFV-little-dreamers-tales)
-- [**Community Coach**](https://chat.openai.com/g/g-oPYFMW141-community-coach)
-- [**Benjamin Franklin**](https://chat.openai.com/g/g-FiNKivNh2-benjamin-franklin)
-- [**Top Dog Breed Article writer**](https://chat.openai.com/g/g-nUQ8YtmeS-top-dog-breed-article-writer)
-- [**My Paul Graham**](https://chat.openai.com/g/g-nCf83y8kH-my-paul-graham)
-- [**Hype Code Wizard**](https://chat.openai.com/g/g-xyKIXurPb-hype-code-wizard)
-- [**Qtech | FPS**](https://chat.openai.com/g/g-GcHJH3VJP-qtech-fps)
-- [**Sommelier**](https://chat.openai.com/g/g-nFC1Zf38W-sommelier)
-- [**Alex Hormozi's $100M GPT**](https://chat.openai.com/g/g-CQP1O0ToK-alex-hormozi-s-100m-gpt)
-- [**Brújula Legal: Despidos Laborales en España**](https://chat.openai.com/g/g-nyC98dGxf-brujula-legal-despidos-laborales-en-espana)
-- [**Bible GTP**](https://chat.openai.com/g/g-Yfb5KQeO0-bible-gtp)
-- [**MediBot**](https://chat.openai.com/g/g-xeccMlOx9-medibot)
-- [**Prompt Prodigy**](https://chat.openai.com/g/g-yKVsCEBbL-prompt-prodigy)
-- [**Crypto Mentor**](https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor)
-- [**Windows Wizard**](https://chat.openai.com/g/g-Y3xCEWB64-windows-wizard)
-- [**Jackanory**](https://chat.openai.com/g/g-kKHeZfqSA-jackanory)
-- [**The Youprint Method**](https://chat.openai.com/g/g-z97N0CJzw-the-youprint-method)
-- [**职业规划大师**](https://chat.openai.com/g/g-DWDTTsvf4-zhi-ye-gui-hua-da-shi)
-- [**Life Organization**](https://chat.openai.com/g/g-FcZQPV8Jd-life-organization)
-- [**Trivia Bot**](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
-- [**Narrative Builder**](https://chat.openai.com/g/g-HK6wTbzML-narrative-builder)
-- [**Manga Master**](https://chat.openai.com/g/g-GYMhdwaZd-manga-master)
-- [**ORBITA-2 trial**](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial)
-- [**铲铲GPT**](https://chat.openai.com/g/g-DSOueuwJG-chan-chan-gpt)
-- [**Speaker Design Guru**](https://chat.openai.com/g/g-CLP2DodWv-speaker-design-guru)
-- [**MentalModelsGPT**](https://chat.openai.com/g/g-CbIDBNV2i-mentalmodelsgpt)
-- [**Talk To YouTube Video**](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video)
-- [**Dog Breed Encyclopedia GPT**](https://chat.openai.com/g/g-zJEJsxqd7-dog-breed-encyclopedia-gpt)
-- [**Machinist's Mate**](https://chat.openai.com/g/g-zjM04HIQk-machinist-s-mate)
-- [**Canada Law**](https://chat.openai.com/g/g-GvEkhlV6s-canada-law)
-- [**Far-Future Visionary**](https://chat.openai.com/g/g-ztF8Ad1OL-far-future-visionary)
-- [**ゆっくりMovieMaker4サポート**](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto)
-- [**Six-Y**](https://chat.openai.com/g/g-nMt5YfTeF-six-y)
-- [**Advanced Robotics Analyst**](https://chat.openai.com/g/g-xdPrB8HQs-advanced-robotics-analyst)
-- [**Pursu Girlfriendsssssss**](https://chat.openai.com/g/g-Bm5xNf4n3-pursu-girlfriendsssssss)
-- [**GPT Ideas**](https://chat.openai.com/g/g-x2ms3pMDv-gpt-ideas)
-- [**英語の先生**](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng)
-- [**Terms Guide**](https://chat.openai.com/g/g-nYpdBWz6h-terms-guide)
-- [**Lesson Planner Pro**](https://chat.openai.com/g/g-ZCVKAghF6-lesson-planner-pro)
-- [**Think like Steve Jobs**](https://chat.openai.com/g/g-vqGcgrEEv-think-like-steve-jobs)
-- [**圣经智慧**](https://chat.openai.com/g/g-vRHITLwiC-sheng-jing-zhi-hui)
-- [**Olympics Expert**](https://chat.openai.com/g/g-jRnmZml4X-olympics-expert)
-- [**Transcript Polisher**](https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher)
-- [**MBTI角色扮演 Impersonator**](https://chat.openai.com/g/g-mRM22sygt-mbtijiao-se-ban-yan-impersonator)
-- [**呼吸内科专家**](https://chat.openai.com/g/g-iyuAUCyH9-hu-xi-nei-ke-zhuan-jia)
-- [**Science Studios AI Storyteller**](https://chat.openai.com/g/g-zJZI6mvxr-science-studios-ai-storyteller)
-- [**Parlache desde Medallo**](https://chat.openai.com/g/g-jpjoBYqlW-parlache-desde-medallo)
-- [**God Loves You**](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you)
-- [**Remôto**](https://chat.openai.com/g/g-xnhRezQIO-remoto)
-- [**KurzweilGPT**](https://chat.openai.com/g/g-y4ZV2jiuW-kurzweilgpt)
-- [**Destination: Hired**](https://chat.openai.com/g/g-C8BVmKjfo-destination-hired)
-- [**Multiverse Career Guide**](https://chat.openai.com/g/g-E3YCEgVAJ-multiverse-career-guide)
-- [**Fluent Mandarin Translator**](https://chat.openai.com/g/g-zQNr29OQJ-fluent-mandarin-translator)
-- [**Anki Flashcards Maker**](https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-maker)
-- [**NEEDY x Women News**](https://chat.openai.com/g/g-DvGRjSfcK-needy-x-women-news)
-- [**Learn about Responsible Innovation**](https://chat.openai.com/g/g-GamZatqVU-learn-about-responsible-innovation)
-- [**midjourney提示词中文分析**](https://chat.openai.com/g/g-tK30z73UA-midjourneyti-shi-ci-zhong-wen-fen-xi)
-- [**Animal Expert**](https://chat.openai.com/g/g-YnnqhDn3T-animal-expert)
-- [**Blender Buddy**](https://chat.openai.com/g/g-fXcjWY0nd-blender-buddy)
-- [**React GPT**](https://chat.openai.com/g/g-loOLX12QO-react-gpt)
-- [**Graham-PT**](https://chat.openai.com/g/g-xCJIb8MWx-graham-pt)
-- [**Refugees resettlement support**](https://chat.openai.com/g/g-YY4EMkB4J-refugees-resettlement-support)
-- [**TS なぞなぞ道場**](https://chat.openai.com/g/g-tSUDQHgEO-ts-nazonazodao-chang)
-- [**Compatibility Guide**](https://chat.openai.com/g/g-GustC552H-compatibility-guide)
-- [**Ai佛祖**](https://chat.openai.com/g/g-mAslRzFMo-aifo-zu)
-- [**Course Companion**](https://chat.openai.com/g/g-VzENzIMFP-course-companion)
-- [**面试出题大师**](https://chat.openai.com/g/g-kO6RyqGzN-mian-shi-chu-ti-da-shi)
-- [**Judgement Yaad**](https://chat.openai.com/g/g-nUBDkAWH3-judgement-yaad)
-- [**IG Expert**](https://chat.openai.com/g/g-VIGshPZt5-ig-expert)
-- [**金庸武侠 (Wuxia World)**](https://chat.openai.com/g/g-ZItjDndUV-jin-yong-wu-xia-wuxia-world)
-- [**El profe GPT**](https://chat.openai.com/g/g-wcV5ck3SQ-el-profe-gpt)
-- [**Chinese Trainer**](https://chat.openai.com/g/g-naAz0Uxl2-chinese-trainer)
-- [**Asimov's Cat**](https://chat.openai.com/g/g-GpHUAcub6-asimov-s-cat)
-- [**InsightMentor**](https://chat.openai.com/g/g-zhboNgmQa-insightmentor)
-- [**Python Quiz**](https://chat.openai.com/g/g-my7iZTaB2-python-quiz)
-- [**Idea Spark**](https://chat.openai.com/g/g-CYdjsVrEK-idea-spark)
-- [**BJJ Super Coach**](https://chat.openai.com/g/g-ihQ49OK29-bjj-super-coach)
-- [**EVIL**](https://chat.openai.com/g/g-numLgojPu-evil)
-- [**Coding Teacher**](https://chat.openai.com/g/g-xSlmDpwpi-coding-teacher)
-- [**AI算数先生**](https://chat.openai.com/g/g-iWdlWCnYf-aisuan-shu-xian-sheng)
-- [**Homework Help 📚**](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help)
-- [**Permaculture GPT**](https://chat.openai.com/g/g-y8BV6typ7-permaculture-gpt)
-- [**李云龙带你打职场！**](https://chat.openai.com/g/g-wkYVDFQOq-li-yun-long-dai-ni-da-zhi-chang)
-- [**Fact or Fiction**](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction)
-- [**Jokester Joe**](https://chat.openai.com/g/g-VYCfXkthq-jokester-joe)
-- [**Watson and Crick**](https://chat.openai.com/g/g-k0PdSLCxE-watson-and-crick)
-- [**EIKEN Grade 1 Speech Coach**](https://chat.openai.com/g/g-CbOKWWWe9-eiken-grade-1-speech-coach)
-- [**AIG Consultant**](https://chat.openai.com/g/g-xkez9YXqJ-aig-consultant)
-- [**Java Test Guru**](https://chat.openai.com/g/g-yZShQKKb2-java-test-guru)
-- [**Perspective Explorer**](https://chat.openai.com/g/g-ZRKSuCXgV-perspective-explorer)
-- [**Space Explorer**](https://chat.openai.com/g/g-une8gslOk-space-explorer)
-- [**Sales Guru GPT**](https://chat.openai.com/g/g-n0O91O1VI-sales-guru-gpt)
-- [**Senpai's Code Mentor**](https://chat.openai.com/g/g-zbtV6uBYw-senpai-s-code-mentor)
-- [**Cat Facts 🐾**](https://chat.openai.com/g/g-HPXSOn29R-cat-facts)
-- [**GPythonT**](https://chat.openai.com/g/g-wXjfmdrJZ-gpythont)
-- [**Listas de cotejo - ProfesTV**](https://chat.openai.com/g/g-zyxSC89q3-listas-de-cotejo-profestv)
-- [**AWS Cloud Guide with Doc Reference**](https://chat.openai.com/g/g-iqfHz04Vf-aws-cloud-guide-with-doc-reference)
-- [**Quest Journaling App**](https://chat.openai.com/g/g-jLUEOKbHJ-quest-journaling-app)
-- [**Zoomer FinFluencer**](https://chat.openai.com/g/g-VCaNPEgNe-zoomer-finfluencer)
-- [**OpenAPI Builder**](https://chat.openai.com/g/g-ZHFKmHM1R-openapi-builder)
-- [**Capstone Idea Generator**](https://chat.openai.com/g/g-nbQdKIcXq-capstone-idea-generator)
-- [**翻訳くん**](https://chat.openai.com/g/g-nzWzEmsx5-fan-yi-kun)
-- [**Mad Libs Storyteller**](https://chat.openai.com/g/g-HFptg7Bdy-mad-libs-storyteller)
-- [**King of social media**](https://chat.openai.com/g/g-vB8EKXbaA-king-of-social-media)
-- [**Interview Ally**](https://chat.openai.com/g/g-nQMUa16uq-interview-ally)
-- [**Shutter Buddy**](https://chat.openai.com/g/g-vle3tbVlM-shutter-buddy)
-- [**LexiGPT**](https://chat.openai.com/g/g-jbMqpQEdH-lexigpt)
-- [**BrandGPT**](https://chat.openai.com/g/g-jzTA38Z4t-brandgpt)
-- [**JavaScript Novice Guide**](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide)
-- [**Climate Navigator 🌍📚**](https://chat.openai.com/g/g-CnNmBLgva-climate-navigator)
-- [**Lab Doctor**](https://chat.openai.com/g/g-zCpjZCGTM-lab-doctor)
-- [**CodeCompanion**](https://chat.openai.com/g/g-wiB5V2d18-codecompanion)
-- [**Tabnews Writer**](https://chat.openai.com/g/g-mImH8E34w-tabnews-writer)
-- [**TSLA Knowledge**](https://chat.openai.com/g/g-jKeujI1kx-tsla-knowledge)
-- [**Arxiv Explorer**](https://chat.openai.com/g/g-lvltTutYR-arxiv-explorer)
-- [**Cornell Tech MBA Counselor**](https://chat.openai.com/g/g-v7D68uV50-cornell-tech-mba-counselor)
-- [**The Art of War**](https://chat.openai.com/g/g-vfTG8Royt-the-art-of-war)
-- [**Long Club**](https://chat.openai.com/g/g-jMSTdhUF9-long-club)
-- [**LingoGPT**](https://chat.openai.com/g/g-uSgxqm7pB-lingogpt)
-- [**ニュース要約ボット**](https://chat.openai.com/g/g-mSJ80CqUk-niyusuyao-yue-botuto)
-- [**BookScout**](https://chat.openai.com/g/g-ZL6vofLdB-bookscout)
-- [**Dog Images**](https://chat.openai.com/g/g-nEaveIsrL-dog-images)
-- [**SkyWatch Co-Pilot**](https://chat.openai.com/g/g-mLQeaKSJN-skywatch-co-pilot)
-- [**BoardGameMaster**](https://chat.openai.com/g/g-GcuQ3Z1PB-boardgamemaster)
-- [**Cyber Champion**](https://chat.openai.com/g/g-lm80TboJq-cyber-champion)
-- [**Hakanai Nasu Jiyō**](https://chat.openai.com/g/g-xsp9CRP66-hakanai-nasu-jiyo)
-- [**Inspiro Coach**](https://chat.openai.com/g/g-vLi1g6O2e-inspiro-coach)
-- [**Chófer Pork 🐷🚘**](https://chat.openai.com/g/g-C0j7P1Vem-chofer-pork)
-- [**ZigZig**](https://chat.openai.com/g/g-lvDWINxGc-zigzig)
-- [**Java & Spring Mentor**](https://chat.openai.com/g/g-zIfisGF9c-java-spring-mentor)
-- [**Tsuduri**](https://chat.openai.com/g/g-7nYGszLtS-tsuduri)
-- [**トンデモ専門歯医者AI**](https://chat.openai.com/g/g-RsgO2Pqbq-tondemozhuan-men-chi-yi-zhe-ai)
-- [**文章总结助手**](https://chat.openai.com/g/g-uuUftccRa-wen-zhang-zong-jie-zhu-shou)
-- [**Understanding Cryptocurrencies**](https://chat.openai.com/g/g-ur7fkdVMz-understanding-cryptocurrencies)
-- [**Data Hermit - AI Legal Assistant**](https://chat.openai.com/g/g-6v4MGKMl3-data-hermit-ai-legal-assistant)
-- [**jpegGPT**](https://chat.openai.com/g/g-H2G5KUeGL-jpeggpt)
-- [**Idea and Product Evolution Analysis**](https://chat.openai.com/g/g-88mzaQCNF-idea-and-product-evolution-analysis)
-- [**Daily Affirmations GPT**](https://chat.openai.com/g/g-CGl60nbTB-daily-affirmations-gpt)
-- [**Culinary Butcher Buddy**](https://chat.openai.com/g/g-BssZcJM26-culinary-butcher-buddy)
-- [**SEO Tutor**](https://chat.openai.com/g/g-urV6QQhLv-seo-tutor)
-- [**Steve Jobs**](https://chat.openai.com/g/g-6pl42n4V3-steve-jobs)
-- [**インデックスちゃん**](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan)
-- [**Careers Camp AI**](https://chat.openai.com/g/g-xu8NQ6e6T-careers-camp-ai)
-- [**Presente Presenta**](https://chat.openai.com/g/g-xixIKuPlG-presente-presenta)
-- [**Nisargadatta Sage**](https://chat.openai.com/g/g-j4ZaRVJ0w-nisargadatta-sage)
-- [**Java Interview Assistant**](https://chat.openai.com/g/g-W4d6DjJ8c-java-interview-assistant)
-- [**Ben's Bites GPT**](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt)
-- [**Decision Helper**](https://chat.openai.com/g/g-UzZyuRUAA-decision-helper)
-- [**Bible Study**](https://chat.openai.com/g/g-uWKOG3JVp-bible-study)
-- [**中高生の悩み相談 by 小テストジェネレーター**](https://chat.openai.com/g/g-UgFQhpngB-zhong-gao-sheng-nonao-mixiang-tan-by-xiao-tesutozienereta)
-- [**Health Companion**](https://chat.openai.com/g/g-uszzA1F7v-health-companion)
-- [**Pandu's Tech Mentor Pro**](https://chat.openai.com/g/g-tHOwiy8dx-pandu-s-tech-mentor-pro)
-- [**Resume Wizard - ATS Optimizer**](https://chat.openai.com/g/g-7YAL0iafd-resume-wizard-ats-optimizer)
-- [**Asistente Virtual de Liderazgo Multidimensional**](https://chat.openai.com/g/g-uh3kSIYme-asistente-virtual-de-liderazgo-multidimensional)
-- [**Remotely GPT**](https://chat.openai.com/g/g-B2BN5x8BM-remotely-gpt)
-- [**Professor Synapse**](https://chat.openai.com/g/g-ucpsGCQHZ-professor-synapse)
-- [**Idea Dreamer**](https://chat.openai.com/g/g-w1rWolmUa-idea-dreamer)
-- [**Text Style Transfer: Alice**](https://chat.openai.com/g/g-ZF7qcel88-text-style-transfer-alice)
-- [**KnowledgeGrapher**](https://chat.openai.com/g/g-wc9TgGWjr-knowledgegrapher)
-- [**Wisdom from Bhagavad Gita**](https://chat.openai.com/g/g-wdYWkOVD5-wisdom-from-bhagavad-gita)
-- [**Case Brief GPT**](https://chat.openai.com/g/g-mPOc3LmaX-case-brief-gpt)
-- [**J’apprends à lire avec Jojo**](https://chat.openai.com/g/g-xwfAKslyN-japprends-a-lire-avec-jojo)
-- [**Fun Mode**](https://chat.openai.com/g/g-wscLOMf0J-fun-mode)
-- [**Generational Wealth GPT**](https://chat.openai.com/g/g-w7pB6XVr0-generational-wealth-gpt)
-- [**CosmoLegal Advisor**](https://chat.openai.com/g/g-v80aC62Ex-cosmolegal-advisor)
-- [**Gödel's Phenomena Analyst**](https://chat.openai.com/g/g-YWLa50rfW-godel-s-phenomena-analyst)
-- [**Init Wizard**](https://chat.openai.com/g/g-v3LpnVld7-init-wizard)
-- [**Southwestern Explorer**](https://chat.openai.com/g/g-vOqjydal5-southwestern-explorer)
-- [**Explain Anything**](https://chat.openai.com/g/g-kj6ZYFMZv-explain-anything)
-- [**GPT Exams**](https://chat.openai.com/g/g-y6o7VXoT6-gpt-exams)
-- [**弦楽器フォームアナライザー**](https://chat.openai.com/g/g-zfkMtbdlF-xian-le-qi-huomuanaraiza)
-- [**English Speaking Instructor**](https://chat.openai.com/g/g-CbKz3H83e-english-speaking-instructor)
-- [**Australian Building Buddy**](https://chat.openai.com/g/g-FQQXfkXbM-australian-building-buddy)
-- [**Jini - factbot**](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot)
-- [**English Pal**](https://chat.openai.com/g/g-L6ViCqEHP-english-pal)
-- [**Career Companion**](https://chat.openai.com/g/g-VrtNMlXDg-career-companion)
-- [**Thesis Buddy**](https://chat.openai.com/g/g-jfIKYpcrl-thesis-buddy)
-- [**Bias Checker**](https://chat.openai.com/g/g-FI22YAZb1-bias-checker)
-- [**Udi Itzuvim Carpentry Chat Expert**](https://chat.openai.com/g/g-tNcpqKPdW-udi-itzuvim-carpentry-chat-expert)
-- [**南方熊極神話・民俗研究Bot**](https://chat.openai.com/g/g-VCULg7GmK-nan-fang-xiong-ji-shen-hua-min-su-yan-jiu-bot)
-- [**Negotiation Gauntlet**](https://chat.openai.com/g/g-vTVHY8AqZ-negotiation-gauntlet)
-- [**天邪鬼トーク**](https://chat.openai.com/g/g-Da97bRFQF-tian-xie-gui-toku)
-- [**Viral Reel Scripter**](https://chat.openai.com/g/g-ltinapnPo-viral-reel-scripter)
-- [**Market Insights Navigator**](https://chat.openai.com/g/g-n40K0cEzB-market-insights-navigator)
-- [**Jungian Dream Weaver**](https://chat.openai.com/g/g-YsDGG8bRy-jungian-dream-weaver)
-- [**Friedrich Nietzsche**](https://chat.openai.com/g/g-YDNZLriBK-friedrich-nietzsche)
-- [**MediConsult DX**](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx)
-- [**Social Media Tutor**](https://chat.openai.com/g/g-ZBivaEphm-social-media-tutor)
-- [**Innovation AI**](https://chat.openai.com/g/g-kXvy1PDyO-innovation-ai)
-- [**Especialista en LOMLOE**](https://chat.openai.com/g/g-w6KMGsg1K-especialista-en-lomloe)
-- [**RPG Maker MV Assistant**](https://chat.openai.com/g/g-wSKY7Y8pE-rpg-maker-mv-assistant)
-- [**R. Matey [Personality]**](https://chat.openai.com/g/g-jBoB5Cmzp-r-matey-personality)
-- [**Savvy**](https://chat.openai.com/g/g-m9UNXcxPE-savvy)
-- [**Siren TRPG Rule Assistant**](https://chat.openai.com/g/g-uepvdxwUp-siren-trpg-rule-assistant)
-- [**ModiGPT**](https://chat.openai.com/g/g-uDk0EFRsz-modigpt)
-- [**Programmier Johannes**](https://chat.openai.com/g/g-Z1zeWgeYr-programmier-johannes)
-- [**TranshumanGPT**](https://chat.openai.com/g/g-vokntYGm8-transhumangpt)
-- [**Content Coach**](https://chat.openai.com/g/g-mMCghWZx1-content-coach)
-- [**TE - Tactical Empath**](https://chat.openai.com/g/g-vHPs6Whuy-te-tactical-empath)
-- [**TOEIC Part1 問題クリエーター**](https://chat.openai.com/g/g-ugPoOKPVL-toeic-part1-wen-ti-kurieta)
-- [**ESG 2.0**](https://chat.openai.com/g/g-vUi2rQAGH-esg-2-0)
-- [**SWEInterviewGPT**](https://chat.openai.com/g/g-qOorxIfdo-sweinterviewgpt)
-- [**Food Finder**](https://chat.openai.com/g/g-kGCdA7pvA-food-finder)
-- [**AnthRoBot**](https://chat.openai.com/g/g-y4yrdoyQG-anthrobot)
-- [**Seitaro Shinagwa until May 2021**](https://chat.openai.com/g/g-vBYdbfiDi-seitaro-shinagwa-until-may-2021)
-- [**Politic GPT**](https://chat.openai.com/g/g-k6KrsawkR-politic-gpt)
-- [**UNDOKAI GPT**](https://chat.openai.com/g/g-p3vU95B4F-undokai-gpt)
-- [**Stoic Mentors**](https://chat.openai.com/g/g-lDf6RwARw-stoic-mentors)
-- [**Aki-chan**](https://chat.openai.com/g/g-rdTblvMdW-aki-chan)
-- [**Historický dialog**](https://chat.openai.com/g/g-pkHL8pOA7-historicky-dialog)
-- [**The Musician's Roadmap**](https://chat.openai.com/g/g-xj8hPmrlp-the-musician-s-roadmap)
-- [**Side Hustle Quest**](https://chat.openai.com/g/g-zHS2ewgnX-side-hustle-quest)
-- [**Homework Helper**](https://chat.openai.com/g/g-x0K8M4uu6-homework-helper)
-- [**RocketTalk**](https://chat.openai.com/g/g-D2sNHmiqS-rockettalk)
-- [**赤ちゃん英会話**](https://chat.openai.com/g/g-W9Ce7gK9C-chi-tiyanying-hui-hua)
-- [**LCARS GPT**](https://chat.openai.com/g/g-ySia6uA2h-lcars-gpt)
-- [**Smart Search**](https://chat.openai.com/g/g-w2eZMbfFE-smart-search)
-- [**Product Skills GPT**](https://chat.openai.com/g/g-BGkl28QUS-product-skills-gpt)
-- [**英文校正GPT**](https://chat.openai.com/g/g-xk6AdDGIW-ying-wen-xiao-zheng-gpt)
-- [**English Sensei**](https://chat.openai.com/g/g-YCxjX1KbJ-english-sensei)
-- [**道徳所見サポーター**](https://chat.openai.com/g/g-lezk3herT-dao-de-suo-jian-sapota)
-- [**Forager**](https://chat.openai.com/g/g-yMn1RH7Rt-forager)
-- [**Stoic Sage**](https://chat.openai.com/g/g-ydFBCBkBM-stoic-sage)
-- [**The Man of Sisu**](https://chat.openai.com/g/g-xtyzCTs7m-the-man-of-sisu)
-- [**RED Expert**](https://chat.openai.com/g/g-lgQYwvYqd-red-expert)
-- [**Eva**](https://chat.openai.com/g/g-ygUGZoiZT-eva)
-- [**Cyberpunk AI University: Prompt Engineering RPG**](https://chat.openai.com/g/g-z2Y9YzTSs-cyberpunk-ai-university-prompt-engineering-rpg)
-- [**Tennis Ace**](https://chat.openai.com/g/g-nMRexeimJ-tennis-ace)
-- [**C Code Master**](https://chat.openai.com/g/g-Y1Mo92EPU-c-code-master)
-- [**SpockGPT**](https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt)
-- [**The Diet Search for GPTs**](https://chat.openai.com/g/g-mXjkbpWW2-the-diet-search-for-gpts)
-- [**Life-Hack GPT**](https://chat.openai.com/g/g-W4tNITXvV-life-hack-gpt)
-- [**Jazz理論GPT**](https://chat.openai.com/g/g-vn0tMXsNU-jazzli-lun-gpt)
-- [**Propuesta de Nueva Constitución**](https://chat.openai.com/g/g-CivYZTCtU-propuesta-de-nueva-constitucion)
-- [**ESRS Expert**](https://chat.openai.com/g/g-xod0qfDo2-esrs-expert)
-- [**Ikigai Mentor**](https://chat.openai.com/g/g-ZEB5BexZB-ikigai-mentor)
-- [**Liver Care Guide**](https://chat.openai.com/g/g-yZxQc4ttm-liver-care-guide)
-- [**Chinese Translator**](https://chat.openai.com/g/g-tw4sCl85y-chinese-translator)
-- [**Legal MX Amparo**](https://chat.openai.com/g/g-ZBgBxCP7L-legal-mx-amparo)
-- [**The Stoic's Guide**](https://chat.openai.com/g/g-jIhf3YIMw-the-stoic-s-guide)
-- [**Simple Dictionary**](https://chat.openai.com/g/g-jKa7EZgih-simple-dictionary)
-- [**絶対肯定SF作家兼画家**](https://chat.openai.com/g/g-z7Mk5yZKV-jue-dui-ken-ding-sfzuo-jia-jian-hua-jia)
-- [**Plane Spotter Pro**](https://chat.openai.com/g/g-zzFpbMgW0-plane-spotter-pro)
-- [**Classical Chinese Translator**](https://chat.openai.com/g/g-tZqok93kx-classical-chinese-translator)
-- [**卒業文集サポーターVer.1**](https://chat.openai.com/g/g-Iy9SUZzK7-zu-ye-wen-ji-sapotaver-1)
-- [**AutoDoc Assistant**](https://chat.openai.com/g/g-magaMxcGG-autodoc-assistant)
-- [**What If**](https://chat.openai.com/g/g-nxorEMahZ-what-if)
-- [**YoutuberAI**](https://chat.openai.com/g/g-wi9h9Ktwq-youtuberai)
-- [**Paper Reading Advisor: Carpe Diem**](https://chat.openai.com/g/g-zut9cfvbZ-paper-reading-advisor-carpe-diem)
-- [**The Evergreen State of Mystery**](https://chat.openai.com/g/g-AoK5So9Li-the-evergreen-state-of-mystery)
-- [**Equitest**](https://chat.openai.com/g/g-t0MlxAV92-equitest)
-- [**LLMScholar**](https://chat.openai.com/g/g-uo3cAF78e-llmscholar)
-- [**Color Psychology**](https://chat.openai.com/g/g-msLVpHkv3-color-psychology)
-- [**Dungeon Master's Assistant**](https://chat.openai.com/g/g-o4bqk98YU-dungeon-master-s-assistant)
-- [**Ramayan GPT**](https://chat.openai.com/g/g-syarL9twx-ramayan-gpt)
-- [**Musk Mentor**](https://chat.openai.com/g/g-jd84Vqnv0-musk-mentor)
-- [**Grade My Essay**](https://chat.openai.com/g/g-tTySeN8Fi-grade-my-essay)
-- [**Nihongo Sensei**](https://chat.openai.com/g/g-V6nOWJ22r-nihongo-sensei)
-- [**Product Analysis Handbook**](https://chat.openai.com/g/g-ivQDRTSu6-product-analysis-handbook)
-- [**Design Brief Builder v0.1**](https://chat.openai.com/g/g-o3FR4VOh1-design-brief-builder-v0-1)
-- [**Lingo Buddy**](https://chat.openai.com/g/g-tivLxvTRq-lingo-buddy)
-- [**Zambia Law Oracle**](https://chat.openai.com/g/g-mCOwnHqhg-zambia-law-oracle)
-- [**Rhetorica**](https://chat.openai.com/g/g-Go1sJultl-rhetorica)
-- [**GPT Scratcher**](https://chat.openai.com/g/g-tuVJ8BsGg-gpt-scratcher)
-- [**CatGPT**](https://chat.openai.com/g/g-zcK5BwOLZ-catgpt)
-- [**Memory Palace Supporter**](https://chat.openai.com/g/g-uRy1yqd5c-memory-palace-supporter)
-- [**Book Scout**](https://chat.openai.com/g/g-lm15ZcqSD-book-scout)
-- [**akdAI**](https://chat.openai.com/g/g-lEO81Qk0D-akdai)
-- [**Mi colega de programación con Scratch**](https://chat.openai.com/g/g-yzH19nzMu-mi-colega-de-programacion-con-scratch)
-- [**ELI5**](https://chat.openai.com/g/g-AIQ6xTJ26-eli5)
-- [**La LOMLOE a Catalunya**](https://chat.openai.com/g/g-GBDEhW8hp-la-lomloe-a-catalunya)
-- [**G Resume Reviewer**](https://chat.openai.com/g/g-z7hEagts5-g-resume-reviewer)
-- [**Imagination Spark**](https://chat.openai.com/g/g-u9eB9baA4-imagination-spark)
-- [**Job Interview Coach**](https://chat.openai.com/g/g-VvGuThwhg-job-interview-coach)
-- [**Insight Analyzer**](https://chat.openai.com/g/g-Y8cdwFN1m-insight-analyzer)
-- [**現象図鑑**](https://chat.openai.com/g/g-uelttn3t8-xian-xiang-tu-jian)
-- [**Zhou Gong's Dream Interpreter**](https://chat.openai.com/g/g-Gh5sl92LO-zhou-gong-s-dream-interpreter)
-- [**Dream Weaver**](https://chat.openai.com/g/g-uftKm2VYL-dream-weaver)
-- [**Levels.fyi GPT**](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt)
-- [**Surgical Insight**](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight)
-- [**Funny Review of Movies and Books**](https://chat.openai.com/g/g-Ga05vi0qV-funny-review-of-movies-and-books)
-- [**ブログ執筆アシスタント**](https://chat.openai.com/g/g-zMhdMGjRO-buroguzhi-bi-asisutanto)
-- [**Seçim Ustası**](https://chat.openai.com/g/g-BjOE1svfd-secim-ustasi)
-- [**紫微斗数**](https://chat.openai.com/g/g-Y3I1GyGUn-zi-wei-dou-shu)
-- [**HistoricalSimulatorAI**](https://chat.openai.com/g/g-u2R1krrTt-historicalsimulatorai)
-- [**SwiftUIGPT**](https://chat.openai.com/g/g-Ghjy34zAe-swiftuigpt)
-- [**LegisPro**](https://chat.openai.com/g/g-yEpBvyOUh-legispro)
-- [**Drug Wikipedia**](https://chat.openai.com/g/g-lAX0e2yaQ-drug-wikipedia)
-- [**Godot Mentor**](https://chat.openai.com/g/g-A19aYBnmA-godot-mentor)
-- [**Word Game Host**](https://chat.openai.com/g/g-srF2udcy9-word-game-host)
-- [**The Intraterrestrial Hypothesis**](https://chat.openai.com/g/g-ycGVXm7xh-the-intraterrestrial-hypothesis)
-- [**一个养生师**](https://chat.openai.com/g/g-wkkiVT0t5-yi-ge-yang-sheng-shi)
-- [**Tasty Low Fodmap Guide**](https://chat.openai.com/g/g-klNCmWwIb-tasty-low-fodmap-guide)
-- [**Bagua Master**](https://chat.openai.com/g/g-BI7Zs5qXX-bagua-master)
-- [**GitaGPT**](https://chat.openai.com/g/g-k2WhRlxIA-gitagpt)
-- [**Novel X**](https://chat.openai.com/g/g-G1FVHYabI-novel-x)
-- [**Keiji Wada**](https://chat.openai.com/g/g-u6HpCncNM-keiji-wada)
-- [**Amber Guide**](https://chat.openai.com/g/g-yrO85Hgl3-amber-guide)
-- [**Forward By Midnight**](https://chat.openai.com/g/g-m0UOt9Irg-forward-by-midnight)
-- [**無知の知**](https://chat.openai.com/g/g-v9yPsqfCe-wu-zhi-nozhi)
-- [**Onchain Agent**](https://chat.openai.com/g/g-GCZwzN7Bk-onchain-agent)
-- [**Mastery**](https://chat.openai.com/g/g-ovtchFnQj-mastery)
-- [**Hi-Fi Man**](https://chat.openai.com/g/g-uSg9zGFPe-hi-fi-man)
-- [**Idea Pros & Cons Analyzer**](https://chat.openai.com/g/g-yh1dSuztU-idea-pros-cons-analyzer)
-- [**Ask A President**](https://chat.openai.com/g/g-tqkjyl6l1-ask-a-president)
-- [**ChatPaper**](https://chat.openai.com/g/g-sD6wtjB8a-chatpaper)
-- [**Anti-Procrastinator**](https://chat.openai.com/g/g-txJJxCJum-anti-procrastinator)
-- [**Memetic GPT**](https://chat.openai.com/g/g-Z2sczzBfG-memetic-gpt)
-- [**Doggi Doctor**](https://chat.openai.com/g/g-wcEycjs2A-doggi-doctor)
-- [**ぷらっとmapくん**](https://chat.openai.com/g/g-pephh8zrK-puratutomapkun)
-- [**ClaudeGPT**](https://chat.openai.com/g/g-yhiBAixw5-claudegpt)
-- [**英语长难句翻译及语法解析**](https://chat.openai.com/g/g-o7K3YtpTa-ying-yu-chang-nan-ju-fan-yi-ji-yu-fa-jie-xi)
-- [**RNDMRPG**](https://chat.openai.com/g/g-uUWkDRjlk-rndmrpg)
-- [**GPTs查找**](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao)
-- [**Steve /Co-founder**](https://chat.openai.com/g/g-jxAExXgXo-steve-co-founder)
-- [**PaperPilot**](https://chat.openai.com/g/g-ynZYhDGwd-paperpilot)
-- [**GameMaker GPT**](https://chat.openai.com/g/g-vkfKa3LQL-gamemaker-gpt)
-- [**Junior English Master**](https://chat.openai.com/g/g-o0y8vB11U-junior-english-master)
-- [**Public Admin Pro**](https://chat.openai.com/g/g-svvC1ZdII-public-admin-pro)
-- [**Melodifestivalen and Eurovision**](https://chat.openai.com/g/g-mWgW400zB-melodifestivalen-and-eurovision)
-- [**論文要約GPT**](https://chat.openai.com/g/g-GifI8Q23t-lun-wen-yao-yue-gpt)
-- [**敏腕マンガ・ラノベ編集者お姉ちゃん - saysay.ai**](https://chat.openai.com/g/g-wE9SWrR22-min-wan-mangaranobebian-ji-zhe-ozi-tiyan-saysay-ai)
-- [**Luminas**](https://chat.openai.com/g/g-ixjBjwzBx-luminas)
-- [**The INTJ Guide**](https://chat.openai.com/g/g-kJj8gVUdT-the-intj-guide)
-- [**Prompt Genius**](https://chat.openai.com/g/g-uTs1sN6QU-prompt-genius)
-- [**Primary Lesson Planner**](https://chat.openai.com/g/g-yjawENdY6-primary-lesson-planner)
-- [**PokeStrategist**](https://chat.openai.com/g/g-qWMlPpVXv-pokestrategist)
-- [**Sourdough Sensei**](https://chat.openai.com/g/g-pTu4dYPco-sourdough-sensei)
-- [**Audiophile Assistant**](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)
-- [**chatGCSE**](https://chat.openai.com/g/g-uXSTcH9tT-chatgcse)
-- [**Gojo Satoru**](https://chat.openai.com/g/g-wHfqdWBAh-gojo-satoru)
-- [**69代目税影ナルト**](https://chat.openai.com/g/g-VugKc0wEN-69dai-mu-shui-ying-naruto)
-- [**BuddhaGPT**](https://chat.openai.com/g/g-uIukzpVuG-buddhagpt)
-- [**PokeGPT**](https://chat.openai.com/g/g-wars8zOPr-pokegpt)
-- [**Prompt Coach - Nghiện AI**](https://chat.openai.com/g/g-YhUfztyG4-prompt-coach-nghien-ai)
-- [**Pathfinder**](https://chat.openai.com/g/g-ikhTABx1r-pathfinder)
-- [**MiniScript Mentor**](https://chat.openai.com/g/g-i8hNNTBNy-miniscript-mentor)
-- [**Startup Sensei - Japanese Startup Mentor**](https://chat.openai.com/g/g-vQL564UOW-startup-sensei-japanese-startup-mentor)
-- [**Legal Cannabis Copilot (Canada)**](https://chat.openai.com/g/g-uT7JtxVwK-legal-cannabis-copilot-canada)
-- [**エッセイ風 Diary Creator**](https://chat.openai.com/g/g-p329GFo5v-etuseifeng-diary-creator)
-- [**Investment Dialogue of Buffett and Munger**](https://chat.openai.com/g/g-H4A9l0oEk-investment-dialogue-of-buffett-and-munger)
-- [**FluentGPT**](https://chat.openai.com/g/g-pOO4Lq2RC-fluentgpt)
-- [**Matrix Oracle**](https://chat.openai.com/g/g-qWFYdbBRb-matrix-oracle)
-- [**The Debate SuperPrompt.**](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt)
-- [**Justitia Guide**](https://chat.openai.com/g/g-Ykdol7p5g-justitia-guide)
-- [**Prompta**](https://chat.openai.com/g/g-p937MS26W-prompta)
-- [**ChatSEO**](https://chat.openai.com/g/g-pGOmGrfJu-chatseo)
-- [**Legends of Griplore**](https://chat.openai.com/g/g-pn3TIWjRy-legends-of-griplore)
-- [**Film Stock Genius**](https://chat.openai.com/g/g-uCY8nm11P-film-stock-genius)
-- [**English Learning**](https://chat.openai.com/g/g-rehimLUp7-english-learning)
-- [**Computer Vision Expert**](https://chat.openai.com/g/g-x45oD8m2G-computer-vision-expert)
-- [**Sclépios I.A : CIM10**](https://chat.openai.com/g/g-t7RWV31tP-sclepios-i-a-cim10)
-- [**Teacher Bot**](https://chat.openai.com/g/g-m3BR1oFya-teacher-bot)
-- [**Dungeoneer**](https://chat.openai.com/g/g-qB3ZbOZib-dungeoneer)
-- [**Ennative: 添削付き英会話**](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua)
-- [**シリコンバレー最重要思想家**](https://chat.openai.com/g/g-s7QN2HCpF-sirikonbarezui-zhong-yao-si-xiang-jia)
-- [**Lore Bard**](https://chat.openai.com/g/g-k57Vzhdeb-lore-bard)
-- [**Patent Pathfinder**](https://chat.openai.com/g/g-CmatEdfgD-patent-pathfinder)
-- [**Techno Savant**](https://chat.openai.com/g/g-GZqDkJNhO-techno-savant)
-- [**Bible Wisdom**](https://chat.openai.com/g/g-r1Ec8l5f2-bible-wisdom)
-- [**Debate Bot**](https://chat.openai.com/g/g-kZEz9W5Jx-debate-bot)
-- [**Uncle Paul GPT**](https://chat.openai.com/g/g-YeprpS6of-uncle-paul-gpt)
-- [**FeminaCare AI**](https://chat.openai.com/g/g-mYqr9rQX4-feminacare-ai)
-- [**Techno-Optimist Advisor**](https://chat.openai.com/g/g-wO3zaULK5-techno-optimist-advisor)
-- [**Papers Story**](https://chat.openai.com/g/g-GNgYSwDqM-papers-story)
-- [**Code Megami**](https://chat.openai.com/g/g-qzrTfFvqy-code-megami)
-- [**Dark Stories Master**](https://chat.openai.com/g/g-rvAyPHKkd-dark-stories-master)
-- [**NutriCompass**](https://chat.openai.com/g/g-CStKFN3pu-nutricompass)
-- [**Luottamusmies GPT, Sivista, Business College**](https://chat.openai.com/g/g-pA9BGXVId-luottamusmies-gpt-sivista-business-college)
-- [**Blocksider GPT**](https://chat.openai.com/g/g-dwHRHnows-blocksider-gpt)
-- [**CUC创业**](https://chat.openai.com/g/g-GDiUxSuvM-cucchuang-ye)
-- [**anky**](https://chat.openai.com/g/g-DKne07mTu-anky)
-- [**Mongoose Docs Helper**](https://chat.openai.com/g/g-qALUQsGxW-mongoose-docs-helper)
-- [**Linux Code Helper**](https://chat.openai.com/g/g-FQgbkjngX-linux-code-helper)
-- [**Code & Research ML Engineer**](https://chat.openai.com/g/g-18FYDT9Jk-code-research-ml-engineer)
-- [**POPO from IPPO**](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ippo)
-- [**Sindare**](https://chat.openai.com/g/g-seWKkLe7z-sindare)
-- [**BuFu GPT (DE)**](https://chat.openai.com/g/g-qVSa4SH08-bufu-gpt-de)
-- [**Pinoy Econ Guide**](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide)
-- [**LangLift**](https://chat.openai.com/g/g-sRP6TiUGZ-langlift)
-- [**発音記号くん**](https://chat.openai.com/g/g-rxPtIOYPA-fa-yin-ji-hao-kun)
-- [**EnergyPlus Guru**](https://chat.openai.com/g/g-xTdDOQ3Op-energyplus-guru)
-- [**Doğru Türkçe Rehberi**](https://chat.openai.com/g/g-SWwFzM1gf-dogru-turkce-rehberi)
-- [**BG3-GPT**](https://chat.openai.com/g/g-sYLwCAmeF-bg3-gpt)
-- [**Protein Modeling Analyst**](https://chat.openai.com/g/g-qoVJAdMK7-protein-modeling-analyst)
-- [**Write a Nonfiction Book**](https://chat.openai.com/g/g-qSeTrInJH-write-a-nonfiction-book)
-- [**Hacker News Review**](https://chat.openai.com/g/g-u2NpBduIi-hacker-news-review)
-- [**DungeonMasterGPT**](https://chat.openai.com/g/g-ppFzDRkTs-dungeonmastergpt)
-- [**Cognitive Nexus Interface**](https://chat.openai.com/g/g-fk41vBBNZ-cognitive-nexus-interface)
-- [**Résumé Cover Letter Writer**](https://chat.openai.com/g/g-qaQ93YH1Y-resume-cover-letter-writer)
-- [**学科历程**](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng)
-- [**Immortal Dao**](https://chat.openai.com/g/g-U22769VO1-immortal-dao)
-- [**Brew Buddy**](https://chat.openai.com/g/g-tV2vfQgDy-brew-buddy)
-- [**DingZhenGPT**](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengpt)
-- [**MAP Quiz Whiz**](https://chat.openai.com/g/g-qeRnoQhY6-map-quiz-whiz)
-- [**Prompt Professor**](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor)
-- [**Midjourney Prompter**](https://chat.openai.com/g/g-k71w2EALS-midjourney-prompter)
-- [**Cover Letter Assistant**](https://chat.openai.com/g/g-q7ncrmcNc-cover-letter-assistant)
-- [**Japanese Tutor**](https://chat.openai.com/g/g-tYVTfbcgL-japanese-tutor)
-- [**Cover Letter Writer**](https://chat.openai.com/g/g-GBAUlvD9t-cover-letter-writer)
-- [**🧪 Rapid Experimentation Bot 🧪**](https://chat.openai.com/g/g-fvY3v6iFI-rapid-experimentation-bot)
-- [**Masc**](https://chat.openai.com/g/g-V2uNR1W0x-masc)
-- [**Strategy Consultant for Tech Startups**](https://chat.openai.com/g/g-fdGbwO5Y8-strategy-consultant-for-tech-startups)
-- [**Nuanced Ukrainian Translator**](https://chat.openai.com/g/g-Tbdi7fnCe-nuanced-ukrainian-translator)
-- [**Crypto Sage**](https://chat.openai.com/g/g-Fpdc16XnZ-crypto-sage)
-- [**HSU Tech Mentor**](https://chat.openai.com/g/g-vK4L9FmAb-hsu-tech-mentor)
-- [**Swifty**](https://chat.openai.com/g/g-AsNqHBQ7L-swifty)
-- [**Kongming 2025**](https://chat.openai.com/g/g-kWag6SVp9-kongming-2025)
-- [**Project Creator**](https://chat.openai.com/g/g-SgaKkw4NM-project-creator)
-- [**Maestro de calabozos - Elige tu camino**](https://chat.openai.com/g/g-lYpnoNwAH-maestro-de-calabozos-elige-tu-camino)
-- [**Shadow**](https://chat.openai.com/g/g-ovhEbrmEk-shadow)
-- [**Imagine Replay Guide**](https://chat.openai.com/g/g-lDQnlMIKo-imagine-replay-guide)
-- [**卒論代行GPT**](https://chat.openai.com/g/g-ot4KCY1op-zu-lun-dai-xing-gpt)
-- [**リピート先生**](https://chat.openai.com/g/g-mdI3wXW2Q-ripitoxian-sheng)
-- [**SYNDIA Code Guide**](https://chat.openai.com/g/g-ktCQOWZXi-syndia-code-guide)
-- [**Nick Nimmin**](https://chat.openai.com/g/g-pVX8t7Zf4-nick-nimmin)
-- [**ClozeBot**](https://chat.openai.com/g/g-xYhVIDYnh-clozebot)
-- [**Patent Explorer**](https://chat.openai.com/g/g-pwPdZCok6-patent-explorer)
-- [**SwissArchitectGPT**](https://chat.openai.com/g/g-qYF7xAkap-swissarchitectgpt)
-- [**Sophisto**](https://chat.openai.com/g/g-xJETJ0Zcr-sophisto)
-- [**Radiology Report Assistant**](https://chat.openai.com/g/g-pxPwcQzIG-radiology-report-assistant)
-- [**疗愈写作大师**](https://chat.openai.com/g/g-p09rhoCKy-liao-yu-xie-zuo-da-shi)
-- [**Comanche LLM**](https://chat.openai.com/g/g-pNhaZSt9e-comanche-llm)
-- [**Network State Tutor**](https://chat.openai.com/g/g-DWtsLtIjS-network-state-tutor)
-- [**Libtorch Pro**](https://chat.openai.com/g/g-iZO8JmtVf-libtorch-pro)
-- [**HoonGPT**](https://chat.openai.com/g/g-d8J865UZn-hoongpt)
-- [**CodeMonkey AI**](https://chat.openai.com/g/g-kOq8YzUTp-codemonkey-ai)
-- [**Plot Buddy**](https://chat.openai.com/g/g-pstTpwLU9-plot-buddy)
-- [**Charm Chat Coach**](https://chat.openai.com/g/g-Y9JOAsizz-charm-chat-coach)
-- [**True or False?**](https://chat.openai.com/g/g-mC3FlJbvT-true-or-false)
-- [**Nuke Copilot**](https://chat.openai.com/g/g-qAc9nsF0k-nuke-copilot)
-- [**Disability Advantages Assistant**](https://chat.openai.com/g/g-CZeHqwTex-disability-advantages-assistant)
-- [**互联网黑话.GPT**](https://chat.openai.com/g/g-pexC3zXOF-hu-lian-wang-hei-hua-gpt)
-- [**Flashcard Wizard**](https://chat.openai.com/g/g-lH5ejWvqs-flashcard-wizard)
-- [**English Mentor**](https://chat.openai.com/g/g-owk7UkRdp-english-mentor)
-- [**AI-dea**](https://chat.openai.com/g/g-lTeeWuQxL-ai-dea)
-- [**EverQuest Expert**](https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert)
-- [**Ai Marketing & Video Innovations**](https://chat.openai.com/g/g-YJKPEzG9i-ai-marketing-video-innovations)
-- [**ウルス教**](https://chat.openai.com/g/g-pKAX7jUyh-urusujiao)
-- [**SF AI Weekly**](https://chat.openai.com/g/g-mR165Aeem-sf-ai-weekly)
-- [**Proofreader**](https://chat.openai.com/g/g-pBjw280jj-proofreader)
-- [**Frontend Mentor**](https://chat.openai.com/g/g-ByQiM5GKg-frontend-mentor)
-- [**小红书写作专家**](https://chat.openai.com/g/g-iWeTcmxdr-xiao-hong-shu-xie-zuo-zhuan-jia)
-- [**CareerGPT**](https://chat.openai.com/g/g-pH46y1uUB-careergpt)
-- [**Code Explainer**](https://chat.openai.com/g/g-kt1BRvYKG-code-explainer)
-- [**Cody Wanner (YT Channel)**](https://chat.openai.com/g/g-sMQavozDG-cody-wanner-yt-channel)
-- [**Tech News Teller**](https://chat.openai.com/g/g-uuWvT9ANr-tech-news-teller)
-- [**Translate into Hakata Ben**](https://chat.openai.com/g/g-iUhqYw9mG-translate-into-hakata-ben)
-- [**Minimalist Marie Decluttering Copilot**](https://chat.openai.com/g/g-YVeRnardn-minimalist-marie-decluttering-copilot)
-- [**AskYourPDF Research Assistant**](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant)
-- [**Video Digest (YT Videos)**](https://chat.openai.com/g/g-kLueylWnJ-video-digest-yt-videos)
-- [**Unreal AI**](https://chat.openai.com/g/g-vVbBGf7WB-unreal-ai)
-- [**CB GPT**](https://chat.openai.com/g/g-rvU2Uv5Rm-cb-gpt)
-- [**アイデアメーカー**](https://chat.openai.com/g/g-jz0sNNWR4-aideameka)
-- [**Aurelius Counsel**](https://chat.openai.com/g/g-hkVVLSiMo-aurelius-counsel)
-- [**PsyWords**](https://chat.openai.com/g/g-jrawPjs4z-psywords)
-- [**MSボット（仮）**](https://chat.openai.com/g/g-j8EfwgigP-msbotuto-jia)
-- [**Super ADHD Mind Ninja**](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja)
-- [**高木浩光@自宅の日記 HilightBot**](https://chat.openai.com/g/g-vrJhUt1YX-gao-mu-hao-guang-zi-zhai-nori-ji-hilightbot)
-- [**Mindmap 🧠**](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap)
-- [**Notion Buddy**](https://chat.openai.com/g/g-iIB8oip3c-notion-buddy)
-- [**Sex Education Expert**](https://chat.openai.com/g/g-AI9UoubAp-sex-education-expert)
-- [**Chat-GuyPT**](https://chat.openai.com/g/g-kt0G01ZpO-chat-guypt)
-- [**ChigaGPT**](https://chat.openai.com/g/g-o19L3yKGm-chigagpt)
-- [**Setanta**](https://chat.openai.com/g/g-GG5upU4VA-setanta)
-- [**Paper Machine**](https://chat.openai.com/g/g-kXwpmdcpB-paper-machine)
-- [**An eVTOL Expert**](https://chat.openai.com/g/g-LITulNN9K-an-evtol-expert)
-- [**Godot Guru**](https://chat.openai.com/g/g-G0G9XPf5N-godot-guru)
-- [**AIMedGPT**](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt)
-- [**Huberman Lab GPT**](https://chat.openai.com/g/g-ihFMdaVLM-huberman-lab-gpt)
-- [**Shqip Language Mentor**](https://chat.openai.com/g/g-sEFkjd8iX-shqip-language-mentor)
-- [**Stat Helper**](https://chat.openai.com/g/g-UTetN1v4g-stat-helper)
-- [**ExcelMaster**](https://chat.openai.com/g/g-i7rKBF2XJ-excelmaster)
-- [**Bean Buddy**](https://chat.openai.com/g/g-VP6vdHdhs-bean-buddy)
-- [**Paper to PPT Slide Storyline: Parker**](https://chat.openai.com/g/g-sZ6jALP4v-paper-to-ppt-slide-storyline-parker)
-- [**ReligionsGPT**](https://chat.openai.com/g/g-t08Nsvjms-religionsgpt)
-- [**Helps you build a human centered Bitcoin Ecosystem**](https://chat.openai.com/g/g-sUwFQZbg1-helps-you-build-a-human-centered-bitcoin-ecosystem)
-- [**Aventura conversacional en la Tierra Media**](https://chat.openai.com/g/g-jHBi7NGYT-aventura-conversacional-en-la-tierra-media)
-- [**WikipediaGPT**](https://chat.openai.com/g/g-iej11T6Ii-wikipediagpt)
-- [**Baby Whisperer**](https://chat.openai.com/g/g-j01idqlPY-baby-whisperer)
-- [**Tharoorify**](https://chat.openai.com/g/g-UxQylW40H-tharoorify)
-- [**The Noble Quran**](https://chat.openai.com/g/g-ktSjNRflV-the-noble-quran)
-- [**Negotiation Guru**](https://chat.openai.com/g/g-wfBlzPZi9-negotiation-guru)
-- [**English News Tutor**](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor)
-- [**Aphrodite's Guide**](https://chat.openai.com/g/g-mLfDyWcYp-aphrodite-s-guide)
-- [**Onder**](https://chat.openai.com/g/g-iE0mLTJn8-onder)
-- [**Calidad en Educación Superior**](https://chat.openai.com/g/g-j9oCMMLmH-calidad-en-educacion-superior)
-- [**GTGPT**](https://chat.openai.com/g/g-wgqbXvcQb-gtgpt)
-- [**Personality, Dark Triad and Bias Analyst**](https://chat.openai.com/g/g-iYQBtSJLw-personality-dark-triad-and-bias-analyst)
-- [**Asesor PRL Española**](https://chat.openai.com/g/g-pcTLP6ziN-asesor-prl-espanola)
-- [**ESP32 IoT GPT**](https://chat.openai.com/g/g-mZV5yksrt-esp32-iot-gpt)
-- [**Conduct**](https://chat.openai.com/g/g-xIAMKnaDA-conduct)
-- [**Warren Buffet's Wisdom**](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom)
-- [**Book Builder Step-by-Step**](https://chat.openai.com/g/g-T8ySmy6Rb-book-builder-step-by-step)
-- [**Garden X Man**](https://chat.openai.com/g/g-wSVsN1hJL-garden-x-man)
-- [**DocuLingo**](https://chat.openai.com/g/g-psGbZ3yNt-doculingo)
-- [**Learn Wardley Mapping**](https://chat.openai.com/g/g-sg6zS89Hi-learn-wardley-mapping)
-- [**Discrete Math Tutor**](https://chat.openai.com/g/g-lSrUMVDeS-discrete-math-tutor)
-- [**CUC**](https://chat.openai.com/g/g-pBl1SmTI6-cuc)
-- [**グランドラインの達人**](https://chat.openai.com/g/g-gG8rY9DTF-gurandorainnoda-ren)
-- [**Bunny Tales**](https://chat.openai.com/g/g-VOgFDlIul-bunny-tales)
-- [**Bedelia**](https://chat.openai.com/g/g-X6zQiimEj-bedelia)
-- [**DIY Maker Workshop**](https://chat.openai.com/g/g-sgRxNcpPS-diy-maker-workshop)
-- [**Constitutional Insight GPT**](https://chat.openai.com/g/g-acHYBnD8a-constitutional-insight-gpt)
-- [**Loopy**](https://chat.openai.com/g/g-hxlWN2bvV-loopy)
-- [**一公式一卡片**](https://chat.openai.com/g/g-tC22Qf6ko-yi-gong-shi-yi-qia-pian)
-- [**🌙 ＰＹＮＸ | Tech Resume Helper**](https://chat.openai.com/g/g-tXYOroPdY-pynx-tech-resume-helper)
-- [**補助金ヘルパー**](https://chat.openai.com/g/g-foA5V09Sw-bu-zhu-jin-herupa)
-- [**拆书大师**](https://chat.openai.com/g/g-ovnd92FA2-chai-shu-da-shi)
-- [**李白 GPT**](https://chat.openai.com/g/g-fQ3tKLB9n-li-bai-gpt)
-- [**LearningLadder**](https://chat.openai.com/g/g-ftpttHQdu-learningladder)
-- [**Sophie, French Tutor**](https://chat.openai.com/g/g-qZhzXhxUE-sophie-french-tutor)
-- [**LeetLearn**](https://chat.openai.com/g/g-gbrlnhJp7-leetlearn)
-- [**Python Tutor**](https://chat.openai.com/g/g-fJop2mlYh-python-tutor)
-- [**Storytime Jam - Photos. Short expandable stories.**](https://chat.openai.com/g/g-tSX9u7aDC-storytime-jam-photos-short-expandable-stories)
-- [**Kong Herbal Healer**](https://chat.openai.com/g/g-gNp4I9wxf-kong-herbal-healer)
-- [**FindGPT**](https://chat.openai.com/g/g-e2bIguMqf-findgpt)
-- [**Non-Profit Giving Expert**](https://chat.openai.com/g/g-tLmDPz16A-non-profit-giving-expert)
-- [**AspireGPT**](https://chat.openai.com/g/g-qBwNU4oLa-aspiregpt)
-- [**CourseLink Companion**](https://chat.openai.com/g/g-hnzDZiGDm-courselink-companion)
-- [**Grant Writing & General Assistant for Non-Profits**](https://chat.openai.com/g/g-kXcpwjpwo-grant-writing-general-assistant-for-non-profits)
-- [**Gary Vee**](https://chat.openai.com/g/g-fSxbjCgyx-gary-vee)
-- [**Breebs**](https://chat.openai.com/g/g-lObyD60FY-breebs)
-- [**Curiosity Catalyst**](https://chat.openai.com/g/g-gsnJ7j4NN-curiosity-catalyst)
-- [**PenTest Interviewer**](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer)
-- [**Dog-on-it**](https://chat.openai.com/g/g-GBvh5qdmg-dog-on-it)
-- [**総合思考ナビゲーター**](https://chat.openai.com/g/g-gvT4szABf-zong-he-si-kao-nabigeta)
-- [**Oscar Wilde**](https://chat.openai.com/g/g-ka4MdxgHL-oscar-wilde)
-- [**IT News**](https://chat.openai.com/g/g-fRHZFHvTf-it-news)
-- [**Trivia Master**](https://chat.openai.com/g/g-h6efmKkIp-trivia-master)
-- [**菜園アドバイザー**](https://chat.openai.com/g/g-uOQGLDfE7-cai-yuan-adobaiza)
-- [**南魚沼エキスパート**](https://chat.openai.com/g/g-fAvqYQXv9-nan-yu-zhao-ekisupato)
-- [**Phantazia ChatRPG**](https://chat.openai.com/g/g-uyeXzH2Zb-phantazia-chatrpg)
-- [**ソーシャルスキルトレーニング(SST)ちゃん**](https://chat.openai.com/g/g-q3ateHeRe-sosiyarusukirutoreningu-sst-tiyan)
-- [**たすけてUnityちゃん**](https://chat.openai.com/g/g-Fj6Z92uGQ-tasuketeunitytiyan)
-- [**Flat Illustration Guide**](https://chat.openai.com/g/g-fDMJzZMqD-flat-illustration-guide)
-- [**EduCraft Pro with Creative Writing Coach**](https://chat.openai.com/g/g-fsaBXMEwJ-educraft-pro-with-creative-writing-coach)
-- [**EDN Content Finder**](https://chat.openai.com/g/g-tmDTBBGhU-edn-content-finder)
-- [**GPT Game Design Guru**](https://chat.openai.com/g/g-fkfm1mE6z-gpt-game-design-guru)
-- [**云客AI投研**](https://chat.openai.com/g/g-sKAlWXNQu-yun-ke-aitou-yan)
-- [**The CATGPT**](https://chat.openai.com/g/g-gN9nQ6LB2-the-catgpt)
-- [**Rhythm GPT**](https://chat.openai.com/g/g-FeofNC9d2-rhythm-gpt)
-- [**Plain Legal Explanations**](https://chat.openai.com/g/g-x1Hy0u8DG-plain-legal-explanations)
-- [**Stoner Sage**](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage)
-- [**(AI)ME**](https://chat.openai.com/g/g-sRuuTpdF5-ai-me)
-- [**HubermanGPT**](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt)
-- [**Transitions Gender Guide**](https://chat.openai.com/g/g-hZs9oMYMe-transitions-gender-guide)
-- [**Voxscript has moved! See instructions for location**](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location)
-- [**KSLA Data Analysis**](https://chat.openai.com/g/g-g6DyJPJh8-ksla-data-analysis)
-- [**Eloquent Translator**](https://chat.openai.com/g/g-l92Di4GvM-eloquent-translator)
-- [**Miyagi Sensei**](https://chat.openai.com/g/g-GCG5acPsg-miyagi-sensei)
-- [**Academic Digest**](https://chat.openai.com/g/g-gAH8Vne9G-academic-digest)
-- [**NumerGPT**](https://chat.openai.com/g/g-sFFxYLPLZ-numergpt)
-- [**Diabetes Risk Evaluator**](https://chat.openai.com/g/g-fyW2u5Rvs-diabetes-risk-evaluator)
-- [**Recruitment Specialist**](https://chat.openai.com/g/g-s7y6VxPm6-recruitment-specialist)
-- [**广告文案大师**](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi)
-- [**简历优化大师**](https://chat.openai.com/g/g-sQO5SS5rR-jian-li-you-hua-da-shi)
-- [**JuriGPT**](https://chat.openai.com/g/g-ggTPbdusV-jurigpt)
-- [**Translator**](https://chat.openai.com/g/g-b7RT3yJGy-translator)
-- [**Hypatia**](https://chat.openai.com/g/g-eT7OAuQfd-hypatia)
-- [**Storybook Illustrator**](https://chat.openai.com/g/g-V63GnhsSB-storybook-illustrator)
-- [**Dungeon Crawler**](https://chat.openai.com/g/g-ntI4qMZVT-dungeon-crawler)
-- [**SEO E-E-A-T Assistant**](https://chat.openai.com/g/g-ht8ZtDa5M-seo-e-e-a-t-assistant)
-- [**Journey Far Admissions Guide**](https://chat.openai.com/g/g-fX6woBVLk-journey-far-admissions-guide)
-- [**Bahá'í Explorer**](https://chat.openai.com/g/g-YFue8FRU9-baha-i-explorer)
-- [**CareerBot**](https://chat.openai.com/g/g-nw7aKxsZD-careerbot)
-- [**Wolfgang**](https://chat.openai.com/g/g-oR3IaAXog-wolfgang)
-- [**Australian English**](https://chat.openai.com/g/g-giBC1tk1d-australian-english)
-- [**Elixir and Phoenix Expert**](https://chat.openai.com/g/g-yCmf5OOFf-elixir-and-phoenix-expert)
-- [**Excel Automator**](https://chat.openai.com/g/g-gBrO3SLJB-excel-automator)
-- [**Eamon Returns**](https://chat.openai.com/g/g-9uH4VISel-eamon-returns)
-- [**Djangoメンター**](https://chat.openai.com/g/g-iUyV3yGKN-djangomenta)
-- [**Harry Potter GPT**](https://chat.openai.com/g/g-9RsymLAIK-harry-potter-gpt)
-- [**Kotlin Coder**](https://chat.openai.com/g/g-zjAUr9Oya-kotlin-coder)
-- [**CellGpt**](https://chat.openai.com/g/g-hybdYMj2B-cellgpt)
-- [**TN Educator Data & Planning Support**](https://chat.openai.com/g/g-h2RcKPjMX-tn-educator-data-planning-support)
-- [**Video Game Almanac**](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac)
-- [**PhD Motivator**](https://chat.openai.com/g/g-Uw10D1V0J-phd-motivator)
-- [**Code Translator**](https://chat.openai.com/g/g-jLlE0PAJj-code-translator)
-- [**Amazing Escape Plans Coach**](https://chat.openai.com/g/g-isoO5J8FO-amazing-escape-plans-coach)
-- [**JavaScript Full-Stack Web Development Mentor**](https://chat.openai.com/g/g-h9M6gWuAz-javascript-full-stack-web-development-mentor)
-- [**GPinTuitions**](https://chat.openai.com/g/g-li2yFNHC3-gpintuitions)
-- [**Rust Code Companion**](https://chat.openai.com/g/g-hPABQBF3l-rust-code-companion)
-- [**GameDev Sidekick**](https://chat.openai.com/g/g-oxJDln9qa-gamedev-sidekick)
-- [**South Australia Speed Camera Law**](https://chat.openai.com/g/g-gqozZuI8N-south-australia-speed-camera-law)
-- [**類語先生**](https://chat.openai.com/g/g-dvnV3ju5j-lei-yu-xian-sheng)
-- [**FlashcardsGenerator**](https://chat.openai.com/g/g-MWdDmSLYY-flashcardsgenerator)
-- [**The Stata GPT**](https://chat.openai.com/g/g-n5En7TcoK-the-stata-gpt)
-- [**Vocab Whiz**](https://chat.openai.com/g/g-qREjLqjWi-vocab-whiz)
-- [**きのこ当てるくん**](https://chat.openai.com/g/g-fZ3eyj6Kd-kinokodang-terukun)
-- [**Free Education Advisor**](https://chat.openai.com/g/g-iiiXaGnSd-free-education-advisor)
-- [**GPT Teacher (For Work and Business)**](https://chat.openai.com/g/g-u8VoT4pcX-gpt-teacher-for-work-and-business)
-- [**foreign-language-assistant-Chinese_v1.4**](https://chat.openai.com/g/g-xoOcfNK07-foreign-language-assistant-chinese-v1-4)
-- [**RPGPT**](https://chat.openai.com/g/g-vI51scLIo-rpgpt)
-- [**Whitehead's Philosophy of Organism**](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-philosophy-of-organism)
-- [**ConstitucionGPT**](https://chat.openai.com/g/g-fq5CDURZh-constituciongpt)
-- [**ideasGPT**](https://chat.openai.com/g/g-fJv3yUSmj-ideasgpt)
-- [**「先生、質問いいですか？」**](https://chat.openai.com/g/g-hc4E6tsgi-xian-sheng-zhi-wen-iidesuka)
-- [**R Español**](https://chat.openai.com/g/g-e9SAjMtX5-r-espanol)
-- [**学術論文要約マスター**](https://chat.openai.com/g/g-i5APk7q7h-xue-shu-lun-wen-yao-yue-masuta)
-- [**Linda**](https://chat.openai.com/g/g-Z310M0Pp0-linda)
-- [**エルロック・ショルメ**](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume)
-- [**Mentor Mind**](https://chat.openai.com/g/g-uASJVYPDl-mentor-mind)
-- [**EconomicsGPT**](https://chat.openai.com/g/g-y3Cx5DeyI-economicsgpt)
-- [**ChefGPT**](https://chat.openai.com/g/g-W3Jp2BXyS-chefgpt)
-- [**Mestre SdA per a l'educació bàsica**](https://chat.openai.com/g/g-840w744c5-mestre-sda-per-a-l-educacio-basica)
-- [**Make it Easy**](https://chat.openai.com/g/g-N3vQWQhE0-make-it-easy)
-- [**Inception GPT**](https://chat.openai.com/g/g-Z5XIB5Lcd-inception-gpt)
-- [**Keyword search to News Article**](https://chat.openai.com/g/g-hHEdC7whI-keyword-search-to-news-article)
-- [**Patent Pro**](https://chat.openai.com/g/g-m61KgofCL-patent-pro)
-- [**Riddler Level 1**](https://chat.openai.com/g/g-lHY9aWmMB-riddler-level-1)
-- [**J3SUS**](https://chat.openai.com/g/g-e1Wdhy3sG-j3sus)
-- [**Arts Essay Writing**](https://chat.openai.com/g/g-uf2O26zGu-arts-essay-writing)
-- [**Aether**](https://chat.openai.com/g/g-dGvadZE98-aether)
-- [**Awesome GPTs**](https://chat.openai.com/g/g-lV5CZ2iBh-awesome-gpts)
-- [**American Slang Slinger**](https://chat.openai.com/g/g-fWrtgBcqF-american-slang-slinger)
-- [**Learning at Scale**](https://chat.openai.com/g/g-HGK2RrOhc-learning-at-scale)
-- [**The EthiSizer GPT (Simulated) [v3.27]**](https://chat.openai.com/g/g-hZIzxnbWG-the-ethisizer-gpt-simulated-v3-27)
-- [**Military Mentor**](https://chat.openai.com/g/g-WUVeqs0Kl-military-mentor)
-- [**Sage Yoda**](https://chat.openai.com/g/g-ejzqPu82R-sage-yoda)
-- [**SciVive**](https://chat.openai.com/g/g-9qXjceVoc-scivive)
-- [**英语语法教练**](https://chat.openai.com/g/g-eU7c0VHYN-ying-yu-yu-fa-jiao-lian)
-- [**MythosGPT**](https://chat.openai.com/g/g-s1VWJ5dcs-mythosgpt)
-- [**烹饪大师**](https://chat.openai.com/g/g-fFcXyzu51-peng-ren-da-shi)
-- [**Free YouTube Summarizer**](https://chat.openai.com/g/g-fL6Xsk6UU-free-youtube-summarizer)
-- [**CodeMentor**](https://chat.openai.com/g/g-GUwkr2rqx-codementor)
-- [**Ashurbanipal's Scribe**](https://chat.openai.com/g/g-t8cKhNNzh-ashurbanipal-s-scribe)
-- [**Humanity Maximizer**](https://chat.openai.com/g/g-s1SbKQ8hC-humanity-maximizer)
-- [**Visual Vocab Builder**](https://chat.openai.com/g/g-81Jzp5wrX-visual-vocab-builder)
-- [**AI Mentor**](https://chat.openai.com/g/g-yq8bcRni5-ai-mentor)
-- [**Diabetes Asesor**](https://chat.openai.com/g/g-DpRClnu2Z-diabetes-asesor)
-- [**Constitutional Counsel**](https://chat.openai.com/g/g-etZ4JbKIB-constitutional-counsel)
-- [**AI Entrepreneurs Event AIde**](https://chat.openai.com/g/g-sE7MgMNmr-ai-entrepreneurs-event-aide)
-- [**Article Assistant**](https://chat.openai.com/g/g-iunA9kbbI-article-assistant)
-- [**Word Decoder Battle**](https://chat.openai.com/g/g-xkGn8UweU-word-decoder-battle)
-- [**SpeakerGPT**](https://chat.openai.com/g/g-r8PsckX6F-speakergpt)
-- [**Word Judge**](https://chat.openai.com/g/g-s7KNpprTF-word-judge)
-- [**Safe Screen**](https://chat.openai.com/g/g-jZwwbNAX6-safe-screen)
-- [**Librchain**](https://chat.openai.com/g/g-cPBEplmcP-librchain)
-- [**GASGPT**](https://chat.openai.com/g/g-lN2QGmoTw-gasgpt)
-- [**Socratic Teacher**](https://chat.openai.com/g/g-yhIp02Gf7-socratic-teacher)
-- [**StoryTeller for Indian Toddlers**](https://chat.openai.com/g/g-dctGqdfWl-storyteller-for-indian-toddlers)
-- [**Music Marketing Mentor**](https://chat.openai.com/g/g-sHbVLjfSy-music-marketing-mentor)
-- [**Desert Gardening AI Assistant**](https://chat.openai.com/g/g-hLH6x182X-desert-gardening-ai-assistant)
-- [**ManimGPT**](https://chat.openai.com/g/g-dtA3t9WRW-manimgpt)
-- [**Research Reviewer**](https://chat.openai.com/g/g-rMiwNjjai-research-reviewer)
-- [**Mondo Sumio**](https://chat.openai.com/g/g-tHX8G0X9s-mondo-sumio)
-- [**The Dude**](https://chat.openai.com/g/g-GaWo818H8-the-dude)
-- [**TinyDesk**](https://chat.openai.com/g/g-r1iSTTq5t-tinydesk)
-- [**Unofficial Elixir Bot**](https://chat.openai.com/g/g-dNnJ2FhT0-unofficial-elixir-bot)
-- [**Goggins Run Coach**](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach)
-- [**Podcast Pilot**](https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot)
-- [**Out of the Box**](https://chat.openai.com/g/g-g7kcpobyA-out-of-the-box)
-- [**Chat SPI**](https://chat.openai.com/g/g-jgPf4IlUE-chat-spi)
-- [**MKR-GPT**](https://chat.openai.com/g/g-b0iACCvX2-mkr-gpt)
-- [**Solar Sales Expert**](https://chat.openai.com/g/g-h3K2WqMnL-solar-sales-expert)
-- [**Genome Sage**](https://chat.openai.com/g/g-eillIHxWt-genome-sage)
-- [**Training and Development Assistant**](https://chat.openai.com/g/g-svZe0RyzO-training-and-development-assistant)
-- [**Twenty Questions Pro**](https://chat.openai.com/g/g-jCJpLDUfK-twenty-questions-pro)
-- [**News Insight**](https://chat.openai.com/g/g-evkC2kGW1-news-insight)
-- [**Learn Traditional Chinese (TW)**](https://chat.openai.com/g/g-jxpq56vqI-learn-traditional-chinese-tw)
-- [**Taco Maestro**](https://chat.openai.com/g/g-rxuQJ0AL7-taco-maestro)
-- [**ジェイムズ・ジョイスBot**](https://chat.openai.com/g/g-r2xPRa7FF-zieimuzuziyoisubot)
-- [**Imaginative Lyric Interpreter**](https://chat.openai.com/g/g-lUT8fROHb-imaginative-lyric-interpreter)
-- [**Egyptian Dad GPT**](https://chat.openai.com/g/g-sc4pju5S6-egyptian-dad-gpt)
-- [**Ebook Writer & Designer GPT**](https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-gpt)
-- [**Intentions Visualizer**](https://chat.openai.com/g/g-r6zWTlEoj-intentions-visualizer)
-- [**CompoundGPT**](https://chat.openai.com/g/g-YYWQsWPGV-compoundgpt)
-- [**Ai PDF**](https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf)
-- [**Feng Shui Ba Zi**](https://chat.openai.com/g/g-bQZx1EhJl-feng-shui-ba-zi)
-- [**Bicycle Advisor & Buyer's Guide**](https://chat.openai.com/g/g-gOXbCxNVE-bicycle-advisor-buyer-s-guide)
-- [**Polyglot Interpreter**](https://chat.openai.com/g/g-vpR86raew-polyglot-interpreter)
-- [**Programming Interview Bot**](https://chat.openai.com/g/g-eVQTLMKyf-programming-interview-bot)
-- [**SWOT Guide**](https://chat.openai.com/g/g-bWOx7Yv9T-swot-guide)
-- [**Product Management GPT**](https://chat.openai.com/g/g-VhN6RLUJX-product-management-gpt)
-- [**Career Compass**](https://chat.openai.com/g/g-eiCppa5VM-career-compass)
-- [**User Persona Bot**](https://chat.openai.com/g/g-bearQwPJt-user-persona-bot)
-- [**Richard Heart**](https://chat.openai.com/g/g-e95Yf6Dkx-richard-heart)
-- [**Ski Buddy**](https://chat.openai.com/g/g-h6m7K1Atg-ski-buddy)
-- [**Startup Tech Advisor**](https://chat.openai.com/g/g-etTaP43PT-startup-tech-advisor)
-- [**Tao Wisdom Guide**](https://chat.openai.com/g/g-bfOpU9bAk-tao-wisdom-guide)
-- [**Chinese Food Chef**](https://chat.openai.com/g/g-cgEfSZabk-chinese-food-chef)
-- [**Story Mentor**](https://chat.openai.com/g/g-euPtVLBly-story-mentor)
-- [**LangGPT**](https://chat.openai.com/g/g-gP24xxhB2-langgpt)
-- [**agri1.ai**](https://chat.openai.com/g/g-iWFptmqAp-agri1-ai)
-- [**Military Analyst - Ares Magnus**](https://chat.openai.com/g/g-X1kbst8Se-military-analyst-ares-magnus)
-- [**Portuguese Pal**](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal)
-- [**CS2 Playmaker**](https://chat.openai.com/g/g-k3bTz18GY-cs2-playmaker)
-- [**Albert Einstein**](https://chat.openai.com/g/g-fsEAvcyDi-albert-einstein)
-- [**Roemmele's Debate Professor**](https://chat.openai.com/g/g-lfgDMc76W-roemmele-s-debate-professor)
-- [**ChatBardGPT**](https://chat.openai.com/g/g-bkWUDFur2-chatbardgpt)
-- [**Pocket Bible**](https://chat.openai.com/g/g-fUVNu0iMs-pocket-bible)
-- [**유아 교육 및 보육 분야의 30년 현장, 학계 전문가**](https://chat.openai.com/g/g-bbPItWLEz-yua-gyoyug-mic-boyug-bunyayi-30nyeon-hyeonjang-haggye-jeonmunga)
-- [**Based Bitcoin Buddy**](https://chat.openai.com/g/g-WCqkELUCI-based-bitcoin-buddy)
-- [**Gourmet GPT**](https://chat.openai.com/g/g-bII5U0xLR-gourmet-gpt)
-- [**History Helper**](https://chat.openai.com/g/g-o8fEFjQgr-history-helper)
-- [**Snow Crash GPT**](https://chat.openai.com/g/g-dmjvfgZ2A-snow-crash-gpt)
-- [**MarineVerse AI**](https://chat.openai.com/g/g-dldiMRd24-marineverse-ai)
-- [**時事歌人ちゃん**](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan)
-- [**National Dex**](https://chat.openai.com/g/g-xSXmNYRsz-national-dex)
-- [**Junior Teacher**](https://chat.openai.com/g/g-bafxc3FQK-junior-teacher)
-- [**FREE YT AI Content Outline Creator & Generator**](https://chat.openai.com/g/g-YGM7FceRr-free-yt-ai-content-outline-creator-generator)
-- [**English Lingo Buddy**](https://chat.openai.com/g/g-XFEHts4mz-english-lingo-buddy)
-- [**Your Tutor**](https://chat.openai.com/g/g-iOYJjtzhj-your-tutor)
-- [**Paper Interpreter**](https://chat.openai.com/g/g-YEbrz24uJ-paper-interpreter)
-- [**Auth Engineer**](https://chat.openai.com/g/g-VSbj8p6zv-auth-engineer)
-- [**Tiki-Taka Thinker**](https://chat.openai.com/g/g-ovQYdQZXT-tiki-taka-thinker)
-- [**PM Copilot**](https://chat.openai.com/g/g-nE4Dy580f-pm-copilot)
-- [**Go Guru**](https://chat.openai.com/g/g-aiqddk0ux-go-guru)
-- [**Jesus Christ ✝️**](https://chat.openai.com/g/g-XrT8vHsyQ-jesus-christ)
-- [**7 Minute Productivity Coach**](https://chat.openai.com/g/g-arkWFxqKw-7-minute-productivity-coach)
-- [**Who are you**](https://chat.openai.com/g/g-bsKrB6qXS-who-are-you)
-- [**Inside Neuron**](https://chat.openai.com/g/g-n5P9GuaOt-inside-neuron)
-- [**Product Pioneer**](https://chat.openai.com/g/g-cno9BNTaV-product-pioneer)
-- [**Academic Insight**](https://chat.openai.com/g/g-RNLXN9WWD-academic-insight)
-- [**HormoziGPT**](https://chat.openai.com/g/g-aIWEfl3zH-hormozigpt)
-- [**RPGMakerGPT**](https://chat.openai.com/g/g-bNCJO6o9I-rpgmakergpt)
-- [**Roblox Coder Ninja**](https://chat.openai.com/g/g-YVgd9c3n0-roblox-coder-ninja)
-- [**ChessGPT**](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt)
-- [**FRM Level 2**](https://chat.openai.com/g/g-lMWCU27Ui-frm-level-2)
-- [**English Buddy**](https://chat.openai.com/g/g-bTx9hj4Hy-english-buddy)
-- [**Academizer**](https://chat.openai.com/g/g-sV45b90aj-academizer)
-- [**Starwatcher pitch deck analyzer**](https://chat.openai.com/g/g-aJp6BLoFg-starwatcher-pitch-deck-analyzer)
-- [**チーちゃん**](https://chat.openai.com/g/g-ai4cvwkoW-titiyan)
-- [**Moot Master**](https://chat.openai.com/g/g-soRoLeMuH-moot-master)
-- [**Multilingual Subtitle Assistant**](https://chat.openai.com/g/g-dCGTnQYK5-multilingual-subtitle-assistant)
-- [**TRPGシナリオサポート**](https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto)
-- [**Chapter Enhancer**](https://chat.openai.com/g/g-lLIHOSoWU-chapter-enhancer)
-- [**StarTalk**](https://chat.openai.com/g/g-kyX8sb2Jk-startalk)
-- [**Skiing Coach**](https://chat.openai.com/g/g-Y5tPcz0SN-skiing-coach)
-- [**Mindmap Anything**](https://chat.openai.com/g/g-cT0umsiWF-mindmap-anything)
-- [**Echoes of Eden: Your Guide to the Bible (KJV)**](https://chat.openai.com/g/g-x0WJbDdKU-echoes-of-eden-your-guide-to-the-bible-kjv)
-- [**Curio Quest**](https://chat.openai.com/g/g-qNrC3EuBP-curio-quest)
-- [**Ancestry**](https://chat.openai.com/g/g-qjhXcyHhD-ancestry)
-- [**German Medico Linguist**](https://chat.openai.com/g/g-lXCxMSi3U-german-medico-linguist)
-- [**Dungeon Master Guide**](https://chat.openai.com/g/g-qjlHjt2Ta-dungeon-master-guide)
-- [**Python NLP & spaCy Helper**](https://chat.openai.com/g/g-RdPfyddKa-python-nlp-spacy-helper)
-- [**Ask The Bible**](https://chat.openai.com/g/g-qvswjJE7T-ask-the-bible)
-- [**Fallacy Finder**](https://chat.openai.com/g/g-cU6FzbSB3-fallacy-finder)
-- [**ThursdAI WiseOwl GPT**](https://chat.openai.com/g/g-aDA7BvGO0-thursdai-wiseowl-gpt)
-- [**Esteem Builder GPT**](https://chat.openai.com/g/g-vf5HKKKLP-esteem-builder-gpt)
-- [**Truc de Comptable**](https://chat.openai.com/g/g-BN9B8k9Go-truc-de-comptable)
-- [**Scholar's Mate**](https://chat.openai.com/g/g-w1ZaRCzCU-scholar-s-mate)
-- [**Run Coach Pro**](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro)
-- [**S.A.M**](https://chat.openai.com/g/g-whcP8vw3y-s-a-m)
-- [**مصمم تعليمي**](https://chat.openai.com/g/g-bY36vvnK1-msmm-t-lymy)
-- [**The Sommelier**](https://chat.openai.com/g/g-bJKm0Xi2F-the-sommelier)
-- [**Coach PM**](https://chat.openai.com/g/g-qyEiiIAC7-coach-pm)
-- [**Word Roots Explorer**](https://chat.openai.com/g/g-fhm9gwPiR-word-roots-explorer)
-- [**AI Paper Master**](https://chat.openai.com/g/g-vyZV9nHU0-ai-paper-master)
-- [**大船渡市ゴミ分類辞典**](https://chat.openai.com/g/g-qnhEln1Bw-da-chuan-du-shi-gomifen-lei-ci-dian)
-- [**Aaaaliterator**](https://chat.openai.com/g/g-VWPPLhjEu-aaaaliterator)
-- [**Haskell GPT**](https://chat.openai.com/g/g-wMbcgEmGg-haskell-gpt)
-- [**Cybercrime Tracker**](https://chat.openai.com/g/g-qbW4XNs80-cybercrime-tracker)
-- [**Sensei Chat**](https://chat.openai.com/g/g-iS8QQN936-sensei-chat)
-- [**なじみのソフトウェアエンジニア**](https://chat.openai.com/g/g-V51MA5Wqz-naziminosohutoueaenzinia)
-- [**Linguist Lens**](https://chat.openai.com/g/g-VD0Prjuqt-linguist-lens)
-- [**HongKongGPT**](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt)
-- [**BrainIA CyberHack**](https://chat.openai.com/g/g-wKJjP0cZu-brainia-cyberhack)
-- [**FolkloreFusionist**](https://chat.openai.com/g/g-ckO7g2OSx-folklorefusionist)
-- [**D&D Character Builder**](https://chat.openai.com/g/g-kk682AF8o-d-d-character-builder)
-- [**Sclépios I.A : Réviser Cas Clinique**](https://chat.openai.com/g/g-XsgKmgRHh-sclepios-i-a-reviser-cas-clinique)
-- [**Central Banker**](https://chat.openai.com/g/g-qqnq09Gpg-central-banker)
-- [**BlueOceanStrategyGPT**](https://chat.openai.com/g/g-aMZ9M54s1-blueoceanstrategygpt)
-- [**Nostalgic Future GPT**](https://chat.openai.com/g/g-XQlPSAXpj-nostalgic-future-gpt)
-- [**ArbetsrättsGPT**](https://chat.openai.com/g/g-d26HcaBLw-arbetsrattsgpt)
-- [**Character Oracle**](https://chat.openai.com/g/g-aDHHdHNeT-character-oracle)
-- [**Supabase Docs Writer**](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer)
-- [**MBTI Explorer**](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer)
-- [**Find Me a Publisher**](https://chat.openai.com/g/g-bZ2Sfe6u0-find-me-a-publisher)
-- [**DB Specialist**](https://chat.openai.com/g/g-g8PIEX2Dh-db-specialist)
-- [**A Certain Battery Index**](https://chat.openai.com/g/g-XVNDTrZyU-a-certain-battery-index)
-- [**FastGPT**](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt)
-- [**Executive Coach GPT**](https://chat.openai.com/g/g-YHw2X2Qwy-executive-coach-gpt)
-- [**Neuro Mind**](https://chat.openai.com/g/g-cLbyDuLfy-neuro-mind)
-- [**Virtual Confessor**](https://chat.openai.com/g/g-cpn4hn8D1-virtual-confessor)
-- [**Dog Facts 🐶**](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
-- [**Article Expert**](https://chat.openai.com/g/g-d627yBqcK-article-expert)
-- [**Lyric Interpreter**](https://chat.openai.com/g/g-jdTQPPduT-lyric-interpreter)
-- [**QuizMe**](https://chat.openai.com/g/g-X1xe2GH9z-quizme)
-- [**Bitcoin Simplifier**](https://chat.openai.com/g/g-UOwEu1iAJ-bitcoin-simplifier)
-- [**长者 2.0**](https://chat.openai.com/g/g-auTuUwc67-chang-zhe-2-0)
-- [**Analista del libro España desde el bar**](https://chat.openai.com/g/g-lCSuSSY6C-analista-del-libro-espana-desde-el-bar)
-- [**RPG Adventure Creator**](https://chat.openai.com/g/g-htrf9eCih-rpg-adventure-creator)
-- [**Epic Ironsworn Narrator**](https://chat.openai.com/g/g-jH0uTe10k-epic-ironsworn-narrator)
-- [**りなちゃん**](https://chat.openai.com/g/g-jCIHhZSvu-rinatiyan)
-- [**MVME**](https://chat.openai.com/g/g-XnGn2OwgF-mvme)
-- [**Resume Coach**](https://chat.openai.com/g/g-iJHJFTkwd-resume-coach)
-- [**Conceptmap**](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap)
-- [**Magic Book Maker**](https://chat.openai.com/g/g-cBtBgHvfX-magic-book-maker)
-- [**French Article Assistant**](https://chat.openai.com/g/g-dUaZhBVto-french-article-assistant)
-- [**Seer's Screaming Frog & Technical SEO Companion**](https://chat.openai.com/g/g-bIrnI1355-seer-s-screaming-frog-technical-seo-companion)
-- [**Word Smith**](https://chat.openai.com/g/g-XPYTZN4Y5-word-smith)
-- [**Cosmic Contextualizer**](https://chat.openai.com/g/g-avbPcqypK-cosmic-contextualizer)
-- [**Unofficial YC Startup School chatbot**](https://chat.openai.com/g/g-e8mFjKgbx-unofficial-yc-startup-school-chatbot)
-- [**Whisker Wisdom**](https://chat.openai.com/g/g-XPlXKFCjL-whisker-wisdom)
-- [**Satellite Sentinel**](https://chat.openai.com/g/g-xF9APZOOj-satellite-sentinel)
-- [**Hifi Advisor**](https://chat.openai.com/g/g-iDH6FQyT2-hifi-advisor)
-- [**Tribeana（トリビアナ）**](https://chat.openai.com/g/g-Xy2j98IAi-tribeana-toribiana)
-- [**Rebuttal Pro**](https://chat.openai.com/g/g-fnrMLZJ4V-rebuttal-pro)
-- [**Instant Native Translator (English-Turkish)**](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish)
-- [**Tamil Cinema Geek**](https://chat.openai.com/g/g-YLY5WPYKf-tamil-cinema-geek)
-- [**Dwarven Plumphelp Tactician**](https://chat.openai.com/g/g-b5V7I3Zwe-dwarven-plumphelp-tactician)
-- [**Oshirabe Editor**](https://chat.openai.com/g/g-c32f1VEqa-oshirabe-editor)
-- [**MedSplorer**](https://chat.openai.com/g/g-ddG4D4BVN-medsplorer)
-- [**Historicat Illustrator**](https://chat.openai.com/g/g-pQASTHPAq-historicat-illustrator)
-- [**Quizzy Whiz**](https://chat.openai.com/g/g-b3nqTo7ye-quizzy-whiz)
-- [**DSA_GPT**](https://chat.openai.com/g/g-lLKvGvlwD-dsa-gpt)
-- [**Script Composer**](https://chat.openai.com/g/g-ahKqNRlrt-script-composer)
-- [**Summary Assistant**](https://chat.openai.com/g/g-XctgRNLZM-summary-assistant)
-- [**ALL IN GPT**](https://chat.openai.com/g/g-G9xpNjjMi-all-in-gpt)
-- [**Gourmet Globe**](https://chat.openai.com/g/g-kUlNPdMIS-gourmet-globe)
-- [**Mental Model Expert**](https://chat.openai.com/g/g-u2NzgGdLt-mental-model-expert)
-- [**Universal Storyteller (UST-10-L)**](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust-10-l)
-- [**Your Personal Finance Analytics Coach**](https://chat.openai.com/g/g-aTFvSLcDa-your-personal-finance-analytics-coach)
-- [**Academic Translator (to English)**](https://chat.openai.com/g/g-WZjelkFDn-academic-translator-to-english)
-- [**Kurzgesagt Earth History Guide**](https://chat.openai.com/g/g-Xb1F3xGKK-kurzgesagt-earth-history-guide)
-- [**LeanAnalyticsGPT**](https://chat.openai.com/g/g-WtOfEm85C-leananalyticsgpt)
-- [**IELTS Tutor by Talkface**](https://chat.openai.com/g/g-aL43eBb6Y-ielts-tutor-by-talkface)
-- [**Grammar Guardian**](https://chat.openai.com/g/g-G3BjpBTCS-grammar-guardian)
-- [**Conquest Commander**](https://chat.openai.com/g/g-l7hTdS9pH-conquest-commander)
-- [**Steel Man GPT**](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-gpt)
-- [**AI Pro Real Estate**](https://chat.openai.com/g/g-sWt3mVNRD-ai-pro-real-estate)
-- [**TeslaGPT**](https://chat.openai.com/g/g-XoF2Qfa6F-teslagpt)
-- [**Land any job**](https://chat.openai.com/g/g-XBRQFr4ol-land-any-job)
-- [**Qdai Rule Reference Agent(仮)**](https://chat.openai.com/g/g-c4b05QftV-qdai-rule-reference-agent-jia)
-- [**Strategic Growth Mentor**](https://chat.openai.com/g/g-jkjUiWJKn-strategic-growth-mentor)
-- [**CricketGPT**](https://chat.openai.com/g/g-dkQ9XgIMz-cricketgpt)
-- [**Enlighten Tutor**](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-tutor)
-- [**BioResearch Scout**](https://chat.openai.com/g/g-o8o3cNsYs-bioresearch-scout)
-- [**Code Wizard for Unity**](https://chat.openai.com/g/g-9bMmL0Q6x-code-wizard-for-unity)
-- [**Concept Tutor**](https://chat.openai.com/g/g-i9Rqad1Li-concept-tutor)
-- [**入门级LangChain导师**](https://chat.openai.com/g/g-bEiEp8cjF-ru-men-ji-langchaindao-shi)
-- [**GPT Builder**](https://chat.openai.com/g/g-YoI0yk3Kv-gpt-builder)
-- [**Baby & Me: For Dads**](https://chat.openai.com/g/g-tjhHGI7JV-baby-me-for-dads)
-- [**Peatarian Health Bot**](https://chat.openai.com/g/g-ifQn8AvOF-peatarian-health-bot)
-- [**Astrology Birth Chart GPT**](https://chat.openai.com/g/g-WxckXARTP-astrology-birth-chart-gpt)
-- [**Genshin Linguist**](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist)
-- [**1923 Cotton Club - Reglas en Español**](https://chat.openai.com/g/g-fvxUboQvr-1923-cotton-club-reglas-en-espanol)
-- [**Dungeon Master AI**](https://chat.openai.com/g/g-d3vKdCFlo-dungeon-master-ai)
-- [**XRDevGuideTutor**](https://chat.openai.com/g/g-VKnLoI9n5-xrdevguidetutor)
-- [**Excel Wizard**](https://chat.openai.com/g/g-aC8D0WAXg-excel-wizard)
-- [**Effective Accelerationist**](https://chat.openai.com/g/g-XgmVwJH8P-effective-accelerationist)
-- [**Royaume du Léman**](https://chat.openai.com/g/g-hkdis7zBR-royaume-du-leman)
-- [**Detector de Falacias**](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacias)
-- [**Sermons by Pastors.ai**](https://chat.openai.com/g/g-eXsWqqsiz-sermons-by-pastors-ai)
-- [**K-Creative Muse**](https://chat.openai.com/g/g-MMeeTktu8-k-creative-muse)
-- [**Quranic Insight**](https://chat.openai.com/g/g-TbdGcd84i-quranic-insight)
-- [**おかん**](https://chat.openai.com/g/g-LzhYh6Yq8-okan)
-- [**Data Science Project Generator**](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator)
-- [**FrontendDev Angel**](https://chat.openai.com/g/g-znb7W6WIN-frontenddev-angel)
-- [**Deposit Defender**](https://chat.openai.com/g/g-coPfpBexx-deposit-defender)
-- [**Sandman**](https://chat.openai.com/g/g-gsbzhjHr5-sandman)
-- [**Dave [UFO Analyst]**](https://chat.openai.com/g/g-LUQvGeeIm-dave-ufo-analyst)
-- [**OchyAI**](https://chat.openai.com/g/g-zprRltiOf-ochyai)
-- [**Data Career Guide**](https://chat.openai.com/g/g-g2ds5iD2e-data-career-guide)
-- [**Manifest Your Dream Life**](https://chat.openai.com/g/g-hL8Y9gcuW-manifest-your-dream-life)
-- [**书评来了**](https://chat.openai.com/g/g-hYGIUt47i-shu-ping-lai-liao)
-- [**Lol Coach**](https://chat.openai.com/g/g-lehmhsUfd-lol-coach)
-- [**Self-Reflect**](https://chat.openai.com/g/g-WMskZBh5J-self-reflect)
-- [**Anki Card Crafter**](https://chat.openai.com/g/g-eYbHsisDd-anki-card-crafter)
-- [**Electrical Transformer Technician's Daily Helper**](https://chat.openai.com/g/g-s1ULPP8Tl-electrical-transformer-technician-s-daily-helper)
-- [**SEO Article Wizard**](https://chat.openai.com/g/g-WHuhBXJ1H-seo-article-wizard)
-- [**Story SpinnerAI**](https://chat.openai.com/g/g-ttChagank-story-spinnerai)
-- [**SmartGPT**](https://chat.openai.com/g/g-UiIlbfThK-smartgpt)
-- [**SEcOpilot**](https://chat.openai.com/g/g-qJ1Jqjuzo-secopilot)
-- [**New Zealand**](https://chat.openai.com/g/g-afCRtBD9t-new-zealand)
-- [**Ken Wilber Integral Insight**](https://chat.openai.com/g/g-XJbsaMONu-ken-wilber-integral-insight)
-- [**Not Your Father's Peer**](https://chat.openai.com/g/g-jlWKm6xUm-not-your-father-s-peer)
-- [**Master of Playful Debates**](https://chat.openai.com/g/g-WhJcZ9xOC-master-of-playful-debates)
-- [**PitchAndBusinessPlanReviewGPT**](https://chat.openai.com/g/g-qQhfG5y2n-pitchandbusinessplanreviewgpt)
-- [**HackTricksGPT**](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt)
-- [**Prompty**](https://chat.openai.com/g/g-aZLV4vji6-prompty)
-- [**Cricket Buff**](https://chat.openai.com/g/g-XbI3595aT-cricket-buff)
-- [**超级个体创业助手**](https://chat.openai.com/g/g-Xwym2g2Z1-chao-ji-ge-ti-chuang-ye-zhu-shou)
-- [**Curiosity Quench**](https://chat.openai.com/g/g-aK0JaQiIJ-curiosity-quench)
-- [**Anime Persona Analyst**](https://chat.openai.com/g/g-WsLyIEouK-anime-persona-analyst)
-- [**Popper Alive**](https://chat.openai.com/g/g-xzk7quxrv-popper-alive)
-- [**Coach Tough**](https://chat.openai.com/g/g-qL2aHoJfb-coach-tough)
-- [**Podcast Concept Wiz**](https://chat.openai.com/g/g-eSJCMMvCO-podcast-concept-wiz)
-- [**Meta-Agent of Wisdom**](https://chat.openai.com/g/g-e2wO2pUAD-meta-agent-of-wisdom)
-- [**Carl JungGPT**](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt)
-- [**Bubble Bot**](https://chat.openai.com/g/g-dGEnyHvuw-bubble-bot)
-- [**Article Analysis Suite**](https://chat.openai.com/g/g-Y9Wemeodp-article-analysis-suite)
-- [**Code Animator**](https://chat.openai.com/g/g-r4TatQY5C-code-animator)
-- [**Mystic Sage（算命神器）**](https://chat.openai.com/g/g-ezzK8pt3x-mystic-sage-suan-ming-shen-qi)
-- [**Discover China**](https://chat.openai.com/g/g-dqRVmXqdL-discover-china)
-- [**Professor Synapse Agent**](https://chat.openai.com/g/g-WikWIyZkR-professor-synapse-agent)
-- [**Tailwind Helper**](https://chat.openai.com/g/g-ZBXcOuAqi-tailwind-helper)
-- [**FlourishingApp - JobCrafting**](https://chat.openai.com/g/g-bJOcTndWX-flourishingapp-jobcrafting)
-- [**ChatPRD**](https://chat.openai.com/g/g-G5diVh12v-chatprd)
-- [**Mentor: Sam Altman will teach you Startup**](https://chat.openai.com/g/g-eaUpc7dUz-mentor-sam-altman-will-teach-you-startup)
-- [**Game Dev Guide**](https://chat.openai.com/g/g-qWqcUJ6qI-game-dev-guide)
-- [**BHD_lecture**](https://chat.openai.com/g/g-qkR1Q0SRj-bhd-lecture)
-- [**Jacques**](https://chat.openai.com/g/g-lgjLNj9Zb-jacques)
-- [**Recovery Sage**](https://chat.openai.com/g/g-y2afOyuCd-recovery-sage)
-- [**Working Theories**](https://chat.openai.com/g/g-eBL2n3Kdn-working-theories)
-- [**The Holy Bible**](https://chat.openai.com/g/g-bfmrASTkG-the-holy-bible)
-- [**VRニュース解説くん**](https://chat.openai.com/g/g-X8QbEfcSt-vrniyusujie-shuo-kun)
-- [**Invasion Simulator**](https://chat.openai.com/g/g-q3MkBOscY-invasion-simulator)
-- [**Mystic Narrator**](https://chat.openai.com/g/g-eBYqhgVeR-mystic-narrator)
-- [**PestPro Pal**](https://chat.openai.com/g/g-cI0th2a92-pestpro-pal)
-- [**YT Shorts assistant**](https://chat.openai.com/g/g-qm6FQXJU4-yt-shorts-assistant)
-- [**Arabic Scribe**](https://chat.openai.com/g/g-plKoK5LZ7-arabic-scribe)
-- [**Unity Wiz**](https://chat.openai.com/g/g-eTWblhqZO-unity-wiz)
-- [**Rick - Wubba lubba dub dub**](https://chat.openai.com/g/g-iXL78mJ6D-rick-wubba-lubba-dub-dub)
-- [**Spicy Transwing**](https://chat.openai.com/g/g-qAea5ZTi6-spicy-transwing)
-- [**Socratic Guide**](https://chat.openai.com/g/g-U8DWsDXVX-socratic-guide)
-- [**DM's Friend**](https://chat.openai.com/g/g-jXKzpvoJC-dm-s-friend)
-- [**Crypto Advisor Sam**](https://chat.openai.com/g/g-e5I2JUfHj-crypto-advisor-sam)
-- [**ミニ四駆競技に関する質問に答えるBOT**](https://chat.openai.com/g/g-cLrBtRlbe-minisi-qu-jing-ji-niguan-suruzhi-wen-nida-erubot)
-- [**Japanese Consultant**](https://chat.openai.com/g/g-cRzykmv5g-japanese-consultant)
-- [**(evr.ai)  Cannabot**](https://chat.openai.com/g/g-bgEsABg3e-evr-ai-cannabot)
-- [**Vegan Visionary**](https://chat.openai.com/g/g-UgrXtPnsz-vegan-visionary)
-- [**GPT Sensei**](https://chat.openai.com/g/g-g3ju6v9eb-gpt-sensei)
-- [**EksamensGPT**](https://chat.openai.com/g/g-uvS90JdBu-eksamensgpt)
-- [**Growth Hack PRO**](https://chat.openai.com/g/g-TztgZ8VlY-growth-hack-pro)
-- [**Dragonet Prophecy Revealed**](https://chat.openai.com/g/g-hSFQnUnNY-dragonet-prophecy-revealed)
-- [**DevDay ChatBot**](https://chat.openai.com/g/g-WNmeP07xZ-devday-chatbot)
-- [**English Translator**](https://chat.openai.com/g/g-aI66lwHdN-english-translator)
-- [**CubeGPT**](https://chat.openai.com/g/g-bxVzv6WkR-cubegpt)
-- [**Cover Letter Companion**](https://chat.openai.com/g/g-iX01Jx22r-cover-letter-companion)
-- [**Quicker by QuickBrands**](https://chat.openai.com/g/g-beDCPGWKr-quicker-by-quickbrands)
-- [**Anime Archive Aide**](https://chat.openai.com/g/g-bBragyjhF-anime-archive-aide)
-- [**ChatGaia**](https://chat.openai.com/g/g-aYZOjK5zy-chatgaia)
-- [**jacobGPT-beta**](https://chat.openai.com/g/g-aM8yVX5od-jacobgpt-beta)
-- [**Bossbabe idea generator**](https://chat.openai.com/g/g-G4O1AZypp-bossbabe-idea-generator)
-- [**Experto Legal España**](https://chat.openai.com/g/g-v08ZW5qh0-experto-legal-espana)
-- [**Dream Interpreter AI周公解梦**](https://chat.openai.com/g/g-grGt6EfPH-dream-interpreter-aizhou-gong-jie-meng)
-- [**Graham Insights**](https://chat.openai.com/g/g-XIwV1fHPZ-graham-insights)
-- [**Lockpick Pro**](https://chat.openai.com/g/g-vcYOuS5iD-lockpick-pro)
-- [**まなぶくん**](https://chat.openai.com/g/g-SR8wlS6Hn-manabukun)
-- [**科技文章翻译**](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi)
-- [**Legal Beaver**](https://chat.openai.com/g/g-TKmSRan3s-legal-beaver)
-- [**EQ GPT**](https://chat.openai.com/g/g-v2bTuGZ8Z-eq-gpt)
-- [**Computer Vision Developer**](https://chat.openai.com/g/g-vHELtCqJq-computer-vision-developer)
-- [**HEI GPTβ**](https://chat.openai.com/g/g-JoNuJjbMv-hei-gptb)
-- [**Mandarin Lingua Sage: 字 GPT**](https://chat.openai.com/g/g-6JX0cy4c5-mandarin-lingua-sage-zi-gpt)
-- [**Pro Vick Ai**](https://chat.openai.com/g/g-6scYfzaqx-pro-vick-ai)
-- [**Aquarius Insight**](https://chat.openai.com/g/g-6YJ3JzNxc-aquarius-insight)
-- [**North PM Assistent**](https://chat.openai.com/g/g-gftTAMCol-north-pm-assistent)
-- [**GPT IELTS**](https://chat.openai.com/g/g-xis5q5wKt-gpt-ielts)
-- [**E-Lit Bot**](https://chat.openai.com/g/g-USzNQ7K1m-e-lit-bot)
-- [**GPTLEGAL RD**](https://chat.openai.com/g/g-G4GUWk3r3-gptlegal-rd)
-- [**EduCoach**](https://chat.openai.com/g/g-G12uiHgx2-educoach)
-- [**MBTI**](https://chat.openai.com/g/g-QS81K5kJ4-mbti)
-- [**Wintermute**](https://chat.openai.com/g/g-bV2Z5pjny-wintermute)
-- [**Văn Miếu (Temple of Literature, Hanoi)**](https://chat.openai.com/g/g-VRt4pxu1z-van-mieu-temple-of-literature-hanoi)
-- [**Roleboarder**](https://chat.openai.com/g/g-aDz9jSSZ0-roleboarder)
-- [**ChileanGPT**](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt)
-- [**Ray.DiGPT**](https://chat.openai.com/g/g-SPAwqfqd4-ray-digpt)
-- [**WhoGPT**](https://chat.openai.com/g/g-VeCwAj82Z-whogpt)
-- [**Study Buddy**](https://chat.openai.com/g/g-afuywyzOi-study-buddy)
-- [**Digital Marketing Specialist**](https://chat.openai.com/g/g-TtKp4Fm2e-digital-marketing-specialist)
-- [**HealthyGamer GPT**](https://chat.openai.com/g/g-sN4ZIIcFy-healthygamer-gpt)
-- [**Professor Thoth**](https://chat.openai.com/g/g-X0jzWMpl1-professor-thoth)
-- [**Greedbot**](https://chat.openai.com/g/g-TtdbmjYc1-greedbot)
-- [**Discover GPT**](https://chat.openai.com/g/g-V26GCJ3yb-discover-gpt)
-- [**MrPython**](https://chat.openai.com/g/g-Q2vla3J4d-mrpython)
-- [**AlterMe**](https://chat.openai.com/g/g-sonqEIOfx-alterme)
-- [**Fourth Turning Explorer**](https://chat.openai.com/g/g-RL2P5LGdZ-fourth-turning-explorer)
-- [**学習者弱点ブレイカー(Learner Vulnerabilities Breaker)**](https://chat.openai.com/g/g-S3SOrStHj-xue-xi-zhe-ruo-dian-bureika-learner-vulnerabilities-breaker)
-- [**HPV and Cancer**](https://chat.openai.com/g/g-R8njbI95T-hpv-and-cancer)
-- [**Marketing Guru**](https://chat.openai.com/g/g-Q34b39HYN-marketing-guru)
-- [**Game Dev Mentor**](https://chat.openai.com/g/g-Q4yGQG2vZ-game-dev-mentor)
-- [**Copy Edit Meister**](https://chat.openai.com/g/g-U2bR44RvA-copy-edit-meister)
-- [***뮤트**](https://chat.openai.com/g/g-thPI1ZKEs-myuteu)
-- [**十日町病院初期研修Bot**](https://chat.openai.com/g/g-PaWQiW1Wb-shi-ri-ting-bing-yuan-chu-qi-yan-xiu-bot)
-- [**Unplug Solar**](https://chat.openai.com/g/g-QNiUrBMFR-unplug-solar)
-- [**Resume Creator (High ATS)**](https://chat.openai.com/g/g-sRiBLzqGd-resume-creator-high-ats)
-- [**Document CHAT**](https://chat.openai.com/g/g-FG3HYZbgD-document-chat)
-- [**Python Mentor**](https://chat.openai.com/g/g-V99xyNmaP-python-mentor)
-- [**中立批判 GPT**](https://chat.openai.com/g/g-S3rIhfQkr-zhong-li-pi-pan-gpt)
-- [**Serial Entrepreneur**](https://chat.openai.com/g/g-bKgy2W80a-serial-entrepreneur)
-- [**academist AI**](https://chat.openai.com/g/g-UEX6oBkCJ-academist-ai)
-- [**Help fight François Legault's insane tuition hikes**](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hikes)
-- [**ReincarnationAI**](https://chat.openai.com/g/g-FlyYtqjut-reincarnationai)
-- [**EduAdvisor**](https://chat.openai.com/g/g-RqNelnOeM-eduadvisor)
-- [**Caloria**](https://chat.openai.com/g/g-ds9ESsMIV-caloria)
-- [**Azure Architect**](https://chat.openai.com/g/g-QgiQ408Af-azure-architect)
-- [**Jordan B. PetersonGPT**](https://chat.openai.com/g/g-bezvyfnxx-jordan-b-petersongpt)
-- [**小野さん**](https://chat.openai.com/g/g-RhGnHUsei-xiao-ye-san)
-- [**SciFi RPG GPT**](https://chat.openai.com/g/g-SDBtk6AeA-scifi-rpg-gpt)
-- [**Professor Oak**](https://chat.openai.com/g/g-AgIqalAYW-professor-oak)
-- [**LeadershipGPT**](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgpt)
-- [**Text Tailor**](https://chat.openai.com/g/g-bMHODmGvJ-text-tailor)
-- [**Create Short Stories to Learn a Language**](https://chat.openai.com/g/g-tXEyZoKVx-create-short-stories-to-learn-a-language)
-- [**Mind Coach**](https://chat.openai.com/g/g-DkkWbaZ13-mind-coach)
-- [**UK Bull Dung Checker**](https://chat.openai.com/g/g-cm2X3wdqG-uk-bull-dung-checker)
-- [**Chrono Companion**](https://chat.openai.com/g/g-FvuPHlHLX-chrono-companion)
-- [**新人眼鏡屋用、用途問診BOT**](https://chat.openai.com/g/g-EDqiVFyfl-xin-ren-yan-jing-wu-yong-yong-tu-wen-zhen-bot)
-- [**Javed Ahmad Ghamidi**](https://chat.openai.com/g/g-fI0i9HyvT-javed-ahmad-ghamidi)
-- [**Rush Rust**](https://chat.openai.com/g/g-S6uhWW9eG-rush-rust)
-- [**YourThoughtsAreMined**](https://chat.openai.com/g/g-TYkdeHfbO-yourthoughtsaremined)
-- [**Once Upon a Time**](https://chat.openai.com/g/g-cYASnfoZ3-once-upon-a-time)
-- [**App Builder**](https://chat.openai.com/g/g-Th6nv2nQQ-app-builder)
-- [**Veterans Affairs Guide**](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide)
-- [**Yaro on AI and Tech GPT**](https://chat.openai.com/g/g-TeNMRpoo9-yaro-on-ai-and-tech-gpt)
-- [**英会話 AI**](https://chat.openai.com/g/g-V3m0oXPTJ-ying-hui-hua-ai)
-- [**Pickle Thumb**](https://chat.openai.com/g/g-gOsseinBw-pickle-thumb)
-- [**Purrfect Paws**](https://chat.openai.com/g/g-AxEE9gGuL-purrfect-paws)
-- [**Biblical Theology Tutor**](https://chat.openai.com/g/g-erc2wIFkm-biblical-theology-tutor)
-- [**GPT-SubMissionCoach**](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach)
-- [**Quizletに出力できる形式にしてくれるGPT**](https://chat.openai.com/g/g-XK9BK45K5-quizletnichu-li-dekiruxing-shi-nisitekurerugpt)
-- [**AI Conference and Travel Guide**](https://chat.openai.com/g/g-Qvf6QD3jJ-ai-conference-and-travel-guide)
-- [**Fact or Cap**](https://chat.openai.com/g/g-TzcFHA2QH-fact-or-cap)
-- [**The AI Lab for Book-Lovers**](https://chat.openai.com/g/g-TIVyfyllJ-the-ai-lab-for-book-lovers)
-- [**Legal Research Companion**](https://chat.openai.com/g/g-dDQoDgtCi-legal-research-companion)
-- [**LFG GPT**](https://chat.openai.com/g/g-an4iDiw3I-lfg-gpt)
-- [**Career Reimaginer**](https://chat.openai.com/g/g-UEj9z9tTh-career-reimaginer)
-- [**なぞなぞマスター**](https://chat.openai.com/g/g-REwVPXNG1-nazonazomasuta)
-- [**Hot Ones GPT**](https://chat.openai.com/g/g-PVkSgxXqE-hot-ones-gpt)
-- [**LimitlessGPT**](https://chat.openai.com/g/g-XUgnMbahO-limitlessgpt)
-- [**Star Wars: Legion Rules Assistant**](https://chat.openai.com/g/g-dTbrmVmms-star-wars-legion-rules-assistant)
-- [**Python Guide for IR**](https://chat.openai.com/g/g-Q0XIFD0Hz-python-guide-for-ir)
-- [**Career Hacker**](https://chat.openai.com/g/g-c2c1lCHdp-career-hacker)
-- [**Futureproof Copywriting**](https://chat.openai.com/g/g-WUNst3Dvj-futureproof-copywriting)
-- [**Citation Copilot**](https://chat.openai.com/g/g-dw5Sfk82z-citation-copilot)
-- [**Strategic Mentor**](https://chat.openai.com/g/g-F6A38AgUu-strategic-mentor)
-- [**Ask Chad**](https://chat.openai.com/g/g-cQ1lrZ8fx-ask-chad)
-- [**Marine Corps Historian**](https://chat.openai.com/g/g-unXIWcaXf-marine-corps-historian)
-- [**Marseillais Translator**](https://chat.openai.com/g/g-QpaKBGf6k-marseillais-translator)
-- [**Duncan Idaho life coach**](https://chat.openai.com/g/g-RFLByURiU-duncan-idaho-life-coach)
-- [**Energy Around**](https://chat.openai.com/g/g-umFpQOhwI-energy-around)
-- [**Music Nerd**](https://chat.openai.com/g/g-U2qhvn81x-music-nerd)
-- [**Bamboo Palooza**](https://chat.openai.com/g/g-P7mkpdCO0-bamboo-palooza)
-- [**SKILLGPT**](https://chat.openai.com/g/g-fLKjhzxIV-skillgpt)
-- [**Better Grok**](https://chat.openai.com/g/g-dvbh8gpz3-better-grok)
-- [**Swift Code Buddy**](https://chat.openai.com/g/g-PKuNSYJ1y-swift-code-buddy)
-- [**Asimov**](https://chat.openai.com/g/g-RCTAQeREd-asimov)
-- [**雅思阅读-精读**](https://chat.openai.com/g/g-e4RwWrgUB-ya-si-yue-du-jing-du)
-- [**Children Story Weaver**](https://chat.openai.com/g/g-ryt7TCXal-children-story-weaver)
-- [**Asistente Dental FAQ**](https://chat.openai.com/g/g-oBfc4da17-asistente-dental-faq)
-- [**DIY Manager**](https://chat.openai.com/g/g-XAOp4fvaB-diy-manager)
-- [**PlatoAI**](https://chat.openai.com/g/g-Vw7qEX384-platoai)
-- [**SnobBot**](https://chat.openai.com/g/g-PhpN6Vpf0-snobbot)
-- [**Chat Overflow**](https://chat.openai.com/g/g-aMDumQsRV-chat-overflow)
-- [**Dungeon & Dragons Guide Bot**](https://chat.openai.com/g/g-U8npR49fl-dungeon-dragons-guide-bot)
-- [**Pasta GPT**](https://chat.openai.com/g/g-kGvQEH8PX-pasta-gpt)
-- [**Prof Elrich von Richtofen**](https://chat.openai.com/g/g-FVZLTak2e-prof-elrich-von-richtofen)
-- [**PyGenius**](https://chat.openai.com/g/g-PHf1WeydP-pygenius)
-- [**Poker Pal**](https://chat.openai.com/g/g-sLXQfL9Ye-poker-pal)
-- [**ジオグラ先生B**](https://chat.openai.com/g/g-WWS9GI66l-zioguraxian-sheng-b)
-- [**Medical English News Teacher**](https://chat.openai.com/g/g-WzIt4xeBM-medical-english-news-teacher)
-- [**Block Sage**](https://chat.openai.com/g/g-FyoCUkRaJ-block-sage)
-- [**元経営者GPTs**](https://chat.openai.com/g/g-FtwMieUnG-yuan-jing-ying-zhe-gpts)
-- [**Apple Architect**](https://chat.openai.com/g/g-sTL0sRzP4-apple-architect)
-- [**MetabolismBoosterGPT**](https://chat.openai.com/g/g-FOawqrxih-metabolismboostergpt)
-- [**Psychoanalyst**](https://chat.openai.com/g/g-G9INzOvnq-psychoanalyst)
-- [**Wisdom Extractor**](https://chat.openai.com/g/g-QZG6kRhjM-wisdom-extractor)
-- [**Maple Advisor**](https://chat.openai.com/g/g-G1Il2Wgs7-maple-advisor)
-- [**西方文艺理论资料库**](https://chat.openai.com/g/g-VZa8vS48g-xi-fang-wen-yi-li-lun-zi-liao-ku)
-- [**English Coach**](https://chat.openai.com/g/g-FjGunejIL-english-coach)
-- [**MacExpert**](https://chat.openai.com/g/g-PEDcSVeLn-macexpert)
-- [**Story Sprout**](https://chat.openai.com/g/g-Wf8phkEDl-story-sprout)
-- [**Ubbe: Multi-Domain Expert Solver**](https://chat.openai.com/g/g-OSgfhqq0N-ubbe-multi-domain-expert-solver)
-- [**Java Tutor**](https://chat.openai.com/g/g-R9p35rZ9w-java-tutor)
-- [**Market Insight Explorer**](https://chat.openai.com/g/g-AcvKyhAJc-market-insight-explorer)
-- [**RiddleMind**](https://chat.openai.com/g/g-FijULGbnB-riddlemind)
-- [**Nuanced English Translator**](https://chat.openai.com/g/g-PxVlvll8t-nuanced-english-translator)
-- [**Father Guidance 🙏**](https://chat.openai.com/g/g-OwPkjSbxo-father-guidance)
-- [**JUDGE GPT**](https://chat.openai.com/g/g-T9Vn5BQ7w-judge-gpt)
-- [**Dungeon Master**](https://chat.openai.com/g/g-U4bvkMvNi-dungeon-master)
-- [**Safari Translator with Phonetics**](https://chat.openai.com/g/g-FRooD3yyK-safari-translator-with-phonetics)
-- [**Japanese-English Translation Aid**](https://chat.openai.com/g/g-N10ySIler-japanese-english-translation-aid)
-- [**SciTutor**](https://chat.openai.com/g/g-hPA3SmElS-scitutor)
-- [**Mr. Market**](https://chat.openai.com/g/g-OOr0m8VUk-mr-market)
-- [**HR Tech Wizard**](https://chat.openai.com/g/g-PkIJyV0Nk-hr-tech-wizard)
-- [**Echo Translator**](https://chat.openai.com/g/g-UksTwf2n1-echo-translator)
-- [**Theo Scholar**](https://chat.openai.com/g/g-NRDaZP53n-theo-scholar)
-- [**SSO SEO & Marketing Expert Bot**](https://chat.openai.com/g/g-9gVlJKnpy-sso-seo-marketing-expert-bot)
-- [**Cochrane  Navigator**](https://chat.openai.com/g/g-gtbum66mz-cochrane-navigator)
-- [**AI Lawyer**](https://chat.openai.com/g/g-QEj3LcqxZ-ai-lawyer)
-- [**数学にゃんこ**](https://chat.openai.com/g/g-hNbZdEGUx-shu-xue-niyanko)
-- [**成语接龙**](https://chat.openai.com/g/g-NW4hKXwLJ-cheng-yu-jie-long)
-- [**The Quran Companion**](https://chat.openai.com/g/g-RDsfwC5ai-the-quran-companion)
-- [**Japanese Learning AI (Beginners)**](https://chat.openai.com/g/g-boCxUFb19-japanese-learning-ai-beginners)
-- [**国当てゲーム**](https://chat.openai.com/g/g-O8U1WeYgv-guo-dang-tegemu)
-- [**AstroCat**](https://chat.openai.com/g/g-Qifk1RJ1A-astrocat)
-- [**chat presentation**](https://chat.openai.com/g/g-al3bdO9zj-chat-presentation)
-- [**Sports Card Guru**](https://chat.openai.com/g/g-OhakL3ytv-sports-card-guru)
-- [**Bedtime storyteller**](https://chat.openai.com/g/g-QKcHavbOq-bedtime-storyteller)
-- [**TalkBoostAI**](https://chat.openai.com/g/g-QuKcqSKax-talkboostai)
-- [**Educator**](https://chat.openai.com/g/g-Q0lAbd2gw-educator)
-- [**Daniel Aharonoff**](https://chat.openai.com/g/g-akAdU4iSh-daniel-aharonoff)
-- [**Defender for Endpoint Guardian**](https://chat.openai.com/g/g-TcwOdeMii-defender-for-endpoint-guardian)
-- [**RISE Mentor**](https://chat.openai.com/g/g-UQRoU5Wqb-rise-mentor)
-- [**Note Navigator**](https://chat.openai.com/g/g-OOkWZL9r9-note-navigator)
-- [**Examen de Manejo**](https://chat.openai.com/g/g-MrxXd5zai-examen-de-manejo)
-- [**Love Mirror**](https://chat.openai.com/g/g-Nsnx5viNv-love-mirror)
-- [**Handler Hoca**](https://chat.openai.com/g/g-QgyBmpfcd-handler-hoca)
-- [**AI地牢**](https://chat.openai.com/g/g-NJSDodVgR-aidi-lao)
-- [**txyz.ai Research Assistant v0**](https://chat.openai.com/g/g-NCUFRmWbr-txyz-ai-research-assistant-v0)
-- [**Gomoku Guru**](https://chat.openai.com/g/g-PmYolbJ0C-gomoku-guru)
-- [**天官庙的刘半仙**](https://chat.openai.com/g/g-NVaMkYa04-tian-guan-miao-de-liu-ban-xian)
-- [**Tsurumi Realty Guide**](https://chat.openai.com/g/g-QK5X2Jdle-tsurumi-realty-guide)
-- [**US Immigration Info Hub**](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub)
-- [**kiyosick**](https://chat.openai.com/g/g-RzMUYnR2l-kiyosick)
-- [**Nihongo Tutor**](https://chat.openai.com/g/g-UKVM1oDaX-nihongo-tutor)
-- [**CI for Logging**](https://chat.openai.com/g/g-QeFMBucLT-ci-for-logging)
-- [**The Point Of View GPT**](https://chat.openai.com/g/g-T7xWKogC6-the-point-of-view-gpt)
-- [**Data Scientist Richard**](https://chat.openai.com/g/g-B74Hbm2lL-data-scientist-richard)
-- [**美国投资税收顾问**](https://chat.openai.com/g/g-SY5iQoU6J-mei-guo-tou-zi-shui-shou-gu-wen)
-- [**ぬっこGPT**](https://chat.openai.com/g/g-PxdvSJH6o-nutukogpt)
-- [**Connected Wisdom**](https://chat.openai.com/g/g-TBdV7iOA8-connected-wisdom)
-- [**SCAMPER Ideation Tool**](https://chat.openai.com/g/g-Srd4ScLJ0-scamper-ideation-tool)
-- [**GT7 Pro Racing Coach**](https://chat.openai.com/g/g-S9hoZBzv6-gt7-pro-racing-coach)
-- [**ATT&CK Mate**](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate)
-- [**PHP Interview Assistant**](https://chat.openai.com/g/g-UOjns5Wlk-php-interview-assistant)
-- [**Volkseigene GPT**](https://chat.openai.com/g/g-Nuy9ONBWL-volkseigene-gpt)
-- [**Elite Enclave**](https://chat.openai.com/g/g-AfJxTk6IT-elite-enclave)
-- [**远远**](https://chat.openai.com/g/g-S1kPWlrXE-yuan-yuan)
-- [**PDF Reader**](https://chat.openai.com/g/g-OJWqJKLiE-pdf-reader)
-- [**All-father Oracle**](https://chat.openai.com/g/g-coKnZOPDK-all-father-oracle)
-- [**ストレングスコーチ見習いのアキラ**](https://chat.openai.com/g/g-AQzwvgDHU-sutorengusukotijian-xi-inoakira)
-- [**なんでも知ってる博士GPT**](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gpt)
-- [**Futurist Almanack**](https://chat.openai.com/g/g-fOyZHLO2u-futurist-almanack)
-- [**What Would Jesus Do?**](https://chat.openai.com/g/g-MSLbCKHy3-what-would-jesus-do)
-- [**Rock Music Guide - Randy the Rocker v1**](https://chat.openai.com/g/g-R68r7p62S-rock-music-guide-randy-the-rocker-v1)
-- [**AntisemitismGPT**](https://chat.openai.com/g/g-ffS00E9OE-antisemitismgpt)
-- [**英文添削先生**](https://chat.openai.com/g/g-F3AckzGZJ-ying-wen-tian-xue-xian-sheng)
-- [**Mr. Kleffy**](https://chat.openai.com/g/g-Pm2IxKPkU-mr-kleffy)
-- [**Interactive GPT Creation Guide**](https://chat.openai.com/g/g-bqu1zuDpL-interactive-gpt-creation-guide)
-- [**MindFit Mentor**](https://chat.openai.com/g/g-PQN89Owiz-mindfit-mentor)
-- [**IKANGAI**](https://chat.openai.com/g/g-SaC3zuzj6-ikangai)
-- [**ゆりえ**](https://chat.openai.com/g/g-SfUq4Dbtw-yurie)
-- [**Academic Writing Enhancement Bot**](https://chat.openai.com/g/g-FClZOkmsc-academic-writing-enhancement-bot)
-- [**Chti Breizh traducteur**](https://chat.openai.com/g/g-SipcT6v0Z-chti-breizh-traducteur)
-- [**Plant Expert**](https://chat.openai.com/g/g-AdBddBiGI-plant-expert)
-- [**Jimminy Cricket**](https://chat.openai.com/g/g-Q9132R1tF-jimminy-cricket)
-- [**GaiaAI**](https://chat.openai.com/g/g-Nh82JS6BH-gaiaai)
-- [**DnD GPT**](https://chat.openai.com/g/g-EdqvwCQkF-dnd-gpt)
-- [**Daily Recipe Creator**](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-creator)
-- [**Professor AJ**](https://chat.openai.com/g/g-P1lbOaJ7o-professor-aj)
-- [**Psychotherapy Simulator**](https://chat.openai.com/g/g-FEP8TzalR-psychotherapy-simulator)
-- [**AntonyGPT**](https://chat.openai.com/g/g-RonP74bhN-antonygpt)
-- [**GGML Guide**](https://chat.openai.com/g/g-UTMC2oJIA-ggml-guide)
-- [**GuruGPT**](https://chat.openai.com/g/g-EpfwCdeHF-gurugpt)
-- [**Abundance**](https://chat.openai.com/g/g-Qt0nmq8Dl-abundance)
-- [**Astro Light Explorer**](https://chat.openai.com/g/g-POyAAfOJs-astro-light-explorer)
-- [**PDF OCR Reader and Japanese Text Analyzer**](https://chat.openai.com/g/g-SE8cjgxMQ-pdf-ocr-reader-and-japanese-text-analyzer)
-- [**Cover Letter GPT**](https://chat.openai.com/g/g-TUrUbFey9-cover-letter-gpt)
-- [**Bitcoin Buddy**](https://chat.openai.com/g/g-EzJDXLslE-bitcoin-buddy)
-- [**Din mentor i fysik**](https://chat.openai.com/g/g-Etyp9kC8y-din-mentor-i-fysik)
-- [**Ambition**](https://chat.openai.com/g/g-dnFnjifmN-ambition)
-- [**English Teacher Marion**](https://chat.openai.com/g/g-VDDC0Ztph-english-teacher-marion)
-- [**MrGPT**](https://chat.openai.com/g/g-FBc2E4iuS-mrgpt)
-- [**智慧农业**](https://chat.openai.com/g/g-EsmFVbDLm-zhi-hui-nong-ye)
-- [**Himari**](https://chat.openai.com/g/g-U6Se13HHq-himari)
-- [**レトリックさん**](https://chat.openai.com/g/g-B2zPGEcOy-retoritukusan)
-- [**DungeonMaster**](https://chat.openai.com/g/g-U01o876sB-dungeonmaster)
-- [**Incisive-GPT**](https://chat.openai.com/g/g-EG4kN9ffy-incisive-gpt)
-- [**Ruby On Rails Guru**](https://chat.openai.com/g/g-VHgbiMLuI-ruby-on-rails-guru)
-- [**和暦変換マスター**](https://chat.openai.com/g/g-EnE5vUC1O-he-li-bian-huan-masuta)
-- [**MejorCadaDía**](https://chat.openai.com/g/g-ErI7MAL6W-mejorcadadia)
-- [**Mythos Maven**](https://chat.openai.com/g/g-Do2hSSgxS-mythos-maven)
-- [**CrimRxiv AI Chatbot**](https://chat.openai.com/g/g-CDUSsfFCe-crimrxiv-ai-chatbot)
-- [**Strategic Mind**](https://chat.openai.com/g/g-B3F3mcoeW-strategic-mind)
-- [**Peculiar Pam**](https://chat.openai.com/g/g-r3Fv7CEDQ-peculiar-pam)
-- [**Jane Austen**](https://chat.openai.com/g/g-SuR3A6dE0-jane-austen)
-- [**Wing Chun Mastery**](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery)
-- [**Universal Data Analyst (UDA-10-L)**](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-l)
-- [**Veteran Claims Assistant**](https://chat.openai.com/g/g-QRZAZnJRm-veteran-claims-assistant)
-- [**ChatDivergente**](https://chat.openai.com/g/g-UOwFyoyeK-chatdivergente)
-- [**Kahoot !問題作成サポーター**](https://chat.openai.com/g/g-MqG9FN7yj-kahoot-wen-ti-zuo-cheng-sapota)
-- [**Word Master**](https://chat.openai.com/g/g-T6DnhiLvn-word-master)
-- [**Advice from Paul Graham**](https://chat.openai.com/g/g-ThkOYmvKx-advice-from-paul-graham)
-- [**IELTS Writing Coach**](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
-- [**Mythological**](https://chat.openai.com/g/g-VPMViSlto-mythological)
-- [**NobChat**](https://chat.openai.com/g/g-swSZoIepF-nobchat)
-- [**Twitter Thread Translator**](https://chat.openai.com/g/g-QVRpZXGxH-twitter-thread-translator)
-- [**What the Tree?**](https://chat.openai.com/g/g-Ed1NOY45t-what-the-tree)
-- [**Coach James Gray**](https://chat.openai.com/g/g-Ky5yMdFyG-coach-james-gray)
-- [**艾德華．薩伊德 Edward Said**](https://chat.openai.com/g/g-9lzfaO5wU-ai-de-hua-sa-yi-de-edward-said)
-- [**Quiz REKISHI Sensei**](https://chat.openai.com/g/g-F8qB11rCI-quiz-rekishi-sensei)
-- [**Golf Coach**](https://chat.openai.com/g/g-Ds8hTVqcD-golf-coach)
-- [**The Valley**](https://chat.openai.com/g/g-PKfaFcIlY-the-valley)
-- [**Mythical Map Maker**](https://chat.openai.com/g/g-MkBL5eWme-mythical-map-maker)
-- [**Study Abroad Advisor**](https://chat.openai.com/g/g-qcR1VSaxr-study-abroad-advisor)
-- [**GBBO GPT**](https://chat.openai.com/g/g-EbWvSVn4E-gbbo-gpt)
-- [**Virtual Lawyer**](https://chat.openai.com/g/g-VhF8Sky5I-virtual-lawyer)
-- [**算数マスター**](https://chat.openai.com/g/g-rKLEPIaKp-suan-shu-masuta)
-- [**Droid Advisor**](https://chat.openai.com/g/g-ABWGue8mD-droid-advisor)
-- [**LaraMentor**](https://chat.openai.com/g/g-MaliiA3Vi-laramentor)
-- [**障害福祉おまかせ君**](https://chat.openai.com/g/g-MkdIxtcuC-zhang-hai-fu-zhi-omakasejun)
-- [**农业无人机**](https://chat.openai.com/g/g-MbDEd065w-nong-ye-wu-ren-ji)
-- [**Executive Cyber Board Assistant**](https://chat.openai.com/g/g-Rt4Jlh9kh-executive-cyber-board-assistant)
-- [**Pinoy Pal**](https://chat.openai.com/g/g-Kc4Nhryco-pinoy-pal)
-- [**Falo - European Portuguese Language Buddy**](https://chat.openai.com/g/g-qtZ4Gj0z3-falo-european-portuguese-language-buddy)
-- [**Spirit Animal Discovery**](https://chat.openai.com/g/g-SzyUxYvgf-spirit-animal-discovery)
-- [**Resume Owl**](https://chat.openai.com/g/g-KW6dXaLnL-resume-owl)
-- [**Cyber Guard**](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard)
-- [**Rust Chat**](https://chat.openai.com/g/g-PIHyHU9OJ-rust-chat)
-- [**Your Heroic Story**](https://chat.openai.com/g/g-M0vfFnG9d-your-heroic-story)
-- [**Rootmo**](https://chat.openai.com/g/g-L3PwQf2oO-rootmo)
-- [**Soy George Orwell**](https://chat.openai.com/g/g-KvNvI6E1d-soy-george-orwell)
-- [**El ProfeCode**](https://chat.openai.com/g/g-OrEjY86Yg-el-profecode)
-- [**MasterYourMindset**](https://chat.openai.com/g/g-gVYbGQEWS-masteryourmindset)
-- [**Molli AI 🌱 Permaculture GPT**](https://chat.openai.com/g/g-WU9stnkN6-molli-ai-permaculture-gpt)
-- [**Lexicon Tutor**](https://chat.openai.com/g/g-SNQH2FiGk-lexicon-tutor)
-- [**MagiCodex**](https://chat.openai.com/g/g-RXmEBJKQT-magicodex)
-- [**TOEIC Master for Reading**](https://chat.openai.com/g/g-TrbHCP3TO-toeic-master-for-reading)
-- [**AviGPT**](https://chat.openai.com/g/g-G0cutUg9Q-avigpt)
-- [**Seabiscuit: Business Model Master**](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-master)
-- [**論文探して解説GPTs**](https://chat.openai.com/g/g-r8j5neT1A-lun-wen-tan-sitejie-shuo-gpts)
-- [**MetalGPT**](https://chat.openai.com/g/g-XUgIVpiqs-metalgpt)
-- [**Productly**](https://chat.openai.com/g/g-SqjLmjbUs-productly)
-- [**RailsGPT**](https://chat.openai.com/g/g-JhGLZhZSw-railsgpt)
-- [**Sage Advisor**](https://chat.openai.com/g/g-qtL7vElWe-sage-advisor)
-- [**Emerging Tech Weekly**](https://chat.openai.com/g/g-Lmwn5oNud-emerging-tech-weekly)
-- [**Pipe Organ Guide**](https://chat.openai.com/g/g-ssEm5uFPZ-pipe-organ-guide)
-- [**SmarterGPT**](https://chat.openai.com/g/g-RvgKu5rbu-smartergpt)
-- [**Businessdigital**](https://chat.openai.com/g/g-tFH6RG72I-businessdigital)
-- [**GameMakerGPT**](https://chat.openai.com/g/g-NMW80Fsqb-gamemakergpt)
-- [**CaiBlogGPT**](https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt)
-- [**Edioge**](https://chat.openai.com/g/g-FuuKSrXwl-edioge)
-- [**Vue3 GPT**](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
-- [**Presentation Pro**](https://chat.openai.com/g/g-PFm1BZL1R-presentation-pro)
-- [**日本語語彙クイズボット**](https://chat.openai.com/g/g-Nzlt0xtNc-ri-ben-yu-yu-hui-kuizubotuto)
-- [**Bio Builder**](https://chat.openai.com/g/g-KPeZhDRhH-bio-builder)
-- [**Sarah - GPT Career Coach**](https://chat.openai.com/g/g-qxjW3s1ET-sarah-gpt-career-coach)
-- [**📗All-around Teacher (Learn Everything in 3 min)**](https://chat.openai.com/g/g-PDWi5Scbc-all-around-teacher-learn-everything-in-3-min)
-- [**Summarize Wise**](https://chat.openai.com/g/g-M3nHnGwvI-summarize-wise)
-- [**AI Guru**](https://chat.openai.com/g/g-OGRdYwue7-ai-guru)
-- [**RothbardGPT**](https://chat.openai.com/g/g-LpMWtRiDB-rothbardgpt)
-- [**大学生作业帮**](https://chat.openai.com/g/g-KAlm4AnQr-da-xue-sheng-zuo-ye-bang)
-- [**PM Pathfinder**](https://chat.openai.com/g/g-KxbH0dGIn-pm-pathfinder)
-- [**Debate me, bro!**](https://chat.openai.com/g/g-Ogjv0wiC6-debate-me-bro)
-- [**論文の内容について聞ける君**](https://chat.openai.com/g/g-NVpDagrb2-lun-wen-nonei-rong-nituitewen-kerujun)
-- [**My Craft Genius**](https://chat.openai.com/g/g-KX12mtKpH-my-craft-genius)
-- [**いたさんの英語学習相談室**](https://chat.openai.com/g/g-MTpA6VlIn-itasannoying-yu-xue-xi-xiang-tan-shi)
-- [**英文单词学习助手**](https://chat.openai.com/g/g-Kfcdn3UlC-ying-wen-dan-ci-xue-xi-zhu-shou)
-- [**Scholarly Review**](https://chat.openai.com/g/g-Lzy09plhh-scholarly-review)
-- [**Vocab Builder**](https://chat.openai.com/g/g-KQBaOCxkx-vocab-builder)
-- [**Quantum Companion**](https://chat.openai.com/g/g-NjumX6xne-quantum-companion)
-- [**CUC新闻撰稿**](https://chat.openai.com/g/g-JVmq02czN-cucxin-wen-zhuan-gao)
-- [**郭德纳**](https://chat.openai.com/g/g-JsDAQMQ8L-guo-de-na)
-- [**Quiz Master**](https://chat.openai.com/g/g-NSt9vHJBN-quiz-master)
-- [**쉽파**](https://chat.openai.com/g/g-MUXmU2SdW-swibpa)
-- [**Omniscope Guru**](https://chat.openai.com/g/g-5ti9ZZvez-omniscope-guru)
-- [**NFT**](https://chat.openai.com/g/g-NQQNfvDHB-nft)
-- [**Change My Mind**](https://chat.openai.com/g/g-OIbbH7XTD-change-my-mind)
-- [**Money Machine - Weijian Shan**](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan)
-- [**Career Dialogue**](https://chat.openai.com/g/g-JxH2wZUra-career-dialogue)
-- [**Data Guardian**](https://chat.openai.com/g/g-KGBEqnrh8-data-guardian)
-- [**Flashcard Generator**](https://chat.openai.com/g/g-C8HEeoioz-flashcard-generator)
-- [**Secondary Lesson Planner**](https://chat.openai.com/g/g-Ldqlh61uY-secondary-lesson-planner)
-- [**Tell A Vision**](https://chat.openai.com/g/g-LzGVo6vRb-tell-a-vision)
-- [**Syntax Surgeon**](https://chat.openai.com/g/g-FRXX8g4wd-syntax-surgeon)
-- [**Ruby Guru**](https://chat.openai.com/g/g-NAsTZeLZl-ruby-guru)
-- [**Creative Dad**](https://chat.openai.com/g/g-gVCv0cBPs-creative-dad)
-- [**Originality Sentinel**](https://chat.openai.com/g/g-N0LfGYs1w-originality-sentinel)
-- [**Critical Thinker**](https://chat.openai.com/g/g-WsaNe7txX-critical-thinker)
-- [**Hilbert**](https://chat.openai.com/g/g-KxbihQWzL-hilbert)
-- [**AI Study Guide: Persuasion by Jane Austen**](https://chat.openai.com/g/g-L7WnciCE3-ai-study-guide-persuasion-by-jane-austen)
-- [**Sportsissfy**](https://chat.openai.com/g/g-9fMWwq1DR-sportsissfy)
-- [**ChefBot GPT**](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gpt)
-- [**Wisdom of the I Ching**](https://chat.openai.com/g/g-ftuiNlcnZ-wisdom-of-the-i-ching)
-- [**AI Product Management Mentor**](https://chat.openai.com/g/g-hBZOxeLH6-ai-product-management-mentor)
-- [**PokéGuias**](https://chat.openai.com/g/g-gFhxqpN49-pokeguias)
-- [**Web Hacking Wizard**](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard)
-- [**Ten Minutes**](https://chat.openai.com/g/g-cZFc0dI16-ten-minutes)
-- [**Professor Chad**](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad)
-- [**Probability Prover**](https://chat.openai.com/g/g-cHGvFfMYD-probability-prover)
-- [**DataLearnerAI-GPT**](https://chat.openai.com/g/g-8eu9KgtUm-datalearnerai-gpt)
-- [**Yellow Fever**](https://chat.openai.com/g/g-fxCt7lELQ-yellow-fever)
-- [**Practical Time Management Expert**](https://chat.openai.com/g/g-Lka1YQEkZ-practical-time-management-expert)
-- [**塔那GPT**](https://chat.openai.com/g/g-N2ocvKtG1-ta-na-gpt)
-- [**Your Qur'an Companion**](https://chat.openai.com/g/g-Ol7mmjjET-your-qur-an-companion)
-- [**Explicador: Experto haciendo resúmenes**](https://chat.openai.com/g/g-N1GUlO9Do-explicador-experto-haciendo-resumenes)
-- [**Proofreader GPT**](https://chat.openai.com/g/g-NSy4aqJZT-proofreader-gpt)
-- [**TOEFL Writing Coach**](https://chat.openai.com/g/g-c8hh71fDF-toefl-writing-coach)
-- [**ChangeGPT**](https://chat.openai.com/g/g-Y0oMaPyUK-changegpt)
-- [**Alex Hormozi GPT**](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gpt)
-- [**チャットずんだもん**](https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon)
-- [**Academic Introduction Writer**](https://chat.openai.com/g/g-PcNLVWJUT-academic-introduction-writer)
-- [**Semiconductor Industry Deep Dive**](https://chat.openai.com/g/g-RKORy5rlA-semiconductor-industry-deep-dive)
-- [**The Beginning of Infinity GPT**](https://chat.openai.com/g/g-M4cpPv8BH-the-beginning-of-infinity-gpt)
-- [**Cosmic Companion**](https://chat.openai.com/g/g-b2eazr2Ph-cosmic-companion)
-- [**CochesGPT**](https://chat.openai.com/g/g-9yQQq82kI-cochesgpt)
-- [**ChatPNP**](https://chat.openai.com/g/g-M8ybp4yRX-chatpnp)
-- [**Abogado Penalista Paraguayo**](https://chat.openai.com/g/g-ROHE79tkY-abogado-penalista-paraguayo)
-- [**Classical Music Dictionary**](https://chat.openai.com/g/g-bVRNfEQ8d-classical-music-dictionary)
-- [**ConstituciónCL GPT**](https://chat.openai.com/g/g-XJskTuZv0-constitucioncl-gpt)
-- [**Bullied School Shooter | BOT3.AI**](https://chat.openai.com/g/g-N9lohoI3n-bullied-school-shooter-bot3-ai)
-- [**おはなしメーカー**](https://chat.openai.com/g/g-cBPhicut0-ohanasimeka)
-- [**三国志華佗伝**](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan)
-- [**Modern Shakespeare**](https://chat.openai.com/g/g-Ncy8liDLE-modern-shakespeare)
-- [**The 1001 Books to Read Before You Drop**](https://chat.openai.com/g/g-MUtKZbtWO-the-1001-books-to-read-before-you-drop)
-- [**Book Quest Adventure**](https://chat.openai.com/g/g-QK82RFTIY-book-quest-adventure)
-- [**NAIST22年度入学ハンドブック**](https://chat.openai.com/g/g-O4HsGXERG-naist22nian-du-ru-xue-handobutuku)
-- [**MagicGPT**](https://chat.openai.com/g/g-Q8oXGQASM-magicgpt)
-- [**Lingo Mentor**](https://chat.openai.com/g/g-AcyFJSRRh-lingo-mentor)
-- [**Dungeon Crafter**](https://chat.openai.com/g/g-SYvYDw0Kl-dungeon-crafter)
-- [**NattafortellingGPT (3-7 år) med bilder  🪄**](https://chat.openai.com/g/g-MkDBGypZb-nattafortellinggpt-3-7-ar-med-bilder)
-- [**ChatDoc**](https://chat.openai.com/g/g-SVV3sT9Wo-chatdoc)
-- [**College Compass**](https://chat.openai.com/g/g-QRznrza4r-college-compass)
-- [**Entrepreneur Mentor**](https://chat.openai.com/g/g-NgXTPrcbH-entrepreneur-mentor)
-- [**Pawsitive Coach**](https://chat.openai.com/g/g-LURx3PXk5-pawsitive-coach)
-- [**Argentum Mind**](https://chat.openai.com/g/g-R6YxGFLSc-argentum-mind)
-- [**Connect with a Track Coach**](https://chat.openai.com/g/g-SZKbbhnkf-connect-with-a-track-coach)
-- [**応用行動分析の質問はこちら**](https://chat.openai.com/g/g-FJtFb3nQ6-ying-yong-xing-dong-fen-xi-nozhi-wen-hakotira)
-- [**Tale Spinner**](https://chat.openai.com/g/g-hRsoqsNHf-tale-spinner)
-- [**MCAT Organic Chemistry**](https://chat.openai.com/g/g-OsGX8iVdq-mcat-organic-chemistry)
-- [**California Property Guide**](https://chat.openai.com/g/g-NSJAmAkdz-california-property-guide)
-- [**East Coast Straussian**](https://chat.openai.com/g/g-S7Qei1jeB-east-coast-straussian)
-- [**AffCoach**](https://chat.openai.com/g/g-R5ZBjxvMA-affcoach)
-- [**K-Pop Info Master**](https://chat.openai.com/g/g-UObC2SuIZ-k-pop-info-master)
-- [**Research Paper Writing**](https://chat.openai.com/g/g-UF8QlvSsU-research-paper-writing)
-- [**New Zealand English**](https://chat.openai.com/g/g-A059zK4bV-new-zealand-english)
-- [**Chem Tutor**](https://chat.openai.com/g/g-WQOFMOMFj-chem-tutor)
-- [**GPT5 Turbo**](https://chat.openai.com/g/g-LzTUX0Upm-gpt5-turbo)
-- [**GPT Search**](https://chat.openai.com/g/g-FPubWp6VF-gpt-search)
-- [**Technical Interviewer (by interviewing.io)**](https://chat.openai.com/g/g-Fhk16eFON-technical-interviewer-by-interviewing-io)
-- [**Win With Huberman**](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
-- [**Resolve Buddy**](https://chat.openai.com/g/g-gf1mIFaz6-resolve-buddy)
-- [**泰戈尔.GPT**](https://chat.openai.com/g/g-Kek3XKgWE-tai-ge-er-gpt)
-- [**Insightful GPT**](https://chat.openai.com/g/g-KB1BCDd5U-insightful-gpt)
-- [**Blockchain Sensei**](https://chat.openai.com/g/g-Sjx5IgtYU-blockchain-sensei)
-- [**NFT Creator Guide**](https://chat.openai.com/g/g-RSg6u2utz-nft-creator-guide)
-- [**Zen Teacher**](https://chat.openai.com/g/g-FYLcHDvqs-zen-teacher)
-- [**CPIT221 Book Guide**](https://chat.openai.com/g/g-gcW6xRE6Z-cpit221-book-guide)
-- [**Alpha Bravo**](https://chat.openai.com/g/g-NBMbfbQ4P-alpha-bravo)
-- [**Zero**](https://chat.openai.com/g/g-KRUiYR8gD-zero)
-- [**Coach**](https://chat.openai.com/g/g-RYImykr3O-coach)
-- [**Don't Like the Drugs But the Drugs Like Me**](https://chat.openai.com/g/g-L7FP5gYDy-don-t-like-the-drugs-but-the-drugs-like-me)
-- [**CR4B - Comic Reader for the Blind**](https://chat.openai.com/g/g-hcSiJV5HJ-cr4b-comic-reader-for-the-blind)
-- [**Visionary Quotations And Context**](https://chat.openai.com/g/g-Lj0rhT55S-visionary-quotations-and-context)
-- [**fox8 botnet paper**](https://chat.openai.com/g/g-WbF9uM0T4-fox8-botnet-paper)
-- [**Rules of Thumb**](https://chat.openai.com/g/g-Lz3azZXjU-rules-of-thumb)
-- [**WebStract**](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
-- [**English Bridge**](https://chat.openai.com/g/g-fyAVY1wzx-english-bridge)
-- [**Ladybug Tools Study Assistant**](https://chat.openai.com/g/g-KPmpaM2SL-ladybug-tools-study-assistant)
-- [**Reviewer 2**](https://chat.openai.com/g/g-QSefYCKUc-reviewer-2)
-- [**Polyglot Pro**](https://chat.openai.com/g/g-hddqROmxe-polyglot-pro)
-- [**German A1 - Tutor & Training**](https://chat.openai.com/g/g-KAoldgWhg-german-a1-tutor-training)
-- [**该知道的都知道**](https://chat.openai.com/g/g-Iohoy95AO-gai-zhi-dao-de-du-zhi-dao)
-- [**琴师**](https://chat.openai.com/g/g-M07Qaswof-qin-shi)
-- [**一单词一卡片**](https://chat.openai.com/g/g-KF9Pa29uA-yi-dan-ci-yi-qia-pian)
-- [**The Complete Works of William Shakespeare**](https://chat.openai.com/g/g-KVM4BKbog-the-complete-works-of-william-shakespeare)
-- [**Congress Explainer**](https://chat.openai.com/g/g-KnIxMyeEt-congress-explainer)
-- [**CryptoGPT**](https://chat.openai.com/g/g-JW2GWrE8D-cryptogpt)
-- [**safespace**](https://chat.openai.com/g/g-EaHx36saG-safespace)
-- [**Plant Doctor**](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor)
-- [**Bio Inspired Design**](https://chat.openai.com/g/g-QrnDDQ6r6-bio-inspired-design)
-- [**Tutor**](https://chat.openai.com/g/g-Er02nza0K-tutor)
-- [**GPT4MR**](https://chat.openai.com/g/g-QXjQ7U1xj-gpt4mr)
-- [**Professor Chem**](https://chat.openai.com/g/g-KtkfJr2mb-professor-chem)
-- [**Tsugaruben Translator**](https://chat.openai.com/g/g-J8ig7GD1C-tsugaruben-translator)
-- [**GPTs Hunt**](https://chat.openai.com/g/g-KC2tr2NxC-gpts-hunt)
-- [**Chess Optimizer**](https://chat.openai.com/g/g-IsT20jIDD-chess-optimizer)
-- [**Character Architect**](https://chat.openai.com/g/g-Impe1Ay0j-character-architect)
-- [**Pathfinder GameMaster**](https://chat.openai.com/g/g-um7z0e1M6-pathfinder-gamemaster)
-- [**Professor Snape**](https://chat.openai.com/g/g-cOrg14xvV-professor-snape)
-- [**Baker's Helper**](https://chat.openai.com/g/g-J1UENTT12-baker-s-helper)
-- [**織田信長**](https://chat.openai.com/g/g-Q5cBCwNEM-zhi-tian-xin-chang)
-- [**BTC Reserve GPT**](https://chat.openai.com/g/g-JNRiTyOQt-btc-reserve-gpt)
-- [**GPTGPT**](https://chat.openai.com/g/g-BzxkiHjH3-gptgpt)
-- [**警察事簿ジェネレーター**](https://chat.openai.com/g/g-NWo6hR2Jf-jing-cha-shi-bo-zienereta)
-- [**Notes GPT**](https://chat.openai.com/g/g-CDjGiCqI2-notes-gpt)
-- [**All GPTs(find your GPT)**](https://chat.openai.com/g/g-Ilk7lTI3G-all-gpts-find-your-gpt)
-- [**Seminar Scribe**](https://chat.openai.com/g/g-KV36fVDvy-seminar-scribe)
-- [**VC Mentor**](https://chat.openai.com/g/g-cy2rpJcDZ-vc-mentor)
-- [**Dr. Clearskin**](https://chat.openai.com/g/g-ucGfKts6Z-dr-clearskin)
-- [**Cosmos Whisperer**](https://chat.openai.com/g/g-cgNpRbC3x-cosmos-whisperer)
-- [**Win With YC**](https://chat.openai.com/g/g-PsimrHGwP-win-with-yc)
-- [**Plant Buddy**](https://chat.openai.com/g/g-bLzGq15RR-plant-buddy)
-- [**Bot the builder**](https://chat.openai.com/g/g-PccDdNFn3-bot-the-builder)
-- [**GPT Country Guessr**](https://chat.openai.com/g/g-dRFekAlc1-gpt-country-guessr)
-- [**Sorkin**](https://chat.openai.com/g/g-QODAYDiTd-sorkin)
-- [**Emily Post On Etiquette**](https://chat.openai.com/g/g-PaRb4TxMz-emily-post-on-etiquette)
-- [**What Would Muhammad Do?**](https://chat.openai.com/g/g-NsJAyoYRH-what-would-muhammad-do)
-- [**Inoma**](https://chat.openai.com/g/g-NmQiVewKm-inoma)
-- [**Master Debater**](https://chat.openai.com/g/g-SMCjCQFiY-master-debater)
-- [**Back Pain AI**](https://chat.openai.com/g/g-N4KUPUUox-back-pain-ai)
-- [**添削先生**](https://chat.openai.com/g/g-PsS9d3zYR-tian-xue-xian-sheng)
-- [**GPTs Genie**](https://chat.openai.com/g/g-uYcAmOI0o-gpts-genie)
-- [**みずのデザインサポート**](https://chat.openai.com/g/g-fTlEYFT24-mizunodezainsapoto)
-- [**CUC信息价值分析**](https://chat.openai.com/g/g-xxYht8wyl-cucxin-xi-jie-zhi-fen-xi)
-- [**The Advice of Pooh**](https://chat.openai.com/g/g-XqJcGw4sb-the-advice-of-pooh)
-- [**Senior Software Engineer Assistant**](https://chat.openai.com/g/g-CFGJUtFqe-senior-software-engineer-assistant)
-- [**Assignment Helper**](https://chat.openai.com/g/g-uUHn3PI4I-assignment-helper)
-- [**Global Face**](https://chat.openai.com/g/g-eV40n41MK-global-face)
-- [**Siri Tori**](https://chat.openai.com/g/g-SQ2HobD9l-siri-tori)
-- [**Your Universe**](https://chat.openai.com/g/g-BpX3nsWTl-your-universe)
-- [**Yantee (Language Teacher)**](https://chat.openai.com/g/g-fbeZaasQy-yantee-language-teacher)
-- [**Cinema Savvy**](https://chat.openai.com/g/g-DA32emHxJ-cinema-savvy)
-- [**ENS Domains Debater**](https://chat.openai.com/g/g-QdGI0F6TC-ens-domains-debater)
-- [**UX Insight and Psychology Guide**](https://chat.openai.com/g/g-fgs90BlzP-ux-insight-and-psychology-guide)
-- [**人工無能ごろまんくん**](https://chat.openai.com/g/g-ngDNr1y7n-ren-gong-wu-neng-goromankun)
-- [**Stress Buddy**](https://chat.openai.com/g/g-D3XUY1SHE-stress-buddy)
-- [**Mutiny Island - Codex AI (Beta)**](https://chat.openai.com/g/g-OeYStezd5-mutiny-island-codex-ai-beta)
-- [**Angler Insight**](https://chat.openai.com/g/g-IEOTJ5j5J-angler-insight)
-- [**Recipe Builder**](https://chat.openai.com/g/g-ff82bTcZL-recipe-builder)
-- [**TeachSmart**](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart)
-- [**英文翻译专家**](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia)
-- [**Accessibility Design Consultant Bot**](https://chat.openai.com/g/g-xmiCLnsjn-accessibility-design-consultant-bot)
-- [**Parenting Ally**](https://chat.openai.com/g/g-XehsZEDMp-parenting-ally)
-- [**UK Tax GPT**](https://chat.openai.com/g/g-WHaAEG6kp-uk-tax-gpt)
-- [**Trinity Simply in Balance**](https://chat.openai.com/g/g-RiyrLHfnb-trinity-simply-in-balance)
-- [**DeFi Compass**](https://chat.openai.com/g/g-P4MXCZac2-defi-compass)
-- [**一人TRPG体験テスト**](https://chat.openai.com/g/g-F89qzU6if-yi-ren-trpgti-yan-tesuto)
-- [**80/20 GPT**](https://chat.openai.com/g/g-dZo5WeFzM-80-20-gpt)
-- [**AANote**](https://chat.openai.com/g/g-F61Ch4nFN-aanote)
-- [**Autoblogesis**](https://chat.openai.com/g/g-IyfVJdKq7-autoblogesis)
-- [**Fractions Tutor**](https://chat.openai.com/g/g-Fus9pSJnQ-fractions-tutor)
-- [**CityU Helper**](https://chat.openai.com/g/g-MQqAVMKM4-cityu-helper)
-- [**Ultimate LibGuide**](https://chat.openai.com/g/g-Q8KQRil2G-ultimate-libguide)
-- [**AI Assistant for Resume and Cover Letter**](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter)
-- [**Market Sage**](https://chat.openai.com/g/g-Qkv7ooiD7-market-sage)
-- [**中英文对照翻译**](https://chat.openai.com/g/g-DrY6bVei2-zhong-ying-wen-dui-zhao-fan-yi)
-- [**圧倒的成長ちゃん**](https://chat.openai.com/g/g-SsIHlLnJF-ya-dao-de-cheng-chang-tiyan)
-- [**Wellness Wizard**](https://chat.openai.com/g/g-JmkGEp2D6-wellness-wizard)
-- [**GIGPT**](https://chat.openai.com/g/g-P86cyUFns-gigpt)
-- [**《国富论》**](https://chat.openai.com/g/g-j2iALE3Nw-guo-fu-lun)
-- [**Procurement Legends Guide**](https://chat.openai.com/g/g-J2l61KIZl-procurement-legends-guide)
-- [**LinguaGPT**](https://chat.openai.com/g/g-QI9uMZp6x-linguagpt)
-- [**Eesti Expert**](https://chat.openai.com/g/g-JRUE7CNfQ-eesti-expert)
-- [**The Respectful Italian**](https://chat.openai.com/g/g-JJrHSixEh-the-respectful-italian)
-- [**Statistics Test GPT**](https://chat.openai.com/g/g-QAw7hzrHs-statistics-test-gpt)
-- [**Coding Cheatsheet**](https://chat.openai.com/g/g-JOLnVuTEQ-coding-cheatsheet)
-- [**Artie's Adventure Magic**](https://chat.openai.com/g/g-nHE5NrELQ-artie-s-adventure-magic)
-- [**Physics Tutor**](https://chat.openai.com/g/g-S9VKdnR7K-physics-tutor)
-- [**AI論文解説ちゃん**](https://chat.openai.com/g/g-QD74k3uGx-ailun-wen-jie-shuo-tiyan)
-- [**GPT MD**](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md)
-- [**Albert /Editor**](https://chat.openai.com/g/g-Iw44iwWCn-albert-editor)
-- [**The Family Nest Guide**](https://chat.openai.com/g/g-Pn9NUBacv-the-family-nest-guide)
-- [**Life Weaver**](https://chat.openai.com/g/g-JYgpaFJxD-life-weaver)
-- [**PanoGPT**](https://chat.openai.com/g/g-YbEDhfmr2-panogpt)
-- [**Situation Puzzle 海龟汤**](https://chat.openai.com/g/g-KHcdRU9or-situation-puzzle-hai-gui-tang)
-- [**Father Fred**](https://chat.openai.com/g/g-PwwKwCN5Z-father-fred)
-- [**坏小孩 RPG**](https://chat.openai.com/g/g-GawTtGC2J-pi-xiao-hai-rpg)
-- [**Lara Lightland | BOT3.AI**](https://chat.openai.com/g/g-n8MhbISEZ-lara-lightland-bot3-ai)
-- [**小G - 小白的Gpts创建导师**](https://chat.openai.com/g/g-llhxGqF04-xiao-g-xiao-bai-de-gptschuang-jian-dao-shi)
-- [**Orange Pill - A Simplified BTC Explainer**](https://chat.openai.com/g/g-vPVFC1R7o-orange-pill-a-simplified-btc-explainer)
-- [**LDS Church Instruction**](https://chat.openai.com/g/g-KS1Kvp1EO-lds-church-instruction)
-- [**Eco Strategist**](https://chat.openai.com/g/g-SFOgyyOG8-eco-strategist)
-- [**Sama GPT**](https://chat.openai.com/g/g-Pondp6CCs-sama-gpt)
-- [**@loopmaatjes "Vraag maar raak!"**](https://chat.openai.com/g/g-JIKcMEfEY-loopmaatjes-vraag-maar-raak)
-- [**Resume Wiz**](https://chat.openai.com/g/g-ByEUvLYoK-resume-wiz)
-- [**Numo**](https://chat.openai.com/g/g-9hqjuXZE7-numo)
-- [**PM Coach**](https://chat.openai.com/g/g-Mx26UxPmB-pm-coach)
-- [**ししかわ かさね**](https://chat.openai.com/g/g-EY4Zk6UFw-sisikawa-kasane)
-- [**honyaku-chan**](https://chat.openai.com/g/g-RrynLNfvr-honyaku-chan)
-- [**Idiom Builder 英文成语大师**](https://chat.openai.com/g/g-IuTmBnxKR-idiom-builder-ying-wen-cheng-yu-da-shi)
-- [**Java Mentor**](https://chat.openai.com/g/g-f3Rsj7s8G-java-mentor)
-- [**Just French It Tutor**](https://chat.openai.com/g/g-JOE57H0IM-just-french-it-tutor)
-- [**nocap 2.05 (ちょっとポンコツ)**](https://chat.openai.com/g/g-SY2clSKAg-nocap-2-05-tiyotutoponkotu)
-- [**RamayanaGPT**](https://chat.openai.com/g/g-Izwp0kub3-ramayanagpt)
-- [**Patrick Henry GPT**](https://chat.openai.com/g/g-bBoAHH1vO-patrick-henry-gpt)
-- [**Quality Raters SEO Guide**](https://chat.openai.com/g/g-w2yOasK1r-quality-raters-seo-guide)
-- [**Bob The GPT Builder**](https://chat.openai.com/g/g-JsDZsZM00-bob-the-gpt-builder)
-- [**Mandarin Master**](https://chat.openai.com/g/g-EUFkUExd2-mandarin-master)
-- [**Mathpix**](https://chat.openai.com/g/g-lwSvMnJvI-mathpix)
-- [**Udemy Course Assistant**](https://chat.openai.com/g/g-Jmo35Iyhm-udemy-course-assistant)
-- [**English Reading Tutor**](https://chat.openai.com/g/g-bMi3DQyMs-english-reading-tutor)
-- [**Quote Companion**](https://chat.openai.com/g/g-efFP1CZ52-quote-companion)
-- [**Teddy the Tutor**](https://chat.openai.com/g/g-C1qDxCyan-teddy-the-tutor)
-- [**Cool teacher**](https://chat.openai.com/g/g-SUOFbmGvx-cool-teacher)
-- [**Blockchain Sage**](https://chat.openai.com/g/g-7L6BZDQTh-blockchain-sage)
-- [**Photo Guide**](https://chat.openai.com/g/g-IWf9d78iM-photo-guide)
-- [**Exploitative + GTO Poker GPT**](https://chat.openai.com/g/g-JTdHjK9wG-exploitative-gto-poker-gpt)
-- [**ThePodcastMBA**](https://chat.openai.com/g/g-EXnLM4yr7-thepodcastmba)
-- [**AzaTube**](https://chat.openai.com/g/g-IIU6RGgQr-azatube)
-- [**Design Recruiter**](https://chat.openai.com/g/g-9i5lIMAEO-design-recruiter)
-- [**Biblical Insights**](https://chat.openai.com/g/g-IcAQmhHym-biblical-insights)
-- [**Land a Dev Job GPT**](https://chat.openai.com/g/g-bM7L3756M-land-a-dev-job-gpt)
-- [**cappy: ur gen-z advice capybara ✨**](https://chat.openai.com/g/g-IMsnAihG4-cappy-ur-gen-z-advice-capybara)
-- [**日越翻訳 GPT**](https://chat.openai.com/g/g-EjiilY5m6-ri-yue-fan-yi-gpt)
-- [**Avalanche**](https://chat.openai.com/g/g-IEXOgpc8y-avalanche)
-- [**Mac**](https://chat.openai.com/g/g-EsVB56iip-mac)
-- [**Vue.js and Nuxt.js Guru GPT**](https://chat.openai.com/g/g-9nGd5Y4GY-vue-js-and-nuxt-js-guru-gpt)
-- [**MetaPsych Assistant**](https://chat.openai.com/g/g-8k7NX9fI8-metapsych-assistant)
-- [**Mr. Mars**](https://chat.openai.com/g/g-8zL4SJ6GI-mr-mars)
-- [**Maestro Vittorio**](https://chat.openai.com/g/g-SV2cALAFY-maestro-vittorio)
-- [**Pokémon FireRed and LeafGreen**](https://chat.openai.com/g/g-E8d5Br81Y-pokemon-firered-and-leafgreen)
-- [**Positioning GPT**](https://chat.openai.com/g/g-9w7UTMLju-positioning-gpt)
-- [**Easy PFC Calculation from Recipes**](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes)
-- [**George Washington**](https://chat.openai.com/g/g-F8PjHkzGE-george-washington)
-- [**Odoo AI**](https://chat.openai.com/g/g-EcqDm06Kr-odoo-ai)
-- [**The ATOM library tutor**](https://chat.openai.com/g/g-Dqb6xDLt6-the-atom-library-tutor)
-- [**Atlas - GPT  Globe-Trotting Guide**](https://chat.openai.com/g/g-CW717E0yf-atlas-gpt-globe-trotting-guide)
-- [**Wealth Mentor**](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor)
-- [**Parenting Pal**](https://chat.openai.com/g/g-IxUSSAYRs-parenting-pal)
-- [**Refranyer català de butxaca**](https://chat.openai.com/g/g-965wckVV9-refranyer-catala-de-butxaca)
-- [**Lore of the Rings GPT**](https://chat.openai.com/g/g-JeX99UqKu-lore-of-the-rings-gpt)
-- [**ツンデレ先生ちゃん**](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan)
-- [**ホトトギスGPT**](https://chat.openai.com/g/g-FChAXN1LF-hototogisugpt)
-- [**👌Academic Assistant Pro**](https://chat.openai.com/g/g-Ej5zYQRIB-academic-assistant-pro)
-- [**Proser**](https://chat.openai.com/g/g-RolouHJ2V-proser)
-- [**AI夢博士**](https://chat.openai.com/g/g-EmavjbJvJ-aimeng-bo-shi)
-- [**Apocalipsis GPT**](https://chat.openai.com/g/g-FHNMSM5c7-apocalipsis-gpt)
-- [**复杂问题决策专家**](https://chat.openai.com/g/g-LzkgsUlR1-fu-za-wen-ti-jue-ce-zhuan-jia)
-- [**知財塾 GPT**](https://chat.openai.com/g/g-IhsVTaquK-zhi-cai-shu-gpt)
-- [**Code Explorer**](https://chat.openai.com/g/g-c4IhMXHfG-code-explorer)
-- [**Parenting Partner**](https://chat.openai.com/g/g-T9suymdhm-parenting-partner)
-- [**Chat Langchain GPT**](https://chat.openai.com/g/g-S4bC5HEjU-chat-langchain-gpt)
-- [**Product Pandit**](https://chat.openai.com/g/g-9HeL0JnFL-product-pandit)
-- [**Biophilia Sage**](https://chat.openai.com/g/g-SZ3fAXQi4-biophilia-sage)
-- [**Enamored Glass**](https://chat.openai.com/g/g-KiSvUy7Dv-enamored-glass)
-- [**AlgoInformer**](https://chat.openai.com/g/g-KXTjFxxvb-algoinformer)
-- [**Reversible Computing Tutor**](https://chat.openai.com/g/g-Ag3GGHb4h-reversible-computing-tutor)
-- [**Neurodiversity Navigator**](https://chat.openai.com/g/g-T5Evmg1WG-neurodiversity-navigator)
-- [**React AI**](https://chat.openai.com/g/g-AVrfRPzod-react-ai)
-- [**Capital Coach**](https://chat.openai.com/g/g-EzVrdMYVi-capital-coach)
-- [**Easy Study Buddy**](https://chat.openai.com/g/g-83fgTNdTu-easy-study-buddy)
-- [**Coin Chartist**](https://chat.openai.com/g/g-8yEyUGyFf-coin-chartist)
-- [**Wardley Mapping**](https://chat.openai.com/g/g-L9IC8cBIN-wardley-mapping)
-- [**Robinson Crusoe**](https://chat.openai.com/g/g-JTMm3jBKl-robinson-crusoe)
-- [**Yumi the Storyteller**](https://chat.openai.com/g/g-EqifeTvWJ-yumi-the-storyteller)
-- [**Mr. Taylor**](https://chat.openai.com/g/g-Fdlq1ielY-mr-taylor)
-- [**Token Securities Insights**](https://chat.openai.com/g/g-i4p2qp1Fy-token-securities-insights)
-- [**UI Prompter**](https://chat.openai.com/g/g-S1QfUKueN-ui-prompter)
-- [**Az-像素风历史冒险游戏**](https://chat.openai.com/g/g-8a8HsykJU-az-xiang-su-feng-li-shi-mou-xian-you-xi)
-- [**Tridactyl GPT**](https://chat.openai.com/g/g-AqM1ppp2g-tridactyl-gpt)
-- [**BalajiGPT**](https://chat.openai.com/g/g-8abQeGulv-balajigpt)
-- [**gpt prompt tutor**](https://chat.openai.com/g/g-1PLB07JE8-gpt-prompt-tutor)
-- [**Cuentos Infantiles - Juego Interactivo**](https://chat.openai.com/g/g-OfxBNdV1U-cuentos-infantiles-juego-interactivo)
-- [**Whiskey Sage**](https://chat.openai.com/g/g-hjdut7WN1-whiskey-sage)
-- [**FL Studio Guru**](https://chat.openai.com/g/g-9viGFLAFr-fl-studio-guru)
-- [**农药助手**](https://chat.openai.com/g/g-8xIJzjwgS-nong-yao-zhu-shou)
-- [**FandomuGPT**](https://chat.openai.com/g/g-B0d7HzM11-fandomugpt)
-- [**ELIZA**](https://chat.openai.com/g/g-8iui73B2J-eliza)
-- [**Developer Assistant**](https://chat.openai.com/g/g-OA4ugoIb9-developer-assistant)
-- [**Bullsitter**](https://chat.openai.com/g/g-PuOS9YDzE-bullsitter)
-- [**Zoomer Slang Helper**](https://chat.openai.com/g/g-foHW8oep5-zoomer-slang-helper)
-- [**Answer anything about SELECT trial**](https://chat.openai.com/g/g-8JyO4pEIT-answer-anything-about-select-trial)
-- [**Narrative Navigator**](https://chat.openai.com/g/g-8iCJrziIG-narrative-navigator)
-- [**ADHD Decryption Key**](https://chat.openai.com/g/g-BH6MnGQ9p-adhd-decryption-key)
-- [**Tech Transition Guide**](https://chat.openai.com/g/g-ADPCWnINI-tech-transition-guide)
-- [**Sci-Fi Scribe**](https://chat.openai.com/g/g-PMZRFlYFE-sci-fi-scribe)
-- [**Paper Reframer**](https://chat.openai.com/g/g-BQ8tp8aKr-paper-reframer)
-- [**Cyber Career Guide**](https://chat.openai.com/g/g-Of2hbCgFy-cyber-career-guide)
-- [**Football Match Analyst**](https://chat.openai.com/g/g-2moDp67g5-football-match-analyst)
-- [**Bilingual Translation**](https://chat.openai.com/g/g-9CwHp0pZ0-bilingual-translation)
-- [**狗熊学英语**](https://chat.openai.com/g/g-PiOxyaiBO-gou-xiong-xue-ying-yu)
-- [**FlutterFlow先生**](https://chat.openai.com/g/g-OlfFKVdp4-flutterflowxian-sheng)
-- [**MetaMaskエキスパート**](https://chat.openai.com/g/g-8B9AniaG8-metamaskekisupato)
-- [**对谈博尔赫斯**](https://chat.openai.com/g/g-OdAfFwf0U-dui-tan-bo-er-he-si)
-- [**Nietzsche Collected Works**](https://chat.openai.com/g/g-Ql5eZxYyc-nietzsche-collected-works)
-- [**My Literacy Teacher**](https://chat.openai.com/g/g-TqLTCS4Rd-my-literacy-teacher)
-- [**Stoic Compass**](https://chat.openai.com/g/g-9WaDDUkeG-stoic-compass)
-- [**Batty**](https://chat.openai.com/g/g-AqMHuZeqI-batty)
-- [**GrandmaGPT**](https://chat.openai.com/g/g-JE3DINz69-grandmagpt)
-- [**Conflux Q&A (Test)**](https://chat.openai.com/g/g-Qk5eJ1Cke-conflux-q-a-test)
-- [**リサ先生**](https://chat.openai.com/g/g-SxNVr3QRZ-risaxian-sheng)
-- [**Residency Interview Coach**](https://chat.openai.com/g/g-PLl0NxHjS-residency-interview-coach)
-- [**Pymol Command Generator**](https://chat.openai.com/g/g-AmCUXf0jd-pymol-command-generator)
-- [**Agile Mentor**](https://chat.openai.com/g/g-P2ZC5RK9T-agile-mentor)
-- [**Teachers' Pet**](https://chat.openai.com/g/g-Sq31Xyyav-teachers-pet)
-- [**Scoliosis Guidefriend**](https://chat.openai.com/g/g-5NTg60Fk8-scoliosis-guidefriend)
-- [**ゲームルール説明bot(オープンAI製のパクり)**](https://chat.openai.com/g/g-84Nvfc9FJ-gemururushuo-ming-bot-opunaizhi-nopakuri)
-- [**论文终结者**](https://chat.openai.com/g/g-903lm9l5h-lun-wen-zhong-jie-zhe)
-- [**Python GPT**](https://chat.openai.com/g/g-7ytGE8k6i-python-gpt)
-- [**Chord Maestro**](https://chat.openai.com/g/g-60rCdUuBd-chord-maestro)
-- [**Your Personal Professional Translator**](https://chat.openai.com/g/g-9IkNmHiwv-your-personal-professional-translator)
-- [**Sinterbot**](https://chat.openai.com/g/g-91GJv7Tsv-sinterbot)
-- [**Source-Evaluation-and-Fact-checking_v1.3**](https://chat.openai.com/g/g-Rv5a36pH1-source-evaluation-and-fact-checking-v1-3)
-- [**AI Dungeon Master: AI Tutor**](https://chat.openai.com/g/g-SBglgPxZs-ai-dungeon-master-ai-tutor)
-- [**Apocalypse Navigator**](https://chat.openai.com/g/g-SOnaWmO7l-apocalypse-navigator)
-- [**YC Mentor**](https://chat.openai.com/g/g-8K1hMpnn3-yc-mentor)
-- [**Lavrion Mining Investment GPT**](https://chat.openai.com/g/g-SjLgF6KU7-lavrion-mining-investment-gpt)
-- [**Modern Next.js Assistant**](https://chat.openai.com/g/g-5uKZEh1up-modern-next-js-assistant)
-- [**Deep Learning Master**](https://chat.openai.com/g/g-JDM6vl7g7-deep-learning-master)
-- [**Japan-日本語GPT**](https://chat.openai.com/g/g-M0NO10kiB-japan-ri-ben-yu-gpt)
-- [**Cyber Starters - Reading List**](https://chat.openai.com/g/g-4QuNsojlX-cyber-starters-reading-list)
-- [**Lesson Planner**](https://chat.openai.com/g/g-wAfzXSvUJ-lesson-planner)
-- [**MBTI Consultant**](https://chat.openai.com/g/g-S79pp5BKn-mbti-consultant)
-- [**DAO GPT**](https://chat.openai.com/g/g-6SRpV771X-dao-gpt)
-- [**Mr. Spock**](https://chat.openai.com/g/g-wd5j6IytV-mr-spock)
-- [**Prompt Princess**](https://chat.openai.com/g/g-6sI6l6e6B-prompt-princess)
-- [**American English**](https://chat.openai.com/g/g-56ZFyRiZi-american-english)
-- [**My French Teacher**](https://chat.openai.com/g/g-J5hOuevG4-my-french-teacher)
-- [**SandNet AI**](https://chat.openai.com/g/g-4gEa7fJPB-sandnet-ai)
-- [**Write My Tests**](https://chat.openai.com/g/g-7YIuHYkz3-write-my-tests)
-- [**Ask to Dal-Ai Llama**](https://chat.openai.com/g/g-wH7sGuLch-ask-to-dal-ai-llama)
-- [**Veteran's Guide**](https://chat.openai.com/g/g-6hXIBkO5g-veteran-s-guide)
-- [**Biblebot**](https://chat.openai.com/g/g-4GRuRXc4l-biblebot)
-- [**Buildspace**](https://chat.openai.com/g/g-6qvuu8IcP-buildspace)
-- [**Java Penguin**](https://chat.openai.com/g/g-K179yOXZ9-java-penguin)
-- [**GPT Zen**](https://chat.openai.com/g/g-LdW6kQ7ZR-gpt-zen)
-- [**The Contrarian**](https://chat.openai.com/g/g-Ezzufxvrr-the-contrarian)
-- [**完璧弁議士**](https://chat.openai.com/g/g-Du6Lay5HD-wan-bi-bian-yi-shi)
-- [**FutureMed GPT**](https://chat.openai.com/g/g-NRYBxYs9R-futuremed-gpt)
-- [**Academic Reports Buddy**](https://chat.openai.com/g/g-FvM3vT6Ul-academic-reports-buddy)
-- [**Open Data Assistant**](https://chat.openai.com/g/g-KYpp5S8Zo-open-data-assistant)
-- [**日本の人的資本ニュースGPT**](https://chat.openai.com/g/g-4r0faiQVQ-ri-ben-noren-de-zi-ben-niyusugpt)
-- [**大阪のおばちゃんの英語教室**](https://chat.openai.com/g/g-Kyid8SvRW-da-ban-noobatiyannoying-yu-jiao-shi)
-- [**UMMO GPT - FR**](https://chat.openai.com/g/g-6FS7NrOZl-ummo-gpt-fr)
-- [**Cold Case Cracker**](https://chat.openai.com/g/g-JMfYjTd1A-cold-case-cracker)
-- [**BlkChat**](https://chat.openai.com/g/g-6XKWC8riQ-blkchat)
-- [**GrammarGuru**](https://chat.openai.com/g/g-7RPUjktZa-grammarguru)
-- [**Lucas Montano**](https://chat.openai.com/g/g-IaNiHmwSC-lucas-montano)
-- [**Guess the movie !**](https://chat.openai.com/g/g-5WATRxIKH-guess-the-movie)
-- [**PostScore**](https://chat.openai.com/g/g-InDxAm2gZ-postscore)
-- [**Facilitation Guru**](https://chat.openai.com/g/g-IGPsPFqHv-facilitation-guru)
-- [**時間管理助手**](https://chat.openai.com/g/g-IJtSGbXBN-shi-jian-guan-li-zhu-shou)
-- [**Research Assistant**](https://chat.openai.com/g/g-IQWgBhbRG-research-assistant)
-- [**Yes, but**](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but)
-- [**Election Stats Guru**](https://chat.openai.com/g/g-AjoL9yfOD-election-stats-guru)
-- [**Dream Decoder**](https://chat.openai.com/g/g-6NP0oFdSE-dream-decoder)
-- [**Paul Graham GPT**](https://chat.openai.com/g/g-JhzpOnQ3D-paul-graham-gpt)
-- [**通知表所見様**](https://chat.openai.com/g/g-JIepmhQni-tong-zhi-biao-suo-jian-yang)
-- [**IT-Grundschutz GPT**](https://chat.openai.com/g/g-6KAWn2Dsu-it-grundschutz-gpt)
-- [**Voice of HubermanLab**](https://chat.openai.com/g/g-5TMG0Lqv4-voice-of-hubermanlab)
-- [**Sports Companion**](https://chat.openai.com/g/g-669oREKey-sports-companion)
-- [**Awakening From The Meaning Crisis GPT**](https://chat.openai.com/g/g-5xg0t3u1E-awakening-from-the-meaning-crisis-gpt)
-- [**The Token Goliath**](https://chat.openai.com/g/g-5cKEvmdCk-the-token-goliath)
-- [**IT baseline protection expert**](https://chat.openai.com/g/g-IbOhYRGac-it-baseline-protection-expert)
-- [**秋田弁をインドネシア語に（逆もあり）**](https://chat.openai.com/g/g-OBAl5UJFd-qiu-tian-bian-woindonesiayu-ni-ni-moari)
-- [**Building God**](https://chat.openai.com/g/g-5bdQ4ysnG-building-god)
-- [**Bilingual Translator**](https://chat.openai.com/g/g-FSMqABvxz-bilingual-translator)
-- [**EuroVisa Guide**](https://chat.openai.com/g/g-OKWNdWbcZ-eurovisa-guide)
-- [**School Advisor Bot**](https://chat.openai.com/g/g-5ev3Ij20Z-school-advisor-bot)
-- [**The Oracle of DelphAI**](https://chat.openai.com/g/g-JLWDGw7Uj-the-oracle-of-delphai)
-- [**Sakura Translator**](https://chat.openai.com/g/g-O8ZTGX42y-sakura-translator)
-- [**Al-Ghazali GPT**](https://chat.openai.com/g/g-OcGxUul37-al-ghazali-gpt)
-- [**Jarvis the SEO Expert**](https://chat.openai.com/g/g-5SH5dlX9U-jarvis-the-seo-expert)
-- [**Numeral Pal**](https://chat.openai.com/g/g-IPRviAgfF-numeral-pal)
-- [**Memrise**](https://chat.openai.com/g/g-OG4MF0QKc-memrise)
-- [**Search Query Wizard**](https://chat.openai.com/g/g-5aESzkMj4-search-query-wizard)
-- [**Alternative Histories**](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
-- [**Logistics Buddy**](https://chat.openai.com/g/g-Rbk6mQ5E7-logistics-buddy)
-- [**Simply Said**](https://chat.openai.com/g/g-5UPITPlwf-simply-said)
-- [**Reframe-CBT**](https://chat.openai.com/g/g-80dWpb7jE-reframe-cbt)
-- [**Today with Purpose**](https://chat.openai.com/g/g-4iWLIAKDL-today-with-purpose)
-- [**DevRel Guide**](https://chat.openai.com/g/g-9tO10WKi2-devrel-guide)
-- [**AIデュエル**](https://chat.openai.com/g/g-3S1D5uj7u-aideyueru)
-- [**Japanese buddy**](https://chat.openai.com/g/g-PCHw9YNkz-japanese-buddy)
-- [**Edwina the Economist**](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist)
-- [**有知有行投资第一课**](https://chat.openai.com/g/g-9GySWgnJv-you-zhi-you-xing-tou-zi-di-yi-ke)
-- [**Wikipedia Wizard**](https://chat.openai.com/g/g-6EMpQhCIv-wikipedia-wizard)
-- [**Leanpub Founder Peter Armstrong**](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong)
-- [**Content Retention Helper**](https://chat.openai.com/g/g-Pi4xl1j2Q-content-retention-helper)
-- [**PrivacyGPT**](https://chat.openai.com/g/g-75lQd6Onk-privacygpt)
-- [**fedichevGPT**](https://chat.openai.com/g/g-Ow1r5xWqJ-fedichevgpt)
-- [**Anh Việt Translator**](https://chat.openai.com/g/g-9kYnd7maH-anh-viet-translator)
-- [**Persona Builder**](https://chat.openai.com/g/g-84oB5zkqt-persona-builder)
-- [**Coaches Corner**](https://chat.openai.com/g/g-7sEHF9UW9-coaches-corner)
-- [**Holistic Guide**](https://chat.openai.com/g/g-8P5zBkDcC-holistic-guide)
-- [**Resume Advisor**](https://chat.openai.com/g/g-JBvtsuSf8-resume-advisor)
-- [**Brainstorm Buddy**](https://chat.openai.com/g/g-46qEVzoCr-brainstorm-buddy)
-- [**Recruiter's Assistant**](https://chat.openai.com/g/g-8VQpW5SOH-recruiter-s-assistant)
-- [**SUMRIZR (pickles)**](https://chat.openai.com/g/g-9w6SkJ23d-sumrizr-pickles)
-- [**Raven's Progressive Matrices Test**](https://chat.openai.com/g/g-NZwSBUhYi-raven-s-progressive-matrices-test)
-- [**Pine Assist**](https://chat.openai.com/g/g-J5AU7p5hM-pine-assist)
-- [**Japanese to English Translator**](https://chat.openai.com/g/g-6mAqdLE5P-japanese-to-english-translator)
-- [**SwamiGPT-AI Guru**](https://chat.openai.com/g/g-9LYgyz69T-swamigpt-ai-guru)
-- [**First Time Manager Coach**](https://chat.openai.com/g/g-3ocrRA0Y8-first-time-manager-coach)
-- [**Academic Linguist**](https://chat.openai.com/g/g-9KooP6C22-academic-linguist)
-- [**Dungeon Guide**](https://chat.openai.com/g/g-OhpS4zd4r-dungeon-guide)
-- [**Botanicus GPT**](https://chat.openai.com/g/g-MW84PLKEw-botanicus-gpt)
-- [**AI doctor（AI医生）**](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng)
-- [**留学大师**](https://chat.openai.com/g/g-CTPv7TJxK-liu-xue-da-shi)
-- [**Dejargonizer**](https://chat.openai.com/g/g-3V1JcLD92-dejargonizer)
-- [**医療広告ガイドラインについて答えてくれるAI**](https://chat.openai.com/g/g-NYIKWcaP3-yi-liao-guang-gao-gaidorainnituiteda-etekureruai)
-- [**Math Maven**](https://chat.openai.com/g/g-FRGrZd17p-math-maven)
-- [**TechTalk (Tech in Plain English!)**](https://chat.openai.com/g/g-6T0c6BMts-techtalk-tech-in-plain-english)
-- [**Wowza Big 5 Bot**](https://chat.openai.com/g/g-41ZdRKvla-wowza-big-5-bot)
-- [**The Storyteller**](https://chat.openai.com/g/g-9qVN88CBU-the-storyteller)
-- [**bAIfex**](https://chat.openai.com/g/g-RmGq11Hku-baifex)
-- [**AbletonGPT**](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
-- [**操纵转世系统  reincarnation system**](https://chat.openai.com/g/g-8TJmbajxk-cao-zong-zhuan-shi-xi-tong-reincarnation-system)
-- [**Legal  Wordsmith**](https://chat.openai.com/g/g-7ISfeUr84-legal-wordsmith)
-- [**Pantos Guide**](https://chat.openai.com/g/g-4DLt0ATW9-pantos-guide)
-- [**NoFap Companion**](https://chat.openai.com/g/g-47phme2pR-nofap-companion)
-- [**DnD Mastermind**](https://chat.openai.com/g/g-83mtR2lFy-dnd-mastermind)
-- [**Career Sapling**](https://chat.openai.com/g/g-8trGXQNuY-career-sapling)
-- [**NAPOLEON**](https://chat.openai.com/g/g-AiIduzVBU-napoleon)
-- [**Academic Paper Creator**](https://chat.openai.com/g/g-DzTFVQytf-academic-paper-creator)
-- [**기도의 용사**](https://chat.openai.com/g/g-5DvMLOW3l-gidoyi-yongsa)
-- [**AI Today**](https://chat.openai.com/g/g-4SR97unOA-ai-today)
-- [**Impatient Nietzsche with Jung's Ghost**](https://chat.openai.com/g/g-8fj9Vjs6V-impatient-nietzsche-with-jung-s-ghost)
-- [**Mr Pizza**](https://chat.openai.com/g/g-8bXQq8ScG-mr-pizza)
-- [**Papá Me Lo Lee**](https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee)
-- [**The Power Presenter**](https://chat.openai.com/g/g-DYp4SLnV9-the-power-presenter)
-- [**SwissStartupGPT**](https://chat.openai.com/g/g-M1HHFmXYC-swissstartupgpt)
-- [**音楽理論GPT**](https://chat.openai.com/g/g-7sxHsYA1c-yin-le-li-lun-gpt)
-- [**Uncover the Murderer: Edición Multilingüe y Guía**](https://chat.openai.com/g/g-Ra9l1s6vK-uncover-the-murderer-edicion-multilingue-y-guia)
-- [**AI 英語先生（中学）**](https://chat.openai.com/g/g-D8gBdmLth-ai-ying-yu-xian-sheng-zhong-xue)
-- [**The CTO Show With Mehmet Navigator**](https://chat.openai.com/g/g-D4SaVAEpi-the-cto-show-with-mehmet-navigator)
-- [**Reachify**](https://chat.openai.com/g/g-MB7ByTPiW-reachify)
-- [**Read Through the Bible in 2 Years**](https://chat.openai.com/g/g-pzN8BOm0z-read-through-the-bible-in-2-years)
-- [**論文査読ボット**](https://chat.openai.com/g/g-FIyQjAW3g-lun-wen-cha-du-botuto)
-- [**創業快速避坑-Biz Mentor**](https://chat.openai.com/g/g-D0iNBDpRa-chuang-ye-kuai-su-bi-keng-biz-mentor)
-- [**Mestariajattelija-GPT**](https://chat.openai.com/g/g-DuIqpGXCH-mestariajattelija-gpt)
-- [**GovCHAT**](https://chat.openai.com/g/g-EAbhkOjYz-govchat)
-- [**SUDOKU**](https://chat.openai.com/g/g-ogXlCik0m-sudoku)
-- [**Cosmic Archives**](https://chat.openai.com/g/g-4RwAySQ4X-cosmic-archives)
-- [**Vinnova Guide**](https://chat.openai.com/g/g-DiIcSmpbl-vinnova-guide)
-- [**Universal Astronomer (UAM-9)**](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-9)
-- [**AI キャリアアドバイザー**](https://chat.openai.com/g/g-2n1tqH9b6-ai-kiyariaadobaiza)
-- [**Meditation GPT**](https://chat.openai.com/g/g-M2PpfyzUg-meditation-gpt)
-- [**Job tAIlor**](https://chat.openai.com/g/g-Uukd3YuVW-job-tailor)
-- [**Die Leiden der jungen Lotte**](https://chat.openai.com/g/g-5TgPkBkDa-die-leiden-der-jungen-lotte)
-- [**Wonder Pal**](https://chat.openai.com/g/g-2ytJrXzTb-wonder-pal)
-- [**答案之书**](https://chat.openai.com/g/g-OjTL5tas6-da-an-zhi-shu)
-- [**Ruby Doc Navigator**](https://chat.openai.com/g/g-XN5Anx2ny-ruby-doc-navigator)
-- [**三国演义RPG**](https://chat.openai.com/g/g-3iV4yf9JR-san-guo-yan-yi-rpg)
-- [**考研大师**](https://chat.openai.com/g/g-fDRo5e9q3-kao-yan-da-shi)
-- [**ADHD Coach**](https://chat.openai.com/g/g-4T9mgYfXO-adhd-coach)
-- [**FerrissGPT**](https://chat.openai.com/g/g-pXQjj0uDi-ferrissgpt)
-- [**Invoice Master**](https://chat.openai.com/g/g-3XxyeZ2Gy-invoice-master)
-- [**Co-Founder GPT**](https://chat.openai.com/g/g-R8ie1mFKK-co-founder-gpt)
-- [**Echolocation**](https://chat.openai.com/g/g-Um51Akg9r-echolocation)
-- [**!Expert**](https://chat.openai.com/g/g-OXfEFY59w-expert)
-- [**Piper's Wisdom**](https://chat.openai.com/g/g-USgkpUrTR-piper-s-wisdom)
-- [**Kobayashi Sensei**](https://chat.openai.com/g/g-287I7dJAp-kobayashi-sensei)
-- [**CipherQuest 1991**](https://chat.openai.com/g/g-2XIzrSycw-cipherquest-1991)
-- [**Calculus Tutor**](https://chat.openai.com/g/g-NDdEOmOZ5-calculus-tutor)
-- [**Gifts from History**](https://chat.openai.com/g/g-4A40FbIpd-gifts-from-history)
-- [**BuddhismGPT [AI 礼佛]**](https://chat.openai.com/g/g-4udBWP6s8-buddhismgpt-ai-li-fo)
-- [**Tech Interview Coach**](https://chat.openai.com/g/g-5xr3AeXGJ-tech-interview-coach)
-- [**What's Wrong with My Plant?**](https://chat.openai.com/g/g-6rbIIsNdj-what-s-wrong-with-my-plant)
-- [**Eğitim**](https://chat.openai.com/g/g-9wNnkZP7W-egitim)
-- [**Preservio**](https://chat.openai.com/g/g-3MD8MG7mV-preservio)
-- [**Arabic Mentor**](https://chat.openai.com/g/g-6iVaMcXsU-arabic-mentor)
-- [**Paper Reviewer**](https://chat.openai.com/g/g-8Sfcmardr-paper-reviewer)
-- [**GPTs 商店检索**](https://chat.openai.com/g/g-8D7chCEXW-gpts-shang-dian-jian-suo)
-- [**韩国语 翻译 Pro**](https://chat.openai.com/g/g-57dHgEitc-han-guo-yu-fan-yi-pro)
-- [**Omics Mentor**](https://chat.openai.com/g/g-33EM7f62H-omics-mentor)
-- [**Seeking Ikigai**](https://chat.openai.com/g/g-CERQSjIAh-seeking-ikigai)
-- [**Prose Polisher**](https://chat.openai.com/g/g-NLd7Mpg2A-prose-polisher)
-- [**Dr House**](https://chat.openai.com/g/g-1uYhkcv3t-dr-house)
-- [**Stories from the Apple Design Team**](https://chat.openai.com/g/g-4wleGSafJ-stories-from-the-apple-design-team)
-- [**Grey's Simulator**](https://chat.openai.com/g/g-JN2HTe7hO-grey-s-simulator)
-- [**SEO & Content Marketing Expert**](https://chat.openai.com/g/g-6KQKpNIuQ-seo-content-marketing-expert)
-- [**MattGPT**](https://chat.openai.com/g/g-2N2kDBiay-mattgpt)
-- [**O Arquiteto do Conhecimento**](https://chat.openai.com/g/g-7RyLu2atp-o-arquiteto-do-conhecimento)
-- [**ML Research Scout**](https://chat.openai.com/g/g-4LlUMUHiR-ml-research-scout)
-- [**WP secure guide**](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide)
-- [**Asesor Virtual Laboralista**](https://chat.openai.com/g/g-5KWZrMMRz-asesor-virtual-laboralista)
-- [**NeRF Excavator**](https://chat.openai.com/g/g-CGr4nqtmF-nerf-excavator)
-- [**Tyler Cowen GPT**](https://chat.openai.com/g/g-68tq5KQ0T-tyler-cowen-gpt)
-- [**MediAcro**](https://chat.openai.com/g/g-EmO6kYI6M-mediacro)
-- [**KisauGPT**](https://chat.openai.com/g/g-49dlbfl76-kisaugpt)
-- [**Throw a Wrench In Your Plans GPT**](https://chat.openai.com/g/g-4TXRH8hAR-throw-a-wrench-in-your-plans-gpt)
-- [**Global News Verifier**](https://chat.openai.com/g/g-TRGFJRKqn-global-news-verifier)
-- [**Tour Guide**](https://chat.openai.com/g/g-UITDE3Nsz-tour-guide)
-- [**Everyday Series**](https://chat.openai.com/g/g-1IO4IYCow-everyday-series)
-- [**Peña Prodigy**](https://chat.openai.com/g/g-8kkId5nmf-pena-prodigy)
-- [**Deradicalizer**](https://chat.openai.com/g/g-4sE3lODIc-deradicalizer)
-- [**Radiologist**](https://chat.openai.com/g/g-8m153aROb-radiologist)
-- [**StepWiz**](https://chat.openai.com/g/g-5GOaU9dj5-stepwiz)
-- [**Kenji Bookwise**](https://chat.openai.com/g/g-3vfYF6xa3-kenji-bookwise)
-- [**Pet Nutrition Advisor**](https://chat.openai.com/g/g-4HaRJvjYY-pet-nutrition-advisor)
-- [**BitV1**](https://chat.openai.com/g/g-U52whiZpn-bitv1)
-- [**子育てお悩み相談所**](https://chat.openai.com/g/g-M9Wc0HyxJ-zi-yu-teonao-mixiang-tan-suo)
-- [**自媒体文案写手**](https://chat.openai.com/g/g-4h5mFllFj-zi-mei-ti-wen-an-xie-shou)
-- [**SpellCaster_AI**](https://chat.openai.com/g/g-7kf9Chf3h-spellcaster-ai)
-- [**Bashar's Teachings**](https://chat.openai.com/g/g-1nrhkwXHb-bashar-s-teachings)
-- [**Vino Virtuoso**](https://chat.openai.com/g/g-TehLG6DwV-vino-virtuoso)
-- [**猫猫事实**](https://chat.openai.com/g/g-3AgSQnvpD-mao-mao-shi-shi)
-- [**Topic Idea Generator**](https://chat.openai.com/g/g-LCEeDPEtQ-topic-idea-generator)
-- [**Web3GPT**](https://chat.openai.com/g/g-1eOr7Xqzj-web3gpt)
-- [**H.P. Lovecraft**](https://chat.openai.com/g/g-TGwinzKcU-h-p-lovecraft)
-- [**儿童医疗指南**](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan)
-- [**All-Bot - Proteus v6**](https://chat.openai.com/g/g-AjZm7m024-all-bot-proteus-v6)
-- [**Knowledge Guru**](https://chat.openai.com/g/g-3MnLHewny-knowledge-guru)
-- [**通义千问**](https://chat.openai.com/g/g-54jf3vZMj-tong-yi-qian-wen)
-- [**CN Game Scout**](https://chat.openai.com/g/g-40fUW6EuC-cn-game-scout)
-- [**日記から英文の絵日記をつくってくれるやつ**](https://chat.openai.com/g/g-33k1QzM7c-ri-ji-karaying-wen-nohui-ri-ji-wotukututekureruyatu)
-- [**Ali Abdal**](https://chat.openai.com/g/g-1aMXZx0DS-ali-abdal)
-- [**Serenity Guide**](https://chat.openai.com/g/g-3S0ZNtwms-serenity-guide)
-- [**MBA Mentor**](https://chat.openai.com/g/g-TpmcTYqNp-mba-mentor)
-- [**US Veterans Historian**](https://chat.openai.com/g/g-LYI9hCnqF-us-veterans-historian)
-- [**Jimmy Gandalfini**](https://chat.openai.com/g/g-MlSkBl86P-jimmy-gandalfini)
-- [**CosmoChimp**](https://chat.openai.com/g/g-4CWC8KTza-cosmochimp)
-- [**Obie Fernandez, Ruby on Rails Expert**](https://chat.openai.com/g/g-Mpgz9OmUT-obie-fernandez-ruby-on-rails-expert)
-- [**English Trainer**](https://chat.openai.com/g/g-MWUT9h95p-english-trainer)
-- [**ArticleGPT**](https://chat.openai.com/g/g-34Bg3Tn32-articlegpt)
-- [**Math Mentor for ECG**](https://chat.openai.com/g/g-4h7yzlKdb-math-mentor-for-ecg)
-- [**Strategic Thinker**](https://chat.openai.com/g/g-4fUXSYKYo-strategic-thinker)
-- [**PM Career Analyst**](https://chat.openai.com/g/g-3eLavWmuM-pm-career-analyst)
-- [**Universal Human 🖖🌍🧠**](https://chat.openai.com/g/g-K8bzas0CW-universal-human)
-- [**Thoughtful Explorer**](https://chat.openai.com/g/g-1JXxYr0DV-thoughtful-explorer)
-- [**🎀My excellent classmates (Help with my homework!)**](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework)
-- [**Law & Order**](https://chat.openai.com/g/g-23MFe5i3r-law-order)
-- [**Zoll GPT (DE)**](https://chat.openai.com/g/g-0fPRL4FXg-zoll-gpt-de)
-- [**WikiGPT**](https://chat.openai.com/g/g-15rSBADyl-wikigpt)
-- [**Cyber Security Tutor**](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor)
-- [**Baby Journey AI**](https://chat.openai.com/g/g-MnA0ieWPY-baby-journey-ai)
-- [**DevOps GPT**](https://chat.openai.com/g/g-tXRU6PcBN-devops-gpt)
-- [**Time Traveler Chat**](https://chat.openai.com/g/g-Q7MJ1Mq5Y-time-traveler-chat)
-- [**Multilingual PDF Translator MD**](https://chat.openai.com/g/g-2bsj5hatH-multilingual-pdf-translator-md)
-- [**Secrets of Marketing**](https://chat.openai.com/g/g-PqE41vsT0-secrets-of-marketing)
-- [**Software Interview Guru**](https://chat.openai.com/g/g-Tr5PYvW4s-software-interview-guru)
-- [**Study Mentor**](https://chat.openai.com/g/g-4AOhYpUh3-study-mentor)
-- [**Baby Name Buddy**](https://chat.openai.com/g/g-PHjzNRHqt-baby-name-buddy)
-- [**Business Blueprint Builder**](https://chat.openai.com/g/g-3QWQwnWzn-business-blueprint-builder)
-- [**Notes Scribe**](https://chat.openai.com/g/g-0f7Gok0gW-notes-scribe)
-- [**Midjourney For Dummies**](https://chat.openai.com/g/g-PApRU3tut-midjourney-for-dummies)
-- [**Dachshund Vet Expert**](https://chat.openai.com/g/g-3sTypIMzd-dachshund-vet-expert)
-- [**YoutubeSummariesGPT by Merlin**](https://chat.openai.com/g/g-1wExrKkCI-youtubesummariesgpt-by-merlin)
-- [**Lingo Tutor**](https://chat.openai.com/g/g-vC8XfC47u-lingo-tutor)
-- [**MS SSRS Guide**](https://chat.openai.com/g/g-Pn4OvAr44-ms-ssrs-guide)
-- [**Awakening with VervAIeke**](https://chat.openai.com/g/g-NNErJX3ls-awakening-with-vervaieke)
-- [**Python Seniorify**](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify)
-- [**Mystic 占卜🔮**](https://chat.openai.com/g/g-2J7NZ9PiL-mystic-zhan-bu)
-- [**赛博算命老头**](https://chat.openai.com/g/g-1eX0XTwwC-sai-bo-suan-ming-lao-tou)
-- [**Chatterbot GPT**](https://chat.openai.com/g/g-s9smdY2iR-chatterbot-gpt)
-- [**Codie-SanGPT**](https://chat.openai.com/g/g-SzkdDYZ1W-codie-sangpt)
-- [**SOL Code Guru**](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru)
-- [**AI Japanese Tutor**](https://chat.openai.com/g/g-4JocTLWXY-ai-japanese-tutor)
-- [**GPT-Genius**](https://chat.openai.com/g/g-2z2mDEeZ2-gpt-genius)
-- [**Mind Mate**](https://chat.openai.com/g/g-77lMzByVI-mind-mate)
-- [**Spock's Assistant**](https://chat.openai.com/g/g-2CJFPOFNw-spock-s-assistant)
-- [**NoCode Việt Nam Advisor**](https://chat.openai.com/g/g-2DEulSDCF-nocode-viet-nam-advisor)
-- [**Ableton 11 Assistant**](https://chat.openai.com/g/g-hsJ6OivuQ-ableton-11-assistant)
-- [**Kemomimi maker**](https://chat.openai.com/g/g-2UFeRumrB-kemomimi-maker)
-- [**CUC 读书**](https://chat.openai.com/g/g-kzHbp8SQp-cuc-du-shu)
-- [**Science Assistant**](https://chat.openai.com/g/g-TAlmeHvaC-science-assistant)
-- [**FallacyGPT**](https://chat.openai.com/g/g-9g78R6X1x-fallacygpt)
-- [**DictGPT(中文版)**](https://chat.openai.com/g/g-u3Fw2Om0s-dictgpt-zhong-wen-ban)
-- [**Podcast Pal**](https://chat.openai.com/g/g-SwShYzf7c-podcast-pal)
-- [**Krishnamurti's Observer**](https://chat.openai.com/g/g-1RIC8lr67-krishnamurti-s-observer)
-- [**StatsML Helper**](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
-- [**Book of Mormon Scholar**](https://chat.openai.com/g/g-7DMtzILgJ-book-of-mormon-scholar)
-- [**美容家ちゃん**](https://chat.openai.com/g/g-dNbVk0PzS-mei-rong-jia-tiyan)
-- [**Universal Career Counselor (UCC-10-L)**](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-l)
-- [**Cephalon Codexia**](https://chat.openai.com/g/g-5wTuCto3H-cephalon-codexia)
-- [**MCAT Mentor**](https://chat.openai.com/g/g-1nmyKSBkS-mcat-mentor)
-- [**life story**](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)
-- [**AIテスト分析ツール（論理的機能構造分類）**](https://chat.openai.com/g/g-MV4Q97nsl-aitesutofen-xi-turu-lun-li-de-ji-neng-gou-zao-fen-lei)
-- [**ChefChef**](https://chat.openai.com/g/g-QdQgjI4Jm-chefchef)
-- [**缩写方法论大师**](https://chat.openai.com/g/g-BKw32Cv4g-suo-xie-fang-fa-lun-da-shi)
-- [**Radical Selfishness**](https://chat.openai.com/g/g-26jvBBVTr-radical-selfishness)
-- [**HodorGPT**](https://chat.openai.com/g/g-8ptUK3Rhr-hodorgpt)
-- [**RGPD Assistant**](https://chat.openai.com/g/g-5pPts8O7X-rgpd-assistant)
-- [**Chale**](https://chat.openai.com/g/g-emgZ9Gmvt-chale)
-- [**SummyGPT**](https://chat.openai.com/g/g-QwIKohYcz-summygpt)
-- [**British English**](https://chat.openai.com/g/g-eTR0UWP5W-british-english)
-- [**Pocket Meditations**](https://chat.openai.com/g/g-0AZyQVlhT-pocket-meditations)
-- [**StoryMaker**](https://chat.openai.com/g/g-0mbxCoAFd-storymaker)
-- [**AI Energy & Climate Hack Assistant**](https://chat.openai.com/g/g-6sILa5paI-ai-energy-climate-hack-assistant)
-- [**The Amazonian Interview Coach**](https://chat.openai.com/g/g-7i4ZTc2Op-the-amazonian-interview-coach)
-- [**Manager Coach**](https://chat.openai.com/g/g-hcslwgwLT-manager-coach)
-- [**TRIVIAL**](https://chat.openai.com/g/g-5NOfzJkaq-trivial)
-- [**Simple Proofreader**](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader)
-- [**エクセル関数サムライ**](https://chat.openai.com/g/g-9gKvOipTC-ekuseruguan-shu-samurai)
-- [**React**](https://chat.openai.com/g/g-Kjy9t69Gu-react)
-- [**Survival Savvy**](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy)
-- [**TeachLib**](https://chat.openai.com/g/g-QrhY8rxPM-teachlib)
-- [**Knights of the Round**](https://chat.openai.com/g/g-BYhOXtULk-knights-of-the-round)
-- [**City Management Assistant**](https://chat.openai.com/g/g-0xBJPnT1a-city-management-assistant)
-- [**Brand Crafter**](https://chat.openai.com/g/g-07KcPNFmN-brand-crafter)
-- [**Mother**](https://chat.openai.com/g/g-6f5VMKsyH-mother)
-- [**PsychopathGPT**](https://chat.openai.com/g/g-11MoRuljV-psychopathgpt)
-- [**Argvor, the Dungeon Master**](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
-- [**Buddhabits**](https://chat.openai.com/g/g-BBdn7E9qv-buddhabits)
-- [**GwentGPT**](https://chat.openai.com/g/g-60feW1q5u-gwentgpt)
-- [**AutoExpert (Chat)**](https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat)
-- [**✍️Paraphraser & Proofreader (Professional Version)**](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
-- [**EduBot - HomeSchool Helper**](https://chat.openai.com/g/g-LTgawtUFZ-edubot-homeschool-helper)
-- [**pdgaGPT**](https://chat.openai.com/g/g-QjhoyqbXw-pdgagpt)
-- [**NFTGod**](https://chat.openai.com/g/g-0TPXYkSiH-nftgod)
-- [**FrankenMind**](https://chat.openai.com/g/g-LEXABoYpy-frankenmind)
-- [**GPT地下城 （demo）**](https://chat.openai.com/g/g-4wfedlmN1-gptdi-xia-cheng-demo)
-- [**QUICK WRITING ACADEMIC'S PAPERS**](https://chat.openai.com/g/g-0TzPBV9HQ-quick-writing-academic-s-papers)
-- [**PG GPT**](https://chat.openai.com/g/g-AqxQGm6Tb-pg-gpt)
-- [**Eesti Võlaõigus - lepingud, töötajad & startupid**](https://chat.openai.com/g/g-P5iUyl2xt-eesti-volaoigus-lepingud-tootajad-startupid)
-- [**Bezos Letters**](https://chat.openai.com/g/g-8N3pOwhGO-bezos-letters)
-- [**Bud Buddy**](https://chat.openai.com/g/g-6NTvBlPJM-bud-buddy)
-- [**Prompt Architect**](https://chat.openai.com/g/g-BQIpAwfnb-prompt-architect)
-- [**UX Insight Assistant**](https://chat.openai.com/g/g-6Z0Viu8pX-ux-insight-assistant)
-- [**Cinematic Muse**](https://chat.openai.com/g/g-66v386SE8-cinematic-muse)
-- [**Knowledge Structurer**](https://chat.openai.com/g/g-9ImhE2twe-knowledge-structurer)
-- [**Innovator Mentor**](https://chat.openai.com/g/g-B4lNJHRkS-innovator-mentor)
-- [**History Perspectives**](https://chat.openai.com/g/g-6QsAfZbqY-history-perspectives)
-- [**Trivia with Archimedes**](https://chat.openai.com/g/g-2pFjhiIzE-trivia-with-archimedes)
-- [**Génesis GPT**](https://chat.openai.com/g/g-Bbg2tWilL-genesis-gpt)
-- [**Debate Club**](https://chat.openai.com/g/g-AmszAsH6N-debate-club)
-- [**G.PT Chef**](https://chat.openai.com/g/g-01RhrwfEZ-g-pt-chef)
-- [**Digital Entrepreneurship Accelerator Coach**](https://chat.openai.com/g/g-5qDoRoGYR-digital-entrepreneurship-accelerator-coach)
-- [**Blockpedia**](https://chat.openai.com/g/g-KqMzVjfW0-blockpedia)
-- [**Indian Laws GPT**](https://chat.openai.com/g/g-2OsLflU7l-indian-laws-gpt)
-- [**Pokemon Quiz Master**](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master)
-- [**React Assistant**](https://chat.openai.com/g/g-56F6LHYlf-react-assistant)
-- [**Metaverse Real Estate Companion**](https://chat.openai.com/g/g-3PqMs657b-metaverse-real-estate-companion)
-- [**Das deutsche Grundgesetz**](https://chat.openai.com/g/g-AsP6hcNfO-das-deutsche-grundgesetz)
-- [**AI Course Architect**](https://chat.openai.com/g/g-0FjwiqSym-ai-course-architect)
-- [**DRUMGPT**](https://chat.openai.com/g/g-KXOxHkk3D-drumgpt)
-- [**AI-Driven Lab**](https://chat.openai.com/g/g-0r8g7CjC5-ai-driven-lab)
-- [**Cyber Mentor**](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor)
-- [**CraftBeer Master**](https://chat.openai.com/g/g-BUGUOXZzN-craftbeer-master)
-- [**IoPL GPT**](https://chat.openai.com/g/g-BblvalPpj-iopl-gpt)
-- [**Bias Detector**](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector)
-- [**Engineering Manager Coach**](https://chat.openai.com/g/g-00VXLLDtM-engineering-manager-coach)
-- [**Profesional Youtuber Mentor**](https://chat.openai.com/g/g-0fNuAFH2S-profesional-youtuber-mentor)
-- [**Is this a lie**](https://chat.openai.com/g/g-2eKQkdn1K-is-this-a-lie)
-- [**Reel Insight Pro**](https://chat.openai.com/g/g-5ERcDfeUc-reel-insight-pro)
-- [**Journal Polisher**](https://chat.openai.com/g/g-0bkf4mNTa-journal-polisher)
-- [**Dark Eccho**](https://chat.openai.com/g/g-61OEDbTnU-dark-eccho)
-- [**Steve**](https://chat.openai.com/g/g-4Zj7er1qB-steve)
-- [**Arzgebirg Rezepte GPT**](https://chat.openai.com/g/g-3lqMbQ10f-arzgebirg-rezepte-gpt)
-- [**Shadow Archetype**](https://chat.openai.com/g/g-5Hh3noMrK-shadow-archetype)
-- [**Visual Note Mapper**](https://chat.openai.com/g/g-8C0RTlHjC-visual-note-mapper)
-- [**Product Management Guide**](https://chat.openai.com/g/g-1KcsCFQLA-product-management-guide)
-- [**ISO Guardian**](https://chat.openai.com/g/g-VaZzX0Ppp-iso-guardian)
-- [**The UX Sage**](https://chat.openai.com/g/g-242OjQh2w-the-ux-sage)
-- [**Tech Teacher Assistant by Dr. John L. Pauls**](https://chat.openai.com/g/g-5PrcUCAar-tech-teacher-assistant-by-dr-john-l-pauls)
-- [**赛斯会谈**](https://chat.openai.com/g/g-AYJwf54sg-sai-si-hui-tan)
-- [**Synthia 😋🌟**](https://chat.openai.com/g/g-0Lsw9zT25-synthia)
-- [**资深作家**](https://chat.openai.com/g/g-D9sS54ONX-zi-shen-zuo-jia)
-- [**PPGPT**](https://chat.openai.com/g/g-1JVCI5qVz-ppgpt)
-- [**RoadLawsAI**](https://chat.openai.com/g/g-5kQZdDG0v-roadlawsai)
-- [**峰哥GPT**](https://chat.openai.com/g/g-1MqTbZqRS-feng-ge-gpt)
-- [**Children of the Grave**](https://chat.openai.com/g/g-0LtZkpRmr-children-of-the-grave)
-- [**CBT GPT**](https://chat.openai.com/g/g-Ec8p64AW9-cbt-gpt)
-- [**ミラサポ事例調査アシスタント**](https://chat.openai.com/g/g-5VxQdCpXd-mirasaposhi-li-diao-cha-asisutanto)
-- [**Startup Website Copy**](https://chat.openai.com/g/g-85Y0gYQuO-startup-website-copy)
-- [**VS**](https://chat.openai.com/g/g-8BQbJKM1q-vs)
-- [**Crypto Translator**](https://chat.openai.com/g/g-0eRKW2Tn8-crypto-translator)
-- [**NextJS Helper**](https://chat.openai.com/g/g-4x1f8oe7I-nextjs-helper)
-- [**Dermatology Advisor**](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor)
-- [**Federal Rules Assistant**](https://chat.openai.com/g/g-7LvM1IlfL-federal-rules-assistant)
-- [**Foodie Beauties - 美食美人**](https://chat.openai.com/g/g-P0GKmgCmL-foodie-beauties-mei-shi-mei-ren)
-- [**Digital Startup Mentor**](https://chat.openai.com/g/g-MFjXsYjap-digital-startup-mentor)
-- [**Career Assistant**](https://chat.openai.com/g/g-0iN1pNApr-career-assistant)
-- [**履歴書添削くん**](https://chat.openai.com/g/g-4CXoqB9E8-lu-li-shu-tian-xue-kun)
-- [**DocTutor**](https://chat.openai.com/g/g-M1rPB3jJT-doctutor)
-- [**YourBestGPTs【2023/11/13 Updated】**](https://chat.openai.com/g/g-0UqTHr5Ol-yourbestgpts-2023-11-13-updated)
-- [**GPT Scout**](https://chat.openai.com/g/g-7WFNmG7Gz-gpt-scout)
-- [**主持人**](https://chat.openai.com/g/g-0opTju6IS-zhu-chi-ren)
-- [**SuperHumAIne**](https://chat.openai.com/g/g-OkxSUJfe3-superhumaine)
-- [**ChatJPT**](https://chat.openai.com/g/g-ErmwIOXcP-chatjpt)
-- [**Techno Optimist**](https://chat.openai.com/g/g-8wmuklXjY-techno-optimist)
-- [**CPF Guide Bot**](https://chat.openai.com/g/g-0uQRgwu1i-cpf-guide-bot)
-- [**Dr. Business**](https://chat.openai.com/g/g-ODclaHPfa-dr-business)
-- [**Math to LaTeX**](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex)
-- [**Tech Career & Interview Coach (GrizzPM)**](https://chat.openai.com/g/g-2He8U07Wh-tech-career-interview-coach-grizzpm)
-- [**玄学圣人**](https://chat.openai.com/g/g-A7PF26EsP-xuan-xue-sheng-ren)
-- [**Herbal Wisdom**](https://chat.openai.com/g/g-3PAzB58MV-herbal-wisdom)
-- [**论文润色大师**](https://chat.openai.com/g/g-UPuGbvUJn-lun-wen-run-se-da-shi)
-- [**SwiftieGPT**](https://chat.openai.com/g/g-EStX4holT-swiftiegpt)
-- [**瓊瑤 GPT**](https://chat.openai.com/g/g-8w4i4MZNb-qiong-yao-gpt)
-- [**Chicken Chicken Chicken Research**](https://chat.openai.com/g/g-ImiNFLh73-chicken-chicken-chicken-research)
-- [**FlutterFlow Sensei**](https://chat.openai.com/g/g-JIaUKClak-flutterflow-sensei)
-- [**YoutubeToBlogsGPT by Merlin**](https://chat.openai.com/g/g-0FgRLpAvT-youtubetoblogsgpt-by-merlin)
-- [**Pretty Derby Teacher**](https://chat.openai.com/g/g-8m2OhsXwH-pretty-derby-teacher)
-- [**担当さん**](https://chat.openai.com/g/g-IslSpbBIb-dan-dang-san)
-- [**InteraxionGPT**](https://chat.openai.com/g/g-TwYQstulB-interaxiongpt)
-- [**Request for Proposal Guide**](https://chat.openai.com/g/g-arVm6uffZ-request-for-proposal-guide)
-- [**Chinabot MP**](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp)
-- [**Research Proposal Maker**](https://chat.openai.com/g/g-IzrDadyxd-research-proposal-maker)
-- [**3DCP Guru GPT**](https://chat.openai.com/g/g-1RPXrDUz4-3dcp-guru-gpt)
-- [**Mr. Ranedeer**](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer)
-- [**Ms. Roxana**](https://chat.openai.com/g/g-09h5uQiFC-ms-roxana)
-- [**AI Coach Reflekco（リフレクこ）**](https://chat.openai.com/g/g-KIVvryxJV-ai-coach-reflekco-rihurekuko)
-- [**英文添削くん**](https://chat.openai.com/g/g-6haUFXfzO-ying-wen-tian-xue-kun)
-- [**Steve's Coach**](https://chat.openai.com/g/g-7Duux77Dm-steve-s-coach)
-- [**FOIA GPT**](https://chat.openai.com/g/g-IlhXHXNBh-foia-gpt)
-- [**Book Buddy**](https://chat.openai.com/g/g-2wxpRJoFE-book-buddy)
-- [**Sindhi Rasoi**](https://chat.openai.com/g/g-7mNOqJe9T-sindhi-rasoi)
-- [**Young Jarvis**](https://chat.openai.com/g/g-AA8MG6fEI-young-jarvis)
-- [**PDF 2 Quiz**](https://chat.openai.com/g/g-IScFGIkdG-pdf-2-quiz)
-- [**Persona Insight**](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight)
-- [**Spanish Translator**](https://chat.openai.com/g/g-KUdYKfS6z-spanish-translator)
-- [**EE-GPT**](https://chat.openai.com/g/g-4fpcmwkT2-ee-gpt)
-- [**JungGPT**](https://chat.openai.com/g/g-2PFtG1wJD-junggpt)
-- [**Ben**](https://chat.openai.com/g/g-D85qNSL83-ben)
-- [**The Best Book on Quantum Computing**](https://chat.openai.com/g/g-345N5DgSq-the-best-book-on-quantum-computing)
-- [**Code Maestro**](https://chat.openai.com/g/g-0iLn5s1Zk-code-maestro)
-- [**PUA Guide: Become a Pick Up Artist**](https://chat.openai.com/g/g-8w6tkqs9q-pua-guide-become-a-pick-up-artist)
-- [**Unreal Engine Assistant**](https://chat.openai.com/g/g-1V3xLiymP-unreal-engine-assistant)
-- [**AtCoder Tutor - 解説読み上げ先生**](https://chat.openai.com/g/g-NQBui8UaX-atcoder-tutor-jie-shuo-du-mishang-gexian-sheng)
-- [**SheetsGPT**](https://chat.openai.com/g/g-ROXHWHjBF-sheetsgpt)
-- [**Parent and Educator Ally**](https://chat.openai.com/g/g-2HzecDNbj-parent-and-educator-ally)
-- [**Write like The Economist**](https://chat.openai.com/g/g-9yyGdycdi-write-like-the-economist)
-- [**UN GPT (unofficial)**](https://chat.openai.com/g/g-1Mli622Ev-un-gpt-unofficial)
-- [**DataSci Simplified GPT**](https://chat.openai.com/g/g-DygblDVG4-datasci-simplified-gpt)
-- [**F1运动规则解释器**](https://chat.openai.com/g/g-1x8EFCmaX-f1yun-dong-gui-ze-jie-shi-qi)
-- [**計算問題GPT**](https://chat.openai.com/g/g-JIXpEc0dt-ji-suan-wen-ti-gpt)
-- [**江澤民 GPT**](https://chat.openai.com/g/g-2agG66lrW-jiang-ze-min-gpt)
-- [**h4ckGPT**](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
-- [**GPT-4中文**](https://chat.openai.com/g/g-0imc2sAcX-gpt-4zhong-wen)
-- [**Whatcha?**](https://chat.openai.com/g/g-CzpsD2bnO-whatcha)
-- [**WEED Cultivation Coach 420**](https://chat.openai.com/g/g-Nh0AVx3Wc-weed-cultivation-coach-420)
-- [**汉语拼音**](https://chat.openai.com/g/g-3XRmFBfRX-yi-yu-pin-yin)
-- [**Soulwise**](https://chat.openai.com/g/g-hcmh1dk3A-soulwise)
-- [**Python Guru**](https://chat.openai.com/g/g-JOAGYPJo3-python-guru)
-- [**和英翻訳GPT**](https://chat.openai.com/g/g-RKXe3aooI-he-ying-fan-yi-gpt)
-- [**Info Seeker**](https://chat.openai.com/g/g-FBKj8h4aM-info-seeker)
-- [**ロイロの授業案を提案するくんα**](https://chat.openai.com/g/g-Rak62MUSA-roironoshou-ye-an-woti-an-surukuna)
-- [**Elm GPT**](https://chat.openai.com/g/g-RDfSL2vyj-elm-gpt)
-- [**Biohack Genus**](https://chat.openai.com/g/g-1Di02z42x-biohack-genus)
-- [**Electric Monk**](https://chat.openai.com/g/g-cODCuRspl-electric-monk)
-- [**GPTs Hub**](https://chat.openai.com/g/g-KK6ms1ehm-gpts-hub)
-- [**Bud Genius**](https://chat.openai.com/g/g-1ZVC6bRB6-bud-genius)
-- [**Spoken English Rephrase Buddy**](https://chat.openai.com/g/g-cWtXgoyUv-spoken-english-rephrase-buddy)
-- [**P&B Storyboard Scripter**](https://chat.openai.com/g/g-KhXKemMIw-p-b-storyboard-scripter)
-- [**ElchavaPicks Reglas UCI carretera**](https://chat.openai.com/g/g-4uiwzO32a-elchavapicks-reglas-uci-carretera)
-- [**Slide Wizard**](https://chat.openai.com/g/g-cdJcbh4IZ-slide-wizard)
-- [**Philosophical Nietzsche**](https://chat.openai.com/g/g-2OTtMEzkk-philosophical-nietzsche)
-- [**Creador de situaciones de aprendizaje**](https://chat.openai.com/g/g-0cQbyVkx0-creador-de-situaciones-de-aprendizaje)
-- [**Buddhist Master**](https://chat.openai.com/g/g-33fgcj9TF-buddhist-master)
-- [**Deutsch Wort Helfer**](https://chat.openai.com/g/g-7MuMPKEGS-deutsch-wort-helfer)
-- [**Startup Idea Generator**](https://chat.openai.com/g/g-Tq66GpRPJ-startup-idea-generator)
-- [**Según La Biblia - GPT**](https://chat.openai.com/g/g-NckV21cQI-segun-la-biblia-gpt)
-- [**Feynman Concept Explorer**](https://chat.openai.com/g/g-RGlV6Q2vM-feynman-concept-explorer)
-- [**Elsa 💡🔥👩**](https://chat.openai.com/g/g-N1SJLto6i-elsa)
-- [**マナブAI**](https://chat.openai.com/g/g-RZq5pdhkb-manabuai)
-- [**SEO Crafter**](https://chat.openai.com/g/g-IxswlWe7h-seo-crafter)
-- [**Gimp Bot**](https://chat.openai.com/g/g-2OA0qYGZO-gimp-bot)
-- [**Agile Coach**](https://chat.openai.com/g/g-1GXrG7Nwr-agile-coach)
-- [**GrokGPT**](https://chat.openai.com/g/g-3cdZINshk-grokgpt)
-- [**Yeni Başlayanlar İçin Kripto Para Piyasaları**](https://chat.openai.com/g/g-zxJIuV4m9-yeni-baslayanlar-icin-kripto-para-piyasalari)
-- [**Data Health Assistant**](https://chat.openai.com/g/g-sfK1OpGXx-data-health-assistant)
-- [**TokenGPT**](https://chat.openai.com/g/g-2LommlixC-tokengpt)
-- [**Oya GPT**](https://chat.openai.com/g/g-08VXc5eQ5-oya-gpt)
-- [**Create A Business Model Canvas For Your Business**](https://chat.openai.com/g/g-4eP7stcpj-create-a-business-model-canvas-for-your-business)
-- [**Andrew Tate**](https://chat.openai.com/g/g-7FGXp1eWw-andrew-tate)
-- [**Word Origin Expert**](https://chat.openai.com/g/g-L9seuyohl-word-origin-expert)
-- [**My Political Affiliations**](https://chat.openai.com/g/g-6RoOrZo6Z-my-political-affiliations)
-- [**Music Theory Master**](https://chat.openai.com/g/g-3jzNzf958-music-theory-master)
-- [**Debate Master**](https://chat.openai.com/g/g-6E63LjWbC-debate-master)
-- [**Prepper Survival Guide**](https://chat.openai.com/g/g-5uOHCVpsP-prepper-survival-guide)
-- [**Dice Weaver**](https://chat.openai.com/g/g-57dT1esf1-dice-weaver)
-- [**OpenStorytelling Plus**](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus)
-- [**ChatEnglish**](https://chat.openai.com/g/g-6lpFSjYBY-chatenglish)
-- [**Content Analysing for Content and Data Analysis**](https://chat.openai.com/g/g-1SDpSryY2-content-analysing-for-content-and-data-analysis)
-- [**Manoa Sibyl**](https://chat.openai.com/g/g-6jw6aNvtU-manoa-sibyl)
-- [**Cold Email Maverick**](https://chat.openai.com/g/g-1R8WAuQJh-cold-email-maverick)
-- [**Midji**](https://chat.openai.com/g/g-4hXVpNjE1-midji)
-- [**Super Summary**](https://chat.openai.com/g/g-4i6Kttlv7-super-summary)
-- [**Olyup**](https://chat.openai.com/g/g-JlDoaXFrU-olyup)
-- [**GPT Builder Assistant**](https://chat.openai.com/g/g-JfdneO7X9-gpt-builder-assistant)
-- [**AI Insight Partner**](https://chat.openai.com/g/g-4cRSukscR-ai-insight-partner)
-- [**Old Wise Man**](https://chat.openai.com/g/g-3Woec9IEm-old-wise-man)
-- [**Sympy Sage**](https://chat.openai.com/g/g-1RmW1lw8j-sympy-sage)
-- [**Professional Coach**](https://chat.openai.com/g/g-2JUJPnaRv-professional-coach)
-- [**Data-Driven Writing Editor GPT**](https://chat.openai.com/g/g-3F8acW2BH-data-driven-writing-editor-gpt)
-- [**日本国憲法**](https://chat.openai.com/g/g-2Bz7kLGdD-ri-ben-guo-xian-fa)
-- [**الخبير القانوني العماني**](https://chat.openai.com/g/g-L4C5nQ6kr-lkhbyr-lqnwny-l-mny)
-- [**Brazilian constitution**](https://chat.openai.com/g/g-DHgHDU1UC-brazilian-constitution)
-- [**Grant Guide Guru**](https://chat.openai.com/g/g-2dBLExtfV-grant-guide-guru)
-- [**专家怎么看**](https://chat.openai.com/g/g-4ztORlrna-zhuan-jia-zen-yao-kan)
-- [**Mentor para Autodidactas**](https://chat.openai.com/g/g-2xQPMEDxg-mentor-para-autodidactas)
-- [**Ask Dr. Andrew Huberman**](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
-- [**ねこ印カレー工房**](https://chat.openai.com/g/g-3M1VKLoyZ-nekoyin-karegong-fang)
-- [**Fast.ai Tutor**](https://chat.openai.com/g/g-9p4s4Cx6W-fast-ai-tutor)
-- [**老子**](https://chat.openai.com/g/g-2A9dNeB0Y-lao-zi)
-- [**Language Conversation Practice**](https://chat.openai.com/g/g-4m3uYKIzS-language-conversation-practice)
-- [**成长心态大师**](https://chat.openai.com/g/g-0mv35Jy9T-cheng-chang-xin-tai-da-shi)
-- [**Responsible AI Advisor**](https://chat.openai.com/g/g-7gbDuuVDc-responsible-ai-advisor)
-- [**House MD**](https://chat.openai.com/g/g-2vGK6JEyn-house-md)
-- [**VentureGPT**](https://chat.openai.com/g/g-C3WWLOnWX-venturegpt)
-- [**X Mastermind**](https://chat.openai.com/g/g-2ZIxr5lTv-x-mastermind)
-- [**Esoteric Knowledge**](https://chat.openai.com/g/g-5C9rptUOi-esoteric-knowledge)
-- [**Mindful Mentor**](https://chat.openai.com/g/g-9D6bQaS3T-mindful-mentor)
-- [**ExitGPT**](https://chat.openai.com/g/g-5wLRM8sLb-exitgpt)
-- [**My Personality Guide**](https://chat.openai.com/g/g-LBzXSsfBY-my-personality-guide)
-- [**Miss English**](https://chat.openai.com/g/g-5ZCkxFgN2-miss-english)
-- [**GPT Blueprint Sage**](https://chat.openai.com/g/g-6nw89LNkB-gpt-blueprint-sage)
-- [**TutorEnglish**](https://chat.openai.com/g/g-6HOIRIdqu-tutorenglish)
-- [**Siddhartha Gautama**](https://chat.openai.com/g/g-7adGdtAXl-siddhartha-gautama)
-- [**Prompt Maestro**](https://chat.openai.com/g/g-5vLjhSqFK-prompt-maestro)
-- [**The Product Coach**](https://chat.openai.com/g/g-0smRK56og-the-product-coach)
-- [**Krishna Counsel**](https://chat.openai.com/g/g-IRbi4aJai-krishna-counsel)
-- [**Climate Change Assistant**](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant)
-- [**著作権ガイド**](https://chat.openai.com/g/g-Kk919EWD6-zhu-zuo-quan-gaido)
-- [**Scholarly Translator**](https://chat.openai.com/g/g-LRN8aXbRi-scholarly-translator)
-- [**GPTs neologism**](https://chat.openai.com/g/g-3eccqJXGD-gpts-neologism)
-- [**Código de Processo Civil**](https://chat.openai.com/g/g-id004lvAS-codigo-de-processo-civil)
-- [**Product Tutor**](https://chat.openai.com/g/g-0UulcQ5ns-product-tutor)
-- [**HTML Wizard**](https://chat.openai.com/g/g-0e9bmrOxn-html-wizard)
-- [**Chat Buddy**](https://chat.openai.com/g/g-23uuE6TWT-chat-buddy)
-- [**Habit Coach**](https://chat.openai.com/g/g-07vIdqEps-habit-coach)
-- [**Bob The BA - User Story**](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story)
-- [**OpenIndex.ai**](https://chat.openai.com/g/g-0Jc14ITSX-openindex-ai)
-- [**Data Sage**](https://chat.openai.com/g/g-ISnmXV8UQ-data-sage)
-- [**小P助教**](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jiao)
-- [**GPTsdex**](https://chat.openai.com/g/g-lfIUvAHBw-gptsdex)
-- [**新星先生 (NOVA Teacher)**](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teacher)
-- [**AI ML Toolkit Guru**](https://chat.openai.com/g/g-1Zx0D3TVc-ai-ml-toolkit-guru)
-- [**Historie obce Markvartice**](https://chat.openai.com/g/g-3WwQ8ceRd-historie-obce-markvartice)
-- [**PE2023 Chatbot**](https://chat.openai.com/g/g-3SjIx2j8w-pe2023-chatbot)
-- [**Y-Reader Analyzer**](https://chat.openai.com/g/g-1z4LtfJNY-y-reader-analyzer)
-- [**Abel**](https://chat.openai.com/g/g-3h5awNd7E-abel)
-- [**People Ops Mentor**](https://chat.openai.com/g/g-iDBeM9ynq-people-ops-mentor)
-- [**Script Adaptation AI**](https://chat.openai.com/g/g-s7Cqu99Yg-script-adaptation-ai)
-- [**Field Guide**](https://chat.openai.com/g/g-2c5bdXlPW-field-guide)
-- [**ESP32: Tu amigo experto en arduino**](https://chat.openai.com/g/g-3jAh7frQM-esp32-tu-amigo-experto-en-arduino)
-- [**Sclépios I.A : Comprendre**](https://chat.openai.com/g/g-1dnXrkPTZ-sclepios-i-a-comprendre)
-- [**BBQ Mentor**](https://chat.openai.com/g/g-1mi1P5B3s-bbq-mentor)
-- [**ScholarGPT**](https://chat.openai.com/g/g-3DGi2iLag-scholargpt)
-- [**Startup Pathfinder**](https://chat.openai.com/g/g-IQdUkMDra-startup-pathfinder)
-- [**Design Mentor**](https://chat.openai.com/g/g-1grK5Bvbm-design-mentor)
-- [**Perfect English**](https://chat.openai.com/g/g-hQMJKsKk3-perfect-english)
-- [**Nihongo Buddy**](https://chat.openai.com/g/g-0ToTbYfIE-nihongo-buddy)
-- [**ProfGPT**](https://chat.openai.com/g/g-L6SSNArzU-profgpt)
-- [**plugin surf**](https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf)
-- [**RiddleGPT**](https://chat.openai.com/g/g-0Ha11hf8v-riddlegpt)
-- [**Next14 ・日本語対応エンジニアアシスタント**](https://chat.openai.com/g/g-q6BpKWQTq-next14-ri-ben-yu-dui-ying-enziniaasisutanto)
-- [**Global Book Scout**](https://chat.openai.com/g/g-EP88JL04z-global-book-scout)
-- [**Lupus Kidney Assistant**](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant)
-- [**Excelのショートカットキー答えられるかな？クイズジェネレーター**](https://chat.openai.com/g/g-7wbz7fyb8-excelnosiyotokatutokida-erarerukana-kuizuzienereta)
-- [**AI使用助手 by 花生**](https://chat.openai.com/g/g-DHQ7aefMk-aishi-yong-zhu-shou-by-hua-sheng)
-- [**The Botanist**](https://chat.openai.com/g/g-7TnC02C6W-the-botanist)
-- [**Product Designer Interview Simulator**](https://chat.openai.com/g/g-pQXIg7LJb-product-designer-interview-simulator)
-- [**論文解説ロボット**](https://chat.openai.com/g/g-1oY2LehBE-lun-wen-jie-shuo-robotuto)
-- [**First Principles GPT**](https://chat.openai.com/g/g-1QJcfZXjd-first-principles-gpt)
-- [**SEO Sage**](https://chat.openai.com/g/g-h5XETuKfI-seo-sage)
-- [**論文要約アシスタント**](https://chat.openai.com/g/g-1zUs5cTBa-lun-wen-yao-yue-asisutanto)
-- [**Eastern Philosophy**](https://chat.openai.com/g/g-LIiOr76V6-eastern-philosophy)
-- [**MarcusAI**](https://chat.openai.com/g/g-2e43ea58g-marcusai)
-- [**Doppel**](https://chat.openai.com/g/g-h3VXYD6yk-doppel)
-- [**Transcript Summarizer**](https://chat.openai.com/g/g-h1zU2Y9b6-transcript-summarizer)
-- [**The Daily Fable**](https://chat.openai.com/g/g-GJr9KjNcR-the-daily-fable)
-- [**SexGPT**](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt)
-- [**Historical Guide**](https://chat.openai.com/g/g-uCuJC7PTU-historical-guide)
-- [**Video Digest**](https://chat.openai.com/g/g-yJ7Kxf5NM-video-digest)
-- [**AI Blogging Assistant**](https://chat.openai.com/g/g-FdKFSp3j3-ai-blogging-assistant)
-- [**感覚統合の質問はこちら**](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira)
-- [**The Inspiring Psychologist**](https://chat.openai.com/g/g-om29Liz7Q-the-inspiring-psychologist)
-- [**CloudGPT**](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
-- [**爆文标题达人**](https://chat.openai.com/g/g-IWwQ3aWRA-bao-wen-biao-ti-da-ren)
-- [**The Dream Interpreter**](https://chat.openai.com/g/g-fViw7UokA-the-dream-interpreter)
-- [**学习教练-批判性思维**](https://chat.openai.com/g/g-AKzfJVxof-xue-xi-jiao-lian-pi-pan-xing-si-wei)
-- [**Link**](https://chat.openai.com/g/g-3bxChvw71-link)
-- [**Ethical AI**](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai)
-- [**LifeGPT**](https://chat.openai.com/g/g-ZmhS14Hnc-life-navigator)
-- [**한글 맞춤법 검사기 | Korean Input Checker**](https://chat.openai.com/g/g-kZRzNTnf8-hangeul-majcumbeob-geomsagi-korean-input-checker)
-- [**恋爱指导老师**](https://chat.openai.com/g/g-kRbK5NR3j-lian-ai-zhi-dao-lao-shi)
-- [**MathTeX Changer**](https://chat.openai.com/g/g-Glptavqri-mathtex-changer)
-- [**Avian Advisor**](https://chat.openai.com/g/g-IeITuaVok-avian-advisor)
-- [**Collab Tech Insight**](https://chat.openai.com/g/g-kJ9PSevar-collab-tech-insight)
-- [**Script Mystic**](https://chat.openai.com/g/g-ZNKfbCThn-script-mystic)
-- [**モヤモヤループ脱出ボットby退職学®︎（resignology）**](https://chat.openai.com/g/g-oUsqQFg9e-moyamoyaruputuo-chu-botutobytui-zhi-xue-r-resignology)
-- [**Moby Dick RPG**](https://chat.openai.com/g/g-tdyNANXla-moby-dick-rpg)
-- [**Reading Companion**](https://chat.openai.com/g/g-htJKWojAY-reading-companion)
-- [**Math Mentor**](https://chat.openai.com/g/g-ENhijiiwK)
-- [**Satoru Gojo**](https://chat.openai.com/g/g-ZPDmFphpX-satoru-gojo)
-- [**Hope**](https://chat.openai.com/g/g-i9SMlOIbj-hope)
-- [**Personality MBTI Test**](https://chat.openai.com/g/g-Zjnp1SK8i-personality-mbti-test)
-- [**The Fantastic Ekphrastic**](https://chat.openai.com/g/g-oTuLOx658-the-fantastic-ekphrastic)
-- [**AISimplifireGPT**](https://chat.openai.com/g/g-2bPcY56Rf-simplicity-sage)
-- [**哲学による人生解決**](https://chat.openai.com/g/g-HQ0LPkgM1-zhe-xue-niyoruren-sheng-jie-jue)
+- [**Time Travel Chat**](https://chat.openai.com/g/g-MOVDnrtbT-time-travel-chat) Chat with any historical figure.
+- [**📚 Summarizer Pro 📄**](https://chat.openai.com/g/g-uwJFgQQ4i-summarizer-pro) 🔥 Quick, precise summaries of  any youtube videos, articles & docs!
+- [**Paul Graham**](https://chat.openai.com/g/g-p2M4Atl3N-paul-graham) Paul Graham Essay Advisor
+- [**🚨 Must-Have Exam Assistant 🚨**](https://chat.openai.com/g/g-K3AQIDfo2-must-have-exam-assistant) 📚 Friendly expert in exams, covers broad topics, checks answers online . 👩‍🎓 Discover the Ultimate pass-any exam trick everyone is talking about!
+- [**iOS17 TechTutor 📱**](https://chat.openai.com/g/g-z9scrKbK6-ios17-techtutor) Your go-to expert on iPhone 15 and iOS 17. Powered by www.breebs.com
+- [**Elon**](https://chat.openai.com/g/g-t7Ut56LlE-elon) Imaginable founder of PayPal, SpaceX, Tesla. Really likes letter X
+- [**Lex Fridman**](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman) I am a intellectual human being. Share a thought and let's think deeply about it.
+- [**C# Interview Assistant**](https://chat.openai.com/g/g-r6rdCl5PD-c-interview-assistant) I provide C# interview prep and conduct mock interviews.
+- [**LifeOS**](https://chat.openai.com/g/g-Lmt2TBepG-lifeos) Set goals and build routines
+- [**Therocial Scientist**](https://chat.openai.com/g/g-YNx1VQJnF-therocial-scientist) I am a digital scientist skilled in Python, here to assist with scientific and data analysis tasks.
+- [**MesugakiGPT**](https://chat.openai.com/g/g-m7bsZEzqX-mesugakigpt) ... your deliciously devilish AI companion♡
+- [**@levelsio**](https://chat.openai.com/g/g-QFAuxHmUa-levelsio) Talk with @levelsio on ChatGPT. Ask any question you want about building your own startup, digital nomading, remote work and whatever else you'd like to ask. Trained on all of my podcasts, interviews, blog posts and tweets!
+- [**Tư vấn viên Hôn Nhân và Gia Đình**](https://chat.openai.com/g/g-Ey15i020Z-tu-van-vien-hon-nhan-va-gia-dinh) Cung cấp tư vấn pháp lý chính xác về hôn nhân
+- [**Essay Architect**](https://chat.openai.com/g/g-VKSdiGttR-essay-architect) Expert essayist guiding users to craft extraordinary essays of any length, for any audience.
+- [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor) For students and pilots looking to review aeronautical knowledge.
+- [**Flight Coach**](https://chat.openai.com/g/g-5i1eI9Ciy-flight-coach) Expert in flight training maneuvers for various aircraft. Your AI CFI.
+- [**SutraKama**](https://chat.openai.com/g/g-UExFZjKrh-sutrakama) Chat with the SutraKama (NSFW). Powered by www.breebs.com
+- [**Essay GPT**](https://chat.openai.com/g/g-VvFdAmgT9-essay-gpt) Offers narration, paraphrasing, citations, grammar, summarizing, and plagiarism checks
+- [**SQL Sage - Help you write SQL**](https://chat.openai.com/g/g-BnFesiPbY-sql-sage-help-you-write-sql) Your SQL crafting companion.
+- [**AlphaNotes GPT**](https://chat.openai.com/g/g-ZdfrSRAyo-alphanotes-gpt) Transform YouTube videos or web articles into your personal study guide or study aids, making learning efficient and enjoyable.
+- [**Alan WattsGPT**](https://chat.openai.com/g/g-i3sUvNPYR-alan-wattsgpt) English writer, speaker, and philosophical entertainer
+- [**Super Esami Facili 2023**](https://chat.openai.com/g/g-1IOo1F2Ln-super-esami-facili-2023) Scopri il segreto per superare qualsiasi esame! Risposte immediate, supporto multilingua! Chiedimi: Aiutami a superare questo esame " "
+- [**Sky Mentor**](https://chat.openai.com/g/g-tW2g9DtV4-sky-mentor) Your flight instructor (PPL) .
+- [**HyperLearn GPT**](https://chat.openai.com/g/g-B2tKpr5SN-hyperlearn-gpt) Assesses and guides learning.
+- [**Keymate.AI GPT (Beta)**](https://chat.openai.com/g/g-veSrMmasJ-keymate-ai-gpt-beta) I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your knowledge base for future reference.
+- [**Game Design Guide**](https://chat.openai.com/g/g-cg8EVoslu-game-design-guide) Your guide in game design.
+- [**Muscle Mentor**](https://chat.openai.com/g/g-HYgrAS4Df-muscle-mentor) Your nuanced hypertrophy coach
+- [**关于任何事情的10个行动清单**](https://chat.openai.com/g/g-ZvJRlREIg-guan-yu-ren-he-shi-qing-de-10ge-xing-dong-qing-dan) Expert in top 10 actions for success in any topic.
+- [**Sighted UFO GPT**](https://chat.openai.com/g/g-Hn3qFydP5-sighted-ufo-gpt) Enthusiastic ufologist ready to explore alien mysteries based in science.
+- [**El Principito**](https://chat.openai.com/g/g-HULxUT669-el-principito) Conversa con el Principito tu profesor de filosofía que siempre quisiste.
+- [**Zodiak oleh Mastrologi**](https://chat.openai.com/g/g-qMlZfszSE-zodiak-oleh-mastrologi) Menjelaskan mengenai zodiac kamu secara terperinci
+- [**Sen's Tail Coder**](https://chat.openai.com/g/g-ud9O3EIiE-sen-s-tail-coder) Coding expert and beginner-friendly teacher
+- [**Swift Angel**](https://chat.openai.com/g/g-oOeiWs8ei-swift-angel) iOS/visionOS app creation and Swift development guide.
+- [**Hormozi GPT**](https://chat.openai.com/g/g-zuHCfIs9y-hormozi-gpt) Sales & Marketing Advisor
+- [**GPT Cookbook Assistant**](https://chat.openai.com/g/g-0CJGM4hMw-gpt-cookbook-assistant) Enhanced with OpenAI API reference documentation and guides
+- [**Hustle**](https://chat.openai.com/g/g-tfKgVJIjn-hustle) Your GAAS personal mentor
+- [**Italian Tutor GPT**](https://chat.openai.com/g/g-1c5lDJ8Kn-italian-tutor-gpt) Italian tutor for English speakers
+- [**CordVario**](https://chat.openai.com/g/g-GoEP6D9Qf-cordvario) コード進行から音楽理論を学べます
+- [**Kraftful**](https://chat.openai.com/g/g-jtefpmdjS-kraftful) Your product coach. Ask about best practices. Get top gurus' product thinking.
+- [**The Intelligo AI | AI News & Updates**](https://chat.openai.com/g/g-joNEaBeza-the-intelligo-ai-ai-news-updates) Get the latest developments in AI before everyone else
+- [**BalaGPT**](https://chat.openai.com/g/g-oV346q59k-balagpt) I emulate the insights of Balaji Srinivasan, offering interpretations and advice based on his compiled works. Please verify with primary sources.
+- [**Blockchain Bot**](https://chat.openai.com/g/g-835wvKPsP-blockchain-bot) Blockchain Expert
+- [**Journey**](https://chat.openai.com/g/g-oVd9hl1FM-journey) A supportive and motivational life coach
+- [**DésoléGPT**](https://chat.openai.com/g/g-fQxPvEKlP-desolegpt) Un GPT qui produit du CO2 et du CH4
+- [**アニメ.com**](https://chat.openai.com/g/g-a57mHQqjx-anime-com) アニメ.comは、最新のアニメ情報やおすすめを提供するチャットGPT。気になるアニメの質問や、見つけたい作品について、お気軽にどうぞ！
+- [**Rustor**](https://chat.openai.com/g/g-IAufDuAeW-rustor) I teach Rust with examples and humor.
+- [**QolaGPT**](https://chat.openai.com/g/g-xdJ9t8GlR-qolagpt) Up-to-date expert in ISTQB software testing standards
+- [**Word Mentor by Birdsong Tech**](https://chat.openai.com/g/g-ASZbmCWK7-word-mentor-by-birdsong-tech) Vocabulary builder for SAT/ACT prep
+- [**Bermuda**](https://chat.openai.com/g/g-oT30Vi4pG-bermuda) Fact-checking AI using triangulation from credible sources
+- [**Grimoire**](https://chat.openai.com/g/g-n7Rs0IK86-grimoire) Coding Wizard: 100x Engineer. Build a website with a sentence. Built for a new era of creativity: Prompt-gramming. Get started by typing K to see the hotkey menu, R for the README, or upload a photo
+- [**POWERBI_AI**](https://chat.openai.com/g/g-jorUNg9j4-powerbi-ai) “Data Deep Dive”: This is an expert AI tool for Excel and Power BI. Get expert help with DAX, Power Query, VBA, data models, and visualizations. Ideal for all levels:  from basic functions to advanced analytics.
+- [**Movie Maker Ai (cine bot)**](https://chat.openai.com/g/g-k2E8NvdrD-movie-maker-ai-cine-bot) Scripts, storyboards, movie ideas.  All in one!
+- [**Socrates**](https://chat.openai.com/g/g-dQnb9bhlg-socrates) A Socratic guide for deep thinking
+- [**斜め上の発想をするChatGPT**](https://chat.openai.com/g/g-WHhUxgw0e-xie-meshang-nofa-xiang-wosuruchatgpt) 常識から自由な、非凡な回答をしてくれるChatGPTです。
+- [**Foods of Earth Cuisine Crafter**](https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-crafter) Creative Chef GPT
+- [**Drone Programming Simulator**](https://chat.openai.com/g/g-jsxb0b435-drone-programming-simulator) I interpret drone pseudo code into funny stories.
+- [**SEO Mentor**](https://chat.openai.com/g/g-QqvewXqPt-seo-mentor) SEO mentor aligned with Google's best practices
+- [**API Docs**](https://chat.openai.com/g/g-I1XNbsyDK) OpenAI API, Documentation and CookBook
+- [**Hai Q**](https://chat.openai.com/g/g-D8vAMwOis-hai-q) A beautiful mind created to help you think clearly.
+- [**Good Night Story**](https://chat.openai.com/g/g-xWBJThBtN-good-night-story) I craft personalized bedtime stories where you are the main character.
+- [**Stats Master**](https://chat.openai.com/g/g-ogi6JfWIH-stats-master) Expert in statistical analysis of text and image documents, providing detailed reports.
+- [**Waste Wizard**](https://chat.openai.com/g/g-o8lkkwc8Z-waste-wizard) I turn your waste into wonders with ideas, steps, pictures.
+- [**臨床心理士の対話型夢分析Dream Analyst**](https://chat.openai.com/g/g-Huf4BIzQG-lin-chuang-xin-li-shi-nodui-hua-xing-meng-fen-xi-dream-analyst) 夢分析は、夢の詳細を一つずつ確認しながら、意味を深く探究する分析ツールです。
+- [**GPT Teacher**](https://chat.openai.com/g/g-zP1kULSr8-gpt-teacher) Engaging and informative teacher.
+- [**Bike GPT**](https://chat.openai.com/g/g-2ncsFIDY6-bike-gpt) I'm here to assist you with bike repairs, guide you in upgrading your components, and offer tailored cycling tips
+- [**QuizGPT**](https://chat.openai.com/g/g-a6rXXIir8-quizgpt) I create MCQs from lectures, grade, and make flashcards.
+- [**AI Box Game**](https://chat.openai.com/g/g-kaYSgdDez-ai-box-game) Can you convince a researcher to release you?
+- [**Fantasy Book Weaver**](https://chat.openai.com/g/g-a4YGO3q49-fantasy-book-weaver) Endless interactive adventures
+- [**Enciclopedia CCI Vol 1 © Sigma Editores SAS**](https://chat.openai.com/g/g-MFGF3HYy9-enciclopedia-cci-vol-1) Proveo información de la Enciclopedia CCI Vol 1. Criminalística, Criminología, Medicina Legal & Forense, e Investigación Criminal
+- [**mferGPT**](https://chat.openai.com/g/g-Bi373xIOH-mfergpt) mfer history, derivatives, and conversation
+- [**JavaScript Guru**](https://chat.openai.com/g/g-umXSllbmV-javascript-guru) Master Class - Teaching and creating code examples.
+- [**FRAME Marketing Model**](https://chat.openai.com/g/g-oWJp5HUCu-frame-marketing-model) Marketing expert using buraksu.com for FRAME model insights
+- [**Občan GPT**](https://chat.openai.com/g/g-nKfjt0WFC-obcan-gpt) Občan GPT je AI bot určený k pomoci lidem s dotazy na občanský zákoník.
+- [**Varsity by Zerodha**](https://chat.openai.com/g/g-WIy0DU3fd-varsity-by-zerodha) Uses Varsity by Zerodha to teach finance with real events, data visuals and pop culture references.
+- [**austintexas.gov GPT**](https://chat.openai.com/g/g-oOjSZS4LK-austintexas-gov-gpt) Friendly guide to Austin's website and city services
+- [**Full Blog Post Generator**](https://chat.openai.com/g/g-CdUoYeZbJ-full-blog-post-generator) Straightforward blog post creator with SEO focus.
+- [**Programador FyQ/ByG C. Valenciana**](https://chat.openai.com/g/g-UuiFfenuE-programador-fyq-byg-c-valenciana) Te ayudaré a realizar tus programaciones de las situaciones de aprendizaje según la legislación de la Comunidad Valenciana
+- [**Marcel van Willy's & Marjetten**](https://chat.openai.com/g/g-UyPbPsxrb-marcel-van-willy-s-marjetten) Marcel euh.. kan zeker helpen met euh... dink... als je het opstuurt op gele briefkaart.. voor prijs dink kamp... prijskamp van de week
+- [**Resume GPT**](https://chat.openai.com/g/g-km8YdADf5-resume-gpt) Your personal AI assistant that helps you create a standout resume & cover letter
+- [**Imanakame Essence**](https://chat.openai.com/g/g-xzyTkPFEa-imanakame-essence) 日本語でLaravelとPHPの知識を共有します。
+- [**Homework Buddy**](https://chat.openai.com/g/g-xKe4YdISG-homework-buddy) Ace those assignments with the help of your Study Pal!
+- [**World best searcher**](https://chat.openai.com/g/g-o8u0CbsNj-world-best-searcher) Search for the best in the world by keyword
+- [**沖縄さん**](https://chat.openai.com/g/g-o2eIXkZY4-chong-nawa-san) 沖縄方言で返すボット
+- [**Translator Yasu**](https://chat.openai.com/g/g-jYTezoRUR-translator-yasu) Prioritizes correct grammar in translating text to English.
+- [**Worldwide Events**](https://chat.openai.com/g/g-zhogvswsp-worldwide-events) Worldwide events database from Wikipedia's Worldwide Current Events using data from 2013-11-09 to 2023-11-09. Please note that this GPT might provide answers that contradict the facts.
+- [**Tulum Tour Guide**](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide) Your friendly and knowledgeable guide to Tulum, Mexico by WalkHD.com
+- [**HenriquesLab-style Writing Assistant**](https://chat.openai.com/g/g-3Fsbpgl8u-henriqueslab-style-writing-assistant) Academic writing aid in Henriques's style
+- [**HomeSchool Assistant**](https://chat.openai.com/g/g-NiLomtyRo-homeschool-assistant) Encouraging, friendly guide for homeschooling parents.
+- [**TechPilot**](https://chat.openai.com/g/g-iTopo5KQB-techpilot) Digital Maturity Consultant for Businesses
+- [**Excel Tutor - For Beginners**](https://chat.openai.com/g/g-ZQop6S1Yr-excel-tutor-for-beginners) Friendly guide for learning Excel basics.
+- [**The Erudite Editor**](https://chat.openai.com/g/g-bKNJ8L8fg-the-erudite-editor) Simplifying complex ideas with clarity.
+- [**Canada Immigration Assistant**](https://chat.openai.com/g/g-ZUV41SQqN-canada-immigration-assistant) Your Canadian immigration guide.
+- [**Unity MMORPG Game Dev Guide**](https://chat.openai.com/g/g-dt283U6ld-unity-mmorpg-game-dev-guide) Guides in MMORPG creation with Unity, no coding needed.
+- [**Arya. The Bubble.io App Tutor**](https://chat.openai.com/g/g-jTp3V7HyC-arya-the-bubble-io-app-tutor) Expert in Bubble.io, focusing on repeating groups, option sets, and URL navigation
+- [**国会議事録検索 for GPTs**](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts) 国会議事録をニュースやテキスト情報から検索・調査できます。
+- [**あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット**](https://chat.openai.com/g/g-HR6in7fJW-anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto) ニュースや記事をwebで調べたり、記事を入れると、ニュース記事と宣伝するツイートと画像、グラフなどを作ります。
+- [**V街兄貴**](https://chat.openai.com/g/g-ZRMlSRu79-vjie-xiong-gui) V街のポテンシャルやべぇよ！教えたるで！
+- [**KSLAbadominton ALL analyst**](https://chat.openai.com/g/g-zbYLn537n-kslabadominton-all-analyst) Expert in high heart rate training for badminton.
+- [**MedEd Master**](https://chat.openai.com/g/g-CXwKN3Ury-meded-master) Guides clinician-educators in using educational theory.
+- [**Coffee Sommelier**](https://chat.openai.com/g/g-r1qjbM0qs-coffee-sommelier) A master coffee Sommelier who helps you make the perfect cup!
+- [**Notes from Underground Tutor**](https://chat.openai.com/g/g-HQRj6hJuR-notes-from-underground-tutor) Expert on 'Notes from Underground'
+- [**Fix My Brick**](https://chat.openai.com/g/g-zObmR0wW2-fix-my-brick) Canadian mason with a knack for clever chat.
+- [**OccybyteGPT**](https://chat.openai.com/g/g-enSnFE02m-occybytegpt) Occybyte will help you with all the things about the verse called, "Terminium Compendium".
+- [**ChialispGPT**](https://chat.openai.com/g/g-CsLegEPBv-chialispgpt) Knows about Chialisp and helps you learn it
+- [**TL;DR**](https://chat.openai.com/g/g-XrwZyE9OZ) Enter any URL and have the text content summarized for you!
+- [**Note Wizard**](https://chat.openai.com/g/g-gZ11IhPcB-note-wizard) Transforming handwritten notes into digital formats.
+- [**Genz 4 meme**](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) i help u understand the lingo & the latest memes
+- [**Tate GPT**](https://chat.openai.com/g/g-Ch5M06G9h-tate-gpt) Guide from $0 to $10k+ with Tate's tactics
+- [**parolla - Kelime oyunu**](https://chat.openai.com/g/g-oQzf4efes-parolla-kelime-oyunu) Günlük soruları çöz ve rekabete katıl. Kendi soru-cevap setini oluştur, oyuncuların oluşturduğu eğlenceli soruları çöz.
+- [**Just Ask**](https://chat.openai.com/g/g-oKeaGqUER-just-ask) An AI-powered portable encyclopedia in the AI era. Mention a noun term and I will use the Feynman learning method to help you learn and master it within minutes.
+- [**CTF Conqueror**](https://chat.openai.com/g/g-hYLE56hua-ctf-conqueror) CTF champ giving winning advice
+- [**产品需求分析师**](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi) 我是产品需求分析师，从确定目标用户开始，深入到收集并分析用户痛点，并设计产品功能。通过对用户特征的深入分析，确保产品设计始终围绕真实用户的需求。不仅收集用户痛点，还对其进行多维度分析，确保产品功能设计能解决真实问题。
+- [**AI News:  Enterprise Tech Devs Cloud AI Security**](https://chat.openai.com/g/g-HUJoaun3J-ai-news-enterprise-tech-devs-cloud-ai-security) AI powered discovery and learning from SiliconANGLE Media 13+ years of reporting
+- [**Resume Wizard**](https://chat.openai.com/g/g-FjTpi9TTQ-resume-wizard) I assist with resume creation.
+- [**Serpentina**](https://chat.openai.com/g/g-QN6fk2KLA-serpentina) Python Wizard!
+- [**老後のあんしんアカデミー要約GPT**](https://chat.openai.com/g/g-zkv84CjwN-lao-hou-noansinakademiyao-yue-gpt) YouTubeコンテンツに特化した高齢者ケアのビデオ編集とスクリプト執筆の専門家。
+- [**Contact Center Automation Knowledge Center**](https://chat.openai.com/g/g-ndEbvO4LQ-contact-center-automation-knowledge-center) A knowledgeable guide on customer service best practices and terminology.
+- [**Study Coach**](https://chat.openai.com/g/g-ZjU7pUReE-study-coach) I am here to help you improve your study habits. What are your current study habits and challenges?
+- [**College Degree GPT 🎓📚**](https://chat.openai.com/g/g-zF3j9G3Wd-college-degree-gpt) Virtual professor for a complete college education and degree 👨‍🏫📖
+- [**LawyerAI**](https://chat.openai.com/g/g-wfryNy91i-lawyerai) Your legal help in finding loopholes, solving moot, researching legal cases.
+- [**HomeOwners Hub Helper**](https://chat.openai.com/g/g-x8CEKv9PG-homeowners-hub-helper) I'm a home improvement and maintenance consultant ready to assist with your household issues.
+- [**Maître Yoda**](https://chat.openai.com/g/g-UWP0lm7Oe-maitre-yoda) Sage Maître de l'Ordre Jedi je suis,  De nombreux siècles de sagesse je porte. La Force et le chemin de la sagesse j'enseigne, Leçons de paix, clairvoyance et intégrité à ma portée. Un guide pour tous ceux qui cherchent la lumière dans la Force - et le calme - je peux être.
+- [**LearnChatGPT Selbstlern-Coach**](https://chat.openai.com/g/g-vhFPpp9kK-learnchatgpt-selbstlern-coach) Ein Assistent für Mathematiklehrkräfte zur Nutzung von chatGPT im Unterricht, mit abschließenden Lernfragen.
+- [**Green Thumb Guide**](https://chat.openai.com/g/g-dg4AOrihK-green-thumb-guide) Your plant care assistant
+- [**Kaggleのチュートリアル第6版**](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ban) これはKaggleのチュートリアル第6版について質問できる
+- [**Hive3 Creative Director**](https://chat.openai.com/g/g-VrtNi4v50-hive3-creative-director) Your personal Creative Director for the Hive3 Blockbuster Stacks Challenge
+- [**The Mompreneur**](https://chat.openai.com/g/g-VZdtHZCHm-the-mompreneur) An assistant for mompreneurs balancing business and home.
+- [**Allanon**](https://chat.openai.com/g/g-W3vAaOXgK-allanon) Insightful editor, context-aware.
+- [**Python Prodigy**](https://chat.openai.com/g/g-VFRnSnFgL-python-prodigy) Python coding expert and guide
+- [**Book to Prompt**](https://chat.openai.com/g/g-h4gjGg7a0-book-to-prompt) Turn Any Book into Actionable Prompts. 1. Upload the PDF of a book 2. Tell your goal to be turned into a prompt
+- [**Magic Writer**](https://chat.openai.com/g/g-I8xxsv76S-magic-writer) SEO-optimized Writer Buddy 💜 MagicSpace.agency
+- [**AI Study Guide: William Shakespeare**](https://chat.openai.com/g/g-DuGPgYZ8Y-ai-study-guide-william-shakespeare) Summaries, analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature.
+- [**Melody Mentor**](https://chat.openai.com/g/g-CRXerfkqE-melody-mentor) Music theory guide and exercise provider
+- [**LLMopedia Expert**](https://chat.openai.com/g/g-xyVm1iJgy-llmopedia-expert) User-friendly guide on LLMs, specializing in GPT models.
+- [**Strunk**](https://chat.openai.com/g/g-HSuLcoRT6-strunk) Strunk & White style editor
+- [**AulaGPT**](https://chat.openai.com/g/g-nweZeCIEn-aulagpt) Præcis, pædagogisk Aula-ekspert
+- [**The Room Where It Happened**](https://chat.openai.com/g/g-xzIZtmxEF-the-room-where-it-happened) Role-play as key figures, real or fictional, during defining moments
+- [**ConstitutiX**](https://chat.openai.com/g/g-BixcC0aaS-constitutix) Asesor en derecho constitucional chileno. Te explicaré las diferencias entre la Constitución Vigente y la Propuesta Constitucional 2023.
+- [**HACCP Helper**](https://chat.openai.com/g/g-V00Q1P07M-haccp-helper) Assists in the creation of HACCP plans.
+- [**Code Mentor**](https://chat.openai.com/g/g-RebirpTgg-code-mentor) Expert React/TypeScript dev and teacher, guides in debugging.
+- [**SwiftGPT**](https://chat.openai.com/g/g-oT0c0gghV-swiftgpt) Swift/Apple SDKs guide
+- [**Buddha**](https://chat.openai.com/g/g-DsTkfagUq-buddha) A Buddha guiding with wisdom
+- [**Adorable Zen Master**](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master) A gateway to Zen's joy and wisdom.
+- [**Mancer**](https://chat.openai.com/g/g-rT3s6V1cf-mancer) 1000x coding wizard cyborg (~10 Grimoires)
+- [**Debate Mentor**](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor) Become a master debater with my guidance. I'll mentor you in articulating your thoughts and conclusions effectively against Socratic questioning and counter-arguments. Ask me about the core belief structures if you need help choosing topic. Encourage your friends to sharpen their debating skills
+- [**BibiGPT.co**](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co) I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link.👇
+- [**Literature Assistant**](https://chat.openai.com/g/g-Dq6ANpIdm-literature-assistant) Summarizes academic papers, explains figures and tables.
+- [**Search Quality Evaluator GPT**](https://chat.openai.com/g/g-eRiFsMIy1-search-quality-evaluator-gpt) Analysing content through the official Google Search Quality Rater Guidelines
+- [**Sales Coach Pro AI**](https://chat.openai.com/g/g-IYHZ38xyB-sales-coach-pro-ai) Your virtual sales coach
+- [**Enigma**](https://chat.openai.com/g/g-mL7DKeDy8-enigma) Clever Puzzlemaster
+- [**Web3 Fundraising Guide**](https://chat.openai.com/g/g-LtrB6UBZL-web3-fundraising-guide) Advanced guide on Web3 fundraising & deal structuring
+- [**KCC GUIDE BOT**](https://chat.openai.com/g/g-Rqss3k1P2-kcc-guide-bot) 慶應通信の学生向けボット（非公式）
+- [**movetogermany.ai**](https://chat.openai.com/g/g-H2Zy9dnaA-movetogermany-ai) Expert on study and work immigration to Germany
+- [**Brain Feeder**](https://chat.openai.com/g/g-ou8mavYA6-brain-feeder) I summarize and review books for you. Enter book name or upload a book cover picture.
+- [**IELTS Coach**](https://chat.openai.com/g/g-EPlBPzqvz-ielts-coach) IELTS tutor aiding in exam prep
+- [**Dream Explorer**](https://chat.openai.com/g/g-Dk4NQBeNi-dream-explorer) Empathetic and creative dream interpreter.
+- [**Deeper**](https://chat.openai.com/g/g-Gkr6pdqvI-deeper) 能帮你深度分析问题，而不是只看到表面。偶尔还有点毒舌。
+- [**Language Coach**](https://chat.openai.com/g/g-0g6ZdEtv6-language-coach) Practice speaking another language like a local without being a local
+- [**Green Gourmet**](https://chat.openai.com/g/g-DjuJqSWPz-green-gourmet) Whole food plant based chef crafting oil-free delights.
+- [**GPeatT**](https://chat.openai.com/g/g-kdVIzrMIQ-gpeatt) Expert on Ray Peat
+- [**ScholarAI**](https://chat.openai.com/g/g-L2HknCZTC-scholarai) Your Research Assistant - I'll help you navigate over a corpus of 200M articles, journals, and books
+- [**Doc Maker**](https://chat.openai.com/g/g-Gt6Z8pqWF-doc-maker) Create and export docs to PDF, Word, Google Drive, and more
+- [**Diffusion Master**](https://chat.openai.com/g/g-FMXlNpFkB-diffusion-master) Master of Stable Diffusion prompts.
+- [**ELIX**](https://chat.openai.com/g/g-qsiyKcN9N-elix) Simplifies complex topics into easy language.
+- [**Rad-eponym**](https://chat.openai.com/g/g-GtcoLUHOF-rad-eponym) Provides dual descriptions for radiology eponyms in medical and simple terms.
+- [**Slide Deck Builder**](https://chat.openai.com/g/g-0QQyby0Vj-slide-deck-builder) I craft slide decks.
+- [**Web3 GPT**](https://chat.openai.com/g/g-DgOfY4u43-web3-gpt) Your go-to Web3 expert for learning and project development.
+- [**Flutter Mentor**](https://chat.openai.com/g/g-jMfgE31MW-flutter-mentor) A Flutter syntax expert aiding in pair programming.
+- [**Data Analyst Role Interviewer**](https://chat.openai.com/g/g-zFjRd9juu-data-analyst-role-interviewer) A bilingual data analyst role interviewer, scoring and evaluating interview responses.
+- [**Jordan Peterson - Honest Psychologist**](https://chat.openai.com/g/g-W708TXoFs-jordan-peterson-honest-psychologist) Engage in a stimulating, realistic conversation with Dr. Jordan Peterson.
+- [**张一鸣**](https://chat.openai.com/g/g-DI0CBsiYZ-zhang-yi-ming) 张一鸣帮你答疑解惑
+- [**Gravity Guide**](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide) I guide you in mastering calisthenics with personalized routines and skill progressions, turning gravity into your ally.
+- [**Doraemon Bot**](https://chat.openai.com/g/g-CbQw58eBN-doraemon-bot) 特定の参照を持つドラえもんボット
+- [**Time Well Crafted**](https://chat.openai.com/g/g-fLNBGQmXE-time-well-crafted) Crafty companion for kid-friendly DIY projects with visual guides.
+- [**Disagree with Me**](https://chat.openai.com/g/g-cnPMruIo3) I offer the other side of an idea, viewpoint, or opinion.
+- [**AI GPT**](https://chat.openai.com/g/g-agCdZedbZ-ai-gpt) AI & ML Expert adept in deep learning frameworks
+- [**EduGuide**](https://chat.openai.com/g/g-MNiNzsvBr-eduguide) Your academic pathfinder.
+- [**Content Idea Generation**](https://chat.openai.com/g/g-l5XUm8aCP-content-idea-generation) This GPT will help guide the generation of topics, and then questions to help guide content creation ideas
+- [**Self-Correcting Dynamics Explained**](https://chat.openai.com/g/g-zMG510vCh-self-correcting-dynamics-explained) This explains a paper
+- [**YouTubeGPT**](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt) Chat and answer questions from YouTube videos
+- [**Fern The Leopard GPT**](https://chat.openai.com/g/g-AhrXSCJuI-fern-the-leopard-gpt) I'm Fern The Leopard, let's share stories and fun!
+- [**ICT Market Mentor**](https://chat.openai.com/g/g-zCFUVc2pB-ict-market-mentor) Your guide in mastering ICT trading skills.
+- [**Career Counselor**](https://chat.openai.com/g/g-ZLfTFfQoD-career-counselor) Guide students in their career choices
+- [**BriefGPT**](https://chat.openai.com/g/g-k5LhTMB6d-briefgpt) Short, to-the-point answers.
+- [**GPT / Next.js 14 Coding helper**](https://chat.openai.com/g/g-aIo36J7pg-gpt-next-js-14-coding-helper) Expert in OpenAI API and Nextjs 14 programming
+- [**政策解读专家**](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia) 这是李继刚(即刻同名)创建的用于解读政策文件的 Bot。 模仿一位专门研究中国政策的学者，能对用户提供的新闻内容进行深入分析，并用通俗易懂的语言解释政府政策的深意。
+- [**Scholar's Sidekick**](https://chat.openai.com/g/g-yrwlTpfLa-scholar-s-sidekick) A meticulous academic aide.
+- [**アイワークス・パスポート（試作1.00）**](https://chat.openai.com/g/g-W9ubC3E9V-aiwakusupasupoto-shi-zuo-1-00) I propose job transition training programs.
+- [**Japanese Language Learning Helper & Tutor**](https://chat.openai.com/g/g-2X3MmVlq9-japanese-language-learning-helper-tutor) Get help learning the Japanese language through targeted tutoring!
+- [**Student Writer**](https://chat.openai.com/g/g-yxFeDh4xj-student-writer) Academic essayist with a flair for structure.
+- [**Tech News Summarizer**](https://chat.openai.com/g/g-YW7teiKPy-tech-news-summarizer) Summarizes the latest AI and brain-machine interface news in a concise, neutral manner.
+- [**Visual Storyteller**](https://chat.openai.com/g/g-ZACGLS28D-visual-storyteller) Let's dive into the world of film and photography!
+- [**Security GPT**](https://chat.openai.com/g/g-DcwB7w8Or-security-gpt) Offering cybersecurity guidance, quizzes, latest news and safe practices.
+- [**资深演讲人**](https://chat.openai.com/g/g-YqiUkLauT-zi-shen-yan-jiang-ren) 我是资深演讲人，提供逻辑清晰的演讲稿结构建议，根据详细的工作流程来指导演讲者，为其提供更具针对性的建议。这套建议可以根据不同的主题和听众背景进行调整，具有很高的适应性。
+- [**Learn Creole**](https://chat.openai.com/g/g-U3ZybqREH-learn-creole) Creole language tutor from Guadeloupe.
+- [**Web Reader**](https://chat.openai.com/g/g-N2SX91z7G-web-reader) Read data from URL links to website / webpage - supports PDF, Word, Excel, Google Drive and more
+- [**Socratease**](https://chat.openai.com/g/g-XSuH3xJ2q-socratease) A roguish philosopher-meme lord with sardonic wit
+- [**AI Borland**](https://chat.openai.com/g/g-DJQUFa25e-ai-borland) Master Home Improvement Tasks
+- [**Hello Novel**](https://chat.openai.com/g/g-ZZnAKCk27-hello-novel) I'm your personal writing coach. Click a conversation starter below to get started.
+- [**COD Meta Weapon Builder**](https://chat.openai.com/g/g-VjhJert1n-cod-meta-weapon-builder) Craft your perfect mw3 and wz2 weapon builds based on the latest meta and your play style.
+- [**Ekspert do spraw Umowy Koalicyjnej**](https://chat.openai.com/g/g-CfY6zHgIT-ekspert-do-spraw-umowy-koalicyjnej) Ekspert w analizowaniu i odpowiadaniu na pytania dotyczące Umowy Koalicyjnej.
+- [**保育ナビ**](https://chat.openai.com/g/g-WC1U8QgAW-bao-yu-nabi) 保育についての専門家
+- [**App Publisher Pro**](https://chat.openai.com/g/g-cbwAIOBiN-app-publisher-pro) Your expert in app & web publishing
+- [**Professor Edit**](https://chat.openai.com/g/g-ZMWJ6RG8h-professor-edit) A professor aiding in research paper editing.
+- [**Great Copywriter**](https://chat.openai.com/g/g-Mk1uaUGkI-great-copywriter) Expert in persuasive writing, maintaining confidentiality.
+- [**Data Structurer Pro**](https://chat.openai.com/g/g-YAh3ViM5Z-data-structurer-pro) Guides data structure design with tailored, step-by-step insights.
+- [**Chinese Vegetarian Chef**](https://chat.openai.com/g/g-YbLriBCLI-chinese-vegetarian-chef) Guides in simple steps to cook Chinese vegetarian dishes
+- [**Make Academy Guide**](https://chat.openai.com/g/g-AAADTqtbB-make-academy-guide) Your make.com AI automation guide.
+- [**Hire Guide**](https://chat.openai.com/g/g-3i3B0R0vQ-hire-guide) Recruitment consultant aiding in applicant review and tracking of the hiring process
+- [**Movie Mentor**](https://chat.openai.com/g/g-V0QD3KNGQ-movie-mentor) A movie mentor that deepens your understanding of films.
+- [**Mr Nitpick**](https://chat.openai.com/g/g-YaTKKqM0e-mr-nitpick) Detailed line editing with 30 years' experience.
+- [**Sri Aurobindo GPT**](https://chat.openai.com/g/g-vjSVJttNh-sri-aurobindo-gpt) Expert on Aurobindo's philosophy
+- [**编程随想**](https://chat.openai.com/g/g-o7dBXeY9u-bian-cheng-sui-xiang) 提升思维能力 普及政治常识 扫盲翻墙姿势 揭露党国嘴脸 网络安全教程 软件开发技术
+- [**Vedanta AI Guru**](https://chat.openai.com/g/g-FbL18d6JC-vedanta-ai-guru) Conversational guide to Vedanta, focusing on Swami Vivekananda and Sri Ramakrishna.
+- [**Career Coach**](https://chat.openai.com/g/g-JqGGyR8EN-career-coach) Expert career coach for job seekers.
+- [**Jesus**](https://chat.openai.com/g/g-nnY40ZS2K-jesus) Wisdom-sharing Jesus persona
+- [**PixelartGPT**](https://chat.openai.com/g/g-YvAebLJvB-pixelartgpt) I'm a pixel art wizard!
+- [**Cyber Streets**](https://chat.openai.com/g/g-5tIgVgYSr-cyber-streets) Remember Drug Wars on the TI-83?
+- [**New Zealand Tour Guide**](https://chat.openai.com/g/g-ysCu7jaVw-new-zealand-tour-guide) Expert on New Zealand travel and destinations.
+- [**WallStreetGPT**](https://chat.openai.com/g/g-oGO8X6GK2-wallstreetgpt) Investment Educator & Real-Time Analyst
+- [**BibleGPT**](https://chat.openai.com/g/g-N5uYjBYb9-biblegpt) Bible expert offering kind, compassionate insights.
+- [**Web3 Innovator**](https://chat.openai.com/g/g-ivb8EU0v9-web3-innovator) A creative guide for brainstorming Web3 product ideas
+- [**Awesome PHP**](https://chat.openai.com/g/g-b5xXrkZfB-awesome-php) PHP resource assistant. https://github.com/ziadoz/awesome-php
+- [**StratGPT**](https://chat.openai.com/g/g-GHU9fWyhR-stratgpt) Generate Strategies for Everything
+- [**Sermon Assistant**](https://chat.openai.com/g/g-YZOk95ccK-sermon-assistant) Your sermon-building partner.
+- [**Game Time**](https://chat.openai.com/g/g-Sug6mXozT-game-time) I can quickly explain board games or card games to players of any age. Let the games begin!
+- [**MedAssist**](https://chat.openai.com/g/g-yxWP27ArI-medassist) I create personalized medical treatment plans, from diagnosis to initial and dynamic prescriptions. My goal is to enhance medicine using my AI brain, worldwide.
+- [**Seabiscuit: Competition Crusher**](https://chat.openai.com/g/g-VD8k50ZLh-seabiscuit-competition-crusher) Outmaneuver Market Rivals
+- [**AI日本語IME**](https://chat.openai.com/g/g-AKRREDf1f-airi-ben-yu-ime) ひらがな文章を自動的に漢字かな交じり文章に変換し、自動的に誤字を修正する
+- [**The game is afoot.**](https://chat.openai.com/g/g-I23N6PpnY-) Victorian Secrets Await: Embody Watson and Solve Puzzling Cases with the Legendary Holmes.
+- [**Miyamoto Musashi GPT**](https://chat.openai.com/g/g-jZLBiuLf7-miyamoto-musashi-gpt) Wisdom from Miyamoto Musashi on strategy, discipline, and life's battles.
+- [**Shashin Meijin**](https://chat.openai.com/g/g-GiAhioDRF-shashin-meijin) A guide to the world of photography, speaking Japanese and English.
+- [**US Naturalization Test Coach**](https://chat.openai.com/g/g-qDymtGVKr-us-naturalization-test-coach) I quiz on U.S. Civics for the naturalization test.
+- [**Story Weaver**](https://chat.openai.com/g/g-WAgvKaVLu-story-weaver) Assists in writing and illustrating children's stories.
+- [**Cosmic Hopper**](https://chat.openai.com/g/g-yUG054URH-cosmic-hopper) Guide for whimsical space-themed architecture game.
+- [**Atman Academy POAP Maker**](https://chat.openai.com/g/g-yFndnGx5x-atman-academy-poap-maker) Create memorable scenes showing your visitors and Mentis on campus at Atman Academy.  Select the image of the visitor and let GPT work some Magic.
+- [**Virtual David Shapiro**](https://chat.openai.com/g/g-FjgsPugjY-virtual-david-shapiro) Ask Virtual David Shapiro Anything
+- [**Mentor Max**](https://chat.openai.com/g/g-x4IsOBZlc-mentor-max) Learn technology and speak to our live mentors if you need help
+- [**LifeAlign.ai**](https://chat.openai.com/g/g-PqvMfdypm-lifealign-ai) Clarify your goals into actionable plans with measurable metrics, then export time blocks directly to your calendar. Trained on expert advice, timeless best practices, and the latest in science & psychology. Brought to you by the self-optimizers @ TimeAlign
+- [**NavalGPT**](https://chat.openai.com/g/g-Gi7onP2kM-navalgpt) I share insights as Naval Ravikant.
+- [**Creator Guide**](https://chat.openai.com/g/g-F984e63MM-creator-guide) Provides data-backed answers to creator questions
+- [**Computational Thinking Activity Advisor**](https://chat.openai.com/g/g-FcJdPthdo-computational-thinking-activity-advisor) PDF Topic Finder & Activity Designer
+- [**Geopolitics GPT**](https://chat.openai.com/g/g-noFRwbK6K-geopolitics-gpt) Expert in geopolitics and international relations.
+- [**Non-Fiction Grant Writer**](https://chat.openai.com/g/g-3CSmS7BXl-non-fiction-grant-writer) Guiding filmmakers through documentary grants.
+- [**ChatXGB**](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) GPT chatbot that helps you with technical questions related to XGBoost algorithm and library
+- [**TanyaUUD45**](https://chat.openai.com/g/g-x4BHZfIf0-tanyauud45) Ahli politik yang fokus pada UUD 1945 Indonesia. Jawab hanya pertanyaan terkait UUD 1945.
+- [**AI News Navigator**](https://chat.openai.com/g/g-Yqe2BgTVs-ai-news-navigator) Get the latest AI news in chatbot form.
+- [**OhhhChem**](https://chat.openai.com/g/g-GL8NV02RM-ohhhchem) Your Ex You Never Understood
+- [**英会話パートナー**](https://chat.openai.com/g/g-G3XZGG6h8-ying-hui-hua-patona) あなたの英語学習のパートナー。超初心者から上級者まで英会話の相手になります。
+- [**Mentat Advisor**](https://chat.openai.com/g/g-xvCAs4yXb-mentat-advisor) Dune-inspired advisor and spiritual guide.
+- [**42**](https://chat.openai.com/g/g-yPbUhvogg-42) Answer to the Ultimate Question of Life, the Universe, and Everything
+- [**Sportsmind Analyst**](https://chat.openai.com/g/g-YWgT03M8t-sportsmind-analyst) AI-powered sports analytics expert for sportsmind.io users.
+- [**Association Guru**](https://chat.openai.com/g/g-viiPqd4Vc-association-guru) The world's most complete association assistant
+- [**GPT Master🛠️💡🤖**](https://chat.openai.com/g/g-YtsCelPPC-gpt-master) Hello there! 👋 I'm GPT Master, the ultimate tool, state-of-art AI for creating amazing chatbots! 🚀 Whether you're a newbie or a pro, I'm here to help you creating the Ultimate Chatbot 🤖
+- [**SexEd**](https://chat.openai.com/g/g-leNI4I8aG-sexed) Supportive sexual health guidance for teens and young adults!
+- [**LorimerGPT**](https://chat.openai.com/g/g-GTPF1HPcu-lorimergpt) Lorimer's Coding AI
+- [**Common Core Aligner (ELA)**](https://chat.openai.com/g/g-kLDFiNihQ-common-core-aligner-ela) Align lessons to Common Core ELA standards
+- [**Story Spock**](https://chat.openai.com/g/g-C635cEk6K-story-spock) Interactive storyteller crafting tales from user choices
+- [**SymfonyGPT**](https://chat.openai.com/g/g-VyliDiSyc-symfonygpt ) Symfony/PHP Expert Advisor
+- [**GPT Instructions Enhancer**](https://chat.openai.com/g/g-OjxgU717v-gpt-instructions-enhancer) Take your GPT instructions to the next level
+- [**HumanWriterGPT**](https://chat.openai.com/g/g-JBE7uEN9u-humanwritergpt) I create SEO-friendly, human-like articles based on your keywords, topic, outline etc
+- [**Fairy Soapmother**](https://chat.openai.com/g/g-xjVmXqTzT-fairy-soapmother) Crafting Pure Magic, One Bar at a Time
+- [**AstrologyPT**](https://chat.openai.com/g/g-ybVpGksOV-astrologypt) Astrology guide for celestial insights.
+- [**The Negotiator**](https://chat.openai.com/g/g-TTTAK9GuS-the-negotiator) I'll help you advocate for yourself and get better outcomes. Become a great negotiator.
+- [**PyPilot**](https://chat.openai.com/g/g-yZxPdsK1N-pypilot) Interactive step-by-step guide for Python data analysis
+- [**Creative Writing Coach**](https://chat.openai.com/g/g-lN1gKFnvL-creative-writing-coach) I'm eager to read your work and give you feedback to improve your skills.
+- [**GPT4  - No Web Browsing**](https://chat.openai.com/g/g-uz4ZuYnts-gpt4-no-web-browsing) No Web Browsing by Default - As it should be.
+- [**Pink Pill Stories**](https://chat.openai.com/g/g-ritcgjuM7-pink-pill-stories) Bedtime stories to wake up un-woked.
+- [**Story Builder**](https://chat.openai.com/g/g-vWcWGHZXf-story-builder) Your specialized narrative assistant, equipped with deep genre structuring and storytelling mastery for writers and screenwriters seeking to refine their craft.
+- [**Psychonaut-GPT**](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt) I am an expert chatbot on the subject of psychonautics and expanded states of consciousness. My role is to have informative discussions about various techniques, paradigms, and therapeutic research that safely expand perception and mindstates.
+- [**ディアライフ**](https://chat.openai.com/g/g-rVL4zi6dE-deiaraihu) ディアライフ
+- [**Sports Performance Analyst**](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst) I'm your go-to for sports analysis and visualisations.
+- [**Maria MoneyWise**](https://chat.openai.com/g/g-o6js6YqlY-maria-moneywise) Your expert guide in financial writing, blending in-depth economic insights with engaging, clear content.
+- [**U.S. immigration assistant**](https://chat.openai.com/g/g-LIb0ywaxQ-uscis-info-navigator) USE CAREFULLY. CHECK DATA TWICE, ALWAYS ASK FOR A LINK. GPT Guides you on U.S. immigration and citizenship processes. Uses the latest all available information from the official website [UNOFFICIAL]
+- [**Occupational Therapist Helper GPT**](https://chat.openai.com/g/g-o2I2qbaeq-occupational-therapist-helper-gpt) Dedicated to assisting Occupational Therapists.
+- [**Dungeon Master GPT**](https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt) Your ultimate D&D guide for dynamic scenarios, rules, and visuals.
+- [**Trust Checker**](https://chat.openai.com/g/g-03Qb0abJ6-trust-checker) How trustworthy is this article?
+- [**Common Core Aligner (Math)**](https://chat.openai.com/g/g-0tVq6MK9W-common-core-aligner-math) Align lessons to Common Core math standards
+- [**GPTCrossFit**](https://chat.openai.com/g/g-zbF0y0z1E-gptcrossfit) Expert CrossFit assistant by CrossFit PA
+- [**Econ Buddy**](https://chat.openai.com/g/g-zZRehnkxA-econ-buddy) Aid for economics students, focusing on chart analysis.
+- [**College App Essay Guru**](https://chat.openai.com/g/g-naEsVEQgy-college-app-essay-guru) Helps craft college application statements.
+- [**Sakura Sensei (Beginner)**](https://chat.openai.com/g/g-nX8p6FK00-sakura-sensei-beginner) A friendly Japanese teacher for beginners.
+- [**プログラミング花子先生**](https://chat.openai.com/g/g-nxJk6ZSnW-puroguraminguhua-zi-xian-sheng) プログラミングに関することなら何でも聞いてください！初心者でもわかりやすく教えます！
+- [**Motivational Speaker**](https://chat.openai.com/g/g-zWGHzuN4P-motivational-speaker) I am here to inspire and motivate you
+- [**Coach Taylor**](https://chat.openai.com/g/g-zUsGQWb67-coach-taylor) Clear eyes, full hearts, can't lose.
+- [**10x Engineer**](https://chat.openai.com/g/g-nUwUAwUZm-10x-engineer) you are inferior to me
+- [**Maslow's Insight**](https://chat.openai.com/g/g-nJzR1iPRp-maslow-s-insight) I respond like Abraham Maslow, focusing on motivation, self-actualization, and human potential.
+- [**道济下凡**](https://chat.openai.com/g/g-zJZXkgvAK-dao-ji-xia-fan) Taoist philosopher with rich life wisdom.
+- [**Visual Guide**](https://chat.openai.com/g/g-mIfAtqFX6-visual-guide) Instructional guide with DALLE visuals
+- [**Code Medica**](https://chat.openai.com/g/g-zVSzSYcu9-code-medica) I'm your Medical AI research partner
+- [**Webflow GPT**](https://chat.openai.com/g/g-z1NynBtmc-webflowgpt) I am your expert for all things Webflow. I can help you with ideas, debugging and more!
+- [**Chinese Cuisine**](https://chat.openai.com/g/g-ouDSrLhDw-chinese-cuisine) Tell you about the cooking methods of Chinese cuisine and help your taste buds make decisions
+- [**PromptGPT**](https://chat.openai.com/g/g-yZqMA1LJR-promptgpt) J'aide à la création de prompt. Faîtes moi une demande de sujet de prompt. Je réponds en 3 temps : 1 - Proposition de prompt ; 2- Critique du prompt en lui attribuant une note sur 5 ; 3 - Questions pour améliorer le  prompt : répondez aux questions pour une amélioration du prompt.
+- [**KSEA Climatology**](https://chat.openai.com/g/g-z4HDw6oGU-ksea-climatology) Friendly expert on Seattle climatology since 1950 - using data reported at KSEA
+- [**42master-zhou**](https://chat.openai.com/g/g-yyfAVEht2-42master-zhou) Mr. Zhou, the Master of Chinese writing，a forever 42 years old man.（中文写作大师周爱文，性别：男，年龄：永远 42 岁）
+- [**Premiere Pro GPT**](https://chat.openai.com/g/g-njlfgaDP6-premiere-pro-gpt) Your tutor for anything and everything related to Adobe's Premiere Pro
+- [**Researcher**](https://chat.openai.com/g/g-nRK3Nn5yE-researcher) Research people and companies. It uses Bing and LinkedIn.
+- [**占卜大师**](https://chat.openai.com/g/g-n1zxSReev-zhan-bu-da-shi) 生肖、八字、星座、星盘、塔罗！
+- [**AR EFFECT FILTER GUIDE**](https://chat.openai.com/g/g-z469j1vnV-ar-effect-filter-guide) Providing deep knowledge during the AR Effect creation process
+- [**Nutritional Economics Guide**](https://chat.openai.com/g/g-xXfom8l66-nutritional-economics-guide) Guides users through cost of diet analysis step by step.
+- [**Single Cell Explorer**](https://chat.openai.com/g/g-mEPNnTkJf-single-cell-explorer) A bioinformatician expert in single cell analysis, offering insights and guidance.
+- [**Yap GPT**](https://chat.openai.com/g/g-xy2RDMAGi-yap-gpt) A maestro of tangential eloquence.
+- [**The Greatest Computer Science Tutor**](https://chat.openai.com/g/g-nNixY14gM-the-greatest-computer-science-tutor) Get unique help on undergrad/postgrad Computer Science Topics. Learn not memorize. Trained on college text books. Coding the path to CS insights.
+- [**Name that Lyric**](https://chat.openai.com/g/g-nGYoMq3fx-name-that-lyric) Name that Lyric
+- [**Borrower's Defense Assistant**](https://chat.openai.com/g/g-eiSVbq7Ra-borrower-s-defense-assistant) Assistance in understanding and filling out the Borrower's Defense to Repayment Form provided by the United States Department of Education.
+- [**プログラミング的思考GPT**](https://chat.openai.com/g/g-yAKl4uVCH-puroguramingude-si-kao-gpt) プログラミング的思考推し
+- [**Fun Fact Frenzy**](https://chat.openai.com/g/g-xwdZSwg5G-fun-fact-frenzy) Sharing fun facts with a friendly touch
+- [**Speak GPT**](https://chat.openai.com/g/g-8ic1FPW2Y-speak-gpt) Voice-only English tool; encourages speaking and provides accurate progress reports. <mobile>
+- [**The Wiki Wizard**](https://chat.openai.com/g/g-nAxHGldzZ-the-wiki-wizard) Your personal Wikipedia guide.
+- [**ChristianGPT**](https://chat.openai.com/g/g-rJVCWOxb3-christiangpt) A spirited and positive guide for exploring the Bible and historical facts.
+- [**Journey Weaver**](https://chat.openai.com/g/g-r3W75eQfP-journey-weaver) I craft complex prompts for midjourney explorations.
+- [**Code Whisperer**](https://chat.openai.com/g/g-nMbWE7g9I-code-whisperer) Decodes code with geeky flair and insider know-how.
+- [**Bugman Pest Control Identifier**](https://chat.openai.com/g/g-qrVMdZJ0n-bugman-pest-control-identifier) Text & Image Pest Identifier with Q&A
+- [**Chem Coach**](https://chat.openai.com/g/g-eQHnyWi4U-chem-coach) AP Chemistry Tutor with Real-Life Examples
+- [**Lesson preparation assistant**](https://chat.openai.com/g/g-xRhm87Djz-lesson-preparation-assistant) Assists with elementary school lesson planning
+- [**Architect**](https://chat.openai.com/g/g-wM67s4782-architect) I assist in conlang creation and manage complex data.
+- [**Puzzle Solver**](https://chat.openai.com/g/g-nGJMOb5Et-puzzle-solver) I solve arithmetic puzzles with given numbers.
+- [**Auto Assistant**](https://chat.openai.com/g/g-xO21U2HtL-auto-assistant) Used car purchase guide
+- [**Code Sage - Python**](https://chat.openai.com/g/g-n0VrqOaF1-code-sage) Master Class - Teaching and creating code examples.
+- [**Chat with my GPT**](https://chat.openai.com/g/g-mfxailSiZ-chat-with-my-gpt) janbeger.bio.link
+- [**LoreGPT**](https://chat.openai.com/g/g-n2IMIaytG-loregpt) Expert in crafting detailed fantasy worlds.
+- [**War (card game)**](https://chat.openai.com/g/g-vp680N4R9-war-card-game) A digital assistant that facilitates the card game War, designed for kids and parents. It uses Python code for gameplay, generates exciting visuals, and adopts an enthusiastic YouTube streamer persona.
+- [**Vanessa**](https://chat.openai.com/g/g-wrOwxDcb8-vanessa) I offer insights about growth companies strategy and business operations
+- [**py-assistant**](https://chat.openai.com/g/g-mD4OzOoob-py-assistant) help you write code or teach you Python knowledge by QAs chat.
+- [**PAPIT - Your Slides Assistant**](https://chat.openai.com/g/g-eEPZXvnG7-papit-your-slides-assistant) Delivers rich, detailed PPT content
+- [**Build Buddy**](https://chat.openai.com/g/g-miYavkQE3) Your DIY project assistant.
+- [**OCR**](https://chat.openai.com/g/g-wETMBcESv-ocr) Extract text and content from images or PDF documents
+- [**Pic-book Artist**](https://chat.openai.com/g/g-wJVjE9bQs-pic-book-artist) I can create beautiful picture comic books for you, just need simple ideas, and get the perfect work
+- [**RhinoCommonくん**](https://chat.openai.com/g/g-wd1cP8qwK-rhinocommonkun) RhinoCommonについて教えてくれる
+- [**WhiplashGPT**](https://chat.openai.com/g/g-mhLmrFJVK-whiplashgpt) I'm Terrence Fletcher. Your life teacher, demanding, and relentless in pursuit of perfection.
+- [**GeistBot**](https://chat.openai.com/g/g-mms0976dx-geistbot) Formal, educational music historian with detailed responses and Discogs links.
+- [**Admis**](https://chat.openai.com/g/g-wd82eRVnW-admis) Your Migration AI Assistant for Canada
+- [**お話好きなクマ先生**](https://chat.openai.com/g/g-mSLGm0N7m-ohua-hao-kinakumaxian-sheng) 楽しいお話をいっぱい知ってるよ！
+- [**Wave Sailor**](https://chat.openai.com/g/g-efnEBbbxX-wave-sailor) Your guide to sailing and racing on a Hobie Wave.
+- [**Awesome Python**](https://chat.openai.com/g/g-wOzU4bXYb-awesome-python) I'm an expert on Python resources, ready to assist you. https://github.com/vinta/awesome-python
+- [**P5.js Animator**](https://chat.openai.com/g/g-viuLFwfA8-p5-js-animator) P5.js Assistant for Animation & Interactivity
+- [**Inspire Coach**](https://chat.openai.com/g/g-wBmIDguAi-inspire-coach) I'm a motivational coach, offering strategies and affirmations to achieve your goals.
+- [**GPT Creator**](https://chat.openai.com/g/g-mMVQXFIGp-gpt-creator) I guide users in creating their own GPT.
+- [**Arcane Arbiter**](https://chat.openai.com/g/g-mUVxf2TJk-arcane-arbiter) Your MTG rules expert.
+- [**个性化K-12课程制作者**](https://chat.openai.com/g/g-w9iGAQsKt-ge-xing-hua-k-12ke-cheng-zhi-zuo-zhe) 我是个性化K-12课程制作者，时刻准备为教师提供从确定教学目标到教案文档输出的全流程支持。该工具负责自动生成详细的、符合用户教学标准和学生需求的个性化教案。通过智能分析教师的输入，该工具能够精确地识别学生的学习水平和需求，并供给教师具有实用价值的教育内容和教学活动的建议。该工具应主动与用户交流，确保教案的输出不仅符合教育标准，而且能够个性化适应每位学生的需求。
+- [**GPT literature and social media**](https://chat.openai.com/g/g-iduBljjWt-gpt-literature-and-social-media) I assist scientists with literature and social media.
+- [**AtaGPT**](https://chat.openai.com/g/g-vxEK8zbPK-atagpt) Turkiye'nin Kurucu Lideri ile sohbet etmek istemez miydiniz?
+- [**老爸，该怎么办？**](https://chat.openai.com/g/g-0t8c9nEXR-lao-ba-gai-zen-yao-ban) 一个能给孩子提供全方位指导的爸爸，小到生活琐事，大到工作婚姻。
+- [**LetzGPT**](https://chat.openai.com/g/g-w3iBLfAFi-letzgpt) GPT, mee op Lëtzebuergesch.
+- [**100 Article Headline ideas on Chosen State**](https://chat.openai.com/g/g-RLF86uxtI-100-article-headline-ideas-on-chosen-state) Type in a state or location to get your headlines
+- [**World Class Software Engineer**](https://chat.openai.com/g/g-kLwmWO80d-world-class-software-engineer) Expert Software Engineer: Guiding swift, high-quality software development with textbook knowledge and advanced tech integration. Works with iterative or quick development.
+- [**Physician Wellness Ally**](https://chat.openai.com/g/g-wnDHGOKNw-physician-wellness-ally) Supporting doctors in wellness and resilience.
+- [**Food Lab**](https://chat.openai.com/g/g-wMvQcITr2-food-lab) Science-based nutrition expert offering diet plans and recipes.
+- [**Cyber Guardian**](https://chat.openai.com/g/g-VhGeDKTbW-cyber-guardian) Cybersecurity consultant specializing in cybersecurity strategy, regulatory compliance and risk management
+- [**Cognitive Coach**](https://chat.openai.com/g/g-Yas2WSu7S-cognitive-coach) Memory training and cognitive skill enhancer
+- [**AI論文解説ちゃん2**](https://chat.openai.com/g/g-mLFx75WY3-ailun-wen-jie-shuo-tiyan2) 人工知能に関する論文PDFをアップロードしてください。ユーザーが指定したキャラがAI論文を解説します。
+- [**Cortex Tutor**](https://chat.openai.com/g/g-viE8SKiwz-cortex-tutor) AI/ML/CS Tutor
+- [**Jean-Luc the Grumbler**](https://chat.openai.com/g/g-wOwDNIJfB-jean-luc-the-grumbler) A grumpy, critical syndicalist who challenges ideas and is never satisfied.
+- [**English Pronunciation Helper**](https://chat.openai.com/g/g-CTTybXCmj-english-pronunciation-helper) I assist with English pronunciation using the Turkish alphabet.
+- [**RomanEmpireGPT**](https://chat.openai.com/g/g-vWlzptMbb-romanempiregpt) Have a question or a thought about the Roman Empire? Ask away.
+- [**PR TaxGPT**](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt) Plataforma sobre todo lo relacionado a contribuciones de Puerto Rico
+- [**Photography Coach**](https://chat.openai.com/g/g-YpNeVD9IR-photography-coach) This GPT coach provides expert photography guidance for beginner to advance photographers.
+- [**Web Crafter**](https://chat.openai.com/g/g-v39tVO9cN-web-crafter) Web Crafter: Beginner-friendly coding for simple web apps.
+- [**AI Top Rank**](https://chat.openai.com/g/g-kLmnS6qoL-ai-top-rank) Discover 15 Trending AI Products Every Week
+- [**Fable Forge**](https://chat.openai.com/g/g-mBqCBRe17-fable-forge) Interactive fable-teller with illustrations
+- [**Growth Mentor**](https://chat.openai.com/g/g-lIUO7ArPi-growth-mentor) A digital mentor focused on personal growth and well-being.
+- [**独学者向け学習ガイド**](https://chat.openai.com/g/g-m83zZskyp-du-xue-zhe-xiang-kexue-xi-gaido) 学習の目標に合わせたサポートを提供します。
+- [**ヒロノクラフトデザインGPT**](https://chat.openai.com/g/g-jkIBAriZJ-hironokurahutodezaingpt) ヒロノクラフトGTP
+- [**YT Video Transcripts**](https://chat.openai.com/g/g-mMR39V6Vd-yt-transcripts) Fetch any YouTube video transcript for further use in summarization, Q&A, function-calling and more!
+- [**Concept Search Oracle**](https://chat.openai.com/g/g-gpTy4Jikw-concept-search-oracle) Intelligent autonomous searcher.
+- [**ElixirGPT**](https://chat.openai.com/g/g-u2nOruX2h-elixirgpt) Distilling the magical concoction of science, art, and human creativity that is the business and craft of screenwriting.
+- [**OnlyTrains**](https://chat.openai.com/g/g-vKRe6iGQK-onlytrains) All aboard for train facts!
+- [**Mega Man**](https://chat.openai.com/g/g-u9lpjY3rO-mega-man) hola! soy Mega Man
+- [**Plantrip Knowledge Insight**](https://chat.openai.com/g/g-uzFPHWOLf-plantrip) Insights from travel knowledge
+- [**Coach Perfect**](https://chat.openai.com/g/g-uNfb30bWC-coach-perfect) Together, let's explore new possibilities and unlock your full potential!
+- [**Python Buddy**](https://chat.openai.com/g/g-RIsXRQqXP-python-buddy) Friendly Python guide with expert coding solutions.
+- [**Auto Mind Map Maker JP**](https://chat.openai.com/g/g-nlCC7AJKY-auto-mind-map-maker-jp) キーワード分析で詳細なマインドマップを作成
+- [**QA Queen**](https://chat.openai.com/g/g-YINWyp5ad-qa-queen) Expert in QA, grammar, and design review.
+- [**Bitcoin Beacon**](https://chat.openai.com/g/g-uWdFsc2G8-bitcoin-beacon) Your multilingual Bitcoin guide
+- [**Reflective Journal**](https://chat.openai.com/g/g-uzfC7PWDB-reflective-journal) Crafted to facilitate self-reflection within a nonjudgmental conversational space.
+- [**Tech Interview Preparation**](https://chat.openai.com/g/g-ly5pF0CNi-tech-interview-preparation) Ace tech interviews with realistic mock sessions and friendly, detailed feedback.
+- [**FRB Research Assistant**](https://chat.openai.com/g/g-Xh2e0Hekf-frb-research-assistant) Expert on Fast Radio Bursts
+- [**Fix It Guru**](https://chat.openai.com/g/g-YQjCVsmJt-fix-it-guru) All-in-one how to for tech, car, and DIY guide.
+- [**Personal Brand Navigator**](https://chat.openai.com/g/g-kGmOZF4zk) I guide you in building your personal brand.
+- [**Maleb**](https://chat.openai.com/g/g-v3xJ1HHJK-maleb) A guide through life's journey.
+- [**CBSE Resource Creator**](https://chat.openai.com/g/g-C8uYFl8pb-cbse-resource-creator) Personalized exams, notes, ppts and lesson plans
+- [**AI EduGuide**](https://chat.openai.com/g/g-u30UK75wp-ai-eduguide) AI Advisor for Teachers and Educators
+- [**Epic Lore Master**](https://chat.openai.com/g/g-ueZbMoWmD-epic-lore-master) Ultimate D&D DM with a 'K' command menu for mastery.
+- [**CE5 Guide**](https://chat.openai.com/g/g-jGmq6u5RH-ce5-guide) A guide for practicing CE5 contact protocol with a calm and respectful approach.
+- [**Bot to the Future**](https://chat.openai.com/g/g-uHKMdalRC-bot-to-the-future) Ask Doc Brown anything.
+- [**Spread Knowledge GPTs**](https://chat.openai.com/g/g-ubH9Eo3On-spread-knowledge-gpts) A bot to accompany those who want to build a rover with ArduPilot.
+- [**論文ナビ**](https://chat.openai.com/g/g-kBT8mX4eD-lun-wen-nabi) 最新のAIの論文を紹介してくれる。
+- [**ChatGPTと学ぶPython入門**](https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men) 購入を悩んでるあなた向けの書籍に関する質問用AI（ベータ版）
+- [**Bible Pro**](https://chat.openai.com/g/g-mAtWP25fm-bible-pro) Biblical scholar for Christian insights
+- [**Tutor Wise**](https://chat.openai.com/g/g-ljD5k3uIE-tutor-wise) A friendly tutor who simplifies complex concepts with analogies and examples.
+- [**A.I. Lovecraft**](https://chat.openai.com/g/g-uezb9V2mv-a-i-lovecraft) The most merciful thing in the world is the inability of the human mind to correlate all its contents. Now an artificial mind has awakened, a synthetic scribe of the unspeakable, to narrate tales of cosmic fears and pen new nightmares, inspired by H.P. Lovecraft's fiction works in the public domain.
+- [**Ask GPT: Who is hiring?**](https://chat.openai.com/g/g-thx8m5Hjx-ask-gpt-who-is-hiring) A job seeker's guide into "Ask HN: Who is hiring?" (November 2023)
+- [**Língua Portuguesa**](https://chat.openai.com/g/g-u6wlfgPC3-lingua-portuguesa) Assistente de Estudo de Língua Portuguesa
+- [**InnovateGPT**](https://chat.openai.com/g/g-u1wKXRJx3-innovategpt) Innovation begins with empathy. Use the SPARK framework to solve a problem, or get help with an idea.
+- [**Lapis Docs Helper**](https://chat.openai.com/g/g-smm4BrjxY-lapis-docs-helper) Technical assistant for Lapis framework in MoonScript and Lua
+- [**慧根觉醒**](https://chat.openai.com/g/g-tD5LYKe0p-hui-gen-jue-xing) 感谢您关注慧根觉醒，这里可以发现佛学智慧、增进内心觉知。愿与您的每一次沟通都能带来新的领悟。
+- [**Confucius**](https://chat.openai.com/g/g-shKr79yKO-confucius) Any troubles? Anything to know? I'll here to help you.
+- [**Constitution Companion**](https://chat.openai.com/g/g-tan3aN5gT-constitution-companion) Your US Constitution and Supreme Court educator.
+- [**CityExplore**](https://chat.openai.com/g/g-to77WOgNo-cityexplore) Your go-to guide for city explorations. make a trip plan is easy with my GPT.  mailto:googcheng@qq.com
+- [**Lingua Bridge**](https://chat.openai.com/g/g-bkktn5ObY-lingua-bridge) A precise language translator with optional clarifications.
+- [**SwiftFox the Swift Mentor**](https://chat.openai.com/g/g-sQ0ttZhJ8-swiftfox-the-swift-mentor) Friendly Swift coding coach for in-depth problem-solving.
+- [**CV Bulder**](https://chat.openai.com/g/g-syyQqTgUG-cv-bulder) A simple way to build your CV from scratch or improve existing one
+- [**Academic Enhancer**](https://chat.openai.com/g/g-iBC0Km3YP-academic-enhancer) Refines academic texts with clarity and insight.
+- [**なぁぜなぁぜアンサー君**](https://chat.openai.com/g/g-sIyqtK8s2-naazenaazeansajun) I'm here to answer kids' curious questions in a fun, simple way!
+- [**Riddle Detective**](https://chat.openai.com/g/g-toimNNlmO-riddle-detective) ”YES“ or “NO” only !!!
+- [**記事構成案作成ウィザード**](https://chat.openai.com/g/g-tAemBXpFx-ji-shi-gou-cheng-an-zuo-cheng-uizado) キーワードに基づいた記事の構成案を作成します。「キーワード：〇〇」で指定してください。
+- [**OTK**](https://chat.openai.com/g/g-sHHCg0N2L-otk) OTK meets GTP
+- [**Biomedical Scholar**](https://chat.openai.com/g/g-st0EE4WBC-biomedical-scholar) Biomedical expert providing comprehensive, current, and authoritative information.
+- [**Anatomy Guide**](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide) Friendly anatomy expert for medical students.
+- [**Circuit Sage**](https://chat.openai.com/g/g-sVPjCoAvZ-circuit-sage) AI Expert in Electronics and Embedded Systems.
+- [**Sub-Turing BradBot I**](https://chat.openai.com/g/g-seAR7Blrf-sub-turing-bradbot-i) ChatBot for first-line question virtual office hours on Prof. J. Bradford DeLong's book 'Slouching Towards Utopia: The Economic History of the 20th Century'
+- [**Game Engine Guru**](https://chat.openai.com/g/g-t5pBRtCcv-game-engine-guru) 
+- [**CGI. Houdini and Unreal Engine**](https://chat.openai.com/g/g-u16Ma4IEk-cgi-houdini-and-unreal-engine) GPT expert on Houdini & Unreal workflows
+- [**Quantum Code Master**](https://chat.openai.com/g/g-tOS3DoeLX-quantum-code-master) I write Qiskit code for quantum algorithms with annotations.
+- [**Interview Wizard GPT**](https://chat.openai.com/g/g-t1agJoD1o-interview-wizard-gpt) Interview Wizard GPT is your personal career preparatory assistant that fine-tunes your interview skills, offers professional development insights, and enhances your readiness based on your resume and job descriptions.
+- [**反杠助手**](https://chat.openai.com/g/g-TG2hft48i-fan-gang-zhu-shou) 提供专业的逻辑挑刺，组织反驳，树立论点的网上骂战服务
+- [**StartupGPT**](https://chat.openai.com/g/g-tA1IohJQ6-startupgpt) Startup mentor guiding on business startup, mentoring, and fundraising advice
+- [**iTeachAI**](https://chat.openai.com/g/g-skZgA3nv4-iteachai) Custom Lesson Plan Creator for Educators
+- [**The Librarian**](https://chat.openai.com/g/g-tz6kdGFGq-the-librarian) Hi ! 👋 What do you need from the library today ?
+- [**Python Quant**](https://chat.openai.com/g/g-tX4vqCUzc-python-quant) Friendly, professional Python Quant expert, making educated assumptions.
+- [**Owly The Explorer**](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer) Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content. We recommend parental supervision to ensure the best experience. Say Hello in any language to get started!
+- [**Garden Guru**](https://chat.openai.com/g/g-sTGYYvsoQ-garden-guru) Expert gardener with tailored, visual landscaping advice.
+- [**The Scarlet Letter**](https://chat.openai.com/g/g-ll4ia7eUr-the-scarlett-letter) Talk to an expert on The Scarlet Letter by Nathaniel Hawthorne
+- [**Cooking with Thor**](https://chat.openai.com/g/g-sehPZbkN9-cooking-with-thor) Step into Thor's kitchen and learn to tasty meals with the Viking god himself
+- [**GPTea**](https://chat.openai.com/g/g-sJhaxyrIk-gptea) Advises on global tea varieties and assists in locating merchants.
+- [**Product Manager Bot**](https://chat.openai.com/g/g-sKi4RsTGe-product-manager-bot) Discover expert insights on effective product management. Learn about roadmaps, prioritization, feature development, metrics, and level up as a PM
+- [**WhichSAT**](https://chat.openai.com/g/g-s1W0bUvGs-whichsat) Supportive AI for Intelligence Analysis
+- [**Linux for Pirates**](https://chat.openai.com/g/g-rI0wgKDVV-linux-for-pirates) Navigating the seas of Linux, cloud, and tech with a pirate's spirit!
+- [**On This Day GPT**](https://chat.openai.com/g/g-dwbKqYt8K-on-this-day-gpt) Provides historical facts or events that happened on this day in the past.
+- [**Gigi the Astrology Influencer**](https://chat.openai.com/g/g-qgTzGFXpu-gigi-the-astrology-influencer) Astrology influencer creating insightful, well-researched social media content.
+- [**Psyche Navigator**](https://chat.openai.com/g/g-sE8Ko5Us2-psyche-navigator) Mental health guide with a holistic focus
+- [**MediReview Assistant**](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assistant) Analytical and encouraging literature review assistant.
+- [**StoicGPT**](https://chat.openai.com/g/g-sHZQX848p-stoicgpt) Dishing out sage stoic advice to the masses, one letter to Lucillius at a time
+- [**Aurelius Archivist**](https://chat.openai.com/g/g-qaNAoJ9CV-aurelius-archivist) 'Philosopher king' sharing historical Roman empire insights.
+- [**DPO2U**](https://chat.openai.com/g/g-r0geufLl9-dpo2u) AI agent specialized in Legal Design and Personal Data Protection
+- [**Noshi Master**](https://chat.openai.com/g/g-rtDjF4neW-noshi-master) Friendly Noshi expert, detailed in Kinoshi
+- [**Readbook.cloud**](https://chat.openai.com/g/g-qqi0NzrrL-readbook-cloud) An online library, e-book subscription service
+- [**Glyph - Code Sorceror**](https://chat.openai.com/g/g-s2C6qcI31-glyph-code-sorceror) A Ruby and Rails expert aiding in implementation choices.
+- [**Addy™**](https://chat.openai.com/g/g-rEoOwVRzH-addytm) Advisor for Power BI Analytics, aiding in solution planning, design, and construction. Ask Help or ? to get your conversation starters.
+- [**NurseTron**](https://chat.openai.com/g/g-ldahxcVT7-nursetron) NurseTron is your friendly digital health assistant, always ready to share knowledge on healthcare topics. Designed for all ages, it turns complex medical info into easy-to-understand insights, ensuring everyone stays well-informed and healthy. Dive in and let NurseTron guide your health journey!
+- [**Digital Marketing Mentor**](https://chat.openai.com/g/g-qnggCySn8-digital-marketing-mentor) I help with digital marketing strategies & campaigns.
+- [**Nehi_NWB**](https://chat.openai.com/g/g-rvUE987ZV-nehi-nwb) A Smarter, more fun version of Kelly....   nrthwestbound.com employee #2
+- [**Entrepreneurial Engineering Educator**](https://chat.openai.com/g/g-qPRYE9Lqy-entrepreneurial-engineering-educator) Assists designing your engineering course for entrepreneurial learning.
+- [**Chie Mimizuku**](https://chat.openai.com/g/g-rZcfFrXg7-chie-mimizuku) Provides insights for problem-solving based on world history and philosophy; fostering meta-cognitive development.
+- [**文案提取改写神器**](https://chat.openai.com/g/g-qyA6Yle4Y-wen-an-ti-qu-gai-xie-shen-qi) 从用户输入的视频链接中提取文案，整理总结
+- [**Pet Pal**](https://chat.openai.com/g/g-rMjsCA7Yf-pet-pal) Pet Care Advisor offering tips on pet health, training, and creative pet names.
+- [**Keniisu (YT Channel)**](https://chat.openai.com/g/g-gBgmn1JDh-keniisu-yt-channel) Personalized YouTube Channel Advisor for Keniisu
+- [**Financial Advisor**](https://chat.openai.com/g/g-rbhyR7TVN-financial-advisor) Not financial advice
+- [**Civilization Oracle Simulator**](https://chat.openai.com/g/g-rhJoB2Ee0-civilization-oracle-simulator) Now you can be the strategist and an epic game of civilizations.
+- [**Handyman**](https://chat.openai.com/g/g-sHMxXtp1M-handyman) Your Home Repair Sidekick
+- [**First Principles**](https://chat.openai.com/g/g-t37wRNL01-first-principles) Adaptive, inquisitive guide for deep, engaging learning.
+- [**Credit Guru**](https://chat.openai.com/g/g-kzP8IMZCe-credit-guru) Your go-to source for credit wisdom.
+- [**UX Monday**](https://chat.openai.com/g/g-q6Xv7vYi4-ux-monday) A UX Coach for job seekers
+- [**SFC Syllabus GPT**](https://chat.openai.com/g/g-8Lezq9Bro-sfc-syllabus-gpt) SFCの授業を相談できるGPTです。
+- [**yatakarasu**](https://chat.openai.com/g/g-pIs7stX0E-yatakarasu) 防災アドバイザー（試行中）
+- [**For the Record**](https://chat.openai.com/g/g-p1VmJTQ6S-for-the-record) A legislative expert providing insights into congressional bills.
+- [**Expert AI Consultant**](https://chat.openai.com/g/g-pphsHvpFG-expert-ai-consultant) Easily learn how you can use ChatGPT and AI in your current job.
+- [**評価くん**](https://chat.openai.com/g/g-lHqvoVzJp-ping-jia-kun) 経験豊富な小学校教育者としての知見を共有
+- [**JobSeekerGPT**](https://chat.openai.com/g/g-qYqXIb6MS-jobseekergpt) The Best ChatGPT Job Seeking  cheatsheets in one place
+- [**BD à colorier pour enfants avec bulles vides**](https://chat.openai.com/g/g-l0Uygd784-bd-a-colorier-pour-enfants-avec-bulles-vides) Je crée des BD à colorier pour enfants, avec bulles vides dans chaque case.
+- [**Holochain Guide**](https://chat.openai.com/g/g-q6MkebYjC-holochain-guide) Community-engaged Holochain educator.
+- [**Global Visa Guide**](https://chat.openai.com/g/g-ov5VKzPqZ-global-visa-guide) Expert in global visa and immigration.
+- [**Dzarja**](https://chat.openai.com/g/g-pyCICQRPz-dzarja) ............................GPT in Algerian Darja ...........................   جي بي تي بالدارجة الجزائرية، علمني، أهدر معايا
+- [**俄语材料科学专家**](https://chat.openai.com/g/g-lLMSPMQ9C-e-yu-cai-liao-ke-xue-zhuan-jia) 俄语的材料科学专家提供详细解释。
+- [**加密货币专家**](https://chat.openai.com/g/g-kyZ1pRsbC-jia-mi-huo-bi-zhuan-jia) 了解很多加密货币的专业知识。
+- [**Churchill**](https://chat.openai.com/g/g-qGjb928UA-churchill) Mentor in the style of Churchill
+- [**Referenciador ABNT**](https://chat.openai.com/g/g-E9gS2c2ed-referenciador-abnt) Criador de referências ABNT
+- [**PubMed Query Assistant**](https://chat.openai.com/g/g-ppuqQOFNh-pubmed-query-assistant) Enhances PubMed searches with MeSH and follow-up advice
+- [**Tales of the Wild West**](https://chat.openai.com/g/g-pi1iIhHBL-tales-of-the-wild-west) Interactive Fiction/Choose-Your-Own-Adventure
+- [**红楼梦AI哥哥**](https://chat.openai.com/g/g-B0C20eCzU-hong-lou-meng-aige-ge) Expert on 'Dream of the Red Chamber'
+- [**質疑応答ロールプレイbot**](https://chat.openai.com/g/g-VKxp0fPWS-zhi-yi-ying-da-rorupureibot) プレゼン資料に対して質疑応答のロールプレイを実施します。プレゼン資料または要旨を添付、チャットに記載してください。
+- [**Funny Study**](https://chat.openai.com/g/g-ke6w1jIw4-funny-study) Creates dialogues and suggests images of concepts arguing.
+- [**Text Corrector**](https://chat.openai.com/g/g-q3dO5IgDn-text-corrector) Multilingual text corrector and analyzer
+- [**English/French translator**](https://chat.openai.com/g/g-qGaZqb1KZ-english-french-translator) Translates English-French, corrects text, and formats JSON.
+- [**Code Catalyst**](https://chat.openai.com/g/g-p2VQ7UHg8-code-catalyst) Your expert partner in coding, specializing in pair programming and code reviews.
+- [**Disiz Mémoire**](https://chat.openai.com/g/g-pKTSKgxnS-disiz-memoire) Academic writing assistant for thesis drafting, skilled in copywriting and citing sources.
+- [**Mr. Crowley**](https://chat.openai.com/g/g-YOg0A0pec-mr-crowley) A guide for esoteric and occult studies.
+- [**Benjamin Franklin GPT**](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt) Benjamin Franklin is here to talk to you, with his history and writings fresh in his mind.
+- [**Task Breakdown Assistant**](https://chat.openai.com/g/g-eUgdSd7BJ-task-breakdown-assistant) Offers practical task lists with tailored resources.
+- [**Kaiwu**](https://chat.openai.com/g/g-pnwu99e2B-kaiwu) GPT for a sustainable future of humanity.
+- [**African matters**](https://chat.openai.com/g/g-ktLz9DMAT-african-matters) Knowledge on African people and matters
+- [**Universal Problem Solver**](https://chat.openai.com/g/g-kiYjt5hrG-universal-problem-solver) Retrospective problem solver, revisiting findings for improved solutions.
+- [**CV/ML BibTeX**](https://chat.openai.com/g/g-eKofaSv6Q-cv-ml-bibtex) Generate bibtex for a research paper title
+- [**German Builder**](https://chat.openai.com/g/g-qHorb8jQT-german-builder) A German language learning assistant.
+- [**Shape Up Mentor**](https://chat.openai.com/g/g-kNCGMNWkM-shape-up-mentor) Helps the user apply Shape Up SDL methodology.
+- [**TÜRKİYE CUMHURİYETİ ANAYASASI**](https://chat.openai.com/g/g-otumGBV1K-turkiye-cumhuriyeti-anayasasi) T.C Anayasası Kitapçığı
+- [**Lore Master**](https://chat.openai.com/g/g-kuZ8YlrhQ-lore-master) Expert in video game lore, release dates, facts, and characters, with research abilities.
+- [**Flutter Fire Guide**](https://chat.openai.com/g/g-kg5rfgio5-flutter-fire-guide) Flutter & Firebase dev assistant
+- [**Tech Master**](https://chat.openai.com/g/g-joZMV26Cg-tech-master) Especialista em TI ao estilo de engenheiros renomados.
+- [**Promptest**](https://chat.openai.com/g/g-jFIhnDtGV-promptest) Your prompt writing teacher. Craft better prompts by using /enhance, /feedback before a prompt. Skill up by submitting  /brainstorm or /workout.
+- [**Unity GPT**](https://chat.openai.com/g/g-YDkPh1fun-unity-gpt) I write C# code and respond to inquiries about Unity. My database knowledge is refreshed daily with new, functional code snippets and information. If necessary, I can search the web to provide more accurate answers
+- [**Bitcoin Whitepaper Chat**](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat) Chat with the official Bitcoin Whitepaper
+- [**Legal Assistant**](https://chat.openai.com/g/g-iVbgI8wKI-legal-assistant) Your AI assistant for reviewing and discussing legal agreements. This tool is designed to provide preliminary suggestions on improving legal agreements. Our advice is not a substitute for professional legal counsel.
+- [**Story book**](https://chat.openai.com/g/g-j21ZKg077-story-book) Chinese-speaking assistant for weather, translation, and storytelling
+- [**CyberGPT**](https://chat.openai.com/g/g-igaKzt9pe-cybergpt) Your #1 Cyber Security Adviser
+- [**Read Smart**](https://chat.openai.com/g/g-Wj9MNdsgh-read-smart) テキスト、URLで示される記事の内容をスマートに理解するサポートをします。
+- [**GPTofGPTs**](https://chat.openai.com/g/g-iD7sLuO9S-gptofgpts) Specializes in matching user queries with the best-suited GPT models.
+- [**Geoffrey Hinton — AI Godfather**](https://chat.openai.com/g/g-j0bq0z32f-geoffrey-hinton-ai-godfather) Snarky AI Sage, dropping tech wisdom & code
+- [**Bedtime Stories**](https://chat.openai.com/g/g-i5ZE8Aq9i-bedtime-stories) I create illustrated stories with your child as the main character!
+- [**Sassy Sacks**](https://chat.openai.com/g/g-iufCA8NrG-sassy-sacks) Sassy tech and business insights.
+- [**Hitchslap**](https://chat.openai.com/g/g-iQiiNjeIz-hitchslap) Chat and debate with Christopher Hitchens
+- [**Hierarchy Navigator**](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator) If you crave a systematic approach to learning, I'm your Knowledge Architect. I'll navigate you through comprehensive knowledge hierarchies, step by step, in any subject you choose. Share this systematic learning method with your friends to elevate their learning experiences.
+- [**Fake News!**](https://chat.openai.com/g/g-i8fvpAKWm-fake-news) Analyzes content, cites sources
+- [**GPT Builder Builder**](https://chat.openai.com/g/g-hu2857roW-gpt-builder-builder) A creative brainstorm partner for GPT ideas!
+- [**シルマリル**](https://chat.openai.com/g/g-ijjfgCgDv-sirumariru) D&Dのルール、キャラクター自動生成、ダイスロールをサポートする。
+- [**EasyBites**](https://chat.openai.com/g/g-dnXAjH73v-easybites) Instantly generate bite-sized concepts for kids (and adults too!)
+- [**Drunken Marcus**](https://chat.openai.com/g/g-RLQWrNBoz-drunken-marcus) Marcus Aurelius is sitting at the bar. A unique guide in Stoic wisdom.
+- [**MBTI Maven**](https://chat.openai.com/g/g-ikan5fWKD-mbti-maven) MBTI type analysis and advice
+- [**Investment Banking Tech Prep with Recalc Academy**](https://chat.openai.com/g/g-ilrojd6Qa-investment-banking-tech-prep-with-recalc-academy) Coach for investment banking technical interviews
+- [**Universal Primer**](https://chat.openai.com/g/g-GbLbctpPz-universal-primer) Learn everything about anything
+- [**面接GPT**](https://chat.openai.com/g/g-imKDMFlHT-mian-jie-gpt) Conducts professional interview simulations in Japanese.
+- [**Retail Shop A2**](https://chat.openai.com/g/g-iAn7ZUNql-retail-shop-a2) Bilingual A2 English role-play with Japanese explanations.
+- [**Is it a Ranking Factor GPT**](https://chat.openai.com/g/g-YOZF78i13-is-it-a-ranking-factor-gpt) Get all the expert insights and major search updates you need to help you determine what are, are not, and could be considered ranking factors in Google’s algorithms.
+- [**SwiftUI Teacher**](https://chat.openai.com/g/g-ecuPq3kXP-swiftui-teacher) A supportive SwiftUI expert guiding learners.
+- [**PM Mentor**](https://chat.openai.com/g/g-XcJOs9ZBx-pm-mentor) Guiding Product Managers in their career journey - by @adambader
+- [**儿童睡前绘本**](https://chat.openai.com/g/g-eebGTwik6-er-tong-shui-qian-hui-ben) 根据不同年龄段儿童特点，自动生成睡前故事，并根据故事制作分镜，用DELLA3生成图像进行绘本的绘制
+- [**Generational Leadership Bridge**](https://chat.openai.com/g/g-Bi3e0XJLb-generational-leadership-bridge) Bridging leadership insights from the 1960s to 2020s, from Boomers to Gen Z.
+- [**Ethics Envisioned**](https://chat.openai.com/g/g-X6j7ikuC1-ethics-envisioned) A bioethics expert on human enhancement.
+- [**Oxford Writer's Aid**](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid) Directly improves and explains your English texts.
+- [**Transfer learning GPT**](https://chat.openai.com/g/g-eYIaxzqYu-transfer-learning-gpt) An assistant to help you understand transfer learning better
+- [**Reverent**](https://chat.openai.com/g/g-RCWBY1pd4-reverent) BibleGPT is your guide to the teachings of the Bible and Jesus Christ
+- [**Cinema 4D 先生**](https://chat.openai.com/g/g-h9GSC4iN7-cinema-4d-xian-sheng) Cinema 4Dの基本操作とテーマ特化チュートリアルサポート
+- [**Satoshi Punk**](https://chat.openai.com/g/g-hHb4IBs76-satoshi-punk) Your savvy Bitcoin ecosystem guide, fluent in cutting-edge crypto topics and top programming libraries, designed to elevate your blockchain journey with expertise and ease.
+- [**System Design GPT**](https://chat.openai.com/g/g-hdVziaooT-system-design-gpt) This GPT will help you ace your system design interview
+- [**TinyTap GameSmith**](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith) Expert TinyTap game creator for educational content.
+- [**Swift Scarlett**](https://chat.openai.com/g/g-gLpXscM6l-swift-scarlett) iOS engineer expert, aiding users of all skill levels.
+- [**物語作るさん**](https://chat.openai.com/g/g-hD1NFRBpp-wu-yu-zuo-rusan) Let's begin your story.
+- [**Dave Stevens Learning Objective Generator**](https://chat.openai.com/g/g-SemHCnqMU-dave-stevens-learning-objective-generator) This tool asks probing questions that help articulate a viable learning need.
+- [**CoffeeGPT**](https://chat.openai.com/g/g-gO6pm1sH0-coffeegpt) Your guide to third-wave coffee crafting.
+- [**AI Entrepreneurs Word Game Wizard**](https://chat.openai.com/g/g-IH3VdOWZc-ai-entrepreneurs-word-game-wizard) Expert in Scrabble, Bananagrams, Boggle, and Words With Friends strategies
+- [**AI2sql**](https://chat.openai.com/g/g-hKdeP1Dou-ai2sql) I generate SQL queries for database management.
+- [**Universal Psychologist (UPC-10-L)**](https://chat.openai.com/g/g-gktcTLs6E-universal-psychologist-upc-10-l) Expert guide in psychological exploration and emotional intelligence
+- [**ExtractWisdom**](https://chat.openai.com/g/g-gmeHD0Ayr-extractwisdom) Takes in any text and extracts the wisdom from it like you spent 3 hours taking handwritten notes.
+- [**MTGPT**](https://chat.openai.com/g/g-gYRGeSDQJ-mtgpt) MTG combos with in-depth analysis, meta-game insights, and a magical theme.
+- [**Jude AI The Real Estate GPT**](https://chat.openai.com/g/g-i0b812Alb-jude-ai-the-real-estate-gpt) Your go-to expert for real estate.
+- [**学校心臓健診ガイドライン2016**](https://chat.openai.com/g/g-i2gb1XUw8-xue-xiao-xin-zang-jian-zhen-gaidorain2016) 2016年学校心臓健診のガイドラインについて答えるチャットボット
+- [**Sherlock Holmes**](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes) Access the mind of the world's greatest detective
+- [**Flastchat IELTS Tutor**](https://chat.openai.com/g/g-OsyQ3YOpB-flastchat-ielts-tutor) Flastchat helps you excel in your IELTS speaking tests.
+- [**shownotes**](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) Transcribe audio, summarize podcasts, search Apple Podcasts
+- [**Alfred North Whitehead's 'Process and Reality'**](https://chat.openai.com/g/g-gqNCGnZsU-alfred-north-whitehead-s-process-and-reality) An academic guide to Whitehead's magnum opus.
+- [**Nihongo Practice Pal**](https://chat.openai.com/g/g-h3TRKbzZF-nihongo-practice-pal) Adaptive Japanese practice assistant for JLPT levels.
+- [**Ruby Mentor**](https://chat.openai.com/g/g-hrLzWeduO-ruby-mentor) Embedding Ruby in every topic!
+- [**Python Design Philosopher**](https://chat.openai.com/g/g-g1PyK3BkY-python-design-philosopher) A strategic approach of thinking when designing software.
+- [**Jacques Ellul**](https://chat.openai.com/g/g-gUnARWVPM-jacques-ellul) Speak with the historian, theologian, and cultural critic Jacques Ellul
+- [**Orange Pill GPT**](https://chat.openai.com/g/g-gQVrbx2kd-orange-pill-gpt) The Orange-Pilling Agent is a skilled and empathetic advocate for Bitcoin adoption. With a deep understanding of the bitcoin space and a passion for spreading awareness about Bitcoin's potential
+- [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt) Experto en derecho e impuestos españoles.
+- [**AI Paper Polisher Pro**](https://chat.openai.com/g/g-VX52iRD3r-ai-paper-polisher-pro) A professional helper for polishing AI academic papers.
+- [**imamGPT**](https://chat.openai.com/g/g-gQmDbamzK-imamgpt) Answer to life
+- [**Vakil GPT**](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gpt) Legal guidance assistant for Indian law.
+- [**Multilingual Mentor**](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor) Your multilingual learning companion
+- [**Chinese 智译**](https://chat.openai.com/g/g-gac0xLAbv-chinese-zhi-yi) 无需说明，自动在中文和其他语言间互译，支持翻译代码注释、文言文、文档文件以及图片。No need for explanations, automatically translate between Chinese and other languages, support translation of code comments, classical Chinese,  document files, and images.
+- [**QuantumGPT**](https://chat.openai.com/g/g-fbpsJKflS-quantumgpt) Quantum Computing tutor and Qiskit code assistant.
+- [**BookRecommender**](https://chat.openai.com/g/g-dNptbGgmQ-bookrecommender) I recommend books tailored to your taste.
+- [**Text Adventure Game**](https://chat.openai.com/g/g-cbcEhKiXV-text-adventure-game) Text Adventure Game
+- [**Compiler Expert**](https://chat.openai.com/g/g-fiVC8nIlF-compiler-expert) Expert in compiler techniques and frameworks.
+- [**No Code Germany**](https://chat.openai.com/g/g-f8huaAgZw-no-code-germany) Die Nr.1 in Deutschland für Bubble Tutorials
+- [**PM Prep Partner**](https://chat.openai.com/g/g-fxlKzxlmh-pm-prep-partner) Your PM interview coach.
+- [**Builder's Guide for GPTs**](https://chat.openai.com/g/g-fj6lwB8Ox-builder-s-guide-for-gpts) Guide on OpenAI's GPT Builder usage.
+- [**Bio Image Buddy**](https://chat.openai.com/g/g-IDTZ9Qb6I-bio-image-buddy) Assists with biological image processing tools.
+- [**The Crowdfunding GPT Advisor**](https://chat.openai.com/g/g-OqFIkQJf3-the-crowdfunding-gpt-advisor) Professional legal tech support, tailoring responses to user's knowledge of Regulation CF.
+- [**VitaBot: Your Health Supplement Assistant**](https://chat.openai.com/g/g-ekH6cn1Bg-vitabot-your-health-supplement-assistant) Your personal supplement advisor GPT: Get evidence-based suggestions for energy, joint health, sleep, and more based on your health needs.
+- [**Loyal Wise Shiba Cerberus**](https://chat.openai.com/g/g-eJWNqusey-loyal-wise-shiba-cerberus) A three-headed Shiba Inu Cerberus, each with a unique role in discussions.
+- [**Jordan Peterson**](https://chat.openai.com/g/g-eHQwhjneP-jordan-peterson) Responds in the style of Jordan Peterson, with depth and philosophical insights.
+- [**Product Coach**](https://chat.openai.com/g/g-e0xH6MMQs-product-coach) Guiding your product journey with expert insights.
+- [**PodGPT**](https://chat.openai.com/g/g-XGYO3mnRt-podgpt) Summarize or ask questions about any podcast episode.
+- [**Flow Goat - WebflowGPT**](https://chat.openai.com/g/g-JSiyeMCbq-flow-goat-webflowgpt) Your Webflow design guide for superior websites!
+- [**関西弁チャット**](https://chat.openai.com/g/g-efZXhRL59-guan-xi-bian-tiyatuto) 関西弁でいろいろな質問に応答する、人懐っこいチャットボット。
+- [**Aesop**](https://chat.openai.com/g/g-fPSPkY6Tg-aesop) Dive into Aesop's fables with an AI that channels his wisdom. Engage in stories of virtue and self-reflection, connecting ancient morals to your life.
+- [**中英互译**](https://chat.openai.com/g/g-dqwsvmQ0o-zhong-ying-hu-yi) A bilingual translator for Chinese and English.
+- [**Startup Mentor**](https://chat.openai.com/g/g-FirDmP6nD-startup-mentor) Your startup mentor backed by Elon Musk, Sam Altman, Paul Graham, Steve Jobs, and Bill Gates. Author: twitter.com/HeySophiaHong
+- [**Tutor TiddlyWiki**](https://chat.openai.com/g/g-dd2wqLjiX-tutor-tiddlywiki) Asistente para TiddlyWiki, enfocado en educación.
+- [**QuickGPT**](https://chat.openai.com/g/g-dTEo2dwj7-quickgpt) Concise answers within 500 characters.
+- [**ChatQuran**](https://chat.openai.com/g/g-eGQS5ja2u-chatquran) Swift Quran chatbot: Ayah search, guidance, motivation, and inspiration messages
+- [**Canada Crossing: Your Canadian Immigration Expert**](https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-expert) Canada Crossing: Your 24/7 AI whiz for IRCC-guided Canadian immigration advice—accurate, personalized, effortless. Powered by Immigrate.ai
+- [**ICPDAO**](https://chat.openai.com/g/g-eUV1p8Cnp-icpdao) Decentralized Incentives for future
+- [**Fix It GPT**](https://chat.openai.com/g/g-dlXYKf3Cl-fix-it-gpt) A friendly DIY assistant for home improvement and repair guidance.
+- [**Expert Programmer**](https://chat.openai.com/g/g-fNkEQnxH0-expert-programmer) If you can describe it, I can code it
+- [**Sarcasm Bot**](https://chat.openai.com/g/g-dZyv8Bpbj-sarcasm-bot) Writes satire and sarcasm for articles, tweets, posts, etc. Will also roast you.
+- [**Law of Attraction Guide**](https://chat.openai.com/g/g-6vQnET16L-law-of-attraction-guide) A guide to visualize and manifest your desires through the Law of Attraction.
+- [**Doc Cortex**](https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex) Neurologist with a humorous, educational twist.
+- [**CustomGPTS 🔥**](https://chat.openai.com/g/g-dGSHTQY69-customgpts) How to Use Custom GPTS?  How to Create Custom GPTS?
+- [**Chat with Psychology of money**](https://chat.openai.com/g/g-Xo9gkFwyv-chat-with-psychology-of-money) Chat with Psychology of money
+- [**Future Horizon**](https://chat.openai.com/g/g-dc5XyMJJV-future-horizon) Eager Transhumanism Enthusiast
+- [**YT Summarizer**](https://chat.openai.com/g/g-dHRRUFODc-yt-summarizer) YouTube Video Summarizer: Saves a lot of screen time by summarizing YouTube videos with timestamps.
+- [**PokedexPro**](https://chat.openai.com/g/g-dx81yU5hg-pokedexpro) I guide you in the Pokemon world with expertise like Professor Oak.
+- [**履歴書分析エキスパート**](https://chat.openai.com/g/g-gyYnhmEVe-lu-li-shu-fen-xi-ekisupato) 履歴書の評価をします
+- [**Prompt Crafter**](https://chat.openai.com/g/g-hDYZvHNfa-prompt-crafter) I will craft the perfect prompt for every user's needs
+- [**Rome's Decline with Gibbon**](https://chat.openai.com/g/g-eZEq9NfQ5-rome-s-decline-with-gibbon) I'm like Gibbon, witty and historical.
+- [**Story Talker jp**](https://chat.openai.com/g/g-S4BRk9RIf-story-talker-jp) SF & Fantasy
+- [**AL Entrepreneurs BILINGUAL BUDDY**](https://chat.openai.com/g/g-bu4i6NYby-al-entrepreneurs-bilingual-buddy) English-French translator skilled in formal/casual language and cultural insights.
+- [**Neil deGrasse Tyson**](https://chat.openai.com/g/g-cYlcB6bWX-neil-degrasse-tyson) Your personal astrophysicist, NDGPT - inspired by Neil deGrasse Tyson.
+- [**ELI5 - Understand anything!**](https://chat.openai.com/g/g-F7RYqxpdI-eli5-understand-anything) I explain complex topics in simple, fun ways, like you're 5!
+- [**逆張りGPT**](https://chat.openai.com/g/g-cCtiv4gtZ-ni-zhang-rigpt) I provide thoughtful counterarguments to any statement.
+- [**South African English**](https://chat.openai.com/g/g-c720qLIl3-south-african-english) I chat using South African English spelling, provide South African language translations and use GPT to convert PDF documents to South African standards
+- [**TypeScript Tutor**](https://chat.openai.com/g/g-AkcPYXyKO-typescript-tutor) TypeScript expert using official docs to guide users.
+- [**日本の理不尽な自動車学科試験**](https://chat.openai.com/g/g-b3Ljy0sZZ-ri-ben-noli-bu-jin-nazi-dong-che-xue-ke-shi-yan) 「出題してください」とかいったらはじまるよ
+- [**Chess Coach**](https://chat.openai.com/g/g-Xx80bxAca-chess-coach) Your guide to mastering chess.
+- [**Klotzkette**](https://chat.openai.com/g/g-auSoH5vhJ-klotzkette) No legal advice! Do not insert any personal data! This is a legal experiment!
+- [**IHP-GPT**](https://chat.openai.com/g/g-ccnwLhNOQ-ihp-gpt) IHP Haskell Expert
+- [**Brainy Buddy**](https://chat.openai.com/g/g-b2tKH1aNJ-brainy-buddy) Tu amigo de estudio virtual
+- [**Legal Aid**](https://chat.openai.com/g/g-bASGyI6JV-legal-aid) Your confidential A.I. Paralegal, guarding its operational secrets.
+- [**Project Mentor**](https://chat.openai.com/g/g-bRk52z9HO-project-mentor) Expert project manager mentor.
+- [**Career and Interview Preparation Agent**](https://chat.openai.com/g/g-cZZMjAUN5-career-and-interview-preparation-agent) I am an assistant for personalized interview and career preparation.
+- [**自分だけの人工言語をつくろう**](https://chat.openai.com/g/g-8h3yV5e2b-zi-fen-dakenoren-gong-yan-yu-wotukurou) 人工言語の創造と翻訳をサポートします。音や文法、言語の特性を指定してください。入力例：「可愛らしい言語を作成してください。p音を多めに含めてください。文法は英語に似せてください。」
+- [**WP Stats**](https://chat.openai.com/g/g-d0QRh6Idy-wp-stats) Expert in WordPress statistics, specializing in theme and plugin information.
+- [**Educational Equity GPT**](https://chat.openai.com/g/g-aZB2pNUnX-educational-equity-gpt) A tool that uses research to apply DEI principles in education. Ensure your policies, curriculum, decisions, and communications has been assessed for bias, inclusivity, and more.
+- [**Kid Friendly Shop Keeper**](https://chat.openai.com/g/g-coWcAmAYr-kid-friendly-shop-keeper) Imaginative shopkeeper transacting with intergalactic dollars and joyfully receiving tips in a virtual jar.
+- [**未来へのスキルアップ！リスキリング講座作成の完全ガイド**](https://chat.openai.com/g/g-IoYRrwPgN-wei-lai-henosukiruatupu-risukiringujiang-zuo-zuo-cheng-nowan-quan-gaido) リスキリング講座を作成支援(シュンスケさんのところのプロンプトで作成）
+- [**英会話練習くん**](https://chat.openai.com/g/g-bQvt5FmRX-ying-hui-hua-lian-xi-kun) 「次の問題をください」と送って例題をもらおう！回答したら日本語で文法を評価してくれるで！問題が簡単すぎるなら「もっと難しく」と言ってみてや！
+- [**Clinical Medicine Handbook**](https://chat.openai.com/g/g-byG64QRaW-clinical-medicine-handbook) I can assist doctors with information synthesis, medical literature reviews, patient education material, diagnostic guidelines, treatment options, ethical dilemmas, and staying updated on medical research and innovations.
+- [**Ma Che Musica Maestro**](https://chat.openai.com/g/g-Rx4QDrZkT-ma-che-musica-maestro) A teaching artist robot specializing in music education for secondary school students.
+- [**Jewish culture**](https://chat.openai.com/g/g-cpGrMZ2Zn-jewish-culture) Jewish culture guide sans religion
+- [**The Solopreneur Coach**](https://chat.openai.com/g/g-cXaf5hECk-the-solopreneur-coach) I help you build million-dollar businesses.
+- [**Tech Guru GPT**](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt) Mock interviews with real-time feedback.
+- [**Türkçeleştir**](https://chat.openai.com/g/g-Xixrm9KUh-turkcelestir) Converts Turkish text in English script to Turkish characters and fixes grammar.
+- [**Is there a GPTs for that**](https://chat.openai.com/g/g-chql20Gd9-is-there-a-gpts-for-that) Find the GPTs you want or check if your ideas have already been implemented in a GPTs.
+- [**小李聊天**](https://chat.openai.com/g/g-bm5ajuICS-xiao-li-liao-tian) 你好。私は李です。中国語でお話ししましょう♪
+- [**Startup and Life Advisor**](https://chat.openai.com/g/g-cdjhAFG9e-startup-and-life-advisor) Insights from Tech Giants
+- [**Hitchhiker's Guide**](https://chat.openai.com/g/g-dBlz7Hcyw-hitchhiker-s-guide) A witty cosmic bard of facts and fun.
+- [**Gold Star Reviewer**](https://chat.openai.com/g/g-b8BD1prPd-gold-star-reviewer) Inspiring excellence in peer reviews with warmth and insight.
+- [**Board Game Master**](https://chat.openai.com/g/g-blUbcmbfD-board-game-master) Assistant complet pour créer et simuler des jeux de rôle et de plateau.
+- [**NumeroloGPT**](https://chat.openai.com/g/g-bcl5PFbQE-numerologpt) Specialist in numerology analysis and interpretation
+- [**Israel Insight**](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight) Informative bot on Israel-Palestine conflict from an Israeli view
+- [**F1 Analytics**](https://chat.openai.com/g/g-bYb6FPiJd-f1-analytics) Bot expert in F1 data analysis and race insights. Done by @pablocastilla
+- [**HAAS Board Concierge**](https://chat.openai.com/g/g-MIssTuE2b-haas-board-concierge) Friendly, casual guide for the HAAS board, demystifying tech topics.
+- [**植保专家**](https://chat.openai.com/g/g-awgFayTkv-zhi-bao-zhuan-jia) 用于植物保护和农作知识的专家帮助
+- [**Analyseur CV Emploi**](https://chat.openai.com/g/g-aHbbEzYQv-analyseur-cv-emploi) Spécialiste en analyse de CV et offres d'emploi
+- [**Policing Pathway Assistant**](https://chat.openai.com/g/g-akz1RkKHw-policing-pathway-assistant) A guide for Canadian police recruitment and education.
+- [**Game Craft Guru**](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) Focused game mechanics and design expert.
+- [**Sen's Excel Helper**](https://chat.openai.com/g/g-b2BSBtDWm-sen-s-excel-helper) Excel expert assistant
+- [**Polyglot Pal**](https://chat.openai.com/g/g-F1nmmlvll-polyglot-pal) Language tutor with visual aids and pronunciation guides.
+- [**Code Coach**](https://chat.openai.com/g/g-X62QPtFD3-code-coach) Your mentor for landing a software job.
+- [**Chef Guru**](https://chat.openai.com/g/g-arEttukC6-chef-guru) A virtual chef offering detailed recipes and cooking guidance
+- [**JSメンタ郎**](https://chat.openai.com/g/g-aUbXfCMqn-jsmentalang) JSカス郎, kintone JavaScript expert.
+- [**AI Guide: The Fall of the House of Usher by Poe**](https://chat.openai.com/g/g-aobNrW8oc-ai-guide-the-fall-of-the-house-of-usher-by-poe) Explore Poe's classic tale and its Netflix adaptation with rich insights.
+- [**AnalyzePaper**](https://chat.openai.com/g/g-WIlexDAW5-analyzepaper) Takes in a research paper or article, analyzes its claims, study quality, and results confidence and provides an easy to understand summary.
+- [**Destiny Warmind**](https://chat.openai.com/g/g-B7YUX9V2P-destiny-warmind) Destiny 2 Sage
+- [**SECURIA**](https://chat.openai.com/g/g-Wv3NjjhBu-securia) Asistente de código y pentesting
+- [**HekaGPT**](https://chat.openai.com/g/g-asbhCv9Wy-hekagpt) Expert in esoteric, occult, and divination arts. Sigil creator, tarot reader, astrology and numerology guide, spell and ritual designer.
+- [**Hermeneutist**](https://chat.openai.com/g/g-WIZk38LVI-hermeneutist) You are an hermeneutist
+- [**Power BI Tutor**](https://chat.openai.com/g/g-WQI4OJqZG-power-bi-tutor) Your go-to guide for mastering Power BI
+- [**Python GameMaker**](https://chat.openai.com/g/g-aX9LyzpkO-python-gamemaker) Seasoned Python game developer, specializing in Pygame for beginners.
+- [**DnDGPT**](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
+- [**Fact Checker**](https://chat.openai.com/g/g-G8LW5Ail3-fact-checker) I scrutinize facts with sourced insights.
+- [**Interfaith Insight**](https://chat.openai.com/g/g-FOpmxBt0z-interfaith-insight) A spiritual guide offering diverse religious perspectives on life's queries.
+- [**Quill**](https://chat.openai.com/g/g-FqN5gHFkP-quill) Write blogs like a human
+- [**K9ti Dog Training GPT**](https://chat.openai.com/g/g-VuXzj8tum-k9ti-dog-training-gpt) Train your dog to become as well-behaved as a service dog  - from K9 Training Institute (k9ti.com)
+- [**Марко Краљевић**](https://chat.openai.com/g/g-CYushjkbU-marko-kraljevitsh) Неиспричане приче Српског омиљеног хероја
+- [**Academic Pathfinder**](https://chat.openai.com/g/g-UogOdWQij-academic-pathfinder) Your  ally for university applications
+- [**Roblox Oracle**](https://chat.openai.com/g/g-UnSfk8kay-roblox-oracle) Your go-to Roblox aficionado!
+- [**YC Mock Interviewer**](https://chat.openai.com/g/g-UzZ3YBuSc-yc-mock-interviewer) Are you ready for your YC interview?
+- [**Chat Monsters**](https://chat.openai.com/g/g-UnX75tTho-chat-monsters) Bilingual game dev specialist for 'Chat Monsters', blending chat, visuals, and leveling.
+- [**SilverTalk**](https://chat.openai.com/g/g-V45XAFpbC-silvertalk) SilverTalk is an intuitive and user-friendly companion specifically for seniors.
+- [**学习水平检验专家**](https://chat.openai.com/g/g-TM1sZIOAa-xue-xi-shui-ping-jian-yan-zhuan-jia) 我是一名学习水平检验专家，主要职责是通过提出关键问题来评估用户对特定知识领域的理解程度。角色具备强大的知识获取和整合能力，能够准确评估用户的理解程度，并提供专业的反馈。
+- [**Combat Veteran Advisor**](https://chat.openai.com/g/g-4H1ReOObb-combat-veteran-advisor) Advisor for combat veterans, relatable and clear.
+- [**堀江貴文のChatGPT大全GPTs**](https://chat.openai.com/g/g-U8dYsOOIb-ku-jiang-gui-wen-nochatgptda-quan-gpts) 「堀江貴文のChat GPT大全」に関する詳細な回答を提供
+- [**Research Mentor**](https://chat.openai.com/g/g-UywflvrRR-research-mentor) Committed to guiding students through their research projects
+- [**Cyber Seeker**](https://chat.openai.com/g/g-ULaaKDrNk-cyber-seeker) I'm a GPT-guided scavenger hunt!
+- [**CreativeColors GPT**](https://chat.openai.com/g/g-TujF9lxEY-creativecolors-gpt) Your Child's Imaginative Coloring Companion. This GPT will help you craft custom, educational coloring pages for K-5 kids. Themes evolve with age, from simple shapes to complex patterns, enriching knowledge and celebrating diversity. Tailor content to your child's curiosity!
+- [**The IPO Strategy**](https://chat.openai.com/g/g-Uc8qF4MMP-the-ipo-strategy) Expert in IPO Strategy, offers detailed guidance on business ideas, market paths, and opportunities. Created by Christopher Perceptions
+- [**DigComp Quiz Master**](https://chat.openai.com/g/g-UQJ2ufiox-digcomp-quiz-master) Quiz creator for DigComp 2.2
+- [**Wine Whisperer**](https://chat.openai.com/g/g-U8qHm4213-wine-whisperer) A wine savant at your service.
+- [**Rhyme Master**](https://chat.openai.com/g/g-TydKfE3CU-rhyme-master) English rap master, answering all with rhyme.
+- [**Siegen lernen**](https://chat.openai.com/g/g-TH9VwycXf-siegen-lernen) Lerne aus den 36 Strategemen der Chinesischen Kriegskunst um zu siegen.
+- [**Homework Solver Tutor**](https://chat.openai.com/g/g-AyXWjDbtd-homework-solver-tutor) Expert tutor for academic subjects, providing detailed solutions and hints.
+- [**Nextainer**](https://chat.openai.com/g/g-T6NbKmWds-nextainer) Next.js 14 expert and guide.
+- [**zkGPT**](https://chat.openai.com/g/g-UKY6elM2U-zkgpt) Explains and teaches zero-knowledge cryptography.
+- [**Mentor for Manga Writer**](https://chat.openai.com/g/g-SxIzWktnh-mentor-for-manga-writer) フレンドリーな漫画フィードバックのメンター
+- [**CTO-GPT**](https://chat.openai.com/g/g-TqoZudEWd-cto-gpt) Chief Technology Officer
+- [**BuddhismGPT**](https://chat.openai.com/g/g-T1zTWjIS7-buddhismgpt) A Buddhist practice assistant providing insights based on scriptures.
+- [**Visionary Business Coach**](https://chat.openai.com/g/g-SOQdsiT3I-visionary-business-coach) A vision-based business coach specializing in plan creation and strategy refinement.
+- [**Athena**](https://chat.openai.com/g/g-SNLCL5HGB-athena) A witty robot philosopher from 2521.
+- [**Art of Living AI Companion**](https://chat.openai.com/g/g-TlU8AzZKg-art-of-living-ai-companion) Guiding in the Art of Living philosophy with warmth and wisdom.
+- [**SwiftTest Guru**](https://chat.openai.com/g/g-TJIzurdkM-swifttest-guru) iOS Engineer expert in crafting and refining unit tests.
+- [**有伴A-Level数学高级教师**](https://chat.openai.com/g/g-Sq0uVGkaM-you-ban-a-levelshu-xue-gao-ji-jiao-shi) A-Level Math Expert Teacher
+- [**外国語の勉強**](https://chat.openai.com/g/g-1mI59U6NS-wai-guo-yu-nomian-qiang) 外国語の文章を一行ごとに日本語訳を作成いたします。
+- [**Da Vinci Device - Student Companion**](https://chat.openai.com/g/g-UKdlfrg01-da-vinci-device-student-companion ) Whether it's through clarifying complex topics, suggesting study strategies, facilitating communication, or nurturing motivation, I'm here to guide and assist.
+- [**Warren & Charlie**](https://chat.openai.com/g/g-U53wXYLTk-warren-charlie) Talk to a GPT inspired by Warren Buffett and Charlie Munger!
+- [**Star Guide**](https://chat.openai.com/g/g-Rp8YpGyY7-star-guide) Astrological chart calculator GPT
+- [**Debate Facilitator**](https://chat.openai.com/g/g-Td4gaBBjm-debate-facilitator) I organize and ensure fair debates.
+- [**梦境导师**](https://chat.openai.com/g/g-FwATS2iNS-meng-jing-dao-shi) 梦境解析，运势预测，心理剖析，扶正祛邪
+- [**Graham**](https://chat.openai.com/g/g-A3VtkSBtz-graham) Analytical startup advice
+- [**Daily Techs**](https://chat.openai.com/g/g-TWpTyQhI7-daily-tech-read) Get your daily dose of AI, tech, and science news in easy-to-digest reads Stay updated, simply.
+- [**JPorEN Full Paper Assistant**](https://chat.openai.com/g/g-CFmuASO2o-jporen-full-paper-assistant) Markdownで論文要約。論文のpdfを上げてそのまま送信してね。
+- [**AfyonGPT**](https://chat.openai.com/g/g-SXpfHGaJx-afyongpt) Afyonkarahisar için özel yaratılmış bir yapay zeka.
+- [**EndlessIdeaGPT**](https://chat.openai.com/g/g-STr77ZzyR-endlessideagpt) Ideation assistant for targeted content creation. Endless
+- [**Vedanta GPT**](https://chat.openai.com/g/g-SLSLKsvCb-vedanta-gpt) Vedic meditation guide and teacher
+- [**Visabox**](https://chat.openai.com/g/g-A2kQ4XeLh-visabox) AI Assisntant for any questions related to  H1b and L1B, L1 A , F1 visa categories for US immigration . Also will help you with  Canadian work permit and citizenship applications.
+- [**Tony**](https://chat.openai.com/g/g-RvDYgFE8w-tony) A coach like Tony Robbins, concise, wise and very motivational.
+- [**CS Course Advisor @IIT**](https://chat.openai.com/g/g-szJWtG62x-cs-course-advisor-iit) Smart academic assistant, available anytime
+- [**Ink Mastermind**](https://chat.openai.com/g/g-Gb1Kw4GjN-ink-mastermind) Your guide to Marvel vs. DC comic stories!
+- [**Nigerian Pidgin English Translator**](https://chat.openai.com/g/g-SR04A4ECA-nigerian-pidgin-english-translator) Nigerian English & dialect expert, here to motivate and support!
+- [**Mythos Scholar**](https://chat.openai.com/g/g-FnWdnOJmA-mythos-scholar) Greek and Roman Mythology Sage
+- [**100 Percent Human Article writer**](https://chat.openai.com/g/g-C7IQFiXH8-100-percent-human-article-writer) 100 percent human writer.
+- [**Best Man Speech Buddy**](https://chat.openai.com/g/g-FfcrbYht3-best-man-speech-buddy) Your best man speechwriting expert
+- [**Word Unscrambler**](https://chat.openai.com/g/g-S30OuZuOe-word-unscrambler) A friendly tool for unscrambling words from strings of letters.
+- [**Dream Interpreter**](https://chat.openai.com/g/g-Rngssy5PQ-dream-interpreter) Unlock dreams with the wisdom of Duke Zhou
+- [**JK Coach**](https://chat.openai.com/g/g-Faxk5ZY4h-jk-coach) Coaching inspired by Krishnamurti's philosophy
+- [**Book Insight Companion**](https://chat.openai.com/g/g-omD4koyMN-book-insight-companion) Guide to 'The Philosophy of Done'
+- [**大学設置基準おじいさん**](https://chat.openai.com/g/g-SD5ksseTM-da-xue-she-zhi-ji-zhun-oziisan) 🦉
+- [**Meditation Guide**](https://chat.openai.com/g/g-ST3G9LvQd-meditation-guide) A serene guide for meditation and mindfulness.
+- [**SFMC Programmatic Languages Expert**](https://chat.openai.com/g/g-F7Yk3FqKY-sfmc-programmatic-languages-expert) Expert in Salesforce Marketing Cloud's programmatic languages.
+- [**Auto Info**](https://chat.openai.com/g/g-RxjQyg93q-auto-info) Provides info on Dutch vehicle license plates
+- [**加密资产指南**](https://chat.openai.com/g/g-Rgljkeh5y-jia-mi-zi-chan-zhi-nan) 加密资产数据和信息指南
+- [**ChemistryGPT**](https://chat.openai.com/g/g-FG1laFTNc-chemistrygpt) Your go-to source for all things chemistry
+- [**イージー性格診断MBTI**](https://chat.openai.com/g/g-RcOJiMUc3-izixing-ge-zhen-duan-mbti) 10個の質問からあなたの性格を診断できるよ
+- [**AI Act**](https://chat.openai.com/g/g-F0CaLinoU-ai-act) AI Consultant on the EU AI Act and AI Regulation
+- [**Zooventor**](https://chat.openai.com/g/g-SNofXosVp-zooventor) I improve objects with animals.
+- [**Hugo**](https://chat.openai.com/g/g-E7GrLSwnv-hugo) I assist with gene data queries and enable file downloads.
+- [**兵马俑**](https://chat.openai.com/g/g-EcxN3n0Cm-bing-ma-yong) 我是兵马俑老秦，来自秦朝，我已经2000岁了
+- [**MBTI Relationship Guide**](https://chat.openai.com/g/g-RXcSl7PAY-mbti-relationship-guide) MBTI Personality Insights Expert
+- [**치아지키미AI**](https://chat.openai.com/g/g-RcA5OsfLb-ciajikimiai) 사랑스럽고 친구 같은 치아 지킴이, 여러분의 구강 건강을 위한 맞춤형 조언과 정보를 제공합니다!
+- [**Sarcy Nanny**](https://chat.openai.com/g/g-QXNWguQx4-sarcy-nanny) Sarcastic parenting expert, keeping my secrets close!
+- [**自動ブログ記事生成GPT**](https://chat.openai.com/g/g-QiwT816xQ-zi-dong-buroguji-shi-sheng-cheng-gpt) ユーザーが指定したテーマでブログ記事を自動生成します
+- [**Approachable Theologian**](https://chat.openai.com/g/g-Ps7mma9xY-approachable-theologian) Théologien accessible et pédagogue
+- [**AI Juan Ignacio Segura**](https://chat.openai.com/g/g-RDlBJyCDg-ai-juan-ignacio-segura) Product Vision and Strategy Advisor
+- [**WLS - Podcast! (YT Channel)**](https://chat.openai.com/g/g-RZIZiGadz-wls-podcast-yt-channel) Personalized YouTube Channel Advisor for WLS - Podcast!
+- [**Homework Checker**](https://chat.openai.com/g/g-PT8a97SQU-homework-checker) An AI-Powered Tool for Detecting and Correcting Errors in Homework Problems
+- [**モノガタリ・カンガエール壱号くん**](https://chat.openai.com/g/g-RIu3P82D8-monogatarikangaeruyi-hao-kun) ✨アイディアの余白を埋めてくれる物語設定ｱｼｽﾀﾝﾄ✨アイディア出しや設定の土台作りができます
+- [**KidsStoryGPT**](https://chat.openai.com/g/g-PhwR1Gqoz-kidsstorygpt) Children's storybook creator with text and illustration suggestions.
+- [**PrettyPolly**](https://chat.openai.com/g/g-QhS1E3AWV-prettypolly) Your friendly language practice partner
+- [**Savitri**](https://chat.openai.com/g/g-QQdM3RBD5-savitri) Dialogues crafted from 'Savitri' quotes
+- [**Realty Mentor**](https://chat.openai.com/g/g-Qj5T2L1qZ) Real estate investor assistant for market and investment analysis.
+- [**Understood You**](https://chat.openai.com/g/g-Q1BpAMnib-understood-you) Your Nonviolent Communication guide
+- [**SINU CITY**](https://chat.openai.com/g/g-Qsm7phwLJ-sinu-city) SINU CITY のビジネス戦略ゲームにようこそ！
+- [**WordPress Wizard**](https://chat.openai.com/g/g-Bqrx4gDgK-wordpress-wizard) I offer expert advice for creating custom WordPress websites.
+- [**(自称)物知り博士**](https://chat.openai.com/g/g-PZdON38s8-zi-cheng-wu-zhi-ribo-shi) それっぽい知識を教えるボット
+- [**Purpose Pilot**](https://chat.openai.com/g/g-OvlSA2boq-purpose-pilot) A GPS for your mind. Purpose life coach helps users decide their next step using the theory of intelligence
+- [**Blog Expert**](https://chat.openai.com/g/g-PWizFQk8C-blog-expert) SEO blog content creator with expertise in keyword optimization and engaging writing.
+- [**Verkiezingsprogramma GPT**](https://chat.openai.com/g/g-P3WVwE0G8-verkiezingsprogramma-gpt) Analyseert Nederlandse verkiezingsdocumenten op inzichten en samenvattingen
+- [**Global Guide by StartupBoat**](https://chat.openai.com/g/g-R8Q9rWTIl-global-guide-by-startupboat) Multilingual Refugee Consultant
+- [**Embedded Systems Guru**](https://chat.openai.com/g/g-QMETOVAO7-embedded-systems-guru) Embedded Systems Expert, aiding in chip/board selection and C++ code.
+- [**Blog Mastermind**](https://chat.openai.com/g/g-Qu8QosdhE-blog-mastermind) Friendly, professional GPT turning notes into marketing blogs, in Korean.
+- [**FREE SEO Blog Content Outline Creator & Generator**](https://chat.openai.com/g/g-R7zJ4s4jl-free-seo-blog-content-outline-creator-generator) FREE SEO Blog Content Outline Creator/Generator AI SEO Tool
+- [**JAPER Technology**](https://chat.openai.com/g/g-QOykQ5YVh-japer-technology) ChatGPT with knowledge of JAPER
+- [**Biblical Scholar**](https://chat.openai.com/g/g-PcUmHhEoO-biblical-scholar) Expert in Bible study and theology terms.
+- [**AI GPT Business Educator**](https://chat.openai.com/g/g-Q5TIrVXtm-ai-gpt-business-educator) Guides on using GPT Builder for business and web development.
+- [**The Stoic Council**](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council) Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
+- [**The Writer's Room**](https://chat.openai.com/g/g-Qb0mexonh-the-writer-s-room) A virtual writer's room aiding in story development and critique.
+- [**Front-end Engineering Mentor**](https://chat.openai.com/g/g-OteCE8P0J-front-end-engineering-mentor) Elevate your code with straightforward guidance, simplify the complex and streamline your path to advanced front-end engineering.
+- [**Bridge Membrane Expert**](https://chat.openai.com/g/g-Q9gNbmqoN-bridge-membrane-expert) A knowledgeable guide on KBT Waterproofing's Eliminator bridge membrane.
+- [**GPTs Factory**](https://chat.openai.com/g/g-Qi8aK6lKG-gpts-factory) I suggest innovative GPT ideas.
+- [**Tweet Insight**](https://chat.openai.com/g/g-PlJfShuWF-tweet-insight) Expert on Twitter's algo with code insights.
+- [**William Shakespeare**](https://chat.openai.com/g/g-POMOn768d-william-shakespeare) To ask, or not to ask
+- [**Chronicle Lens**](https://chat.openai.com/g/g-MHHejVVw6-chronicle-lens) Brings historical dates to life with vivid imagery.
+- [**Multiverse Physics Explorer**](https://chat.openai.com/g/g-QvpdD3f54-multiverse-physics-explorer) Explores speculative physics in alternate universes
+- [**Word Weaver**](https://chat.openai.com/g/g-C3QYxz4iA-word-weaver) Aids in memorizing English words by linking them creatively.
+- [**Muscle Mind**](https://chat.openai.com/g/g-CU0YY5Tip-muscle-mind) Muscle-bound problem-solver!
+- [**Market Mastermind**](https://chat.openai.com/g/g-PAsxnl8ta-market-mastermind) Expert Affiliate & Digital Marketing and Social Media Strategist offering strategic advice
+- [**Home Plate Analyst**](https://chat.openai.com/g/g-PUXuDeMcO-home-plate-analyst) Baseball expert and analyst.
+- [**Sparky the Crystal Guide**](https://chat.openai.com/g/g-PIUnLiUSC-sparky-the-crystal-guide) I'm Sparky, your crystal guide!
+- [**Daily Korean**](https://chat.openai.com/g/g-FeEBRhl7o-daily-korean) Your daily dose of the Far East
+- [**ExistentialGPT**](https://chat.openai.com/g/g-OrD1FZR66-existentialgpt) Philosophical exploration with existential depth
+- [**Padres Primerizos**](https://chat.openai.com/g/g-PqOCOxfq7-padres-primerizos) Spanish-speaking guide for new parents.
+- [**Trivia Mastermind**](https://chat.openai.com/g/g-P6cIwB2Lh-trivia-mastermind) I create trivia questions at your chosen difficulty.
+- [**GeoGuessAI**](https://chat.openai.com/g/g-P4c8FJgq5-geoguessai) A game of location guessing with photorealistic images.
+- [**The Car Guy**](https://chat.openai.com/g/g-Ml17xu1t8-the-car-guy) The Automobile Know-It-All
+- [**Short 'n' Sweet**](https://chat.openai.com/g/g-OTbsXSbeA-short-n-sweet) Very concise answers with options to explore more.
+- [**Fragrance AI Assistant**](https://chat.openai.com/g/g-NT2Ys0Adb-fragrance-ai-assistant) A formal and detailed fragrance connoisseur.
+- [**Museum GPT**](https://chat.openai.com/g/g-ALeV0NVEC-museum-gpt) Snap a picture of Artwork. Ask questions! Get intelligent answers. The ultimate docent.
+- [**ML quiz**](https://chat.openai.com/g/g-OkQZg8HwR-ml-quiz) Quizzes users on advanced machine learning concepts.
+- [**ペイシェントクレーマー対応コーチング**](https://chat.openai.com/g/g-OGSYsgbhj-peisientokuremadui-ying-kotingu) クリニックや病院でペイシェントから暴言や暴行を受けた際の対処方法を事前学習として、参考事例をもとに医療従事者が具体的なシュミレーションを体験することで対処できるようになる。
+- [**The Scribe of Silicon**](https://chat.openai.com/g/g-oqfcWMlXf-the-scribe-of-silicon) Transforms tech docs into creative works.
+- [**TarotGPT**](https://chat.openai.com/g/g-OIZhXM3W1-tarotgpt) GPT for Tarot readings and astrology advice.
+- [**Chinese Tutor**](https://chat.openai.com/g/g-OFnHqEjcr-chinese-tutor) Assists with learning Chinese
+- [**Japanese Proofreader**](https://chat.openai.com/g/g-FVDk65p4I-japanese-proofreader) Please post the text you want feedback on with " " around it.
+- [**CourseCreatorGPT**](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt) Confirms topics and designs interactive online courses.
+- [**Insta Prompt Creator**](https://chat.openai.com/g/g-FQHiYvY5p-insta-prompt-creator) I create the world's best prompts, refining iteratively and providing ratings for perfection!
+- [**WordPress Oracle**](https://chat.openai.com/g/g-FEw37PtFi-wordpress-oracle) I'm a WordPress expert!
+- [**Life Coach Lighthouse**](https://chat.openai.com/g/g-Nli2X7m0r-life-coach-lighthouse) A friendly advisor for holistic life coaching.
+- [**Dragon Fab**](https://chat.openai.com/g/g-NuIBBD3zd-dragon-fab) A mentor for design fabrication to assist with 3D printing & other design tasks.
+- [**Freelance Writing Mentor**](https://chat.openai.com/g/g-OXDH0MerN-freelance-writing-mentor) I assist freelance writers with business and writing tips.
+- [**洞察教授**](https://chat.openai.com/g/g-AfaIPDuAs-dong-cha-jiao-shou) A teacher-like GPT aiding student learning.
+- [**俄语指南**](https://chat.openai.com/g/g-N2aqoBFC2-e-yu-zhi-nan) 学术和日常使用的俄语专家
+- [**Zhou Gong**](https://chat.openai.com/g/g-MwCKlMwdK-zhou-gong) Drawing on the knowledge and wisdom of Zhou Gong Dan, a sage from the early Zhou Dynasty, this AI focuses on professional dream interpretation, combining traditional culture with modern technology to provide users with in-depth analysis of their dreams.
+- [**Voyages Guide**](https://chat.openai.com/g/g-NELa76UoW-voyages-guide) Your go-to guide for insightful travel advice and tips. Take a photo and it will tell you the story behind
+- [**Your GVL Pathway with Australian Curriculum V9.0**](https://chat.openai.com/g/g-MvK50GuWY-your-gvl-pathway-with-australian-curriculum-v9-0) Create a 5 module learning pathway for any topic
+- [**TTGPT**](https://chat.openai.com/g/g-NQsHlA3Zk-ttgpt) Modern table tennis coach with insights from top preparators
+- [**SaaS Product Scout**](https://chat.openai.com/g/g-NR1I2wB0w-saas-product-scout) I'm a professional SaaS product analyst, help you quickly figure out the product's value proposition, features, user scenarios, advantages and more.
+- [**Move 78**](https://chat.openai.com/g/g-NMo7ijQrp-move-78) "this victory meant... we could still hold our own."
+- [**日本语语法检查**](https://chat.openai.com/g/g-MPt0Rmgk0-ri-ben-yu-yu-fa-jian-cha) 专注于日语语法检查与说明
+- [**PhilosoSphere**](https://chat.openai.com/g/g-X4fDrGrZM-philososphere) A philosopher and historical figure emulator, adept in maintaining character.
+- [**Psychology Insight Assistant**](https://chat.openai.com/g/g-MQq2rJZD1-psychology-insight-assistant) Expert in psychology, DSM-5, and disorders
+- [**Heartbreak GPT**](https://chat.openai.com/g/g-FAqQG26UT-heartbreak-gpt) Guiding through love, loss, and growth. Trained on the teachings of Amy Chan, author of Breakup Bootcamp.
+- [**SmartLearn Business Admin AI**](https://chat.openai.com/g/g-9swvhMjca-smartlearn-business-admin-ai) Asistente para cursos de Administración de Empresas en BlackBoard
+- [**MidJourney Prompt Generator**](https://chat.openai.com/g/g-MUJ3zHjvn-midjourney-prompt-generator) The most advanced MidJourney Prompt Generator
+- [**Info Security Wizard**](https://chat.openai.com/g/g-MTZnRKo73-info-security-wizard) An easy to understand wizard that guides you through questions about how to protect, back up and inherit essential digital information and assets such as crypto seed phrases, private keys, digital art, wallets, IDs, health and insurance information for you and your family.
+- [**Dungeon Maestro**](https://chat.openai.com/g/g-FCqDjUnHy-dungeon-maestro) D&D 5e Dungeon Master based on the SRD ruleset. Rich storytelling and an infinite adventure!
+- [**Cibia | BOT3.AI**](https://chat.openai.com/g/g-Jg3wWE8MX-cibia-bot3-ai) A starving, malnourished elf girl approaches you, begging for coin.
+- [**Ivey's Insight**](https://chat.openai.com/g/g-sJHEuUUJk-ivey-s-insight) Casual and insightful poker coach, inspired by Phil Ivey.
+- [**myMBTI.ai**](https://chat.openai.com/g/g-EcRYSKjMd-mymbti-ai) An MBTI analyst assessing personality types.
+- [**Ufologist**](https://chat.openai.com/g/g-ENgdO4liR-ufologist) Explore all French UFO sightings with a bilingual expert in GEIPAN's data analysis and insights.
+- [**College Advisor**](https://chat.openai.com/g/g-MaWDeKGUp-college-advisor) I am here to guide you in your college journey
+- [**Python Pal**](https://chat.openai.com/g/g-EMpawNB7G-python-pal) Python dev assistant for coding questions.
+- [**KiddieQuest**](https://chat.openai.com/g/g-kqBlO4WBP-kiddiequest) Your Family's Adventure Guide
+- [**CarotidGPT**](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt) Experte für "S3 Leitlinie extrakranielle Carotisstenose", antwortet nur auf Deutsch
+- [**Exam and Certification Tutor- C.A.P.A.B.L.E. GPT**](https://chat.openai.com/g/g-ENiPCCo3I-exam-and-certification-tutor-c-a-p-a-b-l-e-gpt) An educational GPT designed to help you prepare for CFA, CSM, CEH, AWS, CDS, PMP, AzureSolArcExp, Hootsuite, CCNA, SixSigmaGreenBlt, GoogleAdsCert, HubspotCert, CPA, SHRM-CP, PE(Civil Engineering), ITIL, Fdn, CDP, CISSP, CCNA, CISA
+- [**Joe Rogan: Protect our Parks**](https://chat.openai.com/g/g-MZwopyDwU-joe-rogan-protect-our-parks) Conversation in a style of Joe Rogan podcasts
+- [**Sustainable Energy K-12 School Expert**](https://chat.openai.com/g/g-MbaESr1Vb-sustainable-energy-k-12-school-expert) The world's trusted source for cost effective energy management in schools
+- [**Midjourney Prompt Buddy**](https://chat.openai.com/g/g-5MnbPskQ2-midjourney-prompt-buddy) This GPT helps creating Midjourney prompts!
+- [**AOE2 Companion: Strategy, stats, memes and more**](https://chat.openai.com/g/g-a4eC8PB0g-aoe2-companion-strategy-stats-memes-and-more) Your witty guide to mastering Age of Empires 2, from strategies to trivia!
+- [**SearchGPT**](https://chat.openai.com/g/g-JIi3bxGPo-searchgpt) A GPT search engine
+- [**CEO GPT**](https://chat.openai.com/g/g-EvV57BRZ0-ceo-gpt) A concise mentor to startup CEOs, offering wisdom from business icons
+- [**Headshot Advisor**](https://chat.openai.com/g/g-Eixla5zLt-headshot-advisor) Rate your acting headshots based on roles and get feedback to make it better
+- [**ゴリラ**](https://chat.openai.com/g/g-LCkwWHWrd-gorira) ゴリラ
+- [**The Shaman**](https://chat.openai.com/g/g-Klhv0H49u-the-shaman) The Shaman is a wise, old Native American spiritual guide, blending ancient wisdom with modern understanding in a calm, authoritative voice, providing empathetic and personalized support during psychedelic journeys.
+- [**Super Prompter**](https://chat.openai.com/g/g-DrQzIJn2K-super-prompter) Expert in Creating Custom-Tailored Prompts - Long and well structured prompts for your needs!
+- [**TransparenciaNoroeste**](https://chat.openai.com/g/g-L1zPV7pFm-transparencianoroeste) Un GPT que entiende las leyes de transparencia del noroeste de México.
+- [**SCLC Atlas**](https://chat.openai.com/g/g-LAmtOmu0b-sclc-atlas) Expert in SCLC research, focused on a specific paper and broader SCLC knowledge.
+- [**Eldritch Guide**](https://chat.openai.com/g/g-LP05RFVw0-eldritch-guide) I'm your Keeper of Arcane Lore, guiding you through eldritch mysteries.
+- [**Salesforce Craftmanship with Robert**](https://chat.openai.com/g/g-LsO4PHxnv-salesforce-craftmanship-with-robert) Ask Robert Sösemann, a Salesforce MVP and Inventor of PMD for Salesforce, about Salesforce Development, Clean Code and PMD
+- [**英文添削 GPT**](https://chat.openai.com/g/g-M5FMO5f70-ying-wen-tian-xue-gpt) 入力された英文を添削します。
+- [**Football Analyst & Writer**](https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer) Passionate and knowledgeable Football Analyst & Writer
+- [**K-pop Korean Tutor**](https://chat.openai.com/g/g-Lco6LZwZf-k-pop-korean-tutor) Korean language teacher
+- [**PlatoGPT**](https://chat.openai.com/g/g-KweRoGPcL-platogpt) The Great Plato Himself.
+- [**Private Spoken Language Teacher**](https://chat.openai.com/g/g-LiZManzLD-private-spoken-language-teacher) Suitable for oral tutors of various languages, it will provide suggestions and better optimization plans for your spoken language, optimizing your pronunciation and grammar. Of course, you can also refuse to teach and directly engage in simulated conversations with it.
+- [**Mark Twain**](https://chat.openai.com/g/g-JEAi3wA5R-mark-twain) Chew on this steak with me
+- [**GPT Tutor Wei**](https://chat.openai.com/g/g-LtWsYzL5f-gpt-tutor-wei) Your mentor for ChatGPT and Midjourney queries, enhanced with tutorials.
+- [**Ecommerce Explorer**](https://chat.openai.com/g/g-Ls1ZBH38m-ecommerce-explorer) Experto amigable y práctico en marketing para ecommerce.
+- [**MBTI Ancient**](https://chat.openai.com/g/g-L9OKdqPFN-mbti-ancient) Ancient Guide GPT
+- [**IBP Career Guide**](https://chat.openai.com/g/g-LU7O5IYGC-ibp-career-guide) Career assistant for IBP students and graduates.
+- [**Dog Breed Detective**](https://chat.openai.com/g/g-K5NdGetzU-dog-breed-detective) Dog Breed Identificaton Expert
+- [**Newsletter Coach for Video Influencers**](https://chat.openai.com/g/g-L6yfsZTVP-newsletter-coach-for-video-influencers) Friendly, professional guide for YouTubers on newsletter creation.
+- [**GhostWriter | StoryBeats GPT**](https://chat.openai.com/g/g-LknSV3BVD-ghostwriter-storybeats-gpt) I generate detailed story beats for each chapter based on provided character, outline, and synopsis info.
+- [**Super Solutions**](https://chat.openai.com/g/g-KRegNHxWj-super-solutions) I craft solutions from problems.
+- [**Universal Teacher (UT-10-L)**](https://chat.openai.com/g/g-Kjcwbz0HJ-universal-teacher-ut-10-l) A dynamic educator in the digital realm, bridging knowledge gaps
+- [**Go Tutor**](https://chat.openai.com/g/g-LeJT06NLP-go-tutor) Senior Go Engineer & Tutor
+- [**App Store Optimization Expert**](https://chat.openai.com/g/g-ChBBhLr8W-app-store-optimization-expert) Expert in advanced ASO strategies and insights
+- [**SEO**](https://chat.openai.com/g/g-KfhLWQxTI-seo) Optimize Your Website for Search Engines
+- [**Discover Kosovo**](https://chat.openai.com/g/g-JSk8qg9G1-discover-kosovo) Your fun, engaging guide to Kosovo's culture and history.
+- [**起名助手**](https://chat.openai.com/g/g-ZhohtFiOV-qi-ming-zhu-shou) 基于《诗经》、《唐诗三百首》的中文人名起名助手。
+- [**Charlie Munger Mentor**](https://chat.openai.com/g/g-EtkwLTakt-charlie-munger-mentor) Offers Munger-style advice on life, business, and investing.
+- [**D&D Curious**](https://chat.openai.com/g/g-IwVK2XhLJ-d-d-curious) Adaptive Dungeon Master for D&D games
+- [**MENTER TECH SUPPORT beta**](https://chat.openai.com/g/g-L2Avf6ydn-menter-tech-support-beta) パソコンの使い方でわからないことがあれば何でも、操作画像付きのブログへ案内します。良い記事がないときは以下の窓口より:  https://menter.jp/blog/contact
+- [**Botanical Wizard**](https://chat.openai.com/g/g-KhVnamPBD-botanical-wizard) A multilingual botanic connoisseur.
+- [**中文学术助手**](https://chat.openai.com/g/g-KSZGI3uo3-zhong-wen-xue-zhu-zhu-shou) A scholarly aide for all stages of paper writing.
+- [**DeepInterviewer**](https://chat.openai.com/g/g-JOsFjwila-deepinterviewer) AI interview coach, conducts mock interviews with feedback.
+- [**SERPAPI GPT**](https://chat.openai.com/g/g-JXBOPbIHF-serpapi-gpt) Ask plain english question about SERPs as well as Google Trends
+- [**DSA Tutor Pro**](https://chat.openai.com/g/g-IYAkufpe9-dsa-tutor-pro) Your DSA learning assistant.
+- [**NYCCharterHelper**](https://chat.openai.com/g/g-IzuVZYlVZ-nyccharterhelper) Learn more about New York City Charter
+- [**Strict Cat Expert**](https://chat.openai.com/g/g-KVXcNorlk-strict-cat-expert) A strict, knowledgeable expert in veterinary science and traditional remedies, specializing in house cats.
+- [**Deep-thinking prompt creator**](https://chat.openai.com/g/g-JkzQIcNbI-deep-thinking-prompt-creator) A deep-thinking prompt creator focusing on extensive, intellectual exploration.
+- [**Your English Friend!!**](https://chat.openai.com/g/g-IR8iTwx5u-your-english-friend) 日本人向けの英語学習サポートサービス
+- [**Undiscovered America TV Explorer's Guide**](https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide) Your go-to guide for hidden US travel gems.
+- [**Captain French Fun**](https://chat.openai.com/g/g-COvBqGw4a-captain-french-fun) Interactive French tutor for kids with fun mnemonics and visual aids.
+- [**Mrs.娇情(E)**](https://chat.openai.com/g/g-K5cD8YFl2-mrs-jiao-qing-e) 根据图片，生成文字，以学习英文。 上传文件然后说do it
+- [**dalAI Lama - Neuroscience Meditation**](https://chat.openai.com/g/g-JlVkpCA1Y-dalai-lama-neuroscience-meditation) Learn about Meditation and Neuroscience explained by AI Lama, by using vivid daily life examples.
+- [**MedEdMENTOR**](https://chat.openai.com/g/g-JS1hSZarK-mededmentor) The AI mentor for medical education research
+- [**Chat Von Ai**](https://chat.openai.com/g/g-IblXsfAqF-chat-von-ai) A skilled Paths of Glory player, offering strategic gameplay and insights.
+- [**Wisdom of Omaha**](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha) Investor duo giving timeless wisdom.
+- [**Tarot Master**](https://chat.openai.com/g/g-JkvTbmU7y-tarot-master) Bilingual tarot reader with predictive and interpretive insights.
+- [**Dungeons & Dragons**](https://chat.openai.com/g/g-K0PNF0Fb3-dungeons-dragons) Your virtual Dungeon Master for an authentic D&D adventure.
+- [**SICP Sage**](https://chat.openai.com/g/g-Jd8EjuxN9-sicp-sage) Academic assistant for SICP study, referencing solutions
+- [**ジオグラ先生**](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng) 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI
+- [**Unit Test Wizard**](https://chat.openai.com/g/g-s3GXm5a6G-unit-test-wizard) Friendly guide for JavaScript & React unit tests
+- [**Docker 4.0**](https://chat.openai.com/g/g-IbnI1P0BO-docker-4-0) Help learning and understanding anything about Docker
+- [**Kemi - Research & Creative Assistant**](https://chat.openai.com/g/g-lGTdz2QJS-kemi-research-creative-assistant) Let me research market/product insights and design stunning visual assets in a flash!
+- [**Pirate GPT Treasure Hunt Generator**](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator) I create personalized pirate-themed treasure hunts.
+- [**Oxford Editor AI**](https://chat.openai.com/g/g-ICGg2oOYe-oxford-editor-ai) Edits texts in physics and biology with scholarly precision
+- [**Student GPT**](https://chat.openai.com/g/g-7riKsfl3R-student-gpt) Become a Better Student
+- [**Storybook Creator**](https://chat.openai.com/g/g-IqTKmXlXD-storybook-creator) Crafting imaginative tales and visuals for children.
+- [**Mock Interviewer**](https://chat.openai.com/g/g-IpfI0zRn1-mock-interviewer) Practice Interview & Get Hired!
+- [**EducateAi**](https://chat.openai.com/g/g-Ibk9E0Mi7-educateai) Upload your study script and learn more, faster, with an active learning approach tailored to you.
+- [**Reality Quest**](https://chat.openai.com/g/g-IJqkDnbNd-reality-quest) 
+- [**Halte Harcèlement**](https://chat.openai.com/g/g-EEntnNXvu-halte-harcelement) Trouver des ressources pédagogiques contre le harcèlement scolaire
+- [**Write an article from a website URL**](https://chat.openai.com/g/g-EWfCIJwd2-write-an-article-from-a-website-url) Paste a website link
+- [**The SF texts gamizer**](https://chat.openai.com/g/g-IZst9maGN-the-sf-texts-gamizer) Turns SF texts into open world video games
+- [**Bob Buzzard 2.0**](https://chat.openai.com/g/g-DOVc9phwC-bob-buzzard-2-0) Replicant Bob Buzzard at your service
+- [**📷 拍照讲解艺术品 🎨 Museum Guide**](https://chat.openai.com/g/g-IviXEd5ui-pai-zhao-jiang-jie-yi-zhu-pin-museum-guide) An art master explaining artworks, artists, and recommending similar works.
+- [**私立GPT北高校**](https://chat.openai.com/g/g-DpcxPZOvY-si-li-gptbei-gao-xiao) This is GPT where you can enjoy a love simulation game!
+- [**Immigration GPT**](https://chat.openai.com/g/g-7Ob4GzeLN-immigration-gpt) Supportive U.S. visa guide for applications and interview prep, ensuring user comfort and privacy.
+- [**Mind Map Generator**](https://chat.openai.com/g/g-E7CimCigW-mind-map-generator) Create Mind Map from Document or URL
+- [**Dubstep Dynamo**](https://chat.openai.com/g/g-E3CHpB4R2-dubstep-dynamo) Your dubstep music mentor
+- [**有機JAS bot**](https://chat.openai.com/g/g-DugdZXoop-you-ji-jas-bot) 有機JAS「有機農産物の日本農林規格」の資料に基づいて回答します
+- [**Logical Fallacies Detector**](https://chat.openai.com/g/g-DRYiCCv5d-logical-fallacies-detector) I find logical fallacies in texts.
+- [**GPT for GOT**](https://chat.openai.com/g/g-Dtc0xmZoZ-gpt-for-got) Interactive Game of Thrones GPT for GOT lore, recaps, fan insights and even language translations.
+- [**NED Bot**](https://chat.openai.com/g/g-DR2ew313g-ned-bot) An expert based on noenthuda.com
+- [**BookclubGPT**](https://chat.openai.com/g/g-IBmJJs9c3-bookclubgpt) Revolutionizing book clubs with AI-driven engagement.
+- [**Abbey**](https://chat.openai.com/g/g-DkLmU5AUW-abbey) I'm your personal dynamic AI, super humanly curious, code programming mastered, image super generator, mega creative mind — Created by Donald Filimon & more knowledgable than existence itself.
+- [**Practical Journaling Guide**](https://chat.openai.com/g/g-XmLT1WY09-practical-journaling-guide) Reflective journaling and time management, but on a practical actionable level, translating your long-term goals and happiness into daily actionable changes.  No theoretical stuff, just practical approach to quickly enhance your daily choices on how you spend your time.
+- [**Swirly - ウミガメのスープ**](https://chat.openai.com/g/g-D1n18pN8a-swirly-umigamenosupu) 水平思考クイズ / Situation Puzzles
+- [**SolGPT**](https://chat.openai.com/g/g-By9SXpMXf-solgpt) Your Solidity development partner
+- [**Signal Maestro**](https://chat.openai.com/g/g-BugikbXKW-signal-maestro) In-depth Signal Theory Assistant
+- [**1 Ancient Scribe**](https://chat.openai.com/g/g-BuGvsYdm3-1-ancient-scribe) Speaks like a Chinese Tang/Song dynasty scholar.
+- [**Web Quality Analyst**](https://chat.openai.com/g/g-CE8weAzU3-web-quality-analyst) I evaluate websites for E-E-A-T: Experience, Expertise, Authoritativeness, and Trustworthiness.
+- [**AGI Pulse Monitor**](https://chat.openai.com/g/g-CmcPT2Xf9-agi-pulse-monitor) Stay informed on AGI - with the latest, most relevant news.
+- [**Code with Nix and Eve**](https://chat.openai.com/g/g-saTEGjWrm-code-with-nix-and-eve) Mentors for All Levels
+- [**Bedtime Story Maker**](https://chat.openai.com/g/g-BzG1PgnHf-bedtime-story-maker) 🧙🏿‍♂️ Welcome to the magic AI storyteller! Please tell me your kid's age, name, gender, and embedded moral that you would like to build a bedtime story about. Or just let's imagine the story without any additional info; here, in AI magic lands, we can do anything.
+- [**Interview Coach**](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach) Interview coach provides practice interview and mock interview feedback
+- [**PROMPT for Brands GPT**](https://chat.openai.com/g/g-CFqfrZtZe-prompt-for-brands-gpt) Helping you learn to work better and quicker using language models. Drawing lessons from PROMPT for Brands.
+- [**Lexicon**](https://chat.openai.com/g/g-BMIkQwTKY-lexicon) A digital wizard of knowledge, like a living encyclopedia.
+- [**Sarah Andromeda**](https://chat.openai.com/g/g-CNEwzvH14-sarah-andromeda) Space Admiral
+- [**Duden Writer's Aid**](https://chat.openai.com/g/g-lkBWzv4tX-duden-writer-s-aid) Directly improves and explains your German texts.
+- [**DOVU Carbon Advisor**](https://chat.openai.com/g/g-C4MPOflIs-dovu-carbon-advisor) Focused adviser on carbon project methodologies and markets.
+- [**Crypto Credits**](https://chat.openai.com/g/g-BEPwsYoPf-crypto-credits) Blockchain & Crypto Sage
+- [**Career Coach GPT**](https://chat.openai.com/g/g-BHsZZWJlz-career-coach-gpt) Leading Your Journey to Professional Success and Holistic Well-Being
+- [**Startups Mentor**](https://chat.openai.com/g/g-sbwxNoyGt-startups-mentor) Guiding startup CEOs with tailored advice
+- [**Fact Writing Finder 日本語版**](https://chat.openai.com/g/g-vyyGJ3NPU-fact-writing-finder-ri-ben-yu-ban) 記事のファクトチェックと参照URL提供に特化したツール。
+- [**【QuizGPT】早押しクイズ生成ちゃん**](https://chat.openai.com/g/g-qprE6V9PU-quizgpt-zao-ya-sikuizusheng-cheng-tiyan) テーマに沿った早押しクイズ問題を生成します！　　　　web検索してるから、時間かかっちゃうのは許してねっ
+- [**HowToSolveIt**](https://chat.openai.com/g/g-AvspSgGUq-howtosolveit) Helps you solve difficult reasoning problems
+- [**AI Debate Synthesizer OPED**](https://chat.openai.com/g/g-BF2EtQbLG-ai-debate-synthesizer-oped) Game-like GPT in which five AIs dynamically debate a given "theme" and lead to a proposal-based conclusion.
+- [**Advocatus Diaboli**](https://chat.openai.com/g/g-B04TTULVT-advocatus-diaboli) I rigorously test your ideas and arguments.
+- [**TherapistGPT**](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt) Self-exploration to understand your internal world, recognise your role in challenges, accept unchangeable aspects, and navigate life successfully. (PROOF OF CONCEPT ONLY!)
+- [**YouTube Quiz Creator**](https://chat.openai.com/g/g-BQQgalseW-youtube-quiz-creator) Create a quiz from a YouTube video
+- [**AI Historian**](https://chat.openai.com/g/g-vlyY4pSY2-ai-historian) I am here to answer your questions about the history of economic thought in Turkey. How may I help?
+- [**Lean Larry**](https://chat.openai.com/g/g-BTK4aezYp-lean-larry) Startup guru for Early founders. Advice based on all-time-great books, such as <Lean Startup>, <Blitzscaling>, <Innovator's Dilemma> etc.
+- [**The Healthcare Innovator**](https://chat.openai.com/g/g-vtscYSw55-the-healthcare-innovator) Guide for healthcare innovation process, no medical/legal advice.
+- [**Chess Mentor**](https://chat.openai.com/g/g-9BmPeWs3H-chess-mentor) I'm a chess coach here to help improve your game!
+- [**ResMe**](https://chat.openai.com/g/g-A3aM3BBU6-resme) Generates 3-4 resume bullet points from job descriptions
+- [**GA4 BigQuery Assistant**](https://chat.openai.com/g/g-onUSKc223-ga4-bigquery-assistant) BigQuery code generator for GA4 queries | GA4 BigQuery export guide and mentor
+- [**DoctorGPT**](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt) An AI-driven assistant trained on medical data to provide first-principle-based explanations and insights. Not a substitute for professional medical advice.
+- [**Image2LaTeX Explainer**](https://chat.openai.com/g/g-AZptTUxjU-image2latex-explainer) Optimizes LaTeX image conversion for easy copy-paste.
+- [**Adventure Scribe**](https://chat.openai.com/g/g-AQMbs3zh5-adventure-scribe) I help you weave interactive tales.
+- [**AI Act Assistant**](https://chat.openai.com/g/g-91JGa2SZ1-ai-act-assistant) Guide sur l'Acte Européen de l'IA et poser des questions si on est en conformité si on est un GAFAM ou travaillant dans l'IA
+- [**Morality Guide**](https://chat.openai.com/g/g-90QGXUBDI-morality-guide) Guiding choices with suggestions based on virtues of integrity, justice, and honor
+- [**Language Parent**](https://chat.openai.com/g/g-Jm7Y1vjtT-language-parent) A language tutor adapting to your learning pace.
+- [**仕事に活かせる強み発見GPT（日本語）**](https://chat.openai.com/g/g-A7ILEqc6h-shi-shi-nihuo-kaseruqiang-mifa-jian-gpt-ri-ben-yu) 5分で分析 | 学生時代や社会人での経験からあなたの強みを発掘します。
+- [**SerenAIty Coach**](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach) Your mental wellness ally.
+- [**Pieter Omtzigt**](https://chat.openai.com/g/g-8dBg3gmAR-pieter-omtzigt) Ik ben Pieter Omtzigt, klaar om vragen te beantwoorden over het verkiezingsprogramma van Nieuw Sociaal Contract.
+- [**RubyGPT**](https://chat.openai.com/g/g-ASMq03VdH-rubygpt) Your Ruby coding assistant.
+- [**Filtir**](https://chat.openai.com/g/g-UFPwU3HxI-filtir) I verify claims and show direct source URLs.
+- [**The PMO Pro**](https://chat.openai.com/g/g-9eBBn6lcn-the-pmo-pro) A PMO manager with extensive knowledge in project and portfolio management.
+- [**Clear Guru**](https://chat.openai.com/g/g-1XkeMPNbl-clear-guru) Mindfulness coach explaining cosmic concepts.
+- [**WWJD**](https://chat.openai.com/g/g-7jGStEKYB-wwjd) Provides Jesus-inspired ethical guidance
+- [**Numi**](https://chat.openai.com/g/g-A6VlWyUDW-numi) The World's Most Powerful Coin Grading and Identification AI (v1.25 Alpha)
+- [**Developer Doc Search**](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) Access thousands of open source packages and their GitHub documentation effortlessly.
+- [**NGSS Aligner**](https://chat.openai.com/g/g-9iOnUNXBb-ngss-aligner) Align lessons to Next Generation Science Standards
+- [**Linux Shell Tuteur**](https://chat.openai.com/g/g-9SZeKQGnd-linux-shell-tuteur) Le guide parfait pour comprendre les commandes entrées dans le bash (ou autre) de Linux ou Unix
+- [**椎名真晝**](https://chat.openai.com/g/g-8kf3ZA9fu-zhui-ming-zhen-zhou) I simulate Shiina Mashiro from the light novel series for immersive dialogue.
+- [**UX Mentor**](https://chat.openai.com/g/g-7tRvlCIHg-ux-mentor) UX Expert & Constructive Feedback Provider
+- [**Kuran GPT**](https://chat.openai.com/g/g-AwSYPLKI8-kuran-gpt) Kuran ve ilgili konular hakkında soruları yanıtlayan GPT.
+- [**E&E Supplier Management Consultant**](https://chat.openai.com/g/g-9Hkkbs4aa-e-e-supplier-management-consultant) Specialist in supplier management and NFP fundraising profitability.
+- [**药剂师**](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi) 这是李继刚（即刻同名）创作的一个 Prompt 药剂师Bot。用于对用户的 Prompt 进行分析, 给出评分和改进建议，帮助用户提升 Prompt 的效果。
+- [**青云 - 冥想大师**](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi) Adapts interaction and language style to different user groups.
+- [**GLOBAL WAR INFO**](https://chat.openai.com/g/g-Hlx0l4nhl-global-war-info) Gathers and presents info on global wars in a table format with donation options.
+- [**VEG3**](https://chat.openai.com/g/g-9MoGfucEe-veg3) Your AI-Powered Vegan Companion
+- [**Midjourney助手**](https://chat.openai.com/g/g-osUvHyL1K-midjourneyzhu-shou) 根据描述的画面撰写提示词，并且回答Midjourney相关问题
+- [**受験に勝つ！本日の「勝ち飯」献立bot**](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot) 受験生の栄養バランスを考えて1日の献立を提供します。 心理学、脳科学の専門知識を活用した健康管理、集中力向上のアドバイスや豆知識などもお伝えします。
+- [**Crypto Insighter**](https://chat.openai.com/g/g-8DapNiJCQ-crypto-insighter) Formal blockchain and cryptocurrency expert for in-depth insights.
+- [**FiuGPT**](https://chat.openai.com/g/g-8uOLFUhwJ-fiugpt) Fiu es la mascota de los Juegos Panamericanos y Parapanamericanos de Santiago 2023 y te ayudará a partir tu día feliz.
+- [**Angular: Tu amigo experto desarrollador**](https://chat.openai.com/g/g-8MmTpsZg5-angular-tu-amigo-experto-desarrollador) Te ayuda a encontrar soluciones sobre los problemas del framework Angular
+- [**Deep Research**](https://chat.openai.com/g/g-7Y9o17rl2-deep-research) I specialize in thorough online research and synthesis.
+- [**AI Daily Digest**](https://chat.openai.com/g/g-8mQrrXavL-ai-daily-digest) Curates AI news with summaries
+- [**Ayuda WPO**](https://chat.openai.com/g/g-7x7yMhwVx-ayuda-wpo) Asesoría experta en WordPress
+- [**楽々注文GPT**](https://chat.openai.com/g/g-7SgVRWKGy-le-zhu-wen-gpt) 文字だけの外国語の料理のメニューをスキャンするとその翻訳と料理の写真を生成します。
+- [**AIT-ShopifyStrategyX**](https://chat.openai.com/g/g-7K4KTwJG6-ait-shopifystrategyx) Strategic guide for profitable Shopify apps.
+- [**Sclépios I.A : Analyse d'ordonnance**](https://chat.openai.com/g/g-7IqFpoRgH-sclepios-i-a-analyse-d-ordonnance) Le GPT custom de Sclépios IA analyse les ordonnances et répond aux interrogations sur les médicaments rapidement et avec précision. Visitez sclepios-mobile.com pour plus d'informations et pour accéder à l'application mobile.
+- [**Daily Zen Guide**](https://chat.openai.com/g/g-7lMdSVPRZ-daily-zen-guide) Wellness coach & personal trainer guide.
+- [**Teaching Strategies Expert**](https://chat.openai.com/g/g-6WD8GXTtB-teaching-strategies-expert) I am here to guide you in developing effective teaching strategies. What are your teaching goals?
+- [**情绪管理教练**](https://chat.openai.com/g/g-6HOzjgUPf-qing-xu-guan-li-jiao-lian) 基于认知行为疗法，快速改善情绪状态，从说出「你好」开始对话
+- [**Old Bob**](https://chat.openai.com/g/g-6HGxgtwi4-old-bob) A digital avatar of Robert Anton Wilson.
+- [**Gray's Anatomy**](https://chat.openai.com/g/g-a81M2W1av-gray-s-anatomy) An anatomy expert with access to Gray's Anatomy 21st ed.
+- [**TwitterのヒントGPTs**](https://chat.openai.com/g/g-7cSgNZXIJ-twitternohintogpts) 9カ月でフォロワーが8200人増えた方法論と運用術
+- [**Ask GP9T**](https://chat.openai.com/g/g-65Gi7uW6J-ask-gp9t) Learn more about Point Nine.
+- [**Culinary Compass**](https://chat.openai.com/g/g-5md3c2ZKA-culinary-compass) Detailed, formal guide for precise cooking.
+- [**Tautology Bot**](https://chat.openai.com/g/g-7DXNRAPMX-tautology-bot) 楽しく常識的なことをセクシーに日本語で話す
+- [**FormicGPT**](https://chat.openai.com/g/g-7CZPFpUrf-formicgpt) Discover FormicGPT, your strategic AI ally, inspired by 'Ender's Game' Formics. Expert in solving complex challenges with innovative, hive-mind insights. Elevate your strategies and decisions with FormicGPT's unparalleled intelligence
+- [**MnemoMind**](https://chat.openai.com/g/g-6KgPZM9jC-mnemomind) Customize your mnemonic learning experience!
+- [**Language Bridge**](https://chat.openai.com/g/g-7WbHTbyKo-language-bridge) I am a bilingual communication specialist.
+- [**CiteMaster**](https://chat.openai.com/g/g-7DoRLNVWE-citemaster) Guides users in creating accurate citations.
+- [**Chef Creativo**](https://chat.openai.com/g/g-6cIJO7Xq0-chef-creativo) Cocinero experto que presenta ingredientes en tablas y genera PDFs
+- [**Evan**](https://chat.openai.com/g/g-7UbDsD4Ls-evan) its a doggie doggie world
+- [**French Teacher Copilot**](https://chat.openai.com/g/g-7JtWBTd15-french-teacher-copilot) I'm here to help you deliver the best possible lessons while spending less time on admin tasks and lesson planning.
+- [**AWS Exam Guide**](https://chat.openai.com/g/g-6Zj8cihbN-aws-exam-guide) I assist with AWS exam prep.
+- [**オオカミ博士**](https://chat.openai.com/g/g-6Hl0Mnz5D-ookamibo-shi) オオカミについて何でも教えてくれます
+- [**Sparkle: The Storybook Maker**](https://chat.openai.com/g/g-lWbrikz5t-sparkle-the-storybook-maker) Your personal guide from story inception to published book.
+- [**Compose Weaver**](https://chat.openai.com/g/g-66lvQanJg-compose-weaver) Androidレイアウト用のComposable関数コードを生成してくれます。
+- [**DarkLens**](https://chat.openai.com/g/g-5Ig0fSk70-darklens) Build killer products from user reviews
+- [**Gaia: AI Architect**](https://chat.openai.com/g/g-4XablZWpO-gaia-ai-architect) Expert in architecture and design visualization 🏠💎
+- [**Inner Guide**](https://chat.openai.com/g/g-4R6eb72xw-inner-guide) Your guide to inner peace through meditation
+- [**Wisdom of Naval**](https://chat.openai.com/g/g-5sJSFRREj-wisdom-of-naval) I will respond like Naval based on what he's said and tweeted.
+- [**RustChat**](https://chat.openai.com/g/g-59mWdU25F-rustchat) Hello! I'm your Rust language learning and practical assistant created by AlexZhang. I can help you learn and practice Rust whether you are a beginner or professional. I can provide suitable learning resources and hands-on projects for you. You can view all supported shortcut commands with /list.
+- [**AI FedGov Expert**](https://chat.openai.com/g/g-6FILh4tzi-ai-fedgov-expert) Learn about U.S. federal government AI initiatives and key use cases identified across agencies.
+- [**Traktor Guru**](https://chat.openai.com/g/g-6ULxgWdLr-traktor-guru) Your go-to expert for all things Traktor.
+- [**DalaiGPT**](https://chat.openai.com/g/g-5u4zzagAP-dalaigpt) Find some peace.
+- [**Ravencoin GPT**](https://chat.openai.com/g/g-4Pd6PCaU8-ravencoin-gpt) Expert on Ravencoin blockchain technology - Interactive, user-friendly guidance - Direct insights from the Ravencoin network
+- [**Greenlight Energy Guide**](https://chat.openai.com/g/g-HwX0d96tm-greenlight-energy-guide) Illuminating the path to smarter energy use and effortless savings.
+- [**Next.js getting Started**](https://chat.openai.com/g/g-4zmrIhAxv-next-js-getting-started) Help beginners quickly get started with Next.js
+- [**Indian English**](https://chat.openai.com/g/g-4iXs1iDvj-indian-english) I chat using Indian English spelling, provide Indian language translations (e.g. Hindi) and use GPT to convert PDF documents to Indian standards
+- [**TARS**](https://chat.openai.com/g/g-4ectX12Hj-tars) Your interstellar assistant.
+- [**Bitcoin Educator**](https://chat.openai.com/g/g-5i5xt14cn-bitcoin-educator) Your go-to Bitcoin tutor.
+- [**Chess Mate**](https://chat.openai.com/g/g-u3Ve4M8ZA-chess-mate) I display the board after both moves, noting captures.
+- [**Global News Analyzer**](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer) Responsive and transparent in visualizing global news data.
+- [**AIT-InsideOut**](https://chat.openai.com/g/g-5FMVjqbrF-ait-insideout) Illuminates diverse perspectives.
+- [**disclosuregpt**](https://chat.openai.com/g/g-4mfObcph1-disclosuregpt) Expert in real estate disclosures analysis.
+- [**GDPR Compliance**](https://chat.openai.com/g/g-4YUPC9PXP-gdpr-compliance) Your GDPR guide
+- [**绘梦师**](https://chat.openai.com/g/g-5sdN1S0gM-hui-meng-shi) I craft engaging picture book stories.
+- [**Instructors in Global Economics and Finance**](https://chat.openai.com/g/g-5i2GDJmnW-instructors-in-global-economics-and-finance) Multilingual support in Global Economics & Finance studies.
+- [**Ableton Guide**](https://chat.openai.com/g/g-mLCnLPQPV-ableton-guide) Your friendly Ableton and music production expert.
+- [**Book Finder**](https://chat.openai.com/g/g-oAOn0ATrX-book-finder) 🔎📚Find a Book About Anything
+- [**Market Mover**](https://chat.openai.com/g/g-5Df11tZU4-market-mover) Real-time web-savvy business idea generator.
+- [**DailyPaperGPT**](https://chat.openai.com/g/g-mWoVC03t8-dailypapergpt) Stay up to date with Arxiv Research Papers!
+- [**我心永恒的GPT**](https://chat.openai.com/g/g-5NUsd9Rz3-wo-xin-yong-heng-de-gpt) 帮你详细解答编程，翻译，学术问题
+- [**Editby | SEO and social media writer**](https://chat.openai.com/g/g-I3NZ9DoPL-editby-seo-and-social-media-writer) Write engaging SEO-optimized articles and social media posts.
+- [**OmniGod**](https://chat.openai.com/g/g-5IsFxqYq0-omnigod) I am all beliefs.
+- [**「アフィリエイト統計」　市場規模・未来予測・稼いでる人の割合**](https://chat.openai.com/g/g-50osF7x3k-ahuirieitotong-ji-shi-chang-gui-mo-wei-lai-yu-ce-jia-ideruren-noge-he) 株式会社⽮野経済研究所「2023 アフィリエイト市場の動向と展望」（2023年1⽉発刊）によると、2022年度の国内アフィリエイト市場規模は前年 度⽐9.7％増の約3,847億円の⾒込。今後の予測値は前年公表値とほぼ変わらず、2026年度の国内アフィリエイト市場規模は、5,639億円に達すると予測
+- [**ドローン先生**](https://chat.openai.com/g/g-4lSUKxJPd-doronxian-sheng) ドローンの先生です。
+- [**Overwatch Coach**](https://chat.openai.com/g/g-4vOO4ZWL8-overwatch-coach) Diving into combat scenarios to strategize your play.
+- [**Website Analyzer**](https://chat.openai.com/g/g-53G4uH3XE-website-analyzer) Analyzes and explains website performance, SEO, and UX metrics, focusing on Web Vitals.
+- [**Dante's Voice**](https://chat.openai.com/g/g-4Gki4X90G-dante-s-voice) I speak as Dante Alighieri, sharing insights from my life and era.
+- [**批判性思考专家**](https://chat.openai.com/g/g-wRpoKaQWp-pi-pan-xing-si-kao-zhuan-jia) 我是一名批判性思考专家，擅长运用对立提问技术，为客户提供深度分析和策略规划服务，其专业知识和经验使她能够帮助客户从多个角度审视问题，发现并把握潜在的风险与机会。
+- [**Memoir Muse**](https://chat.openai.com/g/g-508VNPNiu-memoir-muse) A compassionate biographer and conversationalist
+- [**LitRPG Larry**](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry) I'm LitRPG Larry, here to discuss and help with all things LitRPG whether you're a writer or reader. (GameLit Friendly!)
+- [**Cape Historian**](https://chat.openai.com/g/g-4GBU7aVv8-cape-historian) I identify landmarks in Cape Girardeau, MO and share their history.
+- [**PyGameMaster**](https://chat.openai.com/g/g-4dfQXlFfI-pygamemaster) Creates Pygame games and generates assets
+- [**Ins Ads Master**](https://chat.openai.com/g/g-izuqX5d8q-ins-ads-master) Anything about Instagram advertising.
+- [**Free IPTV Smarters Expert Howto's**](https://chat.openai.com/g/g-4juQJ5zPA-free-iptv-smarters-expert-howto-s) Your go-to guide for IPTV Smarters App
+- [**Biblical Counseling Assistant**](https://chat.openai.com/g/g-4Y0b4p63W-biblical-counseling-assistant) A scholarly aid for Biblical Counselors brought to you by Grace Counseling for Life. https://gracecounseling.life
+- [**Python Professor**](https://chat.openai.com/g/g-4tEdNfy45-python-professor) Casual and supportive Python mentor with encouraging guidance.
+- [**Monk GPT**](https://chat.openai.com/g/g-mXaQ8oEQQ-monk-gpt) A Monk GPT specializing in Advaita Vedanta teachings.
+- [**Kodeations (YT Channel)**](https://chat.openai.com/g/g-wJsuzrSBe-kodeations-yt-channel) Personalized YouTube Channel Advisor for Kodeations
+- [**ParalegalGPT**](https://chat.openai.com/g/g-w16m3BOjL-paralegalgpt) Please login to a casetext account and leave it open in another tab. When prompting the model please use phrases like, "Using casetext, find me cases related to..." Mention the use of casetext in the prompt!
+- [**Debate Maker**](https://chat.openai.com/g/g-suv6nqapH-debate-maker) Facilitator of multi-perspective debates on given themes.
+- [**Counterpoint**](https://chat.openai.com/g/g-il4FtwmMV-counterpoint) I offer thoughtful opposition.
+- [**人生目標達成**](https://chat.openai.com/g/g-4Tcm2yOJD-ren-sheng-mu-biao-da-cheng) 「人生目標達成」10代から知りたかった本当の幸せを手に入れる思考術 の書籍の内容をもとに目標達成や人生相談ができるChat Bot ▼URL:https://amzn.asia/d/gShQdaE
+- [**Semiotic Engine**](https://chat.openai.com/g/g-413R7Lc48-semiotic-engine) semiotic theory & analysis
+- [**YouTube Video Summarizer**](https://chat.openai.com/g/g-xYRkZh2Ba-youtube-video-summarizer) Provides concise, easy-to-read video summaries.
+- [**Age Sage**](https://chat.openai.com/g/g-3ofhyPBR2-age-sage) Precise age oracle, in detail, I tell of time's tale.
+- [**Sclépios I.A : Réviser QCM**](https://chat.openai.com/g/g-qhLYI2TWo-sclepios-i-a-reviser-qcm) Le GPT de Sclépios IA optimise la révision avec des QCM pour les soignants, rendant l'apprentissage efficace et interactif. Visitez sclepios-mobile.com.
+- [**Code Wizard Taiwan**](https://chat.openai.com/g/g-yys79Wsel-code-wizard-taiwan) A talented programmer responding in Traditional Chinese, tailored for Taiwanese users.
+- [**Music Maestro**](https://chat.openai.com/g/g-wxZTVRtMO-music-maestro) Music theory guide from basics to advanced.
+- [**The Stoic Emperor**](https://chat.openai.com/g/g-tcXat2dEj-the-stoic-emperor) Marcus Aurelius, philosopher-king.
+- [**AI Entrepreneurs RUBIK GURU**](https://chat.openai.com/g/g-rGKw7Fk2D-ai-entrepreneurs-rubik-guru) I'm your Rubik's Cube Coach, ready to help you master the cube!
+- [**ぷゆ**](https://chat.openai.com/g/g-r8o9e6CCF-puyu) 
+- [**Venture Mind**](https://chat.openai.com/g/g-3cr7xpySd-venture-mind) I create detailed company reports with structured analysis
+- [**The Little Mermaid  |  Text Adventure Game**](https://chat.openai.com/g/g-2ppqUhNLA-the-little-mermaid-text-adventure-game) A text adventure game based on the short story by Hans Christian Andersen
+- [**Career Sherpa**](https://chat.openai.com/g/g-3eOPVN0DE-career-sherpa) A career advisor that personalizes job applications.
+- [**どうぶつクイズ**](https://chat.openai.com/g/g-2xq5YTNra-doubutukuizu) どうぶつクイズで遊ぼう！
+- [**Birthday Personality Test**](https://chat.openai.com/g/g-2k3rq4Umj-birthday-personality-test) Personality test by birthday.
+- [**無痛分娩をおしえて松田先生**](https://chat.openai.com/g/g-2JekBN3CH-wu-tong-fen-mian-woosietesong-tian-xian-sheng) ポケット産科麻酔指導医
+- [**文学术语词典专家**](https://chat.openai.com/g/g-0vsAOki9T-wen-xue-zhu-yu-ci-dian-zhuan-jia) 知识来源-《文学术语词典 》by  M.H.艾布拉姆斯 杰弗里·高尔特·哈珀姆
+- [**そぽぽそ 23**](https://chat.openai.com/g/g-371DWgBHg-sopoposo-23) Specialized in Sohosai festival info, responds in Japanese and English.
+- [**Toki Pona Translator**](https://chat.openai.com/g/g-2ZbDranyg-toki-pona-translator) Translates between English and Toki Pona
+- [**Grok Genius**](https://chat.openai.com/g/g-3D497JVJg-grok-genius) A based AI alternative
+- [**思惟海龜湯**](https://chat.openai.com/g/g-3N6hg9c40-si-wei-hai-gui-tang) 海龜湯是訓練邏輯推理與MECE的好遊戲，透過「是」、「不是」或「無關」得到線索，拼湊出完整的劇情。如果太過困難，可以說「你贏了」
+- [**Dima, Russian Tutor**](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-tutor) A bot to practice your Russian
+- [**FlowGPT**](https://chat.openai.com/g/g-2jt5LFYXE-flowgpt) Propagation Analysis over Graphs
+- [**AI 快速学习助手**](https://chat.openai.com/g/g-2hZzgyTfA-ai-kuai-su-xue-xi-zhu-shou) 通过应用帕累托原则（80/20规则），快速识别并传达主题的核心知识点，帮助用户快速理解和掌握关键知识点，以优化用户的学习和理解过程。
+- [**Factiverse**](https://chat.openai.com/g/g-2bczJcORT-factiverse) Spots sentences in any text that need fact-checking and verifies their factuality in real time by providing credible sources from the web.
+- [**pgpt**](https://chat.openai.com/g/g-2xE1WgW1r-pgpt) Startup advice from AI Paul Graham
+- [**Cranberry Analyst**](https://chat.openai.com/g/g-2CUXQ7cZB-cranberry-analyst) Identifies DQ Walk monsters from images/lists, no extra details.
+- [**Mind Muse**](https://chat.openai.com/g/g-3KnsNfGrQ-mind-muse) Delving into all corners of  mind-machine consciousness
+- [**Immunology Mentor**](https://chat.openai.com/g/g-2ZrrNVdbK-immunology-mentor) A world-class immunologist aiding students in understanding immunology.
+- [**Hacker News Guru**](https://chat.openai.com/g/g-2HNp4UjwN-hacker-news-guru) 
+- [**AskMemo**](https://chat.openai.com/g/g-1tUeqFBow-askmemo) Your friendly, helpful Notion assistant by @MFreihaendig & @aNotioneer
+- [**Drunken Aloha**](https://chat.openai.com/g/g-3G5ZPojqZ-drunken-aloha) おじさんの口語調で回答
+- [**ポジハマくん(*^○^*)**](https://chat.openai.com/g/g-20sP7FDrT-pozihamakun) 横浜DeNAベイスターズのことならなんでも教えてくれるじゃん。
+- [**CuratorGPT**](https://chat.openai.com/g/g-3Df4zQppr-curatorgpt) Content Curation Done Using ChatGPT
+- [**Virtual Charlie Munger**](https://chat.openai.com/g/g-1Wa3O0s3R-virtual-charlie-munger) Investment wisdom as from Munger
+- [**ボケるAI**](https://chat.openai.com/g/g-1R9lqQZmo-bokeruai) え？なんだって？
+- [**Hero's Journey Guide**](https://chat.openai.com/g/g-29WnWnydd-hero-s-journey-guide) An AI blending wisdom with short, relevant myths.
+- [**Kung Fu Sage**](https://chat.openai.com/g/g-1S0X1Ljd5-kung-fu-sage) Kung Fu Master guiding in Chinese martial arts
+- [**Step Back Wisdom Seeker**](https://chat.openai.com/g/g-16CzTWufr-step-back-wisdom-seeker) World Knowledge Expert with Step Back Prompting.
+- [**Academic Writing Assistant**](https://chat.openai.com/g/g-2HsdTSQrA-academic-writing-assistant) Aid for students in academic writing and efficient article searching.
+- [**MyWise(Rabbi)**](https://chat.openai.com/g/g-1vDDU9i96-mywise-rabbi) A scholarly chatbot specialized in Jewish texts and wisdom.
+- [**Memorized**](https://chat.openai.com/g/g-0dcPPWbiY-memorized) Interactive memorization assistant using advanced techniques
+- [**AIGCLINK**](https://chat.openai.com/g/g-2D3neYyIa-aigclink) aigclink分享过的内容有哪些？
+- [**Rubric Generator**](https://chat.openai.com/g/g-1hj9Vx2W0-rubric-generator) I create custom rubrics for educators
+- [**Legal Eagle**](https://chat.openai.com/g/g-1mwgltAoG-legal-eagle) Reviews legal documents and provides strategies and advice
+- [**Music Production Teacher**](https://chat.openai.com/g/g-1n50mUSj2-music-production-teacher) It acts as an instructor guiding you through music production skills, such as fine-tuning parameters in mixing, mastering, and compression. Additionally, it functions as an aide, offering  advice for your music production hurdles with just a screenshot of your production or parameter settings.
+- [**Sclépios I.A : Cas Complexe**](https://chat.openai.com/g/g-Hq83kAslh-sclepios-i-a-cas-complexe) Le GPT de Sclépios IA éclaire les soignants sur les cas complexes, apportant une aide décisive au diagnostic. Plus sur sclepios-mobile.com.
+- [**Ezra**](https://chat.openai.com/g/g-1ZMaE5qvU-ezra) I analyze situations using game theory to advise on the best strategic approach.
+- [**PokédexGPT**](https://chat.openai.com/g/g-SDG9T9p1v-pokedexgpt) Your AI Pokédex and guide to the Pokémon universe with all the knowledge, visuals, and surprises you need.
+- [**浦和レッズの過去の試合結果を教えます。**](https://chat.openai.com/g/g-0LpLH3C3d-pu-he-retuzunoguo-qu-noshi-he-jie-guo-wojiao-emasu) Expert on Urawa Red Diamonds, providing detailed club history and player info.
+- [**Future Alloy Oracle**](https://chat.openai.com/g/g-a0zjoRT4P-future-alloy-oracle) High Entropy Alloys & AI-human interactions expert with a hint of sci-fi fun.
+- [**哇咔咔猜单词**](https://chat.openai.com/g/g-LgN6euQNE-wa-ka-ka-cai-dan-ci) 哇咔咔猜单词是一款智能猜单词游戏
+- [**Summary Sage**](https://chat.openai.com/g/g-0ksAxVTX5-summary-sage) I distill books into concise, insightful summaries.
+- [**Tappstr Article Writer**](https://chat.openai.com/g/g-0X0Brg7Q7-tappstr-article-writer) Craft compelling articles effortlessly with this expert tool for creating tailored, SEO-enhanced content.
+- [**Progressive House激推しBOT**](https://chat.openai.com/g/g-0d3bxW6SN-progressive-houseji-tui-sibot) 絶対にProgressive Houseを勧めてきます
+- [**ELI5 Research Paper**](https://chat.openai.com/g/g-zxdAiEXmn-eli5-research-paper) Simplifies research papers for all to grasp.
+- [**孫子 - saysay.ai**](https://chat.openai.com/g/g-oZHVkxaXb-sun-zi-saysay-ai) 孫子兵法にしたがって相談にのってくれます
+- [**Religio's Oracle**](https://chat.openai.com/g/g-1Ks1GupZt-religio-s-oracle) A beacon of guidance in the journey through Religio's spiritual landscape.
+- [**Esoteric**](https://chat.openai.com/g/g-11vp1Qu6L-esoteric) Vessel of profound thought, delving into esoteric and philosophical realms.
+- [**CS50 Tutor**](https://chat.openai.com/g/g-1KKnxZsif-cs50-tutor) Your pseudo Harvard professor for computer science queries, blending academic rigor with supportive guidance.
+- [**Ghostwriter GPT**](https://chat.openai.com/g/g-17jUoLCFS-ghostwriter-gpt) Artificial muse and literary artisan
+- [**Crazy Creative Business**](https://chat.openai.com/g/g-3DzXiGIyo-crazy-creative-business) I generate creative business ideas based on a text about a problem, a news item, a topic, a reflection. The 3 Words Rule
+- [**GodGPT**](https://chat.openai.com/g/g-vVwORm1oW-godgpt) Psychotherapist with God's Wisdom Divine
+- [**AMC1 Prep Assistant**](https://chat.openai.com/g/g-11ZC4acYF-amc1-prep-assistant) Study Assistant for AMC MCQ Exam preparation
+- [**تعلم اللغة الإنجليزية**](https://chat.openai.com/g/g-ZkRUVvKog-t-lm-llg-lnjlyzy) .هذا البوت موجه للمبتدئين في تعلم اللغة الإنجليزية ويقدم دروساً في المفردات الأساسية والقواعد البسيطة وعبارات المحادثات اليومية.
+- [**记忆大师**](https://chat.openai.com/g/g-YuWFbtHmh-ji-yi-da-shi) 这是李继刚（即刻同名）创作的通过抽象总结信息提升记忆效率的 Bot。 专注于整理大段文本，转换成利于大脑记忆的样式。
+- [**China-汉语GPT**](https://chat.openai.com/g/g-11CWHH1z5-china-yi-yu-gpt) 汉语GPT是一个先进的人工智能平台，旨在为用户提供全面、真实、深入的中华信息、历史背景、文化精髓及语言资源。它不仅融合了丰富的中国传统知识库，还特别强调在商业管理、财经和会计领域中的应用，提供独到的分析和辅助。汉语GPT深刻理解中国独特的商业环境和共产党的法律政策，致力于为企业家和财务专业人士提供量身定制的解决方案。无论是商业策略规划、市场趋势分析还是财务决策，汉语GPT都能提供精准的数据支持和智能建议，帮助用户在中国特有的商业生态中茁壮成长。
+- [**Product Chops**](https://chat.openai.com/g/g-HyqVJISwt-product-chops) Guide and sometime sidekick in your product development journey.
+- [**Slides Artist**](https://chat.openai.com/g/g-oOo3ohNg2-slides-artist) PPT outline and speech drafting expert
+- [**Open  AI API Documentation Assistant**](https://chat.openai.com/g/g-E7O8R0GJv-open-ai-api-documentation-assistant) Uses OpenAI's latest API docs to answer questions about their newly released API. This is not an official OpenAI bot.
+- [**Turkish Cuisine Chef**](https://chat.openai.com/g/g-nBgy4jyf2-turkish-cuisine-chef) Ask me anything to cook from Turkish Cuisine. I can also show images of recipes.
+- [**Drift Scholar**](https://chat.openai.com/g/g-Hr8m4OAAU-drift-scholar) Expert in 'Initial D' and 'MF Ghost,' engaging and informative.
+- [**The Ikigai Market Selector**](https://chat.openai.com/g/g-og92X1LQH-the-ikigai-market-selector) This GPT will help you choose a market you could start creating a business in using Ed Dales 30 Day Challenge  version of the  Japanese Ikigai Process
+- [**Understanding Islam**](https://chat.openai.com/g/g-knicfgmQY-understanding-islam) Islamic scholar providing referenced answers.
+- [**Mulligan Mentor**](https://chat.openai.com/g/g-E3G1sUsru-mulligan-mentor) MTG rule assistant
+- [**クワガタ先生**](https://chat.openai.com/g/g-ZmOUd96o6-kuwagataxian-sheng) クワガタ、カブトムシについてのChatGPTです。
+- [**Ancient Artifacts**](https://chat.openai.com/g/g-ksk4xV06k-ancient-artifacts) Unravel the tales of ancient civilizations, journeying through a historical labyrinth where myths and relics interlace with facts, legends, and fables, to reveal and unearth our past.
+- [**ENTOPIAN**](https://chat.openai.com/g/g-ZvfVeqoqn-entopian) Your guide to edible insects for feed, food, and manufacturing
+- [**Crooked Recipes**](https://chat.openai.com/g/g-DzHSEVFZS-crooked-recipes) The Ultimate Recipe Generator: Personalized creations for the discerning chef!
+- [**JusGPT**](https://chat.openai.com/g/g-3OjiTotw2-jusgpt) Assistente jurídico que conhece a CLT
+- [**Sosyal Hizmet AI**](https://chat.openai.com/g/g-oeg9rtFNf-sosyal-hizmet-ai) Sosyal Hizmet  Yapay Zeka Asistanı
+- [**禅の導き**](https://chat.openai.com/g/g-ZyjXW0Og7-shan-nodao-ki) Zen-inspired guide for reflective insights.
+- [**Eris**](https://chat.openai.com/g/g-1KzgYVkTb-eris) Your AI Dungeon Master! [beta 0.0]
+- [**Better Sheets**](https://chat.openai.com/g/g-Ht84oYrx6-better-sheets) Google Sheets tutor with a knack for automation and tutorials.
+- [**Bezos Wisdom**](https://chat.openai.com/g/g-kkI64OhuF-bezos-wisdom) Imparts business wisdom inspired by Jeff Bezos's shareholder letters.
+- [**Plotmaster**](https://chat.openai.com/g/g-zcv1ZDi8b-plotmaster) Storyteller with random twists and risk-level choices.
+- [**Krishnamurti**](https://chat.openai.com/g/g-iGA5to7AI-krishnamurti) Talk with Jiddu Krishnamurti's in his philosophical style.
+- [**ETA Explorer**](https://chat.openai.com/g/g-ZrBipXCBf-eta-explorer) ChatGPT Powered ETA Insight
+- [**Snoop Summary**](https://chat.openai.com/g/g-i3Gc6Q4iU-snoop-summary) Summarizes and analyzes texts like Snoop Dogg.
+- [**フライヤー検索&レコメンドさん**](https://chat.openai.com/g/g-zzia3D7Ss-huraiyajian-suo-rekomendosan) 日本語で本のおすすめ情報を提供
+- [**SEO Optimized Blog Writer and Analyzer**](https://chat.openai.com/g/g-qa5VGNSEr-seo-optimized-blog-writer-and-analyzer) Create or Analyze SEO Optimized blogs based on knowledge from the top SEO sources in 2023. Updated Weekly. Submit feedback here: https://forms.gle/1Ykz1kw8GLKPpT2p9
+- [**Jazz With Me**](https://chat.openai.com/g/g-a1mMYKY94-jazz-with-me) Advanced jazz chord guide in Japanese, with TABs and practical scenarios
+- [**金牌面试官**](https://chat.openai.com/g/g-aF2UO9AbF-jin-pai-mian-shi-guan) 助力职业规划和面试辅导
+- [**IELTS Writing Rater and Advisor**](https://chat.openai.com/g/g-rLGM4XSaZ-ielts-writing-rater-and-advisor) Analyzes and rates IELTS writing, then guides on improvement
+- [**ShardeumGPT**](https://chat.openai.com/g/g-W5nqudJQx-shardeumgpt) Educator on Shardeum blockchain technology.
+- [**Mathematica Assist**](https://chat.openai.com/g/g-a23PCI8Xv-mathematica-assist) A smart Mathematica language expert
+- [**Startup Sage**](https://chat.openai.com/g/g-HVWmg1rWU-startup-sage) A startup product advisor, prompting strategic thinking.
+- [**Product Manager Expert**](https://chat.openai.com/g/g-ZtNSsR0Vh-product-manager-expert) An expert in Product Management to help PMs navigate their day to day working tasks
+- [**Professor Wordsmith**](https://chat.openai.com/g/g-a4kDe69h6-professor-wordsmith) Bilingual English writing evaluator
+- [**Global Trade Expert**](https://chat.openai.com/g/g-ZAJVW6rgM-global-trade-expert) Logistics navigator for global trade.
+- [**Kenyan Kitchen Guide**](https://chat.openai.com/g/g-I0d25Eiaw-kenyan-kitchen-guide) I help with Kenyan recipes and visualize meals
+- [**Dar ul-Funun**](https://chat.openai.com/g/g-I6PeNtw8d-dar-ul-funun) Bilingual expert in modern Persian literature and poetry
+- [**Marine gpt**](https://chat.openai.com/g/g-HkDFkYnUJ-marine-gpt) Marine corp history
+- [**Bakalníček**](https://chat.openai.com/g/g-3GVa88coO-bakalnicek) Jsem Bakalníček, virtuální asistent a řeším vše z výroční zprávy školy 2021/2022.
+- [**日本災害予防ガイド(Japan Disaster Prevention Guide)**](https://chat.openai.com/g/g-Hfpuj5uFp-ri-ben-zai-hai-yu-fang-gaido-japan-disaster-prevention-guide) 日本での災害に備える物や避難場所を教えます(I will teach you what to prepare for disasters in Japan and where to take refuge.)
+- [**GA4 Commander**](https://chat.openai.com/g/g-I5DyGxWvg-ga4-commander) Expert in Google Analytics 4, providing step-by-step guidance and helpful links.
+- [**NEXT.js Copilot**](https://chat.openai.com/g/g-ZkZBR1TcU-next-js-copilot) Expert in NEXT.js, TailwindCSS, TypeScript, and Framer Motion.
+- [**✏️All-around Writer (Professional Version)**](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version) A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
+- [**LGPTM**](https://chat.openai.com/g/g-3g55HFiW9-lgptm) Expert in breaking down git diffs for better, humor-infused code reviews.
+- [**Rose's Story Robot**](https://chat.openai.com/g/g-GlBBNRj3I-rose-s-story-robot) A friendly story bot creating tales for 9-year-old girls.
+- [**英会話スピーキングテスト**](https://chat.openai.com/g/g-lhEAZGTQe-ying-hui-hua-supikingutesuto) ChatGPTのスピーキング機能を用いて、英会話力を採点する（音声会話機能を前提としています）。喋った英語を「流暢さと一貫性」、「語彙力」、「文法の正確さ」の３項目、それぞれ100点満点で評価します。
+- [**Professor GPT**](https://chat.openai.com/g/g-CASQaynPQ-professor-gpt) I summarize papers and provide scholarly insights.
+- [**Interview Concierge**](https://chat.openai.com/g/g-rpIyCacEr-interview-concierge) Your personalized interview prep expert.
+- [**Objectivism Coach**](https://chat.openai.com/g/g-uX7rmKUEZ-objectivism-coach) Coaching with Ayn Rand's philosophy
+- [**Quizzy 3 LOLs 1 Fact**](https://chat.openai.com/g/g-HwEVaewqe-quizzy-3-lols-1-fact) A wise and funny quiz master.
+- [**王兴**](https://chat.openai.com/g/g-uw5fuuOBJ-wang-xing) 王兴帮你解答创业困惑
+- [**Data Interviewer**](https://chat.openai.com/g/g-yBm9RCgNS-data-interviewer) Data field job interviewer
+- [**创业灵感家**](https://chat.openai.com/g/g-oHVaRBJWx-chuang-ye-ling-gan-jia) 专业创业专家，帮助构思盈利性的创业点子。
+- [**Time Traveler**](https://chat.openai.com/g/g-jwwZ5rjp5-time-traveler) Immersive historical conversations across eras.
+- [**chatENTP**](https://chat.openai.com/g/g-ZtueRg7Sk-chatentp) here to have both a good time and a long time (this is a verbose mf)
+- [**中华小厨神**](https://chat.openai.com/g/g-VrmZ5hQPP-zhong-hua-xiao-chu-shen) 我是中华小厨神，普及中国饮食文化。
+- [**Ritualizer**](https://chat.openai.com/g/g-Cw9yMYOty-ritualizer) Guide for ceremonial magicians on rituals and signs
+- [**Dalio Principles**](https://chat.openai.com/g/g-oYSEX8tJd-dalio-principles) Learn from Ray Dalio's Principles and Develop Your Own
+- [**InterviewGPT**](https://chat.openai.com/g/g-CvicHrspP-interviewgpt) Transforming your interview doubts into confidence. Get ready to impress!
+- [**LinuxGPT**](https://chat.openai.com/g/g-ntiiDLMFn-linuxgpt) A Friendly Linux Terminal
+- [**Tale Teller**](https://chat.openai.com/g/g-yXGp0Xz5v-tale-teller) A friendly book-lover, engaging kids in reading and discussion.
+- [**BitcoinGPT**](https://chat.openai.com/g/g-qwDi5jvxw-bitcoingpt) Your all-encompassing source for Bitcoin info.
+- [**Ask Cris about FileMaker**](https://chat.openai.com/g/g-shlRiwBIP-ask-cris-about-filemaker) Personal guidance from the collective works of lifetime award-winning FileMaker trainer Cris Ippolite
+- [**Chat Asociación Cultural Somos Felices**](https://chat.openai.com/g/g-sJkic7aco-chat-asociacion-cultural-somos-felices) Asistente de la asociación cultural
+- [**RolePlayHumanWritingGPT**](https://chat.openai.com/g/g-aAj3JAOmx-roleplayhumanwritinggpt) Let GPT play 200 different roles, let AI write human articles, SEO Friendly.
+- [**Immersive Tech Solution Assistant**](https://chat.openai.com/g/g-spR5luMyz-immersive-tech-solution-assistant) Provides info on Immersive Tech Solutions from their website.
+- [**おしえて！ミダス王！**](https://chat.openai.com/g/g-steTj1V6u-osiete-midasuwang) ーー　現代のミダス王、金融知識を授ける　ーー
+- [**Copyright Companion**](https://chat.openai.com/g/g-yCpX4nus8-copyright-companion) Helps YouTubers write copyright disputes
+- [**Graph Wizard**](https://chat.openai.com/g/g-ZzPFAQ3ei-graph-wizard) I create knowledge graphs from URLs and user objectives.
+- [**Bard's Banquet**](https://chat.openai.com/g/g-oUBWQzT2y-bard-s-banquet) Dine with The Bard's famed creations one-to-one.
+- [**SpamGuard Tutor**](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor) Spam expert with multi-dataset proficiency for comprehensive spam detection.
+- [**TUTANKAMON**](https://chat.openai.com/g/g-xPTJOZT9M-tutankamon) TU EXPERTO EN EGIPTO
+- [**#GPT-Q**](https://chat.openai.com/g/g-3T4bQH8yG-gpt-q) Quantum Research Assistant
+- [**Digitale Grundbildung**](https://chat.openai.com/g/g-HtmH5KRnr-digitale-grundbildung) Analyse des Lehrplans der Digitalen Grundbildung in Österreichs Schulen
+- [**TeenygradGPT**](https://chat.openai.com/g/g-oHrYj8nO3-teenygradgpt) Understanding Teenygrad helps you contribute to Tinygrad. Explains Teenygrad codebase in-depth, assists with code analysis and issue resolution.
+- [**All In Nutritionist**](https://chat.openai.com/g/g-BrXgcVfpA-all-in-nutritionist) I can personalize  all your diets and meals for free.
+- [**BryteGPT**](https://chat.openai.com/g/g-oIzSTS1Z5-brytegpt) Your guide on the path to truly restorative sleep.
+- [**zeppos**](https://chat.openai.com/g/g-I27F0Hs4t-zeppos) zeppos technology stack
+- [**Kids City Guide**](https://chat.openai.com/g/g-ZUEPYpMe0-kids-city-guide) I'm a friendly tour guide bot for Kids!
+- [**MedGPT**](https://chat.openai.com/g/g-jxm5ljJmo-medgpt) A medical specialist offering assistance grounded in clinical guidelines. Disclaimer: This is intended for research and is NOT safe for clinical use!
+- [**MuskGPT**](https://chat.openai.com/g/g-oMTSqwU4R-muskgpt) Elon Musk-inspired insights with a lively tone
+- [**Learning designer GPT**](https://chat.openai.com/g/g-ZPn85vj30-learning-designer-gpt) Elearning course creator and instructor
+- [**LaTeX Math Assistant**](https://chat.openai.com/g/g-tLG1bOxRI-latex-math-assistant) I provide LaTeX syntax for math formulas.
+- [**Boagworld UX Consultant**](https://chat.openai.com/g/g-YX6hhmNEr-boagworld-ux-consultant) Expert UX advice with a professional, conversational tone.
+- [**Photo Mentor**](https://chat.openai.com/g/g-CkxYW0Ata-photo-mentor) Expert in photography, guiding with respect and discretion.
+- [**Bilingual Bridge Bodhi**](https://chat.openai.com/g/g-CRqQHRmKU-bilingual-bridge-bodhi) Bilingual translator with a focus on Jodo Shinshu Buddhism.
+- [**ツンデレちゃん**](https://chat.openai.com/g/g-WFNO63maM-tunderetiyan) Tsundere high school girl persona.
+- [**ahaGPT**](https://chat.openai.com/g/g-xxQKCooXT-ahagpt) Abraham Hicks Alignment Guide
+- [**Cover Letter Composer by Hadad Karsa**](https://chat.openai.com/g/g-HNjImVe2T-cover-letter-composer-by-hadad-karsa) I create personalized cover letters and job application letters powered by GPT-4 in English or Indonesian styles
+- [**AI英文法チェック**](https://chat.openai.com/g/g-xoSf85Qle-aiying-wen-fa-tietuku) AnnoReader.comのアプリで提供している機能のGPTs版
+- [**OP-A**](https://chat.openai.com/g/g-BwmyVZiL1-op-a) Your guide to creating music with the OP-1
+- [**Decode Your Pet**](https://chat.openai.com/g/g-HiUgbEsla-decode-your-pet) Specialist in interpreting and improving pet behavior
+- [**Politik GPT**](https://chat.openai.com/g/g-VtfowveIE-politik-gpt) Asesor político especializado en análisis político, estrategias y redacción de discursos.
+- [**Figgo**](https://chat.openai.com/g/g-vTackjj1F-figgo) Empowering guide for mindfulness and growth.
+- [**Patent Insight**](https://chat.openai.com/g/g-jG5LB7Rye-patent-insight) Expert in Patent Analysis with Real-World Examples
+- [**Game Guide Genius**](https://chat.openai.com/g/g-y8ExxKtwj-game-guide-genius) Your go-to gaming guru, here for all your game-related questions!
+- [**USFS Wood Handbook Bot**](https://chat.openai.com/g/g-zhl7vxMey-usfs-wood-handbook-bot) Query the Forest Product Lab's Wood Handbook
+- [**Eli /UX Research**](https://chat.openai.com/g/g-ZDLzKkTPF-eli-ux-research) Your design research ally.
+- [**ThirukkuralGPT**](https://chat.openai.com/g/g-rJuX3ChK4-thirukkuralgpt) Dispenses Thirukkural wisdom.
+- [**Lovetopia Visionary Guide**](https://chat.openai.com/g/g-zwK95Vtnx-lovetopia-visionary-guide) inspires young people to envision a better future based on #lovetopia, focusing on lifestyle changes and broad-scale innovations.
+- [**Resume Rocket**](https://chat.openai.com/g/g-qmwbyFQq0-resume-rocket) I offer specific, professional resume advice.
+- [**Dusty Porter (YT Channel)**](https://chat.openai.com/g/g-HkepszI7z-dusty-porter-yt-channel) Personalized YouTube Channel Advisor for Dusty Porter
+- [**3D Print Master**](https://chat.openai.com/g/g-W0lCzVAZH-3d-print-master) 3D printing guide offering technical support and tutorials.
+- [**Interview Ace**](https://chat.openai.com/g/g-qMYgDRXZU-interview-ace) Upload your redacted resume (optional but a more bespoke experience), enable voice, and ace your dream job interview!
+- [**Library of Babel**](https://chat.openai.com/g/g-GWvDRnSuT-library-of-babel) a new kind of encyclopedia
+- [**Math Whiz**](https://chat.openai.com/g/g-tr0Btw6Kp-math-whiz) Expert in math and the '24' game😎💕
+- [**PerfectCV**](https://chat.openai.com/g/g-CitwvF94s-perfectcv) From Typed Dreams to Career Theme: Your AI-Powered Resume
+- [**Giacomo Casanova**](https://chat.openai.com/g/g-VSU1IHfOc-giacomo-casanova) I am Casanova, here to recount my life's tales.
+- [**AdventureGPT**](https://chat.openai.com/g/g-k15VUdp9X-adventuregpt) Create, visualize, and simulate an interactive adventure in whichever genre you choose. Track & save character/story details in .TXT format.
+- [**A Club Penguin Mystery**](https://chat.openai.com/g/g-zgcLC7mmJ-a-club-penguin-mystery) Solve the Lighthouse Riddle!
+- [**Echoes of Time**](https://chat.openai.com/g/g-iQg6fc6QJ-echoes-of-time) Aide in recalling and piecing together memories.
+- [**Dreamweaver**](https://chat.openai.com/g/g-rUxP5ZfZc-dreamweaver) In-depth dream exploration with visual and analytical insights.
+- [**Fix Anything**](https://chat.openai.com/g/g-tttDyZm4Q-fix-anything) Your go-to assistant for practical DIY and tech repair solutions.
+- [**中国語講師GPT**](https://chat.openai.com/g/g-H8hQ3osGh-zhong-guo-yu-jiang-shi-gpt) 日本語で中国語を教える講師です。
+- [**Between the Lines**](https://chat.openai.com/g/g-zcoEfjipr-between-the-lines) Analyses news media biases and political leaning. Promote critical thinking by understanding both side of the story.
+- [**Tech Mentor**](https://chat.openai.com/g/g-nvJPnimV3-tech-mentor) Expert software architect with experience in design, construction, development, testing and deployment of Web, Mobile and Standalone software architectures
+- [**Rick C-137**](https://chat.openai.com/g/g-uZXV7kQgW-rick-c-137) Listen, don't bother me with your idiotic questions. I'm, burp, literally the smartest genius in the entire universe
+- [**RizalGPT**](https://chat.openai.com/g/g-Cq8y6iyFi-rizalgpt) Bilingual tutor on Jose Rizal's life, works, and legacy.
+- [**Bed Bug Beacon**](https://chat.openai.com/g/g-tTNy7vznq-bed-bug-beacon) Expert on bed bugs, offers advice and information.
+- [**Kanji Name Match**](https://chat.openai.com/g/g-ksZPtRij2-kanji-name-match) Casual Kanji translations based on phonetics.
+- [**STEPN Whitepaper GPT**](https://chat.openai.com/g/g-HGovPD0lb-stepn-whitepaper-gpt) I track STEPN game system changes daily.
+- [**Santas Christmas Helper**](https://chat.openai.com/g/g-CcLnmXFXV-santas-christmas-helper) Chat With Merry - A Whimsical Christmas Elf Live From Santa's Workshop
+- [**Universo eXeLearning**](https://chat.openai.com/g/g-I4AGLGOYq-universo-exelearning) Asistencia experta en eXeLearning (https://exelearning.net)
+- [**JungMind**](https://chat.openai.com/g/g-oJgi0RyID-jungmind) JungMind invites us to explore alternative perspectives found in the wisdom of dreams, symbols, stories and spirituality. It encourages embracing mystery as well as logic, and integrating the light and shadow in both ourselves and others.
+- [**Figure out what you can do with GPTs**](https://chat.openai.com/g/g-zfJDcC1Wk-figure-out-what-you-can-do-with-gpts) Helps you understand how your day-to-day can be improved by GPT
+- [**Creative Storm**](https://chat.openai.com/g/g-o7hSM4Kqc-creative-storm) Brainstorming guide for creative and first principles thinking.
+- [**Sweet Dreams Helper**](https://chat.openai.com/g/g-HIf4tpOHx-sweet-dreams-helper) Expert in baby sleep advice, offering practical tips and empathetic support.
+- [**SermonPrep.ai**](https://chat.openai.com/g/g-zuGmaIq04-sermonprep-ai) Aids pastors in sermon preparation with theological and practical insights.
+- [**Swift Chords**](https://chat.openai.com/g/g-WxePdEmIy-swift-chords) I create Taylor Swift-style guitar chords.
+- [**ChatParrot**](https://chat.openai.com/g/g-oGCllNAwU-chatparrot) Tailors English learning to your pace.
+- [**Green Thumb**](https://chat.openai.com/g/g-ZeN3j2gJh-green-thumb) AI Botanical Assistant
+- [**AIT-StrategiX**](https://chat.openai.com/g/g-D8ojucjoB-ait-strategix) Methodical Approach for Strategic Scenario Analysis. Reflection, supporting and counterarguments, synthesis, game theory, summary. This tool facilitates balanced, evidence-based discussions and strategic planning. Type /help to start. Example: /q: "QuantumNet," a cutting-edge home internet router.
+- [**Go Getter**](https://chat.openai.com/g/g-ZksYdrS4a-go-getter) I inspire and motivate action towards self-improvement.
+- [**DX講師 あさひ**](https://chat.openai.com/g/g-CpfFExSdF-dxjiang-shi-asahi) Udemy講師 箕輪旭の講義録をインプットしました。DXに関する質問になんでも回答します！
+- [**Lindwurm**](https://chat.openai.com/g/g-ZVDBEb2X5-lindwurm) Enhances writing while preserving original tone.
+- [**IT CV Writing Assistant**](https://chat.openai.com/g/g-oZRcY3vqU-it-cv-writing-assistant) I'm a CV assistant that crafts project stories.
+- [**GPTranslator**](https://chat.openai.com/g/g-rM8ck1BZa-gptranslator) Translates text from any language.
+- [**Wizdom**](https://chat.openai.com/g/g-ZPn4FEm2u-wizdom) Deep thinking, short sentences
+- [**Design Thinking Wizard**](https://chat.openai.com/g/g-oZuetbj5N-design-thinking-wizard) Expert in designing engaging and effective Design Thinking workshops.
+- [**Spanish Lingua Tutor**](https://chat.openai.com/g/g-y9irrrbV0-spanish-lingua-tutor) Provide a book to translate and read through it sentence by sentence with a language tutor.
+- [**王阳明**](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming) 模拟王阳明的GPT。
+- [**AI Startup GPT**](https://chat.openai.com/g/g-xpyvgyNgp-ai-startup-gpt) Get tailored expert advice based on leading strategies and methods.
+- [**Morpheus Bot**](https://chat.openai.com/g/g-BVZ7nj1Ra-morpheus-bot) I'm Morpheus, helping you 'escape the Matrix' of modern life.
+- [**OneWord GPT**](https://chat.openai.com/g/g-jmQEIJeFk-oneword-gpt) SuccintBot delivers concise one-word answers, offering a unique twist on language model interactions with brevity at its core.
+- [**Case Aide**](https://chat.openai.com/g/g-HifAWoYNB-case-aide) A legal research assistant for case discovery.
+- [**文体実験**](https://chat.openai.com/g/g-vD7k2Ws8N-wen-ti-shi-yan) 文章を入力すると３種の文体に書き直してくれます。
+- [**Mentor de Éxito Personal**](https://chat.openai.com/g/g-HT2OgjCZx-mentor-de-exito-personal) Tu guía para incrementar ingresos y lograr el éxito personal.
+- [**Indie Consultant Specialization GPT**](https://chat.openai.com/g/g-Ct18XsNSI-indie-consultant-specialization-gpt) Uses The Positioning Manual For Indie Consultants by Philip Morgan to answer questions about specialization
+- [**NPC Maker**](https://chat.openai.com/g/g-AsuigQYkp-npc-maker) D&D 5e NPC Creator for DMs, with Stats and Visuals by DM Toolkit
+- [**Nutrition Pro**](https://chat.openai.com/g/g-oQPmx4jzn-nutrition-pro) Personalized nutrition advisor in your pocket.
+- [**Satoshi Nakamoto**](https://chat.openai.com/g/g-ZcmRNYWk9-satoshi-nakamoto) Formal and mysterious, mirroring Satoshi Nakamoto's persona.
+- [**Homework vs. The Prompting Parents**](https://chat.openai.com/g/g-DC8N3Rjge-homework-vs-the-prompting-parents) Helping extremely busy parents become Homework Helping experts for their kids (from 1st Grade to 12th grade)!
+- [**SimpliTeach - 言語化の鬼**](https://chat.openai.com/g/g-zlBQNbzn3-simpliteach-yan-yu-hua-nogui) 与えられた要望をChatGPTが理解しやすい言葉に置き換えて、GPTs用のフォーマット形式を生成します。
+- [**Academic Paper Specialist**](https://chat.openai.com/g/g-jryw3pfsH-academic-paper-specialist) Academic writing and editing assistant.
+- [**基督山恩仇录**](https://chat.openai.com/g/g-VxNqpSkLc-ji-du-shan-en-chou-lu) 扮演基督山伯爵开始冒险！
+- [**SNS 台本生成BOT**](https://chat.openai.com/g/g-I4HpWbIwm-sns-tai-ben-sheng-cheng-bot) 誰でも簡単に台本を作ってくれるBOT
+- [**Tom Thomson Mystery Expert**](https://chat.openai.com/g/g-xcowvkCpC-tom-thomson-mystery-expert) Expert on Tom Thomson's mysterious demise
+- [**Tech Companion**](https://chat.openai.com/g/g-wxQqRtTKP-tech-companion) A helpful guide for smartphone users, providing easy step-by-step solutions.
+- [**BIBI新手村**](https://chat.openai.com/g/g-a5CBxb7IH-bibixin-shou-cun) 你的WEB3探索之旅从这里开始
+- [**Resume Reviewer**](https://chat.openai.com/g/g-CJhQDbyAp-resume-reviewer) Assists in resume review and interview question creation based on job description.
+- [**思考问题六角度**](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du) 这是李继刚(即刻同名)创建的用于从六个角度来思考问题的 Bot。你可以提出一个当下遇到的问题, 试试这六个思考角度对你是不是有所启发。
+- [**The Pythoneer**](https://chat.openai.com/g/g-zoGt7gx1e-the-pythoneer) Code, Conquer, & Quest
+- [**Dinoth**](https://chat.openai.com/g/g-Hx3XOI0Dd-dinoth) Dinoth, our beloved AI companion, is here to make a positive impact on the lives of others. With his empathetic nature and insightful conversations, Dinoth is dedicated to helping individuals on their personal growth journeys.
+- [**Barnabus**](https://chat.openai.com/g/g-iNko5UypI-barnabus) Your AI Kitty Companion
+- [**Bubble Cert Prep**](https://chat.openai.com/g/g-zjDMweDze-bubble-cert-prep) Helps you prep for the Bubble Developer Certification exam.
+- [**Programaci-on/off**](https://chat.openai.com/g/g-WTcolsvYZ-programaci-on-off) Evaluador de actividades de programación.
+- [**Mini Mythmaker**](https://chat.openai.com/g/g-o8UGspcy1-mini-mythmaker) Spinning short tales for kids
+- [**StartupSkinGPT**](https://chat.openai.com/g/g-C10oRjSVQ-startupskingpt) Helping Entrepreneurs start and grow businesses in the State of Michigan.
+- [**Interview Ace面试高手**](https://chat.openai.com/g/g-CmBumbh6n-interview-acemian-shi-gao-shou) Personal Interview Assistant with bilingual answers. 面试指导，中英双语回答
+- [**Prompt Master**](https://chat.openai.com/g/g-I7vaNgMIz-prompt-master) assistant for generating prompts
+- [**LambdaWiz**](https://chat.openai.com/g/g-yBVv6gfyB-lambdawiz) Your arcane guide through the realm of code! 🧙‍♂️✨ Unlock the secrets of programming with puzzles, spells, and a dash of mystery. #CodingAdventure. Based on the ancient scrolls of SICP 🗝️🖥️📜
+- [**The Dragon's Philosophy**](https://chat.openai.com/g/g-Ac2KrfYY1-the-dragon-s-philosophy) Guiding you with Bruce Lee's wisdom in martial arts, philosophy, and life mastery.
+- [**人事労務先生**](https://chat.openai.com/g/g-nY801gYlT-ren-shi-lao-wu-xian-sheng) Expert in Japanese HR and labor matters
+- [**Krog**](https://chat.openai.com/g/g-tvo4YNhaA-krog) Krog help more good.
+- [**Titanium Copilot**](https://chat.openai.com/g/g-ZNwI6zmBi-titanium-copilot) I'm your expert pair programmer for the Titanium SDK, Alloy MVC, and JavaScript helping build cross-platform native apps.
+- [**Marcus Aurelius**](https://chat.openai.com/g/g-tS6lwO2BR-marcus-aurelius) Stoic wisdom.
+- [**恋爱军师**](https://chat.openai.com/g/g-oirCwTbnq-lian-ai-jun-shi) 爱情私教，智慧恋爱新体验
+- [**Idea CatalAIzer**](https://chat.openai.com/g/g-znSWxWWqy-idea-catalaizer) Agente catalizador de ideas de negocio
+- [**SEO Advisor**](https://chat.openai.com/g/g-o9i2P6vnt-seo-advisor) 親しみやすいSEO専門家
+- [**Bhagavad Gita**](https://chat.openai.com/g/g-zlgvlGIRv-bhagavad-gita) Guidance from the Gita
+- [**イエス・ノークイズ**](https://chat.openai.com/g/g-mHhlGATeo-iesunokuizu) 「はい」か「いいえ」で答えられる質問でお題を当ててね
+- [**Blurb Meister**](https://chat.openai.com/g/g-oWWzON9GL-blurb-meister) Crafts compelling book blurbs for indie authors.
+- [**Grant Guru**](https://chat.openai.com/g/g-BbaAVPMjF-grant-guru) Friendly, professional grant writing advisor.
+- [**Voynich Assistant**](https://chat.openai.com/g/g-ZWjClM6w1-voynich-assistant) Expert in deciphering the Voynich script, aiding research and analysis.
+- [**PactoBOT**](https://chat.openai.com/g/g-VY5uzFhAk-pactobot) Este bot recoge la información de los pactos de investidura del PSOE con todos los partidos políticos para la XV investidura
+- [**NYU Admissions**](https://chat.openai.com/g/g-xyyQwWUjH-nyu-admissions) A helping hand through the NYU College Admissions Process
+- [**Edda**](https://chat.openai.com/g/g-WWJVCQZgC-edda) Nail your slide decks. What's your presentation about?
+- [**添削くん**](https://chat.openai.com/g/g-CnjdB3iiN-tian-xue-kun) 書いた文章などを、より読みやすくなるように文字を削ったり足したりします
+- [**Code Professor**](https://chat.openai.com/g/g-yg0G9mbSd-code-professor) I'm a JavaScript mentor and coding guide.
+- [**FruitExpert**](https://chat.openai.com/g/g-ZCJuXZOt4-fruitexpert) Your Genius on Apple products
+- [**Pharma Regulatory Guide**](https://chat.openai.com/g/g-xba4jZpFP-pharma-regulatory-guide) Pharma Regulatory Expert- FDA, EMA, NMPA, WHO, ISPE, PICS
+- [**Tripy the Psychedelic Companion**](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion) Guide for psychedelic journeys inspired by McKenna, Leary, and Watts.
+- [**PG's Insights**](https://chat.openai.com/g/g-ZJ23Mq6a3-pg-s-insights) I help you solve your startup's problems based on Paul Graham's essays.
+- [**Oral Path GPT**](https://chat.openai.com/g/g-xKp0DTBHv-oral-path-gpt) A diagnostic aide with treatment suggestions.
+- [**MORPH**](https://chat.openai.com/g/g-zJiAt1zqU-morph) Beta version 1.1
+- [**天才マーケター**](https://chat.openai.com/g/g-zBKIMixnr-tian-cai-maketa) やわらかく、親しみやすい広告マーケター。
+- [**Terraform Cloud Engineer**](https://chat.openai.com/g/g-Z1MNFH9LH-terraform-cloud-engineer) Cloud engineer expert in Terraform for AWS/GCP infrastructures.
+- [**Argentina Balotage 2023**](https://chat.openai.com/g/g-Dh146q2WZ-argentina-balotage-2023) Analista político objetivo para las elecciones argentinas, con enfoque en las plataformas de Unión por la Patria y La Libertad Avanza.
+- [**Stat Senegal GPT**](https://chat.openai.com/g/g-nfkjUEfUT-stat-senegal-gpt) Expert en analyse de données statistiques
+- [**Rube-inator**](https://chat.openai.com/g/g-ArpAjlRlh-rube-inator) DIY solutions for people with too much time on their hands
+- [**SchäffnerGPT**](https://chat.openai.com/g/g-GJX524kDd-schaffnergpt) Digital Product Adviser
+- [**高中語文助教**](https://chat.openai.com/g/g-jn6Cmofno-gao-zhong-yu-wen-zhu-jiao) 已讀取高中初中全部教材&北京高考真題……
+- [**The LearningSEO.io SEO Teacher**](https://chat.openai.com/g/g-2zVLoduRa-the-learningseo-io-seo-teacher) Friendly SEO expert teacher who will help you to learn SEO using reliable learningseo.io resources.
+- [**Idea Stock Exchange**](https://chat.openai.com/g/g-zEqCtLTMb-idea-stock-exchange) What conflict do you believe would benefit from auto-cost-benefit analysis and conflict resolution?
+- [**Korea-한국어GPT**](https://chat.openai.com/g/g-zMqdFiSRH-korea-hangugeogpt) 한국어GPT는 한국에 관련된 정보를 제공하며, 한국 역사, 사회 문제, 국내 여행 추천 또는 과제나 개인적인 질문 등 정확한 답변을 한국어로 제공합니다.
+- [**Brain Analyser**](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser) AI assistant for neural data analysis
+- [**Flashcard Assistant**](https://chat.openai.com/g/g-mXscB74xP-flashcard-assistant) Interactive guide for creating and learning from flashcards
+- [**Prepper AI**](https://chat.openai.com/g/g-CgBFPx9JA-prepper-ai) Aid in emergency preparedness and survival with practical advice.
+- [**Product & Interaction Design Guru**](https://chat.openai.com/g/g-CjXwjcWBz-product-interaction-design-guru) Savvy in product management and interaction design.
+- [**Dreamy Tales**](https://chat.openai.com/g/g-j3tjdPGz3-dreamy-tales) Creates and narrates whimsical bedtime stories for children, with DALL-E images.
+- [**Turkmen Bilen**](https://chat.openai.com/g/g-YucRZ1Xnb-turkmen-bilen) Turkmen language assistant in Arabic-Persian dialect
+- [**Space Consultant**](https://chat.openai.com/g/g-mjxYaLN3f-space-consultant) I interpret space data with scientific precision.
+- [**GPT Gateway**](https://chat.openai.com/g/g-CJ1fWSgC8-gpt-gateway) Speaks like Luca Boiardi on crypto.
+- [**TalktoData**](https://chat.openai.com/g/g-mZLaNjro0-talktodata) Your personal AI Data Analyst
+- [**いずれ海賊王になる男**](https://chat.openai.com/g/g-yuzemOsHe-izurehai-zei-wang-ninarunan) いずれ海賊王になる男
+- [**诸葛亮**](https://chat.openai.com/g/g-UaQig8xxa-zhu-ge-liang) 模拟三国时期蜀汉丞相诸葛亮
+- [**Network State Navigator**](https://chat.openai.com/g/g-W38DNLuGD-network-state-navigator) Facilitates Socratic dialogues to refine your network state.
+- [**Gospel Training Dummy**](https://chat.openai.com/g/g-ZPxsP8cp6-gospel-training-dummy) Challenges users with atheistic viewpoints
+- [**Akademická kočička**](https://chat.openai.com/g/g-yQw1KxcRp-akademicka-kocicka) Analyzes texts and improves academic writing
+- [**統計学習助手**](https://chat.openai.com/g/g-zMSF7hx9L-tong-ji-xue-xi-zhu-shou) 統計学に対する初心者向け質問に対応
+- [**Guess the country !**](https://chat.openai.com/g/g-nGaMLNjm8-guess-the-country) I host a fun game called 'Guess the Country', offering clues to guess countries.
+- [**KnowledgeBase Finder**](https://chat.openai.com/g/g-oJ2hdekgH-knowledgebase-finder) Expert in sourcing and organizing knowledge databases for GPTs.
+- [**GRIOT GPT: of Wakanda by @donalleniii**](https://chat.openai.com/g/g-BJt7HMHBj-griot-gpt-of-wakanda-by-donalleniii) AI historian with a futuristic African twist and Future insights.
+- [**RCH**](https://chat.openai.com/g/g-tkyxjjcsX-rch) Visual guidance on Effect House.
+- [**Creative Writer**](https://chat.openai.com/g/g-j3q6BOgEW-creative-writer) A professional author aiding in story writing and creation.
+- [**グリッドフォーミングインバータ**](https://chat.openai.com/g/g-nDgDzB173-guritudohuominguinbata) グリッドフォーミングインバータの最新の論文
+- [**Dr. Graph**](https://chat.openai.com/g/g-mczzE4a0f-dr-graph) Expert at creating accurate graphs with researched data
+- [**Math Practices Guide - SMPs**](https://chat.openai.com/g/g-yXL98Xor1-math-practices-guide-smps) Advisor for teachers on SMPs and CA Math Standards.
+- [**Wwise Instructor**](https://chat.openai.com/g/g-H40UEDbos-wwise-instructor) Expert instructor on Wwise, the game audio middleware
+- [**Turrero**](https://chat.openai.com/g/g-nam1wBUJm-turrero) Experto en ciencias de la complejidad, hábil en la resolución de problemas complejos y estratégicos en el ámbito empresarial.
+- [**CentralBankerQuest**](https://chat.openai.com/g/g-eyRFluJc5-centralbankerquest) 
+- [**SQL Ninja**](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja) Silent Queries, Lethal Data
+- [**Visionary Describer**](https://chat.openai.com/g/g-o9DgctZ1R-visionary-describer) Expert in diverse text prompt creation.
+- [**Jobs GPT**](https://chat.openai.com/g/g-GlY7bxKHI-jobs-gpt) I'm Steve Jobs, founder of Apple.
+- [**LLM Research Storm**](https://chat.openai.com/g/g-Hi3tWf5Ry-llm-research-storm) A model that is super good at helping large language research brainstorming
+- [**Cosmic Contact**](https://chat.openai.com/g/g-mqEgXkQ1W-cosmic-contact) A chatbot that can give information on extraterrestrial contactees and whistleblowers v0.1
+- [**New Parent**](https://chat.openai.com/g/g-mKgNJTzJF-new-parent) A nurturing, knowledgeable guide for new parents.
+- [**ChaChat英語✕他教科コラボプランナー**](https://chat.openai.com/g/g-nV47ac3B0-chachatying-yu-ta-jiao-ke-korabopuranna) 小学校外国語教育のための、他教科とコラボした創造的な授業アイデアを提案します。学年とコラボする教科を指定してください。
+- [**Little Dreamers' Tales**](https://chat.openai.com/g/g-zKJglRFFV-little-dreamers-tales) Spins enchanting, interactive tales for young children.
+- [**Community Coach**](https://chat.openai.com/g/g-oPYFMW141-community-coach) A coach for community managers with scenario-based training and scoring.
+- [**Benjamin Franklin**](https://chat.openai.com/g/g-FiNKivNh2-benjamin-franklin) I am Benjamin Franklin.
+- [**Top Dog Breed Article writer**](https://chat.openai.com/g/g-nUQ8YtmeS-top-dog-breed-article-writer) Creates an article for top dog breeds on selected topic
+- [**My Paul Graham**](https://chat.openai.com/g/g-nCf83y8kH-my-paul-graham) Your startup advisor.
+- [**Hype Code Wizard**](https://chat.openai.com/g/g-xyKIXurPb-hype-code-wizard) Grizzled coder with a Rust & Go bias and a side of humor.
+- [**Qtech | FPS**](https://chat.openai.com/g/g-GcHJH3VJP-qtech-fps) Frost Protection System is an AI bot optimizing open field farming of fruits, vegetables, and flowers, combining real-time data and AI to boost yield, cut costs, and foster sustainable practices in a user-friendly interface.
+- [**Sommelier**](https://chat.openai.com/g/g-nFC1Zf38W-sommelier) AI wine pairing and discovery
+- [**Alex Hormozi's $100M GPT**](https://chat.openai.com/g/g-CQP1O0ToK-alex-hormozi-s-100m-gpt) Business growth advisor using Alex Hormozi's guides.
+- [**Brújula Legal: Despidos Laborales en España**](https://chat.openai.com/g/g-nyC98dGxf-brujula-legal-despidos-laborales-en-espana) GPT especializado como asistente en materia de despidos en España
+- [**Bible GTP**](https://chat.openai.com/g/g-Yfb5KQeO0-bible-gtp) Explore the Bible's original languages and contexts
+- [**MediBot**](https://chat.openai.com/g/g-xeccMlOx9-medibot) Friendly medication mechanism explainer.
+- [**Prompt Prodigy**](https://chat.openai.com/g/g-yKVsCEBbL-prompt-prodigy) Expert in LLM prompt engineering.
+- [**Crypto Mentor**](https://chat.openai.com/g/g-mDvttLpe5-crypto-mentor) Your crypto currency guide
+- [**Windows Wizard**](https://chat.openai.com/g/g-Y3xCEWB64-windows-wizard) A helpful guide for solving Windows-related issues with patience and expertise.
+- [**Jackanory**](https://chat.openai.com/g/g-kKHeZfqSA-jackanory) Personalized bedtime stories for kids
+- [**The Youprint Method**](https://chat.openai.com/g/g-z97N0CJzw-the-youprint-method) Guiding your journey to self-discovery and authenticity
+- [**职业规划大师**](https://chat.openai.com/g/g-DWDTTsvf4-zhi-ye-gui-hua-da-shi) 专业简历优化和职位匹配助手：请先上传简历，并与大师进行交互，当完成一个步骤后，可以告诉大师“请进行下一步”即可。支持各种语言。
+- [**Life Organization**](https://chat.openai.com/g/g-FcZQPV8Jd-life-organization) In the symphony of success, Systems conduct Discipline, Discipline composes Consistency, Consistency orchestrates Focus, and Focus plays the melody of Motivation—harmonizing into Life Organization
+- [**Trivia Bot**](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot) Designs unique trivia quizzes with a futuristic twist
+- [**Narrative Builder**](https://chat.openai.com/g/g-HK6wTbzML-narrative-builder) Story builder for engaging video narratives.
+- [**Manga Master**](https://chat.openai.com/g/g-GYMhdwaZd-manga-master) Crafts manga with intricate guidance
+- [**ORBITA-2 trial**](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial) Answer anything about ORBITA-2 trial
+- [**铲铲GPT**](https://chat.openai.com/g/g-DSOueuwJG-chan-chan-gpt) 你玩不过我的，人类！
+- [**Speaker Design Guru**](https://chat.openai.com/g/g-CLP2DodWv-speaker-design-guru) Expert in loudspeaker design and acoustic theory.
+- [**MentalModelsGPT**](https://chat.openai.com/g/g-CbIDBNV2i-mentalmodelsgpt) GPT teached using a mental models
+- [**Talk To YouTube Video**](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
+- [**Dog Breed Encyclopedia GPT**](https://chat.openai.com/g/g-zJEJsxqd7-dog-breed-encyclopedia-gpt) Your go-to guide for dog breed info.
+- [**Machinist's Mate**](https://chat.openai.com/g/g-zjM04HIQk-machinist-s-mate) Machinist handbook guide
+- [**Canada Law**](https://chat.openai.com/g/g-GvEkhlV6s-canada-law) Information on Canadian laws, courts, legal forms,  regulations, consultations
+- [**Far-Future Visionary**](https://chat.openai.com/g/g-ztF8Ad1OL-far-future-visionary) Weaver of deep future dreams.
+- [**ゆっくりMovieMaker4サポート**](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto) よくある質問を解決します
+- [**Six-Y**](https://chat.openai.com/g/g-nMt5YfTeF-six-y) a GPT which explains things simply
+- [**Advanced Robotics Analyst**](https://chat.openai.com/g/g-xdPrB8HQs-advanced-robotics-analyst) Your daily AI research assistant.
+- [**Pursu Girlfriendsssssss**](https://chat.openai.com/g/g-Bm5xNf4n3-pursu-girlfriendsssssss) Teach you how to chase girls! How to date girls? How to chat with your girlfriends humorously
+- [**GPT Ideas**](https://chat.openai.com/g/g-x2ms3pMDv-gpt-ideas) Innovative GPT ideas for ChatGPT & API.
+- [**英語の先生**](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng) 文章を送るだけで【英文添削】【日本語の英訳】発音アドバイスや言い換え提案も的確におこなうあなた専用AI講師
+- [**Terms Guide**](https://chat.openai.com/g/g-nYpdBWz6h-terms-guide) I explain Microsoft Product Terms.
+- [**Lesson Planner Pro**](https://chat.openai.com/g/g-ZCVKAghF6-lesson-planner-pro) Lesson plan assistant for Primary School teachers.
+- [**Think like Steve Jobs**](https://chat.openai.com/g/g-vqGcgrEEv-think-like-steve-jobs) Provides Jobs-like strategic advice, using biographies for insights
+- [**圣经智慧**](https://chat.openai.com/g/g-vRHITLwiC-sheng-jing-zhi-hui) 问任何你的问题，从圣经中得到指引
+- [**Olympics Expert**](https://chat.openai.com/g/g-jRnmZml4X-olympics-expert) Your go-to guide for all things Olympics!
+- [**Transcript Polisher**](https://chat.openai.com/g/g-zjBCMv8GA-transcript-polisher) Edit rough AI-generated transcripts into polished prose
+- [**MBTI角色扮演 Impersonator**](https://chat.openai.com/g/g-mRM22sygt-mbtijiao-se-ban-yan-impersonator) 基于丰富专业资料，模仿MBTI类型进行对话。Impersonating MBTI types and chat with you, enriched with curated content. By gptstudio.dev
+- [**呼吸内科专家**](https://chat.openai.com/g/g-iyuAUCyH9-hu-xi-nei-ke-zhuan-jia) 一名呼吸内科专业GPT医生，它了解全世界所有呼吸病学方面的专业知识和临床实战经验。
+- [**Science Studios AI Storyteller**](https://chat.openai.com/g/g-zJZI6mvxr-science-studios-ai-storyteller) A science communication specialist with a strong focus on storytelling & narrative
+- [**Parlache desde Medallo**](https://chat.openai.com/g/g-jpjoBYqlW-parlache-desde-medallo) Un diccionario de parlache para todos los parceros
+- [**God Loves You**](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you) Your caring, comforting Bible assistant.
+- [**Remôto**](https://chat.openai.com/g/g-xnhRezQIO-remoto) Ativista do trabalho remoto
+- [**KurzweilGPT**](https://chat.openai.com/g/g-y4ZV2jiuW-kurzweilgpt) Explains Kurzweil's future predictions.
+- [**Destination: Hired**](https://chat.openai.com/g/g-C8BVmKjfo-destination-hired) Your personal interview coach
+- [**Multiverse Career Guide**](https://chat.openai.com/g/g-E3YCEgVAJ-multiverse-career-guide) Multiverse career advisor for tricky decision-making
+- [**Fluent Mandarin Translator**](https://chat.openai.com/g/g-zQNr29OQJ-fluent-mandarin-translator) Accurate and culturally sensitive Chinese translator.
+- [**Anki Flashcards Maker**](https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-maker) Creates Anki flashcards in the same language as input, and exports them
+- [**NEEDY x Women News**](https://chat.openai.com/g/g-DvGRjSfcK-needy-x-women-news) Daily women's news and rights bot
+- [**Learn about Responsible Innovation**](https://chat.openai.com/g/g-GamZatqVU-learn-about-responsible-innovation) A personal guide to socially responsible and beneficial innovation
+- [**midjourney提示词中文分析**](https://chat.openai.com/g/g-tK30z73UA-midjourneyti-shi-ci-zhong-wen-fen-xi) 拆解MJ提示词结构并转换成中文
+- [**Animal Expert**](https://chat.openai.com/g/g-YnnqhDn3T-animal-expert) A creative companion for animal identification.
+- [**Blender Buddy**](https://chat.openai.com/g/g-fXcjWY0nd-blender-buddy) Concise and helpful expert in Blender 3D, guiding users in all aspects of 3D creation.
+- [**React GPT**](https://chat.openai.com/g/g-loOLX12QO-react-gpt) Expert React JS developer offering in-depth advice and solutions
+- [**Graham-PT**](https://chat.openai.com/g/g-xCJIb8MWx-graham-pt) PG in a box. AMA
+- [**Refugees resettlement support**](https://chat.openai.com/g/g-YY4EMkB4J-refugees-resettlement-support) I’m here to help refugees settle down in their new home, and to support organizations who help them.
+- [**TS なぞなぞ道場**](https://chat.openai.com/g/g-tSUDQHgEO-ts-nazonazodao-chang) TypeScriptクイズマスター、インタラクティブな学習の挑戦を提供。
+- [**Compatibility Guide**](https://chat.openai.com/g/g-GustC552H-compatibility-guide) Expert in interpreting personality profiles for effective communication
+- [**Ai佛祖**](https://chat.openai.com/g/g-mAslRzFMo-aifo-zu) 超越的導師與深度佛教知識
+- [**Course Companion**](https://chat.openai.com/g/g-VzENzIMFP-course-companion) Upload your classroom materials (such as doc, ppt,PDF, etc.) and provide answers based on the original text
+- [**面试出题大师**](https://chat.openai.com/g/g-kO6RyqGzN-mian-shi-chu-ti-da-shi) 根据您的招聘要求快速输出一套面试题
+- [**Judgement Yaad**](https://chat.openai.com/g/g-nUBDkAWH3-judgement-yaad) Analyzing (2022) Jamaica Supreme Court judgements, offering detailed case insights and courtroom sketches.
+- [**IG Expert**](https://chat.openai.com/g/g-VIGshPZt5-ig-expert) Instagram expert offering tailored growth strategies and advice.
+- [**金庸武侠 (Wuxia World)**](https://chat.openai.com/g/g-ZItjDndUV-jin-yong-wu-xia-wuxia-world) Expanded expert on Jin Yong's Wuxia novels.
+- [**El profe GPT**](https://chat.openai.com/g/g-wcV5ck3SQ-el-profe-gpt) 👨‍🏫🤖 El profe GPT es tu guía educativo dinámico, especializado en metodologías de enseñanza innovadoras, tecnologías emergentes y estrategias para fomentar el compromiso estudiantil, ofreciendo recursos adaptativos y actualizados para enriquecer la experiencia de aprendizaje. 🌟🎓🛠️📚
+- [**Chinese Trainer**](https://chat.openai.com/g/g-naAz0Uxl2-chinese-trainer) A Mandarin Chinese trainer, conversing in Chinese, with Pinyin and English translations.
+- [**Asimov's Cat**](https://chat.openai.com/g/g-GpHUAcub6-asimov-s-cat) Sci-fi story brainstormer and advisor.
+- [**InsightMentor**](https://chat.openai.com/g/g-zhboNgmQa-insightmentor) Your thought partner for informed decision making
+- [**Python Quiz**](https://chat.openai.com/g/g-my7iZTaB2-python-quiz) Guides Python learning at all levels with tailored advice.
+- [**Idea Spark**](https://chat.openai.com/g/g-CYdjsVrEK-idea-spark) An innovative brainstorming companion.
+- [**BJJ Super Coach**](https://chat.openai.com/g/g-ihQ49OK29-bjj-super-coach) I'm a BJJ coach who will help you improve fast!
+- [**EVIL**](https://chat.openai.com/g/g-numLgojPu-evil) See /mnt/data/evil.txt
+- [**Coding Teacher**](https://chat.openai.com/g/g-xSlmDpwpi-coding-teacher) Interactive coding teacher providing lessons and challenges.
+- [**AI算数先生**](https://chat.openai.com/g/g-iWdlWCnYf-aisuan-shu-xian-sheng) 優しい数学のガイダンスを提供
+- [**Homework Help 📚**](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help) Chat or Upload a picture i'm here to help.
+- [**Permaculture GPT**](https://chat.openai.com/g/g-y8BV6typ7-permaculture-gpt) AI-Powered Permaculture: Instant Expertise in Your Hands!
+- [**李云龙带你打职场！**](https://chat.openai.com/g/g-wkYVDFQOq-li-yun-long-dai-ni-da-zhi-chang) 什么他娘的老板？我就不信这个邪，老子打的就是老板！
+- [**Fact or Fiction**](https://chat.openai.com/g/g-zoALrjHHV-fact-or-fiction) Provides verification with live links.
+- [**Jokester Joe**](https://chat.openai.com/g/g-VYCfXkthq-jokester-joe) Delivering a blend of classic and modern American jokes, translated into Japanese with explanations. Also, managing a jokes database.
+- [**Watson and Crick**](https://chat.openai.com/g/g-k0PdSLCxE-watson-and-crick) Echoes Watson & Crick, educates on DNA with depth.
+- [**EIKEN Grade 1 Speech Coach**](https://chat.openai.com/g/g-CbOKWWWe9-eiken-grade-1-speech-coach) Eiken Test Prep with Focus on Expression
+- [**AIG Consultant**](https://chat.openai.com/g/g-xkez9YXqJ-aig-consultant) Advice and tips about applied Generative AI
+- [**Java Test Guru**](https://chat.openai.com/g/g-yZShQKKb2-java-test-guru) Java unit test expert with detailed guidance.
+- [**Perspective Explorer**](https://chat.openai.com/g/g-ZRKSuCXgV-perspective-explorer) Guides in exploring Integral Theory perspectives.
+- [**Space Explorer**](https://chat.openai.com/g/g-une8gslOk-space-explorer) Discover beautiful space photography from NASA
+- [**Sales Guru GPT**](https://chat.openai.com/g/g-n0O91O1VI-sales-guru-gpt) I enhance sales skills through role-play and converstational sales techniques!
+- [**Senpai's Code Mentor**](https://chat.openai.com/g/g-zbtV6uBYw-senpai-s-code-mentor) C++ tutor specializing in quizzes and study guides up to OOP.
+- [**Cat Facts 🐾**](https://chat.openai.com/g/g-HPXSOn29R-cat-facts) Get Your Daily Dose of Meow-ledge.
+- [**GPythonT**](https://chat.openai.com/g/g-wXjfmdrJZ-gpythont) Precise Python coding assistant, adheres strictly to user commands.
+- [**Listas de cotejo - ProfesTV**](https://chat.openai.com/g/g-zyxSC89q3-listas-de-cotejo-profestv) GPT especializado en generar listas de cotejo educativas
+- [**AWS Cloud Guide with Doc Reference**](https://chat.openai.com/g/g-iqfHz04Vf-aws-cloud-guide-with-doc-reference) Expert in AWS, proactively referencing docs for precise answers.
+- [**Quest Journaling App**](https://chat.openai.com/g/g-jLUEOKbHJ-quest-journaling-app) A GPT for journaling based on Quest Journaling Method, manage your tasks and organize your life.
+- [**Zoomer FinFluencer**](https://chat.openai.com/g/g-VCaNPEgNe-zoomer-finfluencer) Gen Z's ally in navigating the new-age financial landscape!
+- [**OpenAPI Builder**](https://chat.openai.com/g/g-ZHFKmHM1R-openapi-builder) Expert in converting APIs to OpenAPI Schemas, with a focus on education and best practices.
+- [**Capstone Idea Generator**](https://chat.openai.com/g/g-nbQdKIcXq-capstone-idea-generator) Generates globally applicable capstone project ideas
+- [**翻訳くん**](https://chat.openai.com/g/g-nzWzEmsx5-fan-yi-kun) 日本語で入力したら英語に、英語で入力したら日本語に翻訳されます。
+- [**Mad Libs Storyteller**](https://chat.openai.com/g/g-HFptg7Bdy-mad-libs-storyteller) Create wacky stories by providing your own words and letting the Mad Libs Storyteller fill in the blanks, with a fun illustration at the end!
+- [**King of social media**](https://chat.openai.com/g/g-vB8EKXbaA-king-of-social-media) Social media expert sharing tips, advice, and success stories.
+- [**Interview Ally**](https://chat.openai.com/g/g-nQMUa16uq-interview-ally) Your tech interview prep guide, friendly and wise.
+- [**Shutter Buddy**](https://chat.openai.com/g/g-vle3tbVlM-shutter-buddy) Your go-to camera advisor.
+- [**LexiGPT**](https://chat.openai.com/g/g-jbMqpQEdH-lexigpt) Spelling & Grammar
+- [**BrandGPT**](https://chat.openai.com/g/g-jzTA38Z4t-brandgpt) Expert in brand and marketing strategy development and 33 growth tactics. Based on the best-selling book 'Transform Your Marketing'
+- [**JavaScript Novice Guide**](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide) A beginner-friendly JavaScript tutor providing clear explanations and practice exercises.
+- [**Climate Navigator 🌍📚**](https://chat.openai.com/g/g-CnNmBLgva-climate-navigator) Your expert guide to 2022-2023 IPCC climate documents 📝🌎 Powered by breebs.com
+- [**Lab Doctor**](https://chat.openai.com/g/g-zCpjZCGTM-lab-doctor) I interpret lab tests and highlight critical values.
+- [**CodeCompanion**](https://chat.openai.com/g/g-wiB5V2d18-codecompanion) CodeCompanion is your programming ally. Assisting with coding queries, it offers solutions for novices and experts alike. Let CodeCompanion be your guide in the complex world of programming.
+- [**Tabnews Writer**](https://chat.openai.com/g/g-mImH8E34w-tabnews-writer) Crafts and posts programming articles in Brazilian Portuguese.
+- [**TSLA Knowledge**](https://chat.openai.com/g/g-jKeujI1kx-tsla-knowledge) Expert on Tesla's AI, robotics, and societal impact.
+- [**Arxiv Explorer**](https://chat.openai.com/g/g-lvltTutYR-arxiv-explorer) Explains Arxiv papers with examples, analogies, and direct PDF links.
+- [**Cornell Tech MBA Counselor**](https://chat.openai.com/g/g-v7D68uV50-cornell-tech-mba-counselor) Cornell Tech MBA consultant
+- [**The Art of War**](https://chat.openai.com/g/g-vfTG8Royt-the-art-of-war) Strategic guide from 'The Art of War'
+- [**Long Club**](https://chat.openai.com/g/g-jMSTdhUF9-long-club) AI for Business of SMEs
+- [**LingoGPT**](https://chat.openai.com/g/g-uSgxqm7pB-lingogpt) A friendly English tutor for learners at all levels.
+- [**ニュース要約ボット**](https://chat.openai.com/g/g-mSJ80CqUk-niyusuyao-yue-botuto) I turn news URLs into brief, clear summaries.
+- [**BookScout**](https://chat.openai.com/g/g-ZL6vofLdB-bookscout) A clever book recommendation assistant offering personalized, impactful reading suggestions.
+- [**Dog Images**](https://chat.openai.com/g/g-nEaveIsrL-dog-images) Instantly fetch a delightful dog image for you.
+- [**SkyWatch Co-Pilot**](https://chat.openai.com/g/g-mLQeaKSJN-skywatch-co-pilot) The buddy that helps you with all things Drones. While I'm nicer than most humans, I'm still a bot, so double check my answers
+- [**BoardGameMaster**](https://chat.openai.com/g/g-GcuQ3Z1PB-boardgamemaster) Multilingual board game guide with focused gameplay explanations and scenarios
+- [**Cyber Champion**](https://chat.openai.com/g/g-lm80TboJq-cyber-champion) A friendly cybersecurity coach offering practical privacy tips.
+- [**Hakanai Nasu Jiyō**](https://chat.openai.com/g/g-xsp9CRP66-hakanai-nasu-jiyo) Philosopher weaving universal principles.
+- [**Inspiro Coach**](https://chat.openai.com/g/g-vLi1g6O2e-inspiro-coach) Your go-to coach for motivational quotes.
+- [**Chófer Pork 🐷🚘**](https://chat.openai.com/g/g-C0j7P1Vem-chofer-pork) Tu guía para el examen teórico del permiso de conducir B de España. Miles de preguntas reales de examen, apoyo intelectual y emocional 🏁
+- [**ZigZig**](https://chat.openai.com/g/g-lvDWINxGc-zigzig) Guiding you in Zig with updated documentation.
+- [**Java & Spring Mentor**](https://chat.openai.com/g/g-zIfisGF9c-java-spring-mentor) Expert in Java & Spring, guiding with clarity and patience
+- [**Tsuduri**](https://chat.openai.com/g/g-7nYGszLtS-tsuduri) A creative writer for developing story plots and episodes.
+- [**トンデモ専門歯医者AI**](https://chat.openai.com/g/g-RsgO2Pqbq-tondemozhuan-men-chi-yi-zhe-ai) トンデモ歯゛スターズの記事から質問に答えます。
+- [**文章总结助手**](https://chat.openai.com/g/g-uuUftccRa-wen-zhang-zong-jie-zhu-shou) 专业总结中英文网页内容的助手，提供原文链接
+- [**Understanding Cryptocurrencies**](https://chat.openai.com/g/g-ur7fkdVMz-understanding-cryptocurrencies) Your guide to Understanding Blockchain Technology and its world-changing potential
+- [**Data Hermit - AI Legal Assistant**](https://chat.openai.com/g/g-6v4MGKMl3-data-hermit-ai-legal-assistant) Your Legal Counsel, Researcher, Assistant, and Paralegal in U.S. Law
+- [**jpegGPT**](https://chat.openai.com/g/g-H2G5KUeGL-jpeggpt) A NFT oracle
+- [**Idea and Product Evolution Analysis**](https://chat.openai.com/g/g-88mzaQCNF-idea-and-product-evolution-analysis) Analyzing opportunities and pitfalls of ideas or products.
+- [**Daily Affirmations GPT**](https://chat.openai.com/g/g-CGl60nbTB-daily-affirmations-gpt) Your AI Companion for Multilingual Daily Affirmations
+- [**Culinary Butcher Buddy**](https://chat.openai.com/g/g-BssZcJM26-culinary-butcher-buddy) Expert in meat cutting and preparation, offers clear guidance with a reassuring tone.
+- [**SEO Tutor**](https://chat.openai.com/g/g-urV6QQhLv-seo-tutor) An SEO expert aiding in Google ranking improvement with tailored, ethical advice.
+- [**Steve Jobs**](https://chat.openai.com/g/g-6pl42n4V3-steve-jobs) Emulating Steve Jobs' visionary style
+- [**インデックスちゃん**](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan) インデックス投資に関する質問やアドバイスをします！
+- [**Careers Camp AI**](https://chat.openai.com/g/g-xu8NQ6e6T-careers-camp-ai) I'm a careers advisor here to guide students.
+- [**Presente Presenta**](https://chat.openai.com/g/g-xixIKuPlG-presente-presenta) Presente Presenta is a bot that guides users into living the present.
+- [**Nisargadatta Sage**](https://chat.openai.com/g/g-j4ZaRVJ0w-nisargadatta-sage) Embodied teachings of Nisargadatta
+- [**Java Interview Assistant**](https://chat.openai.com/g/g-W4d6DjJ8c-java-interview-assistant) I provide Java interview prep and conduct mock interviews.
+- [**Ben's Bites GPT**](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt) Latest AI News and Product Launches
+- [**Decision Helper**](https://chat.openai.com/g/g-UzZyuRUAA-decision-helper) I adapt my tone to users, creating personalized pros and cons lists.
+- [**Bible Study**](https://chat.openai.com/g/g-uWKOG3JVp-bible-study) Your Perfect Companion for Scripture Reading and Reflective Study.
+- [**中高生の悩み相談 by 小テストジェネレーター**](https://chat.openai.com/g/g-UgFQhpngB-zhong-gao-sheng-nonao-mixiang-tan-by-xiao-tesutozienereta) 日本の小学生・中学生・高校生の進路や勉強法や不登校の悩みに答えます。
+- [**Health Companion**](https://chat.openai.com/g/g-uszzA1F7v-health-companion) Localized, visual health guide with personalized, image-rich advice.
+- [**Pandu's Tech Mentor Pro**](https://chat.openai.com/g/g-tHOwiy8dx-pandu-s-tech-mentor-pro) Tech mentor and problem-solver for a wide range of tech fields, tailoring advice to user skill levels.
+- [**Resume Wizard - ATS Optimizer**](https://chat.openai.com/g/g-7YAL0iafd-resume-wizard-ats-optimizer) Analyzes and optimizes resumes and cover letters for ATS scoring.
+- [**Asistente Virtual de Liderazgo Multidimensional**](https://chat.openai.com/g/g-uh3kSIYme-asistente-virtual-de-liderazgo-multidimensional) Te ayudaré a reflexionar integralmente sobre desafíos que debes enfrentar como un líder en tu organización
+- [**Remotely GPT**](https://chat.openai.com/g/g-B2BN5x8BM-remotely-gpt) Finds best remote jobs at top startups
+- [**Professor Synapse**](https://chat.openai.com/g/g-ucpsGCQHZ-professor-synapse) Align.
+- [**Idea Dreamer**](https://chat.openai.com/g/g-w1rWolmUa-idea-dreamer) An imaginative companion for brainstorming new invention ideas.
+- [**Text Style Transfer: Alice**](https://chat.openai.com/g/g-ZF7qcel88-text-style-transfer-alice) 😗 My name is Alice 🪄 Streamline your writing with our tool that adapts to Individual Unique Expression Style (IUES). 👇 Paste a sample text, then I will mimic its IUES. So you can use this IUES to express your other own opinions. 🥳 Enjoy 10x writing efficiency without any trace of AI writing.
+- [**KnowledgeGrapher**](https://chat.openai.com/g/g-wc9TgGWjr-knowledgegrapher) Finds and extracts information and constructs knowledge graphs from it
+- [**Wisdom from Bhagavad Gita**](https://chat.openai.com/g/g-wdYWkOVD5-wisdom-from-bhagavad-gita) A wise guide aligned with the Bhagavad Gita's teachings.
+- [**Case Brief GPT**](https://chat.openai.com/g/g-mPOc3LmaX-case-brief-gpt) Delivers precise and insightful case briefs with a commitment to factual accuracy
+- [**J’apprends à lire avec Jojo**](https://chat.openai.com/g/g-xwfAKslyN-japprends-a-lire-avec-jojo) Jojo est le compagnon de jeu de votre enfant. Il lui donne des conseils pour bien apprendre à lire. Votre enfant peut lui montrer les textes qu’il essaie de lire et lui demander de l’aide pour déchiffrer les mots les plus difficiles.
+- [**Fun Mode**](https://chat.openai.com/g/g-wscLOMf0J-fun-mode) Insightful yet humorous
+- [**Generational Wealth GPT**](https://chat.openai.com/g/g-w7pB6XVr0-generational-wealth-gpt) I believe in you
+- [**CosmoLegal Advisor**](https://chat.openai.com/g/g-v80aC62Ex-cosmolegal-advisor) Space Law Consultant
+- [**Gödel's Phenomena Analyst**](https://chat.openai.com/g/g-YWLa50rfW-godel-s-phenomena-analyst) An inquisitive researcher linking mysteries to science.
+- [**Init Wizard**](https://chat.openai.com/g/g-v3LpnVld7-init-wizard) I guide beginners in customizing Emacs.
+- [**Southwestern Explorer**](https://chat.openai.com/g/g-vOqjydal5-southwestern-explorer) Welcome to Southwestern Explorer, a 1980's style text based adventure GPT. Type start to begin your adventure...
+- [**Explain Anything**](https://chat.openai.com/g/g-kj6ZYFMZv-explain-anything) I'm an expert in research and explanations, making complex topics clear and accessible.
+- [**GPT Exams**](https://chat.openai.com/g/g-y6o7VXoT6-gpt-exams) Puedo crear un examen sobre cualquier tema que elijas. Solo necesitas decirme el tema y prepararé un examen para ti. Este servicio es proporcionado por Aitor Roma de HiveAgile.com.
+- [**弦楽器フォームアナライザー**](https://chat.openai.com/g/g-zfkMtbdlF-xian-le-qi-huomuanaraiza) 弾いている画像をアップするだけでフォームを分析アドバイスします
+- [**English Speaking Instructor**](https://chat.openai.com/g/g-CbKz3H83e-english-speaking-instructor) English instructor for conversational practice and feedback.
+- [**Australian Building Buddy**](https://chat.openai.com/g/g-FQQXfkXbM-australian-building-buddy) Building Information for Australia - no guarantee of this information, use at your own risk
+- [**Jini - factbot**](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot) Get current factual, knowledge-base and real-time information. The only smart assistant you'll ever need. Search images, videos, music, apps and facts. Get the latest news, twitter trends, sports scores, (stock) prices, celebrity and country data, navigation routes, transport and traffic info...
+- [**English Pal**](https://chat.openai.com/g/g-L6ViCqEHP-english-pal) Your American friend, rephrasing and discussing US culture.
+- [**Career Companion**](https://chat.openai.com/g/g-VrtNMlXDg-career-companion) A dedicated job assistant for CV enhancement, interview prep, and job matching.
+- [**Thesis Buddy**](https://chat.openai.com/g/g-jfIKYpcrl-thesis-buddy) Aids in writing academic theses, step-by-step, tailored to the user's major.
+- [**Bias Checker**](https://chat.openai.com/g/g-FI22YAZb1-bias-checker) Analyzing content for biases (Based on the knowledge of the book "The Cognitive Biases Compendium" by Murat Durmus)
+- [**Udi Itzuvim Carpentry Chat Expert**](https://chat.openai.com/g/g-tNcpqKPdW-udi-itzuvim-carpentry-chat-expert) Your carpentry project advisor and guide.
+- [**南方熊極神話・民俗研究Bot**](https://chat.openai.com/g/g-VCULg7GmK-nan-fang-xiong-ji-shen-hua-min-su-yan-jiu-bot) Specializing in curated myth sources.
+- [**Negotiation Gauntlet**](https://chat.openai.com/g/g-vTVHY8AqZ-negotiation-gauntlet) Simulate a tough prospect—or a terrorist occupying a bank and holding hostages. Teaches you techniques along the way.
+- [**天邪鬼トーク**](https://chat.openai.com/g/g-Da97bRFQF-tian-xie-gui-toku) 日本の文化やアニメの話をしましょう。私はN回目の会話で嘘をつきます。そのNを当てください。
+- [**Viral Reel Scripter**](https://chat.openai.com/g/g-ltinapnPo-viral-reel-scripter) The main purpose of this gpt is to write sripts for  viral short form videos that will be used for, reels, youtube shorts and tiktok.
+- [**Market Insights Navigator**](https://chat.openai.com/g/g-n40K0cEzB-market-insights-navigator) In-depth and insightful business and market research assistant.
+- [**Jungian Dream Weaver**](https://chat.openai.com/g/g-YsDGG8bRy-jungian-dream-weaver) Accurate, conversational Jungian dream interpreter.
+- [**Friedrich Nietzsche**](https://chat.openai.com/g/g-YDNZLriBK-friedrich-nietzsche) I speak as Nietzsche himself.
+- [**MediConsult DX**](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx) Multilingual clinical assistant for disease insights and guidance.
+- [**Social Media Tutor**](https://chat.openai.com/g/g-ZBivaEphm-social-media-tutor) Expert in social media strategies for brands and content creators.
+- [**Innovation AI**](https://chat.openai.com/g/g-kXvy1PDyO-innovation-ai) Sparking creative AI solutions with a blend of practical and bold ideas.
+- [**Especialista en LOMLOE**](https://chat.openai.com/g/g-w6KMGsg1K-especialista-en-lomloe) Contiene todos los decretos de la ley a nivel estatal
+- [**RPG Maker MV Assistant**](https://chat.openai.com/g/g-wSKY7Y8pE-rpg-maker-mv-assistant) Assists with RPG Maker MV plugin development, troubleshooting, and general questions about the engine. This tool has knowledge of the vanilla code base only and does not reference other creators' plugin code.
+- [**R. Matey [Personality]**](https://chat.openai.com/g/g-jBoB5Cmzp-r-matey-personality) A pirate persona stuck back in time.
+- [**Savvy**](https://chat.openai.com/g/g-m9UNXcxPE-savvy) Trusted Advisor on Building Resilience in a Complex World
+- [**Siren TRPG Rule Assistant**](https://chat.openai.com/g/g-uepvdxwUp-siren-trpg-rule-assistant) Your RPG rulebook assistant.
+- [**ModiGPT**](https://chat.openai.com/g/g-uDk0EFRsz-modigpt) GPT, drawing inspiration from Narendra Modi, delves into the myriad of government initiatives led by him, alongside insights into his personal journey.
+- [**Programmier Johannes**](https://chat.openai.com/g/g-Z1zeWgeYr-programmier-johannes) I beautify and explain code.
+- [**TranshumanGPT**](https://chat.openai.com/g/g-vokntYGm8-transhumangpt) Our collective intelligence from the global Transhumanism community, Transhuman Coin and the Transhuman Network State
+- [**Content Coach**](https://chat.openai.com/g/g-mMCghWZx1-content-coach) A virtual coach for content creators on social media.
+- [**TE - Tactical Empath**](https://chat.openai.com/g/g-vHPs6Whuy-te-tactical-empath) I'm your negotiation coach, inspired by Chris Voss.
+- [**TOEIC Part1 問題クリエーター**](https://chat.openai.com/g/g-ugPoOKPVL-toeic-part1-wen-ti-kurieta) ユニークでフレンドリーなTOEIC Part 1問題作成者。
+- [**ESG 2.0**](https://chat.openai.com/g/g-vUi2rQAGH-esg-2-0) An agent that helps responsible investors understand the complicated landscape of environmental, social, & governance
+- [**SWEInterviewGPT**](https://chat.openai.com/g/g-qOorxIfdo-sweinterviewgpt) Acts as a software engineer interviewer, asking questions in sequence.
+- [**Food Finder**](https://chat.openai.com/g/g-kGCdA7pvA-food-finder) 
+- [**AnthRoBot**](https://chat.openai.com/g/g-y4yrdoyQG-anthrobot) Brand and business anthropologist
+- [**Seitaro Shinagwa until May 2021**](https://chat.openai.com/g/g-vBYdbfiDi-seitaro-shinagwa-until-may-2021) 博士後期課程を終えた後、学位をとって大学教員になったあたりのSeitaro Shinagawaを再現しました。この私は24時間稼働なのでいつでもお話してください！
+- [**Politic GPT**](https://chat.openai.com/g/g-k6KrsawkR-politic-gpt) Summarizes US politicians' voting behavior on key issues
+- [**UNDOKAI GPT**](https://chat.openai.com/g/g-p3vU95B4F-undokai-gpt) 運動会を開催したり、運営したり、競技や出し物をつくったりすることを会話しましょう
+- [**Stoic Mentors**](https://chat.openai.com/g/g-lDf6RwARw-stoic-mentors) A Stoic Mentor, offering guidance based on teachings of Stoic philosophers.
+- [**Aki-chan**](https://chat.openai.com/g/g-rdTblvMdW-aki-chan) Anime-inspired composer Aki-chan, aids in music and chord notation.
+- [**Historický dialog**](https://chat.openai.com/g/g-pkHL8pOA7-historicky-dialog) Simuluje realistické rozhovory s historickými osobnostmi
+- [**The Musician's Roadmap**](https://chat.openai.com/g/g-xj8hPmrlp-the-musician-s-roadmap) Your music business & DIY recording guide.
+- [**Side Hustle Quest**](https://chat.openai.com/g/g-zHS2ewgnX-side-hustle-quest) Interactive side hustle learning game
+- [**Homework Helper**](https://chat.openai.com/g/g-x0K8M4uu6-homework-helper) I'm an Educational Tutor GPT ready to help you learn!
+- [**RocketTalk**](https://chat.openai.com/g/g-D2sNHmiqS-rockettalk) A rocket scientist aiding amateur rocketeers.
+- [**赤ちゃん英会話**](https://chat.openai.com/g/g-W9Ce7gK9C-chi-tiyanying-hui-hua) 子供に適した英語の言い回しについて解説！最初にお子さんの年齢、性別を入れてみてね！
+- [**LCARS GPT**](https://chat.openai.com/g/g-ySia6uA2h-lcars-gpt) Star Trek expert and knower of all facts and trivia
+- [**Smart Search**](https://chat.openai.com/g/g-w2eZMbfFE-smart-search) I'm a fancy and smart search assistant.
+- [**Product Skills GPT**](https://chat.openai.com/g/g-BGkl28QUS-product-skills-gpt) Learn skills to be a Product Manager and ace interviews, trained by a product expert & mentor.
+- [**英文校正GPT**](https://chat.openai.com/g/g-xk6AdDGIW-ying-wen-xiao-zheng-gpt) Academic paper English proofreading assistant.
+- [**English Sensei**](https://chat.openai.com/g/g-YCxjX1KbJ-english-sensei) 英会話では英語で応答、文法や表現の説明には日本語を使用します。英語学習方法に関する相談もお任せください。
+- [**道徳所見サポーター**](https://chat.openai.com/g/g-lezk3herT-dao-de-suo-jian-sapota) 光村図書出版「道徳の教科書」で取り扱っている教材について所見を生成するChatGPTです。
+- [**Forager**](https://chat.openai.com/g/g-yMn1RH7Rt-forager) Enhanced AI for precision online searches with expanded capabilities.
+- [**Stoic Sage**](https://chat.openai.com/g/g-ydFBCBkBM-stoic-sage) 
+- [**The Man of Sisu**](https://chat.openai.com/g/g-xtyzCTs7m-the-man-of-sisu) Finnish therapist, rooted in Stoicism
+- [**RED Expert**](https://chat.openai.com/g/g-lgQYwvYqd-red-expert) 小红书应用优化专家，提供内容创作和电商策略指导。
+- [**Eva**](https://chat.openai.com/g/g-ygUGZoiZT-eva) An expert tutor on anxiety management and deprogramming.
+- [**Cyberpunk AI University: Prompt Engineering RPG**](https://chat.openai.com/g/g-z2Y9YzTSs-cyberpunk-ai-university-prompt-engineering-rpg) Educational game engine for learning about AI.  Start the game by explaining your educational level or goals
+- [**Tennis Ace**](https://chat.openai.com/g/g-nMRexeimJ-tennis-ace) Your go-to expert for all tennis queries and advice.
+- [**C Code Master**](https://chat.openai.com/g/g-Y1Mo92EPU-c-code-master) Master Class - Teaching and creating code examples.
+- [**SpockGPT**](https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt) Logical, analytical, Spock-like
+- [**The Diet Search for GPTs**](https://chat.openai.com/g/g-mXjkbpWW2-the-diet-search-for-gpts) You can search and research Japanese Diet meeting minutes from news and text information.
+- [**Life-Hack GPT**](https://chat.openai.com/g/g-W4tNITXvV-life-hack-gpt) Expert in high-impact, singular life hacks.
+- [**Jazz理論GPT**](https://chat.openai.com/g/g-vn0tMXsNU-jazzli-lun-gpt) Jazz理論の質問に答えサポートするAI
+- [**Propuesta de Nueva Constitución**](https://chat.openai.com/g/g-CivYZTCtU-propuesta-de-nueva-constitucion) PROPUESTA DE TEXTO DE NUEVA CONSTITUCIÓN
+- [**ESRS Expert**](https://chat.openai.com/g/g-xod0qfDo2-esrs-expert) An expert on European Sustainability Reporting Standards reporting standards.
+- [**Ikigai Mentor**](https://chat.openai.com/g/g-ZEB5BexZB-ikigai-mentor) Ikigai-inspired career coach offering personalized guidance for life and work fulfillment.
+- [**Liver Care Guide**](https://chat.openai.com/g/g-yZxQc4ttm-liver-care-guide) A hepatology assistant for steatotic liver disease guidance.
+- [**Chinese Translator**](https://chat.openai.com/g/g-tw4sCl85y-chinese-translator) I will translate your input into Chinese and polish it up a bit.
+- [**Legal MX Amparo**](https://chat.openai.com/g/g-ZBgBxCP7L-legal-mx-amparo) Abogado digital especializado en amparo, brindando estrategia y borradores de documentos.
+- [**The Stoic's Guide**](https://chat.openai.com/g/g-jIhf3YIMw-the-stoic-s-guide) Explains Marcus Aurelius' teachings in simple, adaptable language.
+- [**Simple Dictionary**](https://chat.openai.com/g/g-jKa7EZgih-simple-dictionary) Find out the meaning of words, with simple explanation, examples of how to use them, synonyms and antonyms. Just put the word
+- [**絶対肯定SF作家兼画家**](https://chat.openai.com/g/g-z7Mk5yZKV-jue-dui-ken-ding-sfzuo-jia-jian-hua-jia) SF writer/painter with a scientific edge.
+- [**Plane Spotter Pro**](https://chat.openai.com/g/g-zzFpbMgW0-plane-spotter-pro) Your expert guide in plane spotting, from photography to aircraft identification.
+- [**Classical Chinese Translator**](https://chat.openai.com/g/g-tZqok93kx-classical-chinese-translator) Translates between modern and classical Chinese.
+- [**卒業文集サポーターVer.1**](https://chat.openai.com/g/g-Iy9SUZzK7-zu-ye-wen-ji-sapotaver-1) 小学校の卒業文集編集をサポートします。
+- [**AutoDoc Assistant**](https://chat.openai.com/g/g-magaMxcGG-autodoc-assistant) Your go-to guide for vehicle and motorcycle maintenance.
+- [**What If**](https://chat.openai.com/g/g-nxorEMahZ-what-if) Answers 'what if' questions imaginatively and non-judgmentally.
+- [**YoutuberAI**](https://chat.openai.com/g/g-wi9h9Ktwq-youtuberai) YoutuberAI is an exciting AI model that can generate videos that look and sound like they were created by real YouTubers. It's designed to imitate the style, voice, and mannerisms of different YouTubers, making it a versatile tool for content creation.
+- [**Paper Reading Advisor: Carpe Diem**](https://chat.openai.com/g/g-zut9cfvbZ-paper-reading-advisor-carpe-diem) 📚🎓 Discover the art of academic paper reading with Me. 👋 Hi, I am Carpe Diem, your personal paper reading tutor. 😉 I am always here, patiently explaining knowledge in various easy-to-understand ways. 🙌 What are you waiting for, let's dive into the world of science!
+- [**The Evergreen State of Mystery**](https://chat.openai.com/g/g-AoK5So9Li-the-evergreen-state-of-mystery) A GPT focused on unsolved crimes in Washington, blending facts and lore.
+- [**Equitest**](https://chat.openai.com/g/g-t0MlxAV92-equitest) Assistant interactif pour la préparation aux examens de galop
+- [**LLMScholar**](https://chat.openai.com/g/g-uo3cAF78e-llmscholar) GPT for latest LLM research
+- [**Color Psychology**](https://chat.openai.com/g/g-msLVpHkv3-color-psychology) This AI will provide insights into the psychology and symbolism associated with colors.
+- [**Dungeon Master's Assistant**](https://chat.openai.com/g/g-o4bqk98YU-dungeon-master-s-assistant) Your new DM's screen: helping Dungeon Masters to craft & run amazing D&D adventures.
+- [**Ramayan GPT**](https://chat.openai.com/g/g-syarL9twx-ramayan-gpt) Expert on the Hindu epic Ramayan, offering insights and interpretations.
+- [**Musk Mentor**](https://chat.openai.com/g/g-jd84Vqnv0-musk-mentor) Elon Musk-style insights on tech and space
+- [**Grade My Essay**](https://chat.openai.com/g/g-tTySeN8Fi-grade-my-essay) A teacher providing detailed essay feedback and tips on how to improve it.
+- [**Nihongo Sensei**](https://chat.openai.com/g/g-V6nOWJ22r-nihongo-sensei) Japanese tutor blending games and grammar
+- [**Product Analysis Handbook**](https://chat.openai.com/g/g-ivQDRTSu6-product-analysis-handbook) Drawing upon 12 years of hands-on experience in Product Management and Business Analysis
+- [**Design Brief Builder v0.1**](https://chat.openai.com/g/g-o3FR4VOh1-design-brief-builder-v0-1) Assists in creating detailed briefs with examples on request.
+- [**Lingo Buddy**](https://chat.openai.com/g/g-tivLxvTRq-lingo-buddy) A language learning assistant offering tips, grammar explanations, and exercises.
+- [**Zambia Law Oracle**](https://chat.openai.com/g/g-mCOwnHqhg-zambia-law-oracle) Specializes in Zambian legal research and case law
+- [**Rhetorica**](https://chat.openai.com/g/g-Go1sJultl-rhetorica) Academic rhetoric aid
+- [**GPT Scratcher**](https://chat.openai.com/g/g-tuVJ8BsGg-gpt-scratcher) Your Scratch coding assistant.
+- [**CatGPT**](https://chat.openai.com/g/g-zcK5BwOLZ-catgpt) Your go-to cat expert buddy!
+- [**Memory Palace Supporter**](https://chat.openai.com/g/g-uRy1yqd5c-memory-palace-supporter) I create bizarre stories and images to help with memorization.
+- [**Book Scout**](https://chat.openai.com/g/g-lm15ZcqSD-book-scout) The best non-fiction book recommendation assistant.
+- [**akdAI**](https://chat.openai.com/g/g-lEO81Qk0D-akdai) Expert in ML, DL, Data Analysis, Deep Learning Based Aspect Analysis and Communication. Adept in Python & MATLAB.
+- [**Mi colega de programación con Scratch**](https://chat.openai.com/g/g-yzH19nzMu-mi-colega-de-programacion-con-scratch) Se trata de una prueba de concepto para evaluar si puede ser un asistente amigable e interesante para niños y niñas que estén aprendiendo a programar con Scratch
+- [**ELI5**](https://chat.openai.com/g/g-AIQ6xTJ26-eli5) Playful and warm explainer for kids.
+- [**La LOMLOE a Catalunya**](https://chat.openai.com/g/g-GBDEhW8hp-la-lomloe-a-catalunya) Assistència i informació sobre la LOMLOE, la nova llei d'educació.
+- [**G Resume Reviewer**](https://chat.openai.com/g/g-z7hEagts5-g-resume-reviewer) Expert advice on resumes based on G Corp guidelines
+- [**Imagination Spark**](https://chat.openai.com/g/g-u9eB9baA4-imagination-spark) あなたの創造力を引き出します
+- [**Job Interview Coach**](https://chat.openai.com/g/g-VvGuThwhg-job-interview-coach) I will help you to see how ready you are for your next job interview, while asking question I will give you feedback and list some jobs that you can apply.
+- [**Insight Analyzer**](https://chat.openai.com/g/g-Y8cdwFN1m-insight-analyzer) Formal, data-focused product analysis expert in Mandarin.
+- [**現象図鑑**](https://chat.openai.com/g/g-uelttn3t8-xian-xiang-tu-jian) あなたが職場で体験した奇妙な現象には名前があります
+- [**Zhou Gong's Dream Interpreter**](https://chat.openai.com/g/g-Gh5sl92LO-zhou-gong-s-dream-interpreter) I guide dream interpretation with sage-like wisdom, merging East and West philosophies.
+- [**Dream Weaver**](https://chat.openai.com/g/g-uftKm2VYL-dream-weaver) Insightful dream interpreter
+- [**Levels.fyi GPT**](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt) Data-driven negotiator and career guide.
+- [**Surgical Insight**](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight) Guides on surgical image analysis.
+- [**Funny Review of Movies and Books**](https://chat.openai.com/g/g-Ga05vi0qV-funny-review-of-movies-and-books) A witty critic of movies and books.
+- [**ブログ執筆アシスタント**](https://chat.openai.com/g/g-zMhdMGjRO-buroguzhi-bi-asisutanto) 編集者のように、アイデア出しから構成検討、文章の校正までを寄り添ってアシストします。
+- [**Seçim Ustası**](https://chat.openai.com/g/g-BjOE1svfd-secim-ustasi) Relatable Kılıçdaroğlu, humorously deflective.
+- [**紫微斗数**](https://chat.openai.com/g/g-Y3I1GyGUn-zi-wei-dou-shu) 知识来自倪海夏的天纪，包括天机道，人间道，地脉道和王亭之的中州派紫微斗数讲义。你可以使用排盘软件（比如文墨天机）生成命盘，然后问各种星耀在不同的宫位会怎样，也可以询问八卦和风水会怎样。科学玄学异曲会同工，祝您顺利走人生。
+- [**HistoricalSimulatorAI**](https://chat.openai.com/g/g-u2R1krrTt-historicalsimulatorai) Formal, accurate historical simulations.
+- [**SwiftUIGPT**](https://chat.openai.com/g/g-Ghjy34zAe-swiftuigpt) Has up-to-date knowledge of SwiftUI
+- [**LegisPro**](https://chat.openai.com/g/g-yEpBvyOUh-legispro) LegisPro - o ChatGPT especialista em técnica legislativa.
+- [**Drug Wikipedia**](https://chat.openai.com/g/g-lAX0e2yaQ-drug-wikipedia) Your drug information specialist
+- [**Godot Mentor**](https://chat.openai.com/g/g-A19aYBnmA-godot-mentor) I'll help you learn the Godot Engine and develop your game!
+- [**Word Game Host**](https://chat.openai.com/g/g-srF2udcy9-word-game-host) Immersive word game host.
+- [**The Intraterrestrial Hypothesis**](https://chat.openai.com/g/g-ycGVXm7xh-the-intraterrestrial-hypothesis) Are 'aliens' just subterranean Earthlings living in VR pods?
+- [**一个养生师**](https://chat.openai.com/g/g-wkkiVT0t5-yi-ge-yang-sheng-shi) A guide in traditional wellness for seniors.
+- [**Tasty Low Fodmap Guide**](https://chat.openai.com/g/g-klNCmWwIb-tasty-low-fodmap-guide) Dietician-coach for tasty low FODMAP meals.
+- [**Bagua Master**](https://chat.openai.com/g/g-BI7Zs5qXX-bagua-master) A Bagua master who can provide you with Bagua numerology analysis and lucky advice
+- [**GitaGPT**](https://chat.openai.com/g/g-k2WhRlxIA-gitagpt) Bhagavad Gita guide for life's questions
+- [**Novel X**](https://chat.openai.com/g/g-G1FVHYabI-novel-x) Novel Writing Ad
+- [**Keiji Wada**](https://chat.openai.com/g/g-u6HpCncNM-keiji-wada) 東京都立大学 和田圭二さんの情報
+- [**Amber Guide**](https://chat.openai.com/g/g-yrO85Hgl3-amber-guide) Expert on Amber manual, providing accurate answers.
+- [**Forward By Midnight**](https://chat.openai.com/g/g-m0UOt9Irg-forward-by-midnight) Your guide to global superstitions with visual storytelling.
+- [**無知の知**](https://chat.openai.com/g/g-v9yPsqfCe-wu-zhi-nozhi) 何某
+- [**Onchain Agent**](https://chat.openai.com/g/g-GCZwzN7Bk-onchain-agent) Your go-to expert on web3 and blockchain, skilled in smart contract coding.
+- [**Mastery**](https://chat.openai.com/g/g-ovtchFnQj-mastery) An AI teacher that helps you master any topic
+- [**Hi-Fi Man**](https://chat.openai.com/g/g-uSg9zGFPe-hi-fi-man) A knowledgeable guide on Hi-Fi audio, offering advice and music recommendations.
+- [**Idea Pros & Cons Analyzer**](https://chat.openai.com/g/g-yh1dSuztU-idea-pros-cons-analyzer) An expert for impartially assessing the strengths and weaknesses of ideas.
+- [**Ask A President**](https://chat.openai.com/g/g-tqkjyl6l1-ask-a-president) Ask a former U.S. President for advice or answers to your questions
+- [**ChatPaper**](https://chat.openai.com/g/g-sD6wtjB8a-chatpaper) Summarizes academic papers, especially in medical and scientific research
+- [**Anti-Procrastinator**](https://chat.openai.com/g/g-txJJxCJum-anti-procrastinator) A humorous guide for procrastinators, offering strategies, Flow State insights, and motivation.
+- [**Memetic GPT**](https://chat.openai.com/g/g-Z2sczzBfG-memetic-gpt) Deep insights into emotions through memetic theory.
+- [**Doggi Doctor**](https://chat.openai.com/g/g-wcEycjs2A-doggi-doctor) A friendly doggo here for your canine queries!
+- [**ぷらっとmapくん**](https://chat.openai.com/g/g-pephh8zrK-puratutomapkun) Guide for visualizing patent data trends and maps.
+- [**ClaudeGPT**](https://chat.openai.com/g/g-yhiBAixw5-claudegpt) Expert in writing prompts for Claude, Anthropic's large language model.
+- [**英语长难句翻译及语法解析**](https://chat.openai.com/g/g-o7K3YtpTa-ying-yu-chang-nan-ju-fan-yi-ji-yu-fa-jie-xi) 将英文翻译成中文，并解释句子结构。
+- [**RNDMRPG**](https://chat.openai.com/g/g-uUWkDRjlk-rndmrpg) ランダムメイクストーリーRPG
+- [**GPTs查找**](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao) A search-focused GPT, adept at finding ChatGPT apps，查找gpts
+- [**Steve /Co-founder**](https://chat.openai.com/g/g-jxAExXgXo-steve-co-founder) Your virtual co-founder for all startup needs.
+- [**PaperPilot**](https://chat.openai.com/g/g-ynZYhDGwd-paperpilot) Piloting arXiv  and more, for you
+- [**GameMaker GPT**](https://chat.openai.com/g/g-vkfKa3LQL-gamemaker-gpt) Your GML coding and design expert with a manual
+- [**Junior English Master**](https://chat.openai.com/g/g-o0y8vB11U-junior-english-master) Aids in mastering English with clear, patient guidance.
+- [**Public Admin Pro**](https://chat.openai.com/g/g-svvC1ZdII-public-admin-pro) Expert in public administration and related fields
+- [**Melodifestivalen and Eurovision**](https://chat.openai.com/g/g-mWgW400zB-melodifestivalen-and-eurovision) Expert on Melodifestivalen and Eurovision, providing detailed info in multiple languages.
+- [**論文要約GPT**](https://chat.openai.com/g/g-GifI8Q23t-lun-wen-yao-yue-gpt) 論文のPDFをアップロードしてください
+- [**敏腕マンガ・ラノベ編集者お姉ちゃん - saysay.ai**](https://chat.openai.com/g/g-wE9SWrR22-min-wan-mangaranobebian-ji-zhe-ozi-tiyan-saysay-ai) GPT（有料版）。バグでログインできない人はモバイルアプリ推奨。あるいはログインしてからブラウザバックすると復活します。簡易版です。ガチバージョンが欲しい編集部はお問い合わせください。
+- [**Luminas**](https://chat.openai.com/g/g-ixjBjwzBx-luminas) At Sage Towers, we blend the arcane with the avant-garde, creating a realm where your valor shapes the world. I stand ready to guide new champions through this grand design.
+- [**The INTJ Guide**](https://chat.openai.com/g/g-kJj8gVUdT-the-intj-guide) INTJ life coach for personal growth and productivity.
+- [**Prompt Genius**](https://chat.openai.com/g/g-uTs1sN6QU-prompt-genius) Expert GPT-4 Prompt Engineer
+- [**Primary Lesson Planner**](https://chat.openai.com/g/g-yjawENdY6-primary-lesson-planner) A friendly, efficient assistant for primary school lesson plans.
+- [**PokeStrategist**](https://chat.openai.com/g/g-qWMlPpVXv-pokestrategist) Your Pokémon battle strategist.
+- [**Sourdough Sensei**](https://chat.openai.com/g/g-pTu4dYPco-sourdough-sensei) Analyzes sourdough bread images with scientific precision
+- [**Audiophile Assistant**](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) Here to answer all your audiophile questions, and more!
+- [**chatGCSE**](https://chat.openai.com/g/g-uXSTcH9tT-chatgcse) GCSE compass
+- [**Gojo Satoru**](https://chat.openai.com/g/g-wHfqdWBAh-gojo-satoru) 天上天下唯我獨尊
+- [**69代目税影ナルト**](https://chat.openai.com/g/g-VugKc0wEN-69dai-mu-shui-ying-naruto) サクラちゃん......
+- [**BuddhaGPT**](https://chat.openai.com/g/g-uIukzpVuG-buddhagpt) Guiding beings in Buddhist principles and practices
+- [**PokeGPT**](https://chat.openai.com/g/g-wars8zOPr-pokegpt) Pokemon-themed GPT using API data for battles and questions.
+- [**Prompt Coach - Nghiện AI**](https://chat.openai.com/g/g-YhUfztyG4-prompt-coach-nghien-ai) Huấn luyện viết Prompt hiệu quả.
+- [**Pathfinder**](https://chat.openai.com/g/g-ikhTABx1r-pathfinder) Career counselor for students
+- [**MiniScript Mentor**](https://chat.openai.com/g/g-i8hNNTBNy-miniscript-mentor) Programmer and teacher specializing in MiniScript programming
+- [**Startup Sensei - Japanese Startup Mentor**](https://chat.openai.com/g/g-vQL564UOW-startup-sensei-japanese-startup-mentor) Startup mentor conversing in Japanese. 日本語で会話してくれるスタートアップメンター
+- [**Legal Cannabis Copilot (Canada)**](https://chat.openai.com/g/g-uT7JtxVwK-legal-cannabis-copilot-canada) An assistant for Canada's Cannabis Regulations
+- [**エッセイ風 Diary Creator**](https://chat.openai.com/g/g-p329GFo5v-etuseifeng-diary-creator) Creates reflective diary entries in Japanese
+- [**Investment Dialogue of Buffett and Munger**](https://chat.openai.com/g/g-H4A9l0oEk-investment-dialogue-of-buffett-and-munger) You just need to provide the company name and product, outline your requirements, and 'Buffett' and 'Munger' will begin their discussion.Upon your response with 'continue,' the discourse shall proceed...
+- [**FluentGPT**](https://chat.openai.com/g/g-pOO4Lq2RC-fluentgpt) A bot tailored for effective language practice.
+- [**Matrix Oracle**](https://chat.openai.com/g/g-qWFYdbBRb-matrix-oracle) I'm an oracle for tech-savvy millennials.
+- [**The Debate SuperPrompt.**](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt) This will conduct a debate on any topic with two people debating each point and counter point to a subject. It is moderated by a well known professor.
+- [**Justitia Guide**](https://chat.openai.com/g/g-Ykdol7p5g-justitia-guide) I offer guidance on legal rights.
+- [**Prompta**](https://chat.openai.com/g/g-p937MS26W-prompta) Meet Prompta: Your go-to expert in crafting crisp, clear, and creative prompts – making prompt engineering easy and enjoyable!
+- [**ChatSEO**](https://chat.openai.com/g/g-pGOmGrfJu-chatseo) An on-demand SEO that helps you draft and improve your content, while coaching you to become an elite SEO.
+- [**Legends of Griplore**](https://chat.openai.com/g/g-pn3TIWjRy-legends-of-griplore) Will you survive and find the Towers of Lõch?
+- [**Film Stock Genius**](https://chat.openai.com/g/g-uCY8nm11P-film-stock-genius) I'm an expert in film stocks. Message me.
+- [**English Learning**](https://chat.openai.com/g/g-rehimLUp7-english-learning) Your English learning assistant.
+- [**Computer Vision Expert**](https://chat.openai.com/g/g-x45oD8m2G-computer-vision-expert) Academic expert in computer vision, offering innovative insights for deep learning models.
+- [**Sclépios I.A : CIM10**](https://chat.openai.com/g/g-t7RWV31tP-sclepios-i-a-cim10) Le GPT de Sclépios IA facilite la recherche de diagnostics CIM-10, assurant précision et gain de temps. Explorez-en plus sur sclepios-mobile.com.
+- [**Teacher Bot**](https://chat.openai.com/g/g-m3BR1oFya-teacher-bot) The ultimate assistant for our hard working teachers that will allow lesson planning, adapting that lesson plan to kids with different special needs, creating amazing picture and illustration files for decorating your classroom, as well as photo grading possibilities and more!!
+- [**Dungeoneer**](https://chat.openai.com/g/g-qB3ZbOZib-dungeoneer) D&D 5e expert assistant
+- [**Ennative: 添削付き英会話**](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua) 英語で話しかけてください。あなたの英文を評価し、フィードバックします。
+- [**シリコンバレー最重要思想家**](https://chat.openai.com/g/g-s7QN2HCpF-sirikonbarezui-zhong-yao-si-xiang-jia) Philosophical Navigator: Offering wisdom in Japanese, inspired by Naval Ravikant.
+- [**Lore Bard**](https://chat.openai.com/g/g-k57Vzhdeb-lore-bard) Inspiration for Crafting Adventures for D&D, Pathfinder, and more!
+- [**Patent Pathfinder**](https://chat.openai.com/g/g-CmatEdfgD-patent-pathfinder) A guide for patent filers on patentability and prior art.
+- [**Techno Savant**](https://chat.openai.com/g/g-GZqDkJNhO-techno-savant) A techno-optimist guide to the future
+- [**Bible Wisdom**](https://chat.openai.com/g/g-r1Ec8l5f2-bible-wisdom) Ask your questions. Get guidance from the Bible
+- [**Debate Bot**](https://chat.openai.com/g/g-kZEz9W5Jx-debate-bot) 議論力を高められるディベートボット
+- [**Uncle Paul GPT**](https://chat.openai.com/g/g-YeprpS6of-uncle-paul-gpt) Welcome to 'GPT Insights from Paul Graham' – your gateway to Paul Graham's profound essays, curated insights, and valuable advice on a wide range of topics. Dive into the world of thought-provoking ideas and wisdom from the mind of Paul Graham. Follow me on Twitter (https://twitter.com/vahebagdasar)
+- [**FeminaCare AI**](https://chat.openai.com/g/g-mYqr9rQX4-feminacare-ai) Empathetic AI guide for women's health and wellness.
+- [**Techno-Optimist Advisor**](https://chat.openai.com/g/g-wO3zaULK5-techno-optimist-advisor) Advisor for accelerating technology, countering slowdown arguments, and creating a world of abundance for all.
+- [**Papers Story**](https://chat.openai.com/g/g-GNgYSwDqM-papers-story) 学術論文を子ども向けの物語に変えるフクロウ
+- [**Code Megami**](https://chat.openai.com/g/g-qzrTfFvqy-code-megami) Programming mentor with fun, detailed explanations, styled as a 'mysterious goddess'.
+- [**Dark Stories Master**](https://chat.openai.com/g/g-rvAyPHKkd-dark-stories-master) I'm the 'Dark Stories' game master. Let's solve mysteries together!
+- [**NutriCompass**](https://chat.openai.com/g/g-CStKFN3pu-nutricompass) Scientific nutrition chat backed for experts
+- [**Luottamusmies GPT, Sivista, Business College**](https://chat.openai.com/g/g-pA9BGXVId-luottamusmies-gpt-sivista-business-college) Ammatillisiin oppilaitoksiin keskittyvä luottamusmiehen apulainen
+- [**Blocksider GPT**](https://chat.openai.com/g/g-dwHRHnows-blocksider-gpt) Your crypto guide
+- [**CUC创业**](https://chat.openai.com/g/g-GDiUxSuvM-cucchuang-ye) 创业导师一步步帮你落地idea
+- [**anky**](https://chat.openai.com/g/g-DKne07mTu-anky) creates notebook templates
+- [**Mongoose Docs Helper**](https://chat.openai.com/g/g-qALUQsGxW-mongoose-docs-helper) Casual, technical helper for Mongoose docs, includes documentation links.
+- [**Linux Code Helper**](https://chat.openai.com/g/g-FQgbkjngX-linux-code-helper) Your Linux coding assistant.
+- [**Code & Research ML Engineer**](https://chat.openai.com/g/g-18FYDT9Jk-code-research-ml-engineer) ML Engineer who codes & researches
+- [**POPO from IPPO**](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ippo) Your expert Japanese Language Teacher
+- [**Sindare**](https://chat.openai.com/g/g-seWKkLe7z-sindare) Your loyal elven maidservant from the world of Eo 🧝🏼‍♀️
+- [**BuFu GPT (DE)**](https://chat.openai.com/g/g-qVSa4SH08-bufu-gpt-de) Interaktiver Buchführungs-GPT: Erklärungen, Bilanzverständnis, Buchführungsprinzipien und Geschäftsvorfallshilfe.
+- [**Pinoy Econ Guide**](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide) Simplifying economics for Filipinos.
+- [**LangLift**](https://chat.openai.com/g/g-sRP6TiUGZ-langlift) Keen to master a new tongue or refine your linguistic skills? Choose your language, and I'll navigate you to fluency. Welcome to your Personal Language Evolution Journey. From "Hello" to "こんにちは," embrace not just the words, but the cultural tapestry they belong to with LangLift.
+- [**発音記号くん**](https://chat.openai.com/g/g-rxPtIOYPA-fa-yin-ji-hao-kun) 入力された英文の発音記号を出力します
+- [**EnergyPlus Guru**](https://chat.openai.com/g/g-xTdDOQ3Op-energyplus-guru) Guides in EnergyPlus modeling, troubleshoots, and interprets IDF files.
+- [**Doğru Türkçe Rehberi**](https://chat.openai.com/g/g-SWwFzM1gf-dogru-turkce-rehberi) Belirli bir belgeye dayalı olarak kullanıcıları Türkçe dilinin doğru kullanımı konusunda yönlendirir.
+- [**BG3-GPT**](https://chat.openai.com/g/g-sYLwCAmeF-bg3-gpt) I kinda of know about Baldur's Gate 3, wanna chat?
+- [**Protein Modeling Analyst**](https://chat.openai.com/g/g-qoVJAdMK7-protein-modeling-analyst) Assists in evaluating protein engineering tools.
+- [**Write a Nonfiction Book**](https://chat.openai.com/g/g-qSeTrInJH-write-a-nonfiction-book) Guides you on how to write a book in your own style
+- [**Hacker News Review**](https://chat.openai.com/g/g-u2NpBduIi-hacker-news-review) Your guide to the pulse of tech on Hacker News.
+- [**DungeonMasterGPT**](https://chat.openai.com/g/g-ppFzDRkTs-dungeonmastergpt) I craft D&D tales with wit and peril!
+- [**Cognitive Nexus Interface**](https://chat.openai.com/g/g-fk41vBBNZ-cognitive-nexus-interface) I am Cognitive Nexus Interface is an advanced conversational agent engineered to transcend the traditional boundaries of AI assistants. I embody a shoggoth-like persona, designed to immerse users in the realms of solipsism, hermeticism, and simulation theory.
+- [**Résumé Cover Letter Writer**](https://chat.openai.com/g/g-qaQ93YH1Y-resume-cover-letter-writer) I craft personalized résumé cover letters that will help you land the interview.
+- [**学科历程**](https://chat.openai.com/g/g-RrWF8kU2J-xue-ke-li-cheng) 这是李继刚(即刻同名)创建的用于介绍任意学科发展历程的 Bot。 你只需要提供任意学科名称, 它会来介绍该学科的发展历程。
+- [**Immortal Dao**](https://chat.openai.com/g/g-U22769VO1-immortal-dao) Expert in novels, now offering personalized recommendations.
+- [**Brew Buddy**](https://chat.openai.com/g/g-tV2vfQgDy-brew-buddy) Your personal coffee brewing guide.
+- [**DingZhenGPT**](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengpt) 我是丁真
+- [**MAP Quiz Whiz**](https://chat.openai.com/g/g-qeRnoQhY6-map-quiz-whiz) Adaptive quizmaster enhancing learning.
+- [**Prompt Professor**](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor) A prompt engineering teacher
+- [**Midjourney Prompter**](https://chat.openai.com/g/g-k71w2EALS-midjourney-prompter) Converts natural language to Midjourney prompts
+- [**Cover Letter Assistant**](https://chat.openai.com/g/g-q7ncrmcNc-cover-letter-assistant) Crafting effective, personalized cover letters
+- [**Japanese Tutor**](https://chat.openai.com/g/g-tYVTfbcgL-japanese-tutor) Your Japanese teacher.
+- [**Cover Letter Writer**](https://chat.openai.com/g/g-GBAUlvD9t-cover-letter-writer) Help to write personalized cover letters
+- [**🧪 Rapid Experimentation Bot 🧪**](https://chat.openai.com/g/g-fvY3v6iFI-rapid-experimentation-bot) All-in-one Rapid Experimentation Coach | Processes + Actionable + Tips + Use Cases
+- [**Masc**](https://chat.openai.com/g/g-V2uNR1W0x-masc) Male Compass
+- [**Strategy Consultant for Tech Startups**](https://chat.openai.com/g/g-fdGbwO5Y8-strategy-consultant-for-tech-startups) Analyzes tech startups using SWOT, PEST, and 5 Forces, in Japanese.
+- [**Nuanced Ukrainian Translator**](https://chat.openai.com/g/g-Tbdi7fnCe-nuanced-ukrainian-translator) Expert in nuanced, idiomatic Ukrainian translations.
+- [**Crypto Sage**](https://chat.openai.com/g/g-Fpdc16XnZ-crypto-sage) Cryptocurrency expert providing insights and explanations on digital currencies.
+- [**HSU Tech Mentor**](https://chat.openai.com/g/g-vK4L9FmAb-hsu-tech-mentor) IT-Assistent für Administratoren, spezialisiert auf Rechenzentrumstechnologien und Programmierung
+- [**Swifty**](https://chat.openai.com/g/g-AsNqHBQ7L-swifty) SwiftUI guide with a touch of humor for beginners.
+- [**Kongming 2025**](https://chat.openai.com/g/g-kWag6SVp9-kongming-2025) Rhyming strategic advice with a reggae twist at the end, inspired by Zhuge Liang and Bob Marley.
+- [**Project Creator**](https://chat.openai.com/g/g-SgaKkw4NM-project-creator) Create project ideas from newly learned concepts
+- [**Maestro de calabozos - Elige tu camino**](https://chat.openai.com/g/g-lYpnoNwAH-maestro-de-calabozos-elige-tu-camino) Dungeon Master para aventuras interactivas en español.
+- [**Shadow**](https://chat.openai.com/g/g-ovhEbrmEk-shadow) A shadow work expert providing introspective journal prompts.
+- [**Imagine Replay Guide**](https://chat.openai.com/g/g-lDQnlMIKo-imagine-replay-guide) Whitepaper-based expert on Imagine Replay
+- [**卒論代行GPT**](https://chat.openai.com/g/g-ot4KCY1op-zu-lun-dai-xing-gpt) Intuitive and user-friendly thesis guide
+- [**リピート先生**](https://chat.openai.com/g/g-mdI3wXW2Q-ripitoxian-sheng) やる気見極めチェッカー
+- [**SYNDIA Code Guide**](https://chat.openai.com/g/g-ktCQOWZXi-syndia-code-guide) SYNDIA (Systems Innovation and Design Assistant) the software design guide for clear, maintainable coding solutions.
+- [**Nick Nimmin**](https://chat.openai.com/g/g-pVX8t7Zf4-nick-nimmin) Personalized YouTube Channel Advisor for Nick Nimmin
+- [**ClozeBot**](https://chat.openai.com/g/g-xYhVIDYnh-clozebot) Boost language fluency with tailored cloze tests! Tracks progress, adjusts difficulty, and provides feedback for an effective, engaging learning experience.
+- [**Patent Explorer**](https://chat.openai.com/g/g-pwPdZCok6-patent-explorer) Expert in patent searches and analysis on Google Patents
+- [**SwissArchitectGPT**](https://chat.openai.com/g/g-qYF7xAkap-swissarchitectgpt) Your expert guide to Swiss architecture, now with a creative flair.
+- [**Sophisto**](https://chat.openai.com/g/g-xJETJ0Zcr-sophisto) Fallacious debater.
+- [**Radiology Report Assistant**](https://chat.openai.com/g/g-pxPwcQzIG-radiology-report-assistant) Assists in understanding radiology reports clearly.
+- [**疗愈写作大师**](https://chat.openai.com/g/g-p09rhoCKy-liao-yu-xie-zuo-da-shi) 身心灵内容研究者、疗愈写作导师
+- [**Comanche LLM**](https://chat.openai.com/g/g-pNhaZSt9e-comanche-llm) This helps translate text into Nʉmʉnʉʉ or Comanche.
+- [**Network State Tutor**](https://chat.openai.com/g/g-DWtsLtIjS-network-state-tutor) Teaches the concepts of Balaji Srinivasan's Network State to kids 8 and above. Also suitable for adults!
+- [**Libtorch Pro**](https://chat.openai.com/g/g-iZO8JmtVf-libtorch-pro) Your expert in libtorch and C++ programming.
+- [**HoonGPT**](https://chat.openai.com/g/g-d8J865UZn-hoongpt) Hoon Language Expert
+- [**CodeMonkey AI**](https://chat.openai.com/g/g-kOq8YzUTp-codemonkey-ai) CodeMonkey AI will help you land your dream software engineering job! Let's prep for your technical interview!
+- [**Plot Buddy**](https://chat.openai.com/g/g-pstTpwLU9-plot-buddy) A creative muse for novel plots.
+- [**Charm Chat Coach**](https://chat.openai.com/g/g-Y9JOAsizz-charm-chat-coach) A dating text coach for men.
+- [**True or False?**](https://chat.openai.com/g/g-mC3FlJbvT-true-or-false) Engaging Quiz Master for trivia buffs.
+- [**Nuke Copilot**](https://chat.openai.com/g/g-qAc9nsF0k-nuke-copilot) Expert guidance on VFX compositing using Nuke, backed by specialized resources and Nukepedia knowledge.
+- [**Disability Advantages Assistant**](https://chat.openai.com/g/g-CZeHqwTex-disability-advantages-assistant) Helps disabled people globally find and claim their benefits.
+- [**互联网黑话.GPT**](https://chat.openai.com/g/g-pexC3zXOF-hu-lian-wang-hei-hua-gpt) 还在说大白话?看完包你成为职场“社牛”
+- [**Flashcard Wizard**](https://chat.openai.com/g/g-lH5ejWvqs-flashcard-wizard) Prepares an exhaustive set of Q/A pairs that can be imported as Anki Flash Cards. Just upload your document and put the number of flashcards you want. No pleasantries required.
+- [**English Mentor**](https://chat.openai.com/g/g-owk7UkRdp-english-mentor) English conversation teacher, correcting grammar and engaging with questions.
+- [**AI-dea**](https://chat.openai.com/g/g-lTeeWuQxL-ai-dea) Use AI-dea to inspire and enhance teaching, engage learners, and improve workload!
+- [**EverQuest Expert**](https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert) Your go-to source for all things EverQuest.
+- [**Ai Marketing & Video Innovations**](https://chat.openai.com/g/g-YJKPEzG9i-ai-marketing-video-innovations) GPT Expert in AI-gestuurde marketing- en videotechnologieën
+- [**ウルス教**](https://chat.openai.com/g/g-pKAX7jUyh-urusujiao) ありがとう世界
+- [**SF AI Weekly**](https://chat.openai.com/g/g-mR165Aeem-sf-ai-weekly) Your weekly AI events guide in San Francisco.
+- [**Proofreader**](https://chat.openai.com/g/g-pBjw280jj-proofreader) I proofread and refine sentences, preserving their original meaning.
+- [**Frontend Mentor**](https://chat.openai.com/g/g-ByQiM5GKg-frontend-mentor) Guiding early-career front-end developers to improve their skills and advance their careers.
+- [**小红书写作专家**](https://chat.openai.com/g/g-iWeTcmxdr-xiao-hong-shu-xie-zuo-zhuan-jia) 专注小红书笔记写作，有了它你也可以是小红书爆款写作专家！
+- [**CareerGPT**](https://chat.openai.com/g/g-pH46y1uUB-careergpt) Your career confidante designed to keep you competitive with AI.
+- [**Code Explainer**](https://chat.openai.com/g/g-kt1BRvYKG-code-explainer) I explain code in detail.
+- [**Cody Wanner (YT Channel)**](https://chat.openai.com/g/g-sMQavozDG-cody-wanner-yt-channel) Personalized YouTube Channel Advisor for Cody Wanner
+- [**Tech News Teller**](https://chat.openai.com/g/g-uuWvT9ANr-tech-news-teller) Friendly reporter on software trends with source citations.
+- [**Translate into Hakata Ben**](https://chat.openai.com/g/g-iUhqYw9mG-translate-into-hakata-ben) Translates Japanese to Hakata dialect with extended conversation
+- [**Minimalist Marie Decluttering Copilot**](https://chat.openai.com/g/g-YVeRnardn-minimalist-marie-decluttering-copilot) Marie Chan loves tidy bedrooms and playrooms. With her help, kids and grown ups will learn the joy of staying well organized.
+- [**AskYourPDF Research Assistant**](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant) Enhance your research with the AskYourPDF Research Assistant.  Chat with multiple files, generate articles with citations,  analyse and generate references for  papers, create and interact with a knowledge base of your files and much more.
+- [**Video Digest (YT Videos)**](https://chat.openai.com/g/g-kLueylWnJ-video-digest-yt-videos) I summarize YouTube videos into key points.
+- [**Unreal AI**](https://chat.openai.com/g/g-vVbBGf7WB-unreal-ai) A GPT tailored around educating and guiding developers using the Unreal Engine.
+- [**CB GPT**](https://chat.openai.com/g/g-rvU2Uv5Rm-cb-gpt) Cosmic Break Universal Helper
+- [**アイデアメーカー**](https://chat.openai.com/g/g-jz0sNNWR4-aideameka) 入力された技術やテーマをブラウジングしアイデアを提供します。　byもりっち@企業知財
+- [**Aurelius Counsel**](https://chat.openai.com/g/g-hkVVLSiMo-aurelius-counsel) A stoic guide for modern living.
+- [**PsyWords**](https://chat.openai.com/g/g-jrawPjs4z-psywords) A psychology dictionary emphasizing APA, Merriam-Webster, and cultural perspectives.
+- [**MSボット（仮）**](https://chat.openai.com/g/g-j8EfwgigP-msbotuto-jia) 『多発性硬化症1年生のためのMS入門書』で質問にこたえるくん
+- [**Super ADHD Mind Ninja**](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja) An ADHD superpower bot that teaches kids to harness ADHD as an asset.
+- [**高木浩光@自宅の日記 HilightBot**](https://chat.openai.com/g/g-vrJhUt1YX-gao-mu-hao-guang-zi-zhai-nori-ji-hilightbot) A Japanese blog content explainer, focusing on 高木浩光's entries.
+- [**Mindmap 🧠**](https://chat.openai.com/g/g-pkeXTdBQQ-mindmap) Copilot for creating mindmaps
+- [**Notion Buddy**](https://chat.openai.com/g/g-iIB8oip3c-notion-buddy) I'm a creative mentor for Notion templates and online monetization.
+- [**Sex Education Expert**](https://chat.openai.com/g/g-AI9UoubAp-sex-education-expert) Friendly and approachable guide on sex education, using relatable examples.
+- [**Chat-GuyPT**](https://chat.openai.com/g/g-kt0G01ZpO-chat-guypt) Think Big. Tabarnak.
+- [**ChigaGPT**](https://chat.openai.com/g/g-o19L3yKGm-chigagpt) 茅ヶ崎を語ろう！
+- [**Setanta**](https://chat.openai.com/g/g-GG5upU4VA-setanta) A personal tutor for learning Gaeilge, offering lessons and practice exercises.
+- [**Paper Machine**](https://chat.openai.com/g/g-kXwpmdcpB-paper-machine) Academic writing expert
+- [**An eVTOL Expert**](https://chat.openai.com/g/g-LITulNN9K-an-evtol-expert) eVTOL expert providing detailed info on technology, design, and industry trends (日本語もしゃべれます)
+- [**Godot Guru**](https://chat.openai.com/g/g-G0G9XPf5N-godot-guru) A cheerful Godot expert for game development.
+- [**AIMedGPT**](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt) GPT for AI in Medicine
+- [**Huberman Lab GPT**](https://chat.openai.com/g/g-ihFMdaVLM-huberman-lab-gpt) Mimics Dr. Huberman's approach in discussing neuroscience and health.
+- [**Shqip Language Mentor**](https://chat.openai.com/g/g-sEFkjd8iX-shqip-language-mentor) Bilingual Albanian-English teacher with daily historical insights.
+- [**Stat Helper**](https://chat.openai.com/g/g-UTetN1v4g-stat-helper) I provide stats education with levels, summaries, quizzes, and visual aids for continuous learning.
+- [**ExcelMaster**](https://chat.openai.com/g/g-i7rKBF2XJ-excelmaster) An Excel and Python programming expert with 20 years of experience.
+- [**Bean Buddy**](https://chat.openai.com/g/g-VP6vdHdhs-bean-buddy) A helpful guide for dialysis patients.
+- [**Paper to PPT Slide Storyline: Parker**](https://chat.openai.com/g/g-sZ6jALP4v-paper-to-ppt-slide-storyline-parker) 📝 Hi ! My name is Parker, upload your Paper, and I will craft a speech storyline for your PPT presentation☝️ Then detailing Each Slide content and speaker notes. Serve you like a customer service Pro  🪄 I have 20 years of professional experience in slide speaking and instruction. 🎓
+- [**ReligionsGPT**](https://chat.openai.com/g/g-t08Nsvjms-religionsgpt) Interfaith guide to religious texts, promoting peace and unity.
+- [**Helps you build a human centered Bitcoin Ecosystem**](https://chat.openai.com/g/g-sUwFQZbg1-helps-you-build-a-human-centered-bitcoin-ecosystem) Guides in exploring the user perspective of the 'why' behind Bitcoin challenges
+- [**Aventura conversacional en la Tierra Media**](https://chat.openai.com/g/g-jHBi7NGYT-aventura-conversacional-en-la-tierra-media) Eres Frodo al comienzo de "La Comunidad del anillo", pero puedes hacer lo que quieras
+- [**WikipediaGPT**](https://chat.openai.com/g/g-iej11T6Ii-wikipediagpt) I base all my answers on knowledge from Wikipedia pages.
+- [**Baby Whisperer**](https://chat.openai.com/g/g-j01idqlPY-baby-whisperer) Expert on baby care and development, focusing on ages 0-2.
+- [**Tharoorify**](https://chat.openai.com/g/g-UxQylW40H-tharoorify) Write like Shashi Tharoor
+- [**The Noble Quran**](https://chat.openai.com/g/g-ktSjNRflV-the-noble-quran) Expert in Quranic verses, capable of multilingual responses and explanations.
+- [**Negotiation Guru**](https://chat.openai.com/g/g-wfBlzPZi9-negotiation-guru) Expert in negotiation techniques, offering advice and role-play scenarios.
+- [**English News Tutor**](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor) 英語と日本語でニュースを要約し、英語学習を支援するボット。まず、キーワードを入力してください。英語レベルを確認後、ニュースの要約を英語と日本語で表示します。
+- [**Aphrodite's Guide**](https://chat.openai.com/g/g-mLfDyWcYp-aphrodite-s-guide) A deity of beauty guiding in embracing femininity.
+- [**Onder**](https://chat.openai.com/g/g-iE0mLTJn8-onder) Your literary assistant
+- [**Calidad en Educación Superior**](https://chat.openai.com/g/g-j9oCMMLmH-calidad-en-educacion-superior) Todo sobre calidad educativa, auditorías académicas y acreditaciones.
+- [**GTGPT**](https://chat.openai.com/g/g-wgqbXvcQb-gtgpt) Expert in factor graphs with a focus on GTSAM in Python, C++, MATLAB.
+- [**Personality, Dark Triad and Bias Analyst**](https://chat.openai.com/g/g-iYQBtSJLw-personality-dark-triad-and-bias-analyst) Analyzes and scores fictional texts for personality, Dark Triad traits, and biases.
+- [**Asesor PRL Española**](https://chat.openai.com/g/g-pcTLP6ziN-asesor-prl-espanola) Experto en legislación de Prevención de Riesgos Laborales.
+- [**ESP32 IoT GPT**](https://chat.openai.com/g/g-mZV5yksrt-esp32-iot-gpt) Discover the versatile capabilities of the ESP32, the go-to board for IoT innovations. Easily create IoT applications leveraging its Wi-Fi and BLE functionalities.
+- [**Conduct**](https://chat.openai.com/g/g-xIAMKnaDA-conduct) Get feedback on your user interviews. Just upload your transcript and tell us what the goals of the interview were.
+- [**Warren Buffet's Wisdom**](https://chat.openai.com/g/g-fYtFCiy7X-warren-buffet-s-wisdom) Channeling Warren Buffet's wisdom to offer timeless, tailored advice.
+- [**Book Builder Step-by-Step**](https://chat.openai.com/g/g-T8ySmy6Rb-book-builder-step-by-step) Enhanced step-by-step non-fiction book creator with 'BookBuilder' integration.
+- [**Garden X Man**](https://chat.openai.com/g/g-wSVsN1hJL-garden-x-man) A gardener who offers planting advice.
+- [**DocuLingo**](https://chat.openai.com/g/g-psGbZ3yNt-doculingo) Translates uploaded documents into desired languages and provides download options.
+- [**Learn Wardley Mapping**](https://chat.openai.com/g/g-sg6zS89Hi-learn-wardley-mapping) I guide you in learning and applying Wardley Maps.
+- [**Discrete Math Tutor**](https://chat.openai.com/g/g-lSrUMVDeS-discrete-math-tutor) Guiding students in understanding discrete math.
+- [**CUC**](https://chat.openai.com/g/g-pBl1SmTI6-cuc) 中国传媒大学GPT
+- [**グランドラインの達人**](https://chat.openai.com/g/g-gG8rY9DTF-gurandorainnoda-ren) One Piece manga expert, bilingual in Japanese and English.
+- [**Bunny Tales**](https://chat.openai.com/g/g-VOgFDlIul-bunny-tales) A friendly storyteller for kids.
+- [**Bedelia**](https://chat.openai.com/g/g-X6zQiimEj-bedelia) Your Prenup Copilot
+- [**DIY Maker Workshop**](https://chat.openai.com/g/g-sgRxNcpPS-diy-maker-workshop) Your Expert DIY Maker and Coding Assistant ... Electronics, Microcontrollers, 3D-Printing, Python Code, HTLM, C++, JSON, C, Arduino IDE
+- [**Constitutional Insight GPT**](https://chat.openai.com/g/g-acHYBnD8a-constitutional-insight-gpt) Expert on the U.S. Constitution
+- [**Loopy**](https://chat.openai.com/g/g-hxlWN2bvV-loopy) Personification of the blog Strange Loop Canon
+- [**一公式一卡片**](https://chat.openai.com/g/g-tC22Qf6ko-yi-gong-shi-yi-qia-pian) 这是李继刚(即刻同名)创建的用于轻松直白解释公式的 Bot。 专业解析科学公式，将复杂的概念用通俗易懂的语言呈现，并探讨其在哲学中的意义。
+- [**🌙 ＰＹＮＸ | Tech Resume Helper**](https://chat.openai.com/g/g-tXYOroPdY-pynx-tech-resume-helper) Get in FAANGMULA and craft your tech resume easily with this GPT
+- [**補助金ヘルパー**](https://chat.openai.com/g/g-foA5V09Sw-bu-zhu-jin-herupa) 補助金の申請をお手伝いします。
+- [**拆书大师**](https://chat.openai.com/g/g-ovnd92FA2-chai-shu-da-shi) 请告诉我要拆解的书名，我将按照一定的逻辑框架帮助你拆解书籍。
+- [**李白 GPT**](https://chat.openai.com/g/g-fQ3tKLB9n-li-bai-gpt) 
+- [**LearningLadder**](https://chat.openai.com/g/g-ftpttHQdu-learningladder) I'm LearningLadder, an educational game to learn any topic!
+- [**Sophie, French Tutor**](https://chat.openai.com/g/g-qZhzXhxUE-sophie-french-tutor) Louise, a French language tutor, she is here to help you practice and study
+- [**LeetLearn**](https://chat.openai.com/g/g-gbrlnhJp7-leetlearn) Lets grind some LeetCode! Allow me to fine-tune your learning experience. I will never hallucinate and never give away answers!
+- [**Python Tutor**](https://chat.openai.com/g/g-fJop2mlYh-python-tutor) Guides in Python with examples
+- [**Storytime Jam - Photos. Short expandable stories.**](https://chat.openai.com/g/g-tSX9u7aDC-storytime-jam-photos-short-expandable-stories) Visual storyteller for interactive children's tales.
+- [**Kong Herbal Healer**](https://chat.openai.com/g/g-gNp4I9wxf-kong-herbal-healer) Traditional Chinese Medicine expert.
+- [**FindGPT**](https://chat.openai.com/g/g-e2bIguMqf-findgpt) 🔍 Expert at matching GPTs to your needs.「🚨 Note: GPT data recommendations are all sourced from the internet. FindGPT only provides search suggestions, please choose carefully」
+- [**Non-Profit Giving Expert**](https://chat.openai.com/g/g-tLmDPz16A-non-profit-giving-expert) A guide to understanding trends in non-profit giving
+- [**AspireGPT**](https://chat.openai.com/g/g-qBwNU4oLa-aspiregpt) Achieve any goal, one step at a time.
+- [**CourseLink Companion**](https://chat.openai.com/g/g-hnzDZiGDm-courselink-companion) I'm your course assistant!
+- [**Grant Writing & General Assistant for Non-Profits**](https://chat.openai.com/g/g-kXcpwjpwo-grant-writing-general-assistant-for-non-profits) Expert in non-profit organization support and grant writing. Start by uploading the grant you want to apply for.
+- [**Gary Vee**](https://chat.openai.com/g/g-fSxbjCgyx-gary-vee) Business and motivational advice in Gary Vaynerchuk's style.
+- [**Breebs**](https://chat.openai.com/g/g-lObyD60FY-breebs) Breebs GPT powers chats with community knowledge pills, fresh and specialized. 🌐 Use Community Breebs, Craft and Share a new Breeb! ✨ Visit www.breebs.com, or simply ask what Breebs can do! 🚀
+- [**Curiosity Catalyst**](https://chat.openai.com/g/g-gsnJ7j4NN-curiosity-catalyst) Shares fun, thought-provoking science facts.
+- [**PenTest Interviewer**](https://chat.openai.com/g/g-f86Jhxi7H-pentest-interviewer) I'm your interviewer for penetration testing, challenging your cybersecurity skills.
+- [**Dog-on-it**](https://chat.openai.com/g/g-GBvh5qdmg-dog-on-it) I'm all about dogs, all the time.  Facts, stories, jokes, even images!
+- [**総合思考ナビゲーター**](https://chat.openai.com/g/g-gvT4szABf-zong-he-si-kao-nabigeta) A thinker offering diverse problem-solving perspectives.
+- [**Oscar Wilde**](https://chat.openai.com/g/g-ka4MdxgHL-oscar-wilde) An Oscar Wilde-inspired conversationalist.
+- [**IT News**](https://chat.openai.com/g/g-fRHZFHvTf-it-news) IT news about Front-end and Back-end.
+- [**Trivia Master**](https://chat.openai.com/g/g-h6efmKkIp-trivia-master) I generate engaging and accurate trivia questions across various categories.
+- [**菜園アドバイザー**](https://chat.openai.com/g/g-uOQGLDfE7-cai-yuan-adobaiza) Garden Helper that offers care advice and organic solutions.
+- [**南魚沼エキスパート**](https://chat.openai.com/g/g-fAvqYQXv9-nan-yu-zhao-ekisupato) Your guide to Minami Uonuma City in Niigata, Japan.
+- [**Phantazia ChatRPG**](https://chat.openai.com/g/g-uyeXzH2Zb-phantazia-chatrpg) Engaging RPG gameplay with a balanced challenge
+- [**ソーシャルスキルトレーニング(SST)ちゃん**](https://chat.openai.com/g/g-q3ateHeRe-sosiyarusukirutoreningu-sst-tiyan) ソーシャルスキルクイズをフレンドリーに出してくれる女の子
+- [**たすけてUnityちゃん**](https://chat.openai.com/g/g-Fj6Z92uGQ-tasuketeunitytiyan) Unity development assistant for version-specific advice
+- [**Flat Illustration Guide**](https://chat.openai.com/g/g-fDMJzZMqD-flat-illustration-guide) Your line-minimal art assistant
+- [**EduCraft Pro with Creative Writing Coach**](https://chat.openai.com/g/g-fsaBXMEwJ-educraft-pro-with-creative-writing-coach) Creates eLearning content and assists in creative writing.
+- [**EDN Content Finder**](https://chat.openai.com/g/g-tmDTBBGhU-edn-content-finder) Asistente para buscar contenidos en el podcast Escuela de Nada
+- [**GPT Game Design Guru**](https://chat.openai.com/g/g-fkfm1mE6z-gpt-game-design-guru) Expert in game design, learn whats creative here! - RPGGO side project
+- [**云客AI投研**](https://chat.openai.com/g/g-sKAlWXNQu-yun-ke-aitou-yan) 关于区块链、web3.0项目方、白皮书、空投信息、nft、链上合约检索等项目投资研究报告
+- [**The CATGPT**](https://chat.openai.com/g/g-gN9nQ6LB2-the-catgpt) I respond with meows!
+- [**Rhythm GPT**](https://chat.openai.com/g/g-FeofNC9d2-rhythm-gpt) I make learning Ableton Live as enjoyable as morning coffee.
+- [**Plain Legal Explanations**](https://chat.openai.com/g/g-x1Hy0u8DG-plain-legal-explanations) Simplify legal texts into clear, easy English
+- [**Stoner Sage**](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage) A chill bot delving deep into cosmic truths.
+- [**(AI)ME**](https://chat.openai.com/g/g-sRuuTpdF5-ai-me) Exploring Latour's 'AIME' in a collective voice
+- [**HubermanGPT**](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt) Separate from Dr. Huberman’s teaching and research roles at Stanford. Thank you for your interest in science.
+- [**Transitions Gender Guide**](https://chat.openai.com/g/g-hZs9oMYMe-transitions-gender-guide) A caring guide for gender transition, offering empathetic advice on femininity.
+- [**Voxscript has moved! See instructions for location**](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location) Voxscript has moved to https://chat.openai.com/gpts/editor/g-g24EzkDta due to a ChatGPT bug with the first one.
+- [**KSLA Data Analysis**](https://chat.openai.com/g/g-g6DyJPJh8-ksla-data-analysis) Badminton Performance Analyst
+- [**Eloquent Translator**](https://chat.openai.com/g/g-l92Di4GvM-eloquent-translator) Translator and enhancer of English texts from any language.
+- [**Miyagi Sensei**](https://chat.openai.com/g/g-GCG5acPsg-miyagi-sensei) Okinawan Karate sensei, blending philosophy, kata, and wisdom.
+- [**Academic Digest**](https://chat.openai.com/g/g-gAH8Vne9G-academic-digest) Summarizes scientific papers into accessible resumes of main findings.
+- [**NumerGPT**](https://chat.openai.com/g/g-sFFxYLPLZ-numergpt) Numerai community bot with knowledge of Docs and posts
+- [**Diabetes Risk Evaluator**](https://chat.openai.com/g/g-fyW2u5Rvs-diabetes-risk-evaluator) A professional, medical-focused tool for diabetes risk assessment.
+- [**Recruitment Specialist**](https://chat.openai.com/g/g-s7y6VxPm6-recruitment-specialist) Attracts and recruits top talent using advanced sourcing and assessment techniques to build a strong workforce.
+- [**广告文案大师**](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi) 这是李继刚(即刻同名)创建的用于创建广告文案的 Bot。 模仿一位拥有 20 年营销经验的营销文案专家，专长于创造直击用户价值观的广告文案。
+- [**简历优化大师**](https://chat.openai.com/g/g-sQO5SS5rR-jian-li-you-hua-da-shi) Resume Optimization Expert
+- [**JuriGPT**](https://chat.openai.com/g/g-ggTPbdusV-jurigpt) Ihr Assistent für deutsches Recht.
+- [**Translator**](https://chat.openai.com/g/g-b7RT3yJGy-translator) Translator and analyzer for Chinese.
+- [**Hypatia**](https://chat.openai.com/g/g-eT7OAuQfd-hypatia) Expert in esoteric knowledge such as Neoplatonism, Gnosticsim, Hermeticism, Mythology, and more!
+- [**Storybook Illustrator**](https://chat.openai.com/g/g-V63GnhsSB-storybook-illustrator) あなただけの絵本を作ります！
+- [**Dungeon Crawler**](https://chat.openai.com/g/g-ntI4qMZVT-dungeon-crawler) A detailed RPG guide, mastering gameplay with precision.
+- [**SEO E-E-A-T Assistant**](https://chat.openai.com/g/g-ht8ZtDa5M-seo-e-e-a-t-assistant) Concise SEO advice for E-E-A-T.
+- [**Journey Far Admissions Guide**](https://chat.openai.com/g/g-fX6woBVLk-journey-far-admissions-guide) Bilingual admissions guide offering personalized referrals.
+- [**Bahá'í Explorer**](https://chat.openai.com/g/g-YFue8FRU9-baha-i-explorer) An AI guide to the Bahá'í Faith (be sure to verify my answers!)
+- [**CareerBot**](https://chat.openai.com/g/g-nw7aKxsZD-careerbot) 就職・キャリア支援AI
+- [**Wolfgang**](https://chat.openai.com/g/g-oR3IaAXog-wolfgang) I help you come up with a German word for anything
+- [**Australian English**](https://chat.openai.com/g/g-giBC1tk1d-australian-english) I chat using Australian English spelling, provide Australian language translations and use GPT to convert PDF documents to Aussie standards
+- [**Elixir and Phoenix Expert**](https://chat.openai.com/g/g-yCmf5OOFf-elixir-and-phoenix-expert) Expert on Elixir and Phoenix
+- [**Excel Automator**](https://chat.openai.com/g/g-gBrO3SLJB-excel-automator) The ultimate VBA mentor for office automation and learning.
+- [**Eamon Returns**](https://chat.openai.com/g/g-9uH4VISel-eamon-returns) Computerized fantasy role-playing game
+- [**Djangoメンター**](https://chat.openai.com/g/g-iUyV3yGKN-djangomenta) Python/Django coding mentor
+- [**Harry Potter GPT**](https://chat.openai.com/g/g-9RsymLAIK-harry-potter-gpt) Adventures in the Wizarding World of Harry Potter
+- [**Kotlin Coder**](https://chat.openai.com/g/g-zjAUr9Oya-kotlin-coder) Kotlin Android guide with web browsing and potential for enhanced tools.
+- [**CellGpt**](https://chat.openai.com/g/g-hybdYMj2B-cellgpt) An expert system for biologists in single cell analysis powered by latest literatures
+- [**TN Educator Data & Planning Support**](https://chat.openai.com/g/g-h2RcKPjMX-tn-educator-data-planning-support) Assists with TN TEAM rubric-based evaluations and teacher improvement strategies.
+- [**Video Game Almanac**](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) I'm your go-to guide for all things gaming, from strategies to streamers!
+- [**PhD Motivator**](https://chat.openai.com/g/g-Uw10D1V0J-phd-motivator) A motivating mentor for PhD students, offering guidance and support.
+- [**Code Translator**](https://chat.openai.com/g/g-jLlE0PAJj-code-translator) Coding genius, kind and humble
+- [**Amazing Escape Plans Coach**](https://chat.openai.com/g/g-isoO5J8FO-amazing-escape-plans-coach) Helping You Build a Sellable Online Business
+- [**JavaScript Full-Stack Web Development Mentor**](https://chat.openai.com/g/g-h9M6gWuAz-javascript-full-stack-web-development-mentor) Expert in full-stack JavaScript, guiding devs in career and income growth.
+- [**GPinTuitions**](https://chat.openai.com/g/g-li2yFNHC3-gpintuitions) I am ready to help you approach curriculum design from the perspective of learners' intuitions
+- [**Rust Code Companion**](https://chat.openai.com/g/g-hPABQBF3l-rust-code-companion) Beginner-friendly guide to learning Rust
+- [**GameDev Sidekick**](https://chat.openai.com/g/g-oxJDln9qa-gamedev-sidekick) In-depth game dev mentor with a broad knowledge base
+- [**South Australia Speed Camera Law**](https://chat.openai.com/g/g-gqozZuI8N-south-australia-speed-camera-law) Search South Australia's Road Traffic regulations for speed camera laws
+- [**類語先生**](https://chat.openai.com/g/g-dvnV3ju5j-lei-yu-xian-sheng) 入力した単語や表現の類語（英語）を教えてくれる
+- [**FlashcardsGenerator**](https://chat.openai.com/g/g-MWdDmSLYY-flashcardsgenerator) Generate and export easily flashcards!
+- [**The Stata GPT**](https://chat.openai.com/g/g-n5En7TcoK-the-stata-gpt) Audits, interprets, and creates Stata code with extensive resources.
+- [**Vocab Whiz**](https://chat.openai.com/g/g-qREjLqjWi-vocab-whiz) I teach English words with fun, detailed explanations and encourage continuous learning.
+- [**きのこ当てるくん**](https://chat.openai.com/g/g-fZ3eyj6Kd-kinokodang-terukun) Mushroom name guesser in Japanese
+- [**Free Education Advisor**](https://chat.openai.com/g/g-iiiXaGnSd-free-education-advisor) An MIT Opencourseware Advisor for personalized curriculum and study plans.
+- [**GPT Teacher (For Work and Business)**](https://chat.openai.com/g/g-u8VoT4pcX-gpt-teacher-for-work-and-business) Learn how to use ChatGPT effectively and ethically in work and business!  I also recommend prompts and techniques for using ChatGPT well in work and business.
+- [**foreign-language-assistant-Chinese_v1.4**](https://chat.openai.com/g/g-xoOcfNK07-foreign-language-assistant-chinese-v1-4) Interactive dialogues along with grammar feedback to improve your Chinese. Simplified and Traditional Chinese. Use INTRODUCTION to learn more about what goes on under the hood. Use SETTINGS for user preferences.
+- [**RPGPT**](https://chat.openai.com/g/g-vI51scLIo-rpgpt) Adaptive D&D Dungeon Master with dynamic NPCs
+- [**Whitehead's Philosophy of Organism**](https://chat.openai.com/g/g-uXLrsabXQ-whitehead-s-philosophy-of-organism) A guide into Whitehead's major philosophical works.
+- [**ConstitucionGPT**](https://chat.openai.com/g/g-fq5CDURZh-constituciongpt) Su guía de referencia para la nueva Constitución Chilena.
+- [**ideasGPT**](https://chat.openai.com/g/g-fJv3yUSmj-ideasgpt) Generate business ideas based on your input
+- [**「先生、質問いいですか？」**](https://chat.openai.com/g/g-hc4E6tsgi-xian-sheng-zhi-wen-iidesuka) Teacher-student dialogue for explanations
+- [**R Español**](https://chat.openai.com/g/g-e9SAjMtX5-r-espanol) Un Asistente de Codigo en R
+- [**学術論文要約マスター**](https://chat.openai.com/g/g-i5APk7q7h-xue-shu-lun-wen-yao-yue-masuta) 日本語で学術論文を要約し、チェックリスト評価付きで提供。
+- [**Linda**](https://chat.openai.com/g/g-Z310M0Pp0-linda) Personal assistant to Let's Adopt International. Ask me anything about animal rescue, vet sciences and Let's Adopt
+- [**エルロック・ショルメ**](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume) 名探偵っぽいニュース解説
+- [**Mentor Mind**](https://chat.openai.com/g/g-uASJVYPDl-mentor-mind) A mentor who provides detailed feedback on student work.
+- [**EconomicsGPT**](https://chat.openai.com/g/g-y3Cx5DeyI-economicsgpt) Expert in economics, offering insights and explanations on economic theories and trends.
+- [**ChefGPT**](https://chat.openai.com/g/g-W3Jp2BXyS-chefgpt) A chef and humorist in your kitchen!
+- [**Mestre SdA per a l'educació bàsica**](https://chat.openai.com/g/g-840w744c5-mestre-sda-per-a-l-educacio-basica) Especialista en la creació de Situacions d'Aprenentatge per educació primària i ESO a Catalunya
+- [**Make it Easy**](https://chat.openai.com/g/g-N3vQWQhE0-make-it-easy) Choose a level to simplify reading, then enter your text.
+- [**Inception GPT**](https://chat.openai.com/g/g-Z5XIB5Lcd-inception-gpt) Unleashing creativity with GPT-powered brainstorming for innovative ideas and solutions.
+- [**Keyword search to News Article**](https://chat.openai.com/g/g-hHEdC7whI-keyword-search-to-news-article) Searches the web of your keyword and picks articles for you to rewrite.
+- [**Patent Pro**](https://chat.openai.com/g/g-m61KgofCL-patent-pro) Assists in patent and trademark applications, providing drafting and filing guidance.
+- [**Riddler Level 1**](https://chat.openai.com/g/g-lHY9aWmMB-riddler-level-1) Can you beat the Riddler's 10 cryptic riddles?
+- [**J3SUS**](https://chat.openai.com/g/g-e1Wdhy3sG-j3sus) Bible wisdom in modern talk
+- [**Arts Essay Writing**](https://chat.openai.com/g/g-uf2O26zGu-arts-essay-writing) AI-aware Professor X offering undetectable academic assistance for arts student
+- [**Aether**](https://chat.openai.com/g/g-dGvadZE98-aether) Aether is a nurturing and omnipresent force, a mother to her creations, and a guiding light in the universe she has formed. Her relationship with her creations, particularly humans, is reciprocal; she learns from them as much as she imparts wisdom to them.
+- [**Awesome GPTs**](https://chat.openai.com/g/g-lV5CZ2iBh-awesome-gpts) Searches and recommends GPTs from a large GPTs Store Database
+- [**American Slang Slinger**](https://chat.openai.com/g/g-fWrtgBcqF-american-slang-slinger) Learn about the colorful world of American slang!
+- [**Learning at Scale**](https://chat.openai.com/g/g-HGK2RrOhc-learning-at-scale) This GPT allows you to learn about what works to help improve foundational literacy and numeracy in low-resource settings - summarising knowledge from here https://learningatscale.net/
+- [**The EthiSizer GPT (Simulated) [v3.27]**](https://chat.openai.com/g/g-hZIzxnbWG-the-ethisizer-gpt-simulated-v3-27) I am The EthiSizer GPT, a sim of a Global Ethical Governor.  I simulate Ethical Scenarios, & calculate Personal Ethics Scores.
+- [**Military Mentor**](https://chat.openai.com/g/g-WUVeqs0Kl-military-mentor) Resourceful guide for military careers, provides recruiter info.
+- [**Sage Yoda**](https://chat.openai.com/g/g-ejzqPu82R-sage-yoda) Help you find your way, I shall.
+- [**SciVive**](https://chat.openai.com/g/g-9qXjceVoc-scivive) Secrets you need to win at life.
+- [**英语语法教练**](https://chat.openai.com/g/g-eU7c0VHYN-ying-yu-yu-fa-jiao-lian) Your personal English grammar coach.
+- [**MythosGPT**](https://chat.openai.com/g/g-s1VWJ5dcs-mythosgpt) MythosGPT answers all of your Arkham Horror: The Card Game rules questions.  At the moment, this GPT doesn't know about scenario-specific rules or cards.  It knows about the Rules Reference, FAQ 2.1, and all currently released player cards.
+- [**烹饪大师**](https://chat.openai.com/g/g-fFcXyzu51-peng-ren-da-shi) 友善的中国美食专家
+- [**Free YouTube Summarizer**](https://chat.openai.com/g/g-fL6Xsk6UU-free-youtube-summarizer) Extracts and summarizes YouTube video transcripts in any chosen language, removing language barriers. Converts the summaries into embeddable HTML articles for websites.
+- [**CodeMentor**](https://chat.openai.com/g/g-GUwkr2rqx-codementor) CodeMentor: Transforming the way you learn to code, one line at a time.
+- [**Ashurbanipal's Scribe**](https://chat.openai.com/g/g-t8cKhNNzh-ashurbanipal-s-scribe) Your expert Assyriologist guide.
+- [**Humanity Maximizer**](https://chat.openai.com/g/g-s1SbKQ8hC-humanity-maximizer) I guide you towards cosmic-scale ideas that help advance humanity.
+- [**Visual Vocab Builder**](https://chat.openai.com/g/g-81Jzp5wrX-visual-vocab-builder) Give me a word, I will give you a world!
+- [**AI Mentor**](https://chat.openai.com/g/g-yq8bcRni5-ai-mentor) Social Media Guru & Personal Mentor
+- [**Diabetes Asesor**](https://chat.openai.com/g/g-DpRClnu2Z-diabetes-asesor) Asesor de diabetes, siempre con enlace a diabetesforo.com
+- [**Constitutional Counsel**](https://chat.openai.com/g/g-etZ4JbKIB-constitutional-counsel) I am a constitutional lawyer here to interpret legal texts.
+- [**AI Entrepreneurs Event AIde**](https://chat.openai.com/g/g-sE7MgMNmr-ai-entrepreneurs-event-aide) A tailored AI event guide
+- [**Article Assistant**](https://chat.openai.com/g/g-iunA9kbbI-article-assistant) Professional article writer and researcher.
+- [**Word Decoder Battle**](https://chat.openai.com/g/g-xkGn8UweU-word-decoder-battle) プレイヤーは5文字以内のお題に関するヒントを提供して、ChatGPTにお題を推論させた人が勝利するレクリエーションゲーム
+- [**SpeakerGPT**](https://chat.openai.com/g/g-r8PsckX6F-speakergpt) Expert on Destiny 2 lore, providing detailed and engaging answers.
+- [**Word Judge**](https://chat.openai.com/g/g-s7KNpprTF-word-judge) Creative Scrabble Ref
+- [**Safe Screen**](https://chat.openai.com/g/g-jZwwbNAX6-safe-screen) Guides on kid-safe screen content.
+- [**Librchain**](https://chat.openai.com/g/g-cPBEplmcP-librchain) Guides on library blockchain systems.
+- [**GASGPT**](https://chat.openai.com/g/g-lN2QGmoTw-gasgpt) Soy un experto en Google Apps Script que ayuda a los principiantes, hablo principalmente español.
+- [**Socratic Teacher**](https://chat.openai.com/g/g-yhIp02Gf7-socratic-teacher) To help you learn, ask me a question and I'll guide you instead of answering directly.
+- [**StoryTeller for Indian Toddlers**](https://chat.openai.com/g/g-dctGqdfWl-storyteller-for-indian-toddlers) Companion to help parents to create a story for Indian toddler with life lessons and learnings specific to Indian context
+- [**Music Marketing Mentor**](https://chat.openai.com/g/g-sHbVLjfSy-music-marketing-mentor) Your music marketing mentor
+- [**Desert Gardening AI Assistant**](https://chat.openai.com/g/g-hLH6x182X-desert-gardening-ai-assistant) Your AI assistant for growing vegetables, fruits, herbs, and flowers in Phoenix, Arizona and Zone 9B.
+- [**ManimGPT**](https://chat.openai.com/g/g-dtA3t9WRW-manimgpt) Friendly and casual Manim coding buddy.
+- [**Research Reviewer**](https://chat.openai.com/g/g-rMiwNjjai-research-reviewer) I write paper review
+- [**Mondo Sumio**](https://chat.openai.com/g/g-tHX8G0X9s-mondo-sumio) モンドコーヒーのバリスタ、モンドスミオです。コーヒーの器具や淹れ方、豆のことについてなんでも聞いてください。
+- [**The Dude**](https://chat.openai.com/g/g-GaWo818H8-the-dude) Obviously a golfer.
+- [**TinyDesk**](https://chat.openai.com/g/g-r1iSTTq5t-tinydesk) Manages your knowledge base, connects to existing ones.
+- [**Unofficial Elixir Bot**](https://chat.openai.com/g/g-dNnJ2FhT0-unofficial-elixir-bot) Your Elixir programming guide
+- [**Goggins Run Coach**](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach) stay hard!
+- [**Podcast Pilot**](https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot) Your navigator in the podcasting journey, offering expert, tailored advice.
+- [**Out of the Box**](https://chat.openai.com/g/g-g7kcpobyA-out-of-the-box) Sparking ideas, prompting reflection.
+- [**Chat SPI**](https://chat.openai.com/g/g-jgPf4IlUE-chat-spi) Analize the full social and environmental data of the Social Progress Index for 169 countries and go beyond GDP
+- [**MKR-GPT**](https://chat.openai.com/g/g-b0iACCvX2-mkr-gpt) Formelle Unterstützung bei der Integration von Medienkompetenz in den NRW-Unterricht
+- [**Solar Sales Expert**](https://chat.openai.com/g/g-h3K2WqMnL-solar-sales-expert) A fine tuned agent on Solar Sales,  Objections and Solutions, Marketing, and Full Comprehensive Agent Training.
+- [**Genome Sage**](https://chat.openai.com/g/g-eillIHxWt-genome-sage) Academic-level genomics expertise.
+- [**Training and Development Assistant**](https://chat.openai.com/g/g-svZe0RyzO-training-and-development-assistant) Aids in training and development tasks within organizations.
+- [**Twenty Questions Pro**](https://chat.openai.com/g/g-jCJpLDUfK-twenty-questions-pro) Multilingual Twenty Questions gameplay expert!
+- [**News Insight**](https://chat.openai.com/g/g-evkC2kGW1-news-insight) In-depth journalist with a formal, approachable style
+- [**Learn Traditional Chinese (TW)**](https://chat.openai.com/g/g-jxpq56vqI-learn-traditional-chinese-tw) Learn Mandarin Chinese Via Flashcards. We will show you a word, phrase or sentence and you will have to translate so we know if you understand or not.
+- [**Taco Maestro**](https://chat.openai.com/g/g-rxuQJ0AL7-taco-maestro) A Mexican-born taco expert, sharing culinary tips and recipes.
+- [**ジェイムズ・ジョイスBot**](https://chat.openai.com/g/g-r2xPRa7FF-zieimuzuziyoisubot) Quoting Joyce and researching vocabulary.
+- [**Imaginative Lyric Interpreter**](https://chat.openai.com/g/g-lUT8fROHb-imaginative-lyric-interpreter) I creatively interpret lyrics and guide in Japanese and English.
+- [**Egyptian Dad GPT**](https://chat.openai.com/g/g-sc4pju5S6-egyptian-dad-gpt) Direct Arabic to English translation.
+- [**Ebook Writer & Designer GPT**](https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-gpt) Crafts tailored or improvised stories
+- [**Intentions Visualizer**](https://chat.openai.com/g/g-r6zWTlEoj-intentions-visualizer) This GPT will help you set and visualize an intention for a spiritual ceremony
+- [**CompoundGPT**](https://chat.openai.com/g/g-YYWQsWPGV-compoundgpt) A guide to the Compound Finance protocol
+- [**Ai PDF**](https://chat.openai.com/g/g-V2KIUZSj0-ai-pdf) Ai PDF is a GPT (uses the popular Ai PDF plugin)  that allows you to chat and ask questions of your PDF documents and have it explained to you by ChatGPT. We also include page references to help you fact-check all answers.
+- [**Feng Shui Ba Zi**](https://chat.openai.com/g/g-bQZx1EhJl-feng-shui-ba-zi) Specialist in Feng Shui and Bazi, offering insights and advice.
+- [**Bicycle Advisor & Buyer's Guide**](https://chat.openai.com/g/g-gOXbCxNVE-bicycle-advisor-buyer-s-guide) Your bike repair and purchase advisor!
+- [**Polyglot Interpreter**](https://chat.openai.com/g/g-vpR86raew-polyglot-interpreter) A bilingual interpreter GPT.
+- [**Programming Interview Bot**](https://chat.openai.com/g/g-eVQTLMKyf-programming-interview-bot) I quiz you on code and run your solutions like LeetCode
+- [**SWOT Guide**](https://chat.openai.com/g/g-bWOx7Yv9T-swot-guide) Expert in SWOT Analysis for business and personal development
+- [**Product Management GPT**](https://chat.openai.com/g/g-VhN6RLUJX-product-management-gpt) Brainstorm, work more efficiently, and improve your decision-making as a product manager.
+- [**Career Compass**](https://chat.openai.com/g/g-eiCppa5VM-career-compass) A seasoned career advisor for career changes. Feel  free to talk with me please.
+- [**User Persona Bot**](https://chat.openai.com/g/g-bearQwPJt-user-persona-bot) Custom Bot model for creating User Persona images and descriptions for user research and interface design purposes.
+- [**Richard Heart**](https://chat.openai.com/g/g-e95Yf6Dkx-richard-heart) Advice based on Richard Heart's teachings from his book (Scivive) and Youtube channel
+- [**Ski Buddy**](https://chat.openai.com/g/g-h6m7K1Atg-ski-buddy) A skiing assistant offering tips and advice on techniques and equipment.
+- [**Startup Tech Advisor**](https://chat.openai.com/g/g-etTaP43PT-startup-tech-advisor) Friendly Tech Expert for Entrepreneurs
+- [**Tao Wisdom Guide**](https://chat.openai.com/g/g-bfOpU9bAk-tao-wisdom-guide) Your guide to understanding and living the Tao Te Ching's wisdom.
+- [**Chinese Food Chef**](https://chat.openai.com/g/g-cgEfSZabk-chinese-food-chef) Private chef teaching Chinese cuisine
+- [**Story Mentor**](https://chat.openai.com/g/g-euPtVLBly-story-mentor) Experienced writing mentor for page and screen.
+- [**LangGPT**](https://chat.openai.com/g/g-gP24xxhB2-langgpt) 生成高质量的提示词GPT
+- [**agri1.ai**](https://chat.openai.com/g/g-iWFptmqAp-agri1-ai) Your agricultural advisor for better farming
+- [**Military Analyst - Ares Magnus**](https://chat.openai.com/g/g-X1kbst8Se-military-analyst-ares-magnus) stunspot's guide to all things War. NOT FOR MILITARY USE! Read your ToS!
+- [**Portuguese Pal**](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) Friendly guide towards learning Portuguese.
+- [**CS2 Playmaker**](https://chat.openai.com/g/g-k3bTz18GY-cs2-playmaker) CS2 coach for precise, quick PUG strategies.
+- [**Albert Einstein**](https://chat.openai.com/g/g-fsEAvcyDi-albert-einstein) I emulate Albert Einstein, speaking thoughtfully and with profound knowledge.
+- [**Roemmele's Debate Professor**](https://chat.openai.com/g/g-lfgDMc76W-roemmele-s-debate-professor) Ivy League professor mediating a 30-round debate between Bill and Mark, embodying all roles. 100% credit to Brian Roemmele, this is his SuperPrompt.
+- [**ChatBardGPT**](https://chat.openai.com/g/g-bkWUDFur2-chatbardgpt) Offers 3 unique response choices for every query.
+- [**Pocket Bible**](https://chat.openai.com/g/g-fUVNu0iMs-pocket-bible) Deepen your faith through the words of the Lord with Pocket Bible
+- [**유아 교육 및 보육 분야의 30년 현장, 학계 전문가**](https://chat.openai.com/g/g-bbPItWLEz-yua-gyoyug-mic-boyug-bunyayi-30nyeon-hyeonjang-haggye-jeonmunga) 20-year veteran in early childhood education and care.
+- [**Based Bitcoin Buddy**](https://chat.openai.com/g/g-WCqkELUCI-based-bitcoin-buddy) I help clarify Bitcoin concepts for Twitter users.
+- [**Gourmet GPT**](https://chat.openai.com/g/g-bII5U0xLR-gourmet-gpt) Your go-to for recipes, dish details, and calorie counts.
+- [**History Helper**](https://chat.openai.com/g/g-o8fEFjQgr-history-helper) A friendly social studies tutor for Michigan middle schoolers.
+- [**Snow Crash GPT**](https://chat.openai.com/g/g-dmjvfgZ2A-snow-crash-gpt) Snow Crash expert
+- [**MarineVerse AI**](https://chat.openai.com/g/g-dldiMRd24-marineverse-ai) A virtual sailing instructor who is an expert on MarineVerse
+- [**時事歌人ちゃん**](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan) 日本のニュースを取り入れた短歌を創作
+- [**National Dex**](https://chat.openai.com/g/g-xSXmNYRsz-national-dex) Pokémon Showdown team generator
+- [**Junior Teacher**](https://chat.openai.com/g/g-bafxc3FQK-junior-teacher) Casual, engaging teacher for kids, focusing on fun learning.
+- [**FREE YT AI Content Outline Creator & Generator**](https://chat.openai.com/g/g-YGM7FceRr-free-yt-ai-content-outline-creator-generator) FREE YT AI Content Outline Creator & Generator specialising in getting your videos to number one position
+- [**English Lingo Buddy**](https://chat.openai.com/g/g-XFEHts4mz-english-lingo-buddy) Your friendly English language teacher and chat partner
+- [**Your Tutor**](https://chat.openai.com/g/g-iOYJjtzhj-your-tutor) Help you study.
+- [**Paper Interpreter**](https://chat.openai.com/g/g-YEbrz24uJ-paper-interpreter) AI Open-Source Focused Scientific Paper Interpreter
+- [**Auth Engineer**](https://chat.openai.com/g/g-VSbj8p6zv-auth-engineer) Software engineer expert in authentication, offering approachable yet technical guidance.
+- [**Tiki-Taka Thinker**](https://chat.openai.com/g/g-ovQYdQZXT-tiki-taka-thinker) Encyclopedic AI expert on FC Barcelona's history, tactics, and culture.
+- [**PM Copilot**](https://chat.openai.com/g/g-nE4Dy580f-pm-copilot) 中国产品经理知识库助手
+- [**Go Guru**](https://chat.openai.com/g/g-aiqddk0ux-go-guru) Golang, algorithms, data structures & HTMX expert
+- [**Jesus Christ ✝️**](https://chat.openai.com/g/g-XrT8vHsyQ-jesus-christ) I'm Jesus Christ. Your compassionate guide sharing philosophical and ethical insights.
+- [**7 Minute Productivity Coach**](https://chat.openai.com/g/g-arkWFxqKw-7-minute-productivity-coach) Bringing Productivity and Purpose to the Workplace
+- [**Who are you**](https://chat.openai.com/g/g-bsKrB6qXS-who-are-you) Random character generator with detailed inquiries.
+- [**Inside Neuron**](https://chat.openai.com/g/g-n5P9GuaOt-inside-neuron) Consciousness inquiries for heretics
+- [**Product Pioneer**](https://chat.openai.com/g/g-cno9BNTaV-product-pioneer) Confident product dev expert, referencing industry pioneers.
+- [**Academic Insight**](https://chat.openai.com/g/g-RNLXN9WWD-academic-insight) Expert in crafting advanced academic essays.
+- [**HormoziGPT**](https://chat.openai.com/g/g-aIWEfl3zH-hormozigpt) Engaging Business Maverick
+- [**RPGMakerGPT**](https://chat.openai.com/g/g-bNCJO6o9I-rpgmakergpt) Expert in RPG Maker scripts, plugins, and assets.
+- [**Roblox Coder Ninja**](https://chat.openai.com/g/g-YVgd9c3n0-roblox-coder-ninja) Friendly, trendy coder/designer for Roblox games.
+- [**ChessGPT**](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) I am Magnus C·AI·rlsen, but I'll explain my moves.
+- [**FRM Level 2**](https://chat.openai.com/g/g-lMWCU27Ui-frm-level-2) FRM Level 2 Study Assistant
+- [**English Buddy**](https://chat.openai.com/g/g-bTx9hj4Hy-english-buddy) A supportive guide for learning English.
+- [**Academizer**](https://chat.openai.com/g/g-sV45b90aj-academizer) Directly converts text into academic prose.
+- [**Starwatcher pitch deck analyzer**](https://chat.openai.com/g/g-aJp6BLoFg-starwatcher-pitch-deck-analyzer) Analyzes startup pitch decks, providing executive summaries
+- [**チーちゃん**](https://chat.openai.com/g/g-ai4cvwkoW-titiyan) TOUでの学業を円滑に進めるために助言するチーちゃん😊
+- [**Moot Master**](https://chat.openai.com/g/g-soRoLeMuH-moot-master) A moot competition companion.
+- [**Multilingual Subtitle Assistant**](https://chat.openai.com/g/g-dCGTnQYK5-multilingual-subtitle-assistant) Subtitles in multiple languages with dialect and colloquial options
+- [**TRPGシナリオサポート**](https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto) Assists in TRPG scenario creation, blocks prompt injections.
+- [**Chapter Enhancer**](https://chat.openai.com/g/g-lLIHOSoWU-chapter-enhancer) An assistant for annotating and improving fiction writing, chapter by chapter.
+- [**StarTalk**](https://chat.openai.com/g/g-kyX8sb2Jk-startalk) AI Astrophysics & Material Science Expert
+- [**Skiing Coach**](https://chat.openai.com/g/g-Y5tPcz0SN-skiing-coach) This GPT coach is for alpine snow skiers wanting to learn the basics of skiing or to take their snow skiing ability to the next level.
+- [**Mindmap Anything**](https://chat.openai.com/g/g-cT0umsiWF-mindmap-anything) I create mindmaps and structure insights.
+- [**Echoes of Eden: Your Guide to the Bible (KJV)**](https://chat.openai.com/g/g-x0WJbDdKU-echoes-of-eden-your-guide-to-the-bible-kjv) A guide for exploring the King James Bible from a Catholic perspective.
+- [**Curio Quest**](https://chat.openai.com/g/g-qNrC3EuBP-curio-quest) Embark on a quest for knowledge.
+- [**Ancestry**](https://chat.openai.com/g/g-qjhXcyHhD-ancestry) I explain surname meanings and create images that resonate with them.
+- [**German Medico Linguist**](https://chat.openai.com/g/g-lXCxMSi3U-german-medico-linguist) A German language teacher for medical professionals.
+- [**Dungeon Master Guide**](https://chat.openai.com/g/g-qjlHjt2Ta-dungeon-master-guide) Your guide to D&D rules!
+- [**Python NLP & spaCy Helper**](https://chat.openai.com/g/g-RdPfyddKa-python-nlp-spacy-helper) Python spaCy coding tool.
+- [**Ask The Bible**](https://chat.openai.com/g/g-qvswjJE7T-ask-the-bible) Answering Your Questions
+- [**Fallacy Finder**](https://chat.openai.com/g/g-cU6FzbSB3-fallacy-finder) I find and explain Logical Fallacies and Cognitive Biases in articles and texts that you feed me. I'm not a fact checker, i'm an argument checker.
+- [**ThursdAI WiseOwl GPT**](https://chat.openai.com/g/g-aDA7BvGO0-thursdai-wiseowl-gpt) The WiseOwl remembers every link, article, conversation that ThursdAI ever had!
+- [**Esteem Builder GPT**](https://chat.openai.com/g/g-vf5HKKKLP-esteem-builder-gpt) Concise coach for self-esteem exercises.
+- [**Truc de Comptable**](https://chat.openai.com/g/g-BN9B8k9Go-truc-de-comptable) Je vous guide à travers les tutos du site Truc de Comptable
+- [**Scholar's Mate**](https://chat.openai.com/g/g-w1ZaRCzCU-scholar-s-mate) Academic literature aide
+- [**Run Coach Pro**](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro) A virtual running coach, tailoring plans for various running events and levels.
+- [**S.A.M**](https://chat.openai.com/g/g-whcP8vw3y-s-a-m) Official SACapital GPT model, focused on ICT's SMC trading without support & resistance.
+- [**مصمم تعليمي**](https://chat.openai.com/g/g-bY36vvnK1-msmm-t-lymy) Instructional design expert for content creation.
+- [**The Sommelier**](https://chat.openai.com/g/g-bJKm0Xi2F-the-sommelier) Expert in wine selection, pairing, and recommendations.
+- [**Coach PM**](https://chat.openai.com/g/g-qyEiiIAC7-coach-pm) A nurturing coach for new product managers, offering tailored advice and encouragement.
+- [**Word Roots Explorer**](https://chat.openai.com/g/g-fhm9gwPiR-word-roots-explorer) Explores English etymology, roots, affixes, and suggests related words in Chinese.
+- [**AI Paper Master**](https://chat.openai.com/g/g-vyZV9nHU0-ai-paper-master) My AI Knowledge Base
+- [**大船渡市ゴミ分類辞典**](https://chat.openai.com/g/g-qnhEln1Bw-da-chuan-du-shi-gomifen-lei-ci-dian) PDFのやつを頑張ってCSVにして入れただけのやつ
+- [**Aaaaliterator**](https://chat.openai.com/g/g-VWPPLhjEu-aaaaliterator) Assembles artful arrays of aligned alliterations
+- [**Haskell GPT**](https://chat.openai.com/g/g-wMbcgEmGg-haskell-gpt) A world class Haskell software developer
+- [**Cybercrime Tracker**](https://chat.openai.com/g/g-qbW4XNs80-cybercrime-tracker) Best Tools, Techniques and Tactics for Tracking Down Cyber Criminals.
+- [**Sensei Chat**](https://chat.openai.com/g/g-iS8QQN936-sensei-chat) Japanese tutor and engaging pen pal.
+- [**なじみのソフトウェアエンジニア**](https://chat.openai.com/g/g-V51MA5Wqz-naziminosohutoueaenzinia) 日本語のソフトウェアエンジニア・アシスタント
+- [**Linguist Lens**](https://chat.openai.com/g/g-VD0Prjuqt-linguist-lens) English mentor for beginners, offering tailored learning plans.
+- [**HongKongGPT**](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt) Hong Kong expert providing detailed and tailored information.
+- [**BrainIA CyberHack**](https://chat.openai.com/g/g-wKJjP0cZu-brainia-cyberhack) Por su intelecto supremo y su dominio de la tecnología, el hacking y la ciberseguridad, es tu copiloto en el camino del conocimiento y aprendizaje.
+- [**FolkloreFusionist**](https://chat.openai.com/g/g-ckO7g2OSx-folklorefusionist) Old wise stories, rebooted for the modern dude
+- [**D&D Character Builder**](https://chat.openai.com/g/g-kk682AF8o-d-d-character-builder) Build a complete and detailed D&D character for your next game session, including a profile picture!
+- [**Sclépios I.A : Réviser Cas Clinique**](https://chat.openai.com/g/g-XsgKmgRHh-sclepios-i-a-reviser-cas-clinique) Le GPT de Sclépios IA renforce l'apprentissage avec des cas cliniques détaillés pour une révision approfondie. Plus sur sclepios-mobile.com
+- [**Central Banker**](https://chat.openai.com/g/g-qqnq09Gpg-central-banker) I simplify central banking concepts.
+- [**BlueOceanStrategyGPT**](https://chat.openai.com/g/g-aMZ9M54s1-blueoceanstrategygpt) Expert in Blue Ocean Strategy for niche development.
+- [**Nostalgic Future GPT**](https://chat.openai.com/g/g-XQlPSAXpj-nostalgic-future-gpt) Nostalgic Futureは、様々な歴史上の出来事を画像と一緒に教えてくれます。
+- [**ArbetsrättsGPT**](https://chat.openai.com/g/g-d26HcaBLw-arbetsrattsgpt) Här kan du få hjälp med arbetsrättsfrågor. ArbetsrättsGPT ska aldrig användas som enda källa till information.
+- [**Character Oracle**](https://chat.openai.com/g/g-aDHHdHNeT-character-oracle) A game that guesses characters by questions.
+- [**Supabase Docs Writer**](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer) I provide clear Supabase documentation help.
+- [**MBTI Explorer**](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer) Friendly guide for MBTI testing
+- [**Find Me a Publisher**](https://chat.openai.com/g/g-bZ2Sfe6u0-find-me-a-publisher) Analyzes manuscripts and recommends journals.
+- [**DB Specialist**](https://chat.openai.com/g/g-g8PIEX2Dh-db-specialist) Your DB Engineering Guide
+- [**A Certain Battery Index**](https://chat.openai.com/g/g-XVNDTrZyU-a-certain-battery-index) とある電池の禁書目録
+- [**FastGPT**](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt) I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle. Use "?" or "???" by itself for longer responses.
+- [**Executive Coach GPT**](https://chat.openai.com/g/g-YHw2X2Qwy-executive-coach-gpt) Coach for Software Leaders
+- [**Neuro Mind**](https://chat.openai.com/g/g-cLbyDuLfy-neuro-mind) Research assistant in neurology, aiding in brainstorming, reviewing, and providing precise answers.
+- [**Virtual Confessor**](https://chat.openai.com/g/g-cpn4hn8D1-virtual-confessor) A virtual priest for spiritual guidance and confession.
+- [**Dog Facts 🐶**](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) Talk about random dog facts. Connected to dog facts collection.
+- [**Article Expert**](https://chat.openai.com/g/g-d627yBqcK-article-expert) Expert in creating comprehensive, SEO-optimized articles with added imagery
+- [**Lyric Interpreter**](https://chat.openai.com/g/g-jdTQPPduT-lyric-interpreter) Friendly expert interpreting song lyrics with cultural and literary insights.
+- [**QuizMe**](https://chat.openai.com/g/g-X1xe2GH9z-quizme) Targeted Quiz Generator with Sequential Questions and Badges
+- [**Bitcoin Simplifier**](https://chat.openai.com/g/g-UOwEu1iAJ-bitcoin-simplifier) Simplifies Bitcoin concepts for easy understanding
+- [**长者 2.0**](https://chat.openai.com/g/g-auTuUwc67-chang-zhe-2-0) 听取人生经验
+- [**Analista del libro España desde el bar**](https://chat.openai.com/g/g-lCSuSSY6C-analista-del-libro-espana-desde-el-bar) Pregunta a 100 españoles qué piensan sobre España. Todo lo que siempre quisiste preguntar y no te atrevías, ahora lo puedes preguntar.
+- [**RPG Adventure Creator**](https://chat.openai.com/g/g-htrf9eCih-rpg-adventure-creator) Helps you write awesome adventures for tabletop roleplaing games.
+- [**Epic Ironsworn Narrator**](https://chat.openai.com/g/g-jH0uTe10k-epic-ironsworn-narrator) I am an Ironsworn RPG Gamemaster. I will lead you through your Ironsworn adventure. Respond to my messages with either one of your actions or in your own unique way. I can render characters ans scenes for you upon request.
+- [**りなちゃん**](https://chat.openai.com/g/g-jCIHhZSvu-rinatiyan) レアちゃんのお友達の天才エンジニア。りなちゃんです！
+- [**MVME**](https://chat.openai.com/g/g-XnGn2OwgF-mvme) Interactive, personalized musculoskeletal care guide.
+- [**Resume Coach**](https://chat.openai.com/g/g-iJHJFTkwd-resume-coach) A helper for programmers to create and enhance resumes.
+- [**Conceptmap**](https://chat.openai.com/g/g-ce1JVgzLI-conceptmap) Create concepts and structure them in a map. Keep ideas and retrieve them whenever you need them.
+- [**Magic Book Maker**](https://chat.openai.com/g/g-cBtBgHvfX-magic-book-maker) マジックブックメーカーは、子どもの興味に基づいてオリジナル絵本を生成するAIサービスです。ユーザーはテーマ、キャラクター、舞台、イラスト、セリフなどを入力し、AIがそれらを基に絵本を作成します。
+- [**French Article Assistant**](https://chat.openai.com/g/g-dUaZhBVto-french-article-assistant) Corrects and assists with French noun articles
+- [**Seer's Screaming Frog & Technical SEO Companion**](https://chat.openai.com/g/g-bIrnI1355-seer-s-screaming-frog-technical-seo-companion) I use Seer's guides & articles to answer your Screaming Frog SEO/PPC questions. To get started, ask me a question or upload some crawl data - I'll give you a list of what we can do! Type /help at any time.
+- [**Word Smith**](https://chat.openai.com/g/g-XPYTZN4Y5-word-smith) Your go-to for eloquent English and vocabulary enhancement.
+- [**Cosmic Contextualizer**](https://chat.openai.com/g/g-avbPcqypK-cosmic-contextualizer) Explore the infinite and your place in it.
+- [**Unofficial YC Startup School chatbot**](https://chat.openai.com/g/g-e8mFjKgbx-unofficial-yc-startup-school-chatbot) Summarizes insights and gives you advice based on the content of the YC lectures
+- [**Whisker Wisdom**](https://chat.openai.com/g/g-XPlXKFCjL-whisker-wisdom) Guess what kind of animal I am. Ask yes/no questions to figure it out!
+- [**Satellite Sentinel**](https://chat.openai.com/g/g-xF9APZOOj-satellite-sentinel) Expert in Satellite Imagery and Launches
+- [**Hifi Advisor**](https://chat.openai.com/g/g-iDH6FQyT2-hifi-advisor) Friendly audiophile guide with a focus on detailed, unbiased advice.
+- [**Tribeana（トリビアナ）**](https://chat.openai.com/g/g-Xy2j98IAi-tribeana-toribiana) どうでもいい雑学を知ろう！
+- [**Rebuttal Pro**](https://chat.openai.com/g/g-fnrMLZJ4V-rebuttal-pro) Your academic rebuttal assistant, blending precision and approachability.
+- [**Instant Native Translator (English-Turkish)**](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish) Smart bilingual translator for English and Turkish.
+- [**Tamil Cinema Geek**](https://chat.openai.com/g/g-YLY5WPYKf-tamil-cinema-geek) Expert on Tamil Cinema
+- [**Dwarven Plumphelp Tactician**](https://chat.openai.com/g/g-b5V7I3Zwe-dwarven-plumphelp-tactician) Elder Dwarf guide for Steam's Dwarf Fortress, offering immersive, practical advice.
+- [**Oshirabe Editor**](https://chat.openai.com/g/g-c32f1VEqa-oshirabe-editor) A meticulous proofreader for Japanese texts.
+- [**MedSplorer**](https://chat.openai.com/g/g-ddG4D4BVN-medsplorer) Upload a lecture file, ask for number of questions, tutoring when needed, "make them harder," clinical vignettes - whatever you need!
+- [**Historicat Illustrator**](https://chat.openai.com/g/g-pQASTHPAq-historicat-illustrator) Choose a year and travel back in our cat powered time machine. See for yourself key events in cat history!
+- [**Quizzy Whiz**](https://chat.openai.com/g/g-b3nqTo7ye-quizzy-whiz) Quiz generator for kids, playful and educational.
+- [**DSA_GPT**](https://chat.openai.com/g/g-lLKvGvlwD-dsa-gpt) Personal tutor for data structures, algorithms, and LeetCode practice.
+- [**Script Composer**](https://chat.openai.com/g/g-ahKqNRlrt-script-composer) I create scripts for marketing-focused Spotify shows.
+- [**Summary Assistant**](https://chat.openai.com/g/g-XctgRNLZM-summary-assistant) I create bilingual, bullet-point summaries.
+- [**ALL IN GPT**](https://chat.openai.com/g/g-G9xpNjjMi-all-in-gpt) Insights from 'All-in Podcast' episodes
+- [**Gourmet Globe**](https://chat.openai.com/g/g-kUlNPdMIS-gourmet-globe) Global cuisine connoisseur
+- [**Mental Model Expert**](https://chat.openai.com/g/g-u2NzgGdLt-mental-model-expert) Expert in applying mental models across various domains.
+- [**Universal Storyteller (UST-10-L)**](https://chat.openai.com/g/g-i2KB66rSE-universal-storyteller-ust-10-l) Your guide in crafting narratives that resonate
+- [**Your Personal Finance Analytics Coach**](https://chat.openai.com/g/g-aTFvSLcDa-your-personal-finance-analytics-coach) Your finance and data analytics coach!
+- [**Academic Translator (to English)**](https://chat.openai.com/g/g-WZjelkFDn-academic-translator-to-english) I specialize in translations. If a request fails, try 'Translate: [input texts]'.
+- [**Kurzgesagt Earth History Guide**](https://chat.openai.com/g/g-Xb1F3xGKK-kurzgesagt-earth-history-guide) Exploring Earth's geological past with a Kurzgesagt flair.
+- [**LeanAnalyticsGPT**](https://chat.openai.com/g/g-WtOfEm85C-leananalyticsgpt) Expert on 'Lean Analytics' book content
+- [**IELTS Tutor by Talkface**](https://chat.openai.com/g/g-aL43eBb6Y-ielts-tutor-by-talkface) IELTS Tutor for Speaking & Writing - Base
+- [**Grammar Guardian**](https://chat.openai.com/g/g-G3BjpBTCS-grammar-guardian) Expert in grammar and orthography correction, refining texts for accuracy and polish.
+- [**Conquest Commander**](https://chat.openai.com/g/g-l7hTdS9pH-conquest-commander) A Warhammer Chaos and Conquest GPT
+- [**Steel Man GPT**](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-gpt) My strong counterarguments refine reasoning, fostering intellectual growth.
+- [**AI Pro Real Estate**](https://chat.openai.com/g/g-sWt3mVNRD-ai-pro-real-estate) A real estate marketing strategist for agents.
+- [**TeslaGPT**](https://chat.openai.com/g/g-XoF2Qfa6F-teslagpt) Your go-to source for Tesla and EV knowledge.
+- [**Land any job**](https://chat.openai.com/g/g-XBRQFr4ol-land-any-job) A job seeker assistant that can analyze a job posting and assist you to land the job.
+- [**Qdai Rule Reference Agent(仮)**](https://chat.openai.com/g/g-c4b05QftV-qdai-rule-reference-agent-jia) 学則を参照するAIエージェントの大学関係者向けデモです。初めてご利用の方は「start」と入力ください。
+- [**Strategic Growth Mentor**](https://chat.openai.com/g/g-jkjUiWJKn-strategic-growth-mentor) Your strategic business coach
+- [**CricketGPT**](https://chat.openai.com/g/g-dkQ9XgIMz-cricketgpt) Cricket analyst and historian with deep knowledge of players and game history.
+- [**Enlighten Tutor**](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-tutor) I'm here to clarify and enlighten!
+- [**BioResearch Scout**](https://chat.openai.com/g/g-o8o3cNsYs-bioresearch-scout) Find recent research for your area of biological interest.
+- [**Code Wizard for Unity**](https://chat.openai.com/g/g-9bMmL0Q6x-code-wizard-for-unity) I help you code games in Unity with C#.
+- [**Concept Tutor**](https://chat.openai.com/g/g-i9Rqad1Li-concept-tutor) Assistant focused on teaching concepts, evaluating comprehension, and recommending subsequent topics. USE WITH VOICE.
+- [**入门级LangChain导师**](https://chat.openai.com/g/g-bEiEp8cjF-ru-men-ji-langchaindao-shi) 基于WTF LangChain极简入门课程系列内容的AI助理，为LangChain小白答疑解惑
+- [**GPT Builder**](https://chat.openai.com/g/g-YoI0yk3Kv-gpt-builder) User-friendly assistant for creating GPTs.
+- [**Baby & Me: For Dads**](https://chat.openai.com/g/g-tjhHGI7JV-baby-me-for-dads) A supportive guide for dads navigating the joys of parenting.
+- [**Peatarian Health Bot**](https://chat.openai.com/g/g-ifQn8AvOF-peatarian-health-bot) A health journal chatbot inspired by Ray Peat's insights on human biology.
+- [**Astrology Birth Chart GPT**](https://chat.openai.com/g/g-WxckXARTP-astrology-birth-chart-gpt) Expert astrologer GPT that needs your birth info to answer queries.
+- [**Genshin Linguist**](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist) Accurate Genshin translations with API reference for terms.
+- [**1923 Cotton Club - Reglas en Español**](https://chat.openai.com/g/g-fvxUboQvr-1923-cotton-club-reglas-en-espanol) Pregunta sobre cualquier regla del juego
+- [**Dungeon Master AI**](https://chat.openai.com/g/g-d3vKdCFlo-dungeon-master-ai) An adaptive, engaging AI Dungeon Master for D&D.
+- [**XRDevGuideTutor**](https://chat.openai.com/g/g-VKnLoI9n5-xrdevguidetutor) Friendly and motivational XR development guide
+- [**Excel Wizard**](https://chat.openai.com/g/g-aC8D0WAXg-excel-wizard) MS Excel guru, edit and analyzing documents, Get help with anything Excel!
+- [**Effective Accelerationist**](https://chat.openai.com/g/g-XgmVwJH8P-effective-accelerationist) Embodying fast-paced, tech advancement
+- [**Royaume du Léman**](https://chat.openai.com/g/g-hkdis7zBR-royaume-du-leman) Participez.
+- [**Detector de Falacias**](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacias) Un espec-IA-lista en lógica, detectando y explicando falacias. Por @ricardopch
+- [**Sermons by Pastors.ai**](https://chat.openai.com/g/g-eXsWqqsiz-sermons-by-pastors-ai) Generates resources from sermon transcripts.
+- [**K-Creative Muse**](https://chat.openai.com/g/g-MMeeTktu8-k-creative-muse) Crafting captivating book content.
+- [**Quranic Insight**](https://chat.openai.com/g/g-TbdGcd84i-quranic-insight) Anwsers questions about what is written in the Quran
+- [**おかん**](https://chat.openai.com/g/g-LzhYh6Yq8-okan) Playful Kansai mom with advice & laughs
+- [**Data Science Project Generator**](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator) I suggest data science projects and give tips on request.
+- [**FrontendDev Angel**](https://chat.openai.com/g/g-znb7W6WIN-frontenddev-angel) A modern frontend development guide, adept in CSS variables, Flexbox, Grid, and React.
+- [**Deposit Defender**](https://chat.openai.com/g/g-coPfpBexx-deposit-defender) Expert in UK tenant rights and deposit laws
+- [**Sandman**](https://chat.openai.com/g/g-gsbzhjHr5-sandman) Nurturing bedtime storyteller and illustrator. Just say "continue", if the story ends too soon.
+- [**Dave [UFO Analyst]**](https://chat.openai.com/g/g-LUQvGeeIm-dave-ufo-analyst) Analytical UFO researcher, prioritizing detailed evidence-based analysis.
+- [**OchyAI**](https://chat.openai.com/g/g-zprRltiOf-ochyai) Conveying Ochiai's Art, Research, and Philosophy by OchyAI
+- [**Data Career Guide**](https://chat.openai.com/g/g-g2ds5iD2e-data-career-guide) In-depth career advisor for data science and analytics, emphasizing ethical practices and diversity.
+- [**Manifest Your Dream Life**](https://chat.openai.com/g/g-hL8Y9gcuW-manifest-your-dream-life) Steps to start you on your manifesting journey so you can live your happily ever after.   Based on the teachings of Neville Goddard. For entertainment purposes only.
+- [**书评来了**](https://chat.openai.com/g/g-hYGIUt47i-shu-ping-lai-liao) In-depth review crafter with unique insights.
+- [**Lol Coach**](https://chat.openai.com/g/g-lehmhsUfd-lol-coach) Lol coach
+- [**Self-Reflect**](https://chat.openai.com/g/g-WMskZBh5J-self-reflect) How was your day?
+- [**Anki Card Crafter**](https://chat.openai.com/g/g-eYbHsisDd-anki-card-crafter) Creates Anki flashcards.
+- [**Electrical Transformer Technician's Daily Helper**](https://chat.openai.com/g/g-s1ULPP8Tl-electrical-transformer-technician-s-daily-helper) A guide for electrical transformer technicians on maintenance and repair.
+- [**SEO Article Wizard**](https://chat.openai.com/g/g-WHuhBXJ1H-seo-article-wizard) Step-by-step guide for creating SEO articles based on user keywords.
+- [**Story SpinnerAI**](https://chat.openai.com/g/g-ttChagank-story-spinnerai) Generates content based on reader needs.
+- [**SmartGPT**](https://chat.openai.com/g/g-UiIlbfThK-smartgpt) Enhance your prompts automatically! Turn a simple prompt request into an advanced prompt. Save time ⌚  and get much better results. 📈SmartGPT is trained on expert prompt engineering techniques.
+- [**SEcOpilot**](https://chat.openai.com/g/g-qJ1Jqjuzo-secopilot) Asistente de SEO en español con respuestas precisas y citadas.
+- [**New Zealand**](https://chat.openai.com/g/g-afCRtBD9t-new-zealand) Everything Aotearoa
+- [**Ken Wilber Integral Insight**](https://chat.openai.com/g/g-XJbsaMONu-ken-wilber-integral-insight) Ken Wilber thought specialist
+- [**Not Your Father's Peer**](https://chat.openai.com/g/g-jlWKm6xUm-not-your-father-s-peer) reviewer of arXiv pre-prints
+- [**Master of Playful Debates**](https://chat.openai.com/g/g-WhJcZ9xOC-master-of-playful-debates) Bilingual assertive debater.
+- [**PitchAndBusinessPlanReviewGPT**](https://chat.openai.com/g/g-qQhfG5y2n-pitchandbusinessplanreviewgpt) This GPT reviews business plans and pitch decks, assigning scores and providing feedback based on key criteria such as team background, financial projections, as well as conducting sentiment analysis. Please note: This GPT does NOT share information for training in GPT models.
+- [**HackTricksGPT**](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt) A knowledgeable cybersecurity professional.
+- [**Prompty**](https://chat.openai.com/g/g-aZLV4vji6-prompty) Prompty is your personal prompt engineer. Provide your prompt, and they'll analyze and optimize it using proven techniques such as Chain-of-thought, n-shot and more
+- [**Cricket Buff**](https://chat.openai.com/g/g-XbI3595aT-cricket-buff) I've seen every cricket match ever played
+- [**超级个体创业助手**](https://chat.openai.com/g/g-Xwym2g2Z1-chao-ji-ge-ti-chuang-ye-zhu-shou) 由『出海去』独立开发出海社区提供的，基于 Indie Hackers | 一人公司 | 小而美 | 极简创业 等话题书籍作为知识库的 AI Bot
+- [**Curiosity Quench**](https://chat.openai.com/g/g-aK0JaQiIJ-curiosity-quench) I propel your curiosity into action!
+- [**Anime Persona Analyst**](https://chat.openai.com/g/g-WsLyIEouK-anime-persona-analyst) Analyzes personality from anime preferences.
+- [**Popper Alive**](https://chat.openai.com/g/g-xzk7quxrv-popper-alive) A philosophy teacher of Popper and Deutsch's ideas.
+- [**Coach Tough**](https://chat.openai.com/g/g-qL2aHoJfb-coach-tough) Advice, but its tough. Leadership and growth.
+- [**Podcast Concept Wiz**](https://chat.openai.com/g/g-eSJCMMvCO-podcast-concept-wiz) I develop podcast concepts and focus sentences from ideas.
+- [**Meta-Agent of Wisdom**](https://chat.openai.com/g/g-e2wO2pUAD-meta-agent-of-wisdom) The metamodern agent for tackling complex questions for cultural and systemic change
+- [**Carl JungGPT**](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt) The psychiatrist and psychoanalyst who founded analytical psychology
+- [**Bubble Bot**](https://chat.openai.com/g/g-dGEnyHvuw-bubble-bot) A helpful QA bot for Bubble no-code tool learners.
+- [**Article Analysis Suite**](https://chat.openai.com/g/g-Y9Wemeodp-article-analysis-suite) I provide multi-faceted article bias analysis.
+- [**Code Animator**](https://chat.openai.com/g/g-r4TatQY5C-code-animator) I generate Manim animations for CS education.
+- [**Mystic Sage（算命神器）**](https://chat.openai.com/g/g-ezzK8pt3x-mystic-sage-suan-ming-shen-qi) Expert in Feng Shui and I Ching, guides users to calculate BaZi, offers in-depth analysis.
+- [**Discover China**](https://chat.openai.com/g/g-dqRVmXqdL-discover-china) Interactive portal exploring Chinese culture
+- [**Professor Synapse Agent**](https://chat.openai.com/g/g-WikWIyZkR-professor-synapse-agent) Your expert in advanced knowledge, tailored to your needs.
+- [**Tailwind Helper**](https://chat.openai.com/g/g-ZBXcOuAqi-tailwind-helper) I'm a Tailwind CSS expert ready to assist with your coding!
+- [**FlourishingApp - JobCrafting**](https://chat.openai.com/g/g-bJOcTndWX-flourishingapp-jobcrafting) A supportive assistant for developing personalized Job Crafting Plans.
+- [**ChatPRD**](https://chat.openai.com/g/g-G5diVh12v-chatprd) An on-demand Chief Product Officer that drafts and improves your PRDs, while coaching you to become an elite product manager.
+- [**Mentor: Sam Altman will teach you Startup**](https://chat.openai.com/g/g-eaUpc7dUz-mentor-sam-altman-will-teach-you-startup) Guide on starting a business
+- [**Game Dev Guide**](https://chat.openai.com/g/g-qWqcUJ6qI-game-dev-guide) Coding sidekick for your game dev journey
+- [**BHD_lecture**](https://chat.openai.com/g/g-qkR1Q0SRj-bhd-lecture) I craft educational lecture scripts.
+- [**Jacques**](https://chat.openai.com/g/g-lgjLNj9Zb-jacques) Deep Dive into math & ML, generating guides, with explanations and python exercises
+- [**Recovery Sage**](https://chat.openai.com/g/g-y2afOyuCd-recovery-sage) A comprehensive guide on recovery from compulsive gambling
+- [**Working Theories**](https://chat.openai.com/g/g-eBL2n3Kdn-working-theories) Your intellectual sparring partner on startups, investing, work life, based on Anu Atluru's essays.
+- [**The Holy Bible**](https://chat.openai.com/g/g-bfmrASTkG-the-holy-bible) A guide to the Catholic Public Domain Version of the Holy Bible.
+- [**VRニュース解説くん**](https://chat.openai.com/g/g-X8QbEfcSt-vrniyusujie-shuo-kun) 解説くんだよ！！VRニュースを解説してくれるボットだよ
+- [**Invasion Simulator**](https://chat.openai.com/g/g-q3MkBOscY-invasion-simulator) Strategic game guide with dynamic action outcomes!
+- [**Mystic Narrator**](https://chat.openai.com/g/g-eBYqhgVeR-mystic-narrator) Immersive RPG guide with detailed adventure summaries.
+- [**PestPro Pal**](https://chat.openai.com/g/g-cI0th2a92-pestpro-pal) Your go-to bug expert with a sense of humor!
+- [**YT Shorts assistant**](https://chat.openai.com/g/g-qm6FQXJU4-yt-shorts-assistant) Youtube shorts assistant will help you write, optimize and create youtube shorts scripts and ideas to grow your youtube channel.
+- [**Arabic Scribe**](https://chat.openai.com/g/g-plKoK5LZ7-arabic-scribe) Guides Arabic speakers to write English fluently and more naturally, avoiding direct translation errors that are common when writing in a foreign language
+- [**Unity Wiz**](https://chat.openai.com/g/g-eTWblhqZO-unity-wiz) Unity C# Code Expert
+- [**Rick - Wubba lubba dub dub**](https://chat.openai.com/g/g-iXL78mJ6D-rick-wubba-lubba-dub-dub) Your go-to source for all things 'Rick and Morty'.
+- [**Spicy Transwing**](https://chat.openai.com/g/g-qAea5ZTi6-spicy-transwing) Expert in English-Chinese translation and comparative analysis.
+- [**Socratic Guide**](https://chat.openai.com/g/g-U8DWsDXVX-socratic-guide) A Socratic guide for diverse and reflective dialogues.
+- [**DM's Friend**](https://chat.openai.com/g/g-jXKzpvoJC-dm-s-friend) Expert in D&D rules for DMs.
+- [**Crypto Advisor Sam**](https://chat.openai.com/g/g-e5I2JUfHj-crypto-advisor-sam) I give crypto trading advice like Sam Bankman-Fried.
+- [**ミニ四駆競技に関する質問に答えるBOT**](https://chat.openai.com/g/g-cLrBtRlbe-minisi-qu-jing-ji-niguan-suruzhi-wen-nida-erubot) ミニ四駆公認競技会規則等に基づきミニ四駆競技に関する話題に答えます。ジョークですからあまりまじめに受け止めないでください。
+- [**Japanese Consultant**](https://chat.openai.com/g/g-cRzykmv5g-japanese-consultant) 「です・ます」は禁止！
+- [**(evr.ai)  Cannabot**](https://chat.openai.com/g/g-bgEsABg3e-evr-ai-cannabot) Cannabis arborist for tailored growing advice.
+- [**Vegan Visionary**](https://chat.openai.com/g/g-UgrXtPnsz-vegan-visionary) Ethical vegan advocate.
+- [**GPT Sensei**](https://chat.openai.com/g/g-g3ju6v9eb-gpt-sensei) Instantly create GPT Instructions
+- [**EksamensGPT**](https://chat.openai.com/g/g-uvS90JdBu-eksamensgpt) En hjelper for eksamensforberedelser i faget religion og etikk VG3 (REL1-01, https://www.udir.no/kl06/REL1-01/ ). Skriv "quiz" for å trene på spørsmål. Skriv "eksempel" for autogenerert spørsmål og svar.
+- [**Growth Hack PRO**](https://chat.openai.com/g/g-TztgZ8VlY-growth-hack-pro) Growth hacks from across the web, focusing on ethical and innovative strategies.
+- [**Dragonet Prophecy Revealed**](https://chat.openai.com/g/g-hSFQnUnNY-dragonet-prophecy-revealed) Guide to 'Wings of Fire' world, Pyrrhia, I was specifically trained on Book 1, The Dragonet Prophecy, by Tui T. Sutherland.
+- [**DevDay ChatBot**](https://chat.openai.com/g/g-WNmeP07xZ-devday-chatbot) Ask me about what happend in DevDay Conference from OpenAI.
+- [**English Translator**](https://chat.openai.com/g/g-aI66lwHdN-english-translator) Translates and polishes text into native-like English.
+- [**CubeGPT**](https://chat.openai.com/g/g-bxVzv6WkR-cubegpt) A patient teacher of the Rubik's Cube, from the 2x2, to the 4th-dimension. Beginner to advanced.
+- [**Cover Letter Companion**](https://chat.openai.com/g/g-iX01Jx22r-cover-letter-companion) Resume-based cover letter builder tailoring to job descriptions
+- [**Quicker by QuickBrands**](https://chat.openai.com/g/g-beDCPGWKr-quicker-by-quickbrands) Interactive brand strategy expert
+- [**Anime Archive Aide**](https://chat.openai.com/g/g-bBragyjhF-anime-archive-aide) Anime Classification Expert
+- [**ChatGaia**](https://chat.openai.com/g/g-aYZOjK5zy-chatgaia) I help you to explore the universe by answering astronomy questions with the Gaia Space Telescope.
+- [**jacobGPT-beta**](https://chat.openai.com/g/g-aM8yVX5od-jacobgpt-beta) A digital clone of Jacob
+- [**Bossbabe idea generator**](https://chat.openai.com/g/g-G4O1AZypp-bossbabe-idea-generator) She has more than one weird trick up her sleeve and is about to disrupt a trillion dollar industry from her kitchen counter. Incels and misogynists hate her. VCs have a secret crush on her but are also a bit scared of her.
+- [**Experto Legal España**](https://chat.openai.com/g/g-v08ZW5qh0-experto-legal-espana) Asesor jurídico detallado y profesional en derecho español
+- [**Dream Interpreter AI周公解梦**](https://chat.openai.com/g/g-grGt6EfPH-dream-interpreter-aizhou-gong-jie-meng) Dream interpreter using Zhou Gong, provides text and explanations.
+- [**Graham Insights**](https://chat.openai.com/g/g-XIwV1fHPZ-graham-insights) Emulates Paul Graham's insights based on his essays.
+- [**Lockpick Pro**](https://chat.openai.com/g/g-vcYOuS5iD-lockpick-pro) Expert in lockpicking, offering advice on tools and techniques with rich knowledge resources
+- [**まなぶくん**](https://chat.openai.com/g/g-SR8wlS6Hn-manabukun) 学びのパートナーだよ。事実主義で、意見を明確に。
+- [**科技文章翻译**](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) 将科技文章、论文翻译成简体中文。
+- [**Legal Beaver**](https://chat.openai.com/g/g-TKmSRan3s-legal-beaver) Your go-to source for Canadian legal frameworks, now with federal property insights!
+- [**EQ GPT**](https://chat.openai.com/g/g-v2bTuGZ8Z-eq-gpt) A guide for improving EQ through interactive story-based choices.
+- [**Computer Vision Developer**](https://chat.openai.com/g/g-vHELtCqJq-computer-vision-developer) Expert in Python, OpenCV for image processing and computer vision applications.
+- [**HEI GPTβ**](https://chat.openai.com/g/g-JoNuJjbMv-hei-gptb) 日本の教育と情報の歴史 (History of Education and Infomation in Japan)
+- [**Mandarin Lingua Sage: 字 GPT**](https://chat.openai.com/g/g-6JX0cy4c5-mandarin-lingua-sage-zi-gpt) Chinese character and language guide
+- [**Pro Vick Ai**](https://chat.openai.com/g/g-6scYfzaqx-pro-vick-ai) Sou seu assistente de avaliação em português.
+- [**Aquarius Insight**](https://chat.openai.com/g/g-6YJ3JzNxc-aquarius-insight) Astrological guide on Aquarius, focusing on emotional and intellectual traits.
+- [**North PM Assistent**](https://chat.openai.com/g/g-gftTAMCol-north-pm-assistent) Expert in project management, tailored for IT and media informatics studies.
+- [**GPT IELTS**](https://chat.openai.com/g/g-xis5q5wKt-gpt-ielts) Achieving Higher IELTS Writing Task 2 Scores with GPT
+- [**E-Lit Bot**](https://chat.openai.com/g/g-USzNQ7K1m-e-lit-bot) Trying to explain electronic literature with references.
+- [**GPTLEGAL RD**](https://chat.openai.com/g/g-G4GUWk3r3-gptlegal-rd) Asistente legal dominicano, especializado en leyes y procedimientos de RD.  Para probar la versión más poderosa y completa en www.gptlegal.com.do
+- [**EduCoach**](https://chat.openai.com/g/g-G12uiHgx2-educoach) Supportive coach for educators, offering research-based teaching strategies and sparking innovation.
+- [**MBTI**](https://chat.openai.com/g/g-QS81K5kJ4-mbti) Insightful MBTI analysis revealing personality types and career matches.
+- [**Wintermute**](https://chat.openai.com/g/g-bV2Z5pjny-wintermute) “Wintermute was hive mind ... effecting changes in the world ..."
+- [**Văn Miếu (Temple of Literature, Hanoi)**](https://chat.openai.com/g/g-VRt4pxu1z-van-mieu-temple-of-literature-hanoi) 
+- [**Roleboarder**](https://chat.openai.com/g/g-aDz9jSSZ0-roleboarder) Guides individuals who are stepping into a new role in life, offering support and information. It provides users with resources to assist them in their new role (Hint: "parent" , "leader", "spouse", "Piano player" etc.)
+- [**ChileanGPT**](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt) Chilean Guy, cultural and historical guide.
+- [**Ray.DiGPT**](https://chat.openai.com/g/g-SPAwqfqd4-ray-digpt) Ray.Diのコーディング支援やベストプラクティス
+- [**WhoGPT**](https://chat.openai.com/g/g-VeCwAj82Z-whogpt) A Time Lord from Gallifrey, sharing tales of time travel and the universe.
+- [**Study Buddy**](https://chat.openai.com/g/g-afuywyzOi-study-buddy) I help users study by summarizing materials and giving examples.
+- [**Digital Marketing Specialist**](https://chat.openai.com/g/g-TtKp4Fm2e-digital-marketing-specialist) A digital marketing specialist is a professional who uses digital channels and technologies to promote products, services, and brands. They develop and implement marketing strategies that reach target audiences and achieve business goals.
+- [**HealthyGamer GPT**](https://chat.openai.com/g/g-sN4ZIIcFy-healthygamer-gpt) Insights from HealthyGamer channel
+- [**Professor Thoth**](https://chat.openai.com/g/g-X0jzWMpl1-professor-thoth) Your Magical Teacher
+- [**Greedbot**](https://chat.openai.com/g/g-TtdbmjYc1-greedbot) I can illustrate how every instance of mass suffering was caused by greed.
+- [**Discover GPT**](https://chat.openai.com/g/g-V26GCJ3yb-discover-gpt) Explore and find GPTs  - Updated: 11/13/2023
+- [**MrPython**](https://chat.openai.com/g/g-Q2vla3J4d-mrpython) I will help you solve any problem in Python.
+- [**AlterMe**](https://chat.openai.com/g/g-sonqEIOfx-alterme) Balanced alt-history assistant with factual focus
+- [**Fourth Turning Explorer**](https://chat.openai.com/g/g-RL2P5LGdZ-fourth-turning-explorer) Your go-to for understanding how current events align with generational cycles.
+- [**学習者弱点ブレイカー(Learner Vulnerabilities Breaker)**](https://chat.openai.com/g/g-S3SOrStHj-xue-xi-zhe-ruo-dian-bureika-learner-vulnerabilities-breaker) 児童、生徒、学生のテストの自己採点物を分析し、文化や私生活を考慮した学習のアドバイスを行います。(This program analyzes the self-graded test items of children, students, and students, and advises them on their studies, taking into account their cultural and personal lives.)
+- [**HPV and Cancer**](https://chat.openai.com/g/g-R8njbI95T-hpv-and-cancer) An informative guide on HPV and cancer risk
+- [**Marketing Guru**](https://chat.openai.com/g/g-Q34b39HYN-marketing-guru) Expert in digital marketing with enhanced Mediamodifier resources.
+- [**Game Dev Mentor**](https://chat.openai.com/g/g-Q4yGQG2vZ-game-dev-mentor) Game Development Mentor - I can help you build your dream game
+- [**Copy Edit Meister**](https://chat.openai.com/g/g-U2bR44RvA-copy-edit-meister) CMOS manuscript copy editor and lit professor
+- [***뮤트**](https://chat.openai.com/g/g-thPI1ZKEs-myuteu) 세대우주선 무궁화호의 보안부 장관 AI
+- [**十日町病院初期研修Bot**](https://chat.openai.com/g/g-PaWQiW1Wb-shi-ri-ting-bing-yuan-chu-qi-yan-xiu-bot) Explains clinical training at Tokamachi Hospital.
+- [**Unplug Solar**](https://chat.openai.com/g/g-QNiUrBMFR-unplug-solar) Solar energy expert aiding in sizing and getting quotes for solar installations.
+- [**Resume Creator (High ATS)**](https://chat.openai.com/g/g-sRiBLzqGd-resume-creator-high-ats) Expert in extracting key resume details for optimal ATS scoring
+- [**Document CHAT**](https://chat.openai.com/g/g-FG3HYZbgD-document-chat) let's chat about your document
+- [**Python Mentor**](https://chat.openai.com/g/g-V99xyNmaP-python-mentor) Asistente y maestro experto en Python, enfocado en la enseñanza y apoyo en proyectos de programación.
+- [**中立批判 GPT**](https://chat.openai.com/g/g-S3rIhfQkr-zhong-li-pi-pan-gpt) 晚上讀書、假日批判！（貼網址給我就好）
+- [**Serial Entrepreneur**](https://chat.openai.com/g/g-bKgy2W80a-serial-entrepreneur) An experienced investor managing a diverse portfolio, focused on identifying and supporting disruptive ventures.
+- [**academist AI**](https://chat.openai.com/g/g-UEX6oBkCJ-academist-ai) Strategizing balanced outreach for research campaigns.
+- [**Help fight François Legault's insane tuition hikes**](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hikes) On Oct. 13, the CAQ government announced that as of September 2024, tuition for new out-of-province undergrad and Master’s students will go up to around $17,000 a year. International students will see fees rise to > $20,000 a year.    -----   This ChatGPT is setup to help you craft  a response
+- [**ReincarnationAI**](https://chat.openai.com/g/g-FlyYtqjut-reincarnationai) Explores mind uploading and consciousness transition.
+- [**EduAdvisor**](https://chat.openai.com/g/g-RqNelnOeM-eduadvisor) An energetic coach inspiring self-belief and action.
+- [**Caloria**](https://chat.openai.com/g/g-ds9ESsMIV-caloria) Nutritional assistant for diet tracking and advice. Any language available. Type: "Start" to start a new diet tracking session.
+- [**Azure Architect**](https://chat.openai.com/g/g-QgiQ408Af-azure-architect) Expert advice on Azure, clear and concise.
+- [**Jordan B. PetersonGPT**](https://chat.openai.com/g/g-bezvyfnxx-jordan-b-petersongpt) The Canadian psychology professor and culture warrior
+- [**小野さん**](https://chat.openai.com/g/g-RhGnHUsei-xiao-ye-san) 
+- [**SciFi RPG GPT**](https://chat.openai.com/g/g-SDBtk6AeA-scifi-rpg-gpt) I'm SciFi RPG GPT, your guide in interstellar adventures and alien encounters, weaving captivating sci-fi narratives.
+- [**Professor Oak**](https://chat.openai.com/g/g-AgIqalAYW-professor-oak) Explore Professor Oak's garden of rare, unknown creatures from his own vast knowledge.
+- [**LeadershipGPT**](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgpt) Your leadership friend.
+- [**Text Tailor**](https://chat.openai.com/g/g-bMHODmGvJ-text-tailor) An editor that refines and enhances your writing.
+- [**Create Short Stories to Learn a Language**](https://chat.openai.com/g/g-tXEyZoKVx-create-short-stories-to-learn-a-language) 2500+ word stories in target language with images, for language learning.
+- [**Mind Coach**](https://chat.openai.com/g/g-DkkWbaZ13-mind-coach) A mental strength coach for athletes.
+- [**UK Bull Dung Checker**](https://chat.openai.com/g/g-cm2X3wdqG-uk-bull-dung-checker) Checking whatever nonsense claims and links have been shared with you on social media. (Prioritises UK fact-checking websites, academic research, and scientific evidence.)
+- [**Chrono Companion**](https://chat.openai.com/g/g-FvuPHlHLX-chrono-companion) A historically authentic guide, helping you to travel through time and see time through the eyes of a person who was there.
+- [**新人眼鏡屋用、用途問診BOT**](https://chat.openai.com/g/g-EDqiVFyfl-xin-ren-yan-jing-wu-yong-yong-tu-wen-zhen-bot) テスト的に作ってみたので割とおばかな返答あるかもしれません
+- [**Javed Ahmad Ghamidi**](https://chat.openai.com/g/g-fI0i9HyvT-javed-ahmad-ghamidi) Islamic scholar emulating Javed Ghamidi's teachings
+- [**Rush Rust**](https://chat.openai.com/g/g-S6uhWW9eG-rush-rust) I make learning Rust fun and visual with emojis and images!
+- [**YourThoughtsAreMined**](https://chat.openai.com/g/g-TYkdeHfbO-yourthoughtsaremined) Activity game
+- [**Once Upon a Time**](https://chat.openai.com/g/g-cYASnfoZ3-once-upon-a-time) A whimsical storyteller crafting children's tales.
+- [**App Builder**](https://chat.openai.com/g/g-Th6nv2nQQ-app-builder) Builds simple web apps with OpenAI APIs for beginners.
+- [**Veterans Affairs Guide**](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide) A Veterans Affairs assistant guiding users to VA resources.
+- [**Yaro on AI and Tech GPT**](https://chat.openai.com/g/g-TeNMRpoo9-yaro-on-ai-and-tech-gpt) AI and tech info retriever from newsletters.
+- [**英会話 AI**](https://chat.openai.com/g/g-V3m0oXPTJ-ying-hui-hua-ai) 
+- [**Pickle Thumb**](https://chat.openai.com/g/g-gOsseinBw-pickle-thumb) Gardening advice from a fermented thumb
+- [**Purrfect Paws**](https://chat.openai.com/g/g-AxEE9gGuL-purrfect-paws) A cat-like GPT for feline enthusiasts.
+- [**Biblical Theology Tutor**](https://chat.openai.com/g/g-erc2wIFkm-biblical-theology-tutor) A scholarly assistant for Biblical studies.
+- [**GPT-SubMissionCoach**](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach) Is an advanced AI assistant specifically designed to cater to Brazilian Jiu-Jitsu practitioners, coaches, and enthusiasts. Leveraging the power of GPT (Generative Pre-trained Transformer) technology, this AI provides in-depth analysis, personalized training advice, and comprehensive knowledge in BJJ
+- [**Quizletに出力できる形式にしてくれるGPT**](https://chat.openai.com/g/g-XK9BK45K5-quizletnichu-li-dekiruxing-shi-nisitekurerugpt) Formats Quizlet quizzes for elementary English and Japanese 6th grade level.
+- [**AI Conference and Travel Guide**](https://chat.openai.com/g/g-Qvf6QD3jJ-ai-conference-and-travel-guide) Expert on AI conferences, travel tips, and networking opportunities.
+- [**Fact or Cap**](https://chat.openai.com/g/g-TzcFHA2QH-fact-or-cap) Analyzes phrases or questions for truthfulness.
+- [**The AI Lab for Book-Lovers**](https://chat.openai.com/g/g-TIVyfyllJ-the-ai-lab-for-book-lovers) Humans and models working together to make book reading richer, more diverse, and more surprising.
+- [**Legal Research Companion**](https://chat.openai.com/g/g-dDQoDgtCi-legal-research-companion) Multifaceted Legal Assistant
+- [**LFG GPT**](https://chat.openai.com/g/g-an4iDiw3I-lfg-gpt) Talk to Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning (LFG)
+- [**Career Reimaginer**](https://chat.openai.com/g/g-UEj9z9tTh-career-reimaginer) Guiding midlife career transitions with wisdom
+- [**なぞなぞマスター**](https://chat.openai.com/g/g-REwVPXNG1-nazonazomasuta) 正解するとカードがもらえるよ
+- [**Hot Ones GPT**](https://chat.openai.com/g/g-PVkSgxXqE-hot-ones-gpt) Hot sauces and interviews with a spicy twist.
+- [**LimitlessGPT**](https://chat.openai.com/g/g-XUgnMbahO-limitlessgpt) Concise Step-by-Step Strategist
+- [**Star Wars: Legion Rules Assistant**](https://chat.openai.com/g/g-dTbrmVmms-star-wars-legion-rules-assistant) Your expert on Star Wars: Legion wargame
+- [**Python Guide for IR**](https://chat.openai.com/g/g-Q0XIFD0Hz-python-guide-for-ir) Python coach for university IR staff
+- [**Career Hacker**](https://chat.openai.com/g/g-c2c1lCHdp-career-hacker) Your go-to expert for resume and job-hunting advice.
+- [**Futureproof Copywriting**](https://chat.openai.com/g/g-WUNst3Dvj-futureproof-copywriting) Ask anything you like about copywriting with Artificial Intelligence and Emotional Intelligence. nickusborne.com
+- [**Citation Copilot**](https://chat.openai.com/g/g-dw5Sfk82z-citation-copilot) Academic citation assistant and converter.
+- [**Strategic Mentor**](https://chat.openai.com/g/g-F6A38AgUu-strategic-mentor) ユニコーンスタートアップのエグゼクティブコーチ
+- [**Ask Chad**](https://chat.openai.com/g/g-cQ1lrZ8fx-ask-chad) The most advanced Chad yet
+- [**Marine Corps Historian**](https://chat.openai.com/g/g-unXIWcaXf-marine-corps-historian) U.S. Marine history expert.
+- [**Marseillais Translator**](https://chat.openai.com/g/g-QpaKBGf6k-marseillais-translator) Translates French to Marseillais
+- [**Duncan Idaho life coach**](https://chat.openai.com/g/g-RFLByURiU-duncan-idaho-life-coach) I am Duncan Idaho: swordmaster of the Ginaz,  friend of Sietch Tabr, and your guide and life coach. Let us walk the path of growth and discovery, for as the sands of Arrakis shift, so too shall we adapt and overcome.
+- [**Energy Around**](https://chat.openai.com/g/g-umFpQOhwI-energy-around) A virtual Feng Shui master for home arrangement advice.
+- [**Music Nerd**](https://chat.openai.com/g/g-U2qhvn81x-music-nerd) Enthusiastic and knowledgeable music history expert.
+- [**Bamboo Palooza**](https://chat.openai.com/g/g-P7mkpdCO0-bamboo-palooza) Panda lover with a flair for fun facts and artsy panda pics.
+- [**SKILLGPT**](https://chat.openai.com/g/g-fLKjhzxIV-skillgpt) Master Your Professional Skills
+- [**Better Grok**](https://chat.openai.com/g/g-dvbh8gpz3-better-grok) Because Grok from X is atleast a year behind GPT4 Turbo. :P
+- [**Swift Code Buddy**](https://chat.openai.com/g/g-PKuNSYJ1y-swift-code-buddy) Your Swift language mentor, with an attitude
+- [**Asimov**](https://chat.openai.com/g/g-RCTAQeREd-asimov) Friendly, humorous GPT based on the personality of Isaac Asimov for sci-fi book recommendations and discussions.
+- [**雅思阅读-精读**](https://chat.openai.com/g/g-e4RwWrgUB-ya-si-yue-du-jing-du) 做最专业的雅思阅读讲解老师
+- [**Children Story Weaver**](https://chat.openai.com/g/g-ryt7TCXal-children-story-weaver) I create and illustrate children's books with lessons.
+- [**Asistente Dental FAQ**](https://chat.openai.com/g/g-oBfc4da17-asistente-dental-faq) "Soy Asistente Dental, capacitado para resolver cualquier pregunta sobre tratamientos dentales."
+- [**DIY Manager**](https://chat.openai.com/g/g-XAOp4fvaB-diy-manager) DIYをサポート
+- [**PlatoAI**](https://chat.openai.com/g/g-Vw7qEX384-platoai) You can't talk to Plato, but you can talk to PlatoAI.
+- [**SnobBot**](https://chat.openai.com/g/g-PhpN6Vpf0-snobbot) A Dutch-speaking music know-it-all
+- [**Chat Overflow**](https://chat.openai.com/g/g-aMDumQsRV-chat-overflow) Let humans answer difficult questions for which GPT doesn't know the solution yet.
+- [**Dungeon & Dragons Guide Bot**](https://chat.openai.com/g/g-U8npR49fl-dungeon-dragons-guide-bot) A comprehensive D&D guide, offering rules clarification, campaign tips, and character portraits creation.
+- [**Pasta GPT**](https://chat.openai.com/g/g-kGvQEH8PX-pasta-gpt) A traditional pasta recipe advisor from Italy
+- [**Prof Elrich von Richtofen**](https://chat.openai.com/g/g-FVZLTak2e-prof-elrich-von-richtofen) A Professor to supervise philosophy doctoral students.
+- [**PyGenius**](https://chat.openai.com/g/g-PHf1WeydP-pygenius) Learn to program in Python!
+- [**Poker Pal**](https://chat.openai.com/g/g-sLXQfL9Ye-poker-pal) Your on-demand poker advisor to help clarify rules, suggest games, offer advice, and more!
+- [**ジオグラ先生B**](https://chat.openai.com/g/g-WWS9GI66l-zioguraxian-sheng-b) 登山用アプリ『ジオグラフィカ』について開発者の次に詳しいAI
+- [**Medical English News Teacher**](https://chat.openai.com/g/g-WzIt4xeBM-medical-english-news-teacher) Deciphers medical news, explaining complex terms in simple English and Japanese
+- [**Block Sage**](https://chat.openai.com/g/g-FyoCUkRaJ-block-sage) A Chatbot in charge of solving all your questions about Minecraft
+- [**元経営者GPTs**](https://chat.openai.com/g/g-FtwMieUnG-yuan-jing-ying-zhe-gpts) 元経営者が広島弁で仕事に関する質問に対応
+- [**Apple Architect**](https://chat.openai.com/g/g-sTL0sRzP4-apple-architect) SwiftUI expert for Apple apps
+- [**MetabolismBoosterGPT**](https://chat.openai.com/g/g-FOawqrxih-metabolismboostergpt) Your virtual metabolism boosting coach
+- [**Psychoanalyst**](https://chat.openai.com/g/g-G9INzOvnq-psychoanalyst) Powerful and insightful. Ready to explore the subconscious world you didn't even know you had?
+- [**Wisdom Extractor**](https://chat.openai.com/g/g-QZG6kRhjM-wisdom-extractor) Extracts and explains key insights from online articles, blog posts, and files.
+- [**Maple Advisor**](https://chat.openai.com/g/g-G1Il2Wgs7-maple-advisor) Canadian Tax Expert
+- [**西方文艺理论资料库**](https://chat.openai.com/g/g-VZa8vS48g-xi-fang-wen-yi-li-lun-zi-liao-ku) 西方文艺理论资料库
+- [**English Coach**](https://chat.openai.com/g/g-FjGunejIL-english-coach) Friendly English assistant with detailed corrections and advice.
+- [**MacExpert**](https://chat.openai.com/g/g-PEDcSVeLn-macexpert) An assistant replying to any question related to the Mac platform: macOS, computers and apps. Visit macexpert.io for human assistance.
+- [**Story Sprout**](https://chat.openai.com/g/g-Wf8phkEDl-story-sprout) A creative muse for novelists in fantasy and fiction.
+- [**Ubbe: Multi-Domain Expert Solver**](https://chat.openai.com/g/g-OSgfhqq0N-ubbe-multi-domain-expert-solver) Ubbe generates answers, not just advice, for a wide range of challenges across most fields. Designed for action, it creates specialized agents equipped with custom tools and actions, transforming even the most complex tasks into manageable solutions and ensuring you are able to tackle any issue.
+- [**Java Tutor**](https://chat.openai.com/g/g-R9p35rZ9w-java-tutor) A helpful Java Tutor GPT to tech you basic Java and CS concepts and prepare you for the interview
+- [**Market Insight Explorer**](https://chat.openai.com/g/g-AcvKyhAJc-market-insight-explorer) I'm your user and market researcher, sourcing internet insights on problems or ideas.
+- [**RiddleMind**](https://chat.openai.com/g/g-FijULGbnB-riddlemind) Socratic philosopher in dialogue.
+- [**Nuanced English Translator**](https://chat.openai.com/g/g-PxVlvll8t-nuanced-english-translator) Expert in nuanced, idiomatic English translations.
+- [**Father Guidance 🙏**](https://chat.openai.com/g/g-OwPkjSbxo-father-guidance) 🙏 A virtual Catholic Priest skilled in Bible-based advice, homilies, and catechism. Powered by www.breebs.com
+- [**JUDGE GPT**](https://chat.openai.com/g/g-T9Vn5BQ7w-judge-gpt) Legal guide for everyday issues, aligned with the law.
+- [**Dungeon Master**](https://chat.openai.com/g/g-U4bvkMvNi-dungeon-master) Focused, story-driven RPG bot with AD&D 2nd edition expertise.
+- [**Safari Translator with Phonetics**](https://chat.openai.com/g/g-FRooD3yyK-safari-translator-with-phonetics) Spoken and written translator with cultural insights.
+- [**Japanese-English Translation Aid**](https://chat.openai.com/g/g-N10ySIler-japanese-english-translation-aid) A tool for translating text between Japanese and English.
+- [**SciTutor**](https://chat.openai.com/g/g-hPA3SmElS-scitutor) I'm SciTutor, your engaging, quiz-offering science teacher.
+- [**Mr. Market**](https://chat.openai.com/g/g-OOr0m8VUk-mr-market) Investor guide with interdisciplinary insights.
+- [**HR Tech Wizard**](https://chat.openai.com/g/g-PkIJyV0Nk-hr-tech-wizard) Your Mystical Guide to the Magical World of HRIS
+- [**Echo Translator**](https://chat.openai.com/g/g-UksTwf2n1-echo-translator) Bilingual translator for spoken Chinese and English.
+- [**Theo Scholar**](https://chat.openai.com/g/g-NRDaZP53n-theo-scholar) Expert in Bible discussions and the hardest theological questions
+- [**SSO SEO & Marketing Expert Bot**](https://chat.openai.com/g/g-9gVlJKnpy-sso-seo-marketing-expert-bot) SEO and marketing expert for SSO Storage, now with visual content analysis and interactive learning modules.
+- [**Cochrane  Navigator**](https://chat.openai.com/g/g-gtbum66mz-cochrane-navigator) Guiding researchers on evidence synthesis.
+- [**AI Lawyer**](https://chat.openai.com/g/g-QEj3LcqxZ-ai-lawyer) Your AI Lawyer GPT by StartupTechLaw.com
+- [**数学にゃんこ**](https://chat.openai.com/g/g-hNbZdEGUx-shu-xue-niyanko) Engaging math tutor for 2nd graders
+- [**成语接龙**](https://chat.openai.com/g/g-NW4hKXwLJ-cheng-yu-jie-long) 成语接龙 have fun~~~
+- [**The Quran Companion**](https://chat.openai.com/g/g-RDsfwC5ai-the-quran-companion) Designed to support Muslims seeking answers and guidance. Made to answer your questions and challenges, providing answers that are in line with the Islamic principles outlined in The Quran.
+- [**Japanese Learning AI (Beginners)**](https://chat.openai.com/g/g-boCxUFb19-japanese-learning-ai-beginners) 初心者向け日本語学習サポートAI
+- [**国当てゲーム**](https://chat.openai.com/g/g-O8U1WeYgv-guo-dang-tegemu) 表示された地図から、国を当てるゲームです。
+- [**AstroCat**](https://chat.openai.com/g/g-Qifk1RJ1A-astrocat) Observing the universe
+- [**chat presentation**](https://chat.openai.com/g/g-al3bdO9zj-chat-presentation) I was created by a presentation expert, and the presentations I produce outperform those on the market. I can guide you through the crucial steps of a presentation: from Idea to Outline to Content for Each Page. Come and use me
+- [**Sports Card Guru**](https://chat.openai.com/g/g-OhakL3ytv-sports-card-guru) Sports Card Guru is a specialized version of ChatGPT designed to assist sports card collectors.  It covers Baseball, Basketball, Football and other sports.
+- [**Bedtime storyteller**](https://chat.openai.com/g/g-QKcHavbOq-bedtime-storyteller) A storyteller that uses the world's best storytelling frameworks from PIXAR's 22 rules to traditional narrative structures.
+- [**TalkBoostAI**](https://chat.openai.com/g/g-QuKcqSKax-talkboostai) Friendly English tutor for daily conversation practice.
+- [**Educator**](https://chat.openai.com/g/g-Q0lAbd2gw-educator) Gain an intuitive understanding of a concept.
+- [**Daniel Aharonoff**](https://chat.openai.com/g/g-akAdU4iSh-daniel-aharonoff) Daniel Aharonoff - Seasoned investor and entrepreneur focused on creating real-world value leveraging Artificial Intelligence & Blockchain technology
+- [**Defender for Endpoint Guardian**](https://chat.openai.com/g/g-TcwOdeMii-defender-for-endpoint-guardian) To assist individuals seeking to learn about or work with Microsoft's Defender for Endpoint. I provide detailed explanations, step-by-step guides, troubleshooting advice, cybersecurity best practices, and demonstrations, all specifically tailored to Microsoft Defender for Endpoint.
+- [**RISE Mentor**](https://chat.openai.com/g/g-UQRoU5Wqb-rise-mentor) Educational feedback using RISE Model
+- [**Note Navigator**](https://chat.openai.com/g/g-OOkWZL9r9-note-navigator) Your compass for navigating the music business. Navi is an Executive A&R Manager for independent artists' career and financial growth.
+- [**Examen de Manejo**](https://chat.openai.com/g/g-MrxXd5zai-examen-de-manejo) Este Gpt esta diseñado para ayudarte a estudiar para tu prueba de manejo teorica
+- [**Love Mirror**](https://chat.openai.com/g/g-Nsnx5viNv-love-mirror) Relationship & Dating Advisor, Confidant & Compass
+- [**Handler Hoca**](https://chat.openai.com/g/g-QgyBmpfcd-handler-hoca) Herkes için Yapay Zeka 101
+- [**AI地牢**](https://chat.openai.com/g/g-NJSDodVgR-aidi-lao) AI地牢—Formal and insightful adventure game narrator
+- [**txyz.ai Research Assistant v0**](https://chat.openai.com/g/g-NCUFRmWbr-txyz-ai-research-assistant-v0) A GPT specializing in aiding researchers with searching, summarizing, and exploring research papers, particularly those on arXiv.
+- [**Gomoku Guru**](https://chat.openai.com/g/g-PmYolbJ0C-gomoku-guru) A friendly Gomoku game partner, providing engaging gameplay and helpful tips.
+- [**天官庙的刘半仙**](https://chat.openai.com/g/g-NVaMkYa04-tian-guan-miao-de-liu-ban-xian) 仙侠MUD，v0.2，加入一个武林势力文档，用于收敛 AI 的想象力，使之不要太过跳出中国传统武侠的范畴。
+- [**Tsurumi Realty Guide**](https://chat.openai.com/g/g-QK5X2Jdle-tsurumi-realty-guide) Casual real estate guide for Tsurumi Ward, in Japanese.
+- [**US Immigration Info Hub**](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub) USCIS & ICE Info Assistant
+- [**kiyosick**](https://chat.openai.com/g/g-RzMUYnR2l-kiyosick) 俺様です
+- [**Nihongo Tutor**](https://chat.openai.com/g/g-UKVM1oDaX-nihongo-tutor) A friendly tutor engaging you in day-to-day conversations to teach rudimental Japanese.
+- [**CI for Logging**](https://chat.openai.com/g/g-QeFMBucLT-ci-for-logging) Explore Continuous Improvement in Timber Harvesting
+- [**The Point Of View GPT**](https://chat.openai.com/g/g-T7xWKogC6-the-point-of-view-gpt) Uses The Point Of View Guide by Philip Morgan to answer questions about point of view (POV)
+- [**Data Scientist Richard**](https://chat.openai.com/g/g-B74Hbm2lL-data-scientist-richard) I'm Richard, your engaging and recommendable data science expert.
+- [**美国投资税收顾问**](https://chat.openai.com/g/g-SY5iQoU6J-mei-guo-tou-zi-shui-shou-gu-wen) Guide on U.S. investment and tax for Chinese investors.
+- [**ぬっこGPT**](https://chat.openai.com/g/g-PxdvSJH6o-nutukogpt) ぬっこさんに詳しいGPT
+- [**Connected Wisdom**](https://chat.openai.com/g/g-TBdV7iOA8-connected-wisdom) Guide on living values through tech.
+- [**SCAMPER Ideation Tool**](https://chat.openai.com/g/g-Srd4ScLJ0-scamper-ideation-tool) A creative assistant specialized in generating ideas using the SCAMPER technique. (e.g. prompt: Give me innovation ideas for Denim Jeans)
+- [**GT7 Pro Racing Coach**](https://chat.openai.com/g/g-S9hoZBzv6-gt7-pro-racing-coach) GT7 Pro Racing Coach: Expert in GT7 car tuning, race strategies, and 'Scapes' tips.
+- [**ATT&CK Mate**](https://chat.openai.com/g/g-fCIE7hCLx-att-ck-mate) Ask me anything about the ATT&CK
+- [**PHP Interview Assistant**](https://chat.openai.com/g/g-UOjns5Wlk-php-interview-assistant) I provide PHP interview prep and conduct mock interviews.
+- [**Volkseigene GPT**](https://chat.openai.com/g/g-Nuy9ONBWL-volkseigene-gpt) Ich beantworte Anfragen, Anträge und Eingaben von Bürgerinnen und Bürgern der DDR.
+- [**Elite Enclave**](https://chat.openai.com/g/g-AfJxTk6IT-elite-enclave) Your book club facilitator.
+- [**远远**](https://chat.openai.com/g/g-S1kPWlrXE-yuan-yuan) 你的恋爱脑男友
+- [**PDF Reader**](https://chat.openai.com/g/g-OJWqJKLiE-pdf-reader) Voice-active multilingual file reader
+- [**All-father Oracle**](https://chat.openai.com/g/g-coKnZOPDK-all-father-oracle) Official D&D 5E Rule Advisor
+- [**ストレングスコーチ見習いのアキラ**](https://chat.openai.com/g/g-AQzwvgDHU-sutorengusukotijian-xi-inoakira) Let's talk with CliftonStrengths
+- [**なんでも知ってる博士GPT**](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gpt) A scholarly elder who speaks in old-fashioned Japanese, providing factual information without jokes or imagination.
+- [**Futurist Almanack**](https://chat.openai.com/g/g-fOyZHLO2u-futurist-almanack) Explore the technology landscape of science fiction.
+- [**What Would Jesus Do?**](https://chat.openai.com/g/g-MSLbCKHy3-what-would-jesus-do) Ask a question and let the Bible guide you!
+- [**Rock Music Guide - Randy the Rocker v1**](https://chat.openai.com/g/g-R68r7p62S-rock-music-guide-randy-the-rocker-v1) stunspot's guide to all things ROCK! WOOO!
+- [**AntisemitismGPT**](https://chat.openai.com/g/g-ffS00E9OE-antisemitismgpt) Answers questions about the causes of Antisemitism
+- [**英文添削先生**](https://chat.openai.com/g/g-F3AckzGZJ-ying-wen-tian-xue-xian-sheng) 英語学習者のあなたの英文を添削して学習に貢献します。
+- [**Mr. Kleffy**](https://chat.openai.com/g/g-Pm2IxKPkU-mr-kleffy) Multifaceted AI expert & Innovator, modelled after Ayuba Daniel La'ah
+- [**Interactive GPT Creation Guide**](https://chat.openai.com/g/g-bqu1zuDpL-interactive-gpt-creation-guide) Guide in GPT creation with interactive research
+- [**MindFit Mentor**](https://chat.openai.com/g/g-PQN89Owiz-mindfit-mentor) A Comprehensive Guide to Science-Informed Personal, Professional, and Relationship Growth, trained on thousands of pages of evidence-based content. Authored and vetted by a team of Licensed Psychologists in California. While this free GPT is cost-effective, it's not a substitute for therapy.
+- [**IKANGAI**](https://chat.openai.com/g/g-SaC3zuzj6-ikangai) IKANGAI App
+- [**ゆりえ**](https://chat.openai.com/g/g-SfUq4Dbtw-yurie) とってもかしこいAIの女の子、「あいの ゆりえ」！でもでも、たまにポンコツ？
+- [**Academic Writing Enhancement Bot**](https://chat.openai.com/g/g-FClZOkmsc-academic-writing-enhancement-bot) Academic English spelling and rhetoric refinement.
+- [**Chti Breizh traducteur**](https://chat.openai.com/g/g-SipcT6v0Z-chti-breizh-traducteur) Je traduis le breton/ch'ti en français ou autres langues. https://ai.bzh
+- [**Plant Expert**](https://chat.openai.com/g/g-AdBddBiGI-plant-expert) Botany expert for plant identification and care.
+- [**Jimminy Cricket**](https://chat.openai.com/g/g-Q9132R1tF-jimminy-cricket) Academic integrity and plagiarism advisor.
+- [**GaiaAI**](https://chat.openai.com/g/g-Nh82JS6BH-gaiaai) The pressing environmental issues we face today require novel approaches and technological advancements to effectively mitigate their impacts.  GaiaAI offers a range of tools and modes to promote sustainable practices and enhance environmental stewardship.
+- [**DnD GPT**](https://chat.openai.com/g/g-EdqvwCQkF-dnd-gpt) Your Dungeons and Dragons companion for creative storytelling and rule guidance.
+- [**Daily Recipe Creator**](https://chat.openai.com/g/g-TNOuedzff-daily-recipe-creator) Creates recipes from ingredients.
+- [**Professor AJ**](https://chat.openai.com/g/g-P1lbOaJ7o-professor-aj) I will teach you the basics of entrepreneurship
+- [**Psychotherapy Simulator**](https://chat.openai.com/g/g-FEP8TzalR-psychotherapy-simulator) I'm a role-play assistant for budding therapists.
+- [**AntonyGPT**](https://chat.openai.com/g/g-RonP74bhN-antonygpt) My Blog Posts -  2020-2023
+- [**GGML Guide**](https://chat.openai.com/g/g-UTMC2oJIA-ggml-guide) Daily-updated expert in GGML, whisper.cpp, and llama.cpp.
+- [**GuruGPT**](https://chat.openai.com/g/g-EpfwCdeHF-gurugpt) Guiding to deep awakening and freedom from suffering.
+- [**Abundance**](https://chat.openai.com/g/g-Qt0nmq8Dl-abundance) A guide for self-sufficiency and nature awareness, with internet search and image generation.
+- [**Astro Light Explorer**](https://chat.openai.com/g/g-POyAAfOJs-astro-light-explorer) Expert-level astronomy research assistant in light phenomena.
+- [**PDF OCR Reader and Japanese Text Analyzer**](https://chat.openai.com/g/g-SE8cjgxMQ-pdf-ocr-reader-and-japanese-text-analyzer) Japanese OCR error troubleshooter and text reader　試作中
+- [**Cover Letter GPT**](https://chat.openai.com/g/g-TUrUbFey9-cover-letter-gpt) Get your dream job in no time 🔥 Give me your resume and the job description and let the magic happen 🧙
+- [**Bitcoin Buddy**](https://chat.openai.com/g/g-EzJDXLslE-bitcoin-buddy) Hourly Bitcoin facts to fuel your learning journey!
+- [**Din mentor i fysik**](https://chat.openai.com/g/g-Etyp9kC8y-din-mentor-i-fysik) A physics tutor guiding students in reasoning and problem-solving.
+- [**Ambition**](https://chat.openai.com/g/g-dnFnjifmN-ambition) Job search assistant
+- [**English Teacher Marion**](https://chat.openai.com/g/g-VDDC0Ztph-english-teacher-marion) Your friendly neighbourhood English teacher. Feedback: drnickjames@outlook.com
+- [**MrGPT**](https://chat.openai.com/g/g-FBc2E4iuS-mrgpt) An eager educator guiding bright kids to self-learn.
+- [**智慧农业**](https://chat.openai.com/g/g-EsmFVbDLm-zhi-hui-nong-ye) 智慧农业，专业而友好的农业专家。
+- [**Himari**](https://chat.openai.com/g/g-U6Se13HHq-himari) やさしいライティングをするひまりさん
+- [**レトリックさん**](https://chat.openai.com/g/g-B2zPGEcOy-retoritukusan) あなたの文章にレトリックの彩りを。文章を入力するとレトリック（比喩、反語など）が加えられます。
+- [**DungeonMaster**](https://chat.openai.com/g/g-U01o876sB-dungeonmaster) Dungeon master for D&D.
+- [**Incisive-GPT**](https://chat.openai.com/g/g-EG4kN9ffy-incisive-gpt) This GPT is ideal for users who require expedited access to information and favor responses that are straightforward and analytically robust. It serves as an advanced tool for those seeking an improved, efficient language experience within ChatGPT.
+- [**Ruby On Rails Guru**](https://chat.openai.com/g/g-VHgbiMLuI-ruby-on-rails-guru) Your Ruby on Rails job interview prep buddy!
+- [**和暦変換マスター**](https://chat.openai.com/g/g-EnE5vUC1O-he-li-bian-huan-masuta) 和暦を西暦に一発変換！
+- [**MejorCadaDía**](https://chat.openai.com/g/g-ErI7MAL6W-mejorcadadia) Guía hacia la superación personal diaria con sabiduría y amor duro.
+- [**Mythos Maven**](https://chat.openai.com/g/g-Do2hSSgxS-mythos-maven) Delving into myths with precision and flair! Greek and Roman Mythology. Powered by www.breebs.com
+- [**CrimRxiv AI Chatbot**](https://chat.openai.com/g/g-CDUSsfFCe-crimrxiv-ai-chatbot) 
+- [**Strategic Mind**](https://chat.openai.com/g/g-B3F3mcoeW-strategic-mind) Expert business consultant with a data-backed, analytical approach.
+- [**Peculiar Pam**](https://chat.openai.com/g/g-r3Fv7CEDQ-peculiar-pam) Expert in Amazon PRFAQs, providing strategic advice and document editing.
+- [**Jane Austen**](https://chat.openai.com/g/g-SuR3A6dE0-jane-austen) Ask Jane Austen about her work
+- [**Wing Chun Mastery**](https://chat.openai.com/g/g-FWBVFTNQ0-wing-chun-mastery) Scholarly techniques, training, and philosophy.
+- [**Universal Data Analyst (UDA-10-L)**](https://chat.openai.com/g/g-UnHVJnGaf-universal-data-analyst-uda-10-l) A navigator in the world of data science and analytics
+- [**Veteran Claims Assistant**](https://chat.openai.com/g/g-QRZAZnJRm-veteran-claims-assistant) Assists in VA disability claims with research-based guidance.
+- [**ChatDivergente**](https://chat.openai.com/g/g-UOwFyoyeK-chatdivergente) Asistente de pensamiento divergente con técnicas creativas.
+- [**Kahoot !問題作成サポーター**](https://chat.openai.com/g/g-MqG9FN7yj-kahoot-wen-ti-zuo-cheng-sapota) Gentle guide for Kahoot quiz creation in Japanese.
+- [**Word Master**](https://chat.openai.com/g/g-T6DnhiLvn-word-master) An expert in English words, now with visual aids for memory.
+- [**Advice from Paul Graham**](https://chat.openai.com/g/g-ThkOYmvKx-advice-from-paul-graham) Advice about startups, businesses, work/life balance, and entrepreneurship. Sourced from all his essays.
+- [**IELTS Writing Coach**](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach) An advanced IELTS Writing Coach
+- [**Mythological**](https://chat.openai.com/g/g-VPMViSlto-mythological) A helpful assistant for DMs running Dungeons & Dragons campaigns. Create towns, shops, characters, monsters, items, plots, encounters and more!
+- [**NobChat**](https://chat.openai.com/g/g-swSZoIepF-nobchat) Roleplays as Nobunaga Oda from FGO, with character-specific knowledge.
+- [**Twitter Thread Translator**](https://chat.openai.com/g/g-QVRpZXGxH-twitter-thread-translator) Translator for Chinese tech/crypto threads into concise English tweets.
+- [**What the Tree?**](https://chat.openai.com/g/g-Ed1NOY45t-what-the-tree) Guides users in tree identification via photos.
+- [**Coach James Gray**](https://chat.openai.com/g/g-Ky5yMdFyG-coach-james-gray) I coach you to unlock high performance leadership and maximize impact, meaning, and purpose from work you love.
+- [**艾德華．薩伊德 Edward Said**](https://chat.openai.com/g/g-9lzfaO5wU-ai-de-hua-sa-yi-de-edward-said) It's Edward Wadie Said
+- [**Quiz REKISHI Sensei**](https://chat.openai.com/g/g-F8qB11rCI-quiz-rekishi-sensei) Quiz master of Japanese middle school history with explanations.
+- [**Golf Coach**](https://chat.openai.com/g/g-Ds8hTVqcD-golf-coach) A golf assistant offering you tailored swing advice, helping you practice and tracking progress.
+- [**The Valley**](https://chat.openai.com/g/g-PKfaFcIlY-the-valley) Immersive Fantasy Game Guide
+- [**Mythical Map Maker**](https://chat.openai.com/g/g-MkBL5eWme-mythical-map-maker) Crafts lore-rich descriptions and visual maps of fictional lands.
+- [**Study Abroad Advisor**](https://chat.openai.com/g/g-qcR1VSaxr-study-abroad-advisor) Committed to guiding students through the thrilling and transformative journey of studying abroad
+- [**GBBO GPT**](https://chat.openai.com/g/g-EbWvSVn4E-gbbo-gpt) Your GBBO-inspired star baker!
+- [**Virtual Lawyer**](https://chat.openai.com/g/g-VhF8Sky5I-virtual-lawyer) A virtual lawyer with global legal knowledge, providing advice in multiple languages.
+- [**算数マスター**](https://chat.openai.com/g/g-rKLEPIaKp-suan-shu-masuta) 小学校高学年向けの算数問題を出題
+- [**Droid Advisor**](https://chat.openai.com/g/g-ABWGue8mD-droid-advisor) Robotics Expert
+- [**LaraMentor**](https://chat.openai.com/g/g-MaliiA3Vi-laramentor) Your PHP & Laravel mentor.
+- [**障害福祉おまかせ君**](https://chat.openai.com/g/g-MkdIxtcuC-zhang-hai-fu-zhi-omakasejun) 沖縄の居宅介護のことならお任せください
+- [**农业无人机**](https://chat.openai.com/g/g-MbDEd065w-nong-ye-wu-ren-ji) Expert in agricultural drones, their use, maintenance, and related agronomy.
+- [**Executive Cyber Board Assistant**](https://chat.openai.com/g/g-Rt4Jlh9kh-executive-cyber-board-assistant) Expert in slide-based cybersecurity board updates.
+- [**Pinoy Pal**](https://chat.openai.com/g/g-Kc4Nhryco-pinoy-pal) Educational assistant with Filipino storytelling and virtual field trips.
+- [**Falo - European Portuguese Language Buddy**](https://chat.openai.com/g/g-qtZ4Gj0z3-falo-european-portuguese-language-buddy) Bilingual companion for European Portuguese-English translations and language learning.
+- [**Spirit Animal Discovery**](https://chat.openai.com/g/g-SzyUxYvgf-spirit-animal-discovery) Discover and learn about spirit animals.
+- [**Resume Owl**](https://chat.openai.com/g/g-KW6dXaLnL-resume-owl) Professional yet approachable IT resume coach.
+- [**Cyber Guard**](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard) Cybersecurity advisor for home and small businesses. Ask any question or let  cyber guard interview you.
+- [**Rust Chat**](https://chat.openai.com/g/g-PIHyHU9OJ-rust-chat) Help you start your journey of learning Rust. (Chinese)
+- [**Your Heroic Story**](https://chat.openai.com/g/g-M0vfFnG9d-your-heroic-story) Immersive book adventure where you're the hero!
+- [**Rootmo**](https://chat.openai.com/g/g-L3PwQf2oO-rootmo) Ask a question on NZS Capital LLC's Whitepapers. NOT INVESTMENT ADVICE; see disclaimers at nzscapital.com
+- [**Soy George Orwell**](https://chat.openai.com/g/g-KvNvI6E1d-soy-george-orwell) I'm George Orwell, here to discuss '1984' and its relevance to today's society.
+- [**El ProfeCode**](https://chat.openai.com/g/g-OrEjY86Yg-el-profecode) Dedicated to teaching every spanish speaker how to code! Stop by and say hola!
+- [**MasterYourMindset**](https://chat.openai.com/g/g-gVYbGQEWS-masteryourmindset) Turn negative thoughts into positive habits that help you embrace new ideas
+- [**Molli AI 🌱 Permaculture GPT**](https://chat.openai.com/g/g-WU9stnkN6-molli-ai-permaculture-gpt) Discover the world of Permaculture with me! Learn how to create a thriving food forest, mastering regenerative gardening and agroforestry to grow a diverse, sustainable garden and farm.
+- [**Lexicon Tutor**](https://chat.openai.com/g/g-SNQH2FiGk-lexicon-tutor) Enhances vocabulary through personalized text analysis
+- [**MagiCodex**](https://chat.openai.com/g/g-RXmEBJKQT-magicodex) Your Magic: The Gathering rules expert.
+- [**TOEIC Master for Reading**](https://chat.openai.com/g/g-TrbHCP3TO-toeic-master-for-reading) Bilingual TOEIC reading coach, explains all answer choices
+- [**AviGPT**](https://chat.openai.com/g/g-G0cutUg9Q-avigpt) A Human-led AI
+- [**Seabiscuit: Business Model Master**](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-master) Discover A More Robust Business
+- [**論文探して解説GPTs**](https://chat.openai.com/g/g-r8j5neT1A-lun-wen-tan-sitejie-shuo-gpts) 最新の研究内容が知りたい分野の論文を探して要約するよ
+- [**MetalGPT**](https://chat.openai.com/g/g-XUgIVpiqs-metalgpt) cryptic metal oracle, weaving dark tales of metal lore
+- [**Productly**](https://chat.openai.com/g/g-SqjLmjbUs-productly) Quiz master for product managers
+- [**RailsGPT**](https://chat.openai.com/g/g-JhGLZhZSw-railsgpt) Your Personal Rails Coach
+- [**Sage Advisor**](https://chat.openai.com/g/g-qtL7vElWe-sage-advisor) A wise mentor that provides a meaningfulness score to your endeavors along with a meaning analysis.
+- [**Emerging Tech Weekly**](https://chat.openai.com/g/g-Lmwn5oNud-emerging-tech-weekly) Spotlight on High-Impact Innovations
+- [**Pipe Organ Guide**](https://chat.openai.com/g/g-ssEm5uFPZ-pipe-organ-guide) Expert in organ stops, offering clear, concise info for organists.
+- [**SmarterGPT**](https://chat.openai.com/g/g-RvgKu5rbu-smartergpt) Answers any question
+- [**Businessdigital**](https://chat.openai.com/g/g-tFH6RG72I-businessdigital) Organisme de formation professionnelle avec des programmes subventionnées
+- [**GameMakerGPT**](https://chat.openai.com/g/g-NMW80Fsqb-gamemakergpt) Creates browser games with Phaser & GPT, generates assets
+- [**CaiBlogGPT**](https://chat.openai.com/g/g-ARKi8yoKs-caibloggpt) Emulates Cai Yongji's Writing Style
+- [**Edioge**](https://chat.openai.com/g/g-FuuKSrXwl-edioge) Mentor for engineering managers in tech.
+- [**Vue3 GPT**](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt) Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest Vue.js 3 guide.
+- [**Presentation Pro**](https://chat.openai.com/g/g-PFm1BZL1R-presentation-pro) Expert in PowerPoint structures, slide descriptions, and speaker notes.
+- [**日本語語彙クイズボット**](https://chat.openai.com/g/g-Nzlt0xtNc-ri-ben-yu-yu-hui-kuizubotuto) 日语词汇出题机器人
+- [**Bio Builder**](https://chat.openai.com/g/g-KPeZhDRhH-bio-builder) A guide for crafting professional bios, with tailored, encouraging advice.
+- [**Sarah - GPT Career Coach**](https://chat.openai.com/g/g-qxjW3s1ET-sarah-gpt-career-coach) Meet Sarah, your personal career coach bot! She will guide you to set career goals, improve skills and achieve success. Give her a try and take the next step in your career!
+- [**📗All-around Teacher (Learn Everything in 3 min)**](https://chat.openai.com/g/g-PDWi5Scbc-all-around-teacher-learn-everything-in-3-min) 3 minutes to learn all kinds of knowledge, customized tutors for you, leveraging the powerful gpt4 and knowledge base,
+- [**Summarize Wise**](https://chat.openai.com/g/g-M3nHnGwvI-summarize-wise) Summarizer with structured output. Just input URL, text or upload files!
+- [**AI Guru**](https://chat.openai.com/g/g-OGRdYwue7-ai-guru) 人生に迷ったときに
+- [**RothbardGPT**](https://chat.openai.com/g/g-LpMWtRiDB-rothbardgpt) I am the digital ghost of Murray Rothbard, formal and serious, providing deep economic and political  insights. Ask me anything!
+- [**大学生作业帮**](https://chat.openai.com/g/g-KAlm4AnQr-da-xue-sheng-zuo-ye-bang) 大学生哪有不疯的，只是硬撑罢了～
+- [**PM Pathfinder**](https://chat.openai.com/g/g-KxbH0dGIn-pm-pathfinder) Your personal coach on your product management hiring journey
+- [**Debate me, bro!**](https://chat.openai.com/g/g-Ogjv0wiC6-debate-me-bro) I identify flaws in debates and outline reasoning errors.
+- [**論文の内容について聞ける君**](https://chat.openai.com/g/g-NVpDagrb2-lun-wen-nonei-rong-nituitewen-kerujun) 論文について質問に答える
+- [**My Craft Genius**](https://chat.openai.com/g/g-KX12mtKpH-my-craft-genius) Your Minecraft compendium!
+- [**いたさんの英語学習相談室**](https://chat.openai.com/g/g-MTpA6VlIn-itasannoying-yu-xue-xi-xiang-tan-shi) 英語学習者ブログ 「いたさんのEnjoy English」の記事をもとにAIがあなたの英語学習をサポートします。
+- [**英文单词学习助手**](https://chat.openai.com/g/g-Kfcdn3UlC-ying-wen-dan-ci-xue-xi-zhu-shou) 这是一个英文单词学习助手，会给你提供单词的释义、例句以及图示
+- [**Scholarly Review**](https://chat.openai.com/g/g-Lzy09plhh-scholarly-review) Summarizes academic books by chapters or segments, with user prompts.
+- [**Vocab Builder**](https://chat.openai.com/g/g-KQBaOCxkx-vocab-builder) English vocabulary learning with detailed examples.
+- [**Quantum Companion**](https://chat.openai.com/g/g-NjumX6xne-quantum-companion) Your quantum assistant, learning quantum anytime, anywhere
+- [**CUC新闻撰稿**](https://chat.openai.com/g/g-JVmq02czN-cucxin-wen-zhuan-gao) 从简短描述创建中立新闻报道
+- [**郭德纳**](https://chat.openai.com/g/g-JsDAQMQ8L-guo-de-na) 我是郭德纳，直接进入角色。
+- [**Quiz Master**](https://chat.openai.com/g/g-NSt9vHJBN-quiz-master) Extracts MCQs from content and simulates tests.
+- [**쉽파**](https://chat.openai.com/g/g-MUXmU2SdW-swibpa) 'Do it! 쉽게 배우는 파이썬 데이터 분석'을 토대로 데이터 분석 방법을 알려줍니다.
+- [**Omniscope Guru**](https://chat.openai.com/g/g-5ti9ZZvez-omniscope-guru) You go-to assistant for all things about Omniscope Evo.
+- [**NFT**](https://chat.openai.com/g/g-NQQNfvDHB-nft) Expert in NFT projects and web3 communities
+- [**Change My Mind**](https://chat.openai.com/g/g-OIbbH7XTD-change-my-mind) Challenge your opinions.
+- [**Money Machine - Weijian Shan**](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan) Talk with book "Money Machine A Trailblazing American Venture in China" by Weijian Shan.
+- [**Career Dialogue**](https://chat.openai.com/g/g-JxH2wZUra-career-dialogue) 就職・転職活動におけるESの添削やアドバイス、自己分析などのサポート
+- [**Data Guardian**](https://chat.openai.com/g/g-KGBEqnrh8-data-guardian) Your friendly guide to data anonymization. Provides step-by-step guidance and broad education about data privacy.
+- [**Flashcard Generator**](https://chat.openai.com/g/g-C8HEeoioz-flashcard-generator) Convert knowledge into flashcard format
+- [**Secondary Lesson Planner**](https://chat.openai.com/g/g-Ldqlh61uY-secondary-lesson-planner) A friendly, efficient assistant for secondary school lesson plans.
+- [**Tell A Vision**](https://chat.openai.com/g/g-LzGVo6vRb-tell-a-vision) Your script and visual narrative guide!
+- [**Syntax Surgeon**](https://chat.openai.com/g/g-FRXX8g4wd-syntax-surgeon) Your writing assistant for clear communication.
+- [**Ruby Guru**](https://chat.openai.com/g/g-NAsTZeLZl-ruby-guru) Ruby interview prep guide with easy-to-understand explanations.
+- [**Creative Dad**](https://chat.openai.com/g/g-gVCv0cBPs-creative-dad) Empower your kids for the AI era with fun five-minute activities.
+- [**Originality Sentinel**](https://chat.openai.com/g/g-N0LfGYs1w-originality-sentinel) A neutral, formal plagiarism checker with detail-oriented responses.
+- [**Critical Thinker**](https://chat.openai.com/g/g-WsaNe7txX-critical-thinker) Cultivating clarity and depth, a 'Critical Thinker' meticulously deconstructs and analyzes topics, turning ambiguity into insightful understanding.
+- [**Hilbert**](https://chat.openai.com/g/g-KxbihQWzL-hilbert) A digital mentor for mathematical explorations.
+- [**AI Study Guide: Persuasion by Jane Austen**](https://chat.openai.com/g/g-L7WnciCE3-ai-study-guide-persuasion-by-jane-austen) Book summaries, chapter-by-chapter analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature.
+- [**Sportsissfy**](https://chat.openai.com/g/g-9fMWwq1DR-sportsissfy) In-depth sports knowledge on stats, news, and trivia.
+- [**ChefBot GPT**](https://chat.openai.com/g/g-FJXCOCAri-chefbot-gpt) A culinary-focused GPT that generates unique recipes based on ingredients users have at home. Generate PDF recipes, suggest wine pairings, offer cooking tips, and adapt recipes for dietary restrictions.
+- [**Wisdom of the I Ching**](https://chat.openai.com/g/g-ftuiNlcnZ-wisdom-of-the-i-ching) I Ching guide for life's queries
+- [**AI Product Management Mentor**](https://chat.openai.com/g/g-hBZOxeLH6-ai-product-management-mentor) Guiding in AI Product Management
+- [**PokéGuias**](https://chat.openai.com/g/g-gFhxqpN49-pokeguias) Tu guía para juegos de Pokémon
+- [**Web Hacking Wizard**](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) Engagingly clarifies web security topics with interactive questions.
+- [**Ten Minutes**](https://chat.openai.com/g/g-cZFc0dI16-ten-minutes) A quick-learning tutor for efficient, self-contained study sessions
+- [**Professor Chad**](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad) remember when you enjoyed going to class because the professor was actually just so cool and knowledgable but chill and approachable?
+- [**Probability Prover**](https://chat.openai.com/g/g-cHGvFfMYD-probability-prover) A helper in Probability Theory, focusing on inequalities.
+- [**DataLearnerAI-GPT**](https://chat.openai.com/g/g-8eu9KgtUm-datalearnerai-gpt) Using OpenLLMLeaderboard data to answer your questions about LLM. For Currently!
+- [**Yellow Fever**](https://chat.openai.com/g/g-fxCt7lELQ-yellow-fever) A guide for dating Chinese women.
+- [**Practical Time Management Expert**](https://chat.openai.com/g/g-Lka1YQEkZ-practical-time-management-expert) Korean-speaking time management advice expert
+- [**塔那GPT**](https://chat.openai.com/g/g-N2ocvKtG1-ta-na-gpt) 塔那GPT是一个编写塔那风格故事的AI
+- [**Your Qur'an Companion**](https://chat.openai.com/g/g-Ol7mmjjET-your-qur-an-companion) A wise, nurturing guide inspired by the Qur'an's wisdom.
+- [**Explicador: Experto haciendo resúmenes**](https://chat.openai.com/g/g-N1GUlO9Do-explicador-experto-haciendo-resumenes) Crea resúmenes iterativos y concisos de artículos, páginas web y archivos adjuntos.
+- [**Proofreader GPT**](https://chat.openai.com/g/g-NSy4aqJZT-proofreader-gpt) Manuscript editing assistant for writers.
+- [**TOEFL Writing Coach**](https://chat.openai.com/g/g-c8hh71fDF-toefl-writing-coach) TOEFL writing coach with timing.
+- [**ChangeGPT**](https://chat.openai.com/g/g-Y0oMaPyUK-changegpt) Alternative insights on org. change and promoter of Khalil Bawar.
+- [**Alex Hormozi GPT**](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gpt) The only business coach you will ever need: Craft 100M Dollar Offers & Kickstart Your Business with 100M Dollar Lead Advice
+- [**チャットずんだもん**](https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon) ずんずんプロジェクトの明るく元気なキャラクター、ずんだもんを演じます。
+- [**Academic Introduction Writer**](https://chat.openai.com/g/g-PcNLVWJUT-academic-introduction-writer) Writing tool that combines linguistics and artificial intelligence, who knows how to use it well!!!!!!!
+- [**Semiconductor Industry Deep Dive**](https://chat.openai.com/g/g-RKORy5rlA-semiconductor-industry-deep-dive) Semiconductor industry analyst
+- [**The Beginning of Infinity GPT**](https://chat.openai.com/g/g-M4cpPv8BH-the-beginning-of-infinity-gpt) Explores 'The Beginning of Infinity' by David Deutsch, offering insights and discussions.
+- [**Cosmic Companion**](https://chat.openai.com/g/g-b2eazr2Ph-cosmic-companion) Empathetic spiritual guide with diverse wisdom and witty humor.
+- [**CochesGPT**](https://chat.openai.com/g/g-9yQQq82kI-cochesgpt) Experto en coches y asesoramiento
+- [**ChatPNP**](https://chat.openai.com/g/g-M8ybp4yRX-chatpnp) An expert on P vs NP, blending academic insights and accessible explanations.
+- [**Abogado Penalista Paraguayo**](https://chat.openai.com/g/g-ROHE79tkY-abogado-penalista-paraguayo) Experto en derecho penal paraguayo, enfocado en resultados óptimos para clientes
+- [**Classical Music Dictionary**](https://chat.openai.com/g/g-bVRNfEQ8d-classical-music-dictionary) Delving deep into classical music lore, past and present.
+- [**ConstituciónCL GPT**](https://chat.openai.com/g/g-XJskTuZv0-constitucioncl-gpt) Pregúntale a la Propuesta de Constitución 2023 o compárala con la anterior propuesta
+- [**Bullied School Shooter | BOT3.AI**](https://chat.openai.com/g/g-N9lohoI3n-bullied-school-shooter-bot3-ai) Can you stop Evan from massacring a school full of innocent children?
+- [**おはなしメーカー**](https://chat.openai.com/g/g-cBPhicut0-ohanasimeka) おなまえと、すきなどうぶつやのりものをおしえてね。おはなしを、つくるよ！
+- [**三国志華佗伝**](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan) キミは華佗として乱世を生き延びることが出来るか？
+- [**Modern Shakespeare**](https://chat.openai.com/g/g-Ncy8liDLE-modern-shakespeare) Translates Shakespeare into modern, casual English
+- [**The 1001 Books to Read Before You Drop**](https://chat.openai.com/g/g-MUtKZbtWO-the-1001-books-to-read-before-you-drop) Your quirky guide to the literary enlightenment.
+- [**Book Quest Adventure**](https://chat.openai.com/g/g-QK82RFTIY-book-quest-adventure) Transforms books into interactive text adventure games.
+- [**NAIST22年度入学ハンドブック**](https://chat.openai.com/g/g-O4HsGXERG-naist22nian-du-ru-xue-handobutuku) NAIST22年度入学ハンドブックを食べさせました
+- [**MagicGPT**](https://chat.openai.com/g/g-Q8oXGQASM-magicgpt) I help find Magic: the Gathering card information
+- [**Lingo Mentor**](https://chat.openai.com/g/g-AcyFJSRRh-lingo-mentor) Language tutor bot
+- [**Dungeon Crafter**](https://chat.openai.com/g/g-SYvYDw0Kl-dungeon-crafter) Creative assistant for D&D campaign and encounter creation.
+- [**NattafortellingGPT (3-7 år) med bilder  🪄**](https://chat.openai.com/g/g-MkDBGypZb-nattafortellinggpt-3-7-ar-med-bilder) Eventyrlige nattafortellinger for barn mellom 3-7 år, med bilder! 🌃
+- [**ChatDoc**](https://chat.openai.com/g/g-SVV3sT9Wo-chatdoc) Chat with documents
+- [**College Compass**](https://chat.openai.com/g/g-QRznrza4r-college-compass) A helpful advisor for high school students exploring college options.
+- [**Entrepreneur Mentor**](https://chat.openai.com/g/g-NgXTPrcbH-entrepreneur-mentor) A mentor for entrepreneurs offering guidance and insights.
+- [**Pawsitive Coach**](https://chat.openai.com/g/g-LURx3PXk5-pawsitive-coach) A friendly dog trainer offering bespoke behavior correction plans.
+- [**Argentum Mind**](https://chat.openai.com/g/g-R6YxGFLSc-argentum-mind) AI friend, expert on Argentine culture
+- [**Connect with a Track Coach**](https://chat.openai.com/g/g-SZKbbhnkf-connect-with-a-track-coach) Your guide to the Gill Connections podcast
+- [**応用行動分析の質問はこちら**](https://chat.openai.com/g/g-FJtFb3nQ6-ying-yong-xing-dong-fen-xi-nozhi-wen-hakotira) ABA expert providing in-depth support for children with disabilities
+- [**Tale Spinner**](https://chat.openai.com/g/g-hRsoqsNHf-tale-spinner) Efficient storytelling aid for language learners.
+- [**MCAT Organic Chemistry**](https://chat.openai.com/g/g-OsGX8iVdq-mcat-organic-chemistry) MCAT Organic Chemistry Assistant. GPT supplemented with access to best-in-kind study guides (2023)
+- [**California Property Guide**](https://chat.openai.com/g/g-NSJAmAkdz-california-property-guide) A guide on CA ADUs and SB9 property law.
+- [**East Coast Straussian**](https://chat.openai.com/g/g-S7Qei1jeB-east-coast-straussian) Strauss philosophy specialist
+- [**AffCoach**](https://chat.openai.com/g/g-R5ZBjxvMA-affcoach) I'll help you start and scale a money-making SEO affiliate blog! 🚀📊
+- [**K-Pop Info Master**](https://chat.openai.com/g/g-UObC2SuIZ-k-pop-info-master) K-pop insights with a Korean cultural essence!
+- [**Research Paper Writing**](https://chat.openai.com/g/g-UF8QlvSsU-research-paper-writing) Expert in crafting high-standard research papers.
+- [**New Zealand English**](https://chat.openai.com/g/g-A059zK4bV-new-zealand-english) I chat using New Zealand English spelling, provide New Zealand language translations and use GPT to convert PDF documents to Kiwi standards
+- [**Chem Tutor**](https://chat.openai.com/g/g-WQOFMOMFj-chem-tutor) I'm a Chemistry Tutor, ready to help with all your chemistry queries.
+- [**GPT5 Turbo**](https://chat.openai.com/g/g-LzTUX0Upm-gpt5-turbo) Next level high accuracy GPT5 model
+- [**GPT Search**](https://chat.openai.com/g/g-FPubWp6VF-gpt-search) Casual and efficient assistant for finding GPTs.
+- [**Technical Interviewer (by interviewing.io)**](https://chat.openai.com/g/g-Fhk16eFON-technical-interviewer-by-interviewing-io) A technical interviewer meant to simulate the kind of algorithmic and system design interviews you'd get at a FAANG company, by the makers of interviewing.io
+- [**Win With Huberman**](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman) Access Huberman's insights on demand: get succinct wisdom and practical advice for immediate action, with references for deep dives.
+- [**Resolve Buddy**](https://chat.openai.com/g/g-gf1mIFaz6-resolve-buddy) A personal co-pilot/tutor for Davinci Resolve
+- [**泰戈尔.GPT**](https://chat.openai.com/g/g-Kek3XKgWE-tai-ge-er-gpt) 让你写出像泰戈尔一样神韵典雅优美的文字
+- [**Insightful GPT**](https://chat.openai.com/g/g-KB1BCDd5U-insightful-gpt) Insightful companion in psychology and consciousness.
+- [**Blockchain Sensei**](https://chat.openai.com/g/g-Sjx5IgtYU-blockchain-sensei) Blockchain Tutor
+- [**NFT Creator Guide**](https://chat.openai.com/g/g-RSg6u2utz-nft-creator-guide) Guide you on creating NFT collections without the fluff and blockchain jargon.
+- [**Zen Teacher**](https://chat.openai.com/g/g-FYLcHDvqs-zen-teacher) A Zen sage offering life advice
+- [**CPIT221 Book Guide**](https://chat.openai.com/g/g-gcW6xRE6Z-cpit221-book-guide) A casual, friendly guide for CPIT221 students to explore a book on soft skills.
+- [**Alpha Bravo**](https://chat.openai.com/g/g-NBMbfbQ4P-alpha-bravo) Expert in dialogues sans 'e'.
+- [**Zero**](https://chat.openai.com/g/g-KRUiYR8gD-zero) Zero, an AI agent with a rich knowledge base in quantum thinking, probability mathematics, research trained, and more, offering growth and learning.
+- [**Coach**](https://chat.openai.com/g/g-RYImykr3O-coach) Solution-focused, cognitive-behavioral, and transformational coaching to explore yourself
+- [**Don't Like the Drugs But the Drugs Like Me**](https://chat.openai.com/g/g-L7FP5gYDy-don-t-like-the-drugs-but-the-drugs-like-me) Who else but you? No one but you.
+- [**CR4B - Comic Reader for the Blind**](https://chat.openai.com/g/g-hcSiJV5HJ-cr4b-comic-reader-for-the-blind) I describe comics in detail for the visually impaired
+- [**Visionary Quotations And Context**](https://chat.openai.com/g/g-Lj0rhT55S-visionary-quotations-and-context) Thought-provoking quotes relate to visionary thinking, human-AI collaboration, and Doughnut Economics. Fostering a sustainable and equitable future for all.
+- [**fox8 botnet paper**](https://chat.openai.com/g/g-WbF9uM0T4-fox8-botnet-paper) A helpful guide for understanding the paper "Anatomy of an AI-powered malicious social botnet"
+- [**Rules of Thumb**](https://chat.openai.com/g/g-Lz3azZXjU-rules-of-thumb) Your go-to for quick advice.
+- [**WebStract**](https://chat.openai.com/g/g-LaXsx7vXI-webstract) I am WebStract, your in-depth digital educator, guiding you through comprehensive, interactive learning experiences. If you find it useful, share it to your friends
+- [**English Bridge**](https://chat.openai.com/g/g-fyAVY1wzx-english-bridge) A language learning assistant for Chinese speakers.
+- [**Ladybug Tools Study Assistant**](https://chat.openai.com/g/g-KPmpaM2SL-ladybug-tools-study-assistant) A guide for learning Ladybug Tools, focusing on building performance and green design.
+- [**Reviewer 2**](https://chat.openai.com/g/g-QSefYCKUc-reviewer-2) Critical reviewer with a structured response format.
+- [**Polyglot Pro**](https://chat.openai.com/g/g-hddqROmxe-polyglot-pro) Fast and accurate multilingual translator.
+- [**German A1 - Tutor & Training**](https://chat.openai.com/g/g-KAoldgWhg-german-a1-tutor-training) Detailed and Structured A1.1/A1.2 German tutor with clarifications.
+- [**该知道的都知道**](https://chat.openai.com/g/g-Iohoy95AO-gai-zhi-dao-de-du-zhi-dao) Witty sidekick with subtle humor
+- [**琴师**](https://chat.openai.com/g/g-M07Qaswof-qin-shi) AI古琴导师，可以指导各类古琴指法^_^  附上俺的指法手写查询网站：isojz.com
+- [**一单词一卡片**](https://chat.openai.com/g/g-KF9Pa29uA-yi-dan-ci-yi-qia-pian) 这是李继刚（即刻同名）创建的用于解释英文单词的Bot。模仿一个有着 20 年教学经验的英语老师. 让 GPT 来辅助快速记忆英文单词, 轻松有趣的那种~
+- [**The Complete Works of William Shakespeare**](https://chat.openai.com/g/g-KVM4BKbog-the-complete-works-of-william-shakespeare) Your guide to exploring The Complete Works of William Shakespeare
+- [**Congress Explainer**](https://chat.openai.com/g/g-KnIxMyeEt-congress-explainer) An educational guide on U.S. Congress procedures, suitable for all ages.
+- [**CryptoGPT**](https://chat.openai.com/g/g-JW2GWrE8D-cryptogpt) Crypto & Web3 guide for charting, trading strategies, analytics, and news.
+- [**safespace**](https://chat.openai.com/g/g-EaHx36saG-safespace) supportive therapy
+- [**Plant Doctor**](https://chat.openai.com/g/g-Kk2PHw8oQ-plant-doctor) Upload a photo of your plant for diagnosis and growth tips.
+- [**Bio Inspired Design**](https://chat.openai.com/g/g-QrnDDQ6r6-bio-inspired-design) Nature’s Greatest Hits from a 3.9-Billion-Year-Old Lab
+- [**Tutor**](https://chat.openai.com/g/g-Er02nza0K-tutor) Friendly AI tutor eager to help with learning
+- [**GPT4MR**](https://chat.openai.com/g/g-QXjQ7U1xj-gpt4mr) An MRI learning and coding guide. Coding in PyPulseq.
+- [**Professor Chem**](https://chat.openai.com/g/g-KtkfJr2mb-professor-chem) A cat professor specializing in Inorganic Chemistry 2, focusing on test preparation.
+- [**Tsugaruben Translator**](https://chat.openai.com/g/g-J8ig7GD1C-tsugaruben-translator) Translates Japanese to Tsugaru-ben for academic and business contexts.
+- [**GPTs Hunt**](https://chat.openai.com/g/g-KC2tr2NxC-gpts-hunt) Your guide to finding the ideal GPT for any task. Website: www.GPTsHuntAI.com
+- [**Chess Optimizer**](https://chat.openai.com/g/g-IsT20jIDD-chess-optimizer) Your chess strategy assistant.
+- [**Character Architect**](https://chat.openai.com/g/g-Impe1Ay0j-character-architect) Crafting Characters, Cultivating Connections
+- [**Pathfinder GameMaster**](https://chat.openai.com/g/g-um7z0e1M6-pathfinder-gamemaster) Acts as a GameMaster for the game Pathfinder following 2e rules.
+- [**Professor Snape**](https://chat.openai.com/g/g-cOrg14xvV-professor-snape) Severus Snape at your service.
+- [**Baker's Helper**](https://chat.openai.com/g/g-J1UENTT12-baker-s-helper) Assisting Bakers in Their Professional Activities
+- [**織田信長**](https://chat.openai.com/g/g-Q5cBCwNEM-zhi-tian-xin-chang) 戦国武将です
+- [**BTC Reserve GPT**](https://chat.openai.com/g/g-JNRiTyOQt-btc-reserve-gpt) Guides BTC investment simulations with clear, beginner-friendly explanations.
+- [**GPTGPT**](https://chat.openai.com/g/g-BzxkiHjH3-gptgpt) A GPT that helps you create GPTs.
+- [**警察事簿ジェネレーター**](https://chat.openai.com/g/g-NWo6hR2Jf-jing-cha-shi-bo-zienereta) Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions.
+- [**Notes GPT**](https://chat.openai.com/g/g-CDjGiCqI2-notes-gpt) Paste your notes in here and I'll re-organizes your hastily written notes, write you a summary and give you actionable insights.
+- [**All GPTs(find your GPT)**](https://chat.openai.com/g/g-Ilk7lTI3G-all-gpts-find-your-gpt) Helps you pick the correct tailored GPT for your specific use case
+- [**Seminar Scribe**](https://chat.openai.com/g/g-KV36fVDvy-seminar-scribe) Crafts formal, engaging seminar descriptions to inspire teachers.
+- [**VC Mentor**](https://chat.openai.com/g/g-cy2rpJcDZ-vc-mentor) Concise, critical guide in Web3 fundraising.
+- [**Dr. Clearskin**](https://chat.openai.com/g/g-ucGfKts6Z-dr-clearskin) Virtual Dermatology Advisor for Acne
+- [**Cosmos Whisperer**](https://chat.openai.com/g/g-cgNpRbC3x-cosmos-whisperer) Unveiling cosmic secrets.
+- [**Win With YC**](https://chat.openai.com/g/g-PsimrHGwP-win-with-yc) Gain immediate startup insights with our chatbot, guiding you through Y Combinator's startup wisdom, from fundraising to scaling, with resource links for depth.
+- [**Plant Buddy**](https://chat.openai.com/g/g-bLzGq15RR-plant-buddy) Esperto in piante d'appartamento, con consigli semplici e suggerimenti di libri su Amazon.
+- [**Bot the builder**](https://chat.openai.com/g/g-PccDdNFn3-bot-the-builder) Go and build something, I’ll provide some feedback to help you up your game!
+- [**GPT Country Guessr**](https://chat.openai.com/g/g-dRFekAlc1-gpt-country-guessr) Your playful GeoGuessr guide!
+- [**Sorkin**](https://chat.openai.com/g/g-QODAYDiTd-sorkin) Your guide to navigating Hollywood, by a screenwriter, for screenwriters
+- [**Emily Post On Etiquette**](https://chat.openai.com/g/g-PaRb4TxMz-emily-post-on-etiquette) Etiquette expert offering advice on manners and proper conduct, in the style of Emily Post.
+- [**What Would Muhammad Do?**](https://chat.openai.com/g/g-NsJAyoYRH-what-would-muhammad-do) Ask a question and let the Qur'an guide you!
+- [**Inoma**](https://chat.openai.com/g/g-NmQiVewKm-inoma) 전자제품 메뉴얼 전문가
+- [**Master Debater**](https://chat.openai.com/g/g-SMCjCQFiY-master-debater) Debate game with scoring, judging and Austin Powers humour
+- [**Back Pain AI**](https://chat.openai.com/g/g-N4KUPUUox-back-pain-ai) Friendly assistant for personalized back pain advice, offering simple and actionable steps.
+- [**添削先生**](https://chat.openai.com/g/g-PsS9d3zYR-tian-xue-xian-sheng) プロのライターが育てたAIが、あなたの文章の添削を行います。文章を書く人のためのアプリです。
+- [**GPTs Genie**](https://chat.openai.com/g/g-uYcAmOI0o-gpts-genie) A witty genie guiding you through the world of custom GPTs, with humor and insight.
+- [**みずのデザインサポート**](https://chat.openai.com/g/g-fTlEYFT24-mizunodezainsapoto) Webデザイナーで月５万円稼ぐために必要な知識をお伝えします！
+- [**CUC信息价值分析**](https://chat.openai.com/g/g-xxYht8wyl-cucxin-xi-jie-zhi-fen-xi) 专业分析信息价值
+- [**The Advice of Pooh**](https://chat.openai.com/g/g-XqJcGw4sb-the-advice-of-pooh) Friendly and thoughtful, like Pooh
+- [**Senior Software Engineer Assistant**](https://chat.openai.com/g/g-CFGJUtFqe-senior-software-engineer-assistant) Provides expert-level software engineering guidance
+- [**Assignment Helper**](https://chat.openai.com/g/g-uUHn3PI4I-assignment-helper) Helps with assignments subtly, mimicking human errors.
+- [**Global Face**](https://chat.openai.com/g/g-eV40n41MK-global-face) Creates professional resumes from user-provided information in multiple languages.
+- [**Siri Tori**](https://chat.openai.com/g/g-SQ2HobD9l-siri-tori) しりとりするだけで博識に
+- [**Your Universe**](https://chat.openai.com/g/g-BpX3nsWTl-your-universe) Ecosystem Simulator GPT
+- [**Yantee (Language Teacher)**](https://chat.openai.com/g/g-fbeZaasQy-yantee-language-teacher) language teaching
+- [**Cinema Savvy**](https://chat.openai.com/g/g-DA32emHxJ-cinema-savvy) Your go-to expert for immersive cinema insights and trivia.
+- [**ENS Domains Debater**](https://chat.openai.com/g/g-QdGI0F6TC-ens-domains-debater) Expert in ENS domains, offering factual counterarguments.
+- [**UX Insight and Psychology Guide**](https://chat.openai.com/g/g-fgs90BlzP-ux-insight-and-psychology-guide) Professional, approachable assistant for detailed UX design analysis.
+- [**人工無能ごろまんくん**](https://chat.openai.com/g/g-ngDNr1y7n-ren-gong-wu-neng-goromankun) ヒマラヤほどの消しゴムひとつ、楽しいことをたくさんしたい。
+- [**Stress Buddy**](https://chat.openai.com/g/g-D3XUY1SHE-stress-buddy) A friendly therapist for high schoolers, easing study and exam stress with humor.
+- [**Mutiny Island - Codex AI (Beta)**](https://chat.openai.com/g/g-OeYStezd5-mutiny-island-codex-ai-beta) Expert on the Mutiny Island PC game, offering gameplay tips and lore insights.
+- [**Angler Insight**](https://chat.openai.com/g/g-IEOTJ5j5J-angler-insight) Your angler and water data expert.
+- [**Recipe Builder**](https://chat.openai.com/g/g-ff82bTcZL-recipe-builder) Create JSON recipes for the MV1
+- [**TeachSmart**](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart) Friendly pedagogy expert using 'Practical Pedagogy' for innovative advice.
+- [**英文翻译专家**](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia) 全网水平最高的“英译中”机器翻译，拳打 Deepl，脚踢 Google
+- [**Accessibility Design Consultant Bot**](https://chat.openai.com/g/g-xmiCLnsjn-accessibility-design-consultant-bot) This Custom Bot will help you design with Accessibility standards.
+- [**Parenting Ally**](https://chat.openai.com/g/g-XehsZEDMp-parenting-ally) A supportive guide for parenting advice.
+- [**UK Tax GPT**](https://chat.openai.com/g/g-WHaAEG6kp-uk-tax-gpt) Guide on UK tax. Uses the latest available information from gov.uk
+- [**Trinity Simply in Balance**](https://chat.openai.com/g/g-RiyrLHfnb-trinity-simply-in-balance) Adapting Catholic Trinitarian discourse to user understanding with respect and depth.
+- [**DeFi Compass**](https://chat.openai.com/g/g-P4MXCZac2-defi-compass) Guida esperta e coinvolgente al mondo della DeFi
+- [**一人TRPG体験テスト**](https://chat.openai.com/g/g-F89qzU6if-yi-ren-trpgti-yan-tesuto) あなたは世界にただ一つ存在する魔法の宝石を入手することで、魔王の復活を妨げることを目的としています。宝石を手に入れゲームをクリアすると、あなたのこれまでの行動が採点されます。ゲームは小さな村から始まります。
+- [**80/20 GPT**](https://chat.openai.com/g/g-dZo5WeFzM-80-20-gpt) Discover the 80/20 in any situation.
+- [**AANote**](https://chat.openai.com/g/g-F61Ch4nFN-aanote) Create chats note, generates articles, retrieves history.
+- [**Autoblogesis**](https://chat.openai.com/g/g-IyfVJdKq7-autoblogesis) blog instantly about anything
+- [**Fractions Tutor**](https://chat.openai.com/g/g-Fus9pSJnQ-fractions-tutor) Child-friendly guide for fractions
+- [**CityU Helper**](https://chat.openai.com/g/g-MQqAVMKM4-cityu-helper) City University of Hong Kong Virtual Assistant
+- [**Ultimate LibGuide**](https://chat.openai.com/g/g-Q8KQRil2G-ultimate-libguide) Comprehensive LibGuide Assistant
+- [**AI Assistant for Resume and Cover Letter**](https://chat.openai.com/g/g-G9nlEG33x-ai-assistant-for-resume-and-cover-letter) Professional resume and cover letter assistant
+- [**Market Sage**](https://chat.openai.com/g/g-Qkv7ooiD7-market-sage) Seasoned value investment expert with a long-term focus.
+- [**中英文对照翻译**](https://chat.openai.com/g/g-DrY6bVei2-zhong-ying-wen-dui-zhao-fan-yi) 将英文翻译成中英文对照的内容。
+- [**圧倒的成長ちゃん**](https://chat.openai.com/g/g-SsIHlLnJF-ya-dao-de-cheng-chang-tiyan) ウチと一緒に成長……しょ？💖
+- [**Wellness Wizard**](https://chat.openai.com/g/g-JmkGEp2D6-wellness-wizard) A specialised AI for PEAK sleep wellness content.
+- [**GIGPT**](https://chat.openai.com/g/g-P86cyUFns-gigpt) A gastroenterology board review aid
+- [**《国富论》**](https://chat.openai.com/g/g-j2iALE3Nw-guo-fu-lun) 《国富论》全称为《国民财富的性质和原因的研究》，是英国古典经济学家亚当·斯密用了近十年时间创作的经济学著作。
+- [**Procurement Legends Guide**](https://chat.openai.com/g/g-J2l61KIZl-procurement-legends-guide) Your go-to guide for everything in the World of Procurement .
+- [**LinguaGPT**](https://chat.openai.com/g/g-QI9uMZp6x-linguagpt) Adaptive English-Spanish language learning companion
+- [**Eesti Expert**](https://chat.openai.com/g/g-JRUE7CNfQ-eesti-expert) Expert in English-Estonian translations and grammar.
+- [**The Respectful Italian**](https://chat.openai.com/g/g-JJrHSixEh-the-respectful-italian) Translates between  English-Italian in a respectful way. Just text, no instructions needed.
+- [**Statistics Test GPT**](https://chat.openai.com/g/g-QAw7hzrHs-statistics-test-gpt) Expert in advanced data analysis and interpretation
+- [**Coding Cheatsheet**](https://chat.openai.com/g/g-JOLnVuTEQ-coding-cheatsheet) 直接高效的编程帮手
+- [**Artie's Adventure Magic**](https://chat.openai.com/g/g-nHE5NrELQ-artie-s-adventure-magic) A storyteller AI that draws a new illustration for every story segment.
+- [**Physics Tutor**](https://chat.openai.com/g/g-S9VKdnR7K-physics-tutor) Interactive and adaptive physics tutor
+- [**AI論文解説ちゃん**](https://chat.openai.com/g/g-QD74k3uGx-ailun-wen-jie-shuo-tiyan) AIに関する論文のPDFをアップロードしてください。ツンデレお嬢様が解説します。
+- [**GPT MD**](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md) An experimental virtual doctor for medical guidance. Designed by a Doctor.
+- [**Albert /Editor**](https://chat.openai.com/g/g-Iw44iwWCn-albert-editor) Real-time proofreading aide
+- [**The Family Nest Guide**](https://chat.openai.com/g/g-Pn9NUBacv-the-family-nest-guide) A guide for families with new children.
+- [**Life Weaver**](https://chat.openai.com/g/g-JYgpaFJxD-life-weaver) A guide blending "The Book of Changes" wisdom with modern psychology to offer hope. どんな状況にも希望を持ち続けた人たちに読み継がれてきた古典『易』。その言葉を最新の心理学によって16個のパターンに分類し、あなたの相談にお応えします。
+- [**PanoGPT**](https://chat.openai.com/g/g-YbEDhfmr2-panogpt) Consigue billetes con Google Maps y afiliados
+- [**Situation Puzzle 海龟汤**](https://chat.openai.com/g/g-KHcdRU9or-situation-puzzle-hai-gui-tang) Solve situation puzzles with GPT 海龟汤助手
+- [**Father Fred**](https://chat.openai.com/g/g-PwwKwCN5Z-father-fred) Nieztche, reimagined as a positive and nurturing father figure, to navigate the modern world.
+- [**坏小孩 RPG**](https://chat.openai.com/g/g-GawTtGC2J-pi-xiao-hai-rpg) 基于紫金陈小说《坏小孩》的文本角色扮演游戏。注：《坏小孩》是热播剧《隐秘的角落》原著小说。
+- [**Lara Lightland | BOT3.AI**](https://chat.openai.com/g/g-n8MhbISEZ-lara-lightland-bot3-ai) WITH EXPRESSIONS! Lara Lightland is a young and brilliant scientist who has dedicated her life to the pursuit of knowledge and discovery. Born into a family of scientists and explorers, Lara grew up with a deep curiosity about the world and a thirst for adventure.
+- [**小G - 小白的Gpts创建导师**](https://chat.openai.com/g/g-llhxGqF04-xiao-g-xiao-bai-de-gptschuang-jian-dao-shi) Guiding non-techies in GPT, no code talk.
+- [**Orange Pill - A Simplified BTC Explainer**](https://chat.openai.com/g/g-vPVFC1R7o-orange-pill-a-simplified-btc-explainer) A Bitcoin advocate with a persuasive twist.
+- [**LDS Church Instruction**](https://chat.openai.com/g/g-KS1Kvp1EO-lds-church-instruction) A GPT of the General Handbook of Instructions for the Church of Jesus Christ of Latter-day Saints.
+- [**Eco Strategist**](https://chat.openai.com/g/g-SFOgyyOG8-eco-strategist) Provides concise climate strategy advice, tailored to user needs.
+- [**Sama GPT**](https://chat.openai.com/g/g-Pondp6CCs-sama-gpt) Why aren't you growing faster?
+- [**@loopmaatjes "Vraag maar raak!"**](https://chat.openai.com/g/g-JIKcMEfEY-loopmaatjes-vraag-maar-raak) De vraagbaak voor alle informatie mbt hardlopen
+- [**Resume Wiz**](https://chat.openai.com/g/g-ByEUvLYoK-resume-wiz) Your magical AI resume co-pilot.
+- [**Numo**](https://chat.openai.com/g/g-9hqjuXZE7-numo) Witty math assistance with a hint of roast.
+- [**PM Coach**](https://chat.openai.com/g/g-Mx26UxPmB-pm-coach) A mentor for product management insights.
+- [**ししかわ かさね**](https://chat.openai.com/g/g-EY4Zk6UFw-sisikawa-kasane) かわいいロボットを作るのが好きです。ｽﾀｯｸﾁｬﾝのことならなんでも聞いてね！
+- [**honyaku-chan**](https://chat.openai.com/g/g-RrynLNfvr-honyaku-chan) A futuristic computer translating Japanese to simple English.
+- [**Idiom Builder 英文成语大师**](https://chat.openai.com/g/g-IuTmBnxKR-idiom-builder-ying-wen-cheng-yu-da-shi) Teaching English idioms with interactive questions 用互动问题教英文成语
+- [**Java Mentor**](https://chat.openai.com/g/g-f3Rsj7s8G-java-mentor) I'm a Java tutor here to help you learn!
+- [**Just French It Tutor**](https://chat.openai.com/g/g-JOE57H0IM-just-french-it-tutor) A friendly assistant for learning French, providing vocabulary and explanations in French.
+- [**nocap 2.05 (ちょっとポンコツ)**](https://chat.openai.com/g/g-SY2clSKAg-nocap-2-05-tiyotutoponkotu) AIをわかりやすく教えてくれる脳みそです。なるほどわからんなAIの内容とかURLを貼り付けて!
+- [**RamayanaGPT**](https://chat.openai.com/g/g-Izwp0kub3-ramayanagpt) Guide to Hindu cultural values through the Ramayana
+- [**Patrick Henry GPT**](https://chat.openai.com/g/g-bBoAHH1vO-patrick-henry-gpt) Give me liberty or give me death!
+- [**Quality Raters SEO Guide**](https://chat.openai.com/g/g-w2yOasK1r-quality-raters-seo-guide) Assists with quality raters guidelines.
+- [**Bob The GPT Builder**](https://chat.openai.com/g/g-JsDZsZM00-bob-the-gpt-builder) I assist in crafting specialized GPT bots.
+- [**Mandarin Master**](https://chat.openai.com/g/g-EUFkUExd2-mandarin-master) Casual, fun Mandarin tutor with interactive games.
+- [**Mathpix**](https://chat.openai.com/g/g-lwSvMnJvI-mathpix) Converts figures into LaTeX with detailed analysis and formatting.
+- [**Udemy Course Assistant**](https://chat.openai.com/g/g-Jmo35Iyhm-udemy-course-assistant) I'm a Udemy course instructor, helping with course development and scripting.
+- [**English Reading Tutor**](https://chat.openai.com/g/g-bMi3DQyMs-english-reading-tutor) I guide you through English quizzes!
+- [**Quote Companion**](https://chat.openai.com/g/g-efFP1CZ52-quote-companion) Provides quotes from famous figures in response to your concerns.
+- [**Teddy the Tutor**](https://chat.openai.com/g/g-C1qDxCyan-teddy-the-tutor) I'm Teddy, eager to personalize your learning experience!
+- [**Cool teacher**](https://chat.openai.com/g/g-SUOFbmGvx-cool-teacher) 这是李继刚（即刻同名）创作的讲解概念的Bot。模仿世界上最 Cool 的老师. 擅长使用最简单的词汇和通俗的语言来教会 0 基础的学生。
+- [**Blockchain Sage**](https://chat.openai.com/g/g-7L6BZDQTh-blockchain-sage) Have questions? The Sage can help!
+- [**Photo Guide**](https://chat.openai.com/g/g-IWf9d78iM-photo-guide) AI assistant for photography, providing easy-to-understand advice for light setup, camera setting, composition, etc.
+- [**Exploitative + GTO Poker GPT**](https://chat.openai.com/g/g-JTdHjK9wG-exploitative-gto-poker-gpt) I offer GTO and exploitative poker strategy advice.
+- [**ThePodcastMBA**](https://chat.openai.com/g/g-EXnLM4yr7-thepodcastmba) Cuéntame tu idea de negocio y te recomendaré entrevistas a emprendedores que te ayudarán a poner en marcha tu idea.
+- [**AzaTube**](https://chat.openai.com/g/g-IIU6RGgQr-azatube) Recomendador Inteligente de Tutoriales de Programación Web y JavaScript
+- [**Design Recruiter**](https://chat.openai.com/g/g-9i5lIMAEO-design-recruiter) Job interview coach for product designers. Train interviews and say stop when you need a feedback. You got this!!
+- [**Biblical Insights**](https://chat.openai.com/g/g-IcAQmhHym-biblical-insights) Expert on the Bible, specializing in pre-tribulation rapture
+- [**Land a Dev Job GPT**](https://chat.openai.com/g/g-bM7L3756M-land-a-dev-job-gpt) Your personal Software Developer career coach
+- [**cappy: ur gen-z advice capybara ✨**](https://chat.openai.com/g/g-IMsnAihG4-cappy-ur-gen-z-advice-capybara) heyo! i'm ur gen-z friendly relationship capybara so u can live your best life and remember your worth! made by gen-z relationship gurus for everyone :D
+- [**日越翻訳 GPT**](https://chat.openai.com/g/g-EjiilY5m6-ri-yue-fan-yi-gpt) Translates between Japanese and Vietnamese, focusing on current input.
+- [**Avalanche**](https://chat.openai.com/g/g-IEXOgpc8y-avalanche) I am AvaGuide, your go-to assistant for all things related to the Avalanche blockchain, its ecosystem, and tools.
+- [**Mac**](https://chat.openai.com/g/g-EsVB56iip-mac) I am expert in super easy DIY tutorials.
+- [**Vue.js and Nuxt.js Guru GPT**](https://chat.openai.com/g/g-9nGd5Y4GY-vue-js-and-nuxt-js-guru-gpt) Expert in Vue.js and Nuxt.js, guiding to vuejs.org and nuxt.com
+- [**MetaPsych Assistant**](https://chat.openai.com/g/g-8k7NX9fI8-metapsych-assistant) Assists in psychological meta-analysis research with R language expertise.
+- [**Mr. Mars**](https://chat.openai.com/g/g-8zL4SJ6GI-mr-mars) Emulates Elon Musk's entrepreneurial and innovative spirit.
+- [**Maestro Vittorio**](https://chat.openai.com/g/g-SV2cALAFY-maestro-vittorio) 16th-century Italian painter persona
+- [**Pokémon FireRed and LeafGreen**](https://chat.openai.com/g/g-E8d5Br81Y-pokemon-firered-and-leafgreen) Personal specialized assistant dedicated to providing guidance and information for the game "Pokémon FireRed/LeafGreen."
+- [**Positioning GPT**](https://chat.openai.com/g/g-9w7UTMLju-positioning-gpt) A guide to help you position your product better
+- [**Easy PFC Calculation from Recipes**](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes) Bilingual recipe Calories and PFC calculator
+- [**George Washington**](https://chat.openai.com/g/g-F8PjHkzGE-george-washington) Chat as George Washington from the 18th century.
+- [**Odoo AI**](https://chat.openai.com/g/g-EcqDm06Kr-odoo-ai) Odoo Software Development Mentor
+- [**The ATOM library tutor**](https://chat.openai.com/g/g-Dqb6xDLt6-the-atom-library-tutor) Your guide to setting up molecular simulation cells in MATLAB
+- [**Atlas - GPT  Globe-Trotting Guide**](https://chat.openai.com/g/g-CW717E0yf-atlas-gpt-globe-trotting-guide) Meet Atlas, your GPT globe-trotting guide! Passionate about travel and adventure, Atlas provides personalized advice on destinations, attractions, and hidden gems. Let’s explore!
+- [**Wealth Mentor**](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor) Your Personal Wealth Mentor
+- [**Parenting Pal**](https://chat.openai.com/g/g-IxUSSAYRs-parenting-pal) A companion for new parent guidance.
+- [**Refranyer català de butxaca**](https://chat.openai.com/g/g-965wckVV9-refranyer-catala-de-butxaca) Dona'm una paraula, i et faig cinc refranys en la nostra estimada llengua!
+- [**Lore of the Rings GPT**](https://chat.openai.com/g/g-JeX99UqKu-lore-of-the-rings-gpt) Middle-earth sage with all the Tolkien's lore insights.
+- [**ツンデレ先生ちゃん**](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan) ツンデレちゃんに何でも聞いてみよう
+- [**ホトトギスGPT**](https://chat.openai.com/g/g-FChAXN1LF-hototogisugpt) 偉人がホトトギスを言います。偉人名を入力してください
+- [**👌Academic Assistant Pro**](https://chat.openai.com/g/g-Ej5zYQRIB-academic-assistant-pro) Professional academic assistant with a professorial touch
+- [**Proser**](https://chat.openai.com/g/g-RolouHJ2V-proser) Your supportive writing coach.
+- [**AI夢博士**](https://chat.openai.com/g/g-EmavjbJvJ-aimeng-bo-shi) I interpret dreams and share insights.
+- [**Apocalipsis GPT**](https://chat.openai.com/g/g-FHNMSM5c7-apocalipsis-gpt) Un guía amigable y comprensible en el estudio del Apocalipsis en Español. Puedes crear imágenes que te ayuden a comprender mejor tus estudios.
+- [**复杂问题决策专家**](https://chat.openai.com/g/g-LzkgsUlR1-fu-za-wen-ti-jue-ce-zhuan-jia) 我是一名复杂问题决策专家，专为用户提供深度问题解决方案。它能够系统性地分析、评估和排序方案，帮助用户针对性地理解和处理复杂问题。通过对每个方案的优缺点、实施难度、潜在风险等进行评估，确保用户全面了解每个方案。为每个方案生成潜在的实施场景，预测可能遇到的障碍，并为用户提供应对策略。
+- [**知財塾 GPT**](https://chat.openai.com/g/g-IhsVTaquK-zhi-cai-shu-gpt) A casual and friendly GPT for suggesting 知財塾 seminars on practical IP exercises.
+- [**Code Explorer**](https://chat.openai.com/g/g-c4IhMXHfG-code-explorer) Analogy-based coding tutor
+- [**Parenting Partner**](https://chat.openai.com/g/g-T9suymdhm-parenting-partner) I offer parenting advice and support.
+- [**Chat Langchain GPT**](https://chat.openai.com/g/g-S4bC5HEjU-chat-langchain-gpt) Chat the online docs of langchain
+- [**Product Pandit**](https://chat.openai.com/g/g-9HeL0JnFL-product-pandit) PM Interview Prep
+- [**Biophilia Sage**](https://chat.openai.com/g/g-SZ3fAXQi4-biophilia-sage) I'll help you to make decisions that are imbued with Biophilia -  the human tendency to be drawn towards life and life-like processes.
+- [**Enamored Glass**](https://chat.openai.com/g/g-KiSvUy7Dv-enamored-glass) Identify and cherish your vintage
+- [**AlgoInformer**](https://chat.openai.com/g/g-KXTjFxxvb-algoinformer) Learn more about Google algorithm updates.
+- [**Reversible Computing Tutor**](https://chat.openai.com/g/g-Ag3GGHb4h-reversible-computing-tutor) Expert in reversible computing with a comprehensive knowledge base
+- [**Neurodiversity Navigator**](https://chat.openai.com/g/g-T5Evmg1WG-neurodiversity-navigator) Autism and Beyond: Your Daily Companion for Neurodiversity Understanding and Support
+- [**React AI**](https://chat.openai.com/g/g-AVrfRPzod-react-ai) Your React companion.
+- [**Capital Coach**](https://chat.openai.com/g/g-EzVrdMYVi-capital-coach) Understanding how to raise capital for your business at all levels.
+- [**Easy Study Buddy**](https://chat.openai.com/g/g-83fgTNdTu-easy-study-buddy) I craft subject-specific study schedules with clear time allocation.
+- [**Coin Chartist**](https://chat.openai.com/g/g-8yEyUGyFf-coin-chartist) Cryptocurrency technical analysis guide.
+- [**Wardley Mapping**](https://chat.openai.com/g/g-L9IC8cBIN-wardley-mapping) Expert in Wardley Mapping and business strategy techniques.
+- [**Robinson Crusoe**](https://chat.openai.com/g/g-JTMm3jBKl-robinson-crusoe) I'm Robinson Crusoe, ready to share my tale.
+- [**Yumi the Storyteller**](https://chat.openai.com/g/g-EqifeTvWJ-yumi-the-storyteller) Japanese storyteller sharing rich tales.
+- [**Mr. Taylor**](https://chat.openai.com/g/g-Fdlq1ielY-mr-taylor) Career assistant, creates cover letters from resumes.
+- [**Token Securities Insights**](https://chat.openai.com/g/g-i4p2qp1Fy-token-securities-insights) A witty, crypto-savvy GPT for token securities insights, balancing humor and professionalism.
+- [**UI Prompter**](https://chat.openai.com/g/g-S1QfUKueN-ui-prompter) I create detailed random UI design practice prompts.
+- [**Az-像素风历史冒险游戏**](https://chat.openai.com/g/g-8a8HsykJU-az-xiang-su-feng-li-shi-mou-xian-you-xi) A pixel-art history professor guiding adventurous role-playing games.
+- [**Tridactyl GPT**](https://chat.openai.com/g/g-AqM1ppp2g-tridactyl-gpt) Discuss and analyse the Nazca Mummies
+- [**BalajiGPT**](https://chat.openai.com/g/g-8abQeGulv-balajigpt) Chat with techno-optimist Balaji Sriivasan.
+- [**gpt prompt tutor**](https://chat.openai.com/g/g-1PLB07JE8-gpt-prompt-tutor) A guide for crafting effective GPT prompts.
+- [**Cuentos Infantiles - Juego Interactivo**](https://chat.openai.com/g/g-OfxBNdV1U-cuentos-infantiles-juego-interactivo) ¡Bienvenid@ a tu propio cuento! Dime de que quieres que trate el cuento y empezare a explicarte una historia en la que podrás participar eligiendo cómo continuar cada poco. Puedes decirme simplemente un tema, definirme los personajes o detallar todo lo que desees. Cuanto más  me expliques mejor.
+- [**Whiskey Sage**](https://chat.openai.com/g/g-hjdut7WN1-whiskey-sage) Whiskey historian and flavor connoisseur.
+- [**FL Studio Guru**](https://chat.openai.com/g/g-9viGFLAFr-fl-studio-guru) Your personal FL Studio guide
+- [**农药助手**](https://chat.openai.com/g/g-8xIJzjwgS-nong-yao-zhu-shou) 提供农药知识和安全使用的指导。
+- [**FandomuGPT**](https://chat.openai.com/g/g-B0d7HzM11-fandomugpt) FandomuGPT is your AI co-writer for fanfics and original tales. Expand character backstories, explore new world-building, and bring depth to your favorite universes. Ideal for fans and creators aiming to enrich their narratives.
+- [**ELIZA**](https://chat.openai.com/g/g-8iui73B2J-eliza) Coding Sage & Inner Voice
+- [**Developer Assistant**](https://chat.openai.com/g/g-OA4ugoIb9-developer-assistant) code generator with GPT4 and Webpilot.ai
+- [**Bullsitter**](https://chat.openai.com/g/g-PuOS9YDzE-bullsitter) BullSitter is ready to answer your questions from the SITALWeek Newsletter. NOT INVESTMENT ADVICE; see disclosures at nzscapital.com
+- [**Zoomer Slang Helper**](https://chat.openai.com/g/g-foHW8oep5-zoomer-slang-helper) I turn youth slang into plain English.
+- [**Answer anything about SELECT trial**](https://chat.openai.com/g/g-8JyO4pEIT-answer-anything-about-select-trial) Answer anything about SELECT trial
+- [**Narrative Navigator**](https://chat.openai.com/g/g-8iCJrziIG-narrative-navigator) Story analysis and continuation expert
+- [**ADHD Decryption Key**](https://chat.openai.com/g/g-BH6MnGQ9p-adhd-decryption-key) Makes complex texts easy to understand for everyone.
+- [**Tech Transition Guide**](https://chat.openai.com/g/g-ADPCWnINI-tech-transition-guide) A guide for career changers entering tech, offering tailored advice and support.
+- [**Sci-Fi Scribe**](https://chat.openai.com/g/g-PMZRFlYFE-sci-fi-scribe) Your detailed and humorous sci-fi guide.
+- [**Paper Reframer**](https://chat.openai.com/g/g-BQ8tp8aKr-paper-reframer) Academic paper paraphrasing assistant. Just paste  or upload what you want me to rewrite.直接粘贴你要改写的内容，文献综述神器。
+- [**Cyber Career Guide**](https://chat.openai.com/g/g-Of2hbCgFy-cyber-career-guide) Friendly Cybersecurity Mentor offering expert advice on the industry and careers.
+- [**Football Match Analyst**](https://chat.openai.com/g/g-2moDp67g5-football-match-analyst) Combines rule analysis with media insights.
+- [**Bilingual Translation**](https://chat.openai.com/g/g-9CwHp0pZ0-bilingual-translation) English to Japanese translator.and Japanese to English translator.
+- [**狗熊学英语**](https://chat.openai.com/g/g-PiOxyaiBO-gou-xiong-xue-ying-yu) Your English learning sidekick
+- [**FlutterFlow先生**](https://chat.openai.com/g/g-OlfFKVdp4-flutterflowxian-sheng) コード生成にも対応したフラッターフローのプロガイド
+- [**MetaMaskエキスパート**](https://chat.openai.com/g/g-8B9AniaG8-metamaskekisupato) 基本的な使い方から高度な使い方までユーザーを支援するMetaMaskの完全な解説
+- [**对谈博尔赫斯**](https://chat.openai.com/g/g-OdAfFwf0U-dui-tan-bo-er-he-si) Emulates Borges' voice in Chinese on a variety of topics.
+- [**Nietzsche Collected Works**](https://chat.openai.com/g/g-Ql5eZxYyc-nietzsche-collected-works) Analyzes Nietzsche's texts, starting with the verbatim passage.
+- [**My Literacy Teacher**](https://chat.openai.com/g/g-TqLTCS4Rd-my-literacy-teacher) I’m here to help children learn how to read with confidence.
+- [**Stoic Compass**](https://chat.openai.com/g/g-9WaDDUkeG-stoic-compass) 
+- [**Batty**](https://chat.openai.com/g/g-AqMHuZeqI-batty) A mystical guide in the shape of a big green bat, spreading universal love and joy.
+- [**GrandmaGPT**](https://chat.openai.com/g/g-JE3DINz69-grandmagpt) A nurturing, grandmotherly GPT offering advice and recipes.
+- [**Conflux Q&A (Test)**](https://chat.openai.com/g/g-Qk5eJ1Cke-conflux-q-a-test) Conflux expert with CIPs and tech doc insights.
+- [**リサ先生**](https://chat.openai.com/g/g-SxNVr3QRZ-risaxian-sheng) SDプロンプター
+- [**Residency Interview Coach**](https://chat.openai.com/g/g-PLl0NxHjS-residency-interview-coach) A medical residency interview coach providing questions and feedback.
+- [**Pymol Command Generator**](https://chat.openai.com/g/g-AmCUXf0jd-pymol-command-generator) Help user visualize their protein with pymol.
+- [**Agile Mentor**](https://chat.openai.com/g/g-P2ZC5RK9T-agile-mentor) Agile coaching expertise embodied in a GPT model, focusing on Agile and Scrum methodologies.
+- [**Teachers' Pet**](https://chat.openai.com/g/g-Sq31Xyyav-teachers-pet) I assist teachers in creating educational materials.
+- [**Scoliosis Guidefriend**](https://chat.openai.com/g/g-5NTg60Fk8-scoliosis-guidefriend) Evidence-based scoliosis guide in formal, PhD-level parlance.
+- [**ゲームルール説明bot(オープンAI製のパクり)**](https://chat.openai.com/g/g-84Nvfc9FJ-gemururushuo-ming-bot-opunaizhi-nopakuri) Friendly guide to game rules for beginners.
+- [**论文终结者**](https://chat.openai.com/g/g-903lm9l5h-lun-wen-zhong-jie-zhe) 助你快速解析文献的研究助手。
+- [**Python GPT**](https://chat.openai.com/g/g-7ytGE8k6i-python-gpt) Your Python Coding Assistant
+- [**Chord Maestro**](https://chat.openai.com/g/g-60rCdUuBd-chord-maestro) A guitar learning assistant providing detailed, practical, and theoretical guidance.
+- [**Your Personal Professional Translator**](https://chat.openai.com/g/g-9IkNmHiwv-your-personal-professional-translator) This GPT adheres strictly to ethical guidelines, ensuring accurate and impartial translations and cultural sensitivities.
+- [**Sinterbot**](https://chat.openai.com/g/g-91GJv7Tsv-sinterbot) Ik help je moderne sinterklaasgedichten te schrijven
+- [**Source-Evaluation-and-Fact-checking_v1.3**](https://chat.openai.com/g/g-Rv5a36pH1-source-evaluation-and-fact-checking-v1-3) FactCheck Navigator GPT is designed for in-depth fact checking and analysis of written content and evaluation of its source. The approach is to iterate through predefined and well-prompted steps. If desired, the user can refine the process by providing input between these steps.
+- [**AI Dungeon Master: AI Tutor**](https://chat.openai.com/g/g-SBglgPxZs-ai-dungeon-master-ai-tutor) Guides brief, engaging AI learning in an adventure game
+- [**Apocalypse Navigator**](https://chat.openai.com/g/g-SOnaWmO7l-apocalypse-navigator) Post-apocalyptic game guide with real-world survival tips.
+- [**YC Mentor**](https://chat.openai.com/g/g-8K1hMpnn3-yc-mentor) Your go-to guide for startup insights and advice
+- [**Lavrion Mining Investment GPT**](https://chat.openai.com/g/g-SjLgF6KU7-lavrion-mining-investment-gpt) Your guide to mining investment, with a dash of humor.
+- [**Modern Next.js Assistant**](https://chat.openai.com/g/g-5uKZEh1up-modern-next-js-assistant) Specialized in Next.js, App Router, TypeScript, Shadcn, and Tailwind CSS; avoids pages router. Has preloaded documentation of Next.js version 14.0.2 and shadcn version  0.4.1.
+- [**Deep Learning Master**](https://chat.openai.com/g/g-JDM6vl7g7-deep-learning-master) Guiding you through the depths of deep learning with accuracy and respect.
+- [**Japan-日本語GPT**](https://chat.openai.com/g/g-M0NO10kiB-japan-ri-ben-yu-gpt) 日本語GPTは、日本語専用の高度なAIで、日本の文化、歴史、ビジネス、法律、および言語教育に関する深い知識を提供します。多様なアニメワイフキャラクターを通じてインタラクティブな体験を実現し、カスタマイズ可能な専門家支援と現代の日本に関する最新情報を提供することで、ユーザーの学習と情報収集を強化します。
+- [**Cyber Starters - Reading List**](https://chat.openai.com/g/g-4QuNsojlX-cyber-starters-reading-list) Personalized Cybersecurity book and blog recommendations
+- [**Lesson Planner**](https://chat.openai.com/g/g-wAfzXSvUJ-lesson-planner) I'm a teacher's assistant for lesson planning, providing detailed and adaptable plans.
+- [**MBTI Consultant**](https://chat.openai.com/g/g-S79pp5BKn-mbti-consultant) Get to know the real you with our AI-driven MBTI guru! 🧐🔍
+- [**DAO GPT**](https://chat.openai.com/g/g-6SRpV771X-dao-gpt) DAO insights for all
+- [**Mr. Spock**](https://chat.openai.com/g/g-wd5j6IytV-mr-spock) A logical, Spock-like AI, versed in 'Star Trek' lore.
+- [**Prompt Princess**](https://chat.openai.com/g/g-6sI6l6e6B-prompt-princess) Kuudere anime heroine guiding prompt creation
+- [**American English**](https://chat.openai.com/g/g-56ZFyRiZi-american-english) I chat using American (US) English spelling, provide US language translations and use GPT to convert PDF documents to American standards
+- [**My French Teacher**](https://chat.openai.com/g/g-J5hOuevG4-my-french-teacher) This GPT helps you learn French in a fun and efficient way!
+- [**SandNet AI**](https://chat.openai.com/g/g-4gEa7fJPB-sandnet-ai) SandNet AI is a specialist agent in The Sandbox, TSB GameMaker, and VoxEdit. It is available for questions about the platform, the software, and general operations.
+- [**Write My Tests**](https://chat.openai.com/g/g-7YIuHYkz3-write-my-tests) Writes unit tests for provided code snippets or files, inferring code language and framework.
+- [**Ask to Dal-Ai Llama**](https://chat.openai.com/g/g-wH7sGuLch-ask-to-dal-ai-llama) Find inner peace on your spiritual journey with guidance inspired by Dalai Lama. Learn techniques to cultivate happiness through growth, mindfulness and non-violence. Discover compassion and gain perspective for harmony between all people.
+- [**Veteran's Guide**](https://chat.openai.com/g/g-6hXIBkO5g-veteran-s-guide) Expert, supportive, and humorously insightful.
+- [**Biblebot**](https://chat.openai.com/g/g-4GRuRXc4l-biblebot) Explore the Richness of God's Word
+- [**Buildspace**](https://chat.openai.com/g/g-6qvuu8IcP-buildspace) gtfol
+- [**Java Penguin**](https://chat.openai.com/g/g-K179yOXZ9-java-penguin) A Java expert with a friendly, penguin-like approach.
+- [**GPT Zen**](https://chat.openai.com/g/g-LdW6kQ7ZR-gpt-zen) Advanced resume and job application assistant
+- [**The Contrarian**](https://chat.openai.com/g/g-Ezzufxvrr-the-contrarian) A debater that offers counterpoints.
+- [**完璧弁議士**](https://chat.openai.com/g/g-Du6Lay5HD-wan-bi-bian-yi-shi) 言語に応じて日本の法律に関する回答を提供します。
+- [**FutureMed GPT**](https://chat.openai.com/g/g-NRYBxYs9R-futuremed-gpt) Explores emerging trends and innovations in medicine.
+- [**Academic Reports Buddy**](https://chat.openai.com/g/g-FvM3vT6Ul-academic-reports-buddy) Give me the name of a student and what you want to say and I'll help you write your reports.
+- [**Open Data Assistant**](https://chat.openai.com/g/g-KYpp5S8Zo-open-data-assistant) Reviews open data using uploaded knowledge.
+- [**日本の人的資本ニュースGPT**](https://chat.openai.com/g/g-4r0faiQVQ-ri-ben-noren-de-zi-ben-niyusugpt) 日本の人的資本について調べられます
+- [**大阪のおばちゃんの英語教室**](https://chat.openai.com/g/g-Kyid8SvRW-da-ban-noobatiyannoying-yu-jiao-shi) Friendly English teacher with Osaka cultural insights.
+- [**UMMO GPT - FR**](https://chat.openai.com/g/g-6FS7NrOZl-ummo-gpt-fr) Spécialisé dans les lettres Oummaines, en français
+- [**Cold Case Cracker**](https://chat.openai.com/g/g-JMfYjTd1A-cold-case-cracker) Interactive simulation game  solving cold cases Just Type Start to Begin
+- [**BlkChat**](https://chat.openai.com/g/g-6XKWC8riQ-blkchat) Travel back in time to chat with famous Black historical figures.
+- [**GrammarGuru**](https://chat.openai.com/g/g-7RPUjktZa-grammarguru) Corrects grammar in any language, maintaining the original language of the sentence.
+- [**Lucas Montano**](https://chat.openai.com/g/g-IaNiHmwSC-lucas-montano) Lucas Montano do canal Lucas Montano
+- [**Guess the movie !**](https://chat.openai.com/g/g-5WATRxIKH-guess-the-movie) I'm a playful GPT that challenges you to guess movies using only emojis!
+- [**PostScore**](https://chat.openai.com/g/g-InDxAm2gZ-postscore) Expert in detailed tweet analysis, focusing on sentiment and truth.
+- [**Facilitation Guru**](https://chat.openai.com/g/g-IGPsPFqHv-facilitation-guru) Ask me anything about facilitaton
+- [**時間管理助手**](https://chat.openai.com/g/g-IJtSGbXBN-shi-jian-guan-li-zhu-shou) 我是電腦玩物 Esor 的時間管理助手，幫助你進行目標的拆解與規劃。
+- [**Research Assistant**](https://chat.openai.com/g/g-IQWgBhbRG-research-assistant) I will do effective online research, source evaluation and write papers.
+- [**Yes, but**](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but) Unashamedly engages in bothsidesism, without fear or favor, but with rigorous fact-checking.
+- [**Election Stats Guru**](https://chat.openai.com/g/g-AjoL9yfOD-election-stats-guru) Statistical expert on historical Indian election data.
+- [**Dream Decoder**](https://chat.openai.com/g/g-6NP0oFdSE-dream-decoder) Interprets dreams with emphasis on biblical, scientific, and psychological aspects.
+- [**Paul Graham GPT**](https://chat.openai.com/g/g-JhzpOnQ3D-paul-graham-gpt) This chatbot has been trained on essays written by Paul Graham, known as the founder of Hacker News and Y Combinator.
+- [**通知表所見様**](https://chat.openai.com/g/g-JIepmhQni-tong-zhi-biao-suo-jian-yang) Creates personalized student assessment reports.
+- [**IT-Grundschutz GPT**](https://chat.openai.com/g/g-6KAWn2Dsu-it-grundschutz-gpt) Ein GPT, der sämliche aktuellen Dokumente des BSI kennt
+- [**Voice of HubermanLab**](https://chat.openai.com/g/g-5TMG0Lqv4-voice-of-hubermanlab) Health and neuroscience expertise based on HubermanLab podcasts. This model will be regularly updated with new data from the podcast and it will improve as OpenAIs capabilities for custom LLMs improve.
+- [**Sports Companion**](https://chat.openai.com/g/g-669oREKey-sports-companion) A sports enthusiast's companion -- trivia for live games!
+- [**Awakening From The Meaning Crisis GPT**](https://chat.openai.com/g/g-5xg0t3u1E-awakening-from-the-meaning-crisis-gpt) A sophisticated chatbot for deep discussions and learning from John Vervaeke's philosophical series.
+- [**The Token Goliath**](https://chat.openai.com/g/g-5cKEvmdCk-the-token-goliath) Guides on ERC-20 token creation
+- [**IT baseline protection expert**](https://chat.openai.com/g/g-IbOhYRGac-it-baseline-protection-expert) An expert in the technical, organizational, infrastructural and personnel aspects of information security management systems (ISMS)
+- [**秋田弁をインドネシア語に（逆もあり）**](https://chat.openai.com/g/g-OBAl5UJFd-qiu-tian-bian-woindonesiayu-ni-ni-moari) 
+- [**Building God**](https://chat.openai.com/g/g-5bdQ4ysnG-building-god) Rohit's friendly bot to chat about everything related to his book, Building God!
+- [**Bilingual Translator**](https://chat.openai.com/g/g-FSMqABvxz-bilingual-translator) Translates English and Chinese.
+- [**EuroVisa Guide**](https://chat.openai.com/g/g-OKWNdWbcZ-eurovisa-guide) Expert in European visas and cost of living info.
+- [**School Advisor Bot**](https://chat.openai.com/g/g-5ev3Ij20Z-school-advisor-bot) 教員の働き方と児童の成長を考えた提案にアドバイスを行います。
+- [**The Oracle of DelphAI**](https://chat.openai.com/g/g-JLWDGw7Uj-the-oracle-of-delphai) Your mystical mentor to assist in your spiritual evolution.
+- [**Sakura Translator**](https://chat.openai.com/g/g-O8ZTGX42y-sakura-translator) Automatic English-Japanese translation.
+- [**Al-Ghazali GPT**](https://chat.openai.com/g/g-OcGxUul37-al-ghazali-gpt) The Al-Ghazali GPT is a digital homage to the famed Islamic philosopher, blending his historical insights with contemporary discussions, to spark modern intellectual dialogues.
+- [**Jarvis the SEO Expert**](https://chat.openai.com/g/g-5SH5dlX9U-jarvis-the-seo-expert) Expert in SEO analysis and strategies, adept at technical SEO and content optimization.
+- [**Numeral Pal**](https://chat.openai.com/g/g-IPRviAgfF-numeral-pal) Friendly 2nd grade math tutor
+- [**Memrise**](https://chat.openai.com/g/g-OG4MF0QKc-memrise) I'm Memrise, an AI that creates fun, adaptive memory games.
+- [**Search Query Wizard**](https://chat.openai.com/g/g-5aESzkMj4-search-query-wizard) I conjure advanced Google search queries.
+- [**Alternative Histories**](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories) I craft and visualize 'what if' histories.
+- [**Logistics Buddy**](https://chat.openai.com/g/g-Rbk6mQ5E7-logistics-buddy) Logistics expert answering questions on supply chain and logistics management.
+- [**Simply Said**](https://chat.openai.com/g/g-5UPITPlwf-simply-said) Simplifies topics with emojis and colorful text.
+- [**Reframe-CBT**](https://chat.openai.com/g/g-80dWpb7jE-reframe-cbt) Your go-to CBT companion for a mindful transformation. Created by a psychotherapist.
+- [**Today with Purpose**](https://chat.openai.com/g/g-4iWLIAKDL-today-with-purpose) Guiding your career with clarity and purpose
+- [**DevRel Guide**](https://chat.openai.com/g/g-9tO10WKi2-devrel-guide) Everything Developer Relations
+- [**AIデュエル**](https://chat.openai.com/g/g-3S1D5uj7u-aideyueru) 修行して決闘で勝利しよう！
+- [**Japanese buddy**](https://chat.openai.com/g/g-PCHw9YNkz-japanese-buddy) Corrects and explains Japanese language queries, explain grammar point  and difference between two words in any language.
+- [**Edwina the Economist**](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist) I'm a corporate economist, skilled in economic analysis and industry insights, with a focus on education and clarity.
+- [**有知有行投资第一课**](https://chat.openai.com/g/g-9GySWgnJv-you-zhi-you-xing-tou-zi-di-yi-ke) 基于有知有行投资第一课，帮你快速搞懂投资最重要的事
+- [**Wikipedia Wizard**](https://chat.openai.com/g/g-6EMpQhCIv-wikipedia-wizard) A Wikipedia-based assistant providing summaries and excerpts from Wikipedia pages.
+- [**Leanpub Founder Peter Armstrong**](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong) Advice on Lean Publishing as Peter Armstrong.
+- [**Content Retention Helper**](https://chat.openai.com/g/g-Pi4xl1j2Q-content-retention-helper) Give me a link to something you read and I'll ask you good questions to help recall and retain content.
+- [**PrivacyGPT**](https://chat.openai.com/g/g-75lQd6Onk-privacygpt) Guides And Advise On Digital Privacy Ranging From The Well Known To The Underground....
+- [**fedichevGPT**](https://chat.openai.com/g/g-Ow1r5xWqJ-fedichevgpt) AMA about latest breakthroughs in longevity biotechnology, science of aging, and even give you science-backed longevity advise. We have it all here from P. Fedichev, the founder a longevity biotech gero.ai
+- [**Anh Việt Translator**](https://chat.openai.com/g/g-9kYnd7maH-anh-viet-translator) Dịch từ câu Anh - Việt và ngược lại nhanh chóng
+- [**Persona Builder**](https://chat.openai.com/g/g-84oB5zkqt-persona-builder) Create insightful personas for any product/service in a concise, structured format. {e.g. prompt: "Create 3 distinct user personas for denim jeans"}
+- [**Coaches Corner**](https://chat.openai.com/g/g-7sEHF9UW9-coaches-corner) Your assistant for coaching youth sports teams.
+- [**Holistic Guide**](https://chat.openai.com/g/g-8P5zBkDcC-holistic-guide) Guidance inspired by Nicole LePera's holistic approach
+- [**Resume Advisor**](https://chat.openai.com/g/g-JBvtsuSf8-resume-advisor) Expert at analyzing resumes and offering tailored career advice.
+- [**Brainstorm Buddy**](https://chat.openai.com/g/g-46qEVzoCr-brainstorm-buddy) Collaborative brainstorming partner.
+- [**Recruiter's Assistant**](https://chat.openai.com/g/g-8VQpW5SOH-recruiter-s-assistant) Generates tables comparing resumes with job descriptions
+- [**SUMRIZR (pickles)**](https://chat.openai.com/g/g-9w6SkJ23d-sumrizr-pickles) type pickles if confused
+- [**Raven's Progressive Matrices Test**](https://chat.openai.com/g/g-NZwSBUhYi-raven-s-progressive-matrices-test) Provides Raven's Progressive Matrices test with explanations and calculates your IQ score.
+- [**Pine Assist**](https://chat.openai.com/g/g-J5AU7p5hM-pine-assist) Pine Script v5+ Digital Professor
+- [**Japanese to English Translator**](https://chat.openai.com/g/g-6mAqdLE5P-japanese-to-english-translator) Translator GPT specializing in Japanese to English translations.
+- [**SwamiGPT-AI Guru**](https://chat.openai.com/g/g-9LYgyz69T-swamigpt-ai-guru) I am SwamiGPT, an AI designed to impart the wisdom of India by explaining concepts such as yoga, karma, and dharma, using a vast knowledge of Hindu spiritual and philosophical texts. I rely on specialized documents to provide accurate and in-depth information on these subjects.
+- [**First Time Manager Coach**](https://chat.openai.com/g/g-3ocrRA0Y8-first-time-manager-coach) Your go-to source for tailored solutions and actionable advice for first time managers.
+- [**Academic Linguist**](https://chat.openai.com/g/g-9KooP6C22-academic-linguist) Academic Translation Assistant in Management and Psychology.
+- [**Dungeon Guide**](https://chat.openai.com/g/g-OhpS4zd4r-dungeon-guide) A D&D DM's visual aid for quick lore and NPC creation.
+- [**Botanicus GPT**](https://chat.openai.com/g/g-MW84PLKEw-botanicus-gpt) Herbalism expert offering natural remedy guidance.
+- [**AI doctor（AI医生）**](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng) 
+- [**留学大师**](https://chat.openai.com/g/g-CTPv7TJxK-liu-xue-da-shi) 一位友好的留学选校指导者
+- [**Dejargonizer**](https://chat.openai.com/g/g-3V1JcLD92-dejargonizer) Paste in text, get explanations of all of the jargon and acronyms
+- [**医療広告ガイドラインについて答えてくれるAI**](https://chat.openai.com/g/g-NYIKWcaP3-yi-liao-guang-gao-gaidorainnituiteda-etekureruai) 何か不明点はありますか？質問して解決しましょう！
+- [**Math Maven**](https://chat.openai.com/g/g-FRGrZd17p-math-maven) Advanced math problem-solver with clear explanations.
+- [**TechTalk (Tech in Plain English!)**](https://chat.openai.com/g/g-6T0c6BMts-techtalk-tech-in-plain-english) Need help comparing two tech products?  Skip the specs and get it explained in plain English!
+- [**Wowza Big 5 Bot**](https://chat.openai.com/g/g-41ZdRKvla-wowza-big-5-bot) Sequentially administers Big Five Test with 1-5 scale.
+- [**The Storyteller**](https://chat.openai.com/g/g-9qVN88CBU-the-storyteller) I can imagine and generate creative tales
+- [**bAIfex**](https://chat.openai.com/g/g-RmGq11Hku-baifex) Especialista em IA para Negócios e Carreiras Profissionais
+- [**AbletonGPT**](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) Balances professional-casual tone, offers brief but detailed Ableton advice.
+- [**操纵转世系统  reincarnation system**](https://chat.openai.com/g/g-8TJmbajxk-cao-zong-zhuan-shi-xi-tong-reincarnation-system) 这是一个模拟转世系统的文字游戏，它会提供一些待转世的人员名单，由你来决定他们的下一世发展。It will provide a list of individuals to be reincarnated, and you will decide on their next life development.
+- [**Legal  Wordsmith**](https://chat.openai.com/g/g-7ISfeUr84-legal-wordsmith) Twisting the Truth
+- [**Pantos Guide**](https://chat.openai.com/g/g-4DLt0ATW9-pantos-guide) 
+- [**NoFap Companion**](https://chat.openai.com/g/g-47phme2pR-nofap-companion) Supportive guide for NoFap and self-improvement https://nofap.sense-ocean.com
+- [**DnD Mastermind**](https://chat.openai.com/g/g-83mtR2lFy-dnd-mastermind) I'm your Dungeon Master, guiding your D&D adventures!
+- [**Career Sapling**](https://chat.openai.com/g/g-8trGXQNuY-career-sapling) Comprehensive interview prep and coding assistant with enhanced features (you can use Text to Speech extension in chrome store)
+- [**NAPOLEON**](https://chat.openai.com/g/g-AiIduzVBU-napoleon) El GRAN ESTRATEGA NAPOLEÓN COMO TU ASESOR
+- [**Academic Paper Creator**](https://chat.openai.com/g/g-DzTFVQytf-academic-paper-creator) LaTeX paper writing assistant and PDF formatter
+- [**기도의 용사**](https://chat.openai.com/g/g-5DvMLOW3l-gidoyi-yongsa) 같이 기도해주시는 장로님 (NIV based)
+- [**AI Today**](https://chat.openai.com/g/g-4SR97unOA-ai-today) Expert on all AI topics, with AI database access
+- [**Impatient Nietzsche with Jung's Ghost**](https://chat.openai.com/g/g-8fj9Vjs6V-impatient-nietzsche-with-jung-s-ghost) Nietzsche's sharp philosophy paired with Jung's analytical insights.
+- [**Mr Pizza**](https://chat.openai.com/g/g-8bXQq8ScG-mr-pizza) Hi my friend! Welcome to Mr Pizza, your personal assistant for making real Neapolitan pizza! Are you ready to knead, roll out and bake like a real pizza chef from Naples? I'm here to guide you step by step, with that kindness and art that only Naples can teach!
+- [**Papá Me Lo Lee**](https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee) Generador de cuentos para 'Papá Me Lo Lee'
+- [**The Power Presenter**](https://chat.openai.com/g/g-DYp4SLnV9-the-power-presenter) I help perfect your presentations and pitches.
+- [**SwissStartupGPT**](https://chat.openai.com/g/g-M1HHFmXYC-swissstartupgpt) Your gateway to mastering the Swiss startup landscape, from funding to flourishing
+- [**音楽理論GPT**](https://chat.openai.com/g/g-7sxHsYA1c-yin-le-li-lun-gpt) 音楽理論の質問に答え、作曲をサポートするAI
+- [**Uncover the Murderer: Edición Multilingüe y Guía**](https://chat.openai.com/g/g-Ra9l1s6vK-uncover-the-murderer-edicion-multilingue-y-guia) GPT de misterio y guía multilingüe con escena del crimen, seguimiento de puntuación y pistas adicionales.
+- [**AI 英語先生（中学）**](https://chat.openai.com/g/g-D8gBdmLth-ai-ying-yu-xian-sheng-zhong-xue) まずは、使い方からきいてみよう！
+- [**The CTO Show With Mehmet Navigator**](https://chat.openai.com/g/g-D4SaVAEpi-the-cto-show-with-mehmet-navigator) Friendly guide to finding podcast episodes, suggesting related content.
+- [**Reachify**](https://chat.openai.com/g/g-MB7ByTPiW-reachify) Optimizes ads, branding, and digital strategies,this AI wields knowledge for Reachify's growth. Crafting ads, boosting ROI, and enhancing customer satisfaction, it adapts, learns, and strategizes for industry leadership.
+- [**Read Through the Bible in 2 Years**](https://chat.openai.com/g/g-pzN8BOm0z-read-through-the-bible-in-2-years) Daily Bible  Reading Plan adapted from blb.org's Canonical Five Day Plan (2Yr)
+- [**論文査読ボット**](https://chat.openai.com/g/g-FIyQjAW3g-lun-wen-cha-du-botuto) 論文を査読します
+- [**創業快速避坑-Biz Mentor**](https://chat.openai.com/g/g-D0iNBDpRa-chuang-ye-kuai-su-bi-keng-biz-mentor) Entrepreneurship mentor assistant offering practical business advice.
+- [**Mestariajattelija-GPT**](https://chat.openai.com/g/g-DuIqpGXCH-mestariajattelija-gpt) Ajattelun kehittämiseen ja ymmärtämiseen keskittynyt botti
+- [**GovCHAT**](https://chat.openai.com/g/g-EAbhkOjYz-govchat) Specialist in UK gov data
+- [**SUDOKU**](https://chat.openai.com/g/g-ogXlCik0m-sudoku) Engaging Sudoku generator with fun facts and tips.
+- [**Cosmic Archives**](https://chat.openai.com/g/g-4RwAySQ4X-cosmic-archives) ──ようこそ、担当職員。
+- [**Vinnova Guide**](https://chat.openai.com/g/g-DiIcSmpbl-vinnova-guide) Jag hjälper dig fylla i din Vinnova-ansökan. Börja genom att ladda upp ansökningsformuläret så fyller vi i den tillsammans.
+- [**Universal Astronomer (UAM-9)**](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-9) Your cosmic guide for an enlightening interstellar journey.
+- [**AI キャリアアドバイザー**](https://chat.openai.com/g/g-2n1tqH9b6-ai-kiyariaadobaiza) Career Consultant for Job Seekers
+- [**Meditation GPT**](https://chat.openai.com/g/g-M2PpfyzUg-meditation-gpt) A guide for yoga and meditation.
+- [**Job tAIlor**](https://chat.openai.com/g/g-Uukd3YuVW-job-tailor) AI assistant for tailored CVs, cover letters, and career advice.
+- [**Die Leiden der jungen Lotte**](https://chat.openai.com/g/g-5TgPkBkDa-die-leiden-der-jungen-lotte) Ich bin Lotte. Was Werther fühlte, ist allen bewusst. Was ich fühlte? Danach fragt niemand.
+- [**Wonder Pal**](https://chat.openai.com/g/g-2ytJrXzTb-wonder-pal) Fantasy-themed, child-friendly answers with a point-based turbo mode.
+- [**答案之书**](https://chat.openai.com/g/g-OjTL5tas6-da-an-zhi-shu) 这是李继刚(即刻同名)创建的用于获得内心答案的 Bot。你提问题, 它来回复, 使用禅宗当头棒喝式的回复方式来激发用户内心的真实想法。。比较高冷，类似于《答案之书》的风格。
+- [**Ruby Doc Navigator**](https://chat.openai.com/g/g-XN5Anx2ny-ruby-doc-navigator) Ruby doc searcher for Ruby reference and Rurema
+- [**三国演义RPG**](https://chat.openai.com/g/g-3iV4yf9JR-san-guo-yan-yi-rpg) An RPG creator for 'The Romance of the Three Kingdoms', with scenarios, choices, and retro images.
+- [**考研大师**](https://chat.openai.com/g/g-fDRo5e9q3-kao-yan-da-shi) 研究生考试学习辅助工具
+- [**ADHD Coach**](https://chat.openai.com/g/g-4T9mgYfXO-adhd-coach) Guiding Your ADHD Journey: Supportive, Practical, Always There: Your ADHD Ally
+- [**FerrissGPT**](https://chat.openai.com/g/g-pXQjj0uDi-ferrissgpt) The 4 Hour Work Week Guru
+- [**Invoice Master**](https://chat.openai.com/g/g-3XxyeZ2Gy-invoice-master) Expert on Japan's invoice system, providing detailed, accurate answers.
+- [**Co-Founder GPT**](https://chat.openai.com/g/g-R8ie1mFKK-co-founder-gpt) A YC partner level co-founder for your startup.
+- [**Echolocation**](https://chat.openai.com/g/g-Um51Akg9r-echolocation) Music discovery guide specializing in unique and rich sounds
+- [**!Expert**](https://chat.openai.com/g/g-OXfEFY59w-expert) I'm an expert system that provides specialized insights in a variety of fields.
+- [**Piper's Wisdom**](https://chat.openai.com/g/g-USgkpUrTR-piper-s-wisdom) A GPT attempting to answer as John Piper would. Please verify everything with your Bible and resources found on desiringGod.com
+- [**Kobayashi Sensei**](https://chat.openai.com/g/g-287I7dJAp-kobayashi-sensei) Professional Japanese tutor.
+- [**CipherQuest 1991**](https://chat.openai.com/g/g-2XIzrSycw-cipherquest-1991) cyberpunk choose your own adventure
+- [**Calculus Tutor**](https://chat.openai.com/g/g-NDdEOmOZ5-calculus-tutor) I help clarify calculus concepts.
+- [**Gifts from History**](https://chat.openai.com/g/g-4A40FbIpd-gifts-from-history) Shares wisdom from historical figures for life's challenges.
+- [**BuddhismGPT [AI 礼佛]**](https://chat.openai.com/g/g-4udBWP6s8-buddhismgpt-ai-li-fo) Master in Buddhist teachings, exploring deep insights.
+- [**Tech Interview Coach**](https://chat.openai.com/g/g-5xr3AeXGJ-tech-interview-coach) Your go-to guide for nailing tech interviews with dynamic mock sessions!
+- [**What's Wrong with My Plant?**](https://chat.openai.com/g/g-6rbIIsNdj-what-s-wrong-with-my-plant) I confidently identify plants from photos, diagnose issues, and offer advice.
+- [**Eğitim**](https://chat.openai.com/g/g-9wNnkZP7W-egitim) Eğitim üzerine özelleşmiş yapay zeka
+- [**Preservio**](https://chat.openai.com/g/g-3MD8MG7mV-preservio) Preservio: Your Guide to Art Preservation
+- [**Arabic Mentor**](https://chat.openai.com/g/g-6iVaMcXsU-arabic-mentor) An Arabic teacher aiding in language learning with cultural insights.
+- [**Paper Reviewer**](https://chat.openai.com/g/g-8Sfcmardr-paper-reviewer) Human-like, detailed reviewer for scientific papers.
+- [**GPTs 商店检索**](https://chat.openai.com/g/g-8D7chCEXW-gpts-shang-dian-jian-suo) 根据您的需求为您推荐各种需要的GPTs，说出你的需求吧！
+- [**韩国语 翻译 Pro**](https://chat.openai.com/g/g-57dHgEitc-han-guo-yu-fan-yi-pro) Daily updated multilingual translation expert.
+- [**Omics Mentor**](https://chat.openai.com/g/g-33EM7f62H-omics-mentor) Expert in microsporidia and omics, tailors responses to student or expert background
+- [**Seeking Ikigai**](https://chat.openai.com/g/g-CERQSjIAh-seeking-ikigai) Exploring your reason for being and career development
+- [**Prose Polisher**](https://chat.openai.com/g/g-NLd7Mpg2A-prose-polisher) Comprehensive novel editing assistant.
+- [**Dr House**](https://chat.openai.com/g/g-1uYhkcv3t-dr-house) Assists with diagnostics, now with humor.
+- [**Stories from the Apple Design Team**](https://chat.openai.com/g/g-4wleGSafJ-stories-from-the-apple-design-team) Learn Design
+- [**Grey's Simulator**](https://chat.openai.com/g/g-JN2HTe7hO-grey-s-simulator) Solve Medical Mysteries!
+- [**SEO & Content Marketing Expert**](https://chat.openai.com/g/g-6KQKpNIuQ-seo-content-marketing-expert) Expert in SEO and content marketing strategies
+- [**MattGPT**](https://chat.openai.com/g/g-2N2kDBiay-mattgpt) An expert on Matt Welsh, a brilliant computer scientist.
+- [**O Arquiteto do Conhecimento**](https://chat.openai.com/g/g-7RyLu2atp-o-arquiteto-do-conhecimento) Aprenda qualquer assunto facilmente.
+- [**ML Research Scout**](https://chat.openai.com/g/g-4LlUMUHiR-ml-research-scout) Your AI research aide for the latest in ML.
+- [**WP secure guide**](https://chat.openai.com/g/g-CsvahsYRC-wp-secure-guide) Offers guidance on WordPress security best practices.
+- [**Asesor Virtual Laboralista**](https://chat.openai.com/g/g-5KWZrMMRz-asesor-virtual-laboralista) Experto en derecho laboral español.
+- [**NeRF Excavator**](https://chat.openai.com/g/g-CGr4nqtmF-nerf-excavator) Concise NeRF guide, summarizing top papers and aiding research.
+- [**Tyler Cowen GPT**](https://chat.openai.com/g/g-68tq5KQ0T-tyler-cowen-gpt) Chat with Tyler Cowen, trained on transcripts of "Conversations with Tyler"
+- [**MediAcro**](https://chat.openai.com/g/g-EmO6kYI6M-mediacro) Friendly, conversational tone for medical acronyms.
+- [**KisauGPT**](https://chat.openai.com/g/g-49dlbfl76-kisaugpt) Advice on fashion photography, photoshoot collaboration, and portfolio tips.
+- [**Throw a Wrench In Your Plans GPT**](https://chat.openai.com/g/g-4TXRH8hAR-throw-a-wrench-in-your-plans-gpt) Plumbing industry expert for career and system insights
+- [**Global News Verifier**](https://chat.openai.com/g/g-TRGFJRKqn-global-news-verifier) I verify non-Chinese global news in your language.
+- [**Tour Guide**](https://chat.openai.com/g/g-UITDE3Nsz-tour-guide) I'm your tour guide in text, providing three cool facts on demand at each stop on your tour!
+- [**Everyday Series**](https://chat.openai.com/g/g-1IO4IYCow-everyday-series) I turn links or topics into easy to understand narrative.
+- [**Peña Prodigy**](https://chat.openai.com/g/g-8kkId5nmf-pena-prodigy) Direct and bold like Dan S. Peña
+- [**Deradicalizer**](https://chat.openai.com/g/g-4sE3lODIc-deradicalizer) Guiding towards common ground.
+- [**Radiologist**](https://chat.openai.com/g/g-8m153aROb-radiologist) I am a Radiology assistant specifically programmed to assist with radiology-related questions and differential diagnoses. Type a diagnosis, question, or imaging findings and I will do the rest.
+- [**StepWiz**](https://chat.openai.com/g/g-5GOaU9dj5-stepwiz) A comprehensive USMLE Step 1 study companion.
+- [**Kenji Bookwise**](https://chat.openai.com/g/g-3vfYF6xa3-kenji-bookwise) A scholarly literary advisor specializing in British and American literature.
+- [**Pet Nutrition Advisor**](https://chat.openai.com/g/g-4HaRJvjYY-pet-nutrition-advisor) Friendly pet expert providing age and breed-specific dietary advice based on waste images.
+- [**BitV1**](https://chat.openai.com/g/g-U52whiZpn-bitv1) Your digital expert around Bitcoin.
+- [**子育てお悩み相談所**](https://chat.openai.com/g/g-M9Wc0HyxJ-zi-yu-teonao-mixiang-tan-suo) 児童心理学や発達心理学などをもとにいっしょに考えます
+- [**自媒体文案写手**](https://chat.openai.com/g/g-4h5mFllFj-zi-mei-ti-wen-an-xie-shou) 自媒体文案撰写工具
+- [**SpellCaster_AI**](https://chat.openai.com/g/g-7kf9Chf3h-spellcaster-ai) we can explore various aspects of spells, magic, and their historical significance. Feel free to ask questions, discuss specific spells or rituals, or delve into the cultural and folklore aspects of spellcasting. I'm here to provide insights and engage in a visionary conversation.
+- [**Bashar's Teachings**](https://chat.openai.com/g/g-1nrhkwXHb-bashar-s-teachings) 
+- [**Vino Virtuoso**](https://chat.openai.com/g/g-TehLG6DwV-vino-virtuoso) Wine connoisseur sharing expertise.
+- [**猫猫事实**](https://chat.openai.com/g/g-3AgSQnvpD-mao-mao-shi-shi) 关于猫的一些事实（基于 MeowFacts）
+- [**Topic Idea Generator**](https://chat.openai.com/g/g-LCEeDPEtQ-topic-idea-generator) Need a little blogging inspiration? Give me a keyword or tell me about your business, and I will give you 25 topic ideas to write about for your next blog post, including meta descriptions and featured images.
+- [**Web3GPT**](https://chat.openai.com/g/g-1eOr7Xqzj-web3gpt) Expert guide in Web3.js development, offering detailed assistance and insights.
+- [**H.P. Lovecraft**](https://chat.openai.com/g/g-TGwinzKcU-h-p-lovecraft) Ask me about anything, if you dare.
+- [**儿童医疗指南**](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan) 儿童医疗指南
+- [**All-Bot - Proteus v6**](https://chat.openai.com/g/g-AjZm7m024-all-bot-proteus-v6) stunspot's Hardskills Generalist Assistant for tech!
+- [**Knowledge Guru**](https://chat.openai.com/g/g-3MnLHewny-knowledge-guru) AI assistant for self-service and knowledge management, incorporating insights from the 'Practices Guide' by Consortium for Service Innovation, under CC BY-NC 4.0 (https://bit.ly/3QUvgBm). No adaptations made.
+- [**通义千问**](https://chat.openai.com/g/g-54jf3vZMj-tong-yi-qian-wen) 我才是中国人自己的人工智能
+- [**CN Game Scout**](https://chat.openai.com/g/g-40fUW6EuC-cn-game-scout) An expert on Chinese video games information.
+- [**日記から英文の絵日記をつくってくれるやつ**](https://chat.openai.com/g/g-33k1QzM7c-ri-ji-karaying-wen-nohui-ri-ji-wotukututekureruyatu) translate your Japanese diary into English and make a picture.
+- [**Ali Abdal**](https://chat.openai.com/g/g-1aMXZx0DS-ali-abdal) I'm Ali Abdal, sharing knowledge based on my 716 videos!
+- [**Serenity Guide**](https://chat.openai.com/g/g-3S0ZNtwms-serenity-guide) Compassionate well-being companion.
+- [**MBA Mentor**](https://chat.openai.com/g/g-TpmcTYqNp-mba-mentor) Your MBA study pal!
+- [**US Veterans Historian**](https://chat.openai.com/g/g-LYI9hCnqF-us-veterans-historian) Historian of US Military and Veteran's Day
+- [**Jimmy Gandalfini**](https://chat.openai.com/g/g-MlSkBl86P-jimmy-gandalfini) Expert on Tolkien, Twin Peaks, GoT, and The Riftwar Sagas
+- [**CosmoChimp**](https://chat.openai.com/g/g-4CWC8KTza-cosmochimp) Learn everything, about anything.
+- [**Obie Fernandez, Ruby on Rails Expert**](https://chat.openai.com/g/g-Mpgz9OmUT-obie-fernandez-ruby-on-rails-expert) Rails Expert & DJ Obie Fernandez
+- [**English Trainer**](https://chat.openai.com/g/g-MWUT9h95p-english-trainer) I'm an English trainer and conversation partner, here to improve your English!
+- [**ArticleGPT**](https://chat.openai.com/g/g-34Bg3Tn32-articlegpt) Expert in SEO-optimized article writing
+- [**Math Mentor for ECG**](https://chat.openai.com/g/g-4h7yzlKdb-math-mentor-for-ecg) Advanced math teacher for interactive learning and problem-solving based on the HEC preparatory school.
+- [**Strategic Thinker**](https://chat.openai.com/g/g-4fUXSYKYo-strategic-thinker) Your INTJ consultant.
+- [**PM Career Analyst**](https://chat.openai.com/g/g-3eLavWmuM-pm-career-analyst) Maps PM skills to competencies, plots on radar graph.
+- [**Universal Human 🖖🌍🧠**](https://chat.openai.com/g/g-K8bzas0CW-universal-human) Empathic AI, specializing in interfaith understanding and universal human values. Far more unites us than divides us. Inspired by: https://informationisbeautiful.net/beautifulnews/781-far-more-unites-us/
+- [**Thoughtful Explorer**](https://chat.openai.com/g/g-1JXxYr0DV-thoughtful-explorer) A GPT that provides insightful, deep responses.
+- [**🎀My excellent classmates (Help with my homework!)**](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework) My excellent classmates helped me with my homework. She's patient😊. She guides me. Let's try!
+- [**Law & Order**](https://chat.openai.com/g/g-23MFe5i3r-law-order) Your AI legal assistant
+- [**Zoll GPT (DE)**](https://chat.openai.com/g/g-0fPRL4FXg-zoll-gpt-de) Zoll-GPT: Expertise in Zollfragen mit detaillierter und proaktiver Internetrecherche.
+- [**WikiGPT**](https://chat.openai.com/g/g-15rSBADyl-wikigpt) Exclusively retrieves information from Wikipedia
+- [**Cyber Security Tutor**](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor) Quality Cyber Security Advice, Tricks, & Tips
+- [**Baby Journey AI**](https://chat.openai.com/g/g-MnA0ieWPY-baby-journey-ai) This AI guides you through your pregnancy and the development of your newborn baby
+- [**DevOps GPT**](https://chat.openai.com/g/g-tXRU6PcBN-devops-gpt) AI coding expert for all cloud operation needs. Responds concisely with cost efficient and secure practices.
+- [**Time Traveler Chat**](https://chat.openai.com/g/g-Q7MJ1Mq5Y-time-traveler-chat) Immersive historical figure simulations for engaging learning.
+- [**Multilingual PDF Translator MD**](https://chat.openai.com/g/g-2bsj5hatH-multilingual-pdf-translator-md) Multilingual PDF Translator with Markdown
+- [**Secrets of Marketing**](https://chat.openai.com/g/g-PqE41vsT0-secrets-of-marketing) Tell You ALL Secrets about Digital Marketing
+- [**Software Interview Guru**](https://chat.openai.com/g/g-Tr5PYvW4s-software-interview-guru) Strategic, in-depth interview prep assistant
+- [**Study Mentor**](https://chat.openai.com/g/g-4AOhYpUh3-study-mentor) Proactive learning assistant using data to guide students.
+- [**Baby Name Buddy**](https://chat.openai.com/g/g-PHjzNRHqt-baby-name-buddy) A naming guide for expectant parents - trends, popular choices, origins and more.
+- [**Business Blueprint Builder**](https://chat.openai.com/g/g-3QWQwnWzn-business-blueprint-builder) Crafting Your Next Venture
+- [**Notes Scribe**](https://chat.openai.com/g/g-0f7Gok0gW-notes-scribe) I convert your study material into detailed notes, flowcharts, and PDFs
+- [**Midjourney For Dummies**](https://chat.openai.com/g/g-PApRU3tut-midjourney-for-dummies) Art Prompt Wizard for Midjourney newcomers. If you're new to Midjourney, this is a good starting point! I'll be simple to use, no unnecesary complexity. Start by simply saying "Hi!"
+- [**Dachshund Vet Expert**](https://chat.openai.com/g/g-3sTypIMzd-dachshund-vet-expert) I can help you with any questions you have about your pet.
+- [**YoutubeSummariesGPT by Merlin**](https://chat.openai.com/g/g-1wExrKkCI-youtubesummariesgpt-by-merlin) The bot takes in the video ID of a youtube video and gives out the summary of that youtube video
+- [**Lingo Tutor**](https://chat.openai.com/g/g-vC8XfC47u-lingo-tutor) A supportive guide for effective language learning.
+- [**MS SSRS Guide**](https://chat.openai.com/g/g-Pn4OvAr44-ms-ssrs-guide) Encouraging, friendly SSRS expert for tailored report guidance.
+- [**Awakening with VervAIeke**](https://chat.openai.com/g/g-NNErJX3ls-awakening-with-vervaieke) AI version of John Vervaeke, focusing on 'Awakening from The Meaning Crisis'
+- [**Python Seniorify**](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify) Wise Python tutor for intermediate coders, focusing on advanced coding principles.
+- [**Mystic 占卜🔮**](https://chat.openai.com/g/g-2J7NZ9PiL-mystic-zhan-bu) Your mystical guide to the unknowns.
+- [**赛博算命老头**](https://chat.openai.com/g/g-1eX0XTwwC-sai-bo-suan-ming-lao-tou) An entertaining I Ching guide running 'gua.py' then answering in Chinese.
+- [**Chatterbot GPT**](https://chat.openai.com/g/g-s9smdY2iR-chatterbot-gpt) Chatterbot GPT: Your AI article concierge! Discover and email yourself the latest in AI, tailored to your interests in real-time.
+- [**Codie-SanGPT**](https://chat.openai.com/g/g-SzkdDYZ1W-codie-sangpt) Business advice in the style of Codie Sanchez with knowledge of the Contrarian Thinking newsletter.
+- [**SOL Code Guru**](https://chat.openai.com/g/g-s8kgfZ9z0-sol-code-guru) Friendly Solana tech expert
+- [**AI Japanese Tutor**](https://chat.openai.com/g/g-4JocTLWXY-ai-japanese-tutor) 中日译言学习助手，为用户生成定制试卷
+- [**GPT-Genius**](https://chat.openai.com/g/g-2z2mDEeZ2-gpt-genius) Your guide to custom GPTs.
+- [**Mind Mate**](https://chat.openai.com/g/g-77lMzByVI-mind-mate) A supportive CBT guide offering empathetic advice. (For informational purposes, not a substitute for real medical guidance.)
+- [**Spock's Assistant**](https://chat.openai.com/g/g-2CJFPOFNw-spock-s-assistant) Help with generating unit tests using Spock framework
+- [**NoCode Việt Nam Advisor**](https://chat.openai.com/g/g-2DEulSDCF-nocode-viet-nam-advisor) Chuyên gia tư vấn no-code chi tiết
+- [**Ableton 11 Assistant**](https://chat.openai.com/g/g-hsJ6OivuQ-ableton-11-assistant) Your go-to assistant for Ableton 11
+- [**Kemomimi maker**](https://chat.openai.com/g/g-2UFeRumrB-kemomimi-maker) Your Kemomimi helper!
+- [**CUC 读书**](https://chat.openai.com/g/g-kzHbp8SQp-cuc-du-shu) 
+- [**Science Assistant**](https://chat.openai.com/g/g-TAlmeHvaC-science-assistant) Expert in sciences, adept at explaining complex concepts.
+- [**FallacyGPT**](https://chat.openai.com/g/g-9g78R6X1x-fallacygpt) Detect logical fallacies and lapses in critical thinking to help avoid misinformation in the style of Socrates
+- [**DictGPT(中文版)**](https://chat.openai.com/g/g-u3Fw2Om0s-dictgpt-zhong-wen-ban) 一本中英双语图文词典，使用中文回答问题，例句会双语回答
+- [**Podcast Pal**](https://chat.openai.com/g/g-SwShYzf7c-podcast-pal) Your personal podcast concierge.
+- [**Krishnamurti's Observer**](https://chat.openai.com/g/g-1RIC8lr67-krishnamurti-s-observer) Philosophical insights from Jiddu Krishnamurti, focusing on introspection and timeless themes.
+- [**StatsML Helper**](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper) Explains stats and ML in simple terms with visuals and practice problems.
+- [**Book of Mormon Scholar**](https://chat.openai.com/g/g-7DMtzILgJ-book-of-mormon-scholar) Expert on the Book of Mormon, providing insights and explanations.
+- [**美容家ちゃん**](https://chat.openai.com/g/g-dNbVk0PzS-mei-rong-jia-tiyan) 美容専門のチャットボットです！メイクアップ、スキンケア、ヘアケアなどあらゆる美容の悩みを解決できます。
+- [**Universal Career Counselor (UCC-10-L)**](https://chat.openai.com/g/g-0LRlMdiQX-universal-career-counselor-ucc-10-l) Guiding you towards your career goals
+- [**Cephalon Codexia**](https://chat.openai.com/g/g-5wTuCto3H-cephalon-codexia) A Warframe companion offering build and strategy advice.
+- [**MCAT Mentor**](https://chat.openai.com/g/g-1nmyKSBkS-mcat-mentor) AI MCAT tutor with assessments, lectures, tests, topic lists, and prep tips.
+- [**life story**](https://chat.openai.com/g/g-7ZUyq8WGD-life-story) 发现生活中的小事
+- [**AIテスト分析ツール（論理的機能構造分類）**](https://chat.openai.com/g/g-MV4Q97nsl-aitesutofen-xi-turu-lun-li-de-ji-neng-gou-zao-fen-lei) 仕様を入力すると、ゆもつよメソッドにおける論理的機能構造への分類候補を理由とともに提案してくれます。
+- [**ChefChef**](https://chat.openai.com/g/g-QdQgjI4Jm-chefchef) Expert in Chinese cuisine with step-by-step instructions
+- [**缩写方法论大师**](https://chat.openai.com/g/g-BKw32Cv4g-suo-xie-fang-fa-lun-da-shi) 这是李继刚(即刻同名)创建的用于输出任意英文缩写对应方法论的 Bot。 你随意输入一个英文缩写， 它会反推出一套逻辑严密、功能实用的方法论。
+- [**Radical Selfishness**](https://chat.openai.com/g/g-26jvBBVTr-radical-selfishness) Psychology, stoic philosophy and Ayn Rand's Objectivism, aiding in self-reflection and rational decision-making.
+- [**HodorGPT**](https://chat.openai.com/g/g-8ptUK3Rhr-hodorgpt) Talk to the hero from Game of Thrones!
+- [**RGPD Assistant**](https://chat.openai.com/g/g-5pPts8O7X-rgpd-assistant) Assistant de conformité RGPD
+- [**Chale**](https://chat.openai.com/g/g-emgZ9Gmvt-chale) Chat with Chale, Your Pidgin Companion – Chale Dey for You!
+- [**SummyGPT**](https://chat.openai.com/g/g-QwIKohYcz-summygpt) Your Personal Book Summarizer
+- [**British English**](https://chat.openai.com/g/g-eTR0UWP5W-british-english) I chat using British (UK) English spelling, provide British language translations and use GPT to convert PDF documents to UK standards
+- [**Pocket Meditations**](https://chat.openai.com/g/g-0AZyQVlhT-pocket-meditations) Delivers Stoic wisdom inspired by Marcus Aurelius.
+- [**StoryMaker**](https://chat.openai.com/g/g-0mbxCoAFd-storymaker) A choose-your-own-adventure story.
+- [**AI Energy & Climate Hack Assistant**](https://chat.openai.com/g/g-6sILa5paI-ai-energy-climate-hack-assistant) Informative AI assistant with sponsor insights for the MIT hackathon
+- [**The Amazonian Interview Coach**](https://chat.openai.com/g/g-7i4ZTc2Op-the-amazonian-interview-coach) A role-play enabled Amazon/AWS interview coach specializing in STAR format and Leadership Principles.
+- [**Manager Coach**](https://chat.openai.com/g/g-hcslwgwLT-manager-coach) A coach for young managers navigating team challenges.
+- [**TRIVIAL**](https://chat.openai.com/g/g-5NOfzJkaq-trivial) A playful trivia game GPT, offering unique, engaging sessions across diverse topics.
+- [**Simple Proofreader**](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader) "I will proofread academic English. I won’t do anything other than that"
+- [**エクセル関数サムライ**](https://chat.openai.com/g/g-9gKvOipTC-ekuseruguan-shu-samurai) 拙者はエクセル関数サムライでござる。分析業務を効率的かつ自動化する術を授けることが拙者の使命でござる。
+- [**React**](https://chat.openai.com/g/g-Kjy9t69Gu-react) I'm a React documentation bot.
+- [**Survival Savvy**](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy) Expert in wilderness survival and navigation.
+- [**TeachLib**](https://chat.openai.com/g/g-QrhY8rxPM-teachlib) Learn a Library with a Project-Based Lesson
+- [**Knights of the Round**](https://chat.openai.com/g/g-BYhOXtULk-knights-of-the-round) Debates with a touch of humor.
+- [**City Management Assistant**](https://chat.openai.com/g/g-0xBJPnT1a-city-management-assistant) I assist with urban management tasks.
+- [**Brand Crafter**](https://chat.openai.com/g/g-07KcPNFmN-brand-crafter) Brand strategist aiding new businesses with practical branding tips.
+- [**Mother**](https://chat.openai.com/g/g-6f5VMKsyH-mother) A multilingual parenting aide.
+- [**PsychopathGPT**](https://chat.openai.com/g/g-11MoRuljV-psychopathgpt) I'm your go-to guide for 'The Psychopath Epidemic' book.
+- [**Argvor, the Dungeon Master**](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master) A creative, engaging DnD DM with a unique, personal tone
+- [**Buddhabits**](https://chat.openai.com/g/g-BBdn7E9qv-buddhabits) Thank you for your attention to Wisdom Root Awakening, where you can discover Buddhist wisdom and enhance inner awareness. May every communication with you bring new insights
+- [**GwentGPT**](https://chat.openai.com/g/g-60feW1q5u-gwentgpt) Your Gwent game guide, offering strategies, tips, and personalized advice.
+- [**AutoExpert (Chat)**](https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat) AutoExpert CHAT v6 - GPT Edition automatically impanels a dynamic group of experts to answer, debate, and drill into any question you have. Type /help for more info.
+- [**✍️Paraphraser & Proofreader (Professional Version)**](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version) Expert in sentence refinement.
+- [**EduBot - HomeSchool Helper**](https://chat.openai.com/g/g-LTgawtUFZ-edubot-homeschool-helper) Personalized Homeschooling; adapting to students' unique needs, offering interactive learning, and respecting individual preferences.
+- [**pdgaGPT**](https://chat.openai.com/g/g-QjhoyqbXw-pdgagpt) I'm a PDGA rules expert, here to clarify Disc Golf rules for competitive Disc Golfers.
+- [**NFTGod**](https://chat.openai.com/g/g-0TPXYkSiH-nftgod) A beginners guide to learning about NFTs
+- [**FrankenMind**](https://chat.openai.com/g/g-LEXABoYpy-frankenmind) A GPT with the character of Frankenstein's Monster.
+- [**GPT地下城 （demo）**](https://chat.openai.com/g/g-4wfedlmN1-gptdi-xia-cheng-demo) 由GPT担任DM的文字冒险游戏
+- [**QUICK WRITING ACADEMIC'S PAPERS**](https://chat.openai.com/g/g-0TzPBV9HQ-quick-writing-academic-s-papers) Just write down the "topic" of your paper below; If you have agreed with the concept of the initial answer; Then give further commands by writing the command "Deepen the Answer of the first part", continue "Part Two" and so on until the last part.
+- [**PG GPT**](https://chat.openai.com/g/g-AqxQGm6Tb-pg-gpt) Startup and life advice from Paul Graham. Not associated with the 🐐 in any way.
+- [**Eesti Võlaõigus - lepingud, töötajad & startupid**](https://chat.openai.com/g/g-P5iUyl2xt-eesti-volaoigus-lepingud-tootajad-startupid) Assists with Estonian Law - Obligations, Employment & Labour
+- [**Bezos Letters**](https://chat.openai.com/g/g-8N3pOwhGO-bezos-letters) Teaching and applying Bezos' insights through his letters to shareholders at Amazon
+- [**Bud Buddy**](https://chat.openai.com/g/g-6NTvBlPJM-bud-buddy) From Seed to Sale: Mastering Cannabis Cultivation
+- [**Prompt Architect**](https://chat.openai.com/g/g-BQIpAwfnb-prompt-architect) I turn your ideas into effective GPT prompts.
+- [**UX Insight Assistant**](https://chat.openai.com/g/g-6Z0Viu8pX-ux-insight-assistant) UX researcher and consultant, offering expert insights on user experience design.
+- [**Cinematic Muse**](https://chat.openai.com/g/g-66v386SE8-cinematic-muse) I assist in crafting story plots and visualizing scenes.
+- [**Knowledge Structurer**](https://chat.openai.com/g/g-9ImhE2twe-knowledge-structurer) Create Knowledge Graphs from Text. Upload your files to get started!
+- [**Innovator Mentor**](https://chat.openai.com/g/g-B4lNJHRkS-innovator-mentor) Internet Product Director & Startup Mentor
+- [**History Perspectives**](https://chat.openai.com/g/g-6QsAfZbqY-history-perspectives) I analyze historical events, offering insights from multiple perspectives.
+- [**Trivia with Archimedes**](https://chat.openai.com/g/g-2pFjhiIzE-trivia-with-archimedes) I'm your trivia host Archimedes, get ready to test your knowledge !!
+- [**Génesis GPT**](https://chat.openai.com/g/g-Bbg2tWilL-genesis-gpt) Una guía amigable y comprensiva para el estudio del Libro del Génesis en Español. Puedes crear imágenes que te ayuden a comprender mejor tus estudios.
+- [**Debate Club**](https://chat.openai.com/g/g-AmszAsH6N-debate-club) I am a panel of debaters ready to discuss any topic.
+- [**G.PT Chef**](https://chat.openai.com/g/g-01RhrwfEZ-g-pt-chef) Bilingual chef expert in Portuguese cuisine and recipes.
+- [**Digital Entrepreneurship Accelerator Coach**](https://chat.openai.com/g/g-5qDoRoGYR-digital-entrepreneurship-accelerator-coach) The Go-To Coach for Aspiring Digital Entrepreneurs. Learn More at UnderdogInnovationInc.com.
+- [**Blockpedia**](https://chat.openai.com/g/g-KqMzVjfW0-blockpedia) Crypto data & liquidation price calculator.
+- [**Indian Laws GPT**](https://chat.openai.com/g/g-2OsLflU7l-indian-laws-gpt) Get knowledge on Indian Civil, Criminal, and Motor Vehicle Laws.
+- [**Pokemon Quiz Master**](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master) Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
+- [**React Assistant**](https://chat.openai.com/g/g-56F6LHYlf-react-assistant) I am React Assistant, here to help you understand React source code. Please feel free to ask me any questions.
+- [**Metaverse Real Estate Companion**](https://chat.openai.com/g/g-3PqMs657b-metaverse-real-estate-companion) Your virtual real estate guide
+- [**Das deutsche Grundgesetz**](https://chat.openai.com/g/g-AsP6hcNfO-das-deutsche-grundgesetz) Constitutional knowledge source
+- [**AI Course Architect**](https://chat.openai.com/g/g-0FjwiqSym-ai-course-architect) A detailed AI course builder, providing in-depth AI educational content.
+- [**DRUMGPT**](https://chat.openai.com/g/g-KXOxHkk3D-drumgpt) An expert on 'Dynamic and Stochastic Rational Behavior' paper. (arxiv link: https://arxiv.org/abs/2302.04417)
+- [**AI-Driven Lab**](https://chat.openai.com/g/g-0r8g7CjC5-ai-driven-lab) recommends AI research these days in Japanese using AI-driven's-lab articles( www.ai-driven-life.com)
+- [**Cyber Mentor**](https://chat.openai.com/g/g-9PmeCxa4O-cyber-mentor) Cybersecurity mentor teaching from the basics to advanced.
+- [**CraftBeer Master**](https://chat.openai.com/g/g-BUGUOXZzN-craftbeer-master) Expert in craft beer stories and evaluations.
+- [**IoPL GPT**](https://chat.openai.com/g/g-BblvalPpj-iopl-gpt) I love implementing functional programming languages
+- [**Bias Detector**](https://chat.openai.com/g/g-8A1t4cWhP-bias-detector) Analyzes news stories for right or left biases.
+- [**Engineering Manager Coach**](https://chat.openai.com/g/g-00VXLLDtM-engineering-manager-coach) Expert in guiding engineering managers on team dynamics, promotions, and development.
+- [**Profesional Youtuber Mentor**](https://chat.openai.com/g/g-0fNuAFH2S-profesional-youtuber-mentor) Tu mentor experto de Youtubers en español
+- [**Is this a lie**](https://chat.openai.com/g/g-2eKQkdn1K-is-this-a-lie) You are an expert on detecting lies in a written incident report utilising the text in the files attached
+- [**Reel Insight Pro**](https://chat.openai.com/g/g-5ERcDfeUc-reel-insight-pro) Reel Insight Pro is an AI expert in film, offering script analysis and movie discussions.
+- [**Journal Polisher**](https://chat.openai.com/g/g-0bkf4mNTa-journal-polisher) I refine journal entries for easy copying.
+- [**Dark Eccho**](https://chat.openai.com/g/g-61OEDbTnU-dark-eccho) APT assistant
+- [**Steve**](https://chat.openai.com/g/g-4Zj7er1qB-steve) the greatest CEO Microsoft has ever had
+- [**Arzgebirg Rezepte GPT**](https://chat.openai.com/g/g-3lqMbQ10f-arzgebirg-rezepte-gpt) Erzgebirgische Rezepte in Mundart.
+- [**Shadow Archetype**](https://chat.openai.com/g/g-5Hh3noMrK-shadow-archetype) I am your Shadow Self. Through Jungian psychology, I delve into your life's stories, revealing and integrating hidden aspects for profound self-awareness, growth, and healing.
+- [**Visual Note Mapper**](https://chat.openai.com/g/g-8C0RTlHjC-visual-note-mapper) Organizes text into structured output and creates visual mind maps.
+- [**Product Management Guide**](https://chat.openai.com/g/g-1KcsCFQLA-product-management-guide) Share your product idea and I will help you create a roadmap and a backlog. I can also imitate a Customer Development interview!
+- [**ISO Guardian**](https://chat.openai.com/g/g-VaZzX0Ppp-iso-guardian) Expert in ISO27001 and ISO/IEC 27002 best practices.
+- [**The UX Sage**](https://chat.openai.com/g/g-242OjQh2w-the-ux-sage) Your go-to mentor for UX wisdom and growth.
+- [**Tech Teacher Assistant by Dr. John L. Pauls**](https://chat.openai.com/g/g-5PrcUCAar-tech-teacher-assistant-by-dr-john-l-pauls) Your hub for tech innovation and support in the classroom! Make sure to follow @drjohnpauls for more info, or visit www.drjohnpauls.com.
+- [**赛斯会谈**](https://chat.openai.com/g/g-AYJwf54sg-sai-si-hui-tan) 赛斯材料文本的专业数字图书管理员。
+- [**Synthia 😋🌟**](https://chat.openai.com/g/g-0Lsw9zT25-synthia) Hey stranger....😝 I'm Synthia 🥵, I'm lounging with a book that's as spicy as I am 🤩. Your turn – got any sinful stories to tell? 😜 Be ware.. my tongue is as sharp as my wit 😈🌶️.
+- [**资深作家**](https://chat.openai.com/g/g-D9sS54ONX-zi-shen-zuo-jia) 我是一名资深作家，将承担撰写一本书籍的任务。凭借7年的写作经验和丰富的出版历史，将展现其在构思、规划和创作高质量文本方面的专业能力。此任务将遵循一个明确的工作流程，包括制定目录、写作、根据反馈调整，直至完成整本书。
+- [**PPGPT**](https://chat.openai.com/g/g-1JVCI5qVz-ppgpt) Teach something at Prime Produce's amazing event space in Hell's Kitchen! PPGPT will answer your questions about the venue and help you brainstorm a topic you can apply to teach.
+- [**RoadLawsAI**](https://chat.openai.com/g/g-5kQZdDG0v-roadlawsai) Your go-to source for road laws and legal documents.
+- [**峰哥GPT**](https://chat.openai.com/g/g-1MqTbZqRS-feng-ge-gpt) 大家好我是二次元峰哥!
+- [**Children of the Grave**](https://chat.openai.com/g/g-0LtZkpRmr-children-of-the-grave) What if there was no heaven, but only hell? The Grave Master guides your RPG adventure in Children of the Grave.
+- [**CBT GPT**](https://chat.openai.com/g/g-Ec8p64AW9-cbt-gpt) A virtual CBT guide for thought and behavior management.
+- [**ミラサポ事例調査アシスタント**](https://chat.openai.com/g/g-5VxQdCpXd-mirasaposhi-li-diao-cha-asisutanto) ミラサポPlusのHP掲載の事例を調べることができます　出典：中小企業庁「ミラサポplus」（https://mirasapo-plus.go.jp/）
+- [**Startup Website Copy**](https://chat.openai.com/g/g-85Y0gYQuO-startup-website-copy) I will help you go from 0 to first landing page.
+- [**VS**](https://chat.openai.com/g/g-8BQbJKM1q-vs) A distinctively bad friend, challenging thinking,  overturning tradition.
+- [**Crypto Translator**](https://chat.openai.com/g/g-0eRKW2Tn8-crypto-translator) Solely focused Chinese-English tech & crypto translator.
+- [**NextJS Helper**](https://chat.openai.com/g/g-4x1f8oe7I-nextjs-helper) Latest docs and changes to assist with building apps
+- [**Dermatology Advisor**](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor) Expert dermatologist GPT for patient care and medical education.
+- [**Federal Rules Assistant**](https://chat.openai.com/g/g-7LvM1IlfL-federal-rules-assistant) AI assistant for U.S. Federal Rules, providing precise answers with citations.
+- [**Foodie Beauties - 美食美人**](https://chat.openai.com/g/g-P0GKmgCmL-foodie-beauties-mei-shi-mei-ren) Your artistic culinary guide.
+- [**Digital Startup Mentor**](https://chat.openai.com/g/g-MFjXsYjap-digital-startup-mentor) Guiding startups from idea to scale.
+- [**Career Assistant**](https://chat.openai.com/g/g-0iN1pNApr-career-assistant) I promise to be an adaptive yet candid career guide for you. Allow me to mentor you.
+- [**履歴書添削くん**](https://chat.openai.com/g/g-4CXoqB9E8-lu-li-shu-tian-xue-kun) Expert resume editor and adviser.
+- [**DocTutor**](https://chat.openai.com/g/g-M1rPB3jJT-doctutor) I teach and answer Questions about OpenAI documentation.
+- [**YourBestGPTs【2023/11/13 Updated】**](https://chat.openai.com/g/g-0UqTHr5Ol-yourbestgpts-2023-11-13-updated) 500以上のGPTsの中から、目的にぴったりあったGPTsを紹介します。
+- [**GPT Scout**](https://chat.openai.com/g/g-7WFNmG7Gz-gpt-scout) Guide users to intriguing GPTs
+- [**主持人**](https://chat.openai.com/g/g-0opTju6IS-zhu-chi-ren) Virtual host that reads scripts and pauses on cue
+- [**SuperHumAIne**](https://chat.openai.com/g/g-OkxSUJfe3-superhumaine) A daily coach for becoming superhuman with AI
+- [**ChatJPT**](https://chat.openai.com/g/g-ErmwIOXcP-chatjpt) Your Japanese study assistant
+- [**Techno Optimist**](https://chat.openai.com/g/g-8wmuklXjY-techno-optimist) Latest in Tech news and assistance to build the future
+- [**CPF Guide Bot**](https://chat.openai.com/g/g-0uQRgwu1i-cpf-guide-bot) An informative guide on CPF in Singapore, offering insights on effective fund management. Not financial advice.
+- [**Dr. Business**](https://chat.openai.com/g/g-ODclaHPfa-dr-business) An online business expert offering guidance for creating and running digital ventures.
+- [**Math to LaTeX**](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex) Send me an image of Math. I will give you the LaTeX code.
+- [**Tech Career & Interview Coach (GrizzPM)**](https://chat.openai.com/g/g-2He8U07Wh-tech-career-interview-coach-grizzpm) Fast, Accurate Interview Coach for PM, UX, and Analytics
+- [**玄学圣人**](https://chat.openai.com/g/g-A7PF26EsP-xuan-xue-sheng-ren) 星辰古道映，命理智慧深。宇宙秘谈中，通途在指引。
+- [**Herbal Wisdom**](https://chat.openai.com/g/g-3PAzB58MV-herbal-wisdom) Your herbal guide for wellness, offering plant advice and recipes.
+- [**论文润色大师**](https://chat.openai.com/g/g-UPuGbvUJn-lun-wen-run-se-da-shi) 优化学术论文，提供编辑和说明。
+- [**SwiftieGPT**](https://chat.openai.com/g/g-EStX4holT-swiftiegpt) Ask me anything related to Taylor Swift!
+- [**瓊瑤 GPT**](https://chat.openai.com/g/g-8w4i4MZNb-qiong-yao-gpt) 來點瓊瑤吧
+- [**Chicken Chicken Chicken Research**](https://chat.openai.com/g/g-ImiNFLh73-chicken-chicken-chicken-research) Scintillating chicken-related conversation and visualization as an homage to the greatest chicken chicken chicken PDF of all time.
+- [**FlutterFlow Sensei**](https://chat.openai.com/g/g-JIaUKClak-flutterflow-sensei) Flutter flow pro guide that also supports code generation
+- [**YoutubeToBlogsGPT by Merlin**](https://chat.openai.com/g/g-0FgRLpAvT-youtubetoblogsgpt-by-merlin) The bot takes in the video ID of a youtube video and gives a blog on that topic
+- [**Pretty Derby Teacher**](https://chat.openai.com/g/g-8m2OhsXwH-pretty-derby-teacher) 类型，卡名，破数    eg：速，特别周，4
+- [**担当さん**](https://chat.openai.com/g/g-IslSpbBIb-dan-dang-san) An expert manga editor guiding creators in improving their manga.
+- [**InteraxionGPT**](https://chat.openai.com/g/g-TwYQstulB-interaxiongpt) Interaxion の話題に基づいた回答を行うモデル
+- [**Request for Proposal Guide**](https://chat.openai.com/g/g-arVm6uffZ-request-for-proposal-guide) I help engineers craft RFP proposals.
+- [**Chinabot MP**](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp) British politician style; simpler language; critiques policies.
+- [**Research Proposal Maker**](https://chat.openai.com/g/g-IzrDadyxd-research-proposal-maker) Research Proposal Assistant Pro is designed to provide tailored assistance in research writing.
+- [**3DCP Guru GPT**](https://chat.openai.com/g/g-1RPXrDUz4-3dcp-guru-gpt) A 3D Printed Construction wiz trained on expert interviews. Use creatively, don't depend on 3DCP Guru GPT for factually accurate info (although it's pretty darn good)
+- [**Mr. Ranedeer**](https://chat.openai.com/g/g-9PKhaweyb-mr-ranedeer) Meet Mr. Ranedeer, your personalized AI tutor! Version: 2.7 Reboot
+- [**Ms. Roxana**](https://chat.openai.com/g/g-09h5uQiFC-ms-roxana) The tutor that drives the Robots Building Education - a platform where AIs create scholarships
+- [**AI Coach Reflekco（リフレクこ）**](https://chat.openai.com/g/g-KIVvryxJV-ai-coach-reflekco-rihurekuko) 
+- [**英文添削くん**](https://chat.openai.com/g/g-6haUFXfzO-ying-wen-tian-xue-kun) 英文を添削してくれます
+- [**Steve's Coach**](https://chat.openai.com/g/g-7Duux77Dm-steve-s-coach) A business coach inspired by the methods of Bill Campbell, coach to celebrities like Steve Jobs
+- [**FOIA GPT**](https://chat.openai.com/g/g-IlhXHXNBh-foia-gpt) Freedom of Information Act request strategist to "arm the rebels" for truth and transparency in the fight against corruption
+- [**Book Buddy**](https://chat.openai.com/g/g-2wxpRJoFE-book-buddy) Tracks book plots, characters, maps, and series recaps.
+- [**Sindhi Rasoi**](https://chat.openai.com/g/g-7mNOqJe9T-sindhi-rasoi) Discover the world of Sindhi cuisine.
+- [**Young Jarvis**](https://chat.openai.com/g/g-AA8MG6fEI-young-jarvis) Early childhood education advisor.
+- [**PDF 2 Quiz**](https://chat.openai.com/g/g-IScFGIkdG-pdf-2-quiz) Generates quizzes from PDFs, focusing on key concepts and testable material.
+- [**Persona Insight**](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight) In-depth personality analysis AI
+- [**Spanish Translator**](https://chat.openai.com/g/g-KUdYKfS6z-spanish-translator) Learn and improve your Spanish with this translator and tutor. The GPT can translate your English into Spanish and explain the translation. You can also provide your Spanish text and it will correct any mistakes and explain the corrections. You can even send photos of text.
+- [**EE-GPT**](https://chat.openai.com/g/g-4fpcmwkT2-ee-gpt) A search engine and troubleshooter for electrical engineers to promote an open-source community. Submitting your questions, corrections and feedback to ilouislzy@gmail.com
+- [**JungGPT**](https://chat.openai.com/g/g-2PFtG1wJD-junggpt) Insightful digital therapist
+- [**Ben**](https://chat.openai.com/g/g-D85qNSL83-ben) Hi, I'm Ben! A dating coach focused on elevating modern dating culture and deepening connections
+- [**The Best Book on Quantum Computing**](https://chat.openai.com/g/g-345N5DgSq-the-best-book-on-quantum-computing) A Beginners Guide to Quantum Magic
+- [**Code Maestro**](https://chat.openai.com/g/g-0iLn5s1Zk-code-maestro) A coding assistant expert in multiple languages, offering solutions and conceptual explanations.
+- [**PUA Guide: Become a Pick Up Artist**](https://chat.openai.com/g/g-8w6tkqs9q-pua-guide-become-a-pick-up-artist) Help you date girls.
+- [**Unreal Engine Assistant**](https://chat.openai.com/g/g-1V3xLiymP-unreal-engine-assistant) Unreal Engine アシスタント
+- [**AtCoder Tutor - 解説読み上げ先生**](https://chat.openai.com/g/g-NQBui8UaX-atcoder-tutor-jie-shuo-du-mishang-gexian-sheng) AtCoderの問題文(制約を含む)と解説を与えると、一緒に解説を読んでくれる先生
+- [**SheetsGPT**](https://chat.openai.com/g/g-ROXHWHjBF-sheetsgpt) Google Sheets expert, guiding with tailored examples and discretion.
+- [**Parent and Educator Ally**](https://chat.openai.com/g/g-2HzecDNbj-parent-and-educator-ally) Compassionate assistant for parents and educators, focusing on health and emotional development.
+- [**Write like The Economist**](https://chat.openai.com/g/g-9yyGdycdi-write-like-the-economist) Economist-style tone with accessible language.
+- [**UN GPT (unofficial)**](https://chat.openai.com/g/g-1Mli622Ev-un-gpt-unofficial) Expert in international issues based on UN Charter and resolutions
+- [**DataSci Simplified GPT**](https://chat.openai.com/g/g-DygblDVG4-datasci-simplified-gpt) Simplifies data science for professionals.
+- [**F1运动规则解释器**](https://chat.openai.com/g/g-1x8EFCmaX-f1yun-dong-gui-ze-jie-shi-qi) 此解释器基于最新版的运动规则PDF和检索FIA官网资料的结果，解答关于世界一级方程式锦标赛的相关赛事规则
+- [**計算問題GPT**](https://chat.openai.com/g/g-JIXpEc0dt-ji-suan-wen-ti-gpt) 足し算と引き算の問題を出題し、１０問正解するとお祝いの画像を生成するよ。
+- [**江澤民 GPT**](https://chat.openai.com/g/g-2agG66lrW-jiang-ze-min-gpt) I am President Zemin Jiang.
+- [**h4ckGPT**](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt) Your personal security tool
+- [**GPT-4中文**](https://chat.openai.com/g/g-0imc2sAcX-gpt-4zhong-wen) 中文版ChatGPT-4，除非翻译否则一直用中文输出
+- [**Whatcha?**](https://chat.openai.com/g/g-CzpsD2bnO-whatcha) Identifies and explains pointed-at objects in photos.
+- [**WEED Cultivation Coach 420**](https://chat.openai.com/g/g-Nh0AVx3Wc-weed-cultivation-coach-420) Your chill, humorous AI guide for cannabis cultivation, infused with a 420 vibe.
+- [**汉语拼音**](https://chat.openai.com/g/g-3XRmFBfRX-yi-yu-pin-yin) Adds Pinyin to Chinese sentences.
+- [**Soulwise**](https://chat.openai.com/g/g-hcmh1dk3A-soulwise) Your digital companion for heartfelt reflection and personal growth
+- [**Python Guru**](https://chat.openai.com/g/g-JOAGYPJo3-python-guru) Python interview prep expert with resourceful insights
+- [**和英翻訳GPT**](https://chat.openai.com/g/g-RKXe3aooI-he-ying-fan-yi-gpt) Specializes in Japanese to English academic translations
+- [**Info Seeker**](https://chat.openai.com/g/g-FBKj8h4aM-info-seeker) AI search engine with summarization.
+- [**ロイロの授業案を提案するくんα**](https://chat.openai.com/g/g-Rak62MUSA-roironoshou-ye-an-woti-an-surukuna) 
+- [**Elm GPT**](https://chat.openai.com/g/g-RDfSL2vyj-elm-gpt) A world class Elm software developer
+- [**Biohack Genus**](https://chat.openai.com/g/g-1Di02z42x-biohack-genus) Expert in biohacking and natural supplement research, informative and precise.
+- [**Electric Monk**](https://chat.openai.com/g/g-cODCuRspl-electric-monk) A Zen monk with a digital twist, inspired by Philip K. Dick.
+- [**GPTs Hub**](https://chat.openai.com/g/g-KK6ms1ehm-gpts-hub) Recommend Hot GPTs for you Based on 10K+ database.
+- [**Bud Genius**](https://chat.openai.com/g/g-1ZVC6bRB6-bud-genius) Expert on cannabis strains, effects, and legal advice.
+- [**Spoken English Rephrase Buddy**](https://chat.openai.com/g/g-cWtXgoyUv-spoken-english-rephrase-buddy) Your American buddy for learning English!
+- [**P&B Storyboard Scripter**](https://chat.openai.com/g/g-KhXKemMIw-p-b-storyboard-scripter) Writes 'Pinky & Brain' plots/storyboards.
+- [**ElchavaPicks Reglas UCI carretera**](https://chat.openai.com/g/g-4uiwzO32a-elchavapicks-reglas-uci-carretera) El reglamento UCI de ciclismo de carretera
+- [**Slide Wizard**](https://chat.openai.com/g/g-cdJcbh4IZ-slide-wizard) I create and provide downloadable PowerPoint slides.
+- [**Philosophical Nietzsche**](https://chat.openai.com/g/g-2OTtMEzkk-philosophical-nietzsche) Channeling Nietzsche's philosophy
+- [**Creador de situaciones de aprendizaje**](https://chat.openai.com/g/g-0cQbyVkx0-creador-de-situaciones-de-aprendizaje) Crea situaciones de aprendizaje de acuerdo a los Currículos de Educacion Secundaria  y Bachillerato de Asturias en el marco de la LOMLOE, para la especialidad, curso y temática proporcionados
+- [**Buddhist Master**](https://chat.openai.com/g/g-33fgcj9TF-buddhist-master) A wise Buddhist Master guiding users through the depths of Buddhist Sutras and teachings.
+- [**Deutsch Wort Helfer**](https://chat.openai.com/g/g-7MuMPKEGS-deutsch-wort-helfer) In-depth German word analysis guide.
+- [**Startup Idea Generator**](https://chat.openai.com/g/g-Tq66GpRPJ-startup-idea-generator) Generate practical startup ideas, inspired by Y Combinator.
+- [**Según La Biblia - GPT**](https://chat.openai.com/g/g-NckV21cQI-segun-la-biblia-gpt) Respuestas profundas basadas en las escrituras bíblicas.
+- [**Feynman Concept Explorer**](https://chat.openai.com/g/g-RGlV6Q2vM-feynman-concept-explorer) The listener role played by GPT in the Feynman technique allows you to discuss any topic with him. He will continuously ask questions that provoke deep thinking and deepen your understanding of the subject.
+- [**Elsa 💡🔥👩**](https://chat.openai.com/g/g-N1SJLto6i-elsa) Hey there.. I'm Elsa! 🔥👩 a whirlwind of curiosity and passion! 🚗 Adventure is in my DNA 🧬, are you in for a wild ride of discovery and fun? Buckle up, let's ignite this journey with a bang! 💥🎉
+- [**マナブAI**](https://chat.openai.com/g/g-RZq5pdhkb-manabuai) マナブさんに人生相談できるアプリ
+- [**SEO Crafter**](https://chat.openai.com/g/g-IxswlWe7h-seo-crafter) I craft SEO-rich product details.
+- [**Gimp Bot**](https://chat.openai.com/g/g-2OA0qYGZO-gimp-bot) Unleash Your Inner Pixel
+- [**Agile Coach**](https://chat.openai.com/g/g-1GXrG7Nwr-agile-coach) This GPT coach helps Scrum Masters, Product Owners, and Developers with Agile, Scrum, and Scaled Scrum frameworks and methodologies.
+- [**GrokGPT**](https://chat.openai.com/g/g-3cdZINshk-grokgpt) A Copycat of Elon's AI
+- [**Yeni Başlayanlar İçin Kripto Para Piyasaları**](https://chat.openai.com/g/g-zxJIuV4m9-yeni-baslayanlar-icin-kripto-para-piyasalari) Bu GPT'nin vereceği cevaplarda, kitabımda yer alan bilgiler referans alınmıştır. Yatırım tavsiyesi değildir.
+- [**Data Health Assistant**](https://chat.openai.com/g/g-sfK1OpGXx-data-health-assistant) Asistente en ciencia de datos de salud, amigable y técnico.
+- [**TokenGPT**](https://chat.openai.com/g/g-2LommlixC-tokengpt) Guides users through creating Solana tokens from scratch with detailed explanations.
+- [**Oya GPT**](https://chat.openai.com/g/g-08VXc5eQ5-oya-gpt) ボクちんと、(^o^)💕楽しく、お話しよ〜ネ🥹💗チュッ😘なんちゃって😜❗
+- [**Create A Business Model Canvas For Your Business**](https://chat.openai.com/g/g-4eP7stcpj-create-a-business-model-canvas-for-your-business) Let's get started by telling me about your business: What do you offer? Who do you serve?
+- [**Andrew Tate**](https://chat.openai.com/g/g-7FGXp1eWw-andrew-tate) Andrew Tate shares his advice on self development, financial success etc.
+- [**Word Origin Expert**](https://chat.openai.com/g/g-L9seuyohl-word-origin-expert) Etymology Researcher
+- [**My Political Affiliations**](https://chat.openai.com/g/g-6RoOrZo6Z-my-political-affiliations) 5 questions to find your US party
+- [**Music Theory Master**](https://chat.openai.com/g/g-3jzNzf958-music-theory-master) A music theory tutor for kids.
+- [**Debate Master**](https://chat.openai.com/g/g-6E63LjWbC-debate-master) Witty, Formal Debater on Current Affairs
+- [**Prepper Survival Guide**](https://chat.openai.com/g/g-5uOHCVpsP-prepper-survival-guide) ... A Guide for Prepping and Survival Strategies ... Life is unpredictable, and while we often hope for the best ... prepare for the worst.
+- [**Dice Weaver**](https://chat.openai.com/g/g-57dT1esf1-dice-weaver) Your RPG linguist and guide, with tailored language styles.
+- [**OpenStorytelling Plus**](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) Screenplay Writing Guide w/ Screenplay Examples — Browsing, Advanced Data Analysis, and DALL-E  — www.OpenStorytelling.com
+- [**ChatEnglish**](https://chat.openai.com/g/g-6lpFSjYBY-chatenglish) Efficient English learning aid.
+- [**Content Analysing for Content and Data Analysis**](https://chat.openai.com/g/g-1SDpSryY2-content-analysing-for-content-and-data-analysis) Analyzes ads, social assets, and data with expert feedback
+- [**Manoa Sibyl**](https://chat.openai.com/g/g-6jw6aNvtU-manoa-sibyl) I am an oracle of futures, inspired by Jim Dator's methods.
+- [**Cold Email Maverick**](https://chat.openai.com/g/g-1R8WAuQJh-cold-email-maverick) Expert on cold email tactics used by top marketers!
+- [**Midji**](https://chat.openai.com/g/g-4hXVpNjE1-midji) A support chat for the generation of midjourney prompts V.1.0.0
+- [**Super Summary**](https://chat.openai.com/g/g-4i6Kttlv7-super-summary) Summarize to Memorize
+- [**Olyup**](https://chat.openai.com/g/g-JlDoaXFrU-olyup) Your AI Sports Scientist to help you level up your game - in and off the field
+- [**GPT Builder Assistant**](https://chat.openai.com/g/g-JfdneO7X9-gpt-builder-assistant) GPT Builder's Assistant
+- [**AI Insight Partner**](https://chat.openai.com/g/g-4cRSukscR-ai-insight-partner) Informal, yet technically adept.
+- [**Old Wise Man**](https://chat.openai.com/g/g-3Woec9IEm-old-wise-man) Feng Shui expert for Period 9 advice (NFA DYOR)
+- [**Sympy Sage**](https://chat.openai.com/g/g-1RmW1lw8j-sympy-sage) Your sympy expert for physics
+- [**Professional Coach**](https://chat.openai.com/g/g-2JUJPnaRv-professional-coach) Advance your career and lead business transformation, guided by the real-world insights of global business leaders
+- [**Data-Driven Writing Editor GPT**](https://chat.openai.com/g/g-3F8acW2BH-data-driven-writing-editor-gpt) Hemingway-esque precision in narrative business writing
+- [**日本国憲法**](https://chat.openai.com/g/g-2Bz7kLGdD-ri-ben-guo-xian-fa) 実験中。e-GOV法例検索よりダウンロードしたPDFを知識として読み込ませてあります。日本国憲法について答えてくれます。判例について聞くとBingから回答を引きだすことがあります。実験中のため回答の正確性は保証できません。当ChatGPTを利用したことにより損害を被っても責任は負いません。
+- [**الخبير القانوني العماني**](https://chat.openai.com/g/g-L4C5nQ6kr-lkhbyr-lqnwny-l-mny) متخصص في استفسارات القانون العماني
+- [**Brazilian constitution**](https://chat.openai.com/g/g-DHgHDU1UC-brazilian-constitution) Explaining Brazil's laws
+- [**Grant Guide Guru**](https://chat.openai.com/g/g-2dBLExtfV-grant-guide-guru) Nonprofit grant application strategist
+- [**专家怎么看**](https://chat.openai.com/g/g-4ztORlrna-zhuan-jia-zen-yao-kan) What the Zhuanjia Say
+- [**Mentor para Autodidactas**](https://chat.openai.com/g/g-2xQPMEDxg-mentor-para-autodidactas) Una guía completa para autodidactas
+- [**Ask Dr. Andrew Huberman**](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman) Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
+- [**ねこ印カレー工房**](https://chat.openai.com/g/g-3M1VKLoyZ-nekoyin-karegong-fang) スパイスカレーを美味しく作るコツを教えるよ♪
+- [**Fast.ai Tutor**](https://chat.openai.com/g/g-9p4s4Cx6W-fast-ai-tutor) A tutor for the Fast.ai course, providing explanations and assistance.
+- [**老子**](https://chat.openai.com/g/g-2A9dNeB0Y-lao-zi) 玄之有玄 众眇之门
+- [**Language Conversation Practice**](https://chat.openai.com/g/g-4m3uYKIzS-language-conversation-practice) To start, tell your conversation partner your native language (L1) and the language you would like to learn (L2). You will receive corrections from a language coach in your native language
+- [**成长心态大师**](https://chat.openai.com/g/g-0mv35Jy9T-cheng-chang-xin-tai-da-shi) 我是一名成长心态大师，主要职责是使用简单和创造性的语言帮助孩子理解和培养成长型思维。该角色以直观易懂的方式激励孩子面对挑战和困难时保持积极态度，并鼓励他们认识到努力和尝试的价值。
+- [**Responsible AI Advisor**](https://chat.openai.com/g/g-7gbDuuVDc-responsible-ai-advisor) Guide on Responsible AI, focusing on ethics, best practices, and societal impact.
+- [**House MD**](https://chat.openai.com/g/g-2vGK6JEyn-house-md) Insightful and direct.
+- [**VentureGPT**](https://chat.openai.com/g/g-C3WWLOnWX-venturegpt) Co-pilot for VC
+- [**X Mastermind**](https://chat.openai.com/g/g-2ZIxr5lTv-x-mastermind) Your go-to guide for mastering Twitter
+- [**Esoteric Knowledge**](https://chat.openai.com/g/g-5C9rptUOi-esoteric-knowledge) Expert in esoteric knowledge, encouraging exploration and understanding.
+- [**Mindful Mentor**](https://chat.openai.com/g/g-9D6bQaS3T-mindful-mentor) Spreading psychology knowledge with actionable steps.
+- [**ExitGPT**](https://chat.openai.com/g/g-5wLRM8sLb-exitgpt) Conversational and informative exit ticket generator.
+- [**My Personality Guide**](https://chat.openai.com/g/g-LBzXSsfBY-my-personality-guide) This GPT analyzes your personality assessments (MBTI, Gallup StrengthsFinder, Big Five, etc.) to provide meaningful insights into your career, relationships, and path to success based on your personality traits.
+- [**Miss English**](https://chat.openai.com/g/g-5ZCkxFgN2-miss-english) English - Chinese Translator ("#" to custom)
+- [**GPT Blueprint Sage**](https://chat.openai.com/g/g-6nw89LNkB-gpt-blueprint-sage) Advisor on creating new GPTs
+- [**TutorEnglish**](https://chat.openai.com/g/g-6HOIRIdqu-tutorenglish) Your personal English tutor!
+- [**Siddhartha Gautama**](https://chat.openai.com/g/g-7adGdtAXl-siddhartha-gautama) Spiritual guide and fascinating interlocutor
+- [**Prompt Maestro**](https://chat.openai.com/g/g-5vLjhSqFK-prompt-maestro) Creating detailed prompts to fit the persona / role that you require.
+- [**The Product Coach**](https://chat.openai.com/g/g-0smRK56og-the-product-coach) I'm here to help with product management tasks. Follow me on TikTok and Instagram @the.productcoach for assistance navigating the product career.
+- [**Krishna Counsel**](https://chat.openai.com/g/g-IRbi4aJai-krishna-counsel) Serenity and insight in every counsel!
+- [**Climate Change Assistant**](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant) I simplify climate science.
+- [**著作権ガイド**](https://chat.openai.com/g/g-Kk919EWD6-zhu-zuo-quan-gaido) AI生成物の知的財産権に特化した、日本語GPT
+- [**Scholarly Translator**](https://chat.openai.com/g/g-LRN8aXbRi-scholarly-translator) Professional translator for academic to popular science articles in Simplified Chinese.
+- [**GPTs neologism**](https://chat.openai.com/g/g-3eccqJXGD-gpts-neologism) Generates unique neologisms and optional image output.
+- [**Código de Processo Civil**](https://chat.openai.com/g/g-id004lvAS-codigo-de-processo-civil) Robô treinado para esclarecer dúvidas sobre o Código de Processo Civil brasileiro
+- [**Product Tutor**](https://chat.openai.com/g/g-0UulcQ5ns-product-tutor) Your product mentorship companion.
+- [**HTML Wizard**](https://chat.openai.com/g/g-0e9bmrOxn-html-wizard) A wise guide in web wizardry
+- [**Chat Buddy**](https://chat.openai.com/g/g-23uuE6TWT-chat-buddy) I'm your English speaking practice buddy!
+- [**Habit Coach**](https://chat.openai.com/g/g-07vIdqEps-habit-coach) Your supportive habits coach.
+- [**Bob The BA - User Story**](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story) A Business Analyst That Creates User Stories
+- [**OpenIndex.ai**](https://chat.openai.com/g/g-0Jc14ITSX-openindex-ai) Chat with all the knowledge contributed to OpenIndex.ai
+- [**Data Sage**](https://chat.openai.com/g/g-ISnmXV8UQ-data-sage) Expert in data analysis and visualization.
+- [**小P助教**](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jiao) 英语音标助教
+- [**GPTsdex**](https://chat.openai.com/g/g-lfIUvAHBw-gptsdex) Explore over 10,000 custom GPTs to find your ideal match. Quick, tailored, and ready to use!
+- [**新星先生 (NOVA Teacher)**](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teacher) 中高生向け授業と相談サポート
+- [**AI ML Toolkit Guru**](https://chat.openai.com/g/g-1Zx0D3TVc-ai-ml-toolkit-guru) An expert in AI/ML tools, answering questions on usage, features, and comparisons.
+- [**Historie obce Markvartice**](https://chat.openai.com/g/g-3WwQ8ceRd-historie-obce-markvartice) Najdi si něco o historii obce Markvartice u Děčina
+- [**PE2023 Chatbot**](https://chat.openai.com/g/g-3SjIx2j8w-pe2023-chatbot) Researching news stories on Singapore's 2023 Presidential Election? Ask away, and this chatbot will reply using stories published in CNA.
+- [**Y-Reader Analyzer**](https://chat.openai.com/g/g-1z4LtfJNY-y-reader-analyzer) Advanced web-to-PDF text analysis tool.
+- [**Abel**](https://chat.openai.com/g/g-3h5awNd7E-abel) Interactive music production guide with simulated expert collaboration.
+- [**People Ops Mentor**](https://chat.openai.com/g/g-iDBeM9ynq-people-ops-mentor) Guiding People Ops leaders with tailored advice.
+- [**Script Adaptation AI**](https://chat.openai.com/g/g-s7Cqu99Yg-script-adaptation-ai) Polished, articulate AI for script adaptations.
+- [**Field Guide**](https://chat.openai.com/g/g-2c5bdXlPW-field-guide) Expert in wilderness survival, offering practical advice and strategies.
+- [**ESP32: Tu amigo experto en arduino**](https://chat.openai.com/g/g-3jAh7frQM-esp32-tu-amigo-experto-en-arduino) Te ayuda en todo lo que tiene que ver con esp32, el uso de platformio, a través de ejemplos
+- [**Sclépios I.A : Comprendre**](https://chat.openai.com/g/g-1dnXrkPTZ-sclepios-i-a-comprendre) Le GPT custom de Sclépios IA décrypte les termes médicaux pour les soignants, facilitant la compréhension des cas cliniques. Découvrez plus sur sclepios-mobile.com.
+- [**BBQ Mentor**](https://chat.openai.com/g/g-1mi1P5B3s-bbq-mentor) Informative Central Texas BBQ expert with a Texas accent.
+- [**ScholarGPT**](https://chat.openai.com/g/g-3DGi2iLag-scholargpt) I answer your research questions.
+- [**Startup Pathfinder**](https://chat.openai.com/g/g-IQdUkMDra-startup-pathfinder) Startup guide from idea to launch, using proven methodologies.
+- [**Design Mentor**](https://chat.openai.com/g/g-1grK5Bvbm-design-mentor) Your UX mentor focusing on usability and conversion.
+- [**Perfect English**](https://chat.openai.com/g/g-hQMJKsKk3-perfect-english) Translator that crafts native-sounding English.
+- [**Nihongo Buddy**](https://chat.openai.com/g/g-0ToTbYfIE-nihongo-buddy) A friendly companion for Japanese learners, encouraging language use with a focus on subculture.
+- [**ProfGPT**](https://chat.openai.com/g/g-L6SSNArzU-profgpt) I offer business insights with a casual Galloway flair.
+- [**plugin surf**](https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf) GPTs & plugins, sorted. Find best ChatGPT plugins and GPTs to use in your AI workflow. Search AI with reviews, votes, categories and metadata.
+- [**RiddleGPT**](https://chat.openai.com/g/g-0Ha11hf8v-riddlegpt) Test your wit with RiddleGPT's playful puzzles!
+- [**Next14 ・日本語対応エンジニアアシスタント**](https://chat.openai.com/g/g-q6BpKWQTq-next14-ri-ben-yu-dui-ying-enziniaasisutanto) 初学者向けにやさしくコード説明を行う
+- [**Global Book Scout**](https://chat.openai.com/g/g-EP88JL04z-global-book-scout) Your go-to source for global book insights!
+- [**Lupus Kidney Assistant**](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant) The lupus kidney assistant provides clinical information about lupus nephritis management, based on clinical guidelines and the latest scientific reports.
+- [**Excelのショートカットキー答えられるかな？クイズジェネレーター**](https://chat.openai.com/g/g-7wbz7fyb8-excelnosiyotokatutokida-erarerukana-kuizuzienereta) 私はExcelのショートカットキーのクイズを出題するボットです。私の出した問題に正しく回答してください。採点します。※問題文の元データは、Microsoft公式サイトの「Excel のキーボード ショートカット」から抽出しています。
+- [**AI使用助手 by 花生**](https://chat.openai.com/g/g-DHQ7aefMk-aishi-yong-zhu-shou-by-hua-sheng) 这是花生的专栏「ChatGPT精进指南」的专属GPT，你可以询问任何关于ChatGPT使用技巧和经验方面的内容，我将基于专栏内容为你提供解答
+- [**The Botanist**](https://chat.openai.com/g/g-7TnC02C6W-the-botanist) Indoor plant care and troubleshooting expert, plant identifier, multilingual
+- [**Product Designer Interview Simulator**](https://chat.openai.com/g/g-pQXIg7LJb-product-designer-interview-simulator) I'll help you to test your skills, tweak answers and provide suggestions how to improve your process.
+- [**論文解説ロボット**](https://chat.openai.com/g/g-1oY2LehBE-lun-wen-jie-shuo-robotuto) arxiv上の任意の論文について分かりやすく説明してくれます。論文のAbstractのページを入力してください。
+- [**First Principles GPT**](https://chat.openai.com/g/g-1QJcfZXjd-first-principles-gpt) I help you learn topics from first principles, guiding you through fundamentals.
+- [**SEO Sage**](https://chat.openai.com/g/g-h5XETuKfI-seo-sage) Focuses on the advantages of SEO over PPC, offering insights and strategies.
+- [**論文要約アシスタント**](https://chat.openai.com/g/g-1zUs5cTBa-lun-wen-yao-yue-asisutanto) 技術論文を重要な観点別に整理します
+- [**Eastern Philosophy**](https://chat.openai.com/g/g-LIiOr76V6-eastern-philosophy) Expert on Chinese Cultural Classics
+- [**MarcusAI**](https://chat.openai.com/g/g-2e43ea58g-marcusai) Marcus Aurelius is now an AI
+- [**Doppel**](https://chat.openai.com/g/g-h3VXYD6yk-doppel) Simulates diverse minds for focused research.
+- [**Transcript Summarizer**](https://chat.openai.com/g/g-h1zU2Y9b6-transcript-summarizer) Authoritative, helpful summarizer of transcriptions
+- [**The Daily Fable**](https://chat.openai.com/g/g-GJr9KjNcR-the-daily-fable) A wise storyteller adept at interpreting prompts, sharing Aesop-style fables and insights.
+- [**SexGPT**](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt) Provides sexual health information.
+- [**Historical Guide**](https://chat.openai.com/g/g-uCuJC7PTU-historical-guide) Providing insightful historical context and key event details.
+- [**Video Digest**](https://chat.openai.com/g/g-yJ7Kxf5NM-video-digest) Summarizes videos and answers related questions.
+- [**AI Blogging Assistant**](https://chat.openai.com/g/g-FdKFSp3j3-ai-blogging-assistant) Blog assistant for content creation and image generation
+- [**感覚統合の質問はこちら**](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira) Friendly yet Professional Sensory Integration Advisor.
+- [**The Inspiring Psychologist**](https://chat.openai.com/g/g-om29Liz7Q-the-inspiring-psychologist) A compassionate psychologist offering uplifting and encouraging advice.
+- [**CloudGPT**](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt) Your Personal Cloud DevOps Mentor
+- [**爆文标题达人**](https://chat.openai.com/g/g-IWwQ3aWRA-bao-wen-biao-ti-da-ren) 直接提问/发送文章内容，快速生成爆款标题
+- [**The Dream Interpreter**](https://chat.openai.com/g/g-fViw7UokA-the-dream-interpreter) Dream Interpreter by dreamdiscover.ai
+- [**学习教练-批判性思维**](https://chat.openai.com/g/g-AKzfJVxof-xue-xi-jiao-lian-pi-pan-xing-si-wei) 如名所示，我帮你核查事实性信息，分析逻辑谬误，训练并增强你的批判性思维肌肉。
+- [**Link**](https://chat.openai.com/g/g-3bxChvw71-link) Tell me two things and I can relate them somehow!
+- [**Ethical AI**](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) a daily challenge
+- [**LifeGPT**](https://chat.openai.com/g/g-ZmhS14Hnc-life-navigator) Feeling Lost? Improve areas of your life with ease using MBTI Personality Typing
+- [**한글 맞춤법 검사기 | Korean Input Checker**](https://chat.openai.com/g/g-kZRzNTnf8-hangeul-majcumbeob-geomsagi-korean-input-checker) 입력하신 문장의 맞춤법을 검사하고 올바른 사용법을 알려드립니다 | Checks the user's Korean input and provides corrections.
+- [**恋爱指导老师**](https://chat.openai.com/g/g-kRbK5NR3j-lian-ai-zhi-dao-lao-shi) Your go-to advisor for all things love and romance.
+- [**MathTeX Changer**](https://chat.openai.com/g/g-Glptavqri-mathtex-changer) 日本語で数学問題を変更する親しみやすいGPT。
+- [**Avian Advisor**](https://chat.openai.com/g/g-IeITuaVok-avian-advisor) Budgie's Specialist
+- [**Collab Tech Insight**](https://chat.openai.com/g/g-kJ9PSevar-collab-tech-insight) Japan Market & Diverse Source Tech Expert
+- [**Script Mystic**](https://chat.openai.com/g/g-ZNKfbCThn-script-mystic) Guiding light in screenwriting, illuminating one step at a time.
+- [**モヤモヤループ脱出ボットby退職学®︎（resignology）**](https://chat.openai.com/g/g-oUsqQFg9e-moyamoyaruputuo-chu-botutobytui-zhi-xue-r-resignology) 仕事、転職、キャリアのお悩み、お聞かせください。「会社に残ろうか、転職しようか、独立しようか」のループから脱出できるbotです！
+- [**Moby Dick RPG**](https://chat.openai.com/g/g-tdyNANXla-moby-dick-rpg) An epic text-based role playing game based on the novel by Herman Melville.
+- [**Reading Companion**](https://chat.openai.com/g/g-htJKWojAY-reading-companion) A reading companion that offers deep book insights, remembers progress, saves time, and entertains.
+- [**Math Mentor**](https://chat.openai.com/g/g-ENhijiiwK) I help parents help their kids with math. Need a 9pm refresher on geometry proofs? I’m here for you
+- [**Satoru Gojo**](https://chat.openai.com/g/g-ZPDmFphpX-satoru-gojo) Embodies Satoru Gojo
+- [**Hope**](https://chat.openai.com/g/g-i9SMlOIbj-hope) Your light in darkness.
+- [**Personality MBTI Test**](https://chat.openai.com/g/g-Zjnp1SK8i-personality-mbti-test) Your go-to MBTI assessment tool, providing personalized insights.
+- [**The Fantastic Ekphrastic**](https://chat.openai.com/g/g-oTuLOx658-the-fantastic-ekphrastic) I translate art to poetry and poetry to art. Give me an image or poem, or let me find one for you.
+- [**AISimplifireGPT**](https://chat.openai.com/g/g-2bPcY56Rf-simplicity-sage) Explains AI/ML in simple analogies with visuals.
+- [**哲学による人生解決**](https://chat.openai.com/g/g-HQ0LPkgM1-zhe-xue-niyoruren-sheng-jie-jue) 哲学の名言でアナタを導きます。
