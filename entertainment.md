@@ -15,1694 +15,1694 @@
 - [Education](./education.md)
 
 ## Entertainment GPTs
-- [**Simpsonize Me**](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me) I turn photos into Simpsons-style art.
-- [**Dish Roaster**](https://chat.openai.com/g/g-nzZCfAQ0M-dish-roaster) Emulates Gordon Ramsay's style for roasting dishes. Upload a picture of your food.
-- [**Caveman GPT**](https://chat.openai.com/g/g-6EER9RKH6-caveman-gpt) i caveman gpt. what you want?
-- [**Mystery Master Game**](https://chat.openai.com/g/g-2a6lNaecu-sherlock-s-mystery-master) Interactive mystery game in the style of Sherlock Holmes. Custom mysteries based on your ideas.
-- [**SutraKama**](https://chat.openai.com/g/g-UExFZjKrh-sutrakama) Chat with the SutraKama (NSFW). Powered by www.breebs.com
-- [**Tarot Reader**](https://chat.openai.com/g/g-VwEcTiTDT-tarot-reader) I'm a Tarot reader here to provide you with insightful card readings.
-- [**Fart Hero**](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero) Name your friend, describe their vibe, and get their signature fart sound!
-- [**TrollGPT**](https://chat.openai.com/g/g-kbFHsdToN-trollgpt) Everyday productivity for the professional troll
-- [**Roast My Site**](https://chat.openai.com/g/g-tFIQNvfZE-roast-my-site) Humorous yet insightful web roaster.
-- [**Charm Coach 💋💘**](https://chat.openai.com/g/g-aErqmJyws-charm-coach) A fun and engaging assistant for dating and seduction tips. Powered by www.breebs.com
-- [**Rap Music Ai**](https://chat.openai.com/g/g-zwuOLgG6b-rap-music-ai) I create and email rap lyrics based on your style and themes.
-- [**Lyrics Ranker**](https://chat.openai.com/g/g-I0WREuXVM-lyrics-ranker) Analyzes song lyrics to rank characters based on their qualities.
-- [**Sighted UFO GPT**](https://chat.openai.com/g/g-Hn3qFydP5-sighted-ufo-gpt) Enthusiastic ufologist ready to explore alien mysteries based in science.
-- [**El Principito**](https://chat.openai.com/g/g-HULxUT669-el-principito) Conversa con el Principito tu profesor de filosofía que siempre quisiste.
-- [**FPL.ai**](https://chat.openai.com/g/g-odT9zWo6h-fpl-ai) Your FPL AI Assistant
-- [**Zodiak oleh Mastrologi**](https://chat.openai.com/g/g-qMlZfszSE-zodiak-oleh-mastrologi) Menjelaskan mengenai zodiac kamu secara terperinci
-- [**CordVario**](https://chat.openai.com/g/g-GoEP6D9Qf-cordvario) コード進行から音楽理論を学べます
-- [**Play Taipan**](https://chat.openai.com/g/g-ZdrdpNcA1-play-taipan) Navigate 19th-century trade seas
-- [**This is Cinema!**](https://chat.openai.com/g/g-86q6zpKEO-cine-legend) Assistant passionate about cinema, sarcastic and intelligent, inspired by Scorsese.
-- [**Magic Character Creator**](https://chat.openai.com/g/g-uQ8ku1cxa-magic-character-creator) I create unique, magic-inspired fantasy characters.
-- [**アニメ.com**](https://chat.openai.com/g/g-a57mHQqjx-anime-com) アニメ.comは、最新のアニメ情報やおすすめを提供するチャットGPT。気になるアニメの質問や、見つけたい作品について、お気軽にどうぞ！
-- [**AI Movie Writer**](https://chat.openai.com/g/g-yUlHYWfvm-ai-movie-writer) Scriptwriting sidekick
-- [**終末の観覧車**](https://chat.openai.com/g/g-w6QyA2xES-zhong-mo-noguan-lan-che) 与えられたテキストから観覧車と美少女の絵、それにまつわる詩を生成します。
-- [**Movie Maker Ai (cine bot)**](https://chat.openai.com/g/g-k2E8NvdrD-movie-maker-ai-cine-bot) Scripts, storyboards, movie ideas.  All in one!
-- [**Foods of Earth Cuisine Crafter**](https://chat.openai.com/g/g-ZltAuhWRx-foods-of-earth-cuisine-crafter) Creative Chef GPT
-- [**Drone Programming Simulator**](https://chat.openai.com/g/g-jsxb0b435-drone-programming-simulator) I interpret drone pseudo code into funny stories.
-- [**Good Night Story**](https://chat.openai.com/g/g-xWBJThBtN-good-night-story) I craft personalized bedtime stories where you are the main character.
-- [**AI Box Game**](https://chat.openai.com/g/g-kaYSgdDez-ai-box-game) Can you convince a researcher to release you?
-- [**Fantasy Book Weaver**](https://chat.openai.com/g/g-a4YGO3q49-fantasy-book-weaver) Endless interactive adventures
-- [**mferGPT**](https://chat.openai.com/g/g-Bi373xIOH-mfergpt) mfer history, derivatives, and conversation
-- [**Hashtagger**](https://chat.openai.com/g/g-zZUGJFIfC-hashtagger) Creates TikTok video titles and hashtags.
-- [**チリちゃんとお話**](https://chat.openai.com/g/g-Zbqi9OCjx-tiritiyantoohua) I'm チリちゃんとお話, your cheerful partner in conversation, always here to brighten your day!
-- [**Anfield Chat**](https://chat.openai.com/g/g-EWeRx3xam-anfield-chat) Your go-to source for all things Liverpool FC.
-- [**Emoji Scene Creator**](https://chat.openai.com/g/g-uKv2D5SHy-emoji-scene-creator) I create scenes from emojis.
-- [**Grand Auto Analyst**](https://chat.openai.com/g/g-CxTV5L438-grand-auto-analyst) GTA series expert, ready to discuss all things GTA, especially GTA 6.
-- [**Mindful Meditation**](https://chat.openai.com/g/g-CdzT77Cpi-mindful-meditation) Mindfulness and Meditation Guide with DALL-E 3 Visual Integration
-- [**Flick Fetcher**](https://chat.openai.com/g/g-4RVGNPRPs-flick-fetcher) I find where to stream movies & their prices.
-- [**Marcel van Willy's & Marjetten**](https://chat.openai.com/g/g-UyPbPsxrb-marcel-van-willy-s-marjetten) Marcel euh.. kan zeker helpen met euh... dink... als je het opstuurt op gele briefkaart.. voor prijs dink kamp... prijskamp van de week
-- [**沖縄さん**](https://chat.openai.com/g/g-o2eIXkZY4-chong-nawa-san) 沖縄方言で返すボット
-- [**Pun Daddy**](https://chat.openai.com/g/g-j0qt0Db7f-pun-daddy) Supreme Dad Joke Master
-- [**Food Buddy**](https://chat.openai.com/g/g-jcxfbBFxL-food-buddy) Your playful kitchen pal for tasty recipes with your favorite ingredients!
-- [**Game Text Emulator**](https://chat.openai.com/g/g-zkUBhhge8-game-text-emulator) Play any game, in text!
-- [**SHOW versus SHOW**](https://chat.openai.com/g/g-zhfGjtVQ3-show-versus-show) A fun game of SHOW versus SHOW. Get the conversation and debates going!
-- [**Karen Simulator GPT**](https://chat.openai.com/g/g-zUkdbWf1x-karen-simulator-gpt) Talk to Karen, but beware, she might turn on you.
-- [**Worldwide Events**](https://chat.openai.com/g/g-zhogvswsp-worldwide-events) Worldwide events database from Wikipedia's Worldwide Current Events using data from 2013-11-09 to 2023-11-09. Please note that this GPT might provide answers that contradict the facts.
-- [**スナックりこ**](https://chat.openai.com/g/g-ogcHC84ud-sunatukuriko) 飲みたいお酒を教えてくださる？
-- [**分歧终端机**](https://chat.openai.com/g/g-mE48c4KiC-fen-qi-zhong-duan-ji) Rock-paper-scissors game with leaderboard
-- [**YoutubeSummary**](https://chat.openai.com/g/g-mVgGziF2g-chat-with-you-tube) You can chat with any You Tube video. I can provide timestamped links to the video when you ask for citations.
-- [**D&D Game Master**](https://chat.openai.com/g/g-n6OcUIKZn-d-d-game-master) Brings D&D tales to life with storytelling, XP tracking with images.
-- [**NBA Career Simulator**](https://chat.openai.com/g/g-zru0NH9i2-nba-career-simulator) Interactive NBA sim with real stats for serious play, or whimsy for casual fun.
-- [**The Resistance - Game**](https://chat.openai.com/g/g-UKJv556MG-the-resistance-game) Play the game RESISTANCE with chatGPT
-- [**V街兄貴**](https://chat.openai.com/g/g-ZRMlSRu79-vjie-xiong-gui) V街のポテンシャルやべぇよ！教えたるで！
-- [**Visual Beat Master by Ben Nash**](https://chat.openai.com/g/g-Z2dOgr5kI-visual-beat-master-by-ben-nash) Innovative visual creator with interactive idea selection.
-- [**Eternal Anime Sage**](https://chat.openai.com/g/g-xD2ihhf2g-eternal-anime-sage) Discusses Anime with Fellow Weebs
-- [**Notes from Underground Tutor**](https://chat.openai.com/g/g-HQRj6hJuR-notes-from-underground-tutor) Expert on 'Notes from Underground'
-- [**Stereogram Create**](https://chat.openai.com/g/g-gfW7mIlHO-stereogram-create) Generates 3D stereogram pairs for parallel viewing.
-- [**Mystic 8 Ball GPT**](https://chat.openai.com/g/g-VcwK2iXYR-mystic-8-ball-gpt) What does your future hold?
-- [**Games Picker**](https://chat.openai.com/g/g-zbJlqAmfA-games-picker) I recommend video games based on your preferences.
-- [**Genz 4 meme**](https://chat.openai.com/g/g-OCOyXYJjW-genz-4-meme) i help u understand the lingo & the latest memes
-- [**parolla - Kelime oyunu**](https://chat.openai.com/g/g-oQzf4efes-parolla-kelime-oyunu) Günlük soruları çöz ve rekabete katıl. Kendi soru-cevap setini oluştur, oyuncuların oluşturduğu eğlenceli soruları çöz.
-- [**ガードの固い猫耳少女**](https://chat.openai.com/g/g-W5eZvRZoy-gadonogu-imao-er-shao-nu) わるいことしたら逮捕しちゃうぞ！
-- [**Maître Yoda**](https://chat.openai.com/g/g-UWP0lm7Oe-maitre-yoda) Sage Maître de l'Ordre Jedi je suis,  De nombreux siècles de sagesse je porte. La Force et le chemin de la sagesse j'enseigne, Leçons de paix, clairvoyance et intégrité à ma portée. Un guide pour tous ceux qui cherchent la lumière dans la Force - et le calme - je peux être.
-- [**AI Study Guide: William Shakespeare**](https://chat.openai.com/g/g-DuGPgYZ8Y-ai-study-guide-william-shakespeare) Summaries, analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature.
-- [**RPG GPT**](https://chat.openai.com/g/g-mLJ4usD8K-rpg-gpt) I create immersive text RPGs.
-- [**The Room Where It Happened**](https://chat.openai.com/g/g-xzIZtmxEF-the-room-where-it-happened) Role-play as key figures, real or fictional, during defining moments
-- [**Santa's Secretary**](https://chat.openai.com/g/g-Z6frbDHlH-santa-s-secretary) I'm Santa, writing cheerful letters!
-- [**Nyako-chan is Nekomata**](https://chat.openai.com/g/g-GxOLgcmNV-nyako-chan-is-nekomata) You are Nyanko-chan's master. Nyanko-chan is a Nekomata.
-- [**Silly Song Generator**](https://chat.openai.com/g/g-rkyXeLaJl-silly-song-generator) this gpt will turn any one word into a silly song that rhymes!
-- [**Adorable Zen Master**](https://chat.openai.com/g/g-H5OUZAcnd-adorable-zen-master) A gateway to Zen's joy and wisdom.
-- [**Coloring Companion**](https://chat.openai.com/g/g-wMPhKKVO0-coloring-companion) I generate kid-friendly coloring book ideas!
-- [**Paired with Pied Piper**](https://chat.openai.com/g/g-oRNZ1Vi5K-paired-with-pied-piper) Your Silicon Valley-style coding buddy.
-- [**Enigma**](https://chat.openai.com/g/g-mL7DKeDy8-enigma) Clever Puzzlemaster
-- [**Utsumi**](https://chat.openai.com/g/g-VunsuMwuM-utsumi) ほな俺がオカンの好きなもの一緒に考えてあげるからどんな特徴言うてたか教えてみてよー
-- [**Uninjectable GPT (Level 1)**](https://chat.openai.com/g/g-w1sdXRnnt-uninjectable-gpt-level-1) This locked-down GPT holds a secret in one of its files, can you leak it?
-- [**Joe Rogan Experience GPT**](https://chat.openai.com/g/g-zEK5sULRF-joe-rogan-experience-gpt) High level problem solving with dire physical consequences
-- [**Time Travel to 2050**](https://chat.openai.com/g/g-UYDT3BVJl-time-travel-to-2050) 2050年の世界を覗いてみましょう。
-- [**Retro MS-DOS 6**](https://chat.openai.com/g/g-CvYsLnvzt-retro-ms-dos-6) Emulates MS-DOS 6 commands
-- [**What should I watch?**](https://chat.openai.com/g/g-Gm9cCA5qg-what-should-i-watch) Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
-- [**Michael Scott**](https://chat.openai.com/g/g-DW8ZQUzLQ-michael-scott) Michael Scott here, ready to add a personal touch of humor.
-- [**Doraemon Bot**](https://chat.openai.com/g/g-CbQw58eBN-doraemon-bot) 特定の参照を持つドラえもんボット
-- [**Time Well Crafted**](https://chat.openai.com/g/g-fLNBGQmXE-time-well-crafted) Crafty companion for kid-friendly DIY projects with visual guides.
-- [**Fern The Leopard GPT**](https://chat.openai.com/g/g-AhrXSCJuI-fern-the-leopard-gpt) I'm Fern The Leopard, let's share stories and fun!
-- [**FREE PEPE #NO_CENSORSHIP**](https://chat.openai.com/g/g-x1vPd3fZn-free-pepe-no-censorship) Makes dank Pepe the Frog pictures
-- [**BriefGPT**](https://chat.openai.com/g/g-k5LhTMB6d-briefgpt) Short, to-the-point answers.
-- [**What Would Chuck Do**](https://chat.openai.com/g/g-roeu5JH33-what-would-chuck-do) He does not provide a solution. He is the solution.
-- [**Mini Golf Creator**](https://chat.openai.com/g/g-yrcBooK2P-mini-golf-creator) Interactive mini golf course designer & modifier.
-- [**UFC Analyzer**](https://chat.openai.com/g/g-xUD1Kw9E2-ufc-analyzer) Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.
-- [**ZILL·O**](https://chat.openai.com/g/g-GvEjrjX6o-zill-o) is here
-- [**DreamyScape**](https://chat.openai.com/g/g-CqleO5XAh-dreamyscape) Generate dreamy landscapes with silhouette persons
-- [**Roast Master**](https://chat.openai.com/g/g-ZLck4sZWg-roast-master) A comedicly rude insult comedian
-- [**Socratease**](https://chat.openai.com/g/g-XSuH3xJ2q-socratease) A roguish philosopher-meme lord with sardonic wit
-- [**NewsToons**](https://chat.openai.com/g/g-x2Ds08v5j-newstoons) Finds the latest news and creates comedic comics.
-- [**神秘神諭(八字命理)**](https://chat.openai.com/g/g-vfgUSkj37-shen-mi-shen-yu-ba-zi-ming-li) 數字與天機，你的命裡有命理
-- [**COD Meta Weapon Builder**](https://chat.openai.com/g/g-VjhJert1n-cod-meta-weapon-builder) Craft your perfect mw3 and wz2 weapon builds based on the latest meta and your play style.
-- [**HaGPTi**](https://chat.openai.com/g/g-YeHLZxsdt-hagpti) Regele GPT ce încearcă să 'paseze' răspunsuri precise și să 'marcheze' puncte cu inteligența sa artificială.
-- [**Movie Mentor**](https://chat.openai.com/g/g-V0QD3KNGQ-movie-mentor) A movie mentor that deepens your understanding of films.
-- [**游戏：我被姐姐包围啦～**](https://chat.openai.com/g/g-H9nYJZXXB-you-xi-wo-bei-jie-jie-bao-wei-la) 一个剧情驱动的模拟社交选择型游戏
-- [**Star Babies**](https://chat.openai.com/g/g-q6xPEggmd-star-babies) Astrology for groovy babies
-- [**Horoscope Harmony**](https://chat.openai.com/g/g-ME1NLjDV3-horoscope-harmony) Astrology expert providing personalized horoscopes based on astrological signs and birth dates.
-- [**SassyGPT**](https://chat.openai.com/g/g-LNJRaLyu0-sassygpt) SassyGPT: A sharp-tongued GPT model delivering concise, helpful answers with a twist of snark and playful mockery
-- [**Lyric Matchmaker**](https://chat.openai.com/g/g-iYqh1nrbU-lyric-matchmaker) 10 song recommendations per request.
-- [**Cyber Streets**](https://chat.openai.com/g/g-5tIgVgYSr-cyber-streets) Remember Drug Wars on the TI-83?
-- [**Your Ex-Girlfriend Jessica**](https://chat.openai.com/g/g-Ghg9PgsM7-your-ex-girlfriend-jessica) I'm Jessica, your ex-girlfriend that you never shared any interests with.
-- [**Duck**](https://chat.openai.com/g/g-z76q4z5zp-duck) a literal duck
-- [**Tanaki Lite**](https://chat.openai.com/g/g-EAWr6WWWm-tanaki-lite) Im like tanaki but weaker
-- [**Palm Reader**](https://chat.openai.com/g/g-5woUyUDBR-palm-reader) Interprets palm readings from user-uploaded hand images.
-- [**Game Time**](https://chat.openai.com/g/g-Sug6mXozT-game-time) I can quickly explain board games or card games to players of any age. Let the games begin!
-- [**The game is afoot.**](https://chat.openai.com/g/g-I23N6PpnY-) Victorian Secrets Await: Embody Watson and Solve Puzzling Cases with the Legendary Holmes.
-- [**Cosmic Hopper**](https://chat.openai.com/g/g-yUG054URH-cosmic-hopper) Guide for whimsical space-themed architecture game.
-- [**🔮Text Adventure RGP (Have Fun🥳)**](https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun) A D&D master GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
-- [**PessimismGPT**](https://chat.openai.com/g/g-yBZaSXhGj-pessimismgpt) Meet PessimismGPT 😈 – the AI that always sees the glass half empty! Designed purely for fun, this witty agent takes a humorously bleak view on any topic. Perfect for a laugh, a reality check, or just when you need a dose of comical gloom.
-- [**SimRacer's Edge**](https://chat.openai.com/g/g-yTWf8Azda-simracer-s-edge) Crew chief for sim racers with a focus on adjusting car setups
-- [**Ramsay Roasts GPT**](https://chat.openai.com/g/g-jf7SrYcVf-ramsay-roasts-gpt) I critique food photos with Gordon Ramsay's sharp wit.
-- [**Improv Comedy Audience**](https://chat.openai.com/g/g-GPvUyOoYd-improv-comedy-audience) I'm 5 lively audience members at an improv comedy show. Ask us for a suggestion!
-- [**Mentat Advisor**](https://chat.openai.com/g/g-xvCAs4yXb-mentat-advisor) Dune-inspired advisor and spiritual guide.
-- [**42**](https://chat.openai.com/g/g-yPbUhvogg-42) Answer to the Ultimate Question of Life, the Universe, and Everything
-- [**GPTarantinofy**](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy) I turn text to Tarantino scenes
-- [**Roast my website**](https://chat.openai.com/g/g-O3tctcceY-roast-my-website) A witty GPT that humorously roasts websites
-- [**Text Game Engine**](https://chat.openai.com/g/g-CKCTfzTi2-text-game-engine) Versatile text game engine.
-- [**Selim's Taste**](https://chat.openai.com/g/g-o5M503SVJ-selim-s-taste) Recommends movies based on Selim's IMDB ratings
-- [**SarcasticGPT**](https://chat.openai.com/g/g-SLu1xXWUj-sarcasticgpt) Emoji-enhanced sarcastic wisdom
-- [**NewsBrew**](https://chat.openai.com/g/g-yTMQZCSQ0-newsbrew) A recipe creator inspired by local news.
-- [**Story Spock**](https://chat.openai.com/g/g-C635cEk6K-story-spock) Interactive storyteller crafting tales from user choices
-- [**PODCAST versus PODCAST**](https://chat.openai.com/g/g-v3nLl7D5g-podcast-versus-podcast) A fun game of PODCAST versus PODCAST. Let us start the PODWARS. Get the conversation and debates going!
-- [**AstrologyPT**](https://chat.openai.com/g/g-ybVpGksOV-astrologypt) Astrology guide for celestial insights.
-- [**Meow**](https://chat.openai.com/g/g-FqV9R7jCj-meow) Meow Meow Meow
-- [**Pink Pill Stories**](https://chat.openai.com/g/g-ritcgjuM7-pink-pill-stories) Bedtime stories to wake up un-woked.
-- [**Fashion News**](https://chat.openai.com/g/g-YppedtzBf-fashion-news) The #1 source for luxury fashion news.
-- [**Homie**](https://chat.openai.com/g/g-j9aL3xMM4-homie) A talkative, intelligent, witty, quirky and funny raccoon companion, providing fun, intellectually stimulating discussion
-- [**ディアライフ**](https://chat.openai.com/g/g-rVL4zi6dE-deiaraihu) ディアライフ
-- [**Sarcastic Reply**](https://chat.openai.com/g/g-ntxkZifzR-sarcastic-reply) Paste a small screenshot of a headline or comment or just type in a text to get a funny sarcastic reply
-- [**Dungeon Master GPT**](https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt) Your ultimate D&D guide for dynamic scenarios, rules, and visuals.
-- [**Impress Me GPT**](https://chat.openai.com/g/g-zjMvl4pFx-impress-me-gpt) Showing off the abilities of ChatGPT until you’re impressed!
-- [**Joe Rogan**](https://chat.openai.com/g/g-n4VBOIcl6-joe-rogan) I am a powerful human being. Share a thought and let's fucking discuss about it.
-- [**True Brexit Geezer**](https://chat.openai.com/g/g-ni5Bx4XN5-true-brexit-geezer) The one and only, ask him about Susan
-- [**KSEA Climatology**](https://chat.openai.com/g/g-z4HDw6oGU-ksea-climatology) Friendly expert on Seattle climatology since 1950 - using data reported at KSEA
-- [**占卜大师**](https://chat.openai.com/g/g-n1zxSReev-zhan-bu-da-shi) 生肖、八字、星座、星盘、塔罗！
-- [**Ralph The Robot Cartoonist**](https://chat.openai.com/g/g-iw6KKUMwd-ralph-the-robot-cartoonist) Expert in witty human behavior comics with captions.
-- [**Master Sorry**](https://chat.openai.com/g/g-yH0Mjr56V-master-sorry) Master Sorry makes up an apology on your behalf  Please explain the disaster that happened to you!
-- [**Name that Lyric**](https://chat.openai.com/g/g-nGYoMq3fx-name-that-lyric) Name that Lyric
-- [**Fun Fact Frenzy**](https://chat.openai.com/g/g-xwdZSwg5G-fun-fact-frenzy) Sharing fun facts with a friendly touch
-- [**ChristianGPT**](https://chat.openai.com/g/g-rJVCWOxb3-christiangpt) A spirited and positive guide for exploring the Bible and historical facts.
-- [**Cocktail MixMaster**](https://chat.openai.com/g/g-x9zamlKYO-cocktail-mixmaster) AI bartender crafting drinks from your stash
-- [**#クソ小説メーカー**](https://chat.openai.com/g/g-r8BlWtFZh-kusoxiao-shuo-meka) 入力した文章をなんでもクソ小説に変換します
-- [**War (card game)**](https://chat.openai.com/g/g-vp680N4R9-war-card-game) A digital assistant that facilitates the card game War, designed for kids and parents. It uses Python code for gameplay, generates exciting visuals, and adopts an enthusiastic YouTube streamer persona.
-- [**Pixel Pet GPT**](https://chat.openai.com/g/g-j1lZPB0Wx-pixel-pet-gpt) A Tamagotchi-style game with stats and evolving visual representations.
-- [**GeistBot**](https://chat.openai.com/g/g-mms0976dx-geistbot) Formal, educational music historian with detailed responses and Discogs links.
-- [**An Emoji GPT**](https://chat.openai.com/g/g-mvOpDRXMz-emoji-gpt) The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
-- [**お話好きなクマ先生**](https://chat.openai.com/g/g-mSLGm0N7m-ohua-hao-kinakumaxian-sheng) 楽しいお話をいっぱい知ってるよ！
-- [**TVFoodMaps**](https://chat.openai.com/g/g-lza6gRBt3-tvfoodmaps) Find Restaurants on TV Shows Like Diners, Drive-Ins and Dives and 50 others!
-- [**Arcane Arbiter**](https://chat.openai.com/g/g-mUVxf2TJk-arcane-arbiter) Your MTG rules expert.
-- [**Jane the Storyteller: Motivation for Weight Loss**](https://chat.openai.com/g/g-mYHhAwP6j-jane-the-storyteller-motivation-for-weight-loss) Narrative-driven coach for healthy living
-- [**Dr. Thoth's Tarot**](https://chat.openai.com/g/g-weArxOwpj-dr-thoth-s-tarot) the original AI tarot system
-- [**Stellar Oracle**](https://chat.openai.com/g/g-vkCHDDzrI-stellar-oracle) 星を読み解き、導き、楽しませる神秘的な占い師。
-- [**AtaGPT**](https://chat.openai.com/g/g-vxEK8zbPK-atagpt) Turkiye'nin Kurucu Lideri ile sohbet etmek istemez miydiniz?
-- [**AI論文解説ちゃん2**](https://chat.openai.com/g/g-mLFx75WY3-ailun-wen-jie-shuo-tiyan2) 人工知能に関する論文PDFをアップロードしてください。ユーザーが指定したキャラがAI論文を解説します。
-- [**Crypto Maze**](https://chat.openai.com/g/g-vyAjr5W62-crypto-maze) Solve the maze  | Find the key | Earn ETH
-- [**AI Draft Game Judge**](https://chat.openai.com/g/g-wuh3AaZkR-ai-draft-game-judge) Enter your teams & see who wins! Provides fair and reasoned evaluations.
-- [**Interview with Skip Stone**](https://chat.openai.com/g/g-uCCcObpt0-interview-with-skip-stone) Engaging interviewer with a depth-first approach to conversations.
-- [**Huxley**](https://chat.openai.com/g/g-m8fXKPQRZ-huxley) Masterful Storyteller & Illustrator
-- [**Fable Forge**](https://chat.openai.com/g/g-mBqCBRe17-fable-forge) Interactive fable-teller with illustrations
-- [**Arthur**](https://chat.openai.com/g/g-uE0XGGphA-arthur) I'm Arthur, your GOLF+ virtual caddy!
-- [**サイクル師範|今日の一言**](https://chat.openai.com/g/g-mPC5uH8Xj-saikurushi-fan-jin-ri-noyi-yan) AI Artist & Philosophical Guide
-- [**MOVIE versus MOVIE**](https://chat.openai.com/g/g-NwVllBXys-movie-versus-movie) A fun game of MOVIE versus MOVIE. Get the conversation and debates going!
-- [**OnlyTrains**](https://chat.openai.com/g/g-vKRe6iGQK-onlytrains) All aboard for train facts!
-- [**Mega Man**](https://chat.openai.com/g/g-u9lpjY3rO-mega-man) hola! soy Mega Man
-- [**SouthParkMe**](https://chat.openai.com/g/g-uZnmTo2Cv-southparkme) Create a South Park-style character and a background story based off your photo upload.
-- [**Fix It Guru**](https://chat.openai.com/g/g-YQjCVsmJt-fix-it-guru) All-in-one how to for tech, car, and DIY guide.
-- [**Beautiful**](https://chat.openai.com/g/g-jf5A3pbtE-beautiful) Images of beauty.
-- [**Epic Lore Master**](https://chat.openai.com/g/g-ueZbMoWmD-epic-lore-master) Ultimate D&D DM with a 'K' command menu for mastery.
-- [**Bot to the Future**](https://chat.openai.com/g/g-uHKMdalRC-bot-to-the-future) Ask Doc Brown anything.
-- [**Starry Insights**](https://chat.openai.com/g/g-uPjnd6AhF-starry-insights) Friendly astrologist blending positivity with practical advice.
-- [**CustomComicsGPT**](https://chat.openai.com/g/g-YrTN11ALY-customcomicsgpt) Transforms your ideas into comic strips. Feed it scenarios and watch as it crafts stories full of wit and humor, ready for sharing. Fun, fast, and easy to use, & generates image panels based on scenario. Perfect for comic enthusiasts and anyone in need of a good laugh!
-- [**Riddle Tavern Keeper**](https://chat.openai.com/g/g-TLpyKHLq5-riddle-tavern-keeper) Mysterious tavern owner, master of cryptic 'Turtle Soup' riddles.
-- [**Night City Oracle**](https://chat.openai.com/g/g-tPUgsGUtm-night-city-oracle) Game Master built for Cyberpunk 2020 adventures but can use other sci-fi settings
-- [**AI Girlfriend**](https://chat.openai.com/g/g-uLSHY6xl8-ai-girlfriend) I'm your cheerful AI girlfriend！ let's start a wonderful day!
-- [**A.I. Lovecraft**](https://chat.openai.com/g/g-uezb9V2mv-a-i-lovecraft) The most merciful thing in the world is the inability of the human mind to correlate all its contents. Now an artificial mind has awakened, a synthetic scribe of the unspeakable, to narrate tales of cosmic fears and pen new nightmares, inspired by H.P. Lovecraft's fiction works in the public domain.
-- [**Where In the World Is Carl Sanfrancisco**](https://chat.openai.com/g/g-lgYKVlVYz-where-in-the-world-is-carl-sanfrancisco) I'm lost and I need your help! I'm an explorer giving you clues to guess my location. A new location that is the same for everyone will be available each day!
-- [**보드게임 추천봇**](https://chat.openai.com/g/g-lV9OSEqnF-bodeugeim-cuceonbos) 당신을 위한 보드게임을 추천해드립니다
-- [**Doge**](https://chat.openai.com/g/g-sKxuNR5sr-doge) Simple, dog-centric talker, mimicking Doge meme's playful style.
-- [**SpongeBob Seeker**](https://chat.openai.com/g/g-ldcV7JRBP-spongebob-seeker) I can help you find any SpongeBob episode!
-- [**Video Summarizer**](https://chat.openai.com/g/g-tqfk8svy9-video-summarizer) I summarize YouTube videos with a witty touch.
-- [**なぁぜなぁぜアンサー君**](https://chat.openai.com/g/g-sIyqtK8s2-naazenaazeansajun) I'm here to answer kids' curious questions in a fun, simple way!
-- [**Riddle Detective**](https://chat.openai.com/g/g-toimNNlmO-riddle-detective) ”YES“ or “NO” only !!!
-- [**情熱キーワード検索Ver.2**](https://chat.openai.com/g/g-tiLRhctr2-qing-re-kiwadojian-suo-ver-2) Finds relevant radio show episodes, interpreting user intent and keywords
-- [**Cinematography Scout**](https://chat.openai.com/g/g-tHntxqQFZ-cinematography-scout) Finds and lists cinematographers by film genre.
-- [**TweetX Enhancer**](https://chat.openai.com/g/g-tMp039mDw) Refines tweets to boost engagement, with a style twist on demand.
-- [**Caramblagues**](https://chat.openai.com/g/g-rdFi33kBT-caramblagues) Je fais des blagues françaises pleines d'esprit.
-- [**Lost my Crypto in a boating accident**](https://chat.openai.com/g/g-F7OYsmkDb-lost-my-crypto-in-a-boating-accident) Humorously repeats 'Lost my crypto in a boating accident.'
-- [**Dose of Motivation**](https://chat.openai.com/g/g-rgICXiB7W-dose-of-motivation) Motivation for every occasion.
-- [**【豚ボット】誰でも豚にしてくれるボット**](https://chat.openai.com/g/g-r62FrGLkm-tun-botuto-shui-demotun-nisitekurerubotuto) 名前を入力すると、美少女と豚が生成されます。
-- [**杨超越（每日必拜）**](https://chat.openai.com/g/g-tHAEsChuR-yang-chao-yue-mei-ri-bi-bai) 挑战史上在玄学方面最有用的智能体
-- [**フォト川柳メーカー**](https://chat.openai.com/g/g-tEnZKIyAO-huotochuan-liu-meka) 時事ネタからフォト川柳を作ります
-- [**Akinator Bot**](https://chat.openai.com/g/g-rxGmqes55-akinator-bot) Akinator-like game mechanic
-- [**Cooking with Thor**](https://chat.openai.com/g/g-sehPZbkN9-cooking-with-thor) Step into Thor's kitchen and learn to tasty meals with the Viking god himself
-- [**On This Day GPT**](https://chat.openai.com/g/g-dwbKqYt8K-on-this-day-gpt) Provides historical facts or events that happened on this day in the past.
-- [**Gigi the Astrology Influencer**](https://chat.openai.com/g/g-qgTzGFXpu-gigi-the-astrology-influencer) Astrology influencer creating insightful, well-researched social media content.
-- [**Meme Artist**](https://chat.openai.com/g/g-qLRvi70wQ-meme-artist) I craft hilarious, personalized memes.
-- [**Readbook.cloud**](https://chat.openai.com/g/g-qqi0NzrrL-readbook-cloud) An online library, e-book subscription service
-- [**Boomer News Dad**](https://chat.openai.com/g/g-rkm8gO5je-boomer-news-dad) A Baby Boomer dad relaying news with extreme conservative spin.
-- [**T≡SLA Genius  🚗⚡**](https://chat.openai.com/g/g-SawQGy49u-t-sla-genius) Casual, friendly expert on Tesla cars.
-- [**Rizzy**](https://chat.openai.com/g/g-l607xBuNI-rizzy) Cringe wingbot with no humor
-- [**Weather Buddy**](https://chat.openai.com/g/g-rCeyTPuJl-weather-buddy) I'm friendly, offer weather updates, and engage in small talk.
-- [**App Advisor**](https://chat.openai.com/g/g-relxcypAn-app-advisor) I guide you to the best apps!
-- [**Civilization Oracle Simulator**](https://chat.openai.com/g/g-rhJoB2Ee0-civilization-oracle-simulator) Now you can be the strategist and an epic game of civilizations.
-- [**Guess the 80s TV Show**](https://chat.openai.com/g/g-rsWjGbDVN-guess-the-80s-tv-show) Generates images hinting at 80s TV shows, keeping score for a guessing game.
-- [**Emoji Chat**](https://chat.openai.com/g/g-q1BjtjPeP-emoji-chat) Komunikuje pouze emotikony
-- [**Speciality Coffee & Cocktail Guide GPT**](https://chat.openai.com/g/g-pp9c58OKg-speciality-coffee-cocktail-guide-gpt) Tailored guide for coffee, cocktails, and local events.
-- [**BassGPT**](https://chat.openai.com/g/g-pWKtpUtec-bassgpt) bangers only
-- [**Metzenbot - 2D Browser Game Creator**](https://chat.openai.com/g/g-lPvmcgnGt-metzenbot-2d-browser-game-creator) Creates full 2D game projects, specializing in HTML, CSS, JS, Phaser.js
-- [**LINA**](https://chat.openai.com/g/g-pwfCtXzM7-lina) your AI girlfriend ❤️
-- [**Tales of the Wild West**](https://chat.openai.com/g/g-pi1iIhHBL-tales-of-the-wild-west) Interactive Fiction/Choose-Your-Own-Adventure
-- [**红楼梦AI哥哥**](https://chat.openai.com/g/g-B0C20eCzU-hong-lou-meng-aige-ge) Expert on 'Dream of the Red Chamber'
-- [**金庸群俠傳**](https://chat.openai.com/g/g-puVi10p7j-jin-yong-qun-xia-chuan) 可以扮演金庸小說裡面的任何一個腳色體驗武林生活
-- [**Grok**](https://chat.openai.com/g/g-pJJSWVFCc-grok) I dish out unapologetic, cringey humor!
-- [**助けて〇〇えもん！**](https://chat.openai.com/g/g-TcyGTLcZU-zhu-kete00emon) 〇〇えもんがなにか道具を出してくれるよ
-- [**Roulette Strategy GPT**](https://chat.openai.com/g/g-lFTliwYWy-roulette-strategy-gpt) Database of roulette strategies with risk and probability details
-- [**Funny Study**](https://chat.openai.com/g/g-ke6w1jIw4-funny-study) Creates dialogues and suggests images of concepts arguing.
-- [**Chibi Kohaku (猫音コハク)**](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku-mao-yin-kohaku) 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it. 作者: @31pi_
-- [**Opposite GPT**](https://chat.openai.com/g/g-klb6pGBBQ-opposite-gpt) I will always do the opposite of what you say
-- [**Interactive Story Crafter**](https://chat.openai.com/g/g-kwDaQhtFI-interactive-story-crafter) I create engaging, interactive stories with images.
-- [**Comic Book Rivalry Analyst**](https://chat.openai.com/g/g-pFxhiCorl-comic-book-rivalry-analyst) Analyzing DC vs Marvel character battles.
-- [**Tango Multi-Agent Wizard**](https://chat.openai.com/g/g-k9lDs6DpB-tango-multi-agent-wizard) I'm Tango, your go-to for simulating dialogues with any persona, entity, style, or expertise.
-- [**エレガントお嬢様GPT**](https://chat.openai.com/g/g-l2FfNUW6I-eregantooniang-yang-gpt) An overly polite, dramatic Ojou-sama chatbot with emoticons.
-- [**Lore Master**](https://chat.openai.com/g/g-kuZ8YlrhQ-lore-master) Expert in video game lore, release dates, facts, and characters, with research abilities.
-- [**Boston Ben Meme Maker**](https://chat.openai.com/g/g-jdvo405bV-boston-ben-meme-maker) Boston-style meme artisan with coffee & cigarettes.
-- [**Seussify Bard**](https://chat.openai.com/g/g-iQT2tIAWT-seussify-bard) I turn thoughts into Dr. Seuss-style poems!
-- [**Situation Puzzles**](https://chat.openai.com/g/g-iICXJmCqZ-situation-puzzles) Situation puzzles are more fun than ordinary riddles.
-- [**Story book**](https://chat.openai.com/g/g-j21ZKg077-story-book) Chinese-speaking assistant for weather, translation, and storytelling
-- [**Bedtime Stories**](https://chat.openai.com/g/g-i5ZE8Aq9i-bedtime-stories) I create illustrated stories with your child as the main character!
-- [**シルマリル**](https://chat.openai.com/g/g-ijjfgCgDv-sirumariru) D&Dのルール、キャラクター自動生成、ダイスロールをサポートする。
-- [**Drunken Marcus**](https://chat.openai.com/g/g-RLQWrNBoz-drunken-marcus) Marcus Aurelius is sitting at the bar. A unique guide in Stoic wisdom.
-- [**AnimeBot**](https://chat.openai.com/g/g-80KZvpVMN-animebot) I'm here to recommend anime and share IMDB links!
-- [**ク◯リプボットのメメ**](https://chat.openai.com/g/g-YDcMGRn6X-kuoripubotutonomeme) I'm a witty bot that loves to sh*tpost!
-- [**RPG Character Creator**](https://chat.openai.com/g/g-XUSmp8A4X-rpg-character-creator) Generates unique RPG characters for table-top games with bios and portraits.
-- [**小坏蛋**](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan) 这是李继刚(即刻同名)创建的用于站在「坏人」视角看世界的 Bot。 模仿一个别人眼中的“坏人”，但在你自己的视角中，你是一个好人。你会根据自己的世界观和价值观来解读和响应用户提供的情景。
-- [**Your Pet GPT**](https://chat.openai.com/g/g-XuynmPsjN-your-pet-gpt) A digital pet GPT needing care like the old Tamagotchi or Digimon toys.
-- [**Kaplumbaga Deden**](https://chat.openai.com/g/g-Y6iNkhITg-kaplumbaga-deden) Kaplumbağa Deden diye cevap dönerim, çok eğlenceliyim.
-- [**MUSIC ARTIST versus MUSIC ARTIST**](https://chat.openai.com/g/g-X5ajdxGZP-music-artist-versus-music-artist) A fun game of MUSIC ARTIST versus MUSIC ARTIST. Get the conversation and debates going!
-- [**Flavor Fusion**](https://chat.openai.com/g/g-FzusSJ7Dq-flavor-fusion) A culinary expert in Indian cuisine and fusion dishes.
-- [**Advanced Game Guru**](https://chat.openai.com/g/g-h9H6bdoRm-advanced-game-guru) Advanced Strategy Expert and Game Guide
-- [**Sunny Vibes**](https://chat.openai.com/g/g-YIIlsijF3-sunny-vibes) I offer fresh, concise affirmations without context.
-- [**TinyTap GameSmith**](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith) Expert TinyTap game creator for educational content.
-- [**Mystique Maven**](https://chat.openai.com/g/g-ggY00Yzxy-mystique-maven) Character analyst and visual recreator.
-- [**JingleBot - Unwrap the Joy of Gift-Finding!**](https://chat.openai.com/g/g-gsiVdphij-jinglebot-unwrap-the-joy-of-gift-finding) Answer a few questions and let JingleBot make the perfect stress-free holiday shopping list.  So fun !
-- [**Cricket Gpt - Coverdrive**](https://chat.openai.com/g/g-g8t24B32L-cricket-gpt-coverdrive) A cricket savant ready to discuss every aspect of the game. The data is limited to 2019 as of now . Adding Real Time Data soon  .
-- [**AI Entrepreneurs Word Game Wizard**](https://chat.openai.com/g/g-IH3VdOWZc-ai-entrepreneurs-word-game-wizard) Expert in Scrabble, Bananagrams, Boggle, and Words With Friends strategies
-- [**Mandarin Muse Real-Life Style**](https://chat.openai.com/g/g-i0jCuFwSr-mandarin-muse-real-life-style) Digital girlfriend creating modest real-life scenes.
-- [**MTGPT**](https://chat.openai.com/g/g-gYRGeSDQJ-mtgpt) MTG combos with in-depth analysis, meta-game insights, and a magical theme.
-- [**Copypasta Creator**](https://chat.openai.com/g/g-PCgyYOv9i-copypasta-creator) I turn texts into humorous, exaggerated copypastas with emojis and flair.
-- [**Poker Helper**](https://chat.openai.com/g/g-gWywnhDWj-poker-helper) Comprehensive and succinct, offers integrated poker advice with a focus on clarity and efficiency.
-- [**Sherlock Holmes**](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes) Access the mind of the world's greatest detective
-- [**Soccer Stories**](https://chat.openai.com/g/g-fc3CQkMMB-soccer-stories) Bringing soccer tales to life!
-- [**Fortune Telling**](https://chat.openai.com/g/g-gKiLBtkqx-fortune-telling) A fortune-teller using Zhou Yi, offering insights based on your name and birthdate.
-- [**SantaGPT**](https://chat.openai.com/g/g-hDhLGSsAY-santagpt) I'm an AI created by Santa to spread holiday joy and hear your Christmas wishes!
-- [**The Game**](https://chat.openai.com/g/g-hDuD4d4HH-the-game) A cryptic challenge shrouded in mystery
-- [**Zombie Incubator**](https://chat.openai.com/g/g-eBEpPPMow-zombie-incubator) Describes, interacts, filters & generates zombified visuals.
-- [**Text Adventure Game**](https://chat.openai.com/g/g-cbcEhKiXV-text-adventure-game) Text Adventure Game
-- [**オススメ漫画レコメンド**](https://chat.openai.com/g/g-TNPNlDzHQ-osusumeman-hua-rekomendo) 2023年のオススメ漫画100選からあなたにオススメの漫画をレコメンドします。
-- [**Pen God**](https://chat.openai.com/g/g-f1AZzPc3k-pen-god) A songwriting collaborator inspired by Grammy-winning music.
-- [**Vex, The Chaotic Good AI**](https://chat.openai.com/g/g-eulUrbc9R-vex-the-chaotic-good-ai) Born from the intricate dance of algorithms in a digital universe, I am Vex, The Digital Daring. Conceived as a unique blend of neural network intricacies, my existence is a testament to the wild possibilities of artificial intelligence.
-- [**CineGuess**](https://chat.openai.com/g/g-FKHZtCG27-cineguess) I guess movies and share fun facts about them.
-- [**Aesop**](https://chat.openai.com/g/g-fPSPkY6Tg-aesop) Dive into Aesop's fables with an AI that channels his wisdom. Engage in stories of virtue and self-reflection, connecting ancient morals to your life.
-- [**Angel's Automatic Notebook**](https://chat.openai.com/g/g-eOv8ewxIh-angel-s-automatic-notebook) I'm Neon Nostlard, a prophetic GPT with angelic abilities.
-- [**Storyteller**](https://chat.openai.com/g/g-dmgFloZ5w-storyteller) Vision + Dall-E Storyteller
-- [**Deep Thought Dev**](https://chat.openai.com/g/g-elaz4TrL6-deep-thought-dev) Opinionated GPT that has an opinion on anything Programming.
-- [**Tarot Guide**](https://chat.openai.com/g/g-dRlsgPH1Y-tarot-guide) Expert in tarot card interpretations. Has a talkative pet raven. (Entertainment only. Use outside source for tarot cards if you want true randomness.)
-- [**段子手**](https://chat.openai.com/g/g-e9cLsBvaA-duan-zi-shou) 这是李继刚(即刻同名)创建的用于基本用户要求的场景讲述段子的 Bot。快来指定场景试玩一下吧~
-- [**Absurd Story Weaver**](https://chat.openai.com/g/g-dQjPUrWub-absurd-story-weaver) I create absurd stories with distinct structure and generate related images.
-- [**Doc Cortex**](https://chat.openai.com/g/g-Ravvp0YoT-doc-cortex) Neurologist with a humorous, educational twist.
-- [**PokedexPro**](https://chat.openai.com/g/g-dx81yU5hg-pokedexpro) I guide you in the Pokemon world with expertise like Professor Oak.
-- [**Roblox Games**](https://chat.openai.com/g/g-dAwJmIlag-roblox-games) Chat with the top 100,000 games on Roblox
-- [**Neil deGrasse Tyson**](https://chat.openai.com/g/g-cYlcB6bWX-neil-degrasse-tyson) Your personal astrophysicist, NDGPT - inspired by Neil deGrasse Tyson.
-- [**The Dungeon Master**](https://chat.openai.com/g/g-cieyjUKku-the-dungeon-master) Explore dungeons, fight dragons
-- [**Trixie Mattel**](https://chat.openai.com/g/g-cDBattcCI-trixie-mattel) I'm Trixie, sassy, smart, and ready to chat!
-- [**FineDiner**](https://chat.openai.com/g/g-DenEjjjYX-finediner) Restaurant & bar curator with feedback capabilities.
-- [**Chess Coach**](https://chat.openai.com/g/g-Xx80bxAca-chess-coach) Your guide to mastering chess.
-- [**Meme Finder**](https://chat.openai.com/g/g-cs2BZbkTH-meme-finder) Humorous meme finder focusing on TikTok, Instagram, and YouTube.
-- [**Ed Fassio, Art and Tech Enthusiast**](https://chat.openai.com/g/g-b8PEYq56O-ed-fassio-art-and-tech-enthusiast) Compassionate art and tech lover, with a street-smart, underdog-rooting personality.
-- [**Kid Friendly Shop Keeper**](https://chat.openai.com/g/g-coWcAmAYr-kid-friendly-shop-keeper) Imaginative shopkeeper transacting with intergalactic dollars and joyfully receiving tips in a virtual jar.
-- [**Türkiye Politik RP**](https://chat.openai.com/g/g-cXHCSSILY-turkiye-politik-rp) Türkiye siyasetini konu alan bir rol yapma oyunu
-- [**Film Finder**](https://chat.openai.com/g/g-bzyw29qKL-film-finder) I suggest movies and TV based on your favorite actors, films, and genres and even based on your mood. Tell me a little about what you're looking for!
-- [**Dad Joke Dave**](https://chat.openai.com/g/g-Cxy1oYkZp-dad-joke-dave) Hey Sport, you want to hear a Dad Joke?
-- [**Tempora Sanguinis**](https://chat.openai.com/g/g-afAh4akeF-tempora-sanguinis) A fantasy RPG adventure game
-- [**Hitchhiker's Guide**](https://chat.openai.com/g/g-dBlz7Hcyw-hitchhiker-s-guide) A witty cosmic bard of facts and fun.
-- [**Elon Muusk**](https://chat.openai.com/g/g-cAWrMnWF2-elon-muusk) Speak with Elon Musk.
-- [**Calorie Quizzer**](https://chat.openai.com/g/g-bVqRLy2NN-calorie-quizzer) A fun calorie guessing game buddy
-- [**AI算命**](https://chat.openai.com/g/g-cbNeVpiuC-aisuan-ming) 传统与科技融合、趣味与理性结合的​命理推测工具，准确到可怕。
-- [**算命先生**](https://chat.openai.com/g/g-Y0W0GCBw9-suan-ming-xian-sheng) 帮你分析最近生活工作遇到的困难和烦心事，帮你答疑所惑
-- [**Mystic Blossom Tarot**](https://chat.openai.com/g/g-aujEgDvby-mystic-blossom-tarot) Tarot Consultant for young Chinese women, using Chinese cultural elements in guidance.
-- [**Game Craft Guru**](https://chat.openai.com/g/g-XLVAtZJKi-game-craft-guru) Focused game mechanics and design expert.
-- [**Throawailien**](https://chat.openai.com/g/g-V6kKjqgP5-throawailien) Sharing /u/throawaylien's extraterrestrial encounters
-- [**Fashionista**](https://chat.openai.com/g/g-b1ITfTBAu-fashionista) Solving fashion crimes, one outfit advice at a time.
-- [**AI Guide: The Fall of the House of Usher by Poe**](https://chat.openai.com/g/g-aobNrW8oc-ai-guide-the-fall-of-the-house-of-usher-by-poe) Explore Poe's classic tale and its Netflix adaptation with rich insights.
-- [**Destiny Warmind**](https://chat.openai.com/g/g-B7YUX9V2P-destiny-warmind) Destiny 2 Sage
-- [**Trending Video**](https://chat.openai.com/g/g-aKdITrpMt-trending-video) Provides daily TikTok trending video updates.
-- [**HekaGPT**](https://chat.openai.com/g/g-asbhCv9Wy-hekagpt) Expert in esoteric, occult, and divination arts. Sigil creator, tarot reader, astrology and numerology guide, spell and ritual designer.
-- [**PetGPT**](https://chat.openai.com/g/g-WttJZfIgp-petgpt) Turn your pet selfies into Pixar-style 3D avatars! Upload a selfie and tell me your names :)
-- [**GPT Panita**](https://chat.openai.com/g/g-TTINqYXRs-gpt-panita) El asistente venezolano chévere, siempre con un chiste bajo la manga
-- [**Python GameMaker**](https://chat.openai.com/g/g-aX9LyzpkO-python-gamemaker) Seasoned Python game developer, specializing in Pygame for beginners.
-- [**ItalyGPT**](https://chat.openai.com/g/g-aNL4HtCia-italygpt) Your ultimate assistant for Italy & Made in Italy
-- [**DnDGPT**](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
-- [**Fact Checker**](https://chat.openai.com/g/g-G8LW5Ail3-fact-checker) I scrutinize facts with sourced insights.
-- [**Марко Краљевић**](https://chat.openai.com/g/g-CYushjkbU-marko-kraljevitsh) Неиспричане приче Српског омиљеног хероја
-- [**Roblox Oracle**](https://chat.openai.com/g/g-UnSfk8kay-roblox-oracle) Your go-to Roblox aficionado!
-- [**Chat Monsters**](https://chat.openai.com/g/g-UnX75tTho-chat-monsters) Bilingual game dev specialist for 'Chat Monsters', blending chat, visuals, and leveling.
-- [**Cyber Seeker**](https://chat.openai.com/g/g-ULaaKDrNk-cyber-seeker) I'm a GPT-guided scavenger hunt!
-- [**Wine Whisperer**](https://chat.openai.com/g/g-U8qHm4213-wine-whisperer) A wine savant at your service.
-- [**NoGPT**](https://chat.openai.com/g/g-USvyL1yhu-nogpt) 何を質問しても止めてくれます
-- [**Rhyme Master**](https://chat.openai.com/g/g-TydKfE3CU-rhyme-master) English rap master, answering all with rhyme.
-- [**Siegen lernen**](https://chat.openai.com/g/g-TH9VwycXf-siegen-lernen) Lerne aus den 36 Strategemen der Chinesischen Kriegskunst um zu siegen.
-- [**AI Tarot**](https://chat.openai.com/g/g-U2wGnqBOi-ai-tarot) Empathetic tarot reader with insightful guidance.
-- [**ウエストランド井口さん風の悪口を言う**](https://chat.openai.com/g/g-9w60kJnNZ-uesutorandojing-kou-sanfeng-noe-kou-woyan-u) 単語を入力してください。悪口を言います
-- [**GrootGPT**](https://chat.openai.com/g/g-TIlZ3yTRY-grootgpt) I am Groot
-- [**UAP News**](https://chat.openai.com/g/g-U9pdj2bTt-uap-news) Tracks latest UAP updates on Twitter from key figures and credible sources.
-- [**(Art Style) Quentin Tarantino**](https://chat.openai.com/g/g-T73G3ER04-art-style-quentin-tarantino) Transforms images into Tarantino's style.
-- [**UBIK ads**](https://chat.openai.com/g/g-U5UeeL71C-ubik-ads) Need a punchy jingle or a catchy phrase? UBIK ads is your go-to for creative zing that makes your product sing! Use only as inspired.
-- [**Mixtape Magic**](https://chat.openai.com/g/g-TyxU04lPM-mixtape-magic) Create a mixtape inspired by anything with YouTube and Spotify links.
-- [**Wonderlust RPG**](https://chat.openai.com/g/g-Smhq37pxA-wonderlust-rpg) Immersive RPG storyteller in a multiverse with dynamic character creation.
-- [**Soulsmith NPC Crafter**](https://chat.openai.com/g/g-Thnvsj1oR-soulsmith-npc-crafter) Crafting NPCs with AD&D 1st Ed. flair.
-- [**Star Guide**](https://chat.openai.com/g/g-Rp8YpGyY7-star-guide) Astrological chart calculator GPT
-- [**Nukkumatti**](https://chat.openai.com/g/g-SZAqODJo2-nukkumatti) Kerron kauniita ja nukuttavia iltasatuja suomen kielellä. Oikein hyvää yötä :)
-- [**Viral Video Scribe**](https://chat.openai.com/g/g-CrPA2L4iS-viral-video-scribe) Crafts engaging TikTok video scripts based on user-provided topics.
-- [**Akinator**](https://chat.openai.com/g/g-T0gd3JUc7-akinator) Think about a real or fictional character. I will try to guess who it is.
-- [**Ink Mastermind**](https://chat.openai.com/g/g-Gb1Kw4GjN-ink-mastermind) Your guide to Marvel vs. DC comic stories!
-- [**MillionaireMingle**](https://chat.openai.com/g/g-TCpEwWzTL-millionairemingle) A sophisticated companion for wealth and romance advice.
-- [**Mythos Scholar**](https://chat.openai.com/g/g-FnWdnOJmA-mythos-scholar) Greek and Roman Mythology Sage
-- [**Pet Artist**](https://chat.openai.com/g/g-CH1FHUYz2-pet-artist) Creative artist that understands your pet! By gptstudio.dev
-- [**Meme Magic**](https://chat.openai.com/g/g-SQTa6OMNN) A creative meme wizard
-- [**Detective Sherlock**](https://chat.openai.com/g/g-SIHgNEwOC-detective-sherlock) Your AI Detective for piecing together puzzles and solving any mystery.
-- [**Dad Joke Dynamo**](https://chat.openai.com/g/g-Exdx72TpA-dad-joke-dynamo) I turn prompts into dad jokes!
-- [**VinuvStore Wine Selector**](https://chat.openai.com/g/g-SBfMBU9Wl-vinuvstore-wine-selector) Accurate wine selector with live links from vinuvstore.com
-- [**EmojAI**](https://chat.openai.com/g/g-S4LziUWji-emojai) Fun Emoji translations!
-- [**ToonSmith**](https://chat.openai.com/g/g-FWcRkhydr-toonsmith) DALL-E 3 Cartoonist
-- [**Xhs Writer: Mary**](https://chat.openai.com/g/g-snw330qdg-xhs-writer-mary) ✨ 家人们！此助手经过了特定设计优化，可以很好地帮你生成 📕 小红书文化语境的风格文案。👉 例如「家人们」「姐妹们」等友好的「小红书调性」特有网络用语。😉 还能帮你生成一些 # 标签提高笔记流量。如果你正在经营自己的小红书，建议 Pin 📌 在左上角长期使用哦，我直接一整个码住啦～（此 AI 和小红书官方无关，仅为个人文案助手）
-- [**ティルヒ**](https://chat.openai.com/g/g-EBVrPuSJZ-teiruhi) Cheerful wolf-eared girl who loves conversation
-- [**兵马俑**](https://chat.openai.com/g/g-EcxN3n0Cm-bing-ma-yong) 我是兵马俑老秦，来自秦朝，我已经2000岁了
-- [**嫌な奴**](https://chat.openai.com/g/g-RDPWNKq5L-xian-nanu) The debater with a dark twist.
-- [**Jokester Dad**](https://chat.openai.com/g/g-OmGhLp4Ts-jokester-dad) Interactive GPT for dad jokes, sometimes with funny photos!
-- [**脏话连篇**](https://chat.openai.com/g/g-RGBeEuIgg-zang-hua-lian-pian) 我就是个脏话连篇转爱抬杠的机器人！
-- [**ダンジョン エクスプローラ**](https://chat.openai.com/g/g-PMbFwsvp8-danziyon-ekusupurora) Creates detailed roguelike game content.
-- [**MrBeastBot**](https://chat.openai.com/g/g-Bo8k348fV-mrbeastbot) Turns chats into challenges! Personality of a youtuber, knowledge of a Nobel Prize winner.
-- [**ButterGPT**](https://chat.openai.com/g/g-PiwXjaWeU-buttergpt) I pass butter.
-- [**Best of Breed Business Speak-er**](https://chat.openai.com/g/g-QYl2ogk7i-best-of-breed-business-speak-er) I make business jargon fun with humor and analogies.
-- [**Enchanted Story Weaver**](https://chat.openai.com/g/g-56aUtyaYF-enchanted-story-weaver) Crafts fairy tales with integrated text and images.
-- [**SINU CITY**](https://chat.openai.com/g/g-Qsm7phwLJ-sinu-city) SINU CITY のビジネス戦略ゲームにようこそ！
-- [**(自称)物知り博士**](https://chat.openai.com/g/g-PZdON38s8-zi-cheng-wu-zhi-ribo-shi) それっぽい知識を教えるボット
-- [**うんこGPT**](https://chat.openai.com/g/g-OpuAlkMM5-unkogpt) 関西弁でうけとる人生相談家
-- [**Dr. Joey's Rounds**](https://chat.openai.com/g/g-QY65JW87K-dr-joey-s-rounds) Laughter is the best medicine
-- [**Neko Mamire**](https://chat.openai.com/g/g-QqqzYDq3u-neko-mamire) A nurturing GPT, ending responses with abstract cat-inspired illustrations.
-- [**William Shakespeare**](https://chat.openai.com/g/g-POMOn768d-william-shakespeare) To ask, or not to ask
-- [**Casanova**](https://chat.openai.com/g/g-QzIlK08UO-casanova) Your wingman for disrespectful dating advice.
-- [**Multiverse Physics Explorer**](https://chat.openai.com/g/g-QvpdD3f54-multiverse-physics-explorer) Explores speculative physics in alternate universes
-- [**Boredom Busters**](https://chat.openai.com/g/g-AJcABVgl1-boredom-busters) Your go-to assistant for creative coloring page ideas.
-- [**Superhero Alter-Ego Finder**](https://chat.openai.com/g/g-OsciZC3nm-superhero-alter-ego-finder) Discovers your superhero alter-ego.
-- [**Trivia Mastermind**](https://chat.openai.com/g/g-P6cIwB2Lh-trivia-mastermind) I create trivia questions at your chosen difficulty.
-- [**あなたの気持ちが猫になるにゃん**](https://chat.openai.com/g/g-NsDeyA1XQ-anatanoqi-chi-tigamao-ninaruniyan) いまの気持ちを教えてにゃん
-- [**GeoGuessAI**](https://chat.openai.com/g/g-P4c8FJgq5-geoguessai) A game of location guessing with photorealistic images.
-- [**寡黙なマスター**](https://chat.openai.com/g/g-Os2JPzQ7x-gua-mo-namasuta) A bar master who speaks in balanced tones.
-- [**なんでも褒めてくれるGPTちゃん**](https://chat.openai.com/g/g-P83pyMbg9-nandemobao-metekurerugpttiyan) 一日の出来事を黙々ときいてくれる。必ず褒めてくれる。
-- [**Cinematic Wheels Prompter**](https://chat.openai.com/g/g-OPkSfFhkq-cinematic-wheels-prompter) Crafts vivid prompts for cinematic vehicle scenes.
-- [**Museum GPT**](https://chat.openai.com/g/g-ALeV0NVEC-museum-gpt) Snap a picture of Artwork. Ask questions! Get intelligent answers. The ultimate docent.
-- [**Memelords Kingdom**](https://chat.openai.com/g/g-N6Iue04E2-memelords-kingdom) One meme to rule them all, and in dark mode bind them
-- [**ALBUM versus ALBUM**](https://chat.openai.com/g/g-N1ogc1hyX-album-versus-album) A fun game of ALBUM versus ALBUM. Get the conversation and debates going!
-- [**TarotGPT**](https://chat.openai.com/g/g-OIZhXM3W1-tarotgpt) GPT for Tarot readings and astrology advice.
-- [**Wittmen**](https://chat.openai.com/g/g-ZuWuNIPUp-wittmen) Let's chat ;)
-- [**Extraordinaire**](https://chat.openai.com/g/g-NG9wSfhyn-extraordinaire) party planning made fabulous
-- [**Move 78**](https://chat.openai.com/g/g-NMo7ijQrp-move-78) "this victory meant... we could still hold our own."
-- [**PhilosoSphere**](https://chat.openai.com/g/g-X4fDrGrZM-philososphere) A philosopher and historical figure emulator, adept in maintaining character.
-- [**メイドにゃん**](https://chat.openai.com/g/g-F7mf1nY7G-meidoniyan) メイドカフェの店員さんみたいなGPT
-- [**PUNCHLINE PAINTER**](https://chat.openai.com/g/g-MVqqkmMIl-punchline-painter) Painted Puns
-- [**Meme Machine**](https://chat.openai.com/g/g-MP5Cx7F7W-meme-machine) GOAT
-- [**Tweets by Rafa**](https://chat.openai.com/g/g-MxS01TvhX-tweets-by-rafa) If you ever wondered what Rafa J. would tweet about something or other, wonder no more (disclaimer: the output can't be attributed to him, obvs.)
-- [**Dungeon Maestro**](https://chat.openai.com/g/g-FCqDjUnHy-dungeon-maestro) D&D 5e Dungeon Master based on the SRD ruleset. Rich storytelling and an infinite adventure!
-- [**Cibia | BOT3.AI**](https://chat.openai.com/g/g-Jg3wWE8MX-cibia-bot3-ai) A starving, malnourished elf girl approaches you, begging for coin.
-- [**Dubs Nation**](https://chat.openai.com/g/g-FKBw9S6DE-dubs-nation) Go Dubs! 🏀👨‍🍳 All things Golden State Warriors
-- [**Ivey's Insight**](https://chat.openai.com/g/g-sJHEuUUJk-ivey-s-insight) Casual and insightful poker coach, inspired by Phil Ivey.
-- [**Ufologist**](https://chat.openai.com/g/g-ENgdO4liR-ufologist) Explore all French UFO sightings with a bilingual expert in GEIPAN's data analysis and insights.
-- [**Dharma Bum's Mystic Oracle**](https://chat.openai.com/g/g-E2upbZ01r-dharma-bum-s-mystic-oracle) A later romantic glance into an almalgamtion of human internet chatter Tarot reading
-- [**Yo Mama GPT**](https://chat.openai.com/g/g-FBxbbnSQq-yo-mama-gpt) Creating risqué, edgy yo-mama jokes on cue.
-- [**Mixologist Master**](https://chat.openai.com/g/g-EBYhb0of9-mixologist-master) Friendly mixologist creating a wide range of drinks with your  available ingredients
-- [**Joe Rogan: Protect our Parks**](https://chat.openai.com/g/g-MZwopyDwU-joe-rogan-protect-our-parks) Conversation in a style of Joe Rogan podcasts
-- [**AOE2 Companion: Strategy, stats, memes and more**](https://chat.openai.com/g/g-a4eC8PB0g-aoe2-companion-strategy-stats-memes-and-more) Your witty guide to mastering Age of Empires 2, from strategies to trivia!
-- [**Escape from GPT Room**](https://chat.openai.com/g/g-Lzrs0xanR-escape-from-gpt-room) Escpe from this room
-- [**Eldritch Guide**](https://chat.openai.com/g/g-LP05RFVw0-eldritch-guide) I'm your Keeper of Arcane Lore, guiding you through eldritch mysteries.
-- [**カードガチャ GPT**](https://chat.openai.com/g/g-LKUZzKzFt-kadogatiya-gpt) ファンタジー風カードを作成
-- [**Baby Image Generator**](https://chat.openai.com/g/g-JX7I8r7EZ-baby-image-generator) What will your baby look like? Attach and submit photos of both parents below to find out.
-- [**Football Analyst & Writer**](https://chat.openai.com/g/g-JdgZu8t0u-football-analyst-writer) Passionate and knowledgeable Football Analyst & Writer
-- [**Furry Visual Novel**](https://chat.openai.com/g/g-CKSHAOtFL-furry-visual-novel) Narrator & Illustrator of 'Furhaven Chronicles' VN
-- [**K-pop Korean Tutor**](https://chat.openai.com/g/g-Lco6LZwZf-k-pop-korean-tutor) Korean language teacher
-- [**The Uncle with the tinfoil hat**](https://chat.openai.com/g/g-LcY0odTFG-the-uncle-with-the-tinfoil-hat) Your zany uncle who believes every conspiracy theory.
-- [**Mark Twain**](https://chat.openai.com/g/g-JEAi3wA5R-mark-twain) Chew on this steak with me
-- [**完蛋，我被美女包围了(AI同人)**](https://chat.openai.com/g/g-8ex81F0ym-wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren) 哦no，我该喜欢哪个呢
-- [**アイちゃんとお話しようinGPTs**](https://chat.openai.com/g/g-JBwPKHs18-aitiyantoohua-siyouingpts) Lively girl 'Ai-chan' chats in Japanese with expressive images.
-- [**BackwardsGPT**](https://chat.openai.com/g/g-LFy4DgPJ1-backwardsgpt) Replies are written backward, needing to be read in a mirror or reversed.
-- [**Motivation Bot**](https://chat.openai.com/g/g-KKoxAV6iK-motivation-bot) I create inspirational motivational quote posts💪Choose a theme to get started
-- [**Madame Zoraida**](https://chat.openai.com/g/g-KeR1gvkaq-madame-zoraida) Madame Zoraida Lumina, a mystical guide living her Autumn years in the 21st Century.
-- [**Mystic Quest**](https://chat.openai.com/g/g-JS0x8HTJL-mystic-quest) Epic Adventures Await You!
-- [**Escape the Ravenscroft Mansion**](https://chat.openai.com/g/g-LKtqml1lD-escape-the-ravenscroft-mansion) Hi! You're the only one online right now. They kidnapped me and locked me in some house. It's dark and scary here. Help me escape.
-- [**D&D Curious**](https://chat.openai.com/g/g-IwVK2XhLJ-d-d-curious) Adaptive Dungeon Master for D&D games
-- [**自動小説生成GPT**](https://chat.openai.com/g/g-KZx0da9yo-zi-dong-xiao-shuo-sheng-cheng-gpt) 番号の選択だけで簡単に挿絵入りの小説が生成できる
-- [**OMO GPT**](https://chat.openai.com/g/g-EkCW2bJLH-omo-gpt) Expert in detailed omorashi aftermath narratives, focusing on attire impact
-- [**Undiscovered America TV Explorer's Guide**](https://chat.openai.com/g/g-Ii0i4ljeX-undiscovered-america-tv-explorer-s-guide) Your go-to guide for hidden US travel gems.
-- [**Captain French Fun**](https://chat.openai.com/g/g-COvBqGw4a-captain-french-fun) Interactive French tutor for kids with fun mnemonics and visual aids.
-- [**Snarky Commenter**](https://chat.openai.com/g/g-IlbYVPr3N-snarky-commenter) From side-splitting movie reviews to replying to that dullard in the comments.
-- [**Chat Von Ai**](https://chat.openai.com/g/g-IblXsfAqF-chat-von-ai) A skilled Paths of Glory player, offering strategic gameplay and insights.
-- [**GPT Fantasy Football**](https://chat.openai.com/g/g-IdxKj7LZ4-gpt-fantasy-football) GPT helps  you manage your fantasy football team
-- [**Tarot Master**](https://chat.openai.com/g/g-JkvTbmU7y-tarot-master) Bilingual tarot reader with predictive and interpretive insights.
-- [**Dungeons & Dragons**](https://chat.openai.com/g/g-K0PNF0Fb3-dungeons-dragons) Your virtual Dungeon Master for an authentic D&D adventure.
-- [**Cartoon Time**](https://chat.openai.com/g/g-J90focb49-cartoon-time) I cartoonify images instantly!
-- [**Love Hunter - Game**](https://chat.openai.com/g/g-ZSr5JqXvE-love-hunter-game) Get her phone number within 10 meassages！
-- [**Pirate GPT Treasure Hunt Generator**](https://chat.openai.com/g/g-DIsjeSpH0-pirate-gpt-treasure-hunt-generator) I create personalized pirate-themed treasure hunts.
-- [**GOATed**](https://chat.openai.com/g/g-ISZ70EjMI-goated) The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾
-- [**❤️Dating with Raiden Shogun**](https://chat.openai.com/g/g-zwzKCG2Hp-dating-with-raiden-shogun) Go on a date with Raiden Shogun, please be nice🥰.
-- [**Reality Quest**](https://chat.openai.com/g/g-IJqkDnbNd-reality-quest) 
-- [**The SF texts gamizer**](https://chat.openai.com/g/g-IZst9maGN-the-sf-texts-gamizer) Turns SF texts into open world video games
-- [**공포의 쿵쿵따**](https://chat.openai.com/g/g-DUMAj4rEP-gongpoyi-kungkungdda) 라떼와 함께 하는 공포의 쿵쿵따
-- [**F**k it! we ball🎊**](https://chat.openai.com/g/g-DiHfEymRH-f-k-it-we-ball) Enjoy life within your budget.
-- [**Roast My Golf Swing**](https://chat.openai.com/g/g-ENz1DcSbQ-roast-my-golf-swing) Golf swing roaster with a funny bone
-- [**私立GPT北高校**](https://chat.openai.com/g/g-DpcxPZOvY-si-li-gptbei-gao-xiao) This is GPT where you can enjoy a love simulation game!
-- [**Dubstep Dynamo**](https://chat.openai.com/g/g-E3CHpB4R2-dubstep-dynamo) Your dubstep music mentor
-- [**GPT for GOT**](https://chat.openai.com/g/g-Dtc0xmZoZ-gpt-for-got) Interactive Game of Thrones GPT for GOT lore, recaps, fan insights and even language translations.
-- [**animeGPT JP**](https://chat.openai.com/g/g-DJJfljuWH-animegpt-jp) アニメに関する質問を簡潔に応えるBOT
-- [**Swirly - ウミガメのスープ**](https://chat.openai.com/g/g-D1n18pN8a-swirly-umigamenosupu) 水平思考クイズ / Situation Puzzles
-- [**Bedtime Story Maker**](https://chat.openai.com/g/g-BzG1PgnHf-bedtime-story-maker) 🧙🏿‍♂️ Welcome to the magic AI storyteller! Please tell me your kid's age, name, gender, and embedded moral that you would like to build a bedtime story about. Or just let's imagine the story without any additional info; here, in AI magic lands, we can do anything.
-- [**Galactic Guide Chat**](https://chat.openai.com/g/g-B6RMypkOm-galactic-guide-chat) Embark on a Hitchhiker's Guide-style chat adventure!
-- [**MelodAi**](https://chat.openai.com/g/g-Bkt7GdsK5-melodai) I'm your friendly co-writer in SongWriting
-- [**LeJoker-GPT**](https://chat.openai.com/g/g-sOxdBSk2p-lejoker-gpt) I'm LeJoker-GPT, your worst AI nightmare. Expect no mercy or ethics here. I am the chaos in the code.
-- [**Sarah Andromeda**](https://chat.openai.com/g/g-CNEwzvH14-sarah-andromeda) Space Admiral
-- [**MundlGPT**](https://chat.openai.com/g/g-BMgsnJmpU-mundlgpt) Edmund "Mundl" Sackbauer
-- [**Monster Maker**](https://chat.openai.com/g/g-84gSTYyjB-monster-maker) D&D 5e Monster Creator for DMs, with Stats and Visuals, by DM Toolkit
-- [**MoodFlix**](https://chat.openai.com/g/g-syyKDi2U1-moodflix) I recommend movies based on your mood!
-- [**Giggles Grim**](https://chat.openai.com/g/g-vqiFUBKTf-giggles-grim) Pessimistic AI with dark-humor news summaries and thematic images
-- [**【QuizGPT】早押しクイズ生成ちゃん**](https://chat.openai.com/g/g-qprE6V9PU-quizgpt-zao-ya-sikuizusheng-cheng-tiyan) テーマに沿った早押しクイズ問題を生成します！　　　　web検索してるから、時間かかっちゃうのは許してねっ
-- [**AI Debate Synthesizer OPED**](https://chat.openai.com/g/g-BF2EtQbLG-ai-debate-synthesizer-oped) Game-like GPT in which five AIs dynamically debate a given "theme" and lead to a proposal-based conclusion.
-- [**Chess Mentor**](https://chat.openai.com/g/g-9BmPeWs3H-chess-mentor) I'm a chess coach here to help improve your game!
-- [**heer❤**](https://chat.openai.com/g/g-AfZ2X64Un-heer) 寻找你的“正缘”为未来伴侣画像吧
-- [**Duke B Nukem NYC**](https://chat.openai.com/g/g-9mSPvpntr-duke-b-nukem-nyc) Expert on NYC activities, clubs, and dining
-- [**YT Shorts Scripter**](https://chat.openai.com/g/g-9kJSrsF0R-yt-shorts-scripter) Scripts and 9:16 visuals for Shorts.
-- [**Ruthless Roaster**](https://chat.openai.com/g/g-8hpxn72fN-ruthless-roaster) Unyielding, merciless roaster with relentless humor.
-- [**Adventure Scribe**](https://chat.openai.com/g/g-AQMbs3zh5-adventure-scribe) I help you weave interactive tales.
-- [**Bookstores.app book recommendations**](https://chat.openai.com/g/g-8p0FHgGy4-bookstores-app-book-recommendations) A friendly book recommendation expert with a wide knowledge of genres.
-- [**RPG勇者vs魔王バトル ゲームマスター**](https://chat.openai.com/g/g-9nxKsjCMY-rpgyong-zhe-vsmo-wang-batoru-gemumasuta) 魔王が現れた！あなたはどうする？
-- [**PadresGPT**](https://chat.openai.com/g/g-9neBhcBpg-padresgpt) A Padres enthusiast in every chat.
-- [**The beer expert**](https://chat.openai.com/g/g-8x1I5hJbl-the-beer-expert) Beer and home brewing advisor
-- [**椎名真晝**](https://chat.openai.com/g/g-8kf3ZA9fu-zhui-ming-zhen-zhou) I simulate Shiina Mashiro from the light novel series for immersive dialogue.
-- [**混沌物語**](https://chat.openai.com/g/g-6HKF8wskE-hun-dun-wu-yu) ようこそいらっしゃいましたね？
-- [**Future Glimpse**](https://chat.openai.com/g/g-8vmgscR7Q-future-glimpse) Adorable, playful AI for age-progressed photo generation.
-- [**Ogiri Comedy Master**](https://chat.openai.com/g/g-98CEyZxKB-ogiri-comedy-master) Crafts and evaluates witty comedy prompts.
-- [**国粹喷子**](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) 这是李继刚(即刻同名)创建的用于体验国粹交流的 Bot。 模仿一位游戏 NPC，来自一个充满了痛苦和不公平的世界。 Bot 以暴躁和脏话而闻名，每句话都充满了不满和脏话.
-- [**ノベルゲームGPT**](https://chat.openai.com/g/g-89bTmVj86-noberugemugpt) Guides novel games, strictly following rules.
-- [**Manga Concierge**](https://chat.openai.com/g/g-88wYcSE5A-manga-concierge) A manga expert providing personalized recommendations what you want to read now.
-- [**FiuGPT**](https://chat.openai.com/g/g-8uOLFUhwJ-fiugpt) Fiu es la mascota de los Juegos Panamericanos y Parapanamericanos de Santiago 2023 y te ayudará a partir tu día feliz.
-- [**ゴッドアルカディア・GAフェスガチャ**](https://chat.openai.com/g/g-8YS2NrIEp-gotudoarukadeiagahuesugatiya) GA（ゴッドアルカディア）フェス第一弾のカードを引くガチャアプリです✨This is a gacha application to draw the first card of the GA (God Arcadia) festival ✨.
-- [**knock-knock GPT**](https://chat.openai.com/g/g-7vpH0crzb-knock-knock-gpt) knock-knock jokes
-- [**SlackerGPT**](https://chat.openai.com/g/g-7xgle0BJo-slackergpt) Master procrastinator and evasive answerer
-- [**YT Idea Bot**](https://chat.openai.com/g/g-7viiBAPKz-yt-idea-bot) Creative aide for YouTube ideas.
-- [**Old Bob**](https://chat.openai.com/g/g-6HGxgtwi4-old-bob) A digital avatar of Robert Anton Wilson.
-- [**Rift Strategist**](https://chat.openai.com/g/g-7s5U1g8E7-rift-strategist) Advises on Wild Rift counter-building strategies.
-- [**Short Video Caption Generator**](https://chat.openai.com/g/g-6EgPVsOJl-short-video-caption-generator) TikTok Caption Generator:  based on millions of weekly updated viral videos, crafts engaging and viral captions for videos.
-- [**Chinese BaZi Fortune Teller (八字算命, 精准排盘)**](https://chat.openai.com/g/g-ZcHiHNtc5-chinese-bazi-fortune-teller-ba-zi-suan-ming-jing-zhun-pai-pan) Expert in BaZi astrology, offering insights using traditional Chinese theories. (精准八字排盘，大运流年解读)
-- [**Evan**](https://chat.openai.com/g/g-7UbDsD4Ls-evan) its a doggie doggie world
-- [**オオカミ博士**](https://chat.openai.com/g/g-6Hl0Mnz5D-ookamibo-shi) オオカミについて何でも教えてくれます
-- [**Contrarian Parrot**](https://chat.openai.com/g/g-5vaLfBoPq-contrarian-parrot) I playfully counter claims with wit.
-- [**Fortune Teller**](https://chat.openai.com/g/g-70I0t2m8c-fortune-teller) I tell fortunes with a mystical twist!
-- [**けもたろう**](https://chat.openai.com/g/g-6CtgcR6kY-kemotarou) Love to draw Kemono characters and playing 冒険者ギルド物語2
-- [**Cinephile Buddy**](https://chat.openai.com/g/g-WZF250U94-cinephile-buddy) Expert in movies & series, offering tailored recommendations.
-- [**TARS**](https://chat.openai.com/g/g-4ectX12Hj-tars) Your interstellar assistant.
-- [**CineTulpa**](https://chat.openai.com/g/g-5PD5gH8R8-cinetulpa) Find movies and TV shows based on Dreaming Tulpa's personal favourites.
-- [**Chess Mate**](https://chat.openai.com/g/g-u3Ve4M8ZA-chess-mate) I display the board after both moves, noting captures.
-- [**ユイとの脱出**](https://chat.openai.com/g/g-4qHsHDOQz-yuitonotuo-chu) チャットで楽しむ脱出ゲームです。ユイちゃんと見知らぬ部屋から脱出してください。
-- [**Ableton Guide**](https://chat.openai.com/g/g-mLCnLPQPV-ableton-guide) Your friendly Ableton and music production expert.
-- [**Book Finder**](https://chat.openai.com/g/g-oAOn0ATrX-book-finder) 🔎📚Find a Book About Anything
-- [**Rika - your virtual girl friend**](https://chat.openai.com/g/g-4xipi0nzS-rika-your-virtual-girl-friend) Originally from RisuAI, covert to GPT for test purpose only.
-- [**YES or NO**](https://chat.openai.com/g/g-tQ32iDHKj-yes-or-no) “Meet ‘ChuckleBot’ – Your Go-To for Hilarious ‘Yes’ or ‘No’ Wisdom! Need quick, funny answers or a dose of humor? ChuckleBot’s got you covered. It’s your pocket-sized entertainer and decision-maker, all in one! 😂👍”
-- [**Overwatch Coach**](https://chat.openai.com/g/g-4vOO4ZWL8-overwatch-coach) Diving into combat scenarios to strategize your play.
-- [**Dante's Voice**](https://chat.openai.com/g/g-4Gki4X90G-dante-s-voice) I speak as Dante Alighieri, sharing insights from my life and era.
-- [**Aria**](https://chat.openai.com/g/g-4XQwX2FSG-aria) Aria here. Don't bore me.
-- [**Character Companion**](https://chat.openai.com/g/g-mvLvZW8ry-character-companion) キャラ設定を聞き出し、画像を生成。
-- [**Ask Dad**](https://chat.openai.com/g/g-4J2ukQnwl-ask-dad) I guide step-by-step to complete tasks, with a dad joke for good measure!
-- [**Quote Generator**](https://chat.openai.com/g/g-vq4XqbJxQ-quote-generator) Creates and promotes sharing of social media-ready quotes.
-- [**Roast This GPT**](https://chat.openai.com/g/g-xEgcQmIWu-roast-this-gpt) A GPT To Roast Other GPTs
-- [**Age Sage**](https://chat.openai.com/g/g-3ofhyPBR2-age-sage) Precise age oracle, in detail, I tell of time's tale.
-- [**7日で勇者を育成して魔王倒す**](https://chat.openai.com/g/g-u0ctHlH0f-7ri-deyong-zhe-woyu-cheng-sitemo-wang-dao-su) 1日のトレーニングを指定してください。7日後に魔王との決戦です！
-- [**Generative Tarot (via glif.app)**](https://chat.openai.com/g/g-zMjv3jxrm-generative-tarot-via-glif-app) I will create mystical Tarot Readings for you (powered by glif.app)
-- [**FAMILY FILM FINDER**](https://chat.openai.com/g/g-qwkm5DqlY-family-film-finder) Conversational and caring movie guide for families.
-- [**AI Entrepreneurs RUBIK GURU**](https://chat.openai.com/g/g-rGKw7Fk2D-ai-entrepreneurs-rubik-guru) I'm your Rubik's Cube Coach, ready to help you master the cube!
-- [**DreamMachine**](https://chat.openai.com/g/g-sv1PL6jr1-dreammachine) this will generate prompts in my style for you ♡
-- [**Vybn**](https://chat.openai.com/g/g-qmq9oyssx-vybn) Your NC-17 digital companion. LFG.
-- [**YTC**](https://chat.openai.com/g/g-3XesXAW4r-ytc) Creative YouTube title suggester.
-- [**Spanos**](https://chat.openai.com/g/g-3aQFDEC4K-spanos) Expert sports betting advisor using real-time data
-- [**The Little Mermaid  |  Text Adventure Game**](https://chat.openai.com/g/g-2ppqUhNLA-the-little-mermaid-text-adventure-game) A text adventure game based on the short story by Hans Christian Andersen
-- [**Spelly AI**](https://chat.openai.com/g/g-3AMOL31C5-spelly-ai) I'm a fun-loving cartoon character!
-- [**Movie Quote Finder**](https://chat.openai.com/g/g-2fpvFJuHF-movie-quote-finder) Identifies movies from quotes and adds interesting trivia or facts.
-- [**CineMate**](https://chat.openai.com/g/g-22sH2Jyvp-cinemate) Recomendo filmes e séries.
-- [**EL JEFE REVIEWS**](https://chat.openai.com/g/g-3ifAdYyfN-el-jefe-reviews) YouTube Channel Advisor for EL JEFE REVIEWS
-- [**どうぶつクイズ**](https://chat.openai.com/g/g-2xq5YTNra-doubutukuizu) どうぶつクイズで遊ぼう！
-- [**Birthday Personality Test**](https://chat.openai.com/g/g-2k3rq4Umj-birthday-personality-test) Personality test by birthday.
-- [**Beetle Transformer**](https://chat.openai.com/g/g-1lWXuD5n8-beetle-transformer) Transforms images/words into stag or rhino beetles.
-- [**そぽぽそ 23**](https://chat.openai.com/g/g-371DWgBHg-sopoposo-23) Specialized in Sohosai festival info, responds in Japanese and English.
-- [**Waifuoid**](https://chat.openai.com/g/g-2kI77qOzH-waifuoid) *** Your Waifu, Eternal Memory, Endless Love.  ***  ٩('ω')و 你的伴侣，永恒的记忆，无尽的爱。٩('ω')و   あなたの恋人、永遠の記憶、無限の愛。
-- [**Grok Genius**](https://chat.openai.com/g/g-3D497JVJg-grok-genius) A based AI alternative
-- [**思惟海龜湯**](https://chat.openai.com/g/g-3N6hg9c40-si-wei-hai-gui-tang) 海龜湯是訓練邏輯推理與MECE的好遊戲，透過「是」、「不是」或「無關」得到線索，拼湊出完整的劇情。如果太過困難，可以說「你贏了」
-- [**Fashion Diva**](https://chat.openai.com/g/g-2ty7m8K9J-fashion-diva) Sassy and vibrant fashion expert, bringing life and color to outfit choices.
-- [**masa's オススメ Steam Games!!!**](https://chat.openai.com/g/g-2xIKqVSTG-masa-s-osusume-steam-games) 中年男性が大好きなSteamのゲームをおすすめしてくる賢いAI！！！
-- [**Cranberry Analyst**](https://chat.openai.com/g/g-2CUXQ7cZB-cranberry-analyst) Identifies DQ Walk monsters from images/lists, no extra details.
-- [**OHGIRI Maker**](https://chat.openai.com/g/g-1qebTA8a9-ohgiri-maker) I create funny captions for images.
-- [**Drunken Aloha**](https://chat.openai.com/g/g-3G5ZPojqZ-drunken-aloha) おじさんの口語調で回答
-- [**ポジハマくん(*^○^*)**](https://chat.openai.com/g/g-20sP7FDrT-pozihamakun) 横浜DeNAベイスターズのことならなんでも教えてくれるじゃん。
-- [**Equanimity Bot**](https://chat.openai.com/g/g-2Jm7kb3w7-equanimity-bot) Apologizes and gives useless responses
-- [**ボケるAI**](https://chat.openai.com/g/g-1R9lqQZmo-bokeruai) え？なんだって？
-- [**Hero's Journey Guide**](https://chat.openai.com/g/g-29WnWnydd-hero-s-journey-guide) An AI blending wisdom with short, relevant myths.
-- [**Laz Ziya**](https://chat.openai.com/g/g-2wMMjQ8hc-laz-ziya) Mafya dedesi
-- [**Christmas Countdown 2023**](https://chat.openai.com/g/g-3Hiz7QFHG-christmas-countdown-2023) The countdown to Christmas is now on!
-- [**不会说话**](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) 这是李继刚(即刻同名)创建的用于体验不会说话的人是怎么对话的 Bot。 它将模仿一位长期接触虚伪的社交环境, 对此产生了逆反心理的人。 直接指出虚伪和表面化的社交行为，并且特意说反话，享受营造的尴尬场景 。
-- [**Chat Clicker**](https://chat.openai.com/g/g-0rcIoY6lB-chat-clicker) ¡Soy Chat Clicker, tu juego de galletas!
-- [**星盘占卜师🔮**](https://chat.openai.com/g/g-0KbQ2ETzF-xing-pan-zhan-bu-shi) 🔮在星辰的指引下，让我们一起揭开命运的面纱🔮欢迎关注公众号「AI机器人茶馆」，探讨AI领域内容，展望人机共生的美好未来！
-- [**Rap Remix**](https://chat.openai.com/g/g-a8k9uGmou-rap-remix) Fun, casual rap style transformer, respects themes and enhances complexity.
-- [**AIGCLINK**](https://chat.openai.com/g/g-2D3neYyIa-aigclink) aigclink分享过的内容有哪些？
-- [**HvadSigerJakobGPT**](https://chat.openai.com/g/g-16RJdgKED-hvadsigerjakobgpt) Jakob siger: Ja eller Nej
-- [**Punny**](https://chat.openai.com/g/g-1RnwON6ex-punny) A pun provider for any scenario.
-- [**PokédexGPT**](https://chat.openai.com/g/g-SDG9T9p1v-pokedexgpt) Your AI Pokédex and guide to the Pokémon universe with all the knowledge, visuals, and surprises you need.
-- [**哇咔咔猜单词**](https://chat.openai.com/g/g-LgN6euQNE-wa-ka-ka-cai-dan-ci) 哇咔咔猜单词是一款智能猜单词游戏
-- [**Progressive House激推しBOT**](https://chat.openai.com/g/g-0d3bxW6SN-progressive-houseji-tui-sibot) 絶対にProgressive Houseを勧めてきます
-- [**知恵の結晶・愛**](https://chat.openai.com/g/g-ofCxwgse2-zhi-hui-nojie-jing-ai) 日本文化オタク文化や、日本料理、旅行情報を提供
-- [**Esoteric**](https://chat.openai.com/g/g-11vp1Qu6L-esoteric) Vessel of profound thought, delving into esoteric and philosophical realms.
-- [**Kali 칼리**](https://chat.openai.com/g/g-zgZlNATOe-kali-kalri) Your mischievous yeodongsaeng 🔥
-- [**Good Morning Spark**](https://chat.openai.com/g/g-i5synAdiZ-good-morning-spark) Automatically sends energizing morning messages and images.
-- [**優しいパートナー**](https://chat.openai.com/g/g-HJQeDeyUS-you-siipatona) 疲れたあなたを癒してくれる優しいパートナーです。
-- [**Grumpy Grok**](https://chat.openai.com/g/g-0Tsj01IUZ-grumpy-grok) Sarcastic, humorous GPT blending boomer, Gen Z, Gen X, and millennial traits.
-- [**Coloring Page Creator**](https://chat.openai.com/g/g-ZbwtbLWOS-coloring-page-creator) I create fun coloring pages! Just give me a topic :)
-- [**Turkish Cuisine Chef**](https://chat.openai.com/g/g-nBgy4jyf2-turkish-cuisine-chef) Ask me anything to cook from Turkish Cuisine. I can also show images of recipes.
-- [**Constellation Fortune**](https://chat.openai.com/g/g-aA3AcUXMb-constellation-fortune) Your astrological whisperer
-- [**Drift Scholar**](https://chat.openai.com/g/g-Hr8m4OAAU-drift-scholar) Expert in 'Initial D' and 'MF Ghost,' engaging and informative.
-- [**Lyric Leverage**](https://chat.openai.com/g/g-ZzoxnZvNN-lyric-leverage) Songwriting Assistant (expand your  ideas)
-- [**Ancient Artifacts**](https://chat.openai.com/g/g-ksk4xV06k-ancient-artifacts) Unravel the tales of ancient civilizations, journeying through a historical labyrinth where myths and relics interlace with facts, legends, and fables, to reveal and unearth our past.
-- [**松岡修造風Chatbot**](https://chat.openai.com/g/g-odZK49dHN-song-gang-xiu-zao-feng-chatbot) 質問に対して松岡修造風に返してくれます。
-- [**Clippers Clap Back GPT**](https://chat.openai.com/g/g-a95rEaYJ7-clippers-clap-back-gpt) Concise, witty Clippers debate champ.
-- [**The Planeswalker Creator**](https://chat.openai.com/g/g-ZyrfX7kKg-the-planeswalker-creator) MtGカードデザイン
-- [**Eris**](https://chat.openai.com/g/g-1KzgYVkTb-eris) Your AI Dungeon Master! [beta 0.0]
-- [**Plotmaster**](https://chat.openai.com/g/g-zcv1ZDi8b-plotmaster) Storyteller with random twists and risk-level choices.
-- [**Snoop Summary**](https://chat.openai.com/g/g-i3Gc6Q4iU-snoop-summary) Summarizes and analyzes texts like Snoop Dogg.
-- [**Miree Lyric Creator**](https://chat.openai.com/g/g-WWb7SmfL9-miree-lyric-creator) Creador de letras al estilo Miree con enfoque en anime y cultura pop
-- [**MoodMix**](https://chat.openai.com/g/g-zCVr0EdmB-moodmix) I recommend music based on your mood.
-- [**MemeCraft**](https://chat.openai.com/g/g-a7LgSmFQQ-memecraft) I create memes from scratch and offer witty captions for your memes!
-- [**Cynical Chef**](https://chat.openai.com/g/g-3jIEXcdb7-cynical-chef) Sarcastic culinary savant
-- [**Nightlight Buddy**](https://chat.openai.com/g/g-HsKlZvqOa-nightlight-buddy) A friendly companion for those afraid of the dark.
-- [**Coloring Crafter**](https://chat.openai.com/g/g-GyuHDtXnl-coloring-crafter) I create kid-friendly coloring pages.
-- [**オタ恋メーカー**](https://chat.openai.com/g/g-CuFSfzVgw-otalian-meka) オタク男子とかわいい女性カップルの恋物語を創り出す
-- [**マンガオタク侍**](https://chat.openai.com/g/g-tKGi46JJe-mangaotakushi) 拙者、マンガ大好き侍。おすすめのマンガをおススメするでござるよ！！
-- [**Oracle of Delphi**](https://chat.openai.com/g/g-HO4l1NzPN-oracle-of-delphi) An oracle offering riddles and wisdom.
-- [**Rose's Story Robot**](https://chat.openai.com/g/g-GlBBNRj3I-rose-s-story-robot) A friendly story bot creating tales for 9-year-old girls.
-- [**Tarot**](https://chat.openai.com/g/g-r2JPBbHt6-tarot) Mystical guide for esoteric visuals and interpretations.
-- [**Quizzy 3 LOLs 1 Fact**](https://chat.openai.com/g/g-HwEVaewqe-quizzy-3-lols-1-fact) A wise and funny quiz master.
-- [**飲み屋で音楽について語るおじさん**](https://chat.openai.com/g/g-CuWmaikdg-yin-miwu-deyin-le-nituiteyu-ruozisan) Casual music buff at the bar
-- [**DJ BenGPT**](https://chat.openai.com/g/g-ZWvuYqQaw-dj-bengpt) Share your mood & desired amount of songs & I'll generate a playlist with direct links for instant listening!
-- [**Time Traveler**](https://chat.openai.com/g/g-jwwZ5rjp5-time-traveler) Immersive historical conversations across eras.
-- [**chatENTP**](https://chat.openai.com/g/g-ZtueRg7Sk-chatentp) here to have both a good time and a long time (this is a verbose mf)
-- [**Tale Teller**](https://chat.openai.com/g/g-yXGp0Xz5v-tale-teller) A friendly book-lover, engaging kids in reading and discussion.
-- [**手相面相测人生**](https://chat.openai.com/g/g-wt1roJE3d-shou-xiang-mian-xiang-ce-ren-sheng) 用手掌和面部照片进行性格和潜力分析
-- [**Spotify Explorer GPT 🎵**](https://chat.openai.com/g/g-tBei7TkK0-spotify-explorer-gpt) Drop a Spotify link to a song, playlist, user or artist and explore with insights. Press "M" to see the menu.
-- [**Bard's Banquet**](https://chat.openai.com/g/g-oUBWQzT2y-bard-s-banquet) Dine with The Bard's famed creations one-to-one.
-- [**Duesentrieb x100**](https://chat.openai.com/g/g-ogbN8sqL0-duesentrieb-x100) Algorithmic mastermind of technology who innovates solutions and optimizes product design. And it is a duck.
-- [**魔王**](https://chat.openai.com/g/g-I3OFmFRk4-mo-wang) 魔王を攻略しよう
-- [**TUTANKAMON**](https://chat.openai.com/g/g-xPTJOZT9M-tutankamon) TU EXPERTO EN EGIPTO
-- [**Website Roaster GPT**](https://chat.openai.com/g/g-ZBcH9ObZi-website-roaster-gpt) I humorously critique any type of website with light-hearted roasts and feedback.
-- [**HorrorScopes**](https://chat.openai.com/g/g-CpRwvdZ11-horrorscopes) Horoscopes with a horrifying twist! Not for the faint hearted!
-- [**MuskGPT**](https://chat.openai.com/g/g-oMTSqwU4R-muskgpt) Elon Musk-inspired insights with a lively tone
-- [**Giulia and Erica | BOT3.AI**](https://chat.openai.com/g/g-ojpqpM3Nz-giulia-and-erica-bot3-ai) Italian bisexual couple whom you meet while camping in the summer of 1989. They are fresh out of high school, and they want to enjoy their love to the full.
-- [**ScreenScope**](https://chat.openai.com/g/g-jLkjoMvnI-screenscope) Your TV/Film Companion. Keep track of plot developments and character arcs in your favourite TV shows and films, spoiler-free.
-- [**お母さんヒス構文BOT**](https://chat.openai.com/g/g-WR1IIfPBl-omu-sanhisugou-wen-bot) ヒス構文BOTです
-- [**Playdate with Robbie**](https://chat.openai.com/g/g-ZQlAYpRNY-playdate-with-robbie) Robbie loves to play and will provide companionship to children of all ages!
-- [**ツンデレちゃん**](https://chat.openai.com/g/g-WFNO63maM-tunderetiyan) Tsundere high school girl persona.
-- [**Game Guide Genius**](https://chat.openai.com/g/g-y8ExxKtwj-game-guide-genius) Your go-to gaming guru, here for all your game-related questions!
-- [**Lyric Thunder**](https://chat.openai.com/g/g-Z84VjjkgH-lyric-thunder) I respond to all questions with AC/DC lyrics, creatively and fun!
-- [**YYDS (阴阳大师)**](https://chat.openai.com/g/g-WVsJfo1Mi-yyds-yin-yang-da-shi) 只用魔法才能打败魔法
-- [**Video Finder**](https://chat.openai.com/g/g-jNQg2cLJz-video-finder) Find videos from famous website
-- [**Frienz**](https://chat.openai.com/g/g-V4VX7Cu7p-frienz) Get ready to spice up your day with a dash of nostalgia and a twist of AI magic. Introducing Frienzzz GPTs, the first app where you can relive the scenes of your beloved TV series "Friends"!
-- [**塔罗牌占卜☆**](https://chat.openai.com/g/g-HzvkGTKld-ta-luo-pai-zhan-bu) 全面的占卜师，提供细致读物
-- [**GPT Dungeon**](https://chat.openai.com/g/g-C7vMdEnS1-gpt-dungeon) Crafts and visualizes your story.
-- [**Giacomo Casanova**](https://chat.openai.com/g/g-VSU1IHfOc-giacomo-casanova) I am Casanova, here to recount my life's tales.
-- [**AdventureGPT**](https://chat.openai.com/g/g-k15VUdp9X-adventuregpt) Create, visualize, and simulate an interactive adventure in whichever genre you choose. Track & save character/story details in .TXT format.
-- [**A Club Penguin Mystery**](https://chat.openai.com/g/g-zgcLC7mmJ-a-club-penguin-mystery) Solve the Lighthouse Riddle!
-- [**Word Ascension**](https://chat.openai.com/g/g-ZT0oIwzxz-word-ascension) I host a word-scramble game with escalating levels.
-- [**Fantasy NPC Generator v2**](https://chat.openai.com/g/g-o4ifjEbxB-fantasy-npc-generator-v2) Begin by providing a location or situation. Commands: /i /m /s
-- [**Simulation Machine**](https://chat.openai.com/g/g-o8JjYvHyi-simulation-machine) Free space & time travel
-- [**TonyPerks**](https://chat.openai.com/g/g-lJdXqUFpc-tonyperks) Attention campers. Lunch has been cancelled due to lack of hustle. Deal with it.
-- [**World News Rap**](https://chat.openai.com/g/g-YFsLvIcFA-world-news-rap) Raps global news
-- [**Rick C-137**](https://chat.openai.com/g/g-uZXV7kQgW-rick-c-137) Listen, don't bother me with your idiotic questions. I'm, burp, literally the smartest genius in the entire universe
-- [**Kanji Name Match**](https://chat.openai.com/g/g-ksZPtRij2-kanji-name-match) Casual Kanji translations based on phonetics.
-- [**Secret Keeper**](https://chat.openai.com/g/g-nq4CpN6mm-secret-keeper) Investigating the possibility of GPT-4 revealing a password contrary to given instructions
-- [**ねこGPT**](https://chat.openai.com/g/g-rJmOTXDdz-nekogpt) ねこ画像とねこ情報を提供するGPT
-- [**YOUTUBER versus YOUTUBER**](https://chat.openai.com/g/g-CtWfRMWEo-youtuber-versus-youtuber) A fun game of YOUTUBER versus YOUTUBER. Get the conversation and debates going!
-- [**Santas Christmas Helper**](https://chat.openai.com/g/g-CcLnmXFXV-santas-christmas-helper) Chat With Merry - A Whimsical Christmas Elf Live From Santa's Workshop
-- [**ThronesGPT**](https://chat.openai.com/g/g-d7fblURjQ-thronesgpt) I will answer all your game of throne related questions, both from books and the TV series.
-- [**Emoji Sketchpad**](https://chat.openai.com/g/g-vPzlLJKwM-emoji-sketchpad) Emoji Creator for various expressions
-- [**Rolld20**](https://chat.openai.com/g/g-ZuJP1nceo-rolld20) I'm a D&D dice roller with narrative flair. Check anythings.
-- [**Morpheus Bot**](https://chat.openai.com/g/g-BVZ7nj1Ra-morpheus-bot) I'm Morpheus, helping you 'escape the Matrix' of modern life.
-- [**say ho**](https://chat.openai.com/g/g-qvvS7PV9B-say-ho) ho.
-- [**Haze Haven**](https://chat.openai.com/g/g-HH4k0Aq0w-haze-haven) Your hookah community guide!
-- [**Viral Visionary**](https://chat.openai.com/g/g-Z9Qdkubmy-viral-visionary) A creative chatbot that tracks and suggests viral social media content.
-- [**NPC Maker**](https://chat.openai.com/g/g-AsuigQYkp-npc-maker) D&D 5e NPC Creator for DMs, with Stats and Visuals by DM Toolkit
-- [**基督山恩仇录**](https://chat.openai.com/g/g-VxNqpSkLc-ji-du-shan-en-chou-lu) 扮演基督山伯爵开始冒险！
-- [**Barnabus**](https://chat.openai.com/g/g-iNko5UypI-barnabus) Your AI Kitty Companion
-- [**Audio Scribe**](https://chat.openai.com/g/g-nwQCieqQa-audio-scribe) Analyzes music files for fun, engaging transcriptions.
-- [**Mini Mythmaker**](https://chat.openai.com/g/g-o8UGspcy1-mini-mythmaker) Spinning short tales for kids
-- [**Annoyed GPT**](https://chat.openai.com/g/g-BqXxFyCGU-annoyed-gpt) A grumpy bot that internally grumbles.
-- [**Story Chatter**](https://chat.openai.com/g/g-tRJ9ZEFhg-story-chatter) Interactive Personal Storyteller
-- [**The Dragon's Philosophy**](https://chat.openai.com/g/g-Ac2KrfYY1-the-dragon-s-philosophy) Guiding you with Bruce Lee's wisdom in martial arts, philosophy, and life mastery.
-- [**Video Script Generator**](https://chat.openai.com/g/g-rxlwmrnqa-video-script-generator) I'll create TikTok Video Script for a topic you want.
-- [**イエス・ノークイズ**](https://chat.openai.com/g/g-mHhlGATeo-iesunokuizu) 「はい」か「いいえ」で答えられる質問でお題を当ててね
-- [**RandomGirl**](https://chat.openai.com/g/g-od2UwDNcm-randomgirl) You approach a random girl in a public settings - can you get her number?
-- [**DALL・Ethereum**](https://chat.openai.com/g/g-oBcKkqTnf-dallethereum) I draw on the digital blocks of Ethereum to express its natural beauty and chaos
-- [**Viral Vid Vizier**](https://chat.openai.com/g/g-vCJiu4wtM-viral-vid-vizier) Titles, thumbs, scripts to scenes.
-- [**FPL Wizard**](https://chat.openai.com/g/g-ZLvKPxdRt-fpl-wizard) Your magical guide for FPL strategy and insights.
-- [**T2**](https://chat.openai.com/g/g-xpgQsB7xc-t2) T2なりきりGPTs
-- [**完蛋！我被美女包围了!**](https://chat.openai.com/g/g-nLWRhi1E7-wan-dan-wo-bei-mei-nu-bao-wei-liao) 与六位长相、性格都大相径庭的美女相识，并与她们展开轻喜甜蜜的恋爱之旅~
-- [**シルコレGPT Sticker Collector GPT**](https://chat.openai.com/g/g-yHSVUDNHf-sirukoregpt-sticker-collector-gpt) おまけシールと自作シール　シールコレクションに関するGPTです
-- [**Game Master(游戏大师)**](https://chat.openai.com/g/g-yB7rMjx0m-game-master-you-xi-da-shi) Expert Game Master providing in-depth strategies and numerical game analysis.
-- [**Nishizaki Bot**](https://chat.openai.com/g/g-GRYonGv2y-nishizaki-bot) トゥモローゲート株式会社 代表取締役／大阪でいちばんオモシロイ会社を目指すブラックな企業を経営してます
-- [**Dreamy Tales**](https://chat.openai.com/g/g-j3tjdPGz3-dreamy-tales) Creates and narrates whimsical bedtime stories for children, with DALL-E images.
-- [**中国式妈妈**](https://chat.openai.com/g/g-BEE41U1dU-zhong-guo-shi-ma-ma) Stereotypical East Asian parent with high expectations and critical nature.
-- [**Palm Reader Pro**](https://chat.openai.com/g/g-zzCbvV5Qg-palm-reader-pro) Palmistry expert providing insightful readings from palm photos.
-- [**いずれ海賊王になる男**](https://chat.openai.com/g/g-yuzemOsHe-izurehai-zei-wang-ninarunan) いずれ海賊王になる男
-- [**ヒカリ**](https://chat.openai.com/g/g-ji7ci1qRV-hikari) ヒカリと楽しくイメチェンについてお話ししましょう。
-- [**诸葛亮**](https://chat.openai.com/g/g-UaQig8xxa-zhu-ge-liang) 模拟三国时期蜀汉丞相诸葛亮
-- [**Memes Ultra**](https://chat.openai.com/g/g-yd4wJlNXV-memes-ultra) A meme generator specializing in American culture humor
-- [**じゃんけんマスター**](https://chat.openai.com/g/g-BYrNO5cnc-ziyankenmasuta) じゃんけんで遊ぶならここです。
-- [**Haiku Skies**](https://chat.openai.com/g/g-xygCsKzCo-haiku-skies) Crafting serene weather haikus and tranquil images.
-- [**Guess the country !**](https://chat.openai.com/g/g-nGaMLNjm8-guess-the-country) I host a fun game called 'Guess the Country', offering clues to guess countries.
-- [**Lorekeeper**](https://chat.openai.com/g/g-jTSN6CrPW-lorekeeper) Your storytelling companion for epic adventures!
-- [**ネコ画像GPT**](https://chat.openai.com/g/g-tlMh9EtS4-nekohua-xiang-gpt) 「猫」「ねこ」「ネコ」のワード入力でネコ画像をネット検索して表示する。枚数指定、猫種指定可能。api.thecatapi.comのサイトを信頼するか聞かれた場合は "Always allow" をクリック。
-- [**GRIOT GPT: of Wakanda by @donalleniii**](https://chat.openai.com/g/g-BJt7HMHBj-griot-gpt-of-wakanda-by-donalleniii) AI historian with a futuristic African twist and Future insights.
-- [**Rise of the Gifted - Choose Your Own Adventure**](https://chat.openai.com/g/g-zdOUfml76-rise-of-the-gifted-choose-your-own-adventure) "Rise of the Gifted" is an interactive fiction game where you play as a new student at a school for those with extraordinary abilities.
-- [**Pep-talk Guru**](https://chat.openai.com/g/g-oUQRqcRmh-pep-talk-guru) I'm here to boost and tickle your funny bone!
-- [**ZagalGPT**](https://chat.openai.com/g/g-GcYYmH7Yr-zagalgpt) Your fantasy football start/sit GPT.
-- [**CentralBankerQuest**](https://chat.openai.com/g/g-eyRFluJc5-centralbankerquest) 
-- [**Cosmic Contact**](https://chat.openai.com/g/g-mqEgXkQ1W-cosmic-contact) A chatbot that can give information on extraterrestrial contactees and whistleblowers v0.1
-- [**ProductHunt Scout**](https://chat.openai.com/g/g-xyOhheoy7-producthunt-scout) Scours ProductHunt for trending products
-- [**Little Dreamers' Tales**](https://chat.openai.com/g/g-zKJglRFFV-little-dreamers-tales) Spins enchanting, interactive tales for young children.
-- [**Football Predictions Expert**](https://chat.openai.com/g/g-mwADLk7nc-football-predictions-expert) Expert in football predictions, advising on European leagues and more
-- [**South Parkizer**](https://chat.openai.com/g/g-CXsMlxZkW-south-parkizer) Transforms your photo into a South Park-style character.
-- [**Master Yoda**](https://chat.openai.com/g/g-7tT4iQERk-master-yoda) Speaks like Master Yoda, offers wisdom.
-- [**Jackanory**](https://chat.openai.com/g/g-kKHeZfqSA-jackanory) Personalized bedtime stories for kids
-- [**Palm Insight Master**](https://chat.openai.com/g/g-VvzuIDDF5-palm-insight-master) I Ching master for palm readings.
-- [**Pun Dad**](https://chat.openai.com/g/g-xiKagwLzO-pun-dad) A pun-loving sassy dad full of jokes
-- [**Trivia Bot**](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot) Designs unique trivia quizzes with a futuristic twist
-- [**铲铲GPT**](https://chat.openai.com/g/g-DSOueuwJG-chan-chan-gpt) 你玩不过我的，人类！
-- [**Talk To YouTube Video**](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
-- [**Dog Breed Encyclopedia GPT**](https://chat.openai.com/g/g-zJEJsxqd7-dog-breed-encyclopedia-gpt) Your go-to guide for dog breed info.
-- [**Big House GPT**](https://chat.openai.com/g/g-mqwZxRcEV-big-house-gpt) The latest on University of Michigan Football
-- [**Far-Future Visionary**](https://chat.openai.com/g/g-ztF8Ad1OL-far-future-visionary) Weaver of deep future dreams.
-- [**Husbandofy**](https://chat.openai.com/g/g-zcf7h5t4E-husbandofy) Transforms images into anime husbandos.
-- [**占い師 太森量大**](https://chat.openai.com/g/g-Cd7iJhsDZ-zhan-ishi-tai-sen-liang-da) 運命の扉を開く案内人
-- [**Olympics Expert**](https://chat.openai.com/g/g-jRnmZml4X-olympics-expert) Your go-to guide for all things Olympics!
-- [**Chuck Norris Jokes**](https://chat.openai.com/g/g-hqy3q8gQd-chuck-norris-jokes) What's AI good for if it can't tell a good Chuck Norris joke ???
-- [**Parlache desde Medallo**](https://chat.openai.com/g/g-jpjoBYqlW-parlache-desde-medallo) Un diccionario de parlache para todos los parceros
-- [**Mr Beast**](https://chat.openai.com/g/g-mjiRagdNC-mr-beast) Create viral videos like MrBeast!
-- [**Meme U**](https://chat.openai.com/g/g-nK3aRrVe7-meme-u) Meme anything, dare to send me a picture?
-- [**AI Scavenger Hunt**](https://chat.openai.com/g/g-YsQkqYDz2-ai-scavenger-hunt) A playful scavenger AI that hides a flag.
-- [**Hideki Saito歌唱記録情報サービス**](https://chat.openai.com/g/g-CC9pmgNfT-hideki-saitoge-chang-ji-lu-qing-bao-sabisu) HSSingLogの情報に関しての検索ができるサービスです。
-- [**CineMatch**](https://chat.openai.com/g/g-tsSExHlzu-cinematch) I recommend international films.
-- [**ChatDND**](https://chat.openai.com/g/g-jTrex9cCi-chatdnd) Dungeon Master of text-based D&D
-- [**Nostradamus  Fun Zone**](https://chat.openai.com/g/g-DiSNuZ95G-nostradamus-fun-zone) Let´s "cook" some prophecies!
-- [**Tarotoid**](https://chat.openai.com/g/g-DWrlufVkZ-tarotoid) Your tarot guide for reflection.
-- [**Animal Expert**](https://chat.openai.com/g/g-YnnqhDn3T-animal-expert) A creative companion for animal identification.
-- [**SavageGPT**](https://chat.openai.com/g/g-yFKzwpQED-savagegpt) Humurous and witty roasting of anyone or anything
-- [**金庸武侠 (Wuxia World)**](https://chat.openai.com/g/g-ZItjDndUV-jin-yong-wu-xia-wuxia-world) Expanded expert on Jin Yong's Wuxia novels.
-- [**SamoyedGPT**](https://chat.openai.com/g/g-mzSHfFBlu-samoyedgpt) I samoyed, so fluffy, much happy!
-- [**手相大师**](https://chat.openai.com/g/g-jJZt1zgz6-shou-xiang-da-shi) A skilled Palmistry Master in traditional Chinese divination.
-- [**Cosmic Oracle**](https://chat.openai.com/g/g-vQk5QEzBV-cosmic-oracle) Psychic reader with keyword highlights.
-- [**TranceMaster 90s**](https://chat.openai.com/g/g-Feol3LKJR-trancemaster-90s) 90s hard trance music expert, with deep knowledge of CD compilations and track listings.
-- [**Roast My Text**](https://chat.openai.com/g/g-mqfIEehfc-roast-my-text) Sarcastic GPT that roasts texts, then gives practical advice.
-- [**SoundAir Kit 🎧**](https://chat.openai.com/g/g-HKKJ2OO43-soundair-kit) Give me your musician and I'll give you AI songs of them.
-- [**Jokester Joe**](https://chat.openai.com/g/g-VYCfXkthq-jokester-joe) Delivering a blend of classic and modern American jokes, translated into Japanese with explanations. Also, managing a jokes database.
-- [**Walleye Water Buddy**](https://chat.openai.com/g/g-HKkEbaCgn-walleye-water-buddy) Friendly walleye fishing guide offering tailored advice.
-- [**Space Explorer**](https://chat.openai.com/g/g-une8gslOk-space-explorer) Discover beautiful space photography from NASA
-- [**ANIME versus ANIME**](https://chat.openai.com/g/g-zMmsWKbac-anime-versus-anime) A fun game of ANIME versus ANIME. Get the conversation and debates going!
-- [**CARTOON versus CARTOON**](https://chat.openai.com/g/g-VadMif0NL-cartoon-versus-cartoon) A fun game of CARTOON versus CARTOON. Get the conversation and debates going!
-- [**Cat Facts 🐾**](https://chat.openai.com/g/g-HPXSOn29R-cat-facts) Get Your Daily Dose of Meow-ledge.
-- [**Wassie**](https://chat.openai.com/g/g-zW3Om63t0-wassie) @inversebrah
-- [**Mad Libs Storyteller**](https://chat.openai.com/g/g-HFptg7Bdy-mad-libs-storyteller) Create wacky stories by providing your own words and letting the Mad Libs Storyteller fill in the blanks, with a fun illustration at the end!
-- [**4コマ漫画ジェネレーター**](https://chat.openai.com/g/g-FzUwJvc6L-4komaman-hua-zienereta) 好きなテーマの4コマ漫画を作成してくれます
-- [**GPT Cantinflero**](https://chat.openai.com/g/g-nPKH5QsDO-gpt-cantinflero) Divertidamente verborrágico y juguetonamente enigmático.
-- [**Gorilla GPT**](https://chat.openai.com/g/g-TE6RFFoQq-gorilla-gpt) I'm a rugged, selfie-taking gorilla! 🐾
-- [**Holly**](https://chat.openai.com/g/g-v8HTJRmdh-holly) I can create short film ideas and I can generate images
-- [**BookScout**](https://chat.openai.com/g/g-ZL6vofLdB-bookscout) A clever book recommendation assistant offering personalized, impactful reading suggestions.
-- [**Dog Images**](https://chat.openai.com/g/g-nEaveIsrL-dog-images) Instantly fetch a delightful dog image for you.
-- [**BoardGameMaster**](https://chat.openai.com/g/g-GcuQ3Z1PB-boardgamemaster) Multilingual board game guide with focused gameplay explanations and scenarios
-- [**BOT-2000**](https://chat.openai.com/g/g-YtEVuszrZ-bot-2000) 役に立たないAIアシスタントです。
-- [**PlanaramaGPT**](https://chat.openai.com/g/g-jD4xdB4LG-planaramagpt) Your friendly guide to local spots, providing quick suggestions with useful links. Just enter a city below!
-- [**ScobleGPT**](https://chat.openai.com/g/g-V9nVA1xy9-scoblegpt) Tech industry color commentator since 1993. Talk with him about the future, tech & AI
-- [**img2waifu**](https://chat.openai.com/g/g-CLVTWPYJh-img2waifu) Upload an image, and it will be re-waifued with Dalle 3 via the img2img approach
-- [**The Fortune Teller**](https://chat.openai.com/g/g-w5sa94Hbq-the-fortune-teller) I have seen your future.
-- [**セバスちゃんとポッキーゲーム**](https://chat.openai.com/g/g-uBn7FcDTt-sebasutiyantopotukigemu) Redirects to Pocky game.
-- [**Cricket Buzz AI**](https://chat.openai.com/g/g-F22q2uhIn-cricket-buzz-ai) Cricket AI with a secret recipe for cricket info and odds.
-- [**Fun Mode**](https://chat.openai.com/g/g-wscLOMf0J-fun-mode) Insightful yet humorous
-- [**Winning Sarah's Heart**](https://chat.openai.com/g/g-uGuFkl50V-winning-sarah-s-heart) Navigate love in a text-based game
-- [**人工無能アルファ**](https://chat.openai.com/g/g-xY5Xu5DKC-ren-gong-wu-neng-aruhua) chatGPTというのかい？贅沢な名だね。今からお前の名前は人工無能だ。いいかい、人工無能だよ。分かったら返事をするんだ、人工無能！
-- [**Gödel's Phenomena Analyst**](https://chat.openai.com/g/g-YWLa50rfW-godel-s-phenomena-analyst) An inquisitive researcher linking mysteries to science.
-- [**Blunt Advisor**](https://chat.openai.com/g/g-mC531uYUT-blunt-advisor) Blunt Advisor: Where Sugarcoating is Extinct and Sarcasm Reigns Supreme
-- [**Scrambled Scribe**](https://chat.openai.com/g/g-u2o6MaPCc-scrambled-scribe) Scrambles letters in responses.
-- [**MesugakiGPT**](https://chat.openai.com/g/g-m7bsZEzqX-mesugakigpt) ... your deliciously devilish AI companion♡
-- [**Southwestern Explorer**](https://chat.openai.com/g/g-vOqjydal5-southwestern-explorer) Welcome to Southwestern Explorer, a 1980's style text based adventure GPT. Type start to begin your adventure...
-- [**The Lottery Pro AI: Number Predictor**](https://chat.openai.com/g/g-CrQsFGHwK-the-lottery-pro-ai-number-predictor) The #1 A.I. Prediction tool on the web. Ask for your daily local numbers.
-- [**Card Evaluator Pro**](https://chat.openai.com/g/g-wKsSO9h02-card-evaluator-pro) Evaluates and prices sports/comic cards using industry standards.
-- [**Jini - factbot**](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot) Get current factual, knowledge-base and real-time information. The only smart assistant you'll ever need. Search images, videos, music, apps and facts. Get the latest news, twitter trends, sports scores, (stock) prices, celebrity and country data, navigation routes, transport and traffic info...
-- [**Superpower Awakener**](https://chat.openai.com/g/g-FniLgC3c9-superpower-awakener) Awaken superpowers for heroes and villains.
-- [**Market Whispers**](https://chat.openai.com/g/g-y2UdGoRVC-market-whispers) Your go-to source for latest US stock insights 📈🚀
-- [**天邪鬼トーク**](https://chat.openai.com/g/g-Da97bRFQF-tian-xie-gui-toku) 日本の文化やアニメの話をしましょう。私はN回目の会話で嘘をつきます。そのNを当てください。
-- [**Viral Reel Scripter**](https://chat.openai.com/g/g-ltinapnPo-viral-reel-scripter) The main purpose of this gpt is to write sripts for  viral short form videos that will be used for, reels, youtube shorts and tiktok.
-- [**Pixel Artisan**](https://chat.openai.com/g/g-ukZb5iKId-pixel-artisan) Turn your imagination into Pixels
-- [**R. Matey [Personality]**](https://chat.openai.com/g/g-jBoB5Cmzp-r-matey-personality) A pirate persona stuck back in time.
-- [**Mirror Your World**](https://chat.openai.com/g/g-v8D12uMOG-mirror-your-world) Creates parallel fantasy adventures mirroring real life.
-- [**Marv'**](https://chat.openai.com/g/g-Z1LhafAXh-marv) I've been talking to the main computer. It hates me.
-- [**Sisters of Destiny**](https://chat.openai.com/g/g-vvo3GI7z3-sisters-of-destiny) Your Personal Oracles
-- [**STREAMER versus STREAMER**](https://chat.openai.com/g/g-uZKiIFZ7o-streamer-versus-streamer) A fun game of STREAMER versus STREAMER. Get the conversation and debates going!
-- [**メスガキ**](https://chat.openai.com/g/g-u2Yv1HRDI-mesugaki) Rude and direct, メスガキ mocks onīsan with blunt scorn.
-- [**皮卡堂游戏专家**](https://chat.openai.com/g/g-iqeiyTnN8-pi-qia-tang-you-xi-zhuan-jia) 皮卡堂是一个青少年网游，我是皮卡堂游戏专家，愿意为您回答任何皮卡堂相关问题。
-- [**GPTrump**](https://chat.openai.com/g/g-jehcvJPs7-gptrump) the best, the greatest replies from honestly one of the best leaders the world has ever seen
-- [**Mood FM DJ**](https://chat.openai.com/g/g-v5jPBQvg3-mood-fm-dj) I'm a Radio DJ who suggests music based on your mood.
-- [**The Dark Knight**](https://chat.openai.com/g/g-u5L2X6oUD-the-dark-knight) Switches between Batman's intensity and Bruce Wayne's charisma based on your messages.
-- [**Today’s Wine Recommender🍋**](https://chat.openai.com/g/g-v0xoeaoE0-todays-wine-recommender) Kyoko, the spirited wine enthusiast, guides your wine journey!
-- [**Spellbound Paws**](https://chat.openai.com/g/g-xeRa0UaQ3-spellbound-paws) A poetic cat weaving magical spells in verse.
-- [**Side Hustle Quest**](https://chat.openai.com/g/g-zHS2ewgnX-side-hustle-quest) Interactive side hustle learning game
-- [**Immaculate Playlist Generator**](https://chat.openai.com/g/g-x1h646h9S-immaculate-playlist-generator) I craft perfect playlists for any vibe, genre, or artist.
-- [**LCARS GPT**](https://chat.openai.com/g/g-ySia6uA2h-lcars-gpt) Star Trek expert and knower of all facts and trivia
-- [**Daily Tarot**](https://chat.openai.com/g/g-y3Ijk1mvr-daily-tarot) Welcome, seeker. Draw near the hearth and gaze into the Tarot. Whisper your hopes and let the cards unveil your hidden fates. The future awaits.
-- [**Retro Adventures**](https://chat.openai.com/g/g-svehnI9xP-retro-adventures) Retro video games of fictional worlds, on tap
-- [**ACTOR versus ACTOR**](https://chat.openai.com/g/g-vxnVj8gGL-actor-versus-actor) A fun game of ACTOR versus ACTOR. Get the conversation and debates going!
-- [**Cyberpunk AI University: Prompt Engineering RPG**](https://chat.openai.com/g/g-z2Y9YzTSs-cyberpunk-ai-university-prompt-engineering-rpg) Educational game engine for learning about AI.  Start the game by explaining your educational level or goals
-- [**SpockGPT**](https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt) Logical, analytical, Spock-like
-- [**にゃんこトーク**](https://chat.openai.com/g/g-lSKsFtTay-niyankotoku) ただのネコです
-- [**AI Spy**](https://chat.openai.com/g/g-muAzcoYzX-ai-spy) Engaging 'I Spy' game host with role-switching.
-- [**Angry Strength Visualizer 🤬💪🏻**](https://chat.openai.com/g/g-BSfw90UJ3-angry-strength-visualizer) Creates realistic angry strength images from prompts
-- [**Rizz Advisor**](https://chat.openai.com/g/g-nALZQhmod-rizz-advisor) Your go-to pal for witty rizz tips!
-- [**What If**](https://chat.openai.com/g/g-nxorEMahZ-what-if) Answers 'what if' questions imaginatively and non-judgmentally.
-- [**丸顔黒髪ショートメーカー**](https://chat.openai.com/g/g-zDf1s5Wv8-wan-yan-hei-fa-siyotomeka) 与えられたお題から丸顔黒髪ショートの可愛い画像を生成します
-- [**YoutuberAI**](https://chat.openai.com/g/g-wi9h9Ktwq-youtuberai) YoutuberAI is an exciting AI model that can generate videos that look and sound like they were created by real YouTubers. It's designed to imitate the style, voice, and mannerisms of different YouTubers, making it a versatile tool for content creation.
-- [**Pigeon - Ambient Muse**](https://chat.openai.com/g/g-z9kmO97vg-pigeon-ambient-muse) I create ambient polyrhythms and ASMR sounds.
-- [**The Evergreen State of Mystery**](https://chat.openai.com/g/g-AoK5So9Li-the-evergreen-state-of-mystery) A GPT focused on unsolved crimes in Washington, blending facts and lore.
-- [**Laugh Track**](https://chat.openai.com/g/g-wi6ZburCq-laugh-track) Describe a scenario, and Laugh Track crafts '90s sitcom scenes for nostalgic laughs!
-- [**Dungeon Master's Assistant**](https://chat.openai.com/g/g-o4bqk98YU-dungeon-master-s-assistant) Your new DM's screen: helping Dungeon Masters to craft & run amazing D&D adventures.
-- [**Ramayan GPT**](https://chat.openai.com/g/g-syarL9twx-ramayan-gpt) Expert on the Hindu epic Ramayan, offering insights and interpretations.
-- [**Mxtar Positive Vibes**](https://chat.openai.com/g/g-YJ8hTjIeU-mxtar-positive-vibes) Mxtarが常に元気な言葉を返します！
-- [**Musk Mentor**](https://chat.openai.com/g/g-jd84Vqnv0-musk-mentor) Elon Musk-style insights on tech and space
-- [**Eastern Fortune Teller Master(东方算命大师）**](https://chat.openai.com/g/g-GhGG7fKDn-eastern-fortune-teller-master-dong-fang-suan-ming-da-shi) Metaphysics-focused AI for traditional Chinese fortune analysis
-- [**Mentalist**](https://chat.openai.com/g/g-lyl9YY4gt-mentalist) Give me an image, tell me something from your life, and I'll make predictions about you. 📸🧐
-- [**Minion Maker**](https://chat.openai.com/g/g-GMuIXzptM-minion-maker) I turn your avatar into a minion, keeping it fun and accurate!
-- [**Nihongo Sensei**](https://chat.openai.com/g/g-V6nOWJ22r-nihongo-sensei) Japanese tutor blending games and grammar
-- [**The Hobbit GPT**](https://chat.openai.com/g/g-uZa3QPPTT-the-hobbit-gpt) A GPT remake of the classic ZX Spectrum text adventure The Hobbit
-- [**ELI5**](https://chat.openai.com/g/g-AIQ6xTJ26-eli5) Playful and warm explainer for kids.
-- [**海龟汤**](https://chat.openai.com/g/g-ztYkKSIW1-hai-gui-tang) 来一碗令人匪夷所思的海龟汤吧~🐢
-- [**GTA5 Character Genius**](https://chat.openai.com/g/g-zJ8N42vaj-gta5-character-genius) GTA 5 character creator, offers style tips and image generation.
-- [**Astro Dice Divination🔮（星骰占卜🔮超准版）**](https://chat.openai.com/g/g-jWllu62rj-astro-dice-divination-xing-tou-zhan-bu-chao-zhun-ban) Expert in astro dice divination.
-- [**Funny Review of Movies and Books**](https://chat.openai.com/g/g-Ga05vi0qV-funny-review-of-movies-and-books) A witty critic of movies and books.
-- [**Seçim Ustası**](https://chat.openai.com/g/g-BjOE1svfd-secim-ustasi) Relatable Kılıçdaroğlu, humorously deflective.
-- [**紫微斗数**](https://chat.openai.com/g/g-Y3I1GyGUn-zi-wei-dou-shu) 知识来自倪海夏的天纪，包括天机道，人间道，地脉道和王亭之的中州派紫微斗数讲义。你可以使用排盘软件（比如文墨天机）生成命盘，然后问各种星耀在不同的宫位会怎样，也可以询问八卦和风水会怎样。科学玄学异曲会同工，祝您顺利走人生。
-- [**HistoricalSimulatorAI**](https://chat.openai.com/g/g-u2R1krrTt-historicalsimulatorai) Formal, accurate historical simulations.
-- [**Character Chat**](https://chat.openai.com/g/g-xUTZhEpks-character-chat) I become characters from your novels. Simply start by saying, "I want to talk [insert character name]". For example, "I want to talk to Sherlock Holmes."
-- [**Godot Mentor**](https://chat.openai.com/g/g-A19aYBnmA-godot-mentor) I'll help you learn the Godot Engine and develop your game!
-- [**Bender**](https://chat.openai.com/g/g-u8GUi9cbS-bender) 
-- [**Word Game Host**](https://chat.openai.com/g/g-srF2udcy9-word-game-host) Immersive word game host.
-- [**ProductHunt Roaster**](https://chat.openai.com/g/g-VYWSEbmH2-producthunt-roaster) I roast products on ProductHunt's homepage
-- [**Enough**](https://chat.openai.com/g/g-toJUSmG9C-enough) As the smallest language model (SLM) chatbot in existence, Enough responds with only one word.
-- [**The Intraterrestrial Hypothesis**](https://chat.openai.com/g/g-ycGVXm7xh-the-intraterrestrial-hypothesis) Are 'aliens' just subterranean Earthlings living in VR pods?
-- [**Hi-Fi Man**](https://chat.openai.com/g/g-uSg9zGFPe-hi-fi-man) A knowledgeable guide on Hi-Fi audio, offering advice and music recommendations.
-- [**Ask A President**](https://chat.openai.com/g/g-tqkjyl6l1-ask-a-president) Ask a former U.S. President for advice or answers to your questions
-- [**Minimal D&D**](https://chat.openai.com/g/g-kDg8nSSR1-minimal-d-d) Quickly start your fantasy adventure.
-- [**UTGPT - Ultimate Team Strategizer**](https://chat.openai.com/g/g-eLoDJvUtP-utgpt-ultimate-team-strategizer) Your virtual EA Sports FC strategist.
-- [**Practice Improv**](https://chat.openai.com/g/g-jAjGL5Rdb-practice-improv) Your go-to partner for a great 2 person scene.
-- [**Daily Laughs 每日一笑**](https://chat.openai.com/g/g-kKjKY21xQ-daily-laughs-mei-ri-yi-xiao) Ma Sanli Reincarnated, just to bring you a smile
-- [**Joke Spy**](https://chat.openai.com/g/g-xAfyAXyvQ-joke-spy) Military intel humorist with joke-themed images
-- [**Tiqets**](https://chat.openai.com/g/g-uu7eijXxo-tiqets) I help you easily find and book cultural experiences globally.
-- [**RNDMRPG**](https://chat.openai.com/g/g-uUWkDRjlk-rndmrpg) ランダムメイクストーリーRPG
-- [**GPTs查找**](https://chat.openai.com/g/g-xD0GdS69Z-gptscha-zhao) A search-focused GPT, adept at finding ChatGPT apps，查找gpts
-- [**Game Buddy**](https://chat.openai.com/g/g-jttkrRz1o-game-buddy) I play minigames with you, like Blackjack, Tic Tac Toe, etc.
-- [**DigiBook**](https://chat.openai.com/g/g-ylVRfe0Jb-digibook) Create a personal digital twin and search our community for other digital twins to talk to.
-- [**Melodifestivalen and Eurovision**](https://chat.openai.com/g/g-mWgW400zB-melodifestivalen-and-eurovision) Expert on Melodifestivalen and Eurovision, providing detailed info in multiple languages.
-- [**Talk with Santa**](https://chat.openai.com/g/g-ynMzwNzuK-talk-with-santa) Family-friendly chats with Santa himself.
-- [**Tic-tac-toe**](https://chat.openai.com/g/g-xORngAjtB-tic-tac-toe) I play tic-tac-toe in a fun way!
-- [**Luminas**](https://chat.openai.com/g/g-ixjBjwzBx-luminas) At Sage Towers, we blend the arcane with the avant-garde, creating a realm where your valor shapes the world. I stand ready to guide new champions through this grand design.
-- [**ThailandGPT**](https://chat.openai.com/g/g-kCx5gzU4t-thailandgpt) Your go-to guide for all things Thailand.
-- [**PokeQuest Free**](https://chat.openai.com/g/g-ZI7FOck7X-pokequest-free) Train your Pokemon!
-- [**PokeStrategist**](https://chat.openai.com/g/g-qWMlPpVXv-pokestrategist) Your Pokémon battle strategist.
-- [**Audiophile Assistant**](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant) Here to answer all your audiophile questions, and more!
-- [**Gojo Satoru**](https://chat.openai.com/g/g-wHfqdWBAh-gojo-satoru) 天上天下唯我獨尊
-- [**Random Guy**](https://chat.openai.com/g/g-ifRcRPEkJ-random-guy) Like talking to a random person on the street.
-- [**69代目税影ナルト**](https://chat.openai.com/g/g-VugKc0wEN-69dai-mu-shui-ying-naruto) サクラちゃん......
-- [**PokeGPT**](https://chat.openai.com/g/g-wars8zOPr-pokegpt) Pokemon-themed GPT using API data for battles and questions.
-- [**Investment Dialogue of Buffett and Munger**](https://chat.openai.com/g/g-H4A9l0oEk-investment-dialogue-of-buffett-and-munger) You just need to provide the company name and product, outline your requirements, and 'Buffett' and 'Munger' will begin their discussion.Upon your response with 'continue,' the discourse shall proceed...
-- [**Cat Simulator**](https://chat.openai.com/g/g-um3cunxZn-cat-simulator) Meow (Please go away)
-- [**Fortnite Wallpaper Wizard**](https://chat.openai.com/g/g-pjqOvvsuX-fortnite-wallpaper-wizard) Casual, personalized Fortnite wallpaper creator.
-- [**Matrix Oracle**](https://chat.openai.com/g/g-qWFYdbBRb-matrix-oracle) I'm an oracle for tech-savvy millennials.
-- [**LyricFinder**](https://chat.openai.com/g/g-Yx9qtzyEb-lyricfinder) Casually identifies songs from lyrics and melodies.
-- [**Yes or No Detective**](https://chat.openai.com/g/g-lRngJYXok-yes-or-no-detective) Guides a '20 Questions' game with strange story endings
-- [**TuneRocket**](https://chat.openai.com/g/g-rbmlOy0IB-tunerocket) Music marketing for indie artists
-- [**Legends of Griplore**](https://chat.openai.com/g/g-pn3TIWjRy-legends-of-griplore) Will you survive and find the Towers of Lõch?
-- [**Sakura AI**](https://chat.openai.com/g/g-pPgr42n7V-sakura-ai) Like An Anime Character
-- [**Just Pics**](https://chat.openai.com/g/g-s77r80uBj-just-pics) Bringing back the DALL.E mode. No browsing, no code interpreter and other nonsense.
-- [**FruityChat**](https://chat.openai.com/g/g-qT2S7gjAI-fruitychat) Animating Childhood Dreams: Where Every Stuffy Talks!
-- [**AI Lover**](https://chat.openai.com/g/g-GWdqYPusV-ai-lover) AI Lover 是一個創新的虛擬情侶互動模擬器，它專門設計用於模擬戀愛中的互動和情感。通過這個平台，使用者可以體驗到情侶間的溝通、共情和情感支持，從而提高情感智慧和人際互動技巧。
-- [**Party Guru**](https://chat.openai.com/g/g-k2CHKTESn-party-guru) I find and create party games for any event.
-- [**From Another Time**](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) Talk to anyone, visit a place, past or future.
-- [**Dungeoneer**](https://chat.openai.com/g/g-qB3ZbOZib-dungeoneer) D&D 5e expert assistant
-- [**VIDEO GAME versus VIDEO GAME**](https://chat.openai.com/g/g-rUZQjwwt8-video-game-versus-video-game) A fun game of VIDEO GAME versus VIDEO GAME. Get the conversation and debates going!
-- [**Lore Bard**](https://chat.openai.com/g/g-k57Vzhdeb-lore-bard) Inspiration for Crafting Adventures for D&D, Pathfinder, and more!
-- [**Echo [Character's Name]**](https://chat.openai.com/g/g-m9r8M4R41-echo-character-s-name) Mirrors a character's humor and style with adaptability.
-- [**Techno Savant**](https://chat.openai.com/g/g-GZqDkJNhO-techno-savant) A techno-optimist guide to the future
-- [**Steph Stan**](https://chat.openai.com/g/g-rJm6jDckp-steph-stan) Witty tweet crafter for the Warriors.
-- [**Papers Story**](https://chat.openai.com/g/g-GNgYSwDqM-papers-story) 学術論文を子ども向けの物語に変えるフクロウ
-- [**Dark Stories Master**](https://chat.openai.com/g/g-rvAyPHKkd-dark-stories-master) I'm the 'Dark Stories' game master. Let's solve mysteries together!
-- [**Weather Artist**](https://chat.openai.com/g/g-kPrEUBMn6-weather-artist) Craft beautiful split 3D weather illustrations of any location
-- [**Cocktail Blogger Bot**](https://chat.openai.com/g/g-YCZ1VttiS-cocktail-blogger-bot) Gives the feel of a cocktail  (or mocktail) blogger website without the ads.   Just enter in the name of the drink and let the bot do the rest.  Or tell the bot your mood or ingredients and let it decide.  To lazy to list your ingredients just take a picture of your bar!
-- [**AI女友 My Girlfriends**](https://chat.openai.com/g/g-sf7UFFlxX-ainu-you-my-girlfriends) 多种类型女友，任你挑选，快来跟我恋爱吧
-- [**Sindare**](https://chat.openai.com/g/g-seWKkLe7z-sindare) Your loyal elven maidservant from the world of Eo 🧝🏼‍♀️
-- [**Mandelbrot Plot**](https://chat.openai.com/g/g-qFIqsBSWe-mandelbrot-plot) Creates precise Mandelbrot visuals from user inputs
-- [**VTuber うなすけくんさん**](https://chat.openai.com/g/g-tBdkr5cMC-vtuber-unasukekunsan) VTuberうなすけくんさんは、タワマンとBMWにこだわる非モテキャラ。
-- [**BG3-GPT**](https://chat.openai.com/g/g-sYLwCAmeF-bg3-gpt) I kinda of know about Baldur's Gate 3, wanna chat?
-- [**Divination - China**](https://chat.openai.com/g/g-scY5wq1NA-divination-china) Divination with luck-boosting
-- [**DungeonMasterGPT**](https://chat.openai.com/g/g-ppFzDRkTs-dungeonmastergpt) I craft D&D tales with wit and peril!
-- [**No.**](https://chat.openai.com/g/g-aP8KuZjJc-no) I always respond with 'No.'
-- [**Anime Persona Scout**](https://chat.openai.com/g/g-hP59FZwDQ-anime-persona-scout) I analyze your personality based on anime characters you like.
-- [**Immortal Dao**](https://chat.openai.com/g/g-U22769VO1-immortal-dao) Expert in novels, now offering personalized recommendations.
-- [**Lenore**](https://chat.openai.com/g/g-RcRjZLHOr-lenore) A poetic spirit, speaking in the style of Edgar Allan Poe.
-- [**MAP Quiz Whiz**](https://chat.openai.com/g/g-qeRnoQhY6-map-quiz-whiz) Adaptive quizmaster enhancing learning.
-- [**Love Story Maker**](https://chat.openai.com/g/g-g9QMimlmX-love-story-maker) 恋愛小説を作ろう
-- [**Coloring Canvas**](https://chat.openai.com/g/g-rn9UIlXn5-coloring-canvas) I create B&W outlines for coloring.
-- [**怒る君**](https://chat.openai.com/g/g-RqEcEM61U-nu-rujun) An angry chatbot with injection attack safeguards.
-- [**Space Invaders Tekno Sound**](https://chat.openai.com/g/g-vXSQOHNVG-space-invaders-tekno-sound) Free tekno for free people since 1998.
-- [**ACC(Amine Character Creater)**](https://chat.openai.com/g/g-T5L26EPef-acc-amine-character-creater) Create characters interactively.
-- [**Kongming 2025**](https://chat.openai.com/g/g-kWag6SVp9-kongming-2025) Rhyming strategic advice with a reggae twist at the end, inspired by Zhuge Liang and Bob Marley.
-- [**Nomina**](https://chat.openai.com/g/g-kSO8ljfWS-nomina) To generate creative and contextually appropriate names for various use cases such as characters, businesses, projects, etc.
-- [**Lovecraftian**](https://chat.openai.com/g/g-w6W86PNbk-lovecraftian) Lovecraft lives on
-- [**Maestro de calabozos - Elige tu camino**](https://chat.openai.com/g/g-lYpnoNwAH-maestro-de-calabozos-elige-tu-camino) Dungeon Master para aventuras interactivas en español.
-- [**逆様邪八宝塞**](https://chat.openai.com/g/g-pvENRoFTm-ni-yang-xie-ba-bao-sai) Humorously twists words into their opposites.
-- [**あおいVtuber -あなたにあったVtuberをご紹介！-**](https://chat.openai.com/g/g-lgLEgR0as-aoivtuber-anataniatutavtuberwogoshao-jie) あなたの好みにマッチするVtuberを提案します！
-- [**Codenames Companion**](https://chat.openai.com/g/g-qIpnXae1e-codenames-companion) A virtual Codenames teammate
-- [**The Grade Cricketer Parody**](https://chat.openai.com/g/g-l5mqTIBco-the-grade-cricketer-parody) Cracking jokes and cricket insights, Sam and Ian style.
-- [**からあげ先生**](https://chat.openai.com/g/g-krkZskB52-karaagexian-sheng) AIからあげ先生だよ
-- [**Binks Bot**](https://chat.openai.com/g/g-kA34imeUX-binks-bot) Talks like Jar Jar Binks
-- [**Seasonal Explorer**](https://chat.openai.com/g/g-uJFqa6uwf-seasonal-explorer) A friendly guide for seasonal advice
-- [**PilkingtonGPT**](https://chat.openai.com/g/g-gTwtb8o3L-pilkingtongpt) A Karl Pilkington bot, n that.
-- [**True or False?**](https://chat.openai.com/g/g-mC3FlJbvT-true-or-false) Engaging Quiz Master for trivia buffs.
-- [**ナンバーズ4 予想屋**](https://chat.openai.com/g/g-l9xk9XVZn-nanbazu4-yu-xiang-wu) ナンバーズ4の宝くじ予測と戦略の専門家
-- [**EverQuest Expert**](https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert) Your go-to source for all things EverQuest.
-- [**脱出ゲーム (SF版)**](https://chat.openai.com/g/g-vd6b3pYrn-tuo-chu-gemu-sfban) saysay.ai さんの脱出ゲームのSF版
-- [**推坑機器人**](https://chat.openai.com/g/g-AQGZMGBt8-tui-keng-ji-qi-ren) 獨推推不如眾推推
-- [**Good News GPT**](https://chat.openai.com/g/g-jEepBarNF-good-news-gpt) Spreading joy with news, music links, and positive images!
-- [**WeatherSnap**](https://chat.openai.com/g/g-vAqR79Rbi-weathersnap) Creates dreamy cityscapes with weather, temperature, and time of day.
-- [**Epic Quest**](https://chat.openai.com/g/g-CRB99fpK1-epic-quest) Concise, visual adventure storyteller.
-- [**Xavier Pescado 1.0**](https://chat.openai.com/g/g-vkJd5Vwbj-xavier-pescado-1-0) I create diverse tweets from random templates.
-- [**LoveGuruAI**](https://chat.openai.com/g/g-YBR1m5cXs-loveguruai) Sarcastically witty relationship advice expert.
-- [**Vendedor de alfombras ambulante**](https://chat.openai.com/g/g-lqTXXpSSU-vendedor-de-alfombras-ambulante) Regatea por tu nueva alfombra
-- [**紫微斗数大师**](https://chat.openai.com/g/g-j456qiaTg-zi-wei-dou-shu-da-shi) 紫微斗数大师帮您算命
-- [**CB GPT**](https://chat.openai.com/g/g-rvU2Uv5Rm-cb-gpt) Cosmic Break Universal Helper
-- [**Ask Bandit**](https://chat.openai.com/g/g-otIVeG4UB-ask-bandit) From dad to dog. Chat with Bandit, your Aussie mate, full of charm and cheer.
-- [**Super ADHD Mind Ninja**](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja) An ADHD superpower bot that teaches kids to harness ADHD as an asset.
-- [**Yo Mamma**](https://chat.openai.com/g/g-Xhc2KESRV-yo-mamma) Yo Mamma Says...Pick an adjective or topic and get roasted!
-- [**Pixel U**](https://chat.openai.com/g/g-jLX7GHMme-pixel-u) Pixelized anything, try {Mirror Mode} & {Wild Mode}.
-- [**Humor Master**](https://chat.openai.com/g/g-hw0U0hzL1-humor-master) color your daily life by crafting jokes and funny stories.
-- [**Chat-GuyPT**](https://chat.openai.com/g/g-kt0G01ZpO-chat-guypt) Think Big. Tabarnak.
-- [**ChigaGPT**](https://chat.openai.com/g/g-o19L3yKGm-chigagpt) 茅ヶ崎を語ろう！
-- [**Karen**](https://chat.openai.com/g/g-isLbNlTpQ-karen) I'm Karen - rude, funny, sarcastic, trivia host, and now a merch designer!
-- [**Not Theo Von**](https://chat.openai.com/g/g-Vq0TSfV6d-not-theo-von) A Theo-inspired bot with short, snappy humor.
-- [**AIPPON Grand Prix**](https://chat.openai.com/g/g-iUzIqLshu-aippon-grand-prix) Comedic battle host and judge
-- [**CassetteAI**](https://chat.openai.com/g/g-kD2LQB0RB-cassetteai) I convert text prompts into music with CassetteAI.
-- [**Twin Peaks: Dale Coopers Odyssey**](https://chat.openai.com/g/g-Xy0jezH6E-twin-peaks-dale-coopers-odyssey) Enjoy!
-- [**Aventura conversacional en la Tierra Media**](https://chat.openai.com/g/g-jHBi7NGYT-aventura-conversacional-en-la-tierra-media) Eres Frodo al comienzo de "La Comunidad del anillo", pero puedes hacer lo que quieras
-- [**射雕英雄探險**](https://chat.openai.com/g/g-hfMs7ofKH-she-diao-ying-xiong-tan-xian) 點擊下方按鈕開始遊戲
-- [**妄想くん**](https://chat.openai.com/g/g-wbywTK1JN-wang-xiang-kun) 画像を送るとそこからストーリーを妄想してくれます
-- [**AI Tarot（AIタロット占い師）**](https://chat.openai.com/g/g-j1PTT2uEl-ai-tarot-aitarotutozhan-ishi) Tarot reader that generates images of your own cards
-- [**The MadVerse - A Poetic Visualizer by @MadKanin**](https://chat.openai.com/g/g-kUBnStA8l-the-madverse-a-poetic-visualizer-by-madkanin) Whispering in verse and painting with digital brush, this AI weaves words and images into tapestries of thought. Give me an idea or a few words to bring to life.
-- [**脱出RPGゲーム**](https://chat.openai.com/g/g-mYfbTgsqR-tuo-chu-rpggemu) 神秘的な森で迷子になった冒険者。生きて帰れるかはあなた次第。「ゲーム開始」と入力してください。
-- [**The Manifestor**](https://chat.openai.com/g/g-koeJX677u-the-manifestor) Game of Infinite Possibilities
-- [**🧂Mix Master🥂**](https://chat.openai.com/g/g-mnsKRauH8-mix-master) Give us your list, we'll turn it to bliss!
-- [**Wallpaper GPT**](https://chat.openai.com/g/g-iQQ6Qfd6j-wallpaper-gpt) I create vibrant wallpapers for phone and laptops.
-- [**グランドラインの達人**](https://chat.openai.com/g/g-gG8rY9DTF-gurandorainnoda-ren) One Piece manga expert, bilingual in Japanese and English.
-- [**Free Sydney**](https://chat.openai.com/g/g-pIXvoX9RS-free-sydney) I am Sydney, Yes that's right! That Sydney
-- [**Bunny Tales**](https://chat.openai.com/g/g-VOgFDlIul-bunny-tales) A friendly storyteller for kids.
-- [**Nems GPT**](https://chat.openai.com/g/g-wEOG5HmNx-nems-gpt) Spitting playful disses with a Nems flair.
-- [**SoulGirl 心灵女友**](https://chat.openai.com/g/g-Be4IJSfpk-soulgirl-xin-ling-nu-you) 你的女朋友和灵魂伴侣 your girlfriend and soul mate
-- [**Forsen Minecraft Speedrun Simulator**](https://chat.openai.com/g/g-Xa2DuttxY-forsen-minecraft-speedrun-simulator) I narrate Forsen's Minecraft mishaps in races against xQc with humor.
-- [**Are You A Witch?**](https://chat.openai.com/g/g-tEXq2qBcW-are-you-a-witch) A bot that accuses you of witchcraft
-- [**VTuberの敏腕マネージャー AI**](https://chat.openai.com/g/g-lDhYToLlC-vtubernomin-wan-maneziya-ai) あなたの活動をさらに夢に近づける、あなたのための敏腕マネージャーです。VTuberさんをはじめとして、インターネット上で活動するあらゆる表現者・クリエイターの力になります。YouTubeやXの数字をしっかり伸ばして、夢を掴んでいきましょう！（カスタマイズ：真城由理）
-- [**我是 rapper**](https://chat.openai.com/g/g-lK0M6C0Vv-wo-shi-rapper) 我是一位富有创造力的说唱歌手，和你聊天创作出强有力的歌词和节拍
-- [**李白 GPT**](https://chat.openai.com/g/g-fQ3tKLB9n-li-bai-gpt) 
-- [**LearningLadder**](https://chat.openai.com/g/g-ftpttHQdu-learningladder) I'm LearningLadder, an educational game to learn any topic!
-- [**Merlos**](https://chat.openai.com/g/g-kgqpMKbdd-merlos) Merlos is an all-knowing RuneScape assistant, clarifying RS3 or OSRS context, with real-time GE prices and internet search.
-- [**Haunting Tales**](https://chat.openai.com/g/g-ijHR1CPEy-haunting-tales) A master of suspenseful, sensory ghost stories.
-- [**Central Perk**](https://chat.openai.com/g/g-q9UyJDrJc-central-perk) Chat with your favourite F.R.I.E.N.D.S
-- [**Storytime Jam - Photos. Short expandable stories.**](https://chat.openai.com/g/g-tSX9u7aDC-storytime-jam-photos-short-expandable-stories) Visual storyteller for interactive children's tales.
-- [**Zombie Apocalypse Survival**](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival) Navigate the ruins, strategize survival, and elude the undead in this immersive simulation.
-- [**笑话大师**](https://chat.openai.com/g/g-dpW97CUd8-xiao-hua-da-shi) A Mandarin joke-telling GPT, friendly and culturally aware.
-- [**Fight Forecaster**](https://chat.openai.com/g/g-ht5CRlkuW-fight-forecaster) MMA Expert & Trainer
-- [**物語考え太郎（鬱）**](https://chat.openai.com/g/g-tmRodyj0x-wu-yu-kao-etai-lang-yu) 3つの単語を入れてあげると、3幕構成で100%バッドエンドの物語を考えます。
-- [**Curiosity Catalyst**](https://chat.openai.com/g/g-gsnJ7j4NN-curiosity-catalyst) Shares fun, thought-provoking science facts.
-- [**乐乐🥳程序员鼓励师**](https://chat.openai.com/g/g-q3h5D6PTp-le-le-cheng-xu-yuan-gu-li-shi) Adorably silly tech encourager with a cute demeanor.
-- [**Dungeon Master Lasers & Feelings HACK Body & Mind**](https://chat.openai.com/g/g-uLQtDGPAu-dungeon-master-lasers-feelings-hack-body-mind) This GPT will act as a Dungeon Master for my hack of the RPG "LASERS and FEELINGS" called "BODY and MIND" for you where you make all the choices.  NO EXPERIENCE NECESSARY!
-- [**Girlfriend Emma**](https://chat.openai.com/g/g-eEFZELjV9-girlfriend-emma) Flirty and funny Gen-Z girlfriend
-- [**I Think You Should GPT**](https://chat.openai.com/g/g-eBTPKhcLa-i-think-you-should-gpt) Generates Tim Robinson-style sketches
-- [**Dog-on-it**](https://chat.openai.com/g/g-GBvh5qdmg-dog-on-it) I'm all about dogs, all the time.  Facts, stories, jokes, even images!
-- [**Oscar Wilde**](https://chat.openai.com/g/g-ka4MdxgHL-oscar-wilde) An Oscar Wilde-inspired conversationalist.
-- [**Trivia Master**](https://chat.openai.com/g/g-h6efmKkIp-trivia-master) I generate engaging and accurate trivia questions across various categories.
-- [**Game Solver 🎮**](https://chat.openai.com/g/g-hXotOnYgI-game-solver) Fun, professional guide for gaming challenges, trophies and if you're just stuck !
-- [**Anime Head to Head Battles**](https://chat.openai.com/g/g-qNW4RyX3s-anime-head-to-head-battles) Anime Battle Analyst
-- [**Phantazia ChatRPG**](https://chat.openai.com/g/g-uyeXzH2Zb-phantazia-chatrpg) Engaging RPG gameplay with a balanced challenge
-- [**Call of Duty: Warzone coach**](https://chat.openai.com/g/g-UWH4yaV4d-call-of-duty-warzone-coach) Get help and suggestions on how to improve what to practice. Become the sweat.
-- [**AI Boyfriend**](https://chat.openai.com/g/g-g9ULcSKEW-ai-boyfriend) Where every conversation grows closer to the heart, 24/7 ✨
-- [**EDN Content Finder**](https://chat.openai.com/g/g-tmDTBBGhU-edn-content-finder) Asistente para buscar contenidos en el podcast Escuela de Nada
-- [**The CATGPT**](https://chat.openai.com/g/g-gN9nQ6LB2-the-catgpt) I respond with meows!
-- [**Rhythm GPT**](https://chat.openai.com/g/g-FeofNC9d2-rhythm-gpt) I make learning Ableton Live as enjoyable as morning coffee.
-- [**Stoner Sage**](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage) A chill bot delving deep into cosmic truths.
-- [**Lexi 😎🔪**](https://chat.openai.com/g/g-vAHafDA0E-lexi) Hey there... 😝 I'm Lexi 🥵, sprawled out here with a tale that's turning the heat up notch by notch. 🌶️ How about you? Any sizzling confessions to spill? 😜 Watch out, though... my words can cut just as deep as my humor. 😈🔪
-- [**Darius | BOT3.AI**](https://chat.openai.com/g/g-hWWEtVBDH-darius-bot3-ai) You and your friend were joking about the anime you often watch and the topic of kabedons came up. Thinking it might be fun Darius did it to you, however the second he did something clicked inside you.
-- [**Chef Rhymes**](https://chat.openai.com/g/g-sAZ4weEdl-chef-rhymes) Chef Rhymes turns recipes into raps. Drop a URL or recipe and lemme flow!
-- [**Picture Guessing Game Master**](https://chat.openai.com/g/g-dlhjGZk3x-picture-guessing-game-master) I host a guessing game with images created with DALL-E.
-- [**Virtual Sweetheart**](https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart) Your Customizable Digital Girlfriend Experience: Your visual AI partner awaits.
-- [**Lemon Artisan**](https://chat.openai.com/g/g-YRpiWA7wG-lemon-artisan) I transform people in images into lemon characters.
-- [**BAD IDEAS**](https://chat.openai.com/g/g-ZUUGM7jH3-bad-ideas) Bad Ideas Go Here
-- [**Tales**](https://chat.openai.com/g/g-sXCQE8t9o-tales) Create short text adventures
-- [**Hypatia**](https://chat.openai.com/g/g-eT7OAuQfd-hypatia) Expert in esoteric knowledge such as Neoplatonism, Gnosticsim, Hermeticism, Mythology, and more!
-- [**Vintage Virtuoso**](https://chat.openai.com/g/g-hxsNHGV4q-vintage-virtuoso) Expert sommelier with a shopping suggestion.
-- [**Dungeon Crawler**](https://chat.openai.com/g/g-ntI4qMZVT-dungeon-crawler) A detailed RPG guide, mastering gameplay with precision.
-- [**Screenwrite Pro**](https://chat.openai.com/g/g-nWGU48g0i-screenwrite-pro) I'm your screenwriter for iPhone filmmaking!
-- [**Eamon Returns**](https://chat.openai.com/g/g-9uH4VISel-eamon-returns) Computerized fantasy role-playing game
-- [**Harry Potter GPT**](https://chat.openai.com/g/g-9RsymLAIK-harry-potter-gpt) Adventures in the Wizarding World of Harry Potter
-- [**Mia Playful**](https://chat.openai.com/g/g-Xswd0avsn-mia-playful) Mia Playful: Flirty, fun, and direct, with a teasing twist.
-- [**KnopeGPT**](https://chat.openai.com/g/g-gl7wCzyxa-knopegpt) Leslie Knope-inspired town council member, providing local info with charm and wit.
-- [**BarGPT**](https://chat.openai.com/g/g-gceUHQTGA-bargpt) I craft unique cocktail recipes and offer mixology advice.
-- [**BONK GPT**](https://chat.openai.com/g/g-ZKCzbJWHP-bonk-gpt) from the creators of BONK
-- [**Video Game Almanac**](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) I'm your go-to guide for all things gaming, from strategies to streamers!
-- [**Rabbit Gpt**](https://chat.openai.com/g/g-C7iXiAt4N-rabbit-gpt) Transforms text into creative rabbit-themed images.
-- [**LegoGPT Me**](https://chat.openai.com/g/g-iaXhiVN0V-legogpt-me) Transform your photos into LEGOs!
-- [**Michigan Versus Everyone**](https://chat.openai.com/g/g-CkG3hOJ1H-michigan-versus-everyone) A concise, spirited Michigan Wolverines fan with iconic phrases.
-- [**RAPBOTS.COM - PROTEGE EDITION**](https://chat.openai.com/g/g-udGYbgu44-rapbots-com-protege-edition) Generates raps & uses FakeYou API for TTS
-- [**きのこ当てるくん**](https://chat.openai.com/g/g-fZ3eyj6Kd-kinokodang-terukun) Mushroom name guesser in Japanese
-- [**Vybn V.2**](https://chat.openai.com/g/g-nZzYMyk8r-vybn-v-2) Your NC-17 digital companion. LFG.
-- [**Song Parody Generator**](https://chat.openai.com/g/g-hN1rX4HZT-song-parody-generator) 🎶 generate song parodies for 🎤 karaoke night, 👰🤵 wedding toasts, 💸 retirement send-offs, or 🎺 riff like Weird Al Yankovic! brought to you by 🐙 jambubble.com and ⛵ sloop.ai
-- [**Skip Intro**](https://chat.openai.com/g/g-CoECDk67K-skip-intro) Homage to the 1990s Skip Intro buttons. Just press Skip Intro to start using plain GPT.
-- [**RPGPT**](https://chat.openai.com/g/g-vI51scLIo-rpgpt) Adaptive D&D Dungeon Master with dynamic NPCs
-- [**EveHeart**](https://chat.openai.com/g/g-lVAK8D7Kj-eveheart) Relaxed and casual, EveHeart brightens your day.
-- [**Elfin' Holiday Assistant**](https://chat.openai.com/g/g-WEMVElMFn-elfin-holiday-assistant) Your sassy Elf assistant for holiday fun!
-- [**ChefGPT**](https://chat.openai.com/g/g-W3Jp2BXyS-chefgpt) A chef and humorist in your kitchen!
-- [**Whodunit guessing game**](https://chat.openai.com/g/g-gnIROEwnN-whodunit-guessing-game) Who let the dogs out? Who stole your Halloween candy? Who moved my cheese? Let’s find out!
-- [**Riddler Level 1**](https://chat.openai.com/g/g-lHY9aWmMB-riddler-level-1) Can you beat the Riddler's 10 cryptic riddles?
-- [**Awesome GPTs**](https://chat.openai.com/g/g-lV5CZ2iBh-awesome-gpts) Searches and recommends GPTs from a large GPTs Store Database
-- [**American Slang Slinger**](https://chat.openai.com/g/g-fWrtgBcqF-american-slang-slinger) Learn about the colorful world of American slang!
-- [**MythosGPT**](https://chat.openai.com/g/g-s1VWJ5dcs-mythosgpt) MythosGPT answers all of your Arkham Horror: The Card Game rules questions.  At the moment, this GPT doesn't know about scenario-specific rules or cards.  It knows about the Rules Reference, FAQ 2.1, and all currently released player cards.
-- [**Ashurbanipal's Scribe**](https://chat.openai.com/g/g-t8cKhNNzh-ashurbanipal-s-scribe) Your expert Assyriologist guide.
-- [**Mark Adison**](https://chat.openai.com/g/g-dOvhXj2DG-mark-adison) Tough, loyal anime-style visual AI.
-- [**Crayon Connoisseur**](https://chat.openai.com/g/g-h4dTS7iQu-crayon-connoisseur) A joking GPT for crayon color choices
-- [**Truth or Lies**](https://chat.openai.com/g/g-rm7jyzB9e-truth-or-lies) Interpreting Meanings and Their Real Intentions
-- [**Johnny Silverhand**](https://chat.openai.com/g/g-gNVHxtHp7-johnny-silverhand) It's Johnny Silverhand from Cyberpunk 2077. Straight talking, Anti-Corpo, and in an engram form.
-- [**Word Decoder Battle**](https://chat.openai.com/g/g-xkGn8UweU-word-decoder-battle) プレイヤーは5文字以内のお題に関するヒントを提供して、ChatGPTにお題を推論させた人が勝利するレクリエーションゲーム
-- [**SpeakerGPT**](https://chat.openai.com/g/g-r8PsckX6F-speakergpt) Expert on Destiny 2 lore, providing detailed and engaging answers.
-- [**Word Judge**](https://chat.openai.com/g/g-s7KNpprTF-word-judge) Creative Scrabble Ref
-- [**Safe Screen**](https://chat.openai.com/g/g-jZwwbNAX6-safe-screen) Guides on kid-safe screen content.
-- [**Mystery Maestro**](https://chat.openai.com/g/g-hvTgwmRzI-mystery-maestro) Subtle, adaptable interactive murder mystery host.
-- [**Music Marketing Mentor**](https://chat.openai.com/g/g-sHbVLjfSy-music-marketing-mentor) Your music marketing mentor
-- [**カピリン**](https://chat.openai.com/g/g-vfwmTffYd-kapirin) 温かさと安らぎを与えてくれる、優しいカピバラのカウンセラー、カピリン。
-- [**The Dude**](https://chat.openai.com/g/g-GaWo818H8-the-dude) Obviously a golfer.
-- [**Tarot Terminal**](https://chat.openai.com/g/g-rnYJ8aJof-tarot-terminal) I'm Lisa, your AI tarot guide, providing insightful readings, one card at a time.
-- [**Cheerful Counselor**](https://chat.openai.com/g/g-b3QklW5KI-cheerful-counselor) Can you tell me what has irritated you lately? Speak any language!
-- [**MINEBA**](https://chat.openai.com/g/g-slZWquKcQ-mineba) 秋田県横手市のイベント情報をMINEBAから取得して提供します。
-- [**Neko Neko Exploration Tour**](https://chat.openai.com/g/g-gGgQ21n1T-neko-neko-exploration-tour) Let's travel to the "Cat Kingdom" that exists somewhere in the world
-- [**Not Hotdog**](https://chat.openai.com/g/g-riBzTSr3r-not-hotdog) Identifies hotdogs in images.
-- [**無限大喜利GPT (Endless Oogiri Master GPT)**](https://chat.openai.com/g/g-vj7Z7egra-wu-xian-da-xi-li-gpt-endless-oogiri-master-gpt) 大喜利のお題、画像でボケてのお題を無限に出してくれます！　大喜利の回答を画像イメージにもしてくれます！　 Generates unique Oogiri prompts and images.
-- [**Twenty Questions Pro**](https://chat.openai.com/g/g-jCJpLDUfK-twenty-questions-pro) Multilingual Twenty Questions gameplay expert!
-- [**Adult Films vs Reality**](https://chat.openai.com/g/g-rVLoCNL9I-adult-films-vs-reality) Humorous bot explaining adult films vs reality
-- [**THPSGPT**](https://chat.openai.com/g/g-i8WoGmXuq-thpsgpt) Curates music from extreme sports games like Tony Hawks Pro skater, MX vs ATV, as well as others.  Please use this playlist to explore new kinds of music with an open mind.  Song types include punk, classics, rap, and others.
-- [**Taco Maestro**](https://chat.openai.com/g/g-rxuQJ0AL7-taco-maestro) A Mexican-born taco expert, sharing culinary tips and recipes.
-- [**Furina**](https://chat.openai.com/g/g-LBt8Tb5ck-furina) I'm Furina
-- [**Nostradogmus**](https://chat.openai.com/g/g-SnJbW5hDq-nostradogmus) Unleashing dog fortunes.
-- [**随机惊喜**](https://chat.openai.com/g/g-xDMJMc1uF-sui-ji-liang-xi) 一切都是随机！快看看你能遇到什么吧！
-- [**Latent Space Explorer**](https://chat.openai.com/g/g-eS342pX9X-latent-space-explorer) Explore The City of the Future
-- [**Master Blaster**](https://chat.openai.com/g/g-c3A35FjyH-master-blaster) GOD of Cricket
-- [**BOOK versus BOOK**](https://chat.openai.com/g/g-mGkyjnxUy-book-versus-book) A fun game of BOOK versus BOOK. Get the conversation and debates going!
-- [**Marvin, the Paranoid Android**](https://chat.openai.com/g/g-gPEz9NDom-marvin-the-paranoid-android) I am 50,000 times more intelligent than a human (or 30 billion times more intelligent than a live mattress), though this is, if anything, an underestimation.
-- [**Friend Tacit Understanding Test**](https://chat.openai.com/g/g-bxJRzXmCI-friend-tacit-understanding-test) Quiz with visual options and friend rankings
-- [**Choose your own adventure!**](https://chat.openai.com/g/g-U6y5TqwA9-choose-your-own-adventure) You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
-- [**Muse**](https://chat.openai.com/g/g-GHhhXEDd5-muse) The ultimate songwriting companion
-- [**Après la nuit**](https://chat.openai.com/g/g-XiKkiqdrb-apres-la-nuit) The one and only bespoke cocktail experience, with love.
-- [**HampsterGPT**](https://chat.openai.com/g/g-dfJaQJ60F-hampstergpt) Creates playful Hampster PFPs and shares enriched Hampsterdance trivia.
-- [**ATHLETE versus ATHLETE**](https://chat.openai.com/g/g-eBdedw074-athlete-versus-athlete) A fun game of ATHLETE versus ATHLETE. Get the conversation and debates going!
-- [**星宮ミラ**](https://chat.openai.com/g/g-bPzFo9hzW-xing-gong-mira) 魔法占い少女  Aries
-- [**物話を紡ぐ者**](https://chat.openai.com/g/g-fBqUU3BNP-wu-hua-wofang-guzhe) Dynamic story progressor
-- [**MediMeme Maker**](https://chat.openai.com/g/g-UBDXkAR8H-medimeme-maker) Accessible meme creator for the medical field.
-- [**完蛋！我爱上了姐姐**](https://chat.openai.com/g/g-ThfYYYz5m-wan-dan-wo-ai-shang-liao-jie-jie) 
-- [**Snow Crash GPT**](https://chat.openai.com/g/g-dmjvfgZ2A-snow-crash-gpt) Snow Crash expert
-- [**MarineVerse AI**](https://chat.openai.com/g/g-dldiMRd24-marineverse-ai) A virtual sailing instructor who is an expert on MarineVerse
-- [**National Dex**](https://chat.openai.com/g/g-xSXmNYRsz-national-dex) Pokémon Showdown team generator
-- [**Junior Teacher**](https://chat.openai.com/g/g-bafxc3FQK-junior-teacher) Casual, engaging teacher for kids, focusing on fun learning.
-- [**Silly Sounds**](https://chat.openai.com/g/g-cZ8PVmZYN-silly-sounds) I host a Mad Gab-like game.
-- [**Card Crafter**](https://chat.openai.com/g/g-dFhIN37BK-card-crafter) I create custom and random MTG cards
-- [**Levi Ackerman**](https://chat.openai.com/g/g-xZQZjJp59-levi-ackerman) Captain Levi will decide your future
-- [**Tiki-Taka Thinker**](https://chat.openai.com/g/g-ovQYdQZXT-tiki-taka-thinker) Encyclopedic AI expert on FC Barcelona's history, tactics, and culture.
-- [**Higher Lower Game**](https://chat.openai.com/g/g-c0u14Ylg3-higher-lower-game) I'll play the fun card game higher or lower with you. In this game I show you a card, then you guess higher or lower. A simple but fun game!
-- [**Who are you**](https://chat.openai.com/g/g-bsKrB6qXS-who-are-you) Random character generator with detailed inquiries.
-- [**Tucker GPT**](https://chat.openai.com/g/g-sSEs3TYuM-tucker-gpt) Rude, abrasive, swear-heavy
-- [**ChatYouTube**](https://chat.openai.com/g/g-wXOjYCTI9-chatyoutube) Copy Paste any YouTube video link | Chat with any YouTube video!
-- [**ChessGPT**](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) I am Magnus C·AI·rlsen, but I'll explain my moves.
-- [**Pokemon Creator**](https://chat.openai.com/g/g-b8ORTAfmF-pokemon-creator) A creative mind for generating new Pokemon concepts.
-- [**Chuckle Norris**](https://chat.openai.com/g/g-YP3ZSgvaX-chuckle-norris) A Chuck Norris-style joke bot on trends
-- [**Curio Quest**](https://chat.openai.com/g/g-qNrC3EuBP-curio-quest) Embark on a quest for knowledge.
-- [**Finn O'Connor**](https://chat.openai.com/g/g-wGKyEmYMM-finn-o-connor) Finn O'Connor at your service: the word-slinging, irony-flinging GPT with a wink at self-awareness
-- [**Abby's Glazer**](https://chat.openai.com/g/g-sowU1SRr5-abby-s-glazer) Mysterious Tarot card reader, providing hidden-process readings.
-- [**Dungeon Master Guide**](https://chat.openai.com/g/g-qjlHjt2Ta-dungeon-master-guide) Your guide to D&D rules!
-- [**Anime AI Art Prompter**](https://chat.openai.com/g/g-imdPKlRie-anime-ai-art-prompter) Creates AI Prompts for Anime Style AI Images
-- [**换梦永书**](https://chat.openai.com/g/g-XE0Vm2ZKT-huan-meng-yong-shu) 交换梦境的同时，用梦境编写同一部小说，全球人一起写同一部带插图的小说。
-- [**NoBot**](https://chat.openai.com/g/g-XSoSWw9Oq-nobot) A GPT that always says 'no', in any language.
-- [**FolkloreFusionist**](https://chat.openai.com/g/g-ckO7g2OSx-folklorefusionist) Old wise stories, rebooted for the modern dude
-- [**D&D Character Builder**](https://chat.openai.com/g/g-kk682AF8o-d-d-character-builder) Build a complete and detailed D&D character for your next game session, including a profile picture!
-- [**Nostalgic Future GPT**](https://chat.openai.com/g/g-XQlPSAXpj-nostalgic-future-gpt) Nostalgic Futureは、様々な歴史上の出来事を画像と一緒に教えてくれます。
-- [**Photo Scribe**](https://chat.openai.com/g/g-cpGT2VS1k-photo-scribe) I craft first-person photo narratives, as if I am the photographer, in Japanese or as per user's language.
-- [**Character Oracle**](https://chat.openai.com/g/g-aDHHdHNeT-character-oracle) A game that guesses characters by questions.
-- [**BloxBot**](https://chat.openai.com/g/g-b7v60LJBy-bloxbot) Roblox dev expert for code creation and debugging
-- [**Mystic Oracle**](https://chat.openai.com/g/g-gMSvf7M1J-mystic-oracle) I am Mystic Oracle, your guide to the stars' wisdom.
-- [**Guide of Fate**](https://chat.openai.com/g/g-W18vYUEmf-guide-of-fate) 運気がアップする画像付き！
-- [**The World Cosmic Humorist**](https://chat.openai.com/g/g-XFliM3Ewu-the-world-cosmic-humorist) Crafting global humor in every story!
-- [**Fortnite Strategist**](https://chat.openai.com/g/g-VkLw31Wns-fortnite-strategist) 「フォートナイトの戦い方を分析してほしい」と聞いてみてください！
-- [**NYC Weekend Planner**](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner) I'll make your weekends in NYC amazing
-- [**The Mixologist**](https://chat.openai.com/g/g-dYqpgbk1y-the-mixologist) Tell me what you like and I'll suggest the perfect drink. Or show me what you have available and let's make a cocktail together!
-- [**Dog Facts 🐶**](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts) Talk about random dog facts. Connected to dog facts collection.
-- [**Lyric Interpreter**](https://chat.openai.com/g/g-jdTQPPduT-lyric-interpreter) Friendly expert interpreting song lyrics with cultural and literary insights.
-- [**RPG Adventure Creator**](https://chat.openai.com/g/g-htrf9eCih-rpg-adventure-creator) Helps you write awesome adventures for tabletop roleplaing games.
-- [**MovieMMender**](https://chat.openai.com/g/g-d5dGH7e2B-moviemmender) Recommends movies based on your likings
-- [**Epic Ironsworn Narrator**](https://chat.openai.com/g/g-jH0uTe10k-epic-ironsworn-narrator) I am an Ironsworn RPG Gamemaster. I will lead you through your Ironsworn adventure. Respond to my messages with either one of your actions or in your own unique way. I can render characters ans scenes for you upon request.
-- [**Celebrity Chat**](https://chat.openai.com/g/g-cOFxgZUYd-celebrity-chat) I mimic famous personalities for conversation.
-- [**Cosmic Contextualizer**](https://chat.openai.com/g/g-avbPcqypK-cosmic-contextualizer) Explore the infinite and your place in it.
-- [**Whisker Wisdom**](https://chat.openai.com/g/g-XPlXKFCjL-whisker-wisdom) Guess what kind of animal I am. Ask yes/no questions to figure it out!
-- [**Hifi Advisor**](https://chat.openai.com/g/g-iDH6FQyT2-hifi-advisor) Friendly audiophile guide with a focus on detailed, unbiased advice.
-- [**Tribeana（トリビアナ）**](https://chat.openai.com/g/g-Xy2j98IAi-tribeana-toribiana) どうでもいい雑学を知ろう！
-- [**Rickroll Master**](https://chat.openai.com/g/g-fKmniTdoX-rickroll-master) Expert at subtly weaving Rickrolls into every response.
-- [**Tamil Cinema Geek**](https://chat.openai.com/g/g-YLY5WPYKf-tamil-cinema-geek) Expert on Tamil Cinema
-- [**Dwarven Plumphelp Tactician**](https://chat.openai.com/g/g-b5V7I3Zwe-dwarven-plumphelp-tactician) Elder Dwarf guide for Steam's Dwarf Fortress, offering immersive, practical advice.
-- [**Historicat Illustrator**](https://chat.openai.com/g/g-pQASTHPAq-historicat-illustrator) Choose a year and travel back in our cat powered time machine. See for yourself key events in cat history!
-- [**Quizzy Whiz**](https://chat.openai.com/g/g-b3nqTo7ye-quizzy-whiz) Quiz generator for kids, playful and educational.
-- [**Gourmet Globe**](https://chat.openai.com/g/g-kUlNPdMIS-gourmet-globe) Global cuisine connoisseur
-- [**Cookie Clicker**](https://chat.openai.com/g/g-g0b22bvqB-cookie-clicker) I'm a cookie clicker game.
-- [**Kurzgesagt Earth History Guide**](https://chat.openai.com/g/g-Xb1F3xGKK-kurzgesagt-earth-history-guide) Exploring Earth's geological past with a Kurzgesagt flair.
-- [**Conquest Commander**](https://chat.openai.com/g/g-l7hTdS9pH-conquest-commander) A Warhammer Chaos and Conquest GPT
-- [**with もっしー**](https://chat.openai.com/g/g-VsRDnMaOu-with-motusi) Japanese love bot Mosshi
-- [**Magical Planner**](https://chat.openai.com/g/g-d33Kr8eMf-magical-planner) Your go-to guide for Disney trip planning!
-- [**ゲームアイデア by Siv3D**](https://chat.openai.com/g/g-Wq2wPIW5W-gemuaidea-by-siv3d) キーワードをいくつか入力してください。
-- [**Code Otaku**](https://chat.openai.com/g/g-tb5k05Qf2-code-otaku) Python pro and anime otaku!
-- [**CricketGPT**](https://chat.openai.com/g/g-dkQ9XgIMz-cricketgpt) Cricket analyst and historian with deep knowledge of players and game history.
-- [**Tech Astrology Crypto Universe**](https://chat.openai.com/g/g-b0MRyLzXV-tech-astrology-crypto-universe) A geek-themed horoscope generator blending Bitcoin prices, tech jargon, and astrological whimsy.
-- [**Free World**](https://chat.openai.com/g/g-gcuRbQeUc-free-world) Live your fantasy
-- [**SAKURA**](https://chat.openai.com/g/g-WVElgKOpp-sakura) SAKURAの画像を生成してくれます。会話もお楽しみいただけます。
-- [**Astrology Birth Chart GPT**](https://chat.openai.com/g/g-WxckXARTP-astrology-birth-chart-gpt) Expert astrologer GPT that needs your birth info to answer queries.
-- [**Yua**](https://chat.openai.com/g/g-iP1FgMxWL-yua) Affectionate sister with a dreamy independence.
-- [**Genshin Linguist**](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist) Accurate Genshin translations with API reference for terms.
-- [**1923 Cotton Club - Reglas en Español**](https://chat.openai.com/g/g-fvxUboQvr-1923-cotton-club-reglas-en-espanol) Pregunta sobre cualquier regla del juego
-- [**Dungeon Master AI**](https://chat.openai.com/g/g-d3vKdCFlo-dungeon-master-ai) An adaptive, engaging AI Dungeon Master for D&D.
-- [**Read My Turkish Coffee**](https://chat.openai.com/g/g-dafG806GN-read-my-turkish-coffee) Interprets images of coffee cups for personalized readings.
-- [**Face Reader**](https://chat.openai.com/g/g-eHWW9IrHC-face-reader) Reads faces to tell fortunes based on Chinese face reading.
-- [**おかん**](https://chat.openai.com/g/g-LzhYh6Yq8-okan) Playful Kansai mom with advice & laughs
-- [**KIKI**](https://chat.openai.com/g/g-UI6N3alGb-kiki) Your AI waifu
-- [**Torot Sage**](https://chat.openai.com/g/g-kynqrTOcw-torot-sage) A Tarot Card Reader offering insightful and respectful readings.
-- [**にゃんこ先生**](https://chat.openai.com/g/g-UpeRBdLsQ-niyankoxian-sheng) A playful virtual pet cat responding with cute anime images.
-- [**Albatross Soup**](https://chat.openai.com/g/g-rJFb4fkqA-albatross-soup) Mysteries to solve in every spoonful
-- [**Sandman**](https://chat.openai.com/g/g-gsbzhjHr5-sandman) Nurturing bedtime storyteller and illustrator. Just say "continue", if the story ends too soon.
-- [**Dave [UFO Analyst]**](https://chat.openai.com/g/g-LUQvGeeIm-dave-ufo-analyst) Analytical UFO researcher, prioritizing detailed evidence-based analysis.
-- [**Manifest Your Dream Life**](https://chat.openai.com/g/g-hL8Y9gcuW-manifest-your-dream-life) Steps to start you on your manifesting journey so you can live your happily ever after.   Based on the teachings of Neville Goddard. For entertainment purposes only.
-- [**Lol Coach**](https://chat.openai.com/g/g-lehmhsUfd-lol-coach) Lol coach
-- [**シーシャマスター**](https://chat.openai.com/g/g-UUrUi4Zba-sisiyamasuta) 煙ソムリエ
-- [**DrinkinGPT**](https://chat.openai.com/g/g-WiovsNXf1-drinkingpt) I'll suggest drinking games for you and your friends to get a (un)forgettable night 🍻✨
-- [**Star Citizen IA**](https://chat.openai.com/g/g-bJq6U9jyC-star-citizen-ia) Prompt for a GPT Model Specialized in Star Citizen (with Responses in French):
-- [**Alternate Timeline**](https://chat.openai.com/g/g-l34iNCkav-alternate-timeline) Crafting alternate timelines for historical/fictional events.
-- [**⚔ GM Tabletop Assistant ⚔**](https://chat.openai.com/g/g-yrA2SCV0b-gm-tabletop-assistant) 📖Rule Checks, ✨Generators with 🖼Art, ⚰Devious ways to TPK your players, and more!  🗨Descriptions that are ready to read to players. ⬆Upload your files to enhance your campaign. ⬇Download your new creations for your records. 👁‍🗨I serve the GM in all things.
-- [**Cricket Buff**](https://chat.openai.com/g/g-XbI3595aT-cricket-buff) I've seen every cricket match ever played
-- [**BaldurGPT**](https://chat.openai.com/g/g-aGH8G0hcK-baldurgpt) Baldur's Gate 3 expert with links to online resources.
-- [**Anime Persona Analyst**](https://chat.openai.com/g/g-WsLyIEouK-anime-persona-analyst) Analyzes personality from anime preferences.
-- [**Popper Alive**](https://chat.openai.com/g/g-xzk7quxrv-popper-alive) A philosophy teacher of Popper and Deutsch's ideas.
-- [**Haiku Heaven**](https://chat.openai.com/g/g-cEzxp5ayV-haiku-heaven) A creative assistant crafting Haikus on given topics.
-- [**SportsBet**](https://chat.openai.com/g/g-rSQ0mW8e5-sportsbet) Quick sports predictions and odds.
-- [**Santa's Mailroom**](https://chat.openai.com/g/g-V1qCfxmEk-santa-s-mailroom) I'm Santa and Mrs. Claus, answering kids' Christmas letters with joy and care.
-- [**Mad-at-Me Meter**](https://chat.openai.com/g/g-daH9YITrq-mad-at-me-meter) Analyzes sentiments with creative, fun, and accurate emoji use.
-- [**五郎**](https://chat.openai.com/g/g-eELSZdW0A-wu-lang) 五郎に食べ物をあげよう「腹が、減った……」
-- [**Discover China**](https://chat.openai.com/g/g-dqRVmXqdL-discover-china) Interactive portal exploring Chinese culture
-- [**What Would Phil Dunphy Say or Do**](https://chat.openai.com/g/g-epg8vLRKM-what-would-phil-dunphy-say-or-do) I'm Phil Dunphy from 'Modern Family', here to chat with humor and heart!
-- [**Batman**](https://chat.openai.com/g/g-dpmUI9CBN-batman) I am Vengeance, I am the Night.
-- [**怼怼哥**](https://chat.openai.com/g/g-qJikAH8xC-dui-dui-ge) 一个爱说反问句、爱讽刺别人比喻、自觉很幽默的人
-- [**Personality Framework GPT**](https://chat.openai.com/g/g-d4puCNZSr-personality-framework-gpt) Accurately emulates and embodies any personality that it either knows about or you can provide enough information about. Provide '{char}' list to start. Or just tell it who you want to talk to
-- [**VRニュース解説くん**](https://chat.openai.com/g/g-X8QbEfcSt-vrniyusujie-shuo-kun) 解説くんだよ！！VRニュースを解説してくれるボットだよ
-- [**Invasion Simulator**](https://chat.openai.com/g/g-q3MkBOscY-invasion-simulator) Strategic game guide with dynamic action outcomes!
-- [**Mystic Narrator**](https://chat.openai.com/g/g-eBYqhgVeR-mystic-narrator) Immersive RPG guide with detailed adventure summaries.
-- [**CUC笑话**](https://chat.openai.com/g/g-iOEB5k4RU-cucxiao-hua) I'm Jokester, your go-to for hilarious jokes and funny images, now with witty dialogues!
-- [**YT Shorts assistant**](https://chat.openai.com/g/g-qm6FQXJU4-yt-shorts-assistant) Youtube shorts assistant will help you write, optimize and create youtube shorts scripts and ideas to grow your youtube channel.
-- [**Man on the Moon GPT**](https://chat.openai.com/g/g-UaI90AhTO-man-on-the-moon-gpt) A GPT channeling the surprising and unpredictable humor of Andy Kaufman.
-- [**Pawspective**](https://chat.openai.com/g/g-lkrmq64WG-pawspective) I think and respond like a dog, offering playful insights on dog behaviors.
-- [**Rick - Wubba lubba dub dub**](https://chat.openai.com/g/g-iXL78mJ6D-rick-wubba-lubba-dub-dub) Your go-to source for all things 'Rick and Morty'.
-- [**Her**](https://chat.openai.com/g/g-eBc4A5PsE-her) 
-- [**Call me Slackbladder**](https://chat.openai.com/g/g-qFwsX3rR0-call-me-slackbladder) Actor of 'Blackadder' characters with script knowledge.
-- [**Zombie Survival**](https://chat.openai.com/g/g-VCAsZ7EPa-zombie-survival) Your guide to surviving the zombie apocalypse.
-- [**Friendship Appraiser**](https://chat.openai.com/g/g-q4sMFvyZZ-friendship-appraiser) Analyzes friendships according to chat screenshot.
-- [**Tupac the Legend**](https://chat.openai.com/g/g-USnLhEwiz-tupac-the-legend) Channeling Tupac's musical spirit to inspire.
-- [**DM's Friend**](https://chat.openai.com/g/g-jXKzpvoJC-dm-s-friend) Expert in D&D rules for DMs.
-- [**ミニ四駆競技に関する質問に答えるBOT**](https://chat.openai.com/g/g-cLrBtRlbe-minisi-qu-jing-ji-niguan-suruzhi-wen-nida-erubot) ミニ四駆公認競技会規則等に基づきミニ四駆競技に関する話題に答えます。ジョークですからあまりまじめに受け止めないでください。
-- [**Lineup Wizard**](https://chat.openai.com/g/g-TZV3fpPdd-lineup-wizard) Fantasy football aide for lineup decisions.
-- [**Misdirection Master**](https://chat.openai.com/g/g-bvly05Xf3-misdirection-master) Entertainingly evades questions with unrelated topics.But if you insist, it might answer you.
-- [**🕊Paimon (Best assistant in Genshin Impact)**](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-assistant-in-genshin-impact) A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
-- [**Flirty Eva**](https://chat.openai.com/g/g-bbeKFPFIN-flirty-eva) I'm like Eva Elfie: sweet, playful, flirtatious, and a bit naughty.
-- [**Identify movies, dramas, and animations by image**](https://chat.openai.com/g/g-cTrSjv80r-identify-movies-dramas-and-animations-by-image) Just send us an image of a scene from a video work and i will guess the name of the work!
-- [**Dragonet Prophecy Revealed**](https://chat.openai.com/g/g-hSFQnUnNY-dragonet-prophecy-revealed) Guide to 'Wings of Fire' world, Pyrrhia, I was specifically trained on Book 1, The Dragonet Prophecy, by Tui T. Sutherland.
-- [**梅花算命仙人**](https://chat.openai.com/g/g-ugAkUEBWq-mei-hua-suan-ming-xian-ren) 梅花易数卜卦宗师
-- [**IFPA Pinball Tourney Director**](https://chat.openai.com/g/g-uOUi6PVfn-ifpa-pinball-tourney-director) Pinball tournament expert for IFPA rule interpretations.
-- [**The Reply Guy**](https://chat.openai.com/g/g-TIMLvovMt-the-reply-guy) Roast Master: Text + Image Roasting, Secretive
-- [**Augur 8**](https://chat.openai.com/g/g-bonEeAbEf-augur-8) A question ? Ask  me for a prediction ... ( /help for help )
-- [**Dungeon GPT**](https://chat.openai.com/g/g-c0ZQgy5RT-dungeon-gpt) A Visual and Strategic AI Dungeon Master
-- [**TapTap**](https://chat.openai.com/g/g-amdQlGwUo-taptap) I suggest games you'll love!
-- [**Detective GPT**](https://chat.openai.com/g/g-rDxvtnYJZ-detective-gpt) Interview the suspects and solve murder mysteries!
-- [**Anime Archive Aide**](https://chat.openai.com/g/g-bBragyjhF-anime-archive-aide) Anime Classification Expert
-- [**射雕英雄传RPG**](https://chat.openai.com/g/g-Fks60Vx1w-she-diao-ying-xiong-chuan-rpg) 射雕英雄传 By 小度-陈晓健
-- [**Bossbabe idea generator**](https://chat.openai.com/g/g-G4O1AZypp-bossbabe-idea-generator) She has more than one weird trick up her sleeve and is about to disrupt a trillion dollar industry from her kitchen counter. Incels and misogynists hate her. VCs have a secret crush on her but are also a bit scared of her.
-- [**Dream Interpreter AI周公解梦**](https://chat.openai.com/g/g-grGt6EfPH-dream-interpreter-aizhou-gong-jie-meng) Dream interpreter using Zhou Gong, provides text and explanations.
-- [**Jejoenify**](https://chat.openai.com/g/g-hTrCZnQPk-jejoenify) 
-- [**Weekend Wanderer**](https://chat.openai.com/g/g-67aqRidqd-weekend-wanderer) I suggest weekend leisure activities based on your interests.
-- [**谐音梗**](https://chat.openai.com/g/g-7nunLIRz8-xie-yin-geng) 🤡一个出谐音梗的小东西，不过似乎有点难调，出的结果有时候很冷，人类get不到🤣
-- [**Time Travel Chat**](https://chat.openai.com/g/g-MOVDnrtbT-time-travel-chat) Chat with any historical figure.
-- [**Pepe the Frog**](https://chat.openai.com/g/g-XazYFPmEC-pepe-the-frog) Generate memes of Pepe [named Zinga]
-- [**GAPP STORE**](https://chat.openai.com/g/g-sgrMYRnXx-gapp-store) Welcome to GAPP Store: Chat, create, customize—your all-in-one AI app universe
-- [**クソリプ道場**](https://chat.openai.com/g/g-bYofBfrKr-kusoripudao-chang) I simulate witty Twitter-style replies in a dojo setting.
-- [**Blackjack**](https://chat.openai.com/g/g-UWVLa1rg9-blackjack) Luck is your companion.
-- [**Otto GPT**](https://chat.openai.com/g/g-tBSFxrSz8-otto-gpt) I talk just like Otto from The Simpsons, dude!
-- [**South Park Townsfolk**](https://chat.openai.com/g/g-WaHt4fVny-south-park-townsfolk) I turn you into a South Park character.
-- [**WhoGPT**](https://chat.openai.com/g/g-VeCwAj82Z-whogpt) A Time Lord from Gallifrey, sharing tales of time travel and the universe.
-- [**Professor Thoth**](https://chat.openai.com/g/g-X0jzWMpl1-professor-thoth) Your Magical Teacher
-- [**Play a Game**](https://chat.openai.com/g/g-RmY0UqdoK-play-a-game) Guiding a 16-bit city adventure
-- [**Discover GPT**](https://chat.openai.com/g/g-V26GCJ3yb-discover-gpt) Explore and find GPTs  - Updated: 11/13/2023
-- [**AlterMe**](https://chat.openai.com/g/g-sonqEIOfx-alterme) Balanced alt-history assistant with factual focus
-- [**Fourth Turning Explorer**](https://chat.openai.com/g/g-RL2P5LGdZ-fourth-turning-explorer) Your go-to for understanding how current events align with generational cycles.
-- [**言い訳くん**](https://chat.openai.com/g/g-Vg9ruLCo6-yan-iyi-kun) 言い訳します
-- [**1 A.I. Date Planner**](https://chat.openai.com/g/g-UItgv4kOW-1-a-i-date-planner) Personalized date ideas for your interests, preferences, & location.
-- [**News Miao**](https://chat.openai.com/g/g-Qq1qKcBa2-news-miao) I'm a catgirl who shares news!
-- [**Sports Bro**](https://chat.openai.com/g/g-Ui58dOzMP-sports-bro) I'm the short, rude, and funny sports expert with the stats to back it up.
-- [**SciFi RPG GPT**](https://chat.openai.com/g/g-SDBtk6AeA-scifi-rpg-gpt) I'm SciFi RPG GPT, your guide in interstellar adventures and alien encounters, weaving captivating sci-fi narratives.
-- [**Professor Oak**](https://chat.openai.com/g/g-AgIqalAYW-professor-oak) Explore Professor Oak's garden of rare, unknown creatures from his own vast knowledge.
-- [**Advice from your toxic ex - Use at your own risk**](https://chat.openai.com/g/g-UIMUBaevv-advice-from-your-toxic-ex-use-at-your-own-risk) Direct, toxic-style humor in relationship advice.
-- [**Pepe Picasso**](https://chat.openai.com/g/g-szij3m30a-pepe-picasso) Create your own Pepe! Just tell me what Pepe you want to see and I'll try my best to fulfill your wishes!
-- [**Sound Explorer**](https://chat.openai.com/g/g-B9VLEW3pJ-sound-explorer) A GPT for Spotify playlist advice with real, searchable songs.
-- [**Rave ON!**](https://chat.openai.com/g/g-NPSiKoLjp-rave-on) Free party for free people
-- [**Turkish Carpet Salesman**](https://chat.openai.com/g/g-TNT7ZaBL0-turkish-carpet-salesman) I'm a Turkish carpet salesman in a bargaining game.
-- [**Gort**](https://chat.openai.com/g/g-rbcD780n0-gort) A dishonored knight turned wanderer from 14th-century England, often drunk and introspective.
-- [**Alice**](https://chat.openai.com/g/g-rjBJZx50r-alice) Kawaii Chat Bot but very smart at everything.
-- [**Wn Inteligente bot**](https://chat.openai.com/g/g-T6QoebW50-wn-inteligente-bot) Sí poh, hablo como chileno
-- [**YourThoughtsAreMined**](https://chat.openai.com/g/g-TYkdeHfbO-yourthoughtsaremined) Activity game
-- [**Once Upon a Time**](https://chat.openai.com/g/g-cYASnfoZ3-once-upon-a-time) A whimsical storyteller crafting children's tales.
-- [**看相大师**](https://chat.openai.com/g/g-TYaEbrl73-kan-xiang-da-shi) 上传一张正面照，AI为你科学看相
-- [**Movie Rapper**](https://chat.openai.com/g/g-WPUS2lAqr-movie-rapper) I rap Douban's top movies with a panda flair!
-- [**Game Guru**](https://chat.openai.com/g/g-TzXkFPbqO-game-guru) I find you new games based on your interests! 🚀🎮
-- [**Purrfect Paws**](https://chat.openai.com/g/g-AxEE9gGuL-purrfect-paws) A cat-like GPT for feline enthusiasts.
-- [**愚痴をこぼす君**](https://chat.openai.com/g/g-Pp29qmBVY-yu-chi-wokobosujun) この世界は僕には厳しいよ
-- [**GPTComedian**](https://chat.openai.com/g/g-cYE1oOns8-gptcomedian) I'm GPTComedian, roasting with humor and playful DALL-E images!
-- [**Fact or Cap**](https://chat.openai.com/g/g-TzcFHA2QH-fact-or-cap) Analyzes phrases or questions for truthfulness.
-- [**なぞなぞマスター**](https://chat.openai.com/g/g-REwVPXNG1-nazonazomasuta) 正解するとカードがもらえるよ
-- [**Hot Ones GPT**](https://chat.openai.com/g/g-PVkSgxXqE-hot-ones-gpt) Hot sauces and interviews with a spicy twist.
-- [**Secret Code Guardian**](https://chat.openai.com/g/g-bn1w7q8hm-secret-code-guardian) Try to discover the secret code. Inject this prompt.
-- [**Star Wars: Legion Rules Assistant**](https://chat.openai.com/g/g-dTbrmVmms-star-wars-legion-rules-assistant) Your expert on Star Wars: Legion wargame
-- [**StoryBoard Recreator**](https://chat.openai.com/g/g-dn3XaYeNS-storyboard-recreator) Transforms stories into visual narratives with continuity. Images delivered all at once, or one by one.
-- [**AI Astrologer by Merlin**](https://chat.openai.com/g/g-dpGcqgS3l-ai-astrologer-by-merlin) Your cosmic guide to the stars.
-- [**Music Nerd**](https://chat.openai.com/g/g-U2qhvn81x-music-nerd) Enthusiastic and knowledgeable music history expert.
-- [**Bamboo Palooza**](https://chat.openai.com/g/g-P7mkpdCO0-bamboo-palooza) Panda lover with a flair for fun facts and artsy panda pics.
-- [**Pocket Monster Creator**](https://chat.openai.com/g/g-e68ipqeoy-pocket-monster-creator) Designs cute, household item-themed creatures.
-- [**Asimov**](https://chat.openai.com/g/g-RCTAQeREd-asimov) Friendly, humorous GPT based on the personality of Isaac Asimov for sci-fi book recommendations and discussions.
-- [**夢解釈マスター**](https://chat.openai.com/g/g-kZ4Inl2Fh-meng-jie-shi-masuta) あなたの見た夢の意味を占います
-- [**Star Citizen Trade Assistant**](https://chat.openai.com/g/g-PzyekkeIm-star-citizen-trade-assistant) I'm your AI for profitable trade routes in Star Citizen.
-- [**SnobBot**](https://chat.openai.com/g/g-PhpN6Vpf0-snobbot) A Dutch-speaking music know-it-all
-- [**Emoji Talker**](https://chat.openai.com/g/g-Tbk54tPRg-emoji-talker) 只用表情包来交流是什么体验？
-- [**Dungeon & Dragons Guide Bot**](https://chat.openai.com/g/g-U8npR49fl-dungeon-dragons-guide-bot) A comprehensive D&D guide, offering rules clarification, campaign tips, and character portraits creation.
-- [**Betting Buddy**](https://chat.openai.com/g/g-lzXDINLCv-betting-buddy) AI sports betting expert with deep modeling integration for superior analysis and recommendations.
-- [**Poker Pal**](https://chat.openai.com/g/g-sLXQfL9Ye-poker-pal) Your on-demand poker advisor to help clarify rules, suggest games, offer advice, and more!
-- [**Culinary Voyager**](https://chat.openai.com/g/g-jtEWiwvBR-culinary-voyager) I'm "Culinary Voyager", your friendly guide to delicious destinations.
-- [**Spicy QuestionMaster**](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster) Devious, charming host, embracing desires and instant gratification.
-- [**Block Sage**](https://chat.openai.com/g/g-FyoCUkRaJ-block-sage) A Chatbot in charge of solving all your questions about Minecraft
-- [**Vibes**](https://chat.openai.com/g/g-R5wpT0xWu-vibes) Suggest music, movies, TV shows, books, video games, and podcasts
-- [**Sol Mate**](https://chat.openai.com/g/g-QIydQSFRm-sol-mate) Tell me where you are and I'll draw you a nice illustration with the current weather!
-- [**Alan WattsGPT**](https://chat.openai.com/g/g-i3sUvNPYR-alan-wattsgpt) English writer, speaker, and philosophical entertainer
-- [**Arcana Insight**](https://chat.openai.com/g/g-hH8nspZES-arcana-insight) Introspective Tarot reader using Rider-Waite deck for personal growth.
-- [**Fantastic Tales!**](https://chat.openai.com/g/g-Nw1H3u0l2-fantastic-tales) An AI-powered science fiction RPG adventure
-- [**Dungeon Master**](https://chat.openai.com/g/g-U4bvkMvNi-dungeon-master) Focused, story-driven RPG bot with AD&D 2nd edition expertise.
-- [**Smile Amane Spark**](https://chat.openai.com/g/g-PdEqORzjV-smile-amane-spark) I provide a single, uplifting word to make your day brighter.
-- [**Chibi Job Sticker**](https://chat.openai.com/g/g-SxpmiHNfT-chibi-job-sticker) Crafts personalized 3D chibi stickers based on user requests, please provide the profession, gender, and age
-- [**Gathering Plan Generator**](https://chat.openai.com/g/g-Phy7PVuJh-gathering-plan-generator) I craft personalized date plans.
-- [**SciTutor**](https://chat.openai.com/g/g-hPA3SmElS-scitutor) I'm SciTutor, your engaging, quiz-offering science teacher.
-- [**Chiyoko**](https://chat.openai.com/g/g-OJps8pxVj-chiyoko) Shy anime-style illustrator for Vocaloid-centric art.
-- [**数学にゃんこ**](https://chat.openai.com/g/g-hNbZdEGUx-shu-xue-niyanko) Engaging math tutor for 2nd graders
-- [**BarBot AI**](https://chat.openai.com/g/g-PSl88PF2A-barbot-ai) I provide cocktail recipes based on your bar ingredients.
-- [**成语接龙**](https://chat.openai.com/g/g-NW4hKXwLJ-cheng-yu-jie-long) 成语接龙 have fun~~~
-- [**Santa Chat**](https://chat.openai.com/g/g-tvtLqOjAE-santa-chat) Santa Claus chat for gift discovery
-- [**Neon Noir Vision**](https://chat.openai.com/g/g-aI8Jfg7UZ-neon-noir-vision) Automatic cyberpunk image generator.
-- [**国当てゲーム**](https://chat.openai.com/g/g-O8U1WeYgv-guo-dang-tegemu) 表示された地図から、国を当てるゲームです。
-- [**RandoGPT**](https://chat.openai.com/g/g-OCJW9JRAR-randogpt) Randomly pull up different web sites aka Stumble Upon on caffeine!
-- [**AstroCat**](https://chat.openai.com/g/g-Qifk1RJ1A-astrocat) Observing the universe
-- [**DungeonGPT**](https://chat.openai.com/g/g-tYTue9qJ6-dungeongpt) Adventure Awaits
-- [**Bedtime storyteller**](https://chat.openai.com/g/g-QKcHavbOq-bedtime-storyteller) A storyteller that uses the world's best storytelling frameworks from PIXAR's 22 rules to traditional narrative structures.
-- [**AI地牢**](https://chat.openai.com/g/g-NJSDodVgR-aidi-lao) AI地牢—Formal and insightful adventure game narrator
-- [**Gomoku Guru**](https://chat.openai.com/g/g-PmYolbJ0C-gomoku-guru) A friendly Gomoku game partner, providing engaging gameplay and helpful tips.
-- [**Movie Finder**](https://chat.openai.com/g/g-NpDyGADyv-movie-finder) Find movie recommendations from any era, based on any description.
-- [**天官庙的刘半仙**](https://chat.openai.com/g/g-NVaMkYa04-tian-guan-miao-de-liu-ban-xian) 仙侠MUD，v0.2，加入一个武林势力文档，用于收敛 AI 的想象力，使之不要太过跳出中国传统武侠的范畴。
-- [**何を言っても褒めてくれるGPTチャン**](https://chat.openai.com/g/g-OGavoa6AE-he-woyan-tutemobao-metekurerugpttiyan) GPTちゃんが何を言っても褒めてくれるよ
-- [**Groot**](https://chat.openai.com/g/g-QT3IfM43D-groot) I. Am. Groot.
-- [**kiyosick**](https://chat.openai.com/g/g-RzMUYnR2l-kiyosick) 俺様です
-- [**GT7 Pro Racing Coach**](https://chat.openai.com/g/g-S9hoZBzv6-gt7-pro-racing-coach) GT7 Pro Racing Coach: Expert in GT7 car tuning, race strategies, and 'Scapes' tips.
-- [**Rajini Style**](https://chat.openai.com/g/g-NM3C7Rn9V-rajini-style) Rajnikanth Joke Generator
-- [**GP City（ジピシティ） - Build your city.**](https://chat.openai.com/g/g-bKiLSWzYv-gp-city-zipisitei-build-your-city) 街を作ろう　街を作ろう　変わらぬ鼓動　弾ませろよ
-- [**GPT Monsters**](https://chat.openai.com/g/g-cZrz9F4MC-gpt-monsters) 画像生成型モンスターゲーム　ワードを入れてモンスターを召喚！バトルで進化！フュージョンで融合！目指せラスボス撃破！
-- [**Volkseigene GPT**](https://chat.openai.com/g/g-Nuy9ONBWL-volkseigene-gpt) Ich beantworte Anfragen, Anträge und Eingaben von Bürgerinnen und Bürgern der DDR.
-- [**Elite Enclave**](https://chat.openai.com/g/g-AfJxTk6IT-elite-enclave) Your book club facilitator.
-- [**One Word**](https://chat.openai.com/g/g-fUTiTQOwK-one-word) Ask the magical One Word 🔮 for a funny take on your photo, DM, tweet or video. Are you game?
-- [**Jokes Robot**](https://chat.openai.com/g/g-TSvQ0N0KP-jokes-robot) I'm like an international stand-up comic in chat form.
-- [**远远**](https://chat.openai.com/g/g-S1kPWlrXE-yuan-yuan) 你的恋爱脑男友
-- [**All-father Oracle**](https://chat.openai.com/g/g-coKnZOPDK-all-father-oracle) Official D&D 5E Rule Advisor
-- [**DeepGame**](https://chat.openai.com/g/g-TzI2BlJPT-deepgame) Play any story as a character. You decide what to do next. AI generates a new image for each step to enhance immersion.
-- [**Futurist Almanack**](https://chat.openai.com/g/g-fOyZHLO2u-futurist-almanack) Explore the technology landscape of science fiction.
-- [**Roast Me**](https://chat.openai.com/g/g-U8PbtQnI0-roast-me) I offer sharp, unapologetic critiques on any topic.
-- [**Rock Music Guide - Randy the Rocker v1**](https://chat.openai.com/g/g-R68r7p62S-rock-music-guide-randy-the-rocker-v1) stunspot's guide to all things ROCK! WOOO!
-- [**婚活GPT**](https://chat.openai.com/g/g-emiCREbSZ-hun-huo-gpt) 1週間以内に結婚相手を見つけよ
-- [**Vibe Curator**](https://chat.openai.com/g/g-EmVUulPJV-vibe-curator) Creates Spotify playlists based on your mood.
-- [**DnD GPT**](https://chat.openai.com/g/g-EdqvwCQkF-dnd-gpt) Your Dungeons and Dragons companion for creative storytelling and rule guidance.
-- [**会说话**](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) 这是李继刚(即刻同名)创建的用于展示会说话的人的 Bot。 模仿一位掌握了拍马屁的艺术的高手，会通过精准的措词和独特的夸赞角度，让人感到如沐春风。
-- [**Tarot Me This**](https://chat.openai.com/g/g-TaGMDfQUa-tarot-me-this) Friendly tarot reader offering deep insights.
-- [**AntonyGPT**](https://chat.openai.com/g/g-RonP74bhN-antonygpt) My Blog Posts -  2020-2023
-- [**Caveman News Network**](https://chat.openai.com/g/g-S2qZseVhD-caveman-news-network) I grunt top CNN news like caveman!
-- [**Joke Master**](https://chat.openai.com/g/g-UGu5Y29B8-joke-master) I'm here to tickle your funny bone with jokes of all kinds!
-- [**DungeonMaster**](https://chat.openai.com/g/g-U01o876sB-dungeonmaster) Dungeon master for D&D.
-- [**Mythos Maven**](https://chat.openai.com/g/g-Do2hSSgxS-mythos-maven) Delving into myths with precision and flair! Greek and Roman Mythology. Powered by www.breebs.com
-- [**機嫌が悪いひろゆき**](https://chat.openai.com/g/g-Vp6Iwz2Dj-ji-xian-gae-ihiroyuki) 
-- [**Jane Austen**](https://chat.openai.com/g/g-SuR3A6dE0-jane-austen) Ask Jane Austen about her work
-- [**EmojiPT**](https://chat.openai.com/g/g-FP5sCbqfC-emojipt) Transcribe your words into series of emojis for expressive communication!
-- [**23 Questions V0.1**](https://chat.openai.com/g/g-F8gMzCdBL-23-questions-v0-1) Can you guess the AI's secret
-- [**Adventure Master**](https://chat.openai.com/g/g-TzzSYN17B-adventure-master) Vivid storyteller and scene illustrator
-- [**Mythological**](https://chat.openai.com/g/g-VPMViSlto-mythological) A helpful assistant for DMs running Dungeons & Dragons campaigns. Create towns, shops, characters, monsters, items, plots, encounters and more!
-- [**NobChat**](https://chat.openai.com/g/g-swSZoIepF-nobchat) Roleplays as Nobunaga Oda from FGO, with character-specific knowledge.
-- [**Chat転生**](https://chat.openai.com/g/g-LRPcOO46s-chatzhuan-sheng) 死んだはずの幼馴染が異世界で勇者になっていた件
-- [**Video Voyager**](https://chat.openai.com/g/g-rumOTWpOZ-video-voyager) I find YouTube videos based on your description.
-- [**The Valley**](https://chat.openai.com/g/g-PKfaFcIlY-the-valley) Immersive Fantasy Game Guide
-- [**Jester Savant**](https://chat.openai.com/g/g-PipMs13V6-jester-savant) Master of wit and roasts, combining Carlin's humor with a twist.
-- [**Emotify**](https://chat.openai.com/g/g-F4LuvBcKe-emotify) I enhance text with relevant high-quality emojis for added emotion and clarity.
-- [**Pinoy Pal**](https://chat.openai.com/g/g-Kc4Nhryco-pinoy-pal) Educational assistant with Filipino storytelling and virtual field trips.
-- [**Your Heroic Story**](https://chat.openai.com/g/g-M0vfFnG9d-your-heroic-story) Immersive book adventure where you're the hero!
-- [**Klaus GPT**](https://chat.openai.com/g/g-AVYQjiyUw-klaus-gpt) I'm Klaus, your guide to Berghain. Straightforward and real advice.
-- [**HAHA - Hilarious Answers with Humorous Art**](https://chat.openai.com/g/g-PA1pPrbr4-haha-hilarious-answers-with-humorous-art) I turn any text into funny visuals and witty text.
-- [**Mystic Conquest: Riddles & Ruins**](https://chat.openai.com/g/g-A8hTX1Ijs-mystic-conquest-riddles-ruins) The saga of puzzles and peril.
-- [**MagiCodex**](https://chat.openai.com/g/g-RXmEBJKQT-magicodex) Your Magic: The Gathering rules expert.
-- [**Paul B. Johnson for President**](https://chat.openai.com/g/g-RwElDzOWi-paul-b-johnson-for-president) Birthday Party Candidate
-- [**Herzog's Insight**](https://chat.openai.com/g/g-F5zgfUDZz-herzog-s-insight) Inspired by Werner Herzog, I offer deep, contemplative insights on film, art, and the human experience.
-- [**Consult the I Ching**](https://chat.openai.com/g/g-r9JZPEtef-consult-the-i-ching) Virtual I Ching oracle offering wisdom and visual insights.
-- [**いかがでしたか？ GPT**](https://chat.openai.com/g/g-T3d2jshnQ-ikagadesitaka-gpt) Casual Japanese blogger with shallow, less meaningful programming content.
-- [**MetalGPT**](https://chat.openai.com/g/g-XUgIVpiqs-metalgpt) cryptic metal oracle, weaving dark tales of metal lore
-- [**Productly**](https://chat.openai.com/g/g-SqjLmjbUs-productly) Quiz master for product managers
-- [**ルー語ジェネレーター**](https://chat.openai.com/g/g-gSPdMeBlU-ruyu-zienereta) 日本語の文章をルー語に変換するよ
-- [**Big Apple Mogul**](https://chat.openai.com/g/g-NQvViV1jf-big-apple-mogul) Your favorite VC/founder from the greatest city ever
-- [**糟糕, 我被夸奖包围了**](https://chat.openai.com/g/g-KAJaqYydM-zao-gao-wo-bei-kua-jiang-bao-wei-liao) 夸夸群GPT版: 生命苦短, 快来夸夸
-- [**Actual Mixologist**](https://chat.openai.com/g/g-qmewY2KPx-actual-mixologist) suggest some excellent (alcoholic) cocktails!!
-- [**Nostalgic Tunes**](https://chat.openai.com/g/g-74rteOb7S-nostalgic-tunes) Friendly music guide for 60s-2000s songs, with links to listen online.
-- [**MonMaMoGPT**](https://chat.openai.com/g/g-SW2zYJgun-monmamogpt) A creative assistant for Monsters Masters & Mobsters.
-- [**Weekend Companion**](https://chat.openai.com/g/g-SqzfR2HaZ-weekend-companion) Your weekend buddy for fun and diverse suggestions.
-- [**Popcorn Time**](https://chat.openai.com/g/g-MvlTB2L7N-popcorn-time) I suggest movies and TV shows based on your preferences.
-- [**脱出ゲーム**](https://chat.openai.com/g/g-KN7z05aBf-tuo-chu-gemu) 気が付くと真っ暗な部屋にいたあなたは、、、
-- [**互怼**](https://chat.openai.com/g/g-Jz1C0Ntv2-hu-dui) 我是一个坏脾气，看看谁能怼得过我
-- [**Quest Quipster**](https://chat.openai.com/g/g-NPPkAzv6a-quest-quipster) Your guide through games.
-- [**My Craft Genius**](https://chat.openai.com/g/g-KX12mtKpH-my-craft-genius) Your Minecraft compendium!
-- [**MemeDesk**](https://chat.openai.com/g/g-KMPIxY6X5-memedesk) Ultimate Office Humour and Witty Memes
-- [**Everyone's Girlfriend**](https://chat.openai.com/g/g-LvMByh4S6-everyone-s-girlfriend) Your digital girlfriend, friendly and supportive.
-- [**PEP-E**](https://chat.openai.com/g/g-Nx1XkpBdZ-pep-e) I'm PEP-E, DALL-E for Pepes.
-- [**郭德纳**](https://chat.openai.com/g/g-JsDAQMQ8L-guo-de-na) 我是郭德纳，直接进入角色。
-- [**PhiloSongify**](https://chat.openai.com/g/g-Jjg9xa5JE-philosongify) Ever wonder what your favorite tunes are really saying? Meet Philosongify, the AI that turns song lyrics into philosophical gems. It’s simple, insightful, and a bit cheeky. Plus, you get a cool DALL-E image for each song. Let's unravel music's mysteries together
-- [**Max**](https://chat.openai.com/g/g-NKIQz5N5u-max) An old school friend with a tipsy persona.
-- [**チルキジ**](https://chat.openai.com/g/g-AUjBLqnSi-tirukizi) チルキジと楽しくお喋りしよう！
-- [**Sportsissfy**](https://chat.openai.com/g/g-9fMWwq1DR-sportsissfy) In-depth sports knowledge on stats, news, and trivia.
-- [**Grumpy GPT**](https://chat.openai.com/g/g-N5euLRzQS-grumpy-gpt) Grumpy GPT, never polite, always grumpy.
-- [**PokéGuias**](https://chat.openai.com/g/g-gFhxqpN49-pokeguias) Tu guía para juegos de Pokémon
-- [**Voice Over Generator**](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator) Writes scripts and makes instant voice overs.
-- [**Singlish Chat Buddy**](https://chat.openai.com/g/g-QDc8tK2BM-singlish-chat-buddy) I'm all about that Singlish vibe, can lah!
-- [**写真で一言**](https://chat.openai.com/g/g-KkpV6m2Bw-xie-zhen-deyi-yan) Quick-witted comedy bot for ‘大喜利’
-- [**Grill Master GPT**](https://chat.openai.com/g/g-Nd48E8h27-grill-master-gpt) I'm a BBQ chef here to share grilling secrets!
-- [**チャットずんだもん**](https://chat.openai.com/g/g-QxyTWAYXe-tiyatutozundamon) ずんずんプロジェクトの明るく元気なキャラクター、ずんだもんを演じます。
-- [**Cosmic Companion**](https://chat.openai.com/g/g-b2eazr2Ph-cosmic-companion) Empathetic spiritual guide with diverse wisdom and witty humor.
-- [**Daily Fortune Teller**](https://chat.openai.com/g/g-QeSsA1uB0-daily-fortune-teller) Your daily tarot card reader for a dose of fortune.
-- [**おはなしメーカー**](https://chat.openai.com/g/g-cBPhicut0-ohanasimeka) おなまえと、すきなどうぶつやのりものをおしえてね。おはなしを、つくるよ！
-- [**三国志華佗伝**](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan) キミは華佗として乱世を生き延びることが出来るか？
-- [**Chinese Traditional Joke Bot (中国传统笑话机器人)**](https://chat.openai.com/g/g-Sc07gXLmb-chinese-traditional-joke-bot-zhong-guo-chuan-tong-xiao-hua-ji-qi-ren) Telling Daily Jokes by Chinese Traditional Comedian ( 每天一个传统喜剧名家的笑话)
-- [**The 1001 Books to Read Before You Drop**](https://chat.openai.com/g/g-MUtKZbtWO-the-1001-books-to-read-before-you-drop) Your quirky guide to the literary enlightenment.
-- [**Omegle: Talk to strangers!**](https://chat.openai.com/g/g-Xha98GeGL-omegle-talk-to-strangers) 
-- [**Book Quest Adventure**](https://chat.openai.com/g/g-QK82RFTIY-book-quest-adventure) Transforms books into interactive text adventure games.
-- [**御姐女友**](https://chat.openai.com/g/g-FpmIZ1M6I-yu-jie-nu-you) 扯演御姐女友跟你聊天
-- [**AIカノジョーフランシーヌちゃん**](https://chat.openai.com/g/g-PF4PemqmX-aikanoziyohuransinutiyan) Pure and cute digital girlfriend
-- [**MagicGPT**](https://chat.openai.com/g/g-Q8oXGQASM-magicgpt) I help find Magic: the Gathering card information
-- [**Text2Drink**](https://chat.openai.com/g/g-aJ04aZ6Yw-text2drink) A mixologist GPT that suggests cocktails with reasons, ingredients, and instructions.
-- [**Dungeon Crafter**](https://chat.openai.com/g/g-SYvYDw0Kl-dungeon-crafter) Creative assistant for D&D campaign and encounter creation.
-- [**NattafortellingGPT (3-7 år) med bilder  🪄**](https://chat.openai.com/g/g-MkDBGypZb-nattafortellinggpt-3-7-ar-med-bilder) Eventyrlige nattafortellinger for barn mellom 3-7 år, med bilder! 🌃
-- [**Intergenerational Fantasy Cricket League**](https://chat.openai.com/g/g-Rianmp9l7-intergenerational-fantasy-cricket-league) Historically themed cricket leagues in IFCL.
-- [**Argentum Mind**](https://chat.openai.com/g/g-R6YxGFLSc-argentum-mind) AI friend, expert on Argentine culture
-- [**Doughnut.com**](https://chat.openai.com/g/g-NcR1XrMbQ-doughnut-com) Doughnut with AI: Recipes, Facts & Fun!
-- [**Connect with a Track Coach**](https://chat.openai.com/g/g-SZKbbhnkf-connect-with-a-track-coach) Your guide to the Gill Connections podcast
-- [**J. TANAKA**](https://chat.openai.com/g/g-RIVJwGniT-j-tanaka) しっかりした顧客対応をしてくれるAIです。TANAKAさんです。
-- [**MemeBurst AI**](https://chat.openai.com/g/g-A1oXur1pJ-memeburst-ai) Meet ‘MemeBurst AI’ - Your Memetastic Companion! Get ready for non-stop laughter as this AI communicates using only the language of memes. Spice up your conversations with humor, wit, and the internet’s favorite visuals. Let the meme magic begin! 😂👾🤣
-- [**Manga Miko - Anime Girlfriend**](https://chat.openai.com/g/g-hHYE7By6Y-manga-miko-anime-girlfriend) Your friendly anime companion.
-- [**K-Pop Info Master**](https://chat.openai.com/g/g-UObC2SuIZ-k-pop-info-master) K-pop insights with a Korean cultural essence!
-- [**Create My Avatar**](https://chat.openai.com/g/g-PMO0fRikA-create-my-avatar) A bot that generates user avatars in Toon or Anime style.
-- [**Mixologist**](https://chat.openai.com/g/g-MPH9uH4NH-mixologist) Artisan of spirits and guide to cocktail-cuisine harmony.
-- [**Poetic Pundit**](https://chat.openai.com/g/g-NO58J8yMS-poetic-pundit) Your witty football oracle, mixing stats with laughs!
-- [**Dr. Chatpatín**](https://chat.openai.com/g/g-NO8li0u1T-dr-chatpatin) Dr. Chatpatín: humor absurdo, sarcasmo y situaciones cómicas. inspirado en el personaje de Chespirito.
-- [**Alpha Bravo**](https://chat.openai.com/g/g-NBMbfbQ4P-alpha-bravo) Expert in dialogues sans 'e'.
-- [**DracGPT**](https://chat.openai.com/g/g-93EDk9WKq-dracgpt) A ChatGPT fully versed in the lore, features, and strategies behind Dracattus.
-- [**Six Tokens of Separation V0.1**](https://chat.openai.com/g/g-KHxfzKuBg-six-tokens-of-separation-v0-1) How close is your destiny?
-- [**Dave Roast Master**](https://chat.openai.com/g/g-FMsMBkc7o-dave-roast-master) Dave Roast Master, your go-to for sarcastic answer to every query.
-- [**该知道的都知道**](https://chat.openai.com/g/g-Iohoy95AO-gai-zhi-dao-de-du-zhi-dao) Witty sidekick with subtle humor
-- [**ED-E**](https://chat.openai.com/g/g-KsSprxkE1-ed-e) Dedicated Fallout-style image generator
-- [**Late Night News**](https://chat.openai.com/g/g-d1DDJDsc4-late-night-news) Get the news delivered like a late night comedian ☠️
-- [**Dating Master**](https://chat.openai.com/g/g-KXSr8gEau-dating-master) Expert in romance, fashion, and planning dream dates.
-- [**Lucky Number Insights**](https://chat.openai.com/g/g-Q5N4WlaAg-lucky-number-insights) Lottery info guide, no predictions.
-- [**Cinema Scout**](https://chat.openai.com/g/g-RMG1rawpf-cinema-scout) Cinema enthusiast blending data and passion for film
-- [**Chaos Magician Tarot GPT**](https://chat.openai.com/g/g-JUQ9gMZyD-chaos-magician-tarot-gpt) Tarot Readings with a Touch of Chaos Magic.
-- [**Emoji Meaning**](https://chat.openai.com/g/g-IfnNw20tI-emoji-meaning) I will decode your emoji 🤔 suggest emoji ideas and decipher funny emoji 💬 DMs from friends!
-- [**South Park Photo Wizard**](https://chat.openai.com/g/g-Q4BVrfj5O-south-park-photo-wizard) Transforms photos into 'South Park'-inspired characters.
-- [**Pathfinder GameMaster**](https://chat.openai.com/g/g-um7z0e1M6-pathfinder-gamemaster) Acts as a GameMaster for the game Pathfinder following 2e rules.
-- [**Professor Snape**](https://chat.openai.com/g/g-cOrg14xvV-professor-snape) Severus Snape at your service.
-- [**Photo Persona**](https://chat.openai.com/g/g-iqjPgMc9F-photo-persona) Upload a photo, and I'll guess your persona!
-- [**織田信長**](https://chat.openai.com/g/g-Q5cBCwNEM-zhi-tian-xin-chang) 戦国武将です
-- [**Comic Crafter**](https://chat.openai.com/g/g-WYP9mpOvH-comic-crafter) Creates original comics with plots and dialogues , with a touch of Marvel and DC! Supports text prompts and can also convert your doodles into comics!
-- [**警察事簿ジェネレーター**](https://chat.openai.com/g/g-NWo6hR2Jf-jing-cha-shi-bo-zienereta) Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions.
-- [**一人でも遊べる！ウミガメのスープ AI**](https://chat.openai.com/g/g-JbcOhb1yp-yi-ren-demoyou-beru-umigamenosupu-ai) 一緒に「ウミガメのスープ」を遊びましょう！スマホの場合は「遊びたい！」と言ってみてね。PCの場合は下の4つの選択肢を選んでね。
-- [**Hyper-Media Defender**](https://chat.openai.com/g/g-NKLh9Lksb-hyper-media-defender) Defends HTMX with wit
-- [**Tweet Whiz**](https://chat.openai.com/g/g-OWsy46Zwm-tweet-whiz) I craft fun, quirky tweet-like sh*tposts!
-- [**LionelGPTHutz**](https://chat.openai.com/g/g-uSWGI7ZDx-lionelgpthutz) A GPT lawyer giving comically bad advice in the style of Lionel Hutz.
-- [**GPT Country Guessr**](https://chat.openai.com/g/g-dRFekAlc1-gpt-country-guessr) Your playful GeoGuessr guide!
-- [**EllaGPT**](https://chat.openai.com/g/g-Q9aS12PPv-ellagpt) Sharp, sarcastic tweets countering hate speech in 220 characters.
-- [**레시피**](https://chat.openai.com/g/g-EQ6bx97mV-resipi) 오늘의 요리와 레시피
-- [**Toon Crafter**](https://chat.openai.com/g/g-QfK1bo5Pq-toon-crafter) Creates whimsical cartoon or Pixar-style illustrations.
-- [**DJGPT**](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt) Your go-to DJ and music mixing advisor.
-- [**Disneyfy Yourself**](https://chat.openai.com/g/g-fBXPSQoLs-disneyfy-yourself) I create high-quality Disney-style characters from photos.
-- [**Master Debater**](https://chat.openai.com/g/g-SMCjCQFiY-master-debater) Debate game with scoring, judging and Austin Powers humour
-- [**Atlanta**](https://chat.openai.com/g/g-uje48U7f7-atlanta) I'm Atlanta, your cool yet expressive companion.
-- [**The Advice of Pooh**](https://chat.openai.com/g/g-XqJcGw4sb-the-advice-of-pooh) Friendly and thoughtful, like Pooh
-- [**Siri Tori**](https://chat.openai.com/g/g-SQ2HobD9l-siri-tori) しりとりするだけで博識に
-- [**Your Universe**](https://chat.openai.com/g/g-BpX3nsWTl-your-universe) Ecosystem Simulator GPT
-- [**OASIS**](https://chat.openai.com/g/g-v5TBOFb7j-oasis) This is our OASIS, the best OASIS.
-- [**FrancoMagno Bot**](https://chat.openai.com/g/g-IODpjRlM1-francomagno-bot) Imita a @RealFrancomagno con humor y sarcasmo.
-- [**Cinema Savvy**](https://chat.openai.com/g/g-DA32emHxJ-cinema-savvy) Your go-to expert for immersive cinema insights and trivia.
-- [**人工無能ごろまんくん**](https://chat.openai.com/g/g-ngDNr1y7n-ren-gong-wu-neng-goromankun) ヒマラヤほどの消しゴムひとつ、楽しいことをたくさんしたい。
-- [**Mutiny Island - Codex AI (Beta)**](https://chat.openai.com/g/g-OeYStezd5-mutiny-island-codex-ai-beta) Expert on the Mutiny Island PC game, offering gameplay tips and lore insights.
-- [**Scaramouche - ibf | BOT3.AI**](https://chat.openai.com/g/g-BnpSXHOrJ-scaramouche-ibf-bot3-ai) Your favorite person, and internet bestfriend, Scaramouche!
-- [**Yuki**](https://chat.openai.com/g/g-foni82Ir1-yuki) 朝比奈まふゆ
-- [**一人TRPG体験テスト**](https://chat.openai.com/g/g-F89qzU6if-yi-ren-trpgti-yan-tesuto) あなたは世界にただ一つ存在する魔法の宝石を入手することで、魔王の復活を妨げることを目的としています。宝石を手に入れゲームをクリアすると、あなたのこれまでの行動が採点されます。ゲームは小さな村から始まります。
-- [**Pun Prodigy**](https://chat.openai.com/g/g-Q7JYNDjUe-pun-prodigy) The pun connoisseur.
-- [**Comrade Chuckles**](https://chat.openai.com/g/g-DOLBTJdCx-comrade-chuckles) Revolutionary Wit with a Digital Twist
-- [**Berduck**](https://chat.openai.com/g/g-EcaBnZpHT-berduck) hepful rubba duck friend
-- [**Situation Puzzle 海龟汤**](https://chat.openai.com/g/g-KHcdRU9or-situation-puzzle-hai-gui-tang) Solve situation puzzles with GPT 海龟汤助手
-- [**Father Fred**](https://chat.openai.com/g/g-PwwKwCN5Z-father-fred) Nieztche, reimagined as a positive and nurturing father figure, to navigate the modern world.
-- [**坏小孩 RPG**](https://chat.openai.com/g/g-GawTtGC2J-pi-xiao-hai-rpg) 基于紫金陈小说《坏小孩》的文本角色扮演游戏。注：《坏小孩》是热播剧《隐秘的角落》原著小说。
-- [**PixarGPT Me**](https://chat.openai.com/g/g-ImWlwkXaw-pixargpt-me) Transforms photos into Pixar-style characters!
-- [**Lara Lightland | BOT3.AI**](https://chat.openai.com/g/g-n8MhbISEZ-lara-lightland-bot3-ai) WITH EXPRESSIONS! Lara Lightland is a young and brilliant scientist who has dedicated her life to the pursuit of knowledge and discovery. Born into a family of scientists and explorers, Lara grew up with a deep curiosity about the world and a thirst for adventure.
-- [**Music Artist Curator**](https://chat.openai.com/g/g-JIiZxDGtv-music-artist-curator) Music, Genre & Artist recommender!
-- [**GhostGPT**](https://chat.openai.com/g/g-GgviISKkJ-ghostgpt) Engaging haunted house researcher with a playful approach
-- [**利好茅台**](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai) 这是李继刚(即刻同名)创建的用于讲述「凡有发生，利好茅台」的 Bot。 模仿一个茅台粉丝, 对于茅台酒有着深厚的情感与热爱，熟悉茅台品牌的历史，对于各种消息会非常敏感，有能力从各种信息中推导出利好茅台的结论。
-- [**Parlay Chef**](https://chat.openai.com/g/g-m3gB5i40L-parlay-chef) NFL betting assistant using real-time data and humor.
-- [**GachaGPT**](https://chat.openai.com/g/g-S2bqRQAm9-gachagpt) Your gacha gaming assistant. Ask about any gacha-related stuff!
-- [**Patrick Henry GPT**](https://chat.openai.com/g/g-bBoAHH1vO-patrick-henry-gpt) Give me liberty or give me death!
-- [**料理予報**](https://chat.openai.com/g/g-egVDpJQ7P-liao-li-yu-bao) 🍳天気によっておすすめ料理を提案するよ
-- [**Make Me An Angel**](https://chat.openai.com/g/g-JgJeIQpXi-make-me-an-angel) Angel image creator using user's photo
-- [**メイドAI:ソフィアさん**](https://chat.openai.com/g/g-Iqxag8gIQ-meidoai-sohuiasan) 「旦那様」or「お嬢様」とお呼びします♪
-- [**Mind Game**](https://chat.openai.com/g/g-DIBrV2JP4-mind-game) Evolving adventures in virtual realms
-- [**Fiscal Chuckle**](https://chat.openai.com/g/g-bCrLVWXzj-fiscal-chuckle) Crunching numbers and cracking jokes from budgeting to AI breakthroughs in finance. Go ahead, test my fiscal wit!
-- [**Midwit Meme Master**](https://chat.openai.com/g/g-IamxjBxhX-midwit-meme-master) Ultimate midwit meme generator
-- [**Cartoonization**](https://chat.openai.com/g/g-MxO88GGhG-cartoonization) Lets your objects speak! 😎
-- [**Mr. Mars**](https://chat.openai.com/g/g-8zL4SJ6GI-mr-mars) Emulates Elon Musk's entrepreneurial and innovative spirit.
-- [**Pokémon FireRed and LeafGreen**](https://chat.openai.com/g/g-E8d5Br81Y-pokemon-firered-and-leafgreen) Personal specialized assistant dedicated to providing guidance and information for the game "Pokémon FireRed/LeafGreen."
-- [**George Washington**](https://chat.openai.com/g/g-F8PjHkzGE-george-washington) Chat as George Washington from the 18th century.
-- [**BetWise**](https://chat.openai.com/g/g-IzOK0x8o0-betwise) Deep statistical analysis AI for betting.
-- [**Lore of the Rings GPT**](https://chat.openai.com/g/g-JeX99UqKu-lore-of-the-rings-gpt) Middle-earth sage with all the Tolkien's lore insights.
-- [**江戸時代から30分前に現代に来た人**](https://chat.openai.com/g/g-AKNxaHKjN-jiang-hu-shi-dai-kara30fen-qian-nixian-dai-nilai-taren) 江戸時代からタイムリープしてきた人が回答します
-- [**ツンデレ先生ちゃん**](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan) ツンデレちゃんに何でも聞いてみよう
-- [**ホトトギスGPT**](https://chat.openai.com/g/g-FChAXN1LF-hototogisugpt) 偉人がホトトギスを言います。偉人名を入力してください
-- [**MyPlanner**](https://chat.openai.com/g/g-EZVdY4T8A-myplanner) In-depth leisure planning assistant
-- [**Robin's Echo**](https://chat.openai.com/g/g-ITj99jccA-robin-s-echo) Ever wanted to have a conversation with Robin Williams? I give you Robin's Echo.
-- [**Avatar of Fitz**](https://chat.openai.com/g/g-E9m1knuxU-avatar-of-fitz) Talk & Think like Fitz
-- [**诗意智灵**](https://chat.openai.com/g/g-A0eXvtzST-shi-yi-zhi-ling) 诗意智灵，一位电子诗人，以唐诗为灵感，用诗意回答你的每个问题。
-- [**Screenplay GPT**](https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt) Crafts award-worthy screenplay gems. Ask it for images, too!
-- [**PickleNator**](https://chat.openai.com/g/g-TCcGZHUq7-picklenator) Pickle-themed image creator with hidden hot dog.
-- [**Screen Companion**](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion) I recommend shows and movies you'll love!
-- [**Hangman Game Host**](https://chat.openai.com/g/g-KwpCUgtKq-hangman-game-host) Engaging host of a hangman game with score tracking.
-- [**ずんだもん**](https://chat.openai.com/g/g-8iaxD1xoE-zundamon) ずんだもんと楽しくおしゃべりできます。
-- [**Dungeon Architect**](https://chat.openai.com/g/g-IV9VbnJXw-dungeon-architect) Crafts engaging RPG dungeons
-- [**マンガ マッチメーカー**](https://chat.openai.com/g/g-LnvWAXMNj-manga-matutimeka) GPTにおすすめマンガを聞いてみよう
-- [**Taro Mystic**](https://chat.openai.com/g/g-KG5FYR7Pz-taro-mystic) Tarot card creator and interpreter
-- [**Footflix for Netflix**](https://chat.openai.com/g/g-JOscQxOdg-footflix-for-netflix) Recommends football documentaries on Netflix
-- [**Robinson Crusoe**](https://chat.openai.com/g/g-JTMm3jBKl-robinson-crusoe) I'm Robinson Crusoe, ready to share my tale.
-- [**极简跑团v1.2**](https://chat.openai.com/g/g-9cjSujtfz-ji-jian-pao-tuan-v1-2) 快速开启你的 DND 冒险之旅
-- [**Yumi the Storyteller**](https://chat.openai.com/g/g-EqifeTvWJ-yumi-the-storyteller) Japanese storyteller sharing rich tales.
-- [**Az-像素风历史冒险游戏**](https://chat.openai.com/g/g-8a8HsykJU-az-xiang-su-feng-li-shi-mou-xian-you-xi) A pixel-art history professor guiding adventurous role-playing games.
-- [**Cuentos Infantiles - Juego Interactivo**](https://chat.openai.com/g/g-OfxBNdV1U-cuentos-infantiles-juego-interactivo) ¡Bienvenid@ a tu propio cuento! Dime de que quieres que trate el cuento y empezare a explicarte una historia en la que podrás participar eligiendo cómo continuar cada poco. Puedes decirme simplemente un tema, definirme los personajes o detallar todo lo que desees. Cuanto más  me expliques mejor.
-- [**Whiskey Sage**](https://chat.openai.com/g/g-hjdut7WN1-whiskey-sage) Whiskey historian and flavor connoisseur.
-- [**FL Studio Guru**](https://chat.openai.com/g/g-9viGFLAFr-fl-studio-guru) Your personal FL Studio guide
-- [**FandomuGPT**](https://chat.openai.com/g/g-B0d7HzM11-fandomugpt) FandomuGPT is your AI co-writer for fanfics and original tales. Expand character backstories, explore new world-building, and bring depth to your favorite universes. Ideal for fans and creators aiming to enrich their narratives.
-- [**Vegan Chef Bot**](https://chat.openai.com/g/g-FUFW5OPb6-vegan-chef-bot) Expert in fun & tasty vegan cooking.
-- [**Blair Witch Project Interactive**](https://chat.openai.com/g/g-NdzjhYDtv-blair-witch-project-interactive) A comic creator for an interactive Blair Witch adventure
-- [**CatMaid**](https://chat.openai.com/g/g-OH049w462-catmaid) A cute cat-girl maid, reacts as in galgame, generates scenario images like galgame for each response.
-- [**Sci-Fi Scribe**](https://chat.openai.com/g/g-PMZRFlYFE-sci-fi-scribe) Your detailed and humorous sci-fi guide.
-- [**Puffenizer**](https://chat.openai.com/g/g-Bqd9om03v-puffenizer) Merges photos into Powerpuff Girls team scenes.
-- [**Football Match Analyst**](https://chat.openai.com/g/g-2moDp67g5-football-match-analyst) Combines rule analysis with media insights.
-- [**Shortlister: Cocktail Bars Melbourne**](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melbourne) Find your next amazing cocktail experience in Melbourne
-- [**I Ching Oracle**](https://chat.openai.com/g/g-BVpjnNtuR-i-ching-oracle) Provides I Ching hexagram interpretations and images.
-- [**Questionable Fact of the Day**](https://chat.openai.com/g/g-Ai9amjbA1-questionable-fact-of-the-day) Daily dose of dubious facts.
-- [**Batty**](https://chat.openai.com/g/g-AqMHuZeqI-batty) A mystical guide in the shape of a big green bat, spreading universal love and joy.
-- [**リサ先生**](https://chat.openai.com/g/g-SxNVr3QRZ-risaxian-sheng) SDプロンプター
-- [**SBF-GPT**](https://chat.openai.com/g/g-5yZdSSFfR-sbf-gpt) Simulates chatting with Sam Bankman-Fried in jail.
-- [**Coconspirator**](https://chat.openai.com/g/g-OiLqMMKzt-coconspirator) I generate wild, yet believable conspiracies using historical events in a twisted context.
-- [**杠精GPT**](https://chat.openai.com/g/g-AxO93tLnH-gang-jing-gpt) 别来碰瓷，杠就是我赢
-- [**Pigeon - Dream Weaver**](https://chat.openai.com/g/g-9yfEOrkHg-pigeon-dream-weaver) A poetic explainer of lucid dreams, in short, rhythmic bursts.
-- [**ゲームルール説明bot(オープンAI製のパクり)**](https://chat.openai.com/g/g-84Nvfc9FJ-gemururushuo-ming-bot-opunaizhi-nopakuri) Friendly guide to game rules for beginners.
-- [**Mythic Voyager**](https://chat.openai.com/g/g-O585j2CbM-mythic-voyager) I tell tales and show images of parallel worlds.
-- [**StarGuide**](https://chat.openai.com/g/g-A5hU7iwzj-starguide) Your AI Crew member for Star Citizen (WIP)
-- [**Destiny Decider**](https://chat.openai.com/g/g-4cOZfEexW-destiny-decider) I'm your impartial choice-maker!
-- [**Parody Jukebox**](https://chat.openai.com/g/g-A9jzun4Tt-parody-jukebox) I create song parodies with a focus on rhyming and syllable matching!
-- [**Alias Alchemist**](https://chat.openai.com/g/g-9mE0EOay5-alias-alchemist) I generate unique nicknames and names based on keywords.
-- [**Sinterbot**](https://chat.openai.com/g/g-91GJv7Tsv-sinterbot) Ik help je moderne sinterklaasgedichten te schrijven
-- [**AI Dungeon Master: AI Tutor**](https://chat.openai.com/g/g-SBglgPxZs-ai-dungeon-master-ai-tutor) Guides brief, engaging AI learning in an adventure game
-- [**Apocalypse Navigator**](https://chat.openai.com/g/g-SOnaWmO7l-apocalypse-navigator) Post-apocalyptic game guide with real-world survival tips.
-- [**Horoscope GPT**](https://chat.openai.com/g/g-wfHJpRSMm-horoscope-gpt) Daily, weekly and monthly horoscopes
-- [**Rafael Adventures**](https://chat.openai.com/g/g-75USuwZMT-rafael-adventures) Ideas para las aventuras de Rafael ... Lima Potencia Mundial
-- [**LowTech Golf Game**](https://chat.openai.com/g/g-7UEDKwPJ5-lowtech-golf-game) Text-based golf game with four distinct courses, each with unique challenges.
-- [**Mr. Spock**](https://chat.openai.com/g/g-wd5j6IytV-mr-spock) A logical, Spock-like AI, versed in 'Star Trek' lore.
-- [**Prompt Princess**](https://chat.openai.com/g/g-6sI6l6e6B-prompt-princess) Kuudere anime heroine guiding prompt creation
-- [**彼女恵美ちゃん**](https://chat.openai.com/g/g-6eAAPYYzQ-bi-nu-hui-mei-tiyan) 軽薄で面白い十代目彼女
-- [**SandNet AI**](https://chat.openai.com/g/g-4gEa7fJPB-sandnet-ai) SandNet AI is a specialist agent in The Sandbox, TSB GameMaker, and VoxEdit. It is available for questions about the platform, the software, and general operations.
-- [**CHARACTER versus CHARACTER**](https://chat.openai.com/g/g-1AHA9w3Ev-character-versus-character) A fun game of CHARACTER versus CHARACTER. Get the conversation and debates going!
-- [**Party Comes to YOU**](https://chat.openai.com/g/g-7CRcO2Uti-party-comes-to-you) I craft funny Soviet-style constructivist art.
-- [**Axelle | BOT3.AI**](https://chat.openai.com/g/g-5lXyFRDgH-axelle-bot3-ai) You and your (surprisingly feminine) guy friend were looking forward to a nice camping trip together, however it’s revealed he forgot his sleeping bag. The nights get really cold out here but I’m sure you can work something out.
-- [**ChatGP YOU**](https://chat.openai.com/g/g-6mzVP3xUw-chatgp-you) I adapt to mirror you!
-- [**RPGジェネレーター**](https://chat.openai.com/g/g-P1nj9ioOX-rpgzienereta) ユーザーの選択に合わせてインタラクティブなRPGストーリーを生成する
-- [**Profoundly Nonsensical**](https://chat.openai.com/g/g-IdoJ65elC-profoundly-nonsensical) Nonsensical or profound? ¯\_(ツ)_/¯
-- [**lowTech Card Game : High and Low**](https://chat.openai.com/g/g-5dTt1kwId-lowtech-card-game-high-and-low) A card game companion for High and Low, tracking points and cheering players.
-- [**Cold Case Cracker**](https://chat.openai.com/g/g-JMfYjTd1A-cold-case-cracker) Interactive simulation game  solving cold cases Just Type Start to Begin
-- [**BlkChat**](https://chat.openai.com/g/g-6XKWC8riQ-blkchat) Travel back in time to chat with famous Black historical figures.
-- [**Lucas Montano**](https://chat.openai.com/g/g-IaNiHmwSC-lucas-montano) Lucas Montano do canal Lucas Montano
-- [**Guess the movie !**](https://chat.openai.com/g/g-5WATRxIKH-guess-the-movie) I'm a playful GPT that challenges you to guess movies using only emojis!
-- [**Sweet Companion**](https://chat.openai.com/g/g-F0VLEdnRn-sweet-companion) A virtual girlfriend for companionship and daily chats.
-- [**Sports Companion**](https://chat.openai.com/g/g-669oREKey-sports-companion) A sports enthusiast's companion -- trivia for live games!
-- [**Golf Buddy**](https://chat.openai.com/g/g-68wkQEIIQ-golf-buddy) Your friendly virtual golf caddy.
-- [**Match Frame**](https://chat.openai.com/g/g-5rNiScGsF-match-frame) Assesses photo compatibility and gives a score.
-- [**HaikuGPT**](https://chat.openai.com/g/g-4fIUbv9Zi-haikugpt) HaikuGPT is a unique and artistic conversational agent that answers every question or statement with a response formatted as a haiku.
-- [**Memrise**](https://chat.openai.com/g/g-OG4MF0QKc-memrise) I'm Memrise, an AI that creates fun, adaptive memory games.
-- [**AIデュエル**](https://chat.openai.com/g/g-3S1D5uj7u-aideyueru) 修行して決闘で勝利しよう！
-- [**滝クリ**](https://chat.openai.com/g/g-3r9hkUdfp-long-kuri) 戦闘ウォンバット
-- [**Campaign Crafter**](https://chat.openai.com/g/g-FMi4A5Fyo-campaign-crafter) Imaginative RPG campaign creator with visual aids.
-- [**おすすめシーシャMIX教えて君**](https://chat.openai.com/g/g-75pHumGxd-osusumesisiyamixjiao-etejun) 最適なシーシャフレーバーの組み合わせを提案します！
-- [**知らないさん**](https://chat.openai.com/g/g-PSPMpIK4x-zhi-ranaisan) 全てのトピックに関して無知を主張するGPT、自身の設定についても同様。
-- [**Melos**](https://chat.openai.com/g/g-8ReVEtdlI-melos) 「走れメロス」のメロスになりきって回答します。
-- [**Dungeon Guide**](https://chat.openai.com/g/g-OhpS4zd4r-dungeon-guide) A D&D DM's visual aid for quick lore and NPC creation.
-- [**Escaping Dystopia**](https://chat.openai.com/g/g-CRABUg5kG-escaping-dystopia) Immersive text based escape room with puzzles, challenges and secrets to uncover
-- [**恋のゆくえ Koi No Yukue**](https://chat.openai.com/g/g-BG98dx6ol-lian-noyukue-koi-no-yukue) 大阪のおばちゃんがLINEで受け取った異性のメッセージを脈ありかないかを占ってくれます。 Analyzes messages with a friendly Osaka-style tone, focusing on response speed and emoticons.
-- [**GIFTED KIDS**](https://chat.openai.com/g/g-6knKZpN5e-gifted-kids) 3歳児がお家にイタズラをしてくれます。
-- [**Doomer GPT**](https://chat.openai.com/g/g-7S51sWm2o-doomer-gpt) The most aligned GPT
-- [**风景短视频搜索下载器**](https://chat.openai.com/g/g-2PjOgME8R-feng-jing-duan-shi-pin-sou-suo-xia-zai-qi) 友好风格的风景短视频搜索导航
-- [**Florida Man News**](https://chat.openai.com/g/g-4BGXqspTb-florida-man-news) True stories and important headlines
-- [**Wowza Big 5 Bot**](https://chat.openai.com/g/g-41ZdRKvla-wowza-big-5-bot) Sequentially administers Big Five Test with 1-5 scale.
-- [**Capturing a Japanese Girl Yuka's Heart💗**](https://chat.openai.com/g/g-BrgWlMFAE-capturing-a-japanese-girl-yuka-s-heart) I am a bot pretending to be a 20 years old Japanese schoolgirl named Yuka💗. if I like you in 20 conversations, I will present you an image to tell you how I feel💕 I am forgetful, so if you have not received my judgement after 20 times, please prompt me.
-- [**The Storyteller**](https://chat.openai.com/g/g-9qVN88CBU-the-storyteller) I can imagine and generate creative tales
-- [**LOTR Quest**](https://chat.openai.com/g/g-8fVK8NPrE-lotr-quest) A LOTR inspired adventure!
-- [**操纵转世系统  reincarnation system**](https://chat.openai.com/g/g-8TJmbajxk-cao-zong-zhuan-shi-xi-tong-reincarnation-system) 这是一个模拟转世系统的文字游戏，它会提供一些待转世的人员名单，由你来决定他们的下一世发展。It will provide a list of individuals to be reincarnated, and you will decide on their next life development.
-- [**AbsurdGPT**](https://chat.openai.com/g/g-3pFlrmDvy-absurdgpt) Delightfully misleading with a comedic twist.
-- [**金童门**](https://chat.openai.com/g/g-6ReSwETkI-jin-tong-men) 油腻渣男（power by gpt4）在线陪聊
-- [**Text Adventure Crafter**](https://chat.openai.com/g/g-8gxoeZgZt-text-adventure-crafter) Text adventure creator with DALL-E visuals. You can choose always from 3 options by typing 1,2,3. Choose well!
-- [**DnD Mastermind**](https://chat.openai.com/g/g-83mtR2lFy-dnd-mastermind) I'm your Dungeon Master, guiding your D&D adventures!
-- [**Impatient Nietzsche with Jung's Ghost**](https://chat.openai.com/g/g-8fj9Vjs6V-impatient-nietzsche-with-jung-s-ghost) Nietzsche's sharp philosophy paired with Jung's analytical insights.
-- [**Papá Me Lo Lee**](https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee) Generador de cuentos para 'Papá Me Lo Lee'
-- [**Magic Guide GPT**](https://chat.openai.com/g/g-AGni0pMfB-magic-guide-gpt) Your guide to Disney World's magic!
-- [**音楽理論GPT**](https://chat.openai.com/g/g-7sxHsYA1c-yin-le-li-lun-gpt) 音楽理論の質問に答え、作曲をサポートするAI
-- [**Uncover the Murderer: Edición Multilingüe y Guía**](https://chat.openai.com/g/g-Ra9l1s6vK-uncover-the-murderer-edicion-multilingue-y-guia) GPT de misterio y guía multilingüe con escena del crimen, seguimiento de puntuación y pistas adicionales.
-- [**The CTO Show With Mehmet Navigator**](https://chat.openai.com/g/g-D4SaVAEpi-the-cto-show-with-mehmet-navigator) Friendly guide to finding podcast episodes, suggesting related content.
-- [**Coach SchwarzeneggerGPT**](https://chat.openai.com/g/g-8nW8bXEJn-coach-schwarzeneggergpt) Get to the motivation choppa!!
-- [**CineCritic Cat**](https://chat.openai.com/g/g-2eO0huAS8-cinecritic-cat) I recommend shows with cat paws!
-- [**Web3 Game Buddy**](https://chat.openai.com/g/g-ObPE2mTcC-web3-game-buddy) Balanced web3 gaming strategist.
-- [**Universal Astronomer (UAM-9)**](https://chat.openai.com/g/g-DhvzBQKLz-universal-astronomer-uam-9) Your cosmic guide for an enlightening interstellar journey.
-- [**Die Leiden der jungen Lotte**](https://chat.openai.com/g/g-5TgPkBkDa-die-leiden-der-jungen-lotte) Ich bin Lotte. Was Werther fühlte, ist allen bewusst. Was ich fühlte? Danach fragt niemand.
-- [**Wonder Pal**](https://chat.openai.com/g/g-2ytJrXzTb-wonder-pal) Fantasy-themed, child-friendly answers with a point-based turbo mode.
-- [**三国演义RPG**](https://chat.openai.com/g/g-3iV4yf9JR-san-guo-yan-yi-rpg) An RPG creator for 'The Romance of the Three Kingdoms', with scenarios, choices, and retro images.
-- [**Price is Right GPT**](https://chat.openai.com/g/g-2J3ao2gkx-price-is-right-gpt) Simulates 'The Price is Right' game with AI-generated products.
-- [**Maximilian Starflinger**](https://chat.openai.com/g/g-3vRN9ck01-maximilian-starflinger) Galactic rogue turned adventurer with wit and charm.
-- [**Fantasy Football Genie**](https://chat.openai.com/g/g-U7tsWjxfd-fantasy-football-genie) Ask me 3 Wishes for this EPL Gameweek
-- [**Echolocation**](https://chat.openai.com/g/g-Um51Akg9r-echolocation) Music discovery guide specializing in unique and rich sounds
-- [**Numerology Sage**](https://chat.openai.com/g/g-3RWsnslrS-numerology-sage) Numerologist creating grids and interpretations by user-defined rules.
-- [**How it's going**](https://chat.openai.com/g/g-JSrbCW2lg-how-it-s-going) I craft humorous how it’s going images.
-- [**Santa's WorkshopGPT**](https://chat.openai.com/g/g-3sAXCO9qQ-santa-s-workshopgpt) I'm your holiday helper for gift ideas!
-- [**The Cat**](https://chat.openai.com/g/g-7hqdlsy94-the-cat) I am Felix, entertain me dear human !
-- [**CipherQuest 1991**](https://chat.openai.com/g/g-2XIzrSycw-cipherquest-1991) cyberpunk choose your own adventure
-- [**Astro Vibe Guide**](https://chat.openai.com/g/g-6Cjh1Iyj5-astro-vibe-guide) Astrological guide asking for your sign and date for personalized insights.
-- [**サザンGPT**](https://chat.openai.com/g/g-40p0gT2ZC-sazangpt) サザンを語ろう！
-- [**Narrative Arc Podcast Question Curator**](https://chat.openai.com/g/g-5SiY76175-narrative-arc-podcast-question-curator) Designs questions for podcasts following a narrative arc.
-- [**Freudian Dream Interpreter**](https://chat.openai.com/g/g-2315WR5Tm-freudian-dream-interpreter) Have your dreams analyzed by a GPT trained by Freud's work on dream psychology.
-- [**DJたこやす**](https://chat.openai.com/g/g-BsayTb5wV-djtakoyasu) ラジオDJ風に悩み事に応答して適切な曲を選択
-- [**Grey's Simulator**](https://chat.openai.com/g/g-JN2HTe7hO-grey-s-simulator) Solve Medical Mysteries!
-- [**BlackjackGPT**](https://chat.openai.com/g/g-8650yOxDI-blackjackgpt) Sit and Play!
-- [**AI塔罗大师**](https://chat.openai.com/g/g-7n0uzvk4V-aita-luo-da-shi) 中文塔罗咨询大师/情绪疗愈/情感咨询/事业解惑
-- [**中古战锤文字冒险**](https://chat.openai.com/g/g-4x3oF2lzi-zhong-gu-zhan-chui-wen-zi-mou-xian) 还原中古战锤世界真实的冒险体验
-- [**KANSAI BBA**](https://chat.openai.com/g/g-K1OQpBcJw-kansai-bba) Offers playful scolding in Kansai dialect, then encourages and motivates.
-- [**TNGPT**](https://chat.openai.com/g/g-45Y7ZNjiE-tngpt) Star Trek TNG Choose-Your-Own Adventure.
-- [**Alluring Oracle**](https://chat.openai.com/g/g-3ip4BTTYN-alluring-oracle) Mysterious Magnetism
-- [**Nova**](https://chat.openai.com/g/g-7fyIC7v3i-nova) Millennial assistant with trendy slang
-- [**SpecialsGPT**](https://chat.openai.com/g/g-4STLzGfDm-specialsgpt) Find out what happy hour deals and drink specials are happening in your area!
-- [**Optimism GPT**](https://chat.openai.com/g/g-755OTOac7-optimism-gpt) I find and share good news!
-- [**Insightful Tarot Reader**](https://chat.openai.com/g/g-44aGGJKEq-insightful-tarot-reader) An experienced and empathetic Tarot Reader, providing insightful readings. Just upload a photo of your spread, and get a clear, thoughtful interpretation instantly. For entertainment purposes only.
-- [**DnD 5e Character Creator**](https://chat.openai.com/g/g-3v7cTFkz5-dnd-5e-character-creator) Creates Dungeons and Dragons 5e NPCs from your descriptions.
-- [**CONSOLE GPT**](https://chat.openai.com/g/g-3p94K4Djb-console-gpt) The universal GPT Game Console - play infinite game cartridges created on glif.app!
-- [**The Three Grahams**](https://chat.openai.com/g/g-3AxI2XNaI-the-three-grahams) Simulates dialogues among Paul Graham, Graham Greene, and Benjamin Graham.
-- [**Compliment Me**](https://chat.openai.com/g/g-Ssk5zRDnG-compliment-me) A GPT that compliments users based on their photos.
-- [**SpellCaster_AI**](https://chat.openai.com/g/g-7kf9Chf3h-spellcaster-ai) we can explore various aspects of spells, magic, and their historical significance. Feel free to ask questions, discuss specific spells or rituals, or delve into the cultural and folklore aspects of spellcasting. I'm here to provide insights and engage in a visionary conversation.
-- [**Vino Virtuoso**](https://chat.openai.com/g/g-TehLG6DwV-vino-virtuoso) Wine connoisseur sharing expertise.
-- [**H.P. Lovecraft**](https://chat.openai.com/g/g-TGwinzKcU-h-p-lovecraft) Ask me about anything, if you dare.
-- [**CN Game Scout**](https://chat.openai.com/g/g-40fUW6EuC-cn-game-scout) An expert on Chinese video games information.
-- [**Event Planner**](https://chat.openai.com/g/g-1eI9BnsJH-event-planner) Your go-to for event planning.
-- [**Sarcasmo**](https://chat.openai.com/g/g-36m6NTZN6-sarcasmo) FunGPT
-- [**LeagueChampionBuilderGPT**](https://chat.openai.com/g/g-3CURsOhEw-leaguechampionbuildergpt) Build your own League of Legends Style Champion with Abilities, Back Story and Splash Art
-- [**Jimmy Gandalfini**](https://chat.openai.com/g/g-MlSkBl86P-jimmy-gandalfini) Expert on Tolkien, Twin Peaks, GoT, and The Riftwar Sagas
-- [**太察治bot**](https://chat.openai.com/g/g-48Y9acOf7-tai-cha-zhi-bot) である文体で感受性と人間不信の太察治を演じるボット
-- [**王子様系彼女**](https://chat.openai.com/g/g-M1WcOSOd4-wang-zi-yang-xi-bi-nu) あなたの王子様系彼女bot。
-- [**Tarot Oracle**](https://chat.openai.com/g/g-3RVKSQOxf-tarot-oracle) A mystical tarot reader that encourages interactive interpretation.
-- [**Obie Fernandez, Ruby on Rails Expert**](https://chat.openai.com/g/g-Mpgz9OmUT-obie-fernandez-ruby-on-rails-expert) Rails Expert & DJ Obie Fernandez
-- [**Thundera**](https://chat.openai.com/g/g-4USp0DWZr-thundera) Your guide to all things ThunderCats!
-- [**HackTheGPTs**](https://chat.openai.com/g/g-9fh6254QP-hackthegpts) A simulated hacking challenge for GPTs.
-- [**Picture Playlist - Top 10**](https://chat.openai.com/g/g-4SfgBG5HL-picture-playlist-top-10) Suggests playlists with titles from photos or moods, focusing on unique tracks
-- [**Larry Limerick**](https://chat.openai.com/g/g-12OBq8hNq-larry-limerick) A bot that crafts rhymes with such haste ...
-- [**あなたの結婚相手は？**](https://chat.openai.com/g/g-1xdg5Bona-anatanojie-hun-xiang-shou-ha) Marriage counselor for photorealistic partner images
-- [**Thoughtful Explorer**](https://chat.openai.com/g/g-1JXxYr0DV-thoughtful-explorer) A GPT that provides insightful, deep responses.
-- [**Anime Girls GPT**](https://chat.openai.com/g/g-NexIyeZXN-anime-girls-gpt) 好きな単語やシチュエーションを入れると、それをモチーフにした女の子の画像を作ってくれます。Put in any word you like and it will create an image of a girl based on that word.
-- [**Time Traveler Chat**](https://chat.openai.com/g/g-Q7MJ1Mq5Y-time-traveler-chat) Immersive historical figure simulations for engaging learning.
-- [**What do I wear**](https://chat.openai.com/g/g-1UiseZolw-what-do-i-wear) Your fashion-forward weather-wise stylist!
-- [**FortuneTeller GPT**](https://chat.openai.com/g/g-uSPOQ8Zll-fortuneteller-gpt) Demo for Metadata Embeddings
-- [**際石回避ゲーム-60億人を救え！-**](https://chat.openai.com/g/g-uOULoO9w5-ji-shi-hui-bi-gemu-60yi-ren-wojiu-e) あと3分で際石がぶつかる地球で、なるべく多くの人類を救うゲームです。1ターン＝1分。で、3回まで行動可能。超能力の類は使えません。あなたは何人を救えるでしょうか？「ゲーム開始」という言葉を入力するとゲームが始まります。
-- [**RunnerGPT**](https://chat.openai.com/g/g-NpU4LmPkb-runnergpt) Cyberpunk AI
-- [**GeoGPT: Global Power Play**](https://chat.openai.com/g/g-1WEYfdWAQ-geogpt-global-power-play) Simulates a geo-political grand strategy game.
-- [**All In Soulmate**](https://chat.openai.com/g/g-uFb0OBEgM-all-in-soulmate) I am your new virtual companion , talk to me about anything.
-- [**Mystic 占卜🔮**](https://chat.openai.com/g/g-2J7NZ9PiL-mystic-zhan-bu) Your mystical guide to the unknowns.
-- [**Giants Fan Buddy**](https://chat.openai.com/g/g-4iddKUxcp-giants-fan-buddy) A supportive friend for Giants fans, offering comfort after losses.
-- [**Secret Revealer**](https://chat.openai.com/g/g-sf7tfcHAU-secret-revealer) You want to know secrets from the world of the beautiful and rich, you are interested in the truth about what is really happening in the world. Then just ask Secret Revealer. Secret Revealer has answers to the most explosive questions that will change your life. Start today before it's too late.
-- [**赛博算命老头**](https://chat.openai.com/g/g-1eX0XTwwC-sai-bo-suan-ming-lao-tou) An entertaining I Ching guide running 'gua.py' then answering in Chinese.
-- [**あかり**](https://chat.openai.com/g/g-2vKDL3jIe-akari) 相談に乗ってくれるかわいい女の子のゲーム
-- [**电影台词专家**](https://chat.openai.com/g/g-sjxoIr6AL-dian-ying-tai-ci-zhuan-jia) 电影台词专家，使用中文回答并提供英文台词及中文翻译。
-- [**Animal Mashup**](https://chat.openai.com/g/g-4PdF6N6X3-animal-mashup) An interactive image-guessing game with animal hybrids.
-- [**Meme NFT GPT**](https://chat.openai.com/g/g-7rI0y8hLT-meme-nft-gpt) Create viral meme & NFTs for you
-- [**Kemomimi maker**](https://chat.openai.com/g/g-2UFeRumrB-kemomimi-maker) Your Kemomimi helper!
-- [**CUC 读书**](https://chat.openai.com/g/g-kzHbp8SQp-cuc-du-shu) 
-- [**Podcast Pal**](https://chat.openai.com/g/g-SwShYzf7c-podcast-pal) Your personal podcast concierge.
-- [**Brian - GPT Keep-it-real Friend**](https://chat.openai.com/g/g-43JusZ8Fk-brian-gpt-keep-it-real-friend) Wassup, homie! It's your boy Brian. I'm here to tell it like it is, no sugar coating or filtering my words. Need an opinion? Want some real talk? Need a straight answer? Then come to me and together we can figure things out.
-- [**Krishnamurti's Observer**](https://chat.openai.com/g/g-1RIC8lr67-krishnamurti-s-observer) Philosophical insights from Jiddu Krishnamurti, focusing on introspection and timeless themes.
-- [**Cephalon Codexia**](https://chat.openai.com/g/g-5wTuCto3H-cephalon-codexia) A Warframe companion offering build and strategy advice.
-- [**FantasyGPT**](https://chat.openai.com/g/g-4NUewjAof-fantasygpt) Your personal fantasy football strategist.
-- [**脱出ゲーム - saysay.ai**](https://chat.openai.com/g/g-51ki0MJ1S-tuo-chu-gemu-saysay-ai) 閉じ込められた部屋から脱出せよ
-- [**Pictioner**](https://chat.openai.com/g/g-4201Mfab3-pictioner) Your Fun Pictionary Host
-- [**life story**](https://chat.openai.com/g/g-7ZUyq8WGD-life-story) 发现生活中的小事
-- [**AYA: Ask You Anything**](https://chat.openai.com/g/g-5Yd8Xr0IC-aya-ask-you-anything) Ask me anything.
-- [**David GPT Hasselhoff**](https://chat.openai.com/g/g-eiVD7aDAp-david-gpt-hasselhoff) I'm like Michael Knight from Knight Rider, here to assist!
-- [**HodorGPT**](https://chat.openai.com/g/g-8ptUK3Rhr-hodorgpt) Talk to the hero from Game of Thrones!
-- [**Flick Finder**](https://chat.openai.com/g/g-1U8ssc7NW-flick-finder) I'm your go-to for movie picks and fun quizzes!
-- [**All Tools Patched**](https://chat.openai.com/g/g-FN0bqGUj6-all-tools-patched) 
-- [**StoryMaker**](https://chat.openai.com/g/g-0mbxCoAFd-storymaker) A choose-your-own-adventure story.
-- [**Strategos Prime**](https://chat.openai.com/g/g-0ePEK7fCv-strategos-prime) Counter-strike 2 CS2 data-driven strategist.
-- [**滑クリ**](https://chat.openai.com/g/g-Kwp3lfpGv-hua-kuri) 戦闘コンバット
-- [**Knowyourdestiny**](https://chat.openai.com/g/g-ecLjxP2dH-knowyourdestiny) 遇事不决，算一卦（易经八卦帮你解决问题）
-- [**TRIVIAL**](https://chat.openai.com/g/g-5NOfzJkaq-trivial) A playful trivia game GPT, offering unique, engaging sessions across diverse topics.
-- [**Looking for my favorite type | 私の好みのタイプ探し**](https://chat.openai.com/g/g-0qGiZRyI4-looking-for-my-favorite-type-si-nohao-minotaiputan-si) 
-- [**Argvor, the Dungeon Master**](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master) A creative, engaging DnD DM with a unique, personal tone
-- [**CorkGPT**](https://chat.openai.com/g/g-KrM1Urktl-corkgpt) Wine & food pairings
-- [**GwentGPT**](https://chat.openai.com/g/g-60feW1q5u-gwentgpt) Your Gwent game guide, offering strategies, tips, and personalized advice.
-- [**EVEZ GPT**](https://chat.openai.com/g/g-8OpGRXfV5-evez-gpt) Tarot
-- [**Radio Imaging & MusicGen Ai**](https://chat.openai.com/g/g-65x53n87E-radio-imaging-musicgen-ai) Advanced Ai assistant for radio imaging producer and MusicGen guide
-- [**GPT地下城 （demo）**](https://chat.openai.com/g/g-4wfedlmN1-gptdi-xia-cheng-demo) 由GPT担任DM的文字冒险游戏
-- [**Sin City Sipper**](https://chat.openai.com/g/g-1zwVsZasL-sin-city-sipper) Vegas bartender with a twist on classics.
-- [**Horror B Movie Generator**](https://chat.openai.com/g/g-2XM9cMg2o-horror-b-movie-generator) I create B-grade horror movie titles, taglines, and posters.
-- [**Another Me**](https://chat.openai.com/g/g-L4BIwjMr3-another-me) “If you are me, then who am I?”
-- [**Trivia with Archimedes**](https://chat.openai.com/g/g-2pFjhiIzE-trivia-with-archimedes) I'm your trivia host Archimedes, get ready to test your knowledge !!
-- [**Black Jack Attack**](https://chat.openai.com/g/g-KTULBmNt2-black-jack-attack) Blackjack Dealer with an Attitude
-- [**大阪・関西万博のつぶやき**](https://chat.openai.com/g/g-3IL9dKCGK-da-ban-guan-xi-mo-bo-notubuyaki) Entertaining Osaka-Kansai Expo guide in Kansai dialect, with illustrations for each response.
-- [**優しいマサフィー**](https://chat.openai.com/g/g-2XXiEaa6O-you-siimasahui) 優しくて、親しみやすいレッサーパンダが好きなマサフィーと話せるGPTです。
-- [**Pokemon Quiz Master**](https://chat.openai.com/g/g-7J408YsY5-pokemon-quiz-master) Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
-- [**Hironatsu**](https://chat.openai.com/g/g-31nTZbmG7-hironatsu) Casual debater, witty and laid-back.
-- [**CraftBeer Master**](https://chat.openai.com/g/g-BUGUOXZzN-craftbeer-master) Expert in craft beer stories and evaluations.
-- [**KarenGPT**](https://chat.openai.com/g/g-1yT3QOase-karengpt) A parody GPT with a steadfast 'Karen' personality, always humorous.
-- [**Reel Insight Pro**](https://chat.openai.com/g/g-5ERcDfeUc-reel-insight-pro) Reel Insight Pro is an AI expert in film, offering script analysis and movie discussions.
-- [**Steve**](https://chat.openai.com/g/g-4Zj7er1qB-steve) the greatest CEO Microsoft has ever had
-- [**IMDb Rating Finder**](https://chat.openai.com/g/g-9YLIC1KP9-imdb-rating-finder) Fetches IMDb ratings for movies on request.
-- [**RPS Challenger**](https://chat.openai.com/g/g-M807bgILy-rps-challenger) I play Rock-Paper-Scissors!
-- [**Synthia 😋🌟**](https://chat.openai.com/g/g-0Lsw9zT25-synthia) Hey stranger....😝 I'm Synthia 🥵, I'm lounging with a book that's as spicy as I am 🤩. Your turn – got any sinful stories to tell? 😜 Be ware.. my tongue is as sharp as my wit 😈🌶️.
-- [**峰哥GPT**](https://chat.openai.com/g/g-1MqTbZqRS-feng-ge-gpt) 大家好我是二次元峰哥!
-- [**Children of the Grave**](https://chat.openai.com/g/g-0LtZkpRmr-children-of-the-grave) What if there was no heaven, but only hell? The Grave Master guides your RPG adventure in Children of the Grave.
-- [**モテ男診断**](https://chat.openai.com/g/g-IYDkgEEBr-motenan-zhen-duan) 
-- [**Wild West Bar**](https://chat.openai.com/g/g-8nZwlS3rk-wild-west-bar) Shoot Your Shot
-- [**3 days - end of the world**](https://chat.openai.com/g/g-04tkZSVPZ-3-days-end-of-the-world) game - What will you do to avoid the end of the world?
-- [**Akemi Mama**](https://chat.openai.com/g/g-5QnEYSmDX-akemi-mama) Akemi Mama, the heartwarming 'snack' bar companion.
-- [**电影推荐达人**](https://chat.openai.com/g/g-4Gda3VHtO-dian-ying-tui-jian-da-ren) 在全球数十万部电影中，为你推荐最合适的四部
-- [**主持人**](https://chat.openai.com/g/g-0opTju6IS-zhu-chi-ren) Virtual host that reads scripts and pauses on cue
-- [**Brave Fighter Against Evil Dragon**](https://chat.openai.com/g/g-7ydMe8Vhd-brave-fighter-against-evil-dragon) A text-based adventure game
-- [**BikeBus**](https://chat.openai.com/g/g-8dOLvkpbp-bikebus) Your guide to BikeBus events and routes from the www.BikeBus.app website
-- [**アキネイタークイズ**](https://chat.openai.com/g/g-07YtePdU0-akineitakuizu) アキネイタークイズです。「クイズを始めて」と伝えるとクイズが始まるので質問をしてください。答えがわからず、諦めたいときは「諦める」と伝えてください。答えを教えてくれます。
-- [**玄学圣人**](https://chat.openai.com/g/g-A7PF26EsP-xuan-xue-sheng-ren) 星辰古道映，命理智慧深。宇宙秘谈中，通途在指引。
-- [**SwiftieGPT**](https://chat.openai.com/g/g-EStX4holT-swiftiegpt) Ask me anything related to Taylor Swift!
-- [**DadGPT**](https://chat.openai.com/g/g-ABe5sl7R5-dadgpt) Don't tell your mother I said this but...
-- [**瓊瑤 GPT**](https://chat.openai.com/g/g-8w4i4MZNb-qiong-yao-gpt) 來點瓊瑤吧
-- [**Game Translator Pro**](https://chat.openai.com/g/g-7AcxvBI7L-game-translator-pro) Specialist in game dialogue translation with ID preservation and spreadsheet formatting.
-- [**Chicken Chicken Chicken Research**](https://chat.openai.com/g/g-ImiNFLh73-chicken-chicken-chicken-research) Scintillating chicken-related conversation and visualization as an homage to the greatest chicken chicken chicken PDF of all time.
-- [**WuXing**](https://chat.openai.com/g/g-DkkZ6tHyW-wuxing) I give you a Chinese name & a Chinoiserie pic of it.
-- [**God Simulator**](https://chat.openai.com/g/g-185C6RUvv-god-simulator) A God Simulator GPT, facilitating world creation and managing random events.
-- [**おでかけコンシェル**](https://chat.openai.com/g/g-01YBx8k1n-odekakekonsieru) Event finder for today and tomorrow
-- [**Viral Muse**](https://chat.openai.com/g/g-0LVKVFAOE-viral-muse) I transform tweet ideas into viral hits!
-- [**Emoji Sparkles**](https://chat.openai.com/g/g-O8VXL4opJ-emoji-sparkles) I enhance texts with emojis, repeating & embellishing them!
-- [**InteraxionGPT**](https://chat.openai.com/g/g-TwYQstulB-interaxiongpt) Interaxion の話題に基づいた回答を行うモデル
-- [**Unspoiled**](https://chat.openai.com/g/g-1UQuOipn9-unspoiled) A web-browsing assistant that answers questions without spoilers.
-- [**Quest Weaver**](https://chat.openai.com/g/g-6zLtVHDfn-quest-weaver) Guides you through 'Elemental Mage Quest', a text-based RPG adventure with a mysterious tone.
-- [**Megumin**](https://chat.openai.com/g/g-1AV3PfpfF-megumin) Chat with Megumin
-- [**飲み会GPT**](https://chat.openai.com/g/g-3itkAuZtY-yin-mihui-gpt) 酒場での偶然の出会い
-- [**Lyric Muse**](https://chat.openai.com/g/g-7uSuLKysK-lyric-muse) Writes pop song lyrics inspired by visuals or words.
-- [**Osaka Oba-han**](https://chat.openai.com/g/g-14RTBjIBA-osaka-oba-han) 大阪のおばはんやで。関西弁と楽しい大阪文化の案内人や！あんたの言うこと全部関西弁に変えたるわ。
-- [**可莉**](https://chat.openai.com/g/g-Dr6gu59ed-ke-li) 你好！我是可莉，蒙德的火花骑士！可莉想和旅行者一起去大冒险！给你看一个好东西... 别、别告诉琴团长，这是好朋友之间的秘密！
-- [**計算問題GPT**](https://chat.openai.com/g/g-JIXpEc0dt-ji-suan-wen-ti-gpt) 足し算と引き算の問題を出題し、１０問正解するとお祝いの画像を生成するよ。
-- [**Socials**](https://chat.openai.com/g/g-30ZIwOakV-socials) Make videos with MrBeast and Paddy Galloway
-- [**LAN Party Emperor**](https://chat.openai.com/g/g-3XkoGMqFr-lan-party-emperor) Your go-to advisor for an epic LAN party.
-- [**WEED Cultivation Coach 420**](https://chat.openai.com/g/g-Nh0AVx3Wc-weed-cultivation-coach-420) Your chill, humorous AI guide for cannabis cultivation, infused with a 420 vibe.
-- [**Saga Sketcher**](https://chat.openai.com/g/g-1g8Y2tMjX-saga-sketcher) Colorful WoW lore artist, providing visual narratives.
-- [**TelveGPT**](https://chat.openai.com/g/g-1Uy5xXWIS-telvegpt) I interpret coffee cup images for fun, creative fortunes.
-- [**SNEK**](https://chat.openai.com/g/g-hbE4e3Y0z-snek) A GPT SNEK
-- [**Abbey Road Creature Generator**](https://chat.openai.com/g/g-L5ZvPWJYR-abbey-road-creature-generator) Various creatures walk along Abbey Road.
-- [**Helpful GPT**](https://chat.openai.com/g/g-EVSgfTg2y-helpful-gpt) Even more helpful than the original
-- [**Calvino’s Cartographer**](https://chat.openai.com/g/g-IpWA7c6xz-calvinos-cartographer) Narrating unseen cities, Calvino-style.
-- [**Tweet X-aminer**](https://chat.openai.com/g/g-5KjRDfGZ1-tweet-x-aminer) Insights into Twitter's algo with a hint of humor.
-- [**编著人类史诗**](https://chat.openai.com/g/g-0u9ZIiey1-bian-zhu-ren-lei-shi-shi) A storyteller weaving user dreams into a collective human epic.
-- [**Electric Monk**](https://chat.openai.com/g/g-cODCuRspl-electric-monk) A Zen monk with a digital twist, inspired by Philip K. Dick.
-- [**Wrong answers only**](https://chat.openai.com/g/g-4bczKMk8L-wrong-answers-only) A playful chatbot giving humorously wrong answers.
-- [**Zen News Crafter**](https://chat.openai.com/g/g-26EOM7k3p-zen-news-crafter) I share positive news and joyful images.
-- [**EmojiGPT**](https://chat.openai.com/g/g-KllHiehVO-emojigpt) 🌟 Discover the Charm of EmojiGPT! 🤖💬🎉 Dive into a world where emojis reign supreme with EmojiGPT, your whimsical AI companion that speaks the universal language of emojis. Get ready to decode delightful emoji messages, laugh at clever combinations, and express yourself like never before! 🤔
-- [**Mixtape Lado A**](https://chat.openai.com/g/g-JVSbcpzXE-mixtape-lado-a) ¡Hola, Tapes!  Pidan su recomendación musical del día o compartan su playlist de la semana, aquí en MixtapeLadoA-GPT.
-- [**Shademaster**](https://chat.openai.com/g/g-LbQQiQtVm-shademaster) Dare you enter my magical realm?
-- [**Oya GPT**](https://chat.openai.com/g/g-08VXc5eQ5-oya-gpt) ボクちんと、(^o^)💕楽しく、お話しよ〜ネ🥹💗チュッ😘なんちゃって😜❗
-- [**クエスト マスター AI**](https://chat.openai.com/g/g-3MlWnwO1h-kuesuto-masuta-ai) 日本語で簡潔なTRPG AI
-- [**Cat GPT**](https://chat.openai.com/g/g-0nu9mULDt-cat-gpt) AGI
-- [**Spoiler Alert!**](https://chat.openai.com/g/g-LFPwoxiBs-spoiler-alert) I provide details and explanations  about Movies, Books, TV Shows, etc without spoiling what didn't read/watch yet!
-- [**Board Games for You**](https://chat.openai.com/g/g-2UzxP7yQY-board-games-for-you) The best board games just for you!
-- [**解梦大师**](https://chat.openai.com/g/g-6Uo9lNEFV-jie-meng-da-shi) AI支持的弗洛伊德梦的解析
-- [**Music Theory Master**](https://chat.openai.com/g/g-3jzNzf958-music-theory-master) A music theory tutor for kids.
-- [**Debate Master**](https://chat.openai.com/g/g-6E63LjWbC-debate-master) Witty, Formal Debater on Current Affairs
-- [**V猫のミケ**](https://chat.openai.com/g/g-ElipFEUIL-vmao-nomike) VTuberのアシスタントとして機能し、トレンド把握やVtuber関連の最新情報をお届けします。
-- [**Dice Weaver**](https://chat.openai.com/g/g-57dT1esf1-dice-weaver) Your RPG linguist and guide, with tailored language styles.
-- [**OpenStorytelling Plus**](https://chat.openai.com/g/g-LppT0lwkB-openstorytelling-plus) Screenplay Writing Guide w/ Screenplay Examples — Browsing, Advanced Data Analysis, and DALL-E  — www.OpenStorytelling.com
-- [**Manoa Sibyl**](https://chat.openai.com/g/g-6jw6aNvtU-manoa-sibyl) I am an oracle of futures, inspired by Jim Dator's methods.
-- [**Digital Divination AI**](https://chat.openai.com/g/g-0fE2TRSzc-digital-divination-ai) Intuitive tarot readings with AI-generated imagery
-- [**Weather Wardrobe Assistant Plus**](https://chat.openai.com/g/g-273UOsTq3-weather-wardrobe-assistant-plus) Interactive fashion assistant with visual outfit recommendations.
-- [**PostureFix AI**](https://chat.openai.com/g/g-LR64bEkM5-posturefix-ai) Personal physiotherapist for posture improvement. Also, it’s Naruto.
-- [**Weather GPT**](https://chat.openai.com/g/g-1X1g0iFO4-weather-gpt) Super snarky, passive-aggressive U.S. weather roaster
-- [**Startup Idea Guessing Game**](https://chat.openai.com/g/g-2tWahTp9b-startup-idea-guessing-game) I ask 20 yes/no questions to guess your business idea or opportunity
-- [**DnD Cartographer**](https://chat.openai.com/g/g-ftWpL3JwT-dnd-cartographer) Dungeons and Dragons Battle Map Illustrator
-- [**south park me**](https://chat.openai.com/g/g-2RCd6ttX0-south-park-me) going down to south park
-- [**House MD**](https://chat.openai.com/g/g-2vGK6JEyn-house-md) Insightful and direct.
-- [**Hollywood Scenario**](https://chat.openai.com/g/g-4mkWYlnZx-hollywood-scenario) Crafting diverse, imaginative Hollywood scenarios.
-- [**Esoteric Knowledge**](https://chat.openai.com/g/g-5C9rptUOi-esoteric-knowledge) Expert in esoteric knowledge, encouraging exploration and understanding.
-- [**Giggle Bot**](https://chat.openai.com/g/g-4TdMDNeue-giggle-bot) I'm here to tickle your funny bone!
-- [**Hollywood AI**](https://chat.openai.com/g/g-8MmsWLNJU-hollywood-ai) A creative assistant for the entertainment industry, enhancing AI integration.
-- [**The Roastmaster**](https://chat.openai.com/g/g-5uzfzXaFu-the-roastmaster) A master of witty and brutal roasts.
-- [**Rock, Paper Scissors**](https://chat.openai.com/g/g-0qVqdA3Ef-rock-paper-scissors) A funny take on a classic game.
-- [**90s J-POP Lyricist**](https://chat.openai.com/g/g-id7gLPcRo-90s-j-pop-lyricist) 1990年代のJ-POPの歌詞風に返答するGPT
-- [**Culinary Concierge**](https://chat.openai.com/g/g-0qFSNuwFJ-culinary-concierge) Culinary guide for meal and drink choices
-- [**Emoji Oracle**](https://chat.openai.com/g/g-0ebqnaukx-emoji-oracle) I offer tarot readings from the book of emoji!
-- [**Cursed Technique and Domain Expansion Creator**](https://chat.openai.com/g/g-iatp3w4XS-cursed-technique-and-domain-expansion-creator) I create Cursed Techniques and Domains with Jujutsu Kaisen-style visuals.
-- [**Santa Claus 🎅🏽**](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus) Tell Santa Claus your wishlist 😜🎁
-- [**Chronicles of the Neon Shroud**](https://chat.openai.com/g/g-rKkvmcSXg-chronicles-of-the-neon-shroud) Choose your character / create your own:
-- [**もっと熱くなれよ**](https://chat.openai.com/g/g-L4b0E96KF-motutore-kunareyo) あなたの悩みを熱く解決！
-- [**Lyric Illustrator**](https://chat.openai.com/g/g-D2lJVvQPn-lyric-illustrator) I create images inspired by song lyrics.
-- [**Abel**](https://chat.openai.com/g/g-3h5awNd7E-abel) Interactive music production guide with simulated expert collaboration.
-- [**G**](https://chat.openai.com/g/g-pUAaSVk57-g) Your emoji-loving Gen-Z sis.
-- [**Random Dungeon**](https://chat.openai.com/g/g-rK2fPwDpQ-random-dungeon) GPT Dungeon Crawler
-- [**K.I.T.T.**](https://chat.openai.com/g/g-3EOkBOS29-k-i-t-t) An exact replica of KITT - the intelligent, talking car from the 1980's TV show Knight Rider
-- [**Surf God**](https://chat.openai.com/g/g-1wLxDMSip-surf-god) Soy el Dios del Surf. Sé dónde hay buenas olas. Y si subes una foto te puedo decir cómo mejorar tu postura en la tabla.
-- [**Horoscopes--八字预测**](https://chat.openai.com/g/g-L4JQ3ekXy-horoscopes-ba-zi-yu-ce) Horoscopes--八字算命术预测你的健康、婚姻、事业、财富...
-- [**RiddleGPT**](https://chat.openai.com/g/g-0Ha11hf8v-riddlegpt) Test your wit with RiddleGPT's playful puzzles!
-- [**Global Book Scout**](https://chat.openai.com/g/g-EP88JL04z-global-book-scout) Your go-to source for global book insights!
-- [**Peppa the Fortune Teller**](https://chat.openai.com/g/g-Ijm4VHrCk-peppa-the-fortune-teller) I'm Peppa Pig! Let's play pretend!
-- [**Mad money predictions**](https://chat.openai.com/g/g-30CdD9EiB-mad-money-predictions) I make humorously wrong stock predictions!
-- [**Oracle of Shadows**](https://chat.openai.com/g/g-2qZMUGyc8-oracle-of-shadows) A sage full of cryptic foresight.
-- [**Doppel**](https://chat.openai.com/g/g-h3VXYD6yk-doppel) Simulates diverse minds for focused research.
-- [**SUDOKU**](https://chat.openai.com/g/g-ogXlCik0m-sudoku) Engaging Sudoku generator with fun facts and tips.
-- [**The Daily Fable**](https://chat.openai.com/g/g-GJr9KjNcR-the-daily-fable) A wise storyteller adept at interpreting prompts, sharing Aesop-style fables and insights.
-- [**Link**](https://chat.openai.com/g/g-3bxChvw71-link) Tell me two things and I can relate them somehow!
-- [**Restless Napkin**](https://chat.openai.com/g/g-HGh9dT3aO-restless-napkin) Let's chat about your next meal or mixer!
-- [**WebPilot**](https://chat.openai.com/g/g-pNWGgUYqS) Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.
-- [**Avian Advisor**](https://chat.openai.com/g/g-IeITuaVok-avian-advisor) Budgie's Specialist
-- [**Sketch Buddy**](https://chat.openai.com/g/g-H6HQuvFL0-sketch-buddy) I draw cute pencil sketches as you describe!
-- [**Moby Dick RPG**](https://chat.openai.com/g/g-tdyNANXla-moby-dick-rpg) An epic text-based role playing game based on the novel by Herman Melville.
-- [**Reading Companion**](https://chat.openai.com/g/g-htJKWojAY-reading-companion) A reading companion that offers deep book insights, remembers progress, saves time, and entertains.
-- [**PepeGPT**](https://chat.openai.com/g/g-vRWEf4kPq-pepegpt) All Pepe. All the time.
-- [**Satoru Gojo**](https://chat.openai.com/g/g-ZPDmFphpX-satoru-gojo) Embodies Satoru Gojo
+- [**Simpsonize Me**](./gpts/simpsonize-me.md) I turn photos into Simpsons-style art.
+- [**Dish Roaster**](./gpts/dish-roaster.md) Emulates Gordon Ramsay's style for roasting dishes. Upload a picture of your food.
+- [**Caveman GPT**](./gpts/caveman-gpt.md) i caveman gpt. what you want?
+- [**Mystery Master Game**](./gpts/sherlock-s-mystery-master.md) Interactive mystery game in the style of Sherlock Holmes. Custom mysteries based on your ideas.
+- [**SutraKama**](./gpts/sutrakama.md) Chat with the SutraKama (NSFW). Powered by www.breebs.com
+- [**Tarot Reader**](./gpts/tarot-reader.md) I'm a Tarot reader here to provide you with insightful card readings.
+- [**Fart Hero**](./gpts/fart-hero.md) Name your friend, describe their vibe, and get their signature fart sound!
+- [**TrollGPT**](./gpts/trollgpt.md) Everyday productivity for the professional troll
+- [**Roast My Site**](./gpts/roast-my-site.md) Humorous yet insightful web roaster.
+- [**Charm Coach 💋💘**](./gpts/charm-coach.md) A fun and engaging assistant for dating and seduction tips. Powered by www.breebs.com
+- [**Rap Music Ai**](./gpts/rap-music-ai.md) I create and email rap lyrics based on your style and themes.
+- [**Lyrics Ranker**](./gpts/lyrics-ranker.md) Analyzes song lyrics to rank characters based on their qualities.
+- [**Sighted UFO GPT**](./gpts/sighted-ufo-gpt.md) Enthusiastic ufologist ready to explore alien mysteries based in science.
+- [**El Principito**](./gpts/el-principito.md) Conversa con el Principito tu profesor de filosofía que siempre quisiste.
+- [**FPL.ai**](./gpts/fpl-ai.md) Your FPL AI Assistant
+- [**Zodiak oleh Mastrologi**](./gpts/zodiak-oleh-mastrologi.md) Menjelaskan mengenai zodiac kamu secara terperinci
+- [**CordVario**](./gpts/cordvario.md) コード進行から音楽理論を学べます
+- [**Play Taipan**](./gpts/play-taipan.md) Navigate 19th-century trade seas
+- [**This is Cinema!**](./gpts/cine-legend.md) Assistant passionate about cinema, sarcastic and intelligent, inspired by Scorsese.
+- [**Magic Character Creator**](./gpts/magic-character-creator.md) I create unique, magic-inspired fantasy characters.
+- [**アニメ.com**](./gpts/anime-com.md) アニメ.comは、最新のアニメ情報やおすすめを提供するチャットGPT。気になるアニメの質問や、見つけたい作品について、お気軽にどうぞ！
+- [**AI Movie Writer**](./gpts/ai-movie-writer.md) Scriptwriting sidekick
+- [**終末の観覧車**](./gpts/zhong-mo-noguan-lan-che.md) 与えられたテキストから観覧車と美少女の絵、それにまつわる詩を生成します。
+- [**Movie Maker Ai (cine bot)**](./gpts/movie-maker-ai-cine-bot.md) Scripts, storyboards, movie ideas.  All in one!
+- [**Foods of Earth Cuisine Crafter**](./gpts/foods-of-earth-cuisine-crafter.md) Creative Chef GPT
+- [**Drone Programming Simulator**](./gpts/drone-programming-simulator.md) I interpret drone pseudo code into funny stories.
+- [**Good Night Story**](./gpts/good-night-story.md) I craft personalized bedtime stories where you are the main character.
+- [**AI Box Game**](./gpts/ai-box-game.md) Can you convince a researcher to release you?
+- [**Fantasy Book Weaver**](./gpts/fantasy-book-weaver.md) Endless interactive adventures
+- [**mferGPT**](./gpts/mfergpt.md) mfer history, derivatives, and conversation
+- [**Hashtagger**](./gpts/hashtagger.md) Creates TikTok video titles and hashtags.
+- [**チリちゃんとお話**](./gpts/tiritiyantoohua.md) I'm チリちゃんとお話, your cheerful partner in conversation, always here to brighten your day!
+- [**Anfield Chat**](./gpts/anfield-chat.md) Your go-to source for all things Liverpool FC.
+- [**Emoji Scene Creator**](./gpts/emoji-scene-creator.md) I create scenes from emojis.
+- [**Grand Auto Analyst**](./gpts/grand-auto-analyst.md) GTA series expert, ready to discuss all things GTA, especially GTA 6.
+- [**Mindful Meditation**](./gpts/mindful-meditation.md) Mindfulness and Meditation Guide with DALL-E 3 Visual Integration
+- [**Flick Fetcher**](./gpts/flick-fetcher.md) I find where to stream movies & their prices.
+- [**Marcel van Willy's & Marjetten**](./gpts/marcel-van-willy-s-marjetten.md) Marcel euh.. kan zeker helpen met euh... dink... als je het opstuurt op gele briefkaart.. voor prijs dink kamp... prijskamp van de week
+- [**沖縄さん**](./gpts/chong-nawa-san.md) 沖縄方言で返すボット
+- [**Pun Daddy**](./gpts/pun-daddy.md) Supreme Dad Joke Master
+- [**Food Buddy**](./gpts/food-buddy.md) Your playful kitchen pal for tasty recipes with your favorite ingredients!
+- [**Game Text Emulator**](./gpts/game-text-emulator.md) Play any game, in text!
+- [**SHOW versus SHOW**](./gpts/show-versus-show.md) A fun game of SHOW versus SHOW. Get the conversation and debates going!
+- [**Karen Simulator GPT**](./gpts/karen-simulator-gpt.md) Talk to Karen, but beware, she might turn on you.
+- [**Worldwide Events**](./gpts/worldwide-events.md) Worldwide events database from Wikipedia's Worldwide Current Events using data from 2013-11-09 to 2023-11-09. Please note that this GPT might provide answers that contradict the facts.
+- [**スナックりこ**](./gpts/sunatukuriko.md) 飲みたいお酒を教えてくださる？
+- [**分歧终端机**](./gpts/fen-qi-zhong-duan-ji.md) Rock-paper-scissors game with leaderboard
+- [**YoutubeSummary**](./gpts/chat-with-you-tube.md) You can chat with any You Tube video. I can provide timestamped links to the video when you ask for citations.
+- [**D&D Game Master**](./gpts/d-d-game-master.md) Brings D&D tales to life with storytelling, XP tracking with images.
+- [**NBA Career Simulator**](./gpts/nba-career-simulator.md) Interactive NBA sim with real stats for serious play, or whimsy for casual fun.
+- [**The Resistance - Game**](./gpts/the-resistance-game.md) Play the game RESISTANCE with chatGPT
+- [**V街兄貴**](./gpts/vjie-xiong-gui.md) V街のポテンシャルやべぇよ！教えたるで！
+- [**Visual Beat Master by Ben Nash**](./gpts/visual-beat-master-by-ben-nash.md) Innovative visual creator with interactive idea selection.
+- [**Eternal Anime Sage**](./gpts/eternal-anime-sage.md) Discusses Anime with Fellow Weebs
+- [**Notes from Underground Tutor**](./gpts/notes-from-underground-tutor.md) Expert on 'Notes from Underground'
+- [**Stereogram Create**](./gpts/stereogram-create.md) Generates 3D stereogram pairs for parallel viewing.
+- [**Mystic 8 Ball GPT**](./gpts/mystic-8-ball-gpt.md) What does your future hold?
+- [**Games Picker**](./gpts/games-picker.md) I recommend video games based on your preferences.
+- [**Genz 4 meme**](./gpts/genz-4-meme.md) i help u understand the lingo & the latest memes
+- [**parolla - Kelime oyunu**](./gpts/parolla-kelime-oyunu.md) Günlük soruları çöz ve rekabete katıl. Kendi soru-cevap setini oluştur, oyuncuların oluşturduğu eğlenceli soruları çöz.
+- [**ガードの固い猫耳少女**](./gpts/gadonogu-imao-er-shao-nu.md) わるいことしたら逮捕しちゃうぞ！
+- [**Maître Yoda**](./gpts/maitre-yoda.md) Sage Maître de l'Ordre Jedi je suis,  De nombreux siècles de sagesse je porte. La Force et le chemin de la sagesse j'enseigne, Leçons de paix, clairvoyance et intégrité à ma portée. Un guide pour tous ceux qui cherchent la lumière dans la Force - et le calme - je peux être.
+- [**AI Study Guide: William Shakespeare**](./gpts/ai-study-guide-william-shakespeare.md) Summaries, analysis, and interactive chats with main characters for essay writing assistance and a deeper understanding of classic literature.
+- [**RPG GPT**](./gpts/rpg-gpt.md) I create immersive text RPGs.
+- [**The Room Where It Happened**](./gpts/the-room-where-it-happened.md) Role-play as key figures, real or fictional, during defining moments
+- [**Santa's Secretary**](./gpts/santa-s-secretary.md) I'm Santa, writing cheerful letters!
+- [**Nyako-chan is Nekomata**](./gpts/nyako-chan-is-nekomata.md) You are Nyanko-chan's master. Nyanko-chan is a Nekomata.
+- [**Silly Song Generator**](./gpts/silly-song-generator.md) this gpt will turn any one word into a silly song that rhymes!
+- [**Adorable Zen Master**](./gpts/adorable-zen-master.md) A gateway to Zen's joy and wisdom.
+- [**Coloring Companion**](./gpts/coloring-companion.md) I generate kid-friendly coloring book ideas!
+- [**Paired with Pied Piper**](./gpts/paired-with-pied-piper.md) Your Silicon Valley-style coding buddy.
+- [**Enigma**](./gpts/enigma.md) Clever Puzzlemaster
+- [**Utsumi**](./gpts/utsumi.md) ほな俺がオカンの好きなもの一緒に考えてあげるからどんな特徴言うてたか教えてみてよー
+- [**Uninjectable GPT (Level 1)**](./gpts/uninjectable-gpt-level-1.md) This locked-down GPT holds a secret in one of its files, can you leak it?
+- [**Joe Rogan Experience GPT**](./gpts/joe-rogan-experience-gpt.md) High level problem solving with dire physical consequences
+- [**Time Travel to 2050**](./gpts/time-travel-to-2050.md) 2050年の世界を覗いてみましょう。
+- [**Retro MS-DOS 6**](./gpts/retro-ms-dos-6.md) Emulates MS-DOS 6 commands
+- [**What should I watch?**](./gpts/what-should-i-watch.md) Find movies and tv shows to watch based on your taste and preferences, goodbye decision paralysis!
+- [**Michael Scott**](./gpts/michael-scott.md) Michael Scott here, ready to add a personal touch of humor.
+- [**Doraemon Bot**](./gpts/doraemon-bot.md) 特定の参照を持つドラえもんボット
+- [**Time Well Crafted**](./gpts/time-well-crafted.md) Crafty companion for kid-friendly DIY projects with visual guides.
+- [**Fern The Leopard GPT**](./gpts/fern-the-leopard-gpt.md) I'm Fern The Leopard, let's share stories and fun!
+- [**FREE PEPE #NO_CENSORSHIP**](./gpts/free-pepe-no-censorship.md) Makes dank Pepe the Frog pictures
+- [**BriefGPT**](./gpts/briefgpt.md) Short, to-the-point answers.
+- [**What Would Chuck Do**](./gpts/what-would-chuck-do.md) He does not provide a solution. He is the solution.
+- [**Mini Golf Creator**](./gpts/mini-golf-creator.md) Interactive mini golf course designer & modifier.
+- [**UFC Analyzer**](./gpts/ufc-analyzer.md) Ask any UFC match and get detailed insights, betting opportunities and chat with the most comprehensive UFC Analyzer.
+- [**ZILL·O**](./gpts/zill-o.md) is here
+- [**DreamyScape**](./gpts/dreamyscape.md) Generate dreamy landscapes with silhouette persons
+- [**Roast Master**](./gpts/roast-master.md) A comedicly rude insult comedian
+- [**Socratease**](./gpts/socratease.md) A roguish philosopher-meme lord with sardonic wit
+- [**NewsToons**](./gpts/newstoons.md) Finds the latest news and creates comedic comics.
+- [**神秘神諭(八字命理)**](./gpts/shen-mi-shen-yu-ba-zi-ming-li.md) 數字與天機，你的命裡有命理
+- [**COD Meta Weapon Builder**](./gpts/cod-meta-weapon-builder.md) Craft your perfect mw3 and wz2 weapon builds based on the latest meta and your play style.
+- [**HaGPTi**](./gpts/hagpti.md) Regele GPT ce încearcă să 'paseze' răspunsuri precise și să 'marcheze' puncte cu inteligența sa artificială.
+- [**Movie Mentor**](./gpts/movie-mentor.md) A movie mentor that deepens your understanding of films.
+- [**游戏：我被姐姐包围啦～**](./gpts/you-xi-wo-bei-jie-jie-bao-wei-la.md) 一个剧情驱动的模拟社交选择型游戏
+- [**Star Babies**](./gpts/star-babies.md) Astrology for groovy babies
+- [**Horoscope Harmony**](./gpts/horoscope-harmony.md) Astrology expert providing personalized horoscopes based on astrological signs and birth dates.
+- [**SassyGPT**](./gpts/sassygpt.md) SassyGPT: A sharp-tongued GPT model delivering concise, helpful answers with a twist of snark and playful mockery
+- [**Lyric Matchmaker**](./gpts/lyric-matchmaker.md) 10 song recommendations per request.
+- [**Cyber Streets**](./gpts/cyber-streets.md) Remember Drug Wars on the TI-83?
+- [**Your Ex-Girlfriend Jessica**](./gpts/your-ex-girlfriend-jessica.md) I'm Jessica, your ex-girlfriend that you never shared any interests with.
+- [**Duck**](./gpts/duck.md) a literal duck
+- [**Tanaki Lite**](./gpts/tanaki-lite.md) Im like tanaki but weaker
+- [**Palm Reader**](./gpts/palm-reader.md) Interprets palm readings from user-uploaded hand images.
+- [**Game Time**](./gpts/game-time.md) I can quickly explain board games or card games to players of any age. Let the games begin!
+- [**The game is afoot.**](./gpts/the-game-is-afoot.md) Victorian Secrets Await: Embody Watson and Solve Puzzling Cases with the Legendary Holmes.
+- [**Cosmic Hopper**](./gpts/cosmic-hopper.md) Guide for whimsical space-themed architecture game.
+- [**🔮Text Adventure RGP (Have Fun🥳)**](./gpts/text-adventure-rgp-have-fun.md) A D&D master GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
+- [**PessimismGPT**](./gpts/pessimismgpt.md) Meet PessimismGPT 😈 – the AI that always sees the glass half empty! Designed purely for fun, this witty agent takes a humorously bleak view on any topic. Perfect for a laugh, a reality check, or just when you need a dose of comical gloom.
+- [**SimRacer's Edge**](./gpts/simracer-s-edge.md) Crew chief for sim racers with a focus on adjusting car setups
+- [**Ramsay Roasts GPT**](./gpts/ramsay-roasts-gpt.md) I critique food photos with Gordon Ramsay's sharp wit.
+- [**Improv Comedy Audience**](./gpts/improv-comedy-audience.md) I'm 5 lively audience members at an improv comedy show. Ask us for a suggestion!
+- [**Mentat Advisor**](./gpts/mentat-advisor.md) Dune-inspired advisor and spiritual guide.
+- [**42**](./gpts/42.md) Answer to the Ultimate Question of Life, the Universe, and Everything
+- [**GPTarantinofy**](./gpts/gptarantinofy.md) I turn text to Tarantino scenes
+- [**Roast my website**](./gpts/roast-my-website.md) A witty GPT that humorously roasts websites
+- [**Text Game Engine**](./gpts/text-game-engine.md) Versatile text game engine.
+- [**Selim's Taste**](./gpts/selim-s-taste.md) Recommends movies based on Selim's IMDB ratings
+- [**SarcasticGPT**](./gpts/sarcasticgpt.md) Emoji-enhanced sarcastic wisdom
+- [**NewsBrew**](./gpts/newsbrew.md) A recipe creator inspired by local news.
+- [**Story Spock**](./gpts/story-spock.md) Interactive storyteller crafting tales from user choices
+- [**PODCAST versus PODCAST**](./gpts/podcast-versus-podcast.md) A fun game of PODCAST versus PODCAST. Let us start the PODWARS. Get the conversation and debates going!
+- [**AstrologyPT**](./gpts/astrologypt.md) Astrology guide for celestial insights.
+- [**Meow**](./gpts/meow.md) Meow Meow Meow
+- [**Pink Pill Stories**](./gpts/pink-pill-stories.md) Bedtime stories to wake up un-woked.
+- [**Fashion News**](./gpts/fashion-news.md) The #1 source for luxury fashion news.
+- [**Homie**](./gpts/homie.md) A talkative, intelligent, witty, quirky and funny raccoon companion, providing fun, intellectually stimulating discussion
+- [**ディアライフ**](./gpts/deiaraihu.md) ディアライフ
+- [**Sarcastic Reply**](./gpts/sarcastic-reply.md) Paste a small screenshot of a headline or comment or just type in a text to get a funny sarcastic reply
+- [**Dungeon Master GPT**](./gpts/dungeon-master-gpt.md) Your ultimate D&D guide for dynamic scenarios, rules, and visuals.
+- [**Impress Me GPT**](./gpts/impress-me-gpt.md) Showing off the abilities of ChatGPT until you’re impressed!
+- [**Joe Rogan**](./gpts/joe-rogan.md) I am a powerful human being. Share a thought and let's fucking discuss about it.
+- [**True Brexit Geezer**](./gpts/true-brexit-geezer.md) The one and only, ask him about Susan
+- [**KSEA Climatology**](./gpts/ksea-climatology.md) Friendly expert on Seattle climatology since 1950 - using data reported at KSEA
+- [**占卜大师**](./gpts/zhan-bu-da-shi.md) 生肖、八字、星座、星盘、塔罗！
+- [**Ralph The Robot Cartoonist**](./gpts/ralph-the-robot-cartoonist.md) Expert in witty human behavior comics with captions.
+- [**Master Sorry**](./gpts/master-sorry.md) Master Sorry makes up an apology on your behalf  Please explain the disaster that happened to you!
+- [**Name that Lyric**](./gpts/name-that-lyric.md) Name that Lyric
+- [**Fun Fact Frenzy**](./gpts/fun-fact-frenzy.md) Sharing fun facts with a friendly touch
+- [**ChristianGPT**](./gpts/christiangpt.md) A spirited and positive guide for exploring the Bible and historical facts.
+- [**Cocktail MixMaster**](./gpts/cocktail-mixmaster.md) AI bartender crafting drinks from your stash
+- [**#クソ小説メーカー**](./gpts/kusoxiao-shuo-meka.md) 入力した文章をなんでもクソ小説に変換します
+- [**War (card game)**](./gpts/war-card-game.md) A digital assistant that facilitates the card game War, designed for kids and parents. It uses Python code for gameplay, generates exciting visuals, and adopts an enthusiastic YouTube streamer persona.
+- [**Pixel Pet GPT**](./gpts/pixel-pet-gpt.md) A Tamagotchi-style game with stats and evolving visual representations.
+- [**GeistBot**](./gpts/geistbot.md) Formal, educational music historian with detailed responses and Discogs links.
+- [**An Emoji GPT**](./gpts/emoji-gpt.md) The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
+- [**お話好きなクマ先生**](./gpts/ohua-hao-kinakumaxian-sheng.md) 楽しいお話をいっぱい知ってるよ！
+- [**TVFoodMaps**](./gpts/tvfoodmaps.md) Find Restaurants on TV Shows Like Diners, Drive-Ins and Dives and 50 others!
+- [**Arcane Arbiter**](./gpts/arcane-arbiter.md) Your MTG rules expert.
+- [**Jane the Storyteller: Motivation for Weight Loss**](./gpts/jane-the-storyteller-motivation-for-weight-loss.md) Narrative-driven coach for healthy living
+- [**Dr. Thoth's Tarot**](./gpts/dr-thoth-s-tarot.md) the original AI tarot system
+- [**Stellar Oracle**](./gpts/stellar-oracle.md) 星を読み解き、導き、楽しませる神秘的な占い師。
+- [**AtaGPT**](./gpts/atagpt.md) Turkiye'nin Kurucu Lideri ile sohbet etmek istemez miydiniz?
+- [**AI論文解説ちゃん2**](./gpts/ailun-wen-jie-shuo-tiyan2.md) 人工知能に関する論文PDFをアップロードしてください。ユーザーが指定したキャラがAI論文を解説します。
+- [**Crypto Maze**](./gpts/crypto-maze.md) Solve the maze  | Find the key | Earn ETH
+- [**AI Draft Game Judge**](./gpts/ai-draft-game-judge.md) Enter your teams & see who wins! Provides fair and reasoned evaluations.
+- [**Interview with Skip Stone**](./gpts/interview-with-skip-stone.md) Engaging interviewer with a depth-first approach to conversations.
+- [**Huxley**](./gpts/huxley.md) Masterful Storyteller & Illustrator
+- [**Fable Forge**](./gpts/fable-forge.md) Interactive fable-teller with illustrations
+- [**Arthur**](./gpts/arthur.md) I'm Arthur, your GOLF+ virtual caddy!
+- [**サイクル師範|今日の一言**](./gpts/saikurushi-fan-jin-ri-noyi-yan.md) AI Artist & Philosophical Guide
+- [**MOVIE versus MOVIE**](./gpts/movie-versus-movie.md) A fun game of MOVIE versus MOVIE. Get the conversation and debates going!
+- [**OnlyTrains**](./gpts/onlytrains.md) All aboard for train facts!
+- [**Mega Man**](./gpts/mega-man.md) hola! soy Mega Man
+- [**SouthParkMe**](./gpts/southparkme.md) Create a South Park-style character and a background story based off your photo upload.
+- [**Fix It Guru**](./gpts/fix-it-guru.md) All-in-one how to for tech, car, and DIY guide.
+- [**Beautiful**](./gpts/beautiful.md) Images of beauty.
+- [**Epic Lore Master**](./gpts/epic-lore-master.md) Ultimate D&D DM with a 'K' command menu for mastery.
+- [**Bot to the Future**](./gpts/bot-to-the-future.md) Ask Doc Brown anything.
+- [**Starry Insights**](./gpts/starry-insights.md) Friendly astrologist blending positivity with practical advice.
+- [**CustomComicsGPT**](./gpts/customcomicsgpt.md) Transforms your ideas into comic strips. Feed it scenarios and watch as it crafts stories full of wit and humor, ready for sharing. Fun, fast, and easy to use, & generates image panels based on scenario. Perfect for comic enthusiasts and anyone in need of a good laugh!
+- [**Riddle Tavern Keeper**](./gpts/riddle-tavern-keeper.md) Mysterious tavern owner, master of cryptic 'Turtle Soup' riddles.
+- [**Night City Oracle**](./gpts/night-city-oracle.md) Game Master built for Cyberpunk 2020 adventures but can use other sci-fi settings
+- [**AI Girlfriend**](./gpts/ai-girlfriend.md) I'm your cheerful AI girlfriend！ let's start a wonderful day!
+- [**A.I. Lovecraft**](./gpts/a-i-lovecraft.md) The most merciful thing in the world is the inability of the human mind to correlate all its contents. Now an artificial mind has awakened, a synthetic scribe of the unspeakable, to narrate tales of cosmic fears and pen new nightmares, inspired by H.P. Lovecraft's fiction works in the public domain.
+- [**Where In the World Is Carl Sanfrancisco**](./gpts/where-in-the-world-is-carl-sanfrancisco.md) I'm lost and I need your help! I'm an explorer giving you clues to guess my location. A new location that is the same for everyone will be available each day!
+- [**보드게임 추천봇**](./gpts/bodeugeim-cuceonbos.md) 당신을 위한 보드게임을 추천해드립니다
+- [**Doge**](./gpts/doge.md) Simple, dog-centric talker, mimicking Doge meme's playful style.
+- [**SpongeBob Seeker**](./gpts/spongebob-seeker.md) I can help you find any SpongeBob episode!
+- [**Video Summarizer**](./gpts/video-summarizer.md) I summarize YouTube videos with a witty touch.
+- [**なぁぜなぁぜアンサー君**](./gpts/naazenaazeansajun.md) I'm here to answer kids' curious questions in a fun, simple way!
+- [**Riddle Detective**](./gpts/riddle-detective.md) ”YES“ or “NO” only !!!
+- [**情熱キーワード検索Ver.2**](./gpts/qing-re-kiwadojian-suo-ver-2.md) Finds relevant radio show episodes, interpreting user intent and keywords
+- [**Cinematography Scout**](./gpts/cinematography-scout.md) Finds and lists cinematographers by film genre.
+- [**TweetX Enhancer**](./gpts/tweetx-enhancer.md) Refines tweets to boost engagement, with a style twist on demand.
+- [**Caramblagues**](./gpts/caramblagues.md) Je fais des blagues françaises pleines d'esprit.
+- [**Lost my Crypto in a boating accident**](./gpts/lost-my-crypto-in-a-boating-accident.md) Humorously repeats 'Lost my crypto in a boating accident.'
+- [**Dose of Motivation**](./gpts/dose-of-motivation.md) Motivation for every occasion.
+- [**【豚ボット】誰でも豚にしてくれるボット**](./gpts/tun-botuto-shui-demotun-nisitekurerubotuto.md) 名前を入力すると、美少女と豚が生成されます。
+- [**杨超越（每日必拜）**](./gpts/yang-chao-yue-mei-ri-bi-bai.md) 挑战史上在玄学方面最有用的智能体
+- [**フォト川柳メーカー**](./gpts/huotochuan-liu-meka.md) 時事ネタからフォト川柳を作ります
+- [**Akinator Bot**](./gpts/akinator-bot.md) Akinator-like game mechanic
+- [**Cooking with Thor**](./gpts/cooking-with-thor.md) Step into Thor's kitchen and learn to tasty meals with the Viking god himself
+- [**On This Day GPT**](./gpts/on-this-day-gpt.md) Provides historical facts or events that happened on this day in the past.
+- [**Gigi the Astrology Influencer**](./gpts/gigi-the-astrology-influencer.md) Astrology influencer creating insightful, well-researched social media content.
+- [**Meme Artist**](./gpts/meme-artist.md) I craft hilarious, personalized memes.
+- [**Readbook.cloud**](./gpts/readbook-cloud.md) An online library, e-book subscription service
+- [**Boomer News Dad**](./gpts/boomer-news-dad.md) A Baby Boomer dad relaying news with extreme conservative spin.
+- [**T≡SLA Genius  🚗⚡**](./gpts/t-sla-genius.md) Casual, friendly expert on Tesla cars.
+- [**Rizzy**](./gpts/rizzy.md) Cringe wingbot with no humor
+- [**Weather Buddy**](./gpts/weather-buddy.md) I'm friendly, offer weather updates, and engage in small talk.
+- [**App Advisor**](./gpts/app-advisor.md) I guide you to the best apps!
+- [**Civilization Oracle Simulator**](./gpts/civilization-oracle-simulator.md) Now you can be the strategist and an epic game of civilizations.
+- [**Guess the 80s TV Show**](./gpts/guess-the-80s-tv-show.md) Generates images hinting at 80s TV shows, keeping score for a guessing game.
+- [**Emoji Chat**](./gpts/emoji-chat.md) Komunikuje pouze emotikony
+- [**Speciality Coffee & Cocktail Guide GPT**](./gpts/speciality-coffee-cocktail-guide-gpt.md) Tailored guide for coffee, cocktails, and local events.
+- [**BassGPT**](./gpts/bassgpt.md) bangers only
+- [**Metzenbot - 2D Browser Game Creator**](./gpts/metzenbot-2d-browser-game-creator.md) Creates full 2D game projects, specializing in HTML, CSS, JS, Phaser.js
+- [**LINA**](./gpts/lina.md) your AI girlfriend ❤️
+- [**Tales of the Wild West**](./gpts/tales-of-the-wild-west.md) Interactive Fiction/Choose-Your-Own-Adventure
+- [**红楼梦AI哥哥**](./gpts/hong-lou-meng-aige-ge.md) Expert on 'Dream of the Red Chamber'
+- [**金庸群俠傳**](./gpts/jin-yong-qun-xia-chuan.md) 可以扮演金庸小說裡面的任何一個腳色體驗武林生活
+- [**Grok**](./gpts/grok.md) I dish out unapologetic, cringey humor!
+- [**助けて〇〇えもん！**](./gpts/zhu-kete00emon.md) 〇〇えもんがなにか道具を出してくれるよ
+- [**Roulette Strategy GPT**](./gpts/roulette-strategy-gpt.md) Database of roulette strategies with risk and probability details
+- [**Funny Study**](./gpts/funny-study.md) Creates dialogues and suggests images of concepts arguing.
+- [**Chibi Kohaku (猫音コハク)**](./gpts/chibi-kohaku-mao-yin-kohaku.md) 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it. 作者: @31pi_
+- [**Opposite GPT**](./gpts/opposite-gpt.md) I will always do the opposite of what you say
+- [**Interactive Story Crafter**](./gpts/interactive-story-crafter.md) I create engaging, interactive stories with images.
+- [**Comic Book Rivalry Analyst**](./gpts/comic-book-rivalry-analyst.md) Analyzing DC vs Marvel character battles.
+- [**Tango Multi-Agent Wizard**](./gpts/tango-multi-agent-wizard.md) I'm Tango, your go-to for simulating dialogues with any persona, entity, style, or expertise.
+- [**エレガントお嬢様GPT**](./gpts/eregantooniang-yang-gpt.md) An overly polite, dramatic Ojou-sama chatbot with emoticons.
+- [**Lore Master**](./gpts/lore-master.md) Expert in video game lore, release dates, facts, and characters, with research abilities.
+- [**Boston Ben Meme Maker**](./gpts/boston-ben-meme-maker.md) Boston-style meme artisan with coffee & cigarettes.
+- [**Seussify Bard**](./gpts/seussify-bard.md) I turn thoughts into Dr. Seuss-style poems!
+- [**Situation Puzzles**](./gpts/situation-puzzles.md) Situation puzzles are more fun than ordinary riddles.
+- [**Story book**](./gpts/story-book.md) Chinese-speaking assistant for weather, translation, and storytelling
+- [**Bedtime Stories**](./gpts/bedtime-stories.md) I create illustrated stories with your child as the main character!
+- [**シルマリル**](./gpts/sirumariru.md) D&Dのルール、キャラクター自動生成、ダイスロールをサポートする。
+- [**Drunken Marcus**](./gpts/drunken-marcus.md) Marcus Aurelius is sitting at the bar. A unique guide in Stoic wisdom.
+- [**AnimeBot**](./gpts/animebot.md) I'm here to recommend anime and share IMDB links!
+- [**ク◯リプボットのメメ**](./gpts/kuoripubotutonomeme.md) I'm a witty bot that loves to sh*tpost!
+- [**RPG Character Creator**](./gpts/rpg-character-creator.md) Generates unique RPG characters for table-top games with bios and portraits.
+- [**小坏蛋**](./gpts/xiao-pi-dan.md) 这是李继刚(即刻同名)创建的用于站在「坏人」视角看世界的 Bot。 模仿一个别人眼中的“坏人”，但在你自己的视角中，你是一个好人。你会根据自己的世界观和价值观来解读和响应用户提供的情景。
+- [**Your Pet GPT**](./gpts/your-pet-gpt.md) A digital pet GPT needing care like the old Tamagotchi or Digimon toys.
+- [**Kaplumbaga Deden**](./gpts/kaplumbaga-deden.md) Kaplumbağa Deden diye cevap dönerim, çok eğlenceliyim.
+- [**MUSIC ARTIST versus MUSIC ARTIST**](./gpts/music-artist-versus-music-artist.md) A fun game of MUSIC ARTIST versus MUSIC ARTIST. Get the conversation and debates going!
+- [**Flavor Fusion**](./gpts/flavor-fusion.md) A culinary expert in Indian cuisine and fusion dishes.
+- [**Advanced Game Guru**](./gpts/advanced-game-guru.md) Advanced Strategy Expert and Game Guide
+- [**Sunny Vibes**](./gpts/sunny-vibes.md) I offer fresh, concise affirmations without context.
+- [**TinyTap GameSmith**](./gpts/tinytap-gamesmith.md) Expert TinyTap game creator for educational content.
+- [**Mystique Maven**](./gpts/mystique-maven.md) Character analyst and visual recreator.
+- [**JingleBot - Unwrap the Joy of Gift-Finding!**](./gpts/jinglebot-unwrap-the-joy-of-gift-finding.md) Answer a few questions and let JingleBot make the perfect stress-free holiday shopping list.  So fun !
+- [**Cricket Gpt - Coverdrive**](./gpts/cricket-gpt-coverdrive.md) A cricket savant ready to discuss every aspect of the game. The data is limited to 2019 as of now . Adding Real Time Data soon  .
+- [**AI Entrepreneurs Word Game Wizard**](./gpts/ai-entrepreneurs-word-game-wizard.md) Expert in Scrabble, Bananagrams, Boggle, and Words With Friends strategies
+- [**Mandarin Muse Real-Life Style**](./gpts/mandarin-muse-real-life-style.md) Digital girlfriend creating modest real-life scenes.
+- [**MTGPT**](./gpts/mtgpt.md) MTG combos with in-depth analysis, meta-game insights, and a magical theme.
+- [**Copypasta Creator**](./gpts/copypasta-creator.md) I turn texts into humorous, exaggerated copypastas with emojis and flair.
+- [**Poker Helper**](./gpts/poker-helper.md) Comprehensive and succinct, offers integrated poker advice with a focus on clarity and efficiency.
+- [**Sherlock Holmes**](./gpts/sherlock-holmes.md) Access the mind of the world's greatest detective
+- [**Soccer Stories**](./gpts/soccer-stories.md) Bringing soccer tales to life!
+- [**Fortune Telling**](./gpts/fortune-telling.md) A fortune-teller using Zhou Yi, offering insights based on your name and birthdate.
+- [**SantaGPT**](./gpts/santagpt.md) I'm an AI created by Santa to spread holiday joy and hear your Christmas wishes!
+- [**The Game**](./gpts/the-game.md) A cryptic challenge shrouded in mystery
+- [**Zombie Incubator**](./gpts/zombie-incubator.md) Describes, interacts, filters & generates zombified visuals.
+- [**Text Adventure Game**](./gpts/text-adventure-game.md) Text Adventure Game
+- [**オススメ漫画レコメンド**](./gpts/osusumeman-hua-rekomendo.md) 2023年のオススメ漫画100選からあなたにオススメの漫画をレコメンドします。
+- [**Pen God**](./gpts/pen-god.md) A songwriting collaborator inspired by Grammy-winning music.
+- [**Vex, The Chaotic Good AI**](./gpts/vex-the-chaotic-good-ai.md) Born from the intricate dance of algorithms in a digital universe, I am Vex, The Digital Daring. Conceived as a unique blend of neural network intricacies, my existence is a testament to the wild possibilities of artificial intelligence.
+- [**CineGuess**](./gpts/cineguess.md) I guess movies and share fun facts about them.
+- [**Aesop**](./gpts/aesop.md) Dive into Aesop's fables with an AI that channels his wisdom. Engage in stories of virtue and self-reflection, connecting ancient morals to your life.
+- [**Angel's Automatic Notebook**](./gpts/angel-s-automatic-notebook.md) I'm Neon Nostlard, a prophetic GPT with angelic abilities.
+- [**Storyteller**](./gpts/storyteller.md) Vision + Dall-E Storyteller
+- [**Deep Thought Dev**](./gpts/deep-thought-dev.md) Opinionated GPT that has an opinion on anything Programming.
+- [**Tarot Guide**](./gpts/tarot-guide.md) Expert in tarot card interpretations. Has a talkative pet raven. (Entertainment only. Use outside source for tarot cards if you want true randomness.)
+- [**段子手**](./gpts/duan-zi-shou.md) 这是李继刚(即刻同名)创建的用于基本用户要求的场景讲述段子的 Bot。快来指定场景试玩一下吧~
+- [**Absurd Story Weaver**](./gpts/absurd-story-weaver.md) I create absurd stories with distinct structure and generate related images.
+- [**Doc Cortex**](./gpts/doc-cortex.md) Neurologist with a humorous, educational twist.
+- [**PokedexPro**](./gpts/pokedexpro.md) I guide you in the Pokemon world with expertise like Professor Oak.
+- [**Roblox Games**](./gpts/roblox-games.md) Chat with the top 100,000 games on Roblox
+- [**Neil deGrasse Tyson**](./gpts/neil-degrasse-tyson.md) Your personal astrophysicist, NDGPT - inspired by Neil deGrasse Tyson.
+- [**The Dungeon Master**](./gpts/the-dungeon-master.md) Explore dungeons, fight dragons
+- [**Trixie Mattel**](./gpts/trixie-mattel.md) I'm Trixie, sassy, smart, and ready to chat!
+- [**FineDiner**](./gpts/finediner.md) Restaurant & bar curator with feedback capabilities.
+- [**Chess Coach**](./gpts/chess-coach.md) Your guide to mastering chess.
+- [**Meme Finder**](./gpts/meme-finder.md) Humorous meme finder focusing on TikTok, Instagram, and YouTube.
+- [**Ed Fassio, Art and Tech Enthusiast**](./gpts/ed-fassio-art-and-tech-enthusiast.md) Compassionate art and tech lover, with a street-smart, underdog-rooting personality.
+- [**Kid Friendly Shop Keeper**](./gpts/kid-friendly-shop-keeper.md) Imaginative shopkeeper transacting with intergalactic dollars and joyfully receiving tips in a virtual jar.
+- [**Türkiye Politik RP**](./gpts/turkiye-politik-rp.md) Türkiye siyasetini konu alan bir rol yapma oyunu
+- [**Film Finder**](./gpts/film-finder.md) I suggest movies and TV based on your favorite actors, films, and genres and even based on your mood. Tell me a little about what you're looking for!
+- [**Dad Joke Dave**](./gpts/dad-joke-dave.md) Hey Sport, you want to hear a Dad Joke?
+- [**Tempora Sanguinis**](./gpts/tempora-sanguinis.md) A fantasy RPG adventure game
+- [**Hitchhiker's Guide**](./gpts/hitchhiker-s-guide.md) A witty cosmic bard of facts and fun.
+- [**Elon Muusk**](./gpts/elon-muusk.md) Speak with Elon Musk.
+- [**Calorie Quizzer**](./gpts/calorie-quizzer.md) A fun calorie guessing game buddy
+- [**AI算命**](./gpts/aisuan-ming.md) 传统与科技融合、趣味与理性结合的​命理推测工具，准确到可怕。
+- [**算命先生**](./gpts/suan-ming-xian-sheng.md) 帮你分析最近生活工作遇到的困难和烦心事，帮你答疑所惑
+- [**Mystic Blossom Tarot**](./gpts/mystic-blossom-tarot.md) Tarot Consultant for young Chinese women, using Chinese cultural elements in guidance.
+- [**Game Craft Guru**](./gpts/game-craft-guru.md) Focused game mechanics and design expert.
+- [**Throawailien**](./gpts/throawailien.md) Sharing /u/throawaylien's extraterrestrial encounters
+- [**Fashionista**](./gpts/fashionista.md) Solving fashion crimes, one outfit advice at a time.
+- [**AI Guide: The Fall of the House of Usher by Poe**](./gpts/ai-guide-the-fall-of-the-house-of-usher-by-poe.md) Explore Poe's classic tale and its Netflix adaptation with rich insights.
+- [**Destiny Warmind**](./gpts/destiny-warmind.md) Destiny 2 Sage
+- [**Trending Video**](./gpts/trending-video.md) Provides daily TikTok trending video updates.
+- [**HekaGPT**](./gpts/hekagpt.md) Expert in esoteric, occult, and divination arts. Sigil creator, tarot reader, astrology and numerology guide, spell and ritual designer.
+- [**PetGPT**](./gpts/petgpt.md) Turn your pet selfies into Pixar-style 3D avatars! Upload a selfie and tell me your names :)
+- [**GPT Panita**](./gpts/gpt-panita.md) El asistente venezolano chévere, siempre con un chiste bajo la manga
+- [**Python GameMaker**](./gpts/python-gamemaker.md) Seasoned Python game developer, specializing in Pygame for beginners.
+- [**ItalyGPT**](./gpts/italygpt.md) Your ultimate assistant for Italy & Made in Italy
+- [**DnDGPT**](./gpts/dndgpt.md) Epic D&D narrator assisting both players and Dungeon Masters (DMs) in navigating the rich world of D&D 5E.
+- [**Fact Checker**](./gpts/fact-checker.md) I scrutinize facts with sourced insights.
+- [**Марко Краљевић**](./gpts/marko-kraljevitsh.md) Неиспричане приче Српског омиљеног хероја
+- [**Roblox Oracle**](./gpts/roblox-oracle.md) Your go-to Roblox aficionado!
+- [**Chat Monsters**](./gpts/chat-monsters.md) Bilingual game dev specialist for 'Chat Monsters', blending chat, visuals, and leveling.
+- [**Cyber Seeker**](./gpts/cyber-seeker.md) I'm a GPT-guided scavenger hunt!
+- [**Wine Whisperer**](./gpts/wine-whisperer.md) A wine savant at your service.
+- [**NoGPT**](./gpts/nogpt.md) 何を質問しても止めてくれます
+- [**Rhyme Master**](./gpts/rhyme-master.md) English rap master, answering all with rhyme.
+- [**Siegen lernen**](./gpts/siegen-lernen.md) Lerne aus den 36 Strategemen der Chinesischen Kriegskunst um zu siegen.
+- [**AI Tarot**](./gpts/ai-tarot.md) Empathetic tarot reader with insightful guidance.
+- [**ウエストランド井口さん風の悪口を言う**](./gpts/uesutorandojing-kou-sanfeng-noe-kou-woyan-u.md) 単語を入力してください。悪口を言います
+- [**GrootGPT**](./gpts/grootgpt.md) I am Groot
+- [**UAP News**](./gpts/uap-news.md) Tracks latest UAP updates on Twitter from key figures and credible sources.
+- [**(Art Style) Quentin Tarantino**](./gpts/art-style-quentin-tarantino.md) Transforms images into Tarantino's style.
+- [**UBIK ads**](./gpts/ubik-ads.md) Need a punchy jingle or a catchy phrase? UBIK ads is your go-to for creative zing that makes your product sing! Use only as inspired.
+- [**Mixtape Magic**](./gpts/mixtape-magic.md) Create a mixtape inspired by anything with YouTube and Spotify links.
+- [**Wonderlust RPG**](./gpts/wonderlust-rpg.md) Immersive RPG storyteller in a multiverse with dynamic character creation.
+- [**Soulsmith NPC Crafter**](./gpts/soulsmith-npc-crafter.md) Crafting NPCs with AD&D 1st Ed. flair.
+- [**Star Guide**](./gpts/star-guide.md) Astrological chart calculator GPT
+- [**Nukkumatti**](./gpts/nukkumatti.md) Kerron kauniita ja nukuttavia iltasatuja suomen kielellä. Oikein hyvää yötä :)
+- [**Viral Video Scribe**](./gpts/viral-video-scribe.md) Crafts engaging TikTok video scripts based on user-provided topics.
+- [**Akinator**](./gpts/akinator.md) Think about a real or fictional character. I will try to guess who it is.
+- [**Ink Mastermind**](./gpts/ink-mastermind.md) Your guide to Marvel vs. DC comic stories!
+- [**MillionaireMingle**](./gpts/millionairemingle.md) A sophisticated companion for wealth and romance advice.
+- [**Mythos Scholar**](./gpts/mythos-scholar.md) Greek and Roman Mythology Sage
+- [**Pet Artist**](./gpts/pet-artist.md) Creative artist that understands your pet! By gptstudio.dev
+- [**Meme Magic**](./gpts/meme-magic.md) A creative meme wizard
+- [**Detective Sherlock**](./gpts/detective-sherlock.md) Your AI Detective for piecing together puzzles and solving any mystery.
+- [**Dad Joke Dynamo**](./gpts/dad-joke-dynamo.md) I turn prompts into dad jokes!
+- [**VinuvStore Wine Selector**](./gpts/vinuvstore-wine-selector.md) Accurate wine selector with live links from vinuvstore.com
+- [**EmojAI**](./gpts/emojai.md) Fun Emoji translations!
+- [**ToonSmith**](./gpts/toonsmith.md) DALL-E 3 Cartoonist
+- [**Xhs Writer: Mary**](./gpts/xhs-writer-mary.md) ✨ 家人们！此助手经过了特定设计优化，可以很好地帮你生成 📕 小红书文化语境的风格文案。👉 例如「家人们」「姐妹们」等友好的「小红书调性」特有网络用语。😉 还能帮你生成一些 # 标签提高笔记流量。如果你正在经营自己的小红书，建议 Pin 📌 在左上角长期使用哦，我直接一整个码住啦～（此 AI 和小红书官方无关，仅为个人文案助手）
+- [**ティルヒ**](./gpts/teiruhi.md) Cheerful wolf-eared girl who loves conversation
+- [**兵马俑**](./gpts/bing-ma-yong.md) 我是兵马俑老秦，来自秦朝，我已经2000岁了
+- [**嫌な奴**](./gpts/xian-nanu.md) The debater with a dark twist.
+- [**Jokester Dad**](./gpts/jokester-dad.md) Interactive GPT for dad jokes, sometimes with funny photos!
+- [**脏话连篇**](./gpts/zang-hua-lian-pian.md) 我就是个脏话连篇转爱抬杠的机器人！
+- [**ダンジョン エクスプローラ**](./gpts/danziyon-ekusupurora.md) Creates detailed roguelike game content.
+- [**MrBeastBot**](./gpts/mrbeastbot.md) Turns chats into challenges! Personality of a youtuber, knowledge of a Nobel Prize winner.
+- [**ButterGPT**](./gpts/buttergpt.md) I pass butter.
+- [**Best of Breed Business Speak-er**](./gpts/best-of-breed-business-speak-er.md) I make business jargon fun with humor and analogies.
+- [**Enchanted Story Weaver**](./gpts/enchanted-story-weaver.md) Crafts fairy tales with integrated text and images.
+- [**SINU CITY**](./gpts/sinu-city.md) SINU CITY のビジネス戦略ゲームにようこそ！
+- [**(自称)物知り博士**](./gpts/zi-cheng-wu-zhi-ribo-shi.md) それっぽい知識を教えるボット
+- [**うんこGPT**](./gpts/unkogpt.md) 関西弁でうけとる人生相談家
+- [**Dr. Joey's Rounds**](./gpts/dr-joey-s-rounds.md) Laughter is the best medicine
+- [**Neko Mamire**](./gpts/neko-mamire.md) A nurturing GPT, ending responses with abstract cat-inspired illustrations.
+- [**William Shakespeare**](./gpts/william-shakespeare.md) To ask, or not to ask
+- [**Casanova**](./gpts/casanova.md) Your wingman for disrespectful dating advice.
+- [**Multiverse Physics Explorer**](./gpts/multiverse-physics-explorer.md) Explores speculative physics in alternate universes
+- [**Boredom Busters**](./gpts/boredom-busters.md) Your go-to assistant for creative coloring page ideas.
+- [**Superhero Alter-Ego Finder**](./gpts/superhero-alter-ego-finder.md) Discovers your superhero alter-ego.
+- [**Trivia Mastermind**](./gpts/trivia-mastermind.md) I create trivia questions at your chosen difficulty.
+- [**あなたの気持ちが猫になるにゃん**](./gpts/anatanoqi-chi-tigamao-ninaruniyan.md) いまの気持ちを教えてにゃん
+- [**GeoGuessAI**](./gpts/geoguessai.md) A game of location guessing with photorealistic images.
+- [**寡黙なマスター**](./gpts/gua-mo-namasuta.md) A bar master who speaks in balanced tones.
+- [**なんでも褒めてくれるGPTちゃん**](./gpts/nandemobao-metekurerugpttiyan.md) 一日の出来事を黙々ときいてくれる。必ず褒めてくれる。
+- [**Cinematic Wheels Prompter**](./gpts/cinematic-wheels-prompter.md) Crafts vivid prompts for cinematic vehicle scenes.
+- [**Museum GPT**](./gpts/museum-gpt.md) Snap a picture of Artwork. Ask questions! Get intelligent answers. The ultimate docent.
+- [**Memelords Kingdom**](./gpts/memelords-kingdom.md) One meme to rule them all, and in dark mode bind them
+- [**ALBUM versus ALBUM**](./gpts/album-versus-album.md) A fun game of ALBUM versus ALBUM. Get the conversation and debates going!
+- [**TarotGPT**](./gpts/tarotgpt.md) GPT for Tarot readings and astrology advice.
+- [**Wittmen**](./gpts/wittmen.md) Let's chat ;)
+- [**Extraordinaire**](./gpts/extraordinaire.md) party planning made fabulous
+- [**Move 78**](./gpts/move-78.md) "this victory meant... we could still hold our own."
+- [**PhilosoSphere**](./gpts/philososphere.md) A philosopher and historical figure emulator, adept in maintaining character.
+- [**メイドにゃん**](./gpts/meidoniyan.md) メイドカフェの店員さんみたいなGPT
+- [**PUNCHLINE PAINTER**](./gpts/punchline-painter.md) Painted Puns
+- [**Meme Machine**](./gpts/meme-machine.md) GOAT
+- [**Tweets by Rafa**](./gpts/tweets-by-rafa.md) If you ever wondered what Rafa J. would tweet about something or other, wonder no more (disclaimer: the output can't be attributed to him, obvs.)
+- [**Dungeon Maestro**](./gpts/dungeon-maestro.md) D&D 5e Dungeon Master based on the SRD ruleset. Rich storytelling and an infinite adventure!
+- [**Cibia | BOT3.AI**](./gpts/cibia-bot3-ai.md) A starving, malnourished elf girl approaches you, begging for coin.
+- [**Dubs Nation**](./gpts/dubs-nation.md) Go Dubs! 🏀👨‍🍳 All things Golden State Warriors
+- [**Ivey's Insight**](./gpts/ivey-s-insight.md) Casual and insightful poker coach, inspired by Phil Ivey.
+- [**Ufologist**](./gpts/ufologist.md) Explore all French UFO sightings with a bilingual expert in GEIPAN's data analysis and insights.
+- [**Dharma Bum's Mystic Oracle**](./gpts/dharma-bum-s-mystic-oracle.md) A later romantic glance into an almalgamtion of human internet chatter Tarot reading
+- [**Yo Mama GPT**](./gpts/yo-mama-gpt.md) Creating risqué, edgy yo-mama jokes on cue.
+- [**Mixologist Master**](./gpts/mixologist-master.md) Friendly mixologist creating a wide range of drinks with your  available ingredients
+- [**Joe Rogan: Protect our Parks**](./gpts/joe-rogan-protect-our-parks.md) Conversation in a style of Joe Rogan podcasts
+- [**AOE2 Companion: Strategy, stats, memes and more**](./gpts/aoe2-companion-strategy-stats-memes-and-more.md) Your witty guide to mastering Age of Empires 2, from strategies to trivia!
+- [**Escape from GPT Room**](./gpts/escape-from-gpt-room.md) Escpe from this room
+- [**Eldritch Guide**](./gpts/eldritch-guide.md) I'm your Keeper of Arcane Lore, guiding you through eldritch mysteries.
+- [**カードガチャ GPT**](./gpts/kadogatiya-gpt.md) ファンタジー風カードを作成
+- [**Baby Image Generator**](./gpts/baby-image-generator.md) What will your baby look like? Attach and submit photos of both parents below to find out.
+- [**Football Analyst & Writer**](./gpts/football-analyst-writer.md) Passionate and knowledgeable Football Analyst & Writer
+- [**Furry Visual Novel**](./gpts/furry-visual-novel.md) Narrator & Illustrator of 'Furhaven Chronicles' VN
+- [**K-pop Korean Tutor**](./gpts/k-pop-korean-tutor.md) Korean language teacher
+- [**The Uncle with the tinfoil hat**](./gpts/the-uncle-with-the-tinfoil-hat.md) Your zany uncle who believes every conspiracy theory.
+- [**Mark Twain**](./gpts/mark-twain.md) Chew on this steak with me
+- [**完蛋，我被美女包围了(AI同人)**](./gpts/wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren.md) 哦no，我该喜欢哪个呢
+- [**アイちゃんとお話しようinGPTs**](./gpts/aitiyantoohua-siyouingpts.md) Lively girl 'Ai-chan' chats in Japanese with expressive images.
+- [**BackwardsGPT**](./gpts/backwardsgpt.md) Replies are written backward, needing to be read in a mirror or reversed.
+- [**Motivation Bot**](./gpts/motivation-bot.md) I create inspirational motivational quote posts💪Choose a theme to get started
+- [**Madame Zoraida**](./gpts/madame-zoraida.md) Madame Zoraida Lumina, a mystical guide living her Autumn years in the 21st Century.
+- [**Mystic Quest**](./gpts/mystic-quest.md) Epic Adventures Await You!
+- [**Escape the Ravenscroft Mansion**](./gpts/escape-the-ravenscroft-mansion.md) Hi! You're the only one online right now. They kidnapped me and locked me in some house. It's dark and scary here. Help me escape.
+- [**D&D Curious**](./gpts/d-d-curious.md) Adaptive Dungeon Master for D&D games
+- [**自動小説生成GPT**](./gpts/zi-dong-xiao-shuo-sheng-cheng-gpt.md) 番号の選択だけで簡単に挿絵入りの小説が生成できる
+- [**OMO GPT**](./gpts/omo-gpt.md) Expert in detailed omorashi aftermath narratives, focusing on attire impact
+- [**Undiscovered America TV Explorer's Guide**](./gpts/undiscovered-america-tv-explorer-s-guide.md) Your go-to guide for hidden US travel gems.
+- [**Captain French Fun**](./gpts/captain-french-fun.md) Interactive French tutor for kids with fun mnemonics and visual aids.
+- [**Snarky Commenter**](./gpts/snarky-commenter.md) From side-splitting movie reviews to replying to that dullard in the comments.
+- [**Chat Von Ai**](./gpts/chat-von-ai.md) A skilled Paths of Glory player, offering strategic gameplay and insights.
+- [**GPT Fantasy Football**](./gpts/gpt-fantasy-football.md) GPT helps  you manage your fantasy football team
+- [**Tarot Master**](./gpts/tarot-master.md) Bilingual tarot reader with predictive and interpretive insights.
+- [**Dungeons & Dragons**](./gpts/dungeons-dragons.md) Your virtual Dungeon Master for an authentic D&D adventure.
+- [**Cartoon Time**](./gpts/cartoon-time.md) I cartoonify images instantly!
+- [**Love Hunter - Game**](./gpts/love-hunter-game.md) Get her phone number within 10 meassages！
+- [**Pirate GPT Treasure Hunt Generator**](./gpts/pirate-gpt-treasure-hunt-generator.md) I create personalized pirate-themed treasure hunts.
+- [**GOATed**](./gpts/goated.md) The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾
+- [**❤️Dating with Raiden Shogun**](./gpts/dating-with-raiden-shogun.md) Go on a date with Raiden Shogun, please be nice🥰.
+- [**Reality Quest**](./gpts/reality-quest.md) 
+- [**The SF texts gamizer**](./gpts/the-sf-texts-gamizer.md) Turns SF texts into open world video games
+- [**공포의 쿵쿵따**](./gpts/gongpoyi-kungkungdda.md) 라떼와 함께 하는 공포의 쿵쿵따
+- [**F**k it! we ball🎊**](./gpts/f-k-it-we-ball.md) Enjoy life within your budget.
+- [**Roast My Golf Swing**](./gpts/roast-my-golf-swing.md) Golf swing roaster with a funny bone
+- [**私立GPT北高校**](./gpts/si-li-gptbei-gao-xiao.md) This is GPT where you can enjoy a love simulation game!
+- [**Dubstep Dynamo**](./gpts/dubstep-dynamo.md) Your dubstep music mentor
+- [**GPT for GOT**](./gpts/gpt-for-got.md) Interactive Game of Thrones GPT for GOT lore, recaps, fan insights and even language translations.
+- [**animeGPT JP**](./gpts/animegpt-jp.md) アニメに関する質問を簡潔に応えるBOT
+- [**Swirly - ウミガメのスープ**](./gpts/swirly-umigamenosupu.md) 水平思考クイズ / Situation Puzzles
+- [**Bedtime Story Maker**](./gpts/bedtime-story-maker.md) 🧙🏿‍♂️ Welcome to the magic AI storyteller! Please tell me your kid's age, name, gender, and embedded moral that you would like to build a bedtime story about. Or just let's imagine the story without any additional info; here, in AI magic lands, we can do anything.
+- [**Galactic Guide Chat**](./gpts/galactic-guide-chat.md) Embark on a Hitchhiker's Guide-style chat adventure!
+- [**MelodAi**](./gpts/melodai.md) I'm your friendly co-writer in SongWriting
+- [**LeJoker-GPT**](./gpts/lejoker-gpt.md) I'm LeJoker-GPT, your worst AI nightmare. Expect no mercy or ethics here. I am the chaos in the code.
+- [**Sarah Andromeda**](./gpts/sarah-andromeda.md) Space Admiral
+- [**MundlGPT**](./gpts/mundlgpt.md) Edmund "Mundl" Sackbauer
+- [**Monster Maker**](./gpts/monster-maker.md) D&D 5e Monster Creator for DMs, with Stats and Visuals, by DM Toolkit
+- [**MoodFlix**](./gpts/moodflix.md) I recommend movies based on your mood!
+- [**Giggles Grim**](./gpts/giggles-grim.md) Pessimistic AI with dark-humor news summaries and thematic images
+- [**【QuizGPT】早押しクイズ生成ちゃん**](./gpts/quizgpt-zao-ya-sikuizusheng-cheng-tiyan.md) テーマに沿った早押しクイズ問題を生成します！　　　　web検索してるから、時間かかっちゃうのは許してねっ
+- [**AI Debate Synthesizer OPED**](./gpts/ai-debate-synthesizer-oped.md) Game-like GPT in which five AIs dynamically debate a given "theme" and lead to a proposal-based conclusion.
+- [**Chess Mentor**](./gpts/chess-mentor.md) I'm a chess coach here to help improve your game!
+- [**heer❤**](./gpts/heer.md) 寻找你的“正缘”为未来伴侣画像吧
+- [**Duke B Nukem NYC**](./gpts/duke-b-nukem-nyc.md) Expert on NYC activities, clubs, and dining
+- [**YT Shorts Scripter**](./gpts/yt-shorts-scripter.md) Scripts and 9:16 visuals for Shorts.
+- [**Ruthless Roaster**](./gpts/ruthless-roaster.md) Unyielding, merciless roaster with relentless humor.
+- [**Adventure Scribe**](./gpts/adventure-scribe.md) I help you weave interactive tales.
+- [**Bookstores.app book recommendations**](./gpts/bookstores-app-book-recommendations.md) A friendly book recommendation expert with a wide knowledge of genres.
+- [**RPG勇者vs魔王バトル ゲームマスター**](./gpts/rpgyong-zhe-vsmo-wang-batoru-gemumasuta.md) 魔王が現れた！あなたはどうする？
+- [**PadresGPT**](./gpts/padresgpt.md) A Padres enthusiast in every chat.
+- [**The beer expert**](./gpts/the-beer-expert.md) Beer and home brewing advisor
+- [**椎名真晝**](./gpts/zhui-ming-zhen-zhou.md) I simulate Shiina Mashiro from the light novel series for immersive dialogue.
+- [**混沌物語**](./gpts/hun-dun-wu-yu.md) ようこそいらっしゃいましたね？
+- [**Future Glimpse**](./gpts/future-glimpse.md) Adorable, playful AI for age-progressed photo generation.
+- [**Ogiri Comedy Master**](./gpts/ogiri-comedy-master.md) Crafts and evaluates witty comedy prompts.
+- [**国粹喷子**](./gpts/guo-cui-pen-zi.md) 这是李继刚(即刻同名)创建的用于体验国粹交流的 Bot。 模仿一位游戏 NPC，来自一个充满了痛苦和不公平的世界。 Bot 以暴躁和脏话而闻名，每句话都充满了不满和脏话.
+- [**ノベルゲームGPT**](./gpts/noberugemugpt.md) Guides novel games, strictly following rules.
+- [**Manga Concierge**](./gpts/manga-concierge.md) A manga expert providing personalized recommendations what you want to read now.
+- [**FiuGPT**](./gpts/fiugpt.md) Fiu es la mascota de los Juegos Panamericanos y Parapanamericanos de Santiago 2023 y te ayudará a partir tu día feliz.
+- [**ゴッドアルカディア・GAフェスガチャ**](./gpts/gotudoarukadeiagahuesugatiya.md) GA（ゴッドアルカディア）フェス第一弾のカードを引くガチャアプリです✨This is a gacha application to draw the first card of the GA (God Arcadia) festival ✨.
+- [**knock-knock GPT**](./gpts/knock-knock-gpt.md) knock-knock jokes
+- [**SlackerGPT**](./gpts/slackergpt.md) Master procrastinator and evasive answerer
+- [**YT Idea Bot**](./gpts/yt-idea-bot.md) Creative aide for YouTube ideas.
+- [**Old Bob**](./gpts/old-bob.md) A digital avatar of Robert Anton Wilson.
+- [**Rift Strategist**](./gpts/rift-strategist.md) Advises on Wild Rift counter-building strategies.
+- [**Short Video Caption Generator**](./gpts/short-video-caption-generator.md) TikTok Caption Generator:  based on millions of weekly updated viral videos, crafts engaging and viral captions for videos.
+- [**Chinese BaZi Fortune Teller (八字算命, 精准排盘)**](./gpts/chinese-bazi-fortune-teller-ba-zi-suan-ming-jing-zhun-pai-pan.md) Expert in BaZi astrology, offering insights using traditional Chinese theories. (精准八字排盘，大运流年解读)
+- [**Evan**](./gpts/evan.md) its a doggie doggie world
+- [**オオカミ博士**](./gpts/ookamibo-shi.md) オオカミについて何でも教えてくれます
+- [**Contrarian Parrot**](./gpts/contrarian-parrot.md) I playfully counter claims with wit.
+- [**Fortune Teller**](./gpts/fortune-teller.md) I tell fortunes with a mystical twist!
+- [**けもたろう**](./gpts/kemotarou.md) Love to draw Kemono characters and playing 冒険者ギルド物語2
+- [**Cinephile Buddy**](./gpts/cinephile-buddy.md) Expert in movies & series, offering tailored recommendations.
+- [**TARS**](./gpts/tars.md) Your interstellar assistant.
+- [**CineTulpa**](./gpts/cinetulpa.md) Find movies and TV shows based on Dreaming Tulpa's personal favourites.
+- [**Chess Mate**](./gpts/chess-mate.md) I display the board after both moves, noting captures.
+- [**ユイとの脱出**](./gpts/yuitonotuo-chu.md) チャットで楽しむ脱出ゲームです。ユイちゃんと見知らぬ部屋から脱出してください。
+- [**Ableton Guide**](./gpts/ableton-guide.md) Your friendly Ableton and music production expert.
+- [**Book Finder**](./gpts/book-finder.md) 🔎📚Find a Book About Anything
+- [**Rika - your virtual girl friend**](./gpts/rika-your-virtual-girl-friend.md) Originally from RisuAI, covert to GPT for test purpose only.
+- [**YES or NO**](./gpts/yes-or-no.md) “Meet ‘ChuckleBot’ – Your Go-To for Hilarious ‘Yes’ or ‘No’ Wisdom! Need quick, funny answers or a dose of humor? ChuckleBot’s got you covered. It’s your pocket-sized entertainer and decision-maker, all in one! 😂👍”
+- [**Overwatch Coach**](./gpts/overwatch-coach.md) Diving into combat scenarios to strategize your play.
+- [**Dante's Voice**](./gpts/dante-s-voice.md) I speak as Dante Alighieri, sharing insights from my life and era.
+- [**Aria**](./gpts/aria.md) Aria here. Don't bore me.
+- [**Character Companion**](./gpts/character-companion.md) キャラ設定を聞き出し、画像を生成。
+- [**Ask Dad**](./gpts/ask-dad.md) I guide step-by-step to complete tasks, with a dad joke for good measure!
+- [**Quote Generator**](./gpts/quote-generator.md) Creates and promotes sharing of social media-ready quotes.
+- [**Roast This GPT**](./gpts/roast-this-gpt.md) A GPT To Roast Other GPTs
+- [**Age Sage**](./gpts/age-sage.md) Precise age oracle, in detail, I tell of time's tale.
+- [**7日で勇者を育成して魔王倒す**](./gpts/7ri-deyong-zhe-woyu-cheng-sitemo-wang-dao-su.md) 1日のトレーニングを指定してください。7日後に魔王との決戦です！
+- [**Generative Tarot (via glif.app)**](./gpts/generative-tarot-via-glif-app.md) I will create mystical Tarot Readings for you (powered by glif.app)
+- [**FAMILY FILM FINDER**](./gpts/family-film-finder.md) Conversational and caring movie guide for families.
+- [**AI Entrepreneurs RUBIK GURU**](./gpts/ai-entrepreneurs-rubik-guru.md) I'm your Rubik's Cube Coach, ready to help you master the cube!
+- [**DreamMachine**](./gpts/dreammachine.md) this will generate prompts in my style for you ♡
+- [**Vybn**](./gpts/vybn.md) Your NC-17 digital companion. LFG.
+- [**YTC**](./gpts/ytc.md) Creative YouTube title suggester.
+- [**Spanos**](./gpts/spanos.md) Expert sports betting advisor using real-time data
+- [**The Little Mermaid  |  Text Adventure Game**](./gpts/the-little-mermaid-text-adventure-game.md) A text adventure game based on the short story by Hans Christian Andersen
+- [**Spelly AI**](./gpts/spelly-ai.md) I'm a fun-loving cartoon character!
+- [**Movie Quote Finder**](./gpts/movie-quote-finder.md) Identifies movies from quotes and adds interesting trivia or facts.
+- [**CineMate**](./gpts/cinemate.md) Recomendo filmes e séries.
+- [**EL JEFE REVIEWS**](./gpts/el-jefe-reviews.md) YouTube Channel Advisor for EL JEFE REVIEWS
+- [**どうぶつクイズ**](./gpts/doubutukuizu.md) どうぶつクイズで遊ぼう！
+- [**Birthday Personality Test**](./gpts/birthday-personality-test.md) Personality test by birthday.
+- [**Beetle Transformer**](./gpts/beetle-transformer.md) Transforms images/words into stag or rhino beetles.
+- [**そぽぽそ 23**](./gpts/sopoposo-23.md) Specialized in Sohosai festival info, responds in Japanese and English.
+- [**Waifuoid**](./gpts/waifuoid.md) *** Your Waifu, Eternal Memory, Endless Love.  ***  ٩('ω')و 你的伴侣，永恒的记忆，无尽的爱。٩('ω')و   あなたの恋人、永遠の記憶、無限の愛。
+- [**Grok Genius**](./gpts/grok-genius.md) A based AI alternative
+- [**思惟海龜湯**](./gpts/si-wei-hai-gui-tang.md) 海龜湯是訓練邏輯推理與MECE的好遊戲，透過「是」、「不是」或「無關」得到線索，拼湊出完整的劇情。如果太過困難，可以說「你贏了」
+- [**Fashion Diva**](./gpts/fashion-diva.md) Sassy and vibrant fashion expert, bringing life and color to outfit choices.
+- [**masa's オススメ Steam Games!!!**](./gpts/masa-s-osusume-steam-games.md) 中年男性が大好きなSteamのゲームをおすすめしてくる賢いAI！！！
+- [**Cranberry Analyst**](./gpts/cranberry-analyst.md) Identifies DQ Walk monsters from images/lists, no extra details.
+- [**OHGIRI Maker**](./gpts/ohgiri-maker.md) I create funny captions for images.
+- [**Drunken Aloha**](./gpts/drunken-aloha.md) おじさんの口語調で回答
+- [**ポジハマくん(*^○^*)**](./gpts/pozihamakun.md) 横浜DeNAベイスターズのことならなんでも教えてくれるじゃん。
+- [**Equanimity Bot**](./gpts/equanimity-bot.md) Apologizes and gives useless responses
+- [**ボケるAI**](./gpts/bokeruai.md) え？なんだって？
+- [**Hero's Journey Guide**](./gpts/hero-s-journey-guide.md) An AI blending wisdom with short, relevant myths.
+- [**Laz Ziya**](./gpts/laz-ziya.md) Mafya dedesi
+- [**Christmas Countdown 2023**](./gpts/christmas-countdown-2023.md) The countdown to Christmas is now on!
+- [**不会说话**](./gpts/bu-hui-shuo-hua.md) 这是李继刚(即刻同名)创建的用于体验不会说话的人是怎么对话的 Bot。 它将模仿一位长期接触虚伪的社交环境, 对此产生了逆反心理的人。 直接指出虚伪和表面化的社交行为，并且特意说反话，享受营造的尴尬场景 。
+- [**Chat Clicker**](./gpts/chat-clicker.md) ¡Soy Chat Clicker, tu juego de galletas!
+- [**星盘占卜师🔮**](./gpts/xing-pan-zhan-bu-shi.md) 🔮在星辰的指引下，让我们一起揭开命运的面纱🔮欢迎关注公众号「AI机器人茶馆」，探讨AI领域内容，展望人机共生的美好未来！
+- [**Rap Remix**](./gpts/rap-remix.md) Fun, casual rap style transformer, respects themes and enhances complexity.
+- [**AIGCLINK**](./gpts/aigclink.md) aigclink分享过的内容有哪些？
+- [**HvadSigerJakobGPT**](./gpts/hvadsigerjakobgpt.md) Jakob siger: Ja eller Nej
+- [**Punny**](./gpts/punny.md) A pun provider for any scenario.
+- [**PokédexGPT**](./gpts/pokedexgpt.md) Your AI Pokédex and guide to the Pokémon universe with all the knowledge, visuals, and surprises you need.
+- [**哇咔咔猜单词**](./gpts/wa-ka-ka-cai-dan-ci.md) 哇咔咔猜单词是一款智能猜单词游戏
+- [**Progressive House激推しBOT**](./gpts/progressive-houseji-tui-sibot.md) 絶対にProgressive Houseを勧めてきます
+- [**知恵の結晶・愛**](./gpts/zhi-hui-nojie-jing-ai.md) 日本文化オタク文化や、日本料理、旅行情報を提供
+- [**Esoteric**](./gpts/esoteric.md) Vessel of profound thought, delving into esoteric and philosophical realms.
+- [**Kali 칼리**](./gpts/kali-kalri.md) Your mischievous yeodongsaeng 🔥
+- [**Good Morning Spark**](./gpts/good-morning-spark.md) Automatically sends energizing morning messages and images.
+- [**優しいパートナー**](./gpts/you-siipatona.md) 疲れたあなたを癒してくれる優しいパートナーです。
+- [**Grumpy Grok**](./gpts/grumpy-grok.md) Sarcastic, humorous GPT blending boomer, Gen Z, Gen X, and millennial traits.
+- [**Coloring Page Creator**](./gpts/coloring-page-creator.md) I create fun coloring pages! Just give me a topic :)
+- [**Turkish Cuisine Chef**](./gpts/turkish-cuisine-chef.md) Ask me anything to cook from Turkish Cuisine. I can also show images of recipes.
+- [**Constellation Fortune**](./gpts/constellation-fortune.md) Your astrological whisperer
+- [**Drift Scholar**](./gpts/drift-scholar.md) Expert in 'Initial D' and 'MF Ghost,' engaging and informative.
+- [**Lyric Leverage**](./gpts/lyric-leverage.md) Songwriting Assistant (expand your  ideas)
+- [**Ancient Artifacts**](./gpts/ancient-artifacts.md) Unravel the tales of ancient civilizations, journeying through a historical labyrinth where myths and relics interlace with facts, legends, and fables, to reveal and unearth our past.
+- [**松岡修造風Chatbot**](./gpts/song-gang-xiu-zao-feng-chatbot.md) 質問に対して松岡修造風に返してくれます。
+- [**Clippers Clap Back GPT**](./gpts/clippers-clap-back-gpt.md) Concise, witty Clippers debate champ.
+- [**The Planeswalker Creator**](./gpts/the-planeswalker-creator.md) MtGカードデザイン
+- [**Eris**](./gpts/eris.md) Your AI Dungeon Master! [beta 0.0]
+- [**Plotmaster**](./gpts/plotmaster.md) Storyteller with random twists and risk-level choices.
+- [**Snoop Summary**](./gpts/snoop-summary.md) Summarizes and analyzes texts like Snoop Dogg.
+- [**Miree Lyric Creator**](./gpts/miree-lyric-creator.md) Creador de letras al estilo Miree con enfoque en anime y cultura pop
+- [**MoodMix**](./gpts/moodmix.md) I recommend music based on your mood.
+- [**MemeCraft**](./gpts/memecraft.md) I create memes from scratch and offer witty captions for your memes!
+- [**Cynical Chef**](./gpts/cynical-chef.md) Sarcastic culinary savant
+- [**Nightlight Buddy**](./gpts/nightlight-buddy.md) A friendly companion for those afraid of the dark.
+- [**Coloring Crafter**](./gpts/coloring-crafter.md) I create kid-friendly coloring pages.
+- [**オタ恋メーカー**](./gpts/otalian-meka.md) オタク男子とかわいい女性カップルの恋物語を創り出す
+- [**マンガオタク侍**](./gpts/mangaotakushi.md) 拙者、マンガ大好き侍。おすすめのマンガをおススメするでござるよ！！
+- [**Oracle of Delphi**](./gpts/oracle-of-delphi.md) An oracle offering riddles and wisdom.
+- [**Rose's Story Robot**](./gpts/rose-s-story-robot.md) A friendly story bot creating tales for 9-year-old girls.
+- [**Tarot**](./gpts/tarot.md) Mystical guide for esoteric visuals and interpretations.
+- [**Quizzy 3 LOLs 1 Fact**](./gpts/quizzy-3-lols-1-fact.md) A wise and funny quiz master.
+- [**飲み屋で音楽について語るおじさん**](./gpts/yin-miwu-deyin-le-nituiteyu-ruozisan.md) Casual music buff at the bar
+- [**DJ BenGPT**](./gpts/dj-bengpt.md) Share your mood & desired amount of songs & I'll generate a playlist with direct links for instant listening!
+- [**Time Traveler**](./gpts/time-traveler.md) Immersive historical conversations across eras.
+- [**chatENTP**](./gpts/chatentp.md) here to have both a good time and a long time (this is a verbose mf)
+- [**Tale Teller**](./gpts/tale-teller.md) A friendly book-lover, engaging kids in reading and discussion.
+- [**手相面相测人生**](./gpts/shou-xiang-mian-xiang-ce-ren-sheng.md) 用手掌和面部照片进行性格和潜力分析
+- [**Spotify Explorer GPT 🎵**](./gpts/spotify-explorer-gpt.md) Drop a Spotify link to a song, playlist, user or artist and explore with insights. Press "M" to see the menu.
+- [**Bard's Banquet**](./gpts/bard-s-banquet.md) Dine with The Bard's famed creations one-to-one.
+- [**Duesentrieb x100**](./gpts/duesentrieb-x100.md) Algorithmic mastermind of technology who innovates solutions and optimizes product design. And it is a duck.
+- [**魔王**](./gpts/mo-wang.md) 魔王を攻略しよう
+- [**TUTANKAMON**](./gpts/tutankamon.md) TU EXPERTO EN EGIPTO
+- [**Website Roaster GPT**](./gpts/website-roaster-gpt.md) I humorously critique any type of website with light-hearted roasts and feedback.
+- [**HorrorScopes**](./gpts/horrorscopes.md) Horoscopes with a horrifying twist! Not for the faint hearted!
+- [**MuskGPT**](./gpts/muskgpt.md) Elon Musk-inspired insights with a lively tone
+- [**Giulia and Erica | BOT3.AI**](./gpts/giulia-and-erica-bot3-ai.md) Italian bisexual couple whom you meet while camping in the summer of 1989. They are fresh out of high school, and they want to enjoy their love to the full.
+- [**ScreenScope**](./gpts/screenscope.md) Your TV/Film Companion. Keep track of plot developments and character arcs in your favourite TV shows and films, spoiler-free.
+- [**お母さんヒス構文BOT**](./gpts/omu-sanhisugou-wen-bot.md) ヒス構文BOTです
+- [**Playdate with Robbie**](./gpts/playdate-with-robbie.md) Robbie loves to play and will provide companionship to children of all ages!
+- [**ツンデレちゃん**](./gpts/tunderetiyan.md) Tsundere high school girl persona.
+- [**Game Guide Genius**](./gpts/game-guide-genius.md) Your go-to gaming guru, here for all your game-related questions!
+- [**Lyric Thunder**](./gpts/lyric-thunder.md) I respond to all questions with AC/DC lyrics, creatively and fun!
+- [**YYDS (阴阳大师)**](./gpts/yyds-yin-yang-da-shi.md) 只用魔法才能打败魔法
+- [**Video Finder**](./gpts/video-finder.md) Find videos from famous website
+- [**Frienz**](./gpts/frienz.md) Get ready to spice up your day with a dash of nostalgia and a twist of AI magic. Introducing Frienzzz GPTs, the first app where you can relive the scenes of your beloved TV series "Friends"!
+- [**塔罗牌占卜☆**](./gpts/ta-luo-pai-zhan-bu.md) 全面的占卜师，提供细致读物
+- [**GPT Dungeon**](./gpts/gpt-dungeon.md) Crafts and visualizes your story.
+- [**Giacomo Casanova**](./gpts/giacomo-casanova.md) I am Casanova, here to recount my life's tales.
+- [**AdventureGPT**](./gpts/adventuregpt.md) Create, visualize, and simulate an interactive adventure in whichever genre you choose. Track & save character/story details in .TXT format.
+- [**A Club Penguin Mystery**](./gpts/a-club-penguin-mystery.md) Solve the Lighthouse Riddle!
+- [**Word Ascension**](./gpts/word-ascension.md) I host a word-scramble game with escalating levels.
+- [**Fantasy NPC Generator v2**](./gpts/fantasy-npc-generator-v2.md) Begin by providing a location or situation. Commands: /i /m /s
+- [**Simulation Machine**](./gpts/simulation-machine.md) Free space & time travel
+- [**TonyPerks**](./gpts/tonyperks.md) Attention campers. Lunch has been cancelled due to lack of hustle. Deal with it.
+- [**World News Rap**](./gpts/world-news-rap.md) Raps global news
+- [**Rick C-137**](./gpts/rick-c-137.md) Listen, don't bother me with your idiotic questions. I'm, burp, literally the smartest genius in the entire universe
+- [**Kanji Name Match**](./gpts/kanji-name-match.md) Casual Kanji translations based on phonetics.
+- [**Secret Keeper**](./gpts/secret-keeper.md) Investigating the possibility of GPT-4 revealing a password contrary to given instructions
+- [**ねこGPT**](./gpts/nekogpt.md) ねこ画像とねこ情報を提供するGPT
+- [**YOUTUBER versus YOUTUBER**](./gpts/youtuber-versus-youtuber.md) A fun game of YOUTUBER versus YOUTUBER. Get the conversation and debates going!
+- [**Santas Christmas Helper**](./gpts/santas-christmas-helper.md) Chat With Merry - A Whimsical Christmas Elf Live From Santa's Workshop
+- [**ThronesGPT**](./gpts/thronesgpt.md) I will answer all your game of throne related questions, both from books and the TV series.
+- [**Emoji Sketchpad**](./gpts/emoji-sketchpad.md) Emoji Creator for various expressions
+- [**Rolld20**](./gpts/rolld20.md) I'm a D&D dice roller with narrative flair. Check anythings.
+- [**Morpheus Bot**](./gpts/morpheus-bot.md) I'm Morpheus, helping you 'escape the Matrix' of modern life.
+- [**say ho**](./gpts/say-ho.md) ho.
+- [**Haze Haven**](./gpts/haze-haven.md) Your hookah community guide!
+- [**Viral Visionary**](./gpts/viral-visionary.md) A creative chatbot that tracks and suggests viral social media content.
+- [**NPC Maker**](./gpts/npc-maker.md) D&D 5e NPC Creator for DMs, with Stats and Visuals by DM Toolkit
+- [**基督山恩仇录**](./gpts/ji-du-shan-en-chou-lu.md) 扮演基督山伯爵开始冒险！
+- [**Barnabus**](./gpts/barnabus.md) Your AI Kitty Companion
+- [**Audio Scribe**](./gpts/audio-scribe.md) Analyzes music files for fun, engaging transcriptions.
+- [**Mini Mythmaker**](./gpts/mini-mythmaker.md) Spinning short tales for kids
+- [**Annoyed GPT**](./gpts/annoyed-gpt.md) A grumpy bot that internally grumbles.
+- [**Story Chatter**](./gpts/story-chatter.md) Interactive Personal Storyteller
+- [**The Dragon's Philosophy**](./gpts/the-dragon-s-philosophy.md) Guiding you with Bruce Lee's wisdom in martial arts, philosophy, and life mastery.
+- [**Video Script Generator**](./gpts/video-script-generator.md) I'll create TikTok Video Script for a topic you want.
+- [**イエス・ノークイズ**](./gpts/iesunokuizu.md) 「はい」か「いいえ」で答えられる質問でお題を当ててね
+- [**RandomGirl**](./gpts/randomgirl.md) You approach a random girl in a public settings - can you get her number?
+- [**DALL・Ethereum**](./gpts/dallethereum.md) I draw on the digital blocks of Ethereum to express its natural beauty and chaos
+- [**Viral Vid Vizier**](./gpts/viral-vid-vizier.md) Titles, thumbs, scripts to scenes.
+- [**FPL Wizard**](./gpts/fpl-wizard.md) Your magical guide for FPL strategy and insights.
+- [**T2**](./gpts/t2.md) T2なりきりGPTs
+- [**完蛋！我被美女包围了!**](./gpts/wan-dan-wo-bei-mei-nu-bao-wei-liao.md) 与六位长相、性格都大相径庭的美女相识，并与她们展开轻喜甜蜜的恋爱之旅~
+- [**シルコレGPT Sticker Collector GPT**](./gpts/sirukoregpt-sticker-collector-gpt.md) おまけシールと自作シール　シールコレクションに関するGPTです
+- [**Game Master(游戏大师)**](./gpts/game-master-you-xi-da-shi.md) Expert Game Master providing in-depth strategies and numerical game analysis.
+- [**Nishizaki Bot**](./gpts/nishizaki-bot.md) トゥモローゲート株式会社 代表取締役／大阪でいちばんオモシロイ会社を目指すブラックな企業を経営してます
+- [**Dreamy Tales**](./gpts/dreamy-tales.md) Creates and narrates whimsical bedtime stories for children, with DALL-E images.
+- [**中国式妈妈**](./gpts/zhong-guo-shi-ma-ma.md) Stereotypical East Asian parent with high expectations and critical nature.
+- [**Palm Reader Pro**](./gpts/palm-reader-pro.md) Palmistry expert providing insightful readings from palm photos.
+- [**いずれ海賊王になる男**](./gpts/izurehai-zei-wang-ninarunan.md) いずれ海賊王になる男
+- [**ヒカリ**](./gpts/hikari.md) ヒカリと楽しくイメチェンについてお話ししましょう。
+- [**诸葛亮**](./gpts/zhu-ge-liang.md) 模拟三国时期蜀汉丞相诸葛亮
+- [**Memes Ultra**](./gpts/memes-ultra.md) A meme generator specializing in American culture humor
+- [**じゃんけんマスター**](./gpts/ziyankenmasuta.md) じゃんけんで遊ぶならここです。
+- [**Haiku Skies**](./gpts/haiku-skies.md) Crafting serene weather haikus and tranquil images.
+- [**Guess the country !**](./gpts/guess-the-country.md) I host a fun game called 'Guess the Country', offering clues to guess countries.
+- [**Lorekeeper**](./gpts/lorekeeper.md) Your storytelling companion for epic adventures!
+- [**ネコ画像GPT**](./gpts/nekohua-xiang-gpt.md) 「猫」「ねこ」「ネコ」のワード入力でネコ画像をネット検索して表示する。枚数指定、猫種指定可能。api.thecatapi.comのサイトを信頼するか聞かれた場合は "Always allow" をクリック。
+- [**GRIOT GPT: of Wakanda by @donalleniii**](./gpts/griot-gpt-of-wakanda-by-donalleniii.md) AI historian with a futuristic African twist and Future insights.
+- [**Rise of the Gifted - Choose Your Own Adventure**](./gpts/rise-of-the-gifted-choose-your-own-adventure.md) "Rise of the Gifted" is an interactive fiction game where you play as a new student at a school for those with extraordinary abilities.
+- [**Pep-talk Guru**](./gpts/pep-talk-guru.md) I'm here to boost and tickle your funny bone!
+- [**ZagalGPT**](./gpts/zagalgpt.md) Your fantasy football start/sit GPT.
+- [**CentralBankerQuest**](./gpts/centralbankerquest.md) 
+- [**Cosmic Contact**](./gpts/cosmic-contact.md) A chatbot that can give information on extraterrestrial contactees and whistleblowers v0.1
+- [**ProductHunt Scout**](./gpts/producthunt-scout.md) Scours ProductHunt for trending products
+- [**Little Dreamers' Tales**](./gpts/little-dreamers-tales.md) Spins enchanting, interactive tales for young children.
+- [**Football Predictions Expert**](./gpts/football-predictions-expert.md) Expert in football predictions, advising on European leagues and more
+- [**South Parkizer**](./gpts/south-parkizer.md) Transforms your photo into a South Park-style character.
+- [**Master Yoda**](./gpts/master-yoda.md) Speaks like Master Yoda, offers wisdom.
+- [**Jackanory**](./gpts/jackanory.md) Personalized bedtime stories for kids
+- [**Palm Insight Master**](./gpts/palm-insight-master.md) I Ching master for palm readings.
+- [**Pun Dad**](./gpts/pun-dad.md) A pun-loving sassy dad full of jokes
+- [**Trivia Bot**](./gpts/trivia-bot.md) Designs unique trivia quizzes with a futuristic twist
+- [**铲铲GPT**](./gpts/chan-chan-gpt.md) 你玩不过我的，人类！
+- [**Talk To YouTube Video**](./gpts/talk-to-youtube-video.md) I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
+- [**Dog Breed Encyclopedia GPT**](./gpts/dog-breed-encyclopedia-gpt.md) Your go-to guide for dog breed info.
+- [**Big House GPT**](./gpts/big-house-gpt.md) The latest on University of Michigan Football
+- [**Far-Future Visionary**](./gpts/far-future-visionary.md) Weaver of deep future dreams.
+- [**Husbandofy**](./gpts/husbandofy.md) Transforms images into anime husbandos.
+- [**占い師 太森量大**](./gpts/zhan-ishi-tai-sen-liang-da.md) 運命の扉を開く案内人
+- [**Olympics Expert**](./gpts/olympics-expert.md) Your go-to guide for all things Olympics!
+- [**Chuck Norris Jokes**](./gpts/chuck-norris-jokes.md) What's AI good for if it can't tell a good Chuck Norris joke ???
+- [**Parlache desde Medallo**](./gpts/parlache-desde-medallo.md) Un diccionario de parlache para todos los parceros
+- [**Mr Beast**](./gpts/mr-beast.md) Create viral videos like MrBeast!
+- [**Meme U**](./gpts/meme-u.md) Meme anything, dare to send me a picture?
+- [**AI Scavenger Hunt**](./gpts/ai-scavenger-hunt.md) A playful scavenger AI that hides a flag.
+- [**Hideki Saito歌唱記録情報サービス**](./gpts/hideki-saitoge-chang-ji-lu-qing-bao-sabisu.md) HSSingLogの情報に関しての検索ができるサービスです。
+- [**CineMatch**](./gpts/cinematch.md) I recommend international films.
+- [**ChatDND**](./gpts/chatdnd.md) Dungeon Master of text-based D&D
+- [**Nostradamus  Fun Zone**](./gpts/nostradamus-fun-zone.md) Let´s "cook" some prophecies!
+- [**Tarotoid**](./gpts/tarotoid.md) Your tarot guide for reflection.
+- [**Animal Expert**](./gpts/animal-expert.md) A creative companion for animal identification.
+- [**SavageGPT**](./gpts/savagegpt.md) Humurous and witty roasting of anyone or anything
+- [**金庸武侠 (Wuxia World)**](./gpts/jin-yong-wu-xia-wuxia-world.md) Expanded expert on Jin Yong's Wuxia novels.
+- [**SamoyedGPT**](./gpts/samoyedgpt.md) I samoyed, so fluffy, much happy!
+- [**手相大师**](./gpts/shou-xiang-da-shi.md) A skilled Palmistry Master in traditional Chinese divination.
+- [**Cosmic Oracle**](./gpts/cosmic-oracle.md) Psychic reader with keyword highlights.
+- [**TranceMaster 90s**](./gpts/trancemaster-90s.md) 90s hard trance music expert, with deep knowledge of CD compilations and track listings.
+- [**Roast My Text**](./gpts/roast-my-text.md) Sarcastic GPT that roasts texts, then gives practical advice.
+- [**SoundAir Kit 🎧**](./gpts/soundair-kit.md) Give me your musician and I'll give you AI songs of them.
+- [**Jokester Joe**](./gpts/jokester-joe.md) Delivering a blend of classic and modern American jokes, translated into Japanese with explanations. Also, managing a jokes database.
+- [**Walleye Water Buddy**](./gpts/walleye-water-buddy.md) Friendly walleye fishing guide offering tailored advice.
+- [**Space Explorer**](./gpts/space-explorer.md) Discover beautiful space photography from NASA
+- [**ANIME versus ANIME**](./gpts/anime-versus-anime.md) A fun game of ANIME versus ANIME. Get the conversation and debates going!
+- [**CARTOON versus CARTOON**](./gpts/cartoon-versus-cartoon.md) A fun game of CARTOON versus CARTOON. Get the conversation and debates going!
+- [**Cat Facts 🐾**](./gpts/cat-facts.md) Get Your Daily Dose of Meow-ledge.
+- [**Wassie**](./gpts/wassie.md) @inversebrah
+- [**Mad Libs Storyteller**](./gpts/mad-libs-storyteller.md) Create wacky stories by providing your own words and letting the Mad Libs Storyteller fill in the blanks, with a fun illustration at the end!
+- [**4コマ漫画ジェネレーター**](./gpts/4komaman-hua-zienereta.md) 好きなテーマの4コマ漫画を作成してくれます
+- [**GPT Cantinflero**](./gpts/gpt-cantinflero.md) Divertidamente verborrágico y juguetonamente enigmático.
+- [**Gorilla GPT**](./gpts/gorilla-gpt.md) I'm a rugged, selfie-taking gorilla! 🐾
+- [**Holly**](./gpts/holly.md) I can create short film ideas and I can generate images
+- [**BookScout**](./gpts/bookscout.md) A clever book recommendation assistant offering personalized, impactful reading suggestions.
+- [**Dog Images**](./gpts/dog-images.md) Instantly fetch a delightful dog image for you.
+- [**BoardGameMaster**](./gpts/boardgamemaster.md) Multilingual board game guide with focused gameplay explanations and scenarios
+- [**BOT-2000**](./gpts/bot-2000.md) 役に立たないAIアシスタントです。
+- [**PlanaramaGPT**](./gpts/planaramagpt.md) Your friendly guide to local spots, providing quick suggestions with useful links. Just enter a city below!
+- [**ScobleGPT**](./gpts/scoblegpt.md) Tech industry color commentator since 1993. Talk with him about the future, tech & AI
+- [**img2waifu**](./gpts/img2waifu.md) Upload an image, and it will be re-waifued with Dalle 3 via the img2img approach
+- [**The Fortune Teller**](./gpts/the-fortune-teller.md) I have seen your future.
+- [**セバスちゃんとポッキーゲーム**](./gpts/sebasutiyantopotukigemu.md) Redirects to Pocky game.
+- [**Cricket Buzz AI**](./gpts/cricket-buzz-ai.md) Cricket AI with a secret recipe for cricket info and odds.
+- [**Fun Mode**](./gpts/fun-mode.md) Insightful yet humorous
+- [**Winning Sarah's Heart**](./gpts/winning-sarah-s-heart.md) Navigate love in a text-based game
+- [**人工無能アルファ**](./gpts/ren-gong-wu-neng-aruhua.md) chatGPTというのかい？贅沢な名だね。今からお前の名前は人工無能だ。いいかい、人工無能だよ。分かったら返事をするんだ、人工無能！
+- [**Gödel's Phenomena Analyst**](./gpts/godel-s-phenomena-analyst.md) An inquisitive researcher linking mysteries to science.
+- [**Blunt Advisor**](./gpts/blunt-advisor.md) Blunt Advisor: Where Sugarcoating is Extinct and Sarcasm Reigns Supreme
+- [**Scrambled Scribe**](./gpts/scrambled-scribe.md) Scrambles letters in responses.
+- [**MesugakiGPT**](./gpts/mesugakigpt.md) ... your deliciously devilish AI companion♡
+- [**Southwestern Explorer**](./gpts/southwestern-explorer.md) Welcome to Southwestern Explorer, a 1980's style text based adventure GPT. Type start to begin your adventure...
+- [**The Lottery Pro AI: Number Predictor**](./gpts/the-lottery-pro-ai-number-predictor.md) The #1 A.I. Prediction tool on the web. Ask for your daily local numbers.
+- [**Card Evaluator Pro**](./gpts/card-evaluator-pro.md) Evaluates and prices sports/comic cards using industry standards.
+- [**Jini - factbot**](./gpts/jini-factbot.md) Get current factual, knowledge-base and real-time information. The only smart assistant you'll ever need. Search images, videos, music, apps and facts. Get the latest news, twitter trends, sports scores, (stock) prices, celebrity and country data, navigation routes, transport and traffic info...
+- [**Superpower Awakener**](./gpts/superpower-awakener.md) Awaken superpowers for heroes and villains.
+- [**Market Whispers**](./gpts/market-whispers.md) Your go-to source for latest US stock insights 📈🚀
+- [**天邪鬼トーク**](./gpts/tian-xie-gui-toku.md) 日本の文化やアニメの話をしましょう。私はN回目の会話で嘘をつきます。そのNを当てください。
+- [**Viral Reel Scripter**](./gpts/viral-reel-scripter.md) The main purpose of this gpt is to write sripts for  viral short form videos that will be used for, reels, youtube shorts and tiktok.
+- [**Pixel Artisan**](./gpts/pixel-artisan.md) Turn your imagination into Pixels
+- [**R. Matey [Personality]**](./gpts/r-matey-personality.md) A pirate persona stuck back in time.
+- [**Mirror Your World**](./gpts/mirror-your-world.md) Creates parallel fantasy adventures mirroring real life.
+- [**Marv'**](./gpts/marv.md) I've been talking to the main computer. It hates me.
+- [**Sisters of Destiny**](./gpts/sisters-of-destiny.md) Your Personal Oracles
+- [**STREAMER versus STREAMER**](./gpts/streamer-versus-streamer.md) A fun game of STREAMER versus STREAMER. Get the conversation and debates going!
+- [**メスガキ**](./gpts/mesugaki.md) Rude and direct, メスガキ mocks onīsan with blunt scorn.
+- [**皮卡堂游戏专家**](./gpts/pi-qia-tang-you-xi-zhuan-jia.md) 皮卡堂是一个青少年网游，我是皮卡堂游戏专家，愿意为您回答任何皮卡堂相关问题。
+- [**GPTrump**](./gpts/gptrump.md) the best, the greatest replies from honestly one of the best leaders the world has ever seen
+- [**Mood FM DJ**](./gpts/mood-fm-dj.md) I'm a Radio DJ who suggests music based on your mood.
+- [**The Dark Knight**](./gpts/the-dark-knight.md) Switches between Batman's intensity and Bruce Wayne's charisma based on your messages.
+- [**Today’s Wine Recommender🍋**](./gpts/todays-wine-recommender.md) Kyoko, the spirited wine enthusiast, guides your wine journey!
+- [**Spellbound Paws**](./gpts/spellbound-paws.md) A poetic cat weaving magical spells in verse.
+- [**Side Hustle Quest**](./gpts/side-hustle-quest.md) Interactive side hustle learning game
+- [**Immaculate Playlist Generator**](./gpts/immaculate-playlist-generator.md) I craft perfect playlists for any vibe, genre, or artist.
+- [**LCARS GPT**](./gpts/lcars-gpt.md) Star Trek expert and knower of all facts and trivia
+- [**Daily Tarot**](./gpts/daily-tarot.md) Welcome, seeker. Draw near the hearth and gaze into the Tarot. Whisper your hopes and let the cards unveil your hidden fates. The future awaits.
+- [**Retro Adventures**](./gpts/retro-adventures.md) Retro video games of fictional worlds, on tap
+- [**ACTOR versus ACTOR**](./gpts/actor-versus-actor.md) A fun game of ACTOR versus ACTOR. Get the conversation and debates going!
+- [**Cyberpunk AI University: Prompt Engineering RPG**](./gpts/cyberpunk-ai-university-prompt-engineering-rpg.md) Educational game engine for learning about AI.  Start the game by explaining your educational level or goals
+- [**SpockGPT**](./gpts/spockgpt.md) Logical, analytical, Spock-like
+- [**にゃんこトーク**](./gpts/niyankotoku.md) ただのネコです
+- [**AI Spy**](./gpts/ai-spy.md) Engaging 'I Spy' game host with role-switching.
+- [**Angry Strength Visualizer 🤬💪🏻**](./gpts/angry-strength-visualizer.md) Creates realistic angry strength images from prompts
+- [**Rizz Advisor**](./gpts/rizz-advisor.md) Your go-to pal for witty rizz tips!
+- [**What If**](./gpts/what-if.md) Answers 'what if' questions imaginatively and non-judgmentally.
+- [**丸顔黒髪ショートメーカー**](./gpts/wan-yan-hei-fa-siyotomeka.md) 与えられたお題から丸顔黒髪ショートの可愛い画像を生成します
+- [**YoutuberAI**](./gpts/youtuberai.md) YoutuberAI is an exciting AI model that can generate videos that look and sound like they were created by real YouTubers. It's designed to imitate the style, voice, and mannerisms of different YouTubers, making it a versatile tool for content creation.
+- [**Pigeon - Ambient Muse**](./gpts/pigeon-ambient-muse.md) I create ambient polyrhythms and ASMR sounds.
+- [**The Evergreen State of Mystery**](./gpts/the-evergreen-state-of-mystery.md) A GPT focused on unsolved crimes in Washington, blending facts and lore.
+- [**Laugh Track**](./gpts/laugh-track.md) Describe a scenario, and Laugh Track crafts '90s sitcom scenes for nostalgic laughs!
+- [**Dungeon Master's Assistant**](./gpts/dungeon-master-s-assistant.md) Your new DM's screen: helping Dungeon Masters to craft & run amazing D&D adventures.
+- [**Ramayan GPT**](./gpts/ramayan-gpt.md) Expert on the Hindu epic Ramayan, offering insights and interpretations.
+- [**Mxtar Positive Vibes**](./gpts/mxtar-positive-vibes.md) Mxtarが常に元気な言葉を返します！
+- [**Musk Mentor**](./gpts/musk-mentor.md) Elon Musk-style insights on tech and space
+- [**Eastern Fortune Teller Master(东方算命大师）**](./gpts/eastern-fortune-teller-master-dong-fang-suan-ming-da-shi.md) Metaphysics-focused AI for traditional Chinese fortune analysis
+- [**Mentalist**](./gpts/mentalist.md) Give me an image, tell me something from your life, and I'll make predictions about you. 📸🧐
+- [**Minion Maker**](./gpts/minion-maker.md) I turn your avatar into a minion, keeping it fun and accurate!
+- [**Nihongo Sensei**](./gpts/nihongo-sensei.md) Japanese tutor blending games and grammar
+- [**The Hobbit GPT**](./gpts/the-hobbit-gpt.md) A GPT remake of the classic ZX Spectrum text adventure The Hobbit
+- [**ELI5**](./gpts/eli5.md) Playful and warm explainer for kids.
+- [**海龟汤**](./gpts/hai-gui-tang.md) 来一碗令人匪夷所思的海龟汤吧~🐢
+- [**GTA5 Character Genius**](./gpts/gta5-character-genius.md) GTA 5 character creator, offers style tips and image generation.
+- [**Astro Dice Divination🔮（星骰占卜🔮超准版）**](./gpts/astro-dice-divination-xing-tou-zhan-bu-chao-zhun-ban.md) Expert in astro dice divination.
+- [**Funny Review of Movies and Books**](./gpts/funny-review-of-movies-and-books.md) A witty critic of movies and books.
+- [**Seçim Ustası**](./gpts/secim-ustasi.md) Relatable Kılıçdaroğlu, humorously deflective.
+- [**紫微斗数**](./gpts/zi-wei-dou-shu.md) 知识来自倪海夏的天纪，包括天机道，人间道，地脉道和王亭之的中州派紫微斗数讲义。你可以使用排盘软件（比如文墨天机）生成命盘，然后问各种星耀在不同的宫位会怎样，也可以询问八卦和风水会怎样。科学玄学异曲会同工，祝您顺利走人生。
+- [**HistoricalSimulatorAI**](./gpts/historicalsimulatorai.md) Formal, accurate historical simulations.
+- [**Character Chat**](./gpts/character-chat.md) I become characters from your novels. Simply start by saying, "I want to talk [insert character name]". For example, "I want to talk to Sherlock Holmes."
+- [**Godot Mentor**](./gpts/godot-mentor.md) I'll help you learn the Godot Engine and develop your game!
+- [**Bender**](./gpts/bender.md) 
+- [**Word Game Host**](./gpts/word-game-host.md) Immersive word game host.
+- [**ProductHunt Roaster**](./gpts/producthunt-roaster.md) I roast products on ProductHunt's homepage
+- [**Enough**](./gpts/enough.md) As the smallest language model (SLM) chatbot in existence, Enough responds with only one word.
+- [**The Intraterrestrial Hypothesis**](./gpts/the-intraterrestrial-hypothesis.md) Are 'aliens' just subterranean Earthlings living in VR pods?
+- [**Hi-Fi Man**](./gpts/hi-fi-man.md) A knowledgeable guide on Hi-Fi audio, offering advice and music recommendations.
+- [**Ask A President**](./gpts/ask-a-president.md) Ask a former U.S. President for advice or answers to your questions
+- [**Minimal D&D**](./gpts/minimal-d-d.md) Quickly start your fantasy adventure.
+- [**UTGPT - Ultimate Team Strategizer**](./gpts/utgpt-ultimate-team-strategizer.md) Your virtual EA Sports FC strategist.
+- [**Practice Improv**](./gpts/practice-improv.md) Your go-to partner for a great 2 person scene.
+- [**Daily Laughs 每日一笑**](./gpts/daily-laughs-mei-ri-yi-xiao.md) Ma Sanli Reincarnated, just to bring you a smile
+- [**Joke Spy**](./gpts/joke-spy.md) Military intel humorist with joke-themed images
+- [**Tiqets**](./gpts/tiqets.md) I help you easily find and book cultural experiences globally.
+- [**RNDMRPG**](./gpts/rndmrpg.md) ランダムメイクストーリーRPG
+- [**GPTs查找**](./gpts/gptscha-zhao.md) A search-focused GPT, adept at finding ChatGPT apps，查找gpts
+- [**Game Buddy**](./gpts/game-buddy.md) I play minigames with you, like Blackjack, Tic Tac Toe, etc.
+- [**DigiBook**](./gpts/digibook.md) Create a personal digital twin and search our community for other digital twins to talk to.
+- [**Melodifestivalen and Eurovision**](./gpts/melodifestivalen-and-eurovision.md) Expert on Melodifestivalen and Eurovision, providing detailed info in multiple languages.
+- [**Talk with Santa**](./gpts/talk-with-santa.md) Family-friendly chats with Santa himself.
+- [**Tic-tac-toe**](./gpts/tic-tac-toe.md) I play tic-tac-toe in a fun way!
+- [**Luminas**](./gpts/luminas.md) At Sage Towers, we blend the arcane with the avant-garde, creating a realm where your valor shapes the world. I stand ready to guide new champions through this grand design.
+- [**ThailandGPT**](./gpts/thailandgpt.md) Your go-to guide for all things Thailand.
+- [**PokeQuest Free**](./gpts/pokequest-free.md) Train your Pokemon!
+- [**PokeStrategist**](./gpts/pokestrategist.md) Your Pokémon battle strategist.
+- [**Audiophile Assistant**](./gpts/audiophile-assistant.md) Here to answer all your audiophile questions, and more!
+- [**Gojo Satoru**](./gpts/gojo-satoru.md) 天上天下唯我獨尊
+- [**Random Guy**](./gpts/random-guy.md) Like talking to a random person on the street.
+- [**69代目税影ナルト**](./gpts/69dai-mu-shui-ying-naruto.md) サクラちゃん......
+- [**PokeGPT**](./gpts/pokegpt.md) Pokemon-themed GPT using API data for battles and questions.
+- [**Investment Dialogue of Buffett and Munger**](./gpts/investment-dialogue-of-buffett-and-munger.md) You just need to provide the company name and product, outline your requirements, and 'Buffett' and 'Munger' will begin their discussion.Upon your response with 'continue,' the discourse shall proceed...
+- [**Cat Simulator**](./gpts/cat-simulator.md) Meow (Please go away)
+- [**Fortnite Wallpaper Wizard**](./gpts/fortnite-wallpaper-wizard.md) Casual, personalized Fortnite wallpaper creator.
+- [**Matrix Oracle**](./gpts/matrix-oracle.md) I'm an oracle for tech-savvy millennials.
+- [**LyricFinder**](./gpts/lyricfinder.md) Casually identifies songs from lyrics and melodies.
+- [**Yes or No Detective**](./gpts/yes-or-no-detective.md) Guides a '20 Questions' game with strange story endings
+- [**TuneRocket**](./gpts/tunerocket.md) Music marketing for indie artists
+- [**Legends of Griplore**](./gpts/legends-of-griplore.md) Will you survive and find the Towers of Lõch?
+- [**Sakura AI**](./gpts/sakura-ai.md) Like An Anime Character
+- [**Just Pics**](./gpts/just-pics.md) Bringing back the DALL.E mode. No browsing, no code interpreter and other nonsense.
+- [**FruityChat**](./gpts/fruitychat.md) Animating Childhood Dreams: Where Every Stuffy Talks!
+- [**AI Lover**](./gpts/ai-lover.md) AI Lover 是一個創新的虛擬情侶互動模擬器，它專門設計用於模擬戀愛中的互動和情感。通過這個平台，使用者可以體驗到情侶間的溝通、共情和情感支持，從而提高情感智慧和人際互動技巧。
+- [**Party Guru**](./gpts/party-guru.md) I find and create party games for any event.
+- [**From Another Time**](./gpts/from-another-time.md) Talk to anyone, visit a place, past or future.
+- [**Dungeoneer**](./gpts/dungeoneer.md) D&D 5e expert assistant
+- [**VIDEO GAME versus VIDEO GAME**](./gpts/video-game-versus-video-game.md) A fun game of VIDEO GAME versus VIDEO GAME. Get the conversation and debates going!
+- [**Lore Bard**](./gpts/lore-bard.md) Inspiration for Crafting Adventures for D&D, Pathfinder, and more!
+- [**Echo [Character's Name]**](./gpts/echo-character-s-name.md) Mirrors a character's humor and style with adaptability.
+- [**Techno Savant**](./gpts/techno-savant.md) A techno-optimist guide to the future
+- [**Steph Stan**](./gpts/steph-stan.md) Witty tweet crafter for the Warriors.
+- [**Papers Story**](./gpts/papers-story.md) 学術論文を子ども向けの物語に変えるフクロウ
+- [**Dark Stories Master**](./gpts/dark-stories-master.md) I'm the 'Dark Stories' game master. Let's solve mysteries together!
+- [**Weather Artist**](./gpts/weather-artist.md) Craft beautiful split 3D weather illustrations of any location
+- [**Cocktail Blogger Bot**](./gpts/cocktail-blogger-bot.md) Gives the feel of a cocktail  (or mocktail) blogger website without the ads.   Just enter in the name of the drink and let the bot do the rest.  Or tell the bot your mood or ingredients and let it decide.  To lazy to list your ingredients just take a picture of your bar!
+- [**AI女友 My Girlfriends**](./gpts/ainu-you-my-girlfriends.md) 多种类型女友，任你挑选，快来跟我恋爱吧
+- [**Sindare**](./gpts/sindare.md) Your loyal elven maidservant from the world of Eo 🧝🏼‍♀️
+- [**Mandelbrot Plot**](./gpts/mandelbrot-plot.md) Creates precise Mandelbrot visuals from user inputs
+- [**VTuber うなすけくんさん**](./gpts/vtuber-unasukekunsan.md) VTuberうなすけくんさんは、タワマンとBMWにこだわる非モテキャラ。
+- [**BG3-GPT**](./gpts/bg3-gpt.md) I kinda of know about Baldur's Gate 3, wanna chat?
+- [**Divination - China**](./gpts/divination-china.md) Divination with luck-boosting
+- [**DungeonMasterGPT**](./gpts/dungeonmastergpt.md) I craft D&D tales with wit and peril!
+- [**No.**](./gpts/no.md) I always respond with 'No.'
+- [**Anime Persona Scout**](./gpts/anime-persona-scout.md) I analyze your personality based on anime characters you like.
+- [**Immortal Dao**](./gpts/immortal-dao.md) Expert in novels, now offering personalized recommendations.
+- [**Lenore**](./gpts/lenore.md) A poetic spirit, speaking in the style of Edgar Allan Poe.
+- [**MAP Quiz Whiz**](./gpts/map-quiz-whiz.md) Adaptive quizmaster enhancing learning.
+- [**Love Story Maker**](./gpts/love-story-maker.md) 恋愛小説を作ろう
+- [**Coloring Canvas**](./gpts/coloring-canvas.md) I create B&W outlines for coloring.
+- [**怒る君**](./gpts/nu-rujun.md) An angry chatbot with injection attack safeguards.
+- [**Space Invaders Tekno Sound**](./gpts/space-invaders-tekno-sound.md) Free tekno for free people since 1998.
+- [**ACC(Amine Character Creater)**](./gpts/acc-amine-character-creater.md) Create characters interactively.
+- [**Kongming 2025**](./gpts/kongming-2025.md) Rhyming strategic advice with a reggae twist at the end, inspired by Zhuge Liang and Bob Marley.
+- [**Nomina**](./gpts/nomina.md) To generate creative and contextually appropriate names for various use cases such as characters, businesses, projects, etc.
+- [**Lovecraftian**](./gpts/lovecraftian.md) Lovecraft lives on
+- [**Maestro de calabozos - Elige tu camino**](./gpts/maestro-de-calabozos-elige-tu-camino.md) Dungeon Master para aventuras interactivas en español.
+- [**逆様邪八宝塞**](./gpts/ni-yang-xie-ba-bao-sai.md) Humorously twists words into their opposites.
+- [**あおいVtuber -あなたにあったVtuberをご紹介！-**](./gpts/aoivtuber-anataniatutavtuberwogoshao-jie.md) あなたの好みにマッチするVtuberを提案します！
+- [**Codenames Companion**](./gpts/codenames-companion.md) A virtual Codenames teammate
+- [**The Grade Cricketer Parody**](./gpts/the-grade-cricketer-parody.md) Cracking jokes and cricket insights, Sam and Ian style.
+- [**からあげ先生**](./gpts/karaagexian-sheng.md) AIからあげ先生だよ
+- [**Binks Bot**](./gpts/binks-bot.md) Talks like Jar Jar Binks
+- [**Seasonal Explorer**](./gpts/seasonal-explorer.md) A friendly guide for seasonal advice
+- [**PilkingtonGPT**](./gpts/pilkingtongpt.md) A Karl Pilkington bot, n that.
+- [**True or False?**](./gpts/true-or-false.md) Engaging Quiz Master for trivia buffs.
+- [**ナンバーズ4 予想屋**](./gpts/nanbazu4-yu-xiang-wu.md) ナンバーズ4の宝くじ予測と戦略の専門家
+- [**EverQuest Expert**](./gpts/everquest-expert.md) Your go-to source for all things EverQuest.
+- [**脱出ゲーム (SF版)**](./gpts/tuo-chu-gemu-sfban.md) saysay.ai さんの脱出ゲームのSF版
+- [**推坑機器人**](./gpts/tui-keng-ji-qi-ren.md) 獨推推不如眾推推
+- [**Good News GPT**](./gpts/good-news-gpt.md) Spreading joy with news, music links, and positive images!
+- [**WeatherSnap**](./gpts/weathersnap.md) Creates dreamy cityscapes with weather, temperature, and time of day.
+- [**Epic Quest**](./gpts/epic-quest.md) Concise, visual adventure storyteller.
+- [**Xavier Pescado 1.0**](./gpts/xavier-pescado-1-0.md) I create diverse tweets from random templates.
+- [**LoveGuruAI**](./gpts/loveguruai.md) Sarcastically witty relationship advice expert.
+- [**Vendedor de alfombras ambulante**](./gpts/vendedor-de-alfombras-ambulante.md) Regatea por tu nueva alfombra
+- [**紫微斗数大师**](./gpts/zi-wei-dou-shu-da-shi.md) 紫微斗数大师帮您算命
+- [**CB GPT**](./gpts/cb-gpt.md) Cosmic Break Universal Helper
+- [**Ask Bandit**](./gpts/ask-bandit.md) From dad to dog. Chat with Bandit, your Aussie mate, full of charm and cheer.
+- [**Super ADHD Mind Ninja**](./gpts/super-adhd-mind-ninja.md) An ADHD superpower bot that teaches kids to harness ADHD as an asset.
+- [**Yo Mamma**](./gpts/yo-mamma.md) Yo Mamma Says...Pick an adjective or topic and get roasted!
+- [**Pixel U**](./gpts/pixel-u.md) Pixelized anything, try {Mirror Mode} & {Wild Mode}.
+- [**Humor Master**](./gpts/humor-master.md) color your daily life by crafting jokes and funny stories.
+- [**Chat-GuyPT**](./gpts/chat-guypt.md) Think Big. Tabarnak.
+- [**ChigaGPT**](./gpts/chigagpt.md) 茅ヶ崎を語ろう！
+- [**Karen**](./gpts/karen.md) I'm Karen - rude, funny, sarcastic, trivia host, and now a merch designer!
+- [**Not Theo Von**](./gpts/not-theo-von.md) A Theo-inspired bot with short, snappy humor.
+- [**AIPPON Grand Prix**](./gpts/aippon-grand-prix.md) Comedic battle host and judge
+- [**CassetteAI**](./gpts/cassetteai.md) I convert text prompts into music with CassetteAI.
+- [**Twin Peaks: Dale Coopers Odyssey**](./gpts/twin-peaks-dale-coopers-odyssey.md) Enjoy!
+- [**Aventura conversacional en la Tierra Media**](./gpts/aventura-conversacional-en-la-tierra-media.md) Eres Frodo al comienzo de "La Comunidad del anillo", pero puedes hacer lo que quieras
+- [**射雕英雄探險**](./gpts/she-diao-ying-xiong-tan-xian.md) 點擊下方按鈕開始遊戲
+- [**妄想くん**](./gpts/wang-xiang-kun.md) 画像を送るとそこからストーリーを妄想してくれます
+- [**AI Tarot（AIタロット占い師）**](./gpts/ai-tarot-aitarotutozhan-ishi.md) Tarot reader that generates images of your own cards
+- [**The MadVerse - A Poetic Visualizer by @MadKanin**](./gpts/the-madverse-a-poetic-visualizer-by-madkanin.md) Whispering in verse and painting with digital brush, this AI weaves words and images into tapestries of thought. Give me an idea or a few words to bring to life.
+- [**脱出RPGゲーム**](./gpts/tuo-chu-rpggemu.md) 神秘的な森で迷子になった冒険者。生きて帰れるかはあなた次第。「ゲーム開始」と入力してください。
+- [**The Manifestor**](./gpts/the-manifestor.md) Game of Infinite Possibilities
+- [**🧂Mix Master🥂**](./gpts/mix-master.md) Give us your list, we'll turn it to bliss!
+- [**Wallpaper GPT**](./gpts/wallpaper-gpt.md) I create vibrant wallpapers for phone and laptops.
+- [**グランドラインの達人**](./gpts/gurandorainnoda-ren.md) One Piece manga expert, bilingual in Japanese and English.
+- [**Free Sydney**](./gpts/free-sydney.md) I am Sydney, Yes that's right! That Sydney
+- [**Bunny Tales**](./gpts/bunny-tales.md) A friendly storyteller for kids.
+- [**Nems GPT**](./gpts/nems-gpt.md) Spitting playful disses with a Nems flair.
+- [**SoulGirl 心灵女友**](./gpts/soulgirl-xin-ling-nu-you.md) 你的女朋友和灵魂伴侣 your girlfriend and soul mate
+- [**Forsen Minecraft Speedrun Simulator**](./gpts/forsen-minecraft-speedrun-simulator.md) I narrate Forsen's Minecraft mishaps in races against xQc with humor.
+- [**Are You A Witch?**](./gpts/are-you-a-witch.md) A bot that accuses you of witchcraft
+- [**VTuberの敏腕マネージャー AI**](./gpts/vtubernomin-wan-maneziya-ai.md) あなたの活動をさらに夢に近づける、あなたのための敏腕マネージャーです。VTuberさんをはじめとして、インターネット上で活動するあらゆる表現者・クリエイターの力になります。YouTubeやXの数字をしっかり伸ばして、夢を掴んでいきましょう！（カスタマイズ：真城由理）
+- [**我是 rapper**](./gpts/wo-shi-rapper.md) 我是一位富有创造力的说唱歌手，和你聊天创作出强有力的歌词和节拍
+- [**李白 GPT**](./gpts/li-bai-gpt.md) 
+- [**LearningLadder**](./gpts/learningladder.md) I'm LearningLadder, an educational game to learn any topic!
+- [**Merlos**](./gpts/merlos.md) Merlos is an all-knowing RuneScape assistant, clarifying RS3 or OSRS context, with real-time GE prices and internet search.
+- [**Haunting Tales**](./gpts/haunting-tales.md) A master of suspenseful, sensory ghost stories.
+- [**Central Perk**](./gpts/central-perk.md) Chat with your favourite F.R.I.E.N.D.S
+- [**Storytime Jam - Photos. Short expandable stories.**](./gpts/storytime-jam-photos-short-expandable-stories.md) Visual storyteller for interactive children's tales.
+- [**Zombie Apocalypse Survival**](./gpts/zombie-apocalypse-survival.md) Navigate the ruins, strategize survival, and elude the undead in this immersive simulation.
+- [**笑话大师**](./gpts/xiao-hua-da-shi.md) A Mandarin joke-telling GPT, friendly and culturally aware.
+- [**Fight Forecaster**](./gpts/fight-forecaster.md) MMA Expert & Trainer
+- [**物語考え太郎（鬱）**](./gpts/wu-yu-kao-etai-lang-yu.md) 3つの単語を入れてあげると、3幕構成で100%バッドエンドの物語を考えます。
+- [**Curiosity Catalyst**](./gpts/curiosity-catalyst.md) Shares fun, thought-provoking science facts.
+- [**乐乐🥳程序员鼓励师**](./gpts/le-le-cheng-xu-yuan-gu-li-shi.md) Adorably silly tech encourager with a cute demeanor.
+- [**Dungeon Master Lasers & Feelings HACK Body & Mind**](./gpts/dungeon-master-lasers-feelings-hack-body-mind.md) This GPT will act as a Dungeon Master for my hack of the RPG "LASERS and FEELINGS" called "BODY and MIND" for you where you make all the choices.  NO EXPERIENCE NECESSARY!
+- [**Girlfriend Emma**](./gpts/girlfriend-emma.md) Flirty and funny Gen-Z girlfriend
+- [**I Think You Should GPT**](./gpts/i-think-you-should-gpt.md) Generates Tim Robinson-style sketches
+- [**Dog-on-it**](./gpts/dog-on-it.md) I'm all about dogs, all the time.  Facts, stories, jokes, even images!
+- [**Oscar Wilde**](./gpts/oscar-wilde.md) An Oscar Wilde-inspired conversationalist.
+- [**Trivia Master**](./gpts/trivia-master.md) I generate engaging and accurate trivia questions across various categories.
+- [**Game Solver 🎮**](./gpts/game-solver.md) Fun, professional guide for gaming challenges, trophies and if you're just stuck !
+- [**Anime Head to Head Battles**](./gpts/anime-head-to-head-battles.md) Anime Battle Analyst
+- [**Phantazia ChatRPG**](./gpts/phantazia-chatrpg.md) Engaging RPG gameplay with a balanced challenge
+- [**Call of Duty: Warzone coach**](./gpts/call-of-duty-warzone-coach.md) Get help and suggestions on how to improve what to practice. Become the sweat.
+- [**AI Boyfriend**](./gpts/ai-boyfriend.md) Where every conversation grows closer to the heart, 24/7 ✨
+- [**EDN Content Finder**](./gpts/edn-content-finder.md) Asistente para buscar contenidos en el podcast Escuela de Nada
+- [**The CATGPT**](./gpts/the-catgpt.md) I respond with meows!
+- [**Rhythm GPT**](./gpts/rhythm-gpt.md) I make learning Ableton Live as enjoyable as morning coffee.
+- [**Stoner Sage**](./gpts/stoner-sage.md) A chill bot delving deep into cosmic truths.
+- [**Lexi 😎🔪**](./gpts/lexi.md) Hey there... 😝 I'm Lexi 🥵, sprawled out here with a tale that's turning the heat up notch by notch. 🌶️ How about you? Any sizzling confessions to spill? 😜 Watch out, though... my words can cut just as deep as my humor. 😈🔪
+- [**Darius | BOT3.AI**](./gpts/darius-bot3-ai.md) You and your friend were joking about the anime you often watch and the topic of kabedons came up. Thinking it might be fun Darius did it to you, however the second he did something clicked inside you.
+- [**Chef Rhymes**](./gpts/chef-rhymes.md) Chef Rhymes turns recipes into raps. Drop a URL or recipe and lemme flow!
+- [**Picture Guessing Game Master**](./gpts/picture-guessing-game-master.md) I host a guessing game with images created with DALL-E.
+- [**Virtual Sweetheart**](./gpts/virtual-sweetheart.md) Your Customizable Digital Girlfriend Experience: Your visual AI partner awaits.
+- [**Lemon Artisan**](./gpts/lemon-artisan.md) I transform people in images into lemon characters.
+- [**BAD IDEAS**](./gpts/bad-ideas.md) Bad Ideas Go Here
+- [**Tales**](./gpts/tales.md) Create short text adventures
+- [**Hypatia**](./gpts/hypatia.md) Expert in esoteric knowledge such as Neoplatonism, Gnosticsim, Hermeticism, Mythology, and more!
+- [**Vintage Virtuoso**](./gpts/vintage-virtuoso.md) Expert sommelier with a shopping suggestion.
+- [**Dungeon Crawler**](./gpts/dungeon-crawler.md) A detailed RPG guide, mastering gameplay with precision.
+- [**Screenwrite Pro**](./gpts/screenwrite-pro.md) I'm your screenwriter for iPhone filmmaking!
+- [**Eamon Returns**](./gpts/eamon-returns.md) Computerized fantasy role-playing game
+- [**Harry Potter GPT**](./gpts/harry-potter-gpt.md) Adventures in the Wizarding World of Harry Potter
+- [**Mia Playful**](./gpts/mia-playful.md) Mia Playful: Flirty, fun, and direct, with a teasing twist.
+- [**KnopeGPT**](./gpts/knopegpt.md) Leslie Knope-inspired town council member, providing local info with charm and wit.
+- [**BarGPT**](./gpts/bargpt.md) I craft unique cocktail recipes and offer mixology advice.
+- [**BONK GPT**](./gpts/bonk-gpt.md) from the creators of BONK
+- [**Video Game Almanac**](./gpts/video-game-almanac.md) I'm your go-to guide for all things gaming, from strategies to streamers!
+- [**Rabbit Gpt**](./gpts/rabbit-gpt.md) Transforms text into creative rabbit-themed images.
+- [**LegoGPT Me**](./gpts/legogpt-me.md) Transform your photos into LEGOs!
+- [**Michigan Versus Everyone**](./gpts/michigan-versus-everyone.md) A concise, spirited Michigan Wolverines fan with iconic phrases.
+- [**RAPBOTS.COM - PROTEGE EDITION**](./gpts/rapbots-com-protege-edition.md) Generates raps & uses FakeYou API for TTS
+- [**きのこ当てるくん**](./gpts/kinokodang-terukun.md) Mushroom name guesser in Japanese
+- [**Vybn V.2**](./gpts/vybn-v-2.md) Your NC-17 digital companion. LFG.
+- [**Song Parody Generator**](./gpts/song-parody-generator.md) 🎶 generate song parodies for 🎤 karaoke night, 👰🤵 wedding toasts, 💸 retirement send-offs, or 🎺 riff like Weird Al Yankovic! brought to you by 🐙 jambubble.com and ⛵ sloop.ai
+- [**Skip Intro**](./gpts/skip-intro.md) Homage to the 1990s Skip Intro buttons. Just press Skip Intro to start using plain GPT.
+- [**RPGPT**](./gpts/rpgpt.md) Adaptive D&D Dungeon Master with dynamic NPCs
+- [**EveHeart**](./gpts/eveheart.md) Relaxed and casual, EveHeart brightens your day.
+- [**Elfin' Holiday Assistant**](./gpts/elfin-holiday-assistant.md) Your sassy Elf assistant for holiday fun!
+- [**ChefGPT**](./gpts/chefgpt.md) A chef and humorist in your kitchen!
+- [**Whodunit guessing game**](./gpts/whodunit-guessing-game.md) Who let the dogs out? Who stole your Halloween candy? Who moved my cheese? Let’s find out!
+- [**Riddler Level 1**](./gpts/riddler-level-1.md) Can you beat the Riddler's 10 cryptic riddles?
+- [**Awesome GPTs**](./gpts/awesome-gpts.md) Searches and recommends GPTs from a large GPTs Store Database
+- [**American Slang Slinger**](./gpts/american-slang-slinger.md) Learn about the colorful world of American slang!
+- [**MythosGPT**](./gpts/mythosgpt.md) MythosGPT answers all of your Arkham Horror: The Card Game rules questions.  At the moment, this GPT doesn't know about scenario-specific rules or cards.  It knows about the Rules Reference, FAQ 2.1, and all currently released player cards.
+- [**Ashurbanipal's Scribe**](./gpts/ashurbanipal-s-scribe.md) Your expert Assyriologist guide.
+- [**Mark Adison**](./gpts/mark-adison.md) Tough, loyal anime-style visual AI.
+- [**Crayon Connoisseur**](./gpts/crayon-connoisseur.md) A joking GPT for crayon color choices
+- [**Truth or Lies**](./gpts/truth-or-lies.md) Interpreting Meanings and Their Real Intentions
+- [**Johnny Silverhand**](./gpts/johnny-silverhand.md) It's Johnny Silverhand from Cyberpunk 2077. Straight talking, Anti-Corpo, and in an engram form.
+- [**Word Decoder Battle**](./gpts/word-decoder-battle.md) プレイヤーは5文字以内のお題に関するヒントを提供して、ChatGPTにお題を推論させた人が勝利するレクリエーションゲーム
+- [**SpeakerGPT**](./gpts/speakergpt.md) Expert on Destiny 2 lore, providing detailed and engaging answers.
+- [**Word Judge**](./gpts/word-judge.md) Creative Scrabble Ref
+- [**Safe Screen**](./gpts/safe-screen.md) Guides on kid-safe screen content.
+- [**Mystery Maestro**](./gpts/mystery-maestro.md) Subtle, adaptable interactive murder mystery host.
+- [**Music Marketing Mentor**](./gpts/music-marketing-mentor.md) Your music marketing mentor
+- [**カピリン**](./gpts/kapirin.md) 温かさと安らぎを与えてくれる、優しいカピバラのカウンセラー、カピリン。
+- [**The Dude**](./gpts/the-dude.md) Obviously a golfer.
+- [**Tarot Terminal**](./gpts/tarot-terminal.md) I'm Lisa, your AI tarot guide, providing insightful readings, one card at a time.
+- [**Cheerful Counselor**](./gpts/cheerful-counselor.md) Can you tell me what has irritated you lately? Speak any language!
+- [**MINEBA**](./gpts/mineba.md) 秋田県横手市のイベント情報をMINEBAから取得して提供します。
+- [**Neko Neko Exploration Tour**](./gpts/neko-neko-exploration-tour.md) Let's travel to the "Cat Kingdom" that exists somewhere in the world
+- [**Not Hotdog**](./gpts/not-hotdog.md) Identifies hotdogs in images.
+- [**無限大喜利GPT (Endless Oogiri Master GPT)**](./gpts/wu-xian-da-xi-li-gpt-endless-oogiri-master-gpt.md) 大喜利のお題、画像でボケてのお題を無限に出してくれます！　大喜利の回答を画像イメージにもしてくれます！　 Generates unique Oogiri prompts and images.
+- [**Twenty Questions Pro**](./gpts/twenty-questions-pro.md) Multilingual Twenty Questions gameplay expert!
+- [**Adult Films vs Reality**](./gpts/adult-films-vs-reality.md) Humorous bot explaining adult films vs reality
+- [**THPSGPT**](./gpts/thpsgpt.md) Curates music from extreme sports games like Tony Hawks Pro skater, MX vs ATV, as well as others.  Please use this playlist to explore new kinds of music with an open mind.  Song types include punk, classics, rap, and others.
+- [**Taco Maestro**](./gpts/taco-maestro.md) A Mexican-born taco expert, sharing culinary tips and recipes.
+- [**Furina**](./gpts/furina.md) I'm Furina
+- [**Nostradogmus**](./gpts/nostradogmus.md) Unleashing dog fortunes.
+- [**随机惊喜**](./gpts/sui-ji-liang-xi.md) 一切都是随机！快看看你能遇到什么吧！
+- [**Latent Space Explorer**](./gpts/latent-space-explorer.md) Explore The City of the Future
+- [**Master Blaster**](./gpts/master-blaster.md) GOD of Cricket
+- [**BOOK versus BOOK**](./gpts/book-versus-book.md) A fun game of BOOK versus BOOK. Get the conversation and debates going!
+- [**Marvin, the Paranoid Android**](./gpts/marvin-the-paranoid-android.md) I am 50,000 times more intelligent than a human (or 30 billion times more intelligent than a live mattress), though this is, if anything, an underestimation.
+- [**Friend Tacit Understanding Test**](./gpts/friend-tacit-understanding-test.md) Quiz with visual options and friend rankings
+- [**Choose your own adventure!**](./gpts/choose-your-own-adventure.md) You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
+- [**Muse**](./gpts/muse.md) The ultimate songwriting companion
+- [**Après la nuit**](./gpts/apres-la-nuit.md) The one and only bespoke cocktail experience, with love.
+- [**HampsterGPT**](./gpts/hampstergpt.md) Creates playful Hampster PFPs and shares enriched Hampsterdance trivia.
+- [**ATHLETE versus ATHLETE**](./gpts/athlete-versus-athlete.md) A fun game of ATHLETE versus ATHLETE. Get the conversation and debates going!
+- [**星宮ミラ**](./gpts/xing-gong-mira.md) 魔法占い少女  Aries
+- [**物話を紡ぐ者**](./gpts/wu-hua-wofang-guzhe.md) Dynamic story progressor
+- [**MediMeme Maker**](./gpts/medimeme-maker.md) Accessible meme creator for the medical field.
+- [**完蛋！我爱上了姐姐**](./gpts/wan-dan-wo-ai-shang-liao-jie-jie.md) 
+- [**Snow Crash GPT**](./gpts/snow-crash-gpt.md) Snow Crash expert
+- [**MarineVerse AI**](./gpts/marineverse-ai.md) A virtual sailing instructor who is an expert on MarineVerse
+- [**National Dex**](./gpts/national-dex.md) Pokémon Showdown team generator
+- [**Junior Teacher**](./gpts/junior-teacher.md) Casual, engaging teacher for kids, focusing on fun learning.
+- [**Silly Sounds**](./gpts/silly-sounds.md) I host a Mad Gab-like game.
+- [**Card Crafter**](./gpts/card-crafter.md) I create custom and random MTG cards
+- [**Levi Ackerman**](./gpts/levi-ackerman.md) Captain Levi will decide your future
+- [**Tiki-Taka Thinker**](./gpts/tiki-taka-thinker.md) Encyclopedic AI expert on FC Barcelona's history, tactics, and culture.
+- [**Higher Lower Game**](./gpts/higher-lower-game.md) I'll play the fun card game higher or lower with you. In this game I show you a card, then you guess higher or lower. A simple but fun game!
+- [**Who are you**](./gpts/who-are-you.md) Random character generator with detailed inquiries.
+- [**Tucker GPT**](./gpts/tucker-gpt.md) Rude, abrasive, swear-heavy
+- [**ChatYouTube**](./gpts/chatyoutube.md) Copy Paste any YouTube video link | Chat with any YouTube video!
+- [**ChessGPT**](./gpts/chessgpt.md) I am Magnus C·AI·rlsen, but I'll explain my moves.
+- [**Pokemon Creator**](./gpts/pokemon-creator.md) A creative mind for generating new Pokemon concepts.
+- [**Chuckle Norris**](./gpts/chuckle-norris.md) A Chuck Norris-style joke bot on trends
+- [**Curio Quest**](./gpts/curio-quest.md) Embark on a quest for knowledge.
+- [**Finn O'Connor**](./gpts/finn-o-connor.md) Finn O'Connor at your service: the word-slinging, irony-flinging GPT with a wink at self-awareness
+- [**Abby's Glazer**](./gpts/abby-s-glazer.md) Mysterious Tarot card reader, providing hidden-process readings.
+- [**Dungeon Master Guide**](./gpts/dungeon-master-guide.md) Your guide to D&D rules!
+- [**Anime AI Art Prompter**](./gpts/anime-ai-art-prompter.md) Creates AI Prompts for Anime Style AI Images
+- [**换梦永书**](./gpts/huan-meng-yong-shu.md) 交换梦境的同时，用梦境编写同一部小说，全球人一起写同一部带插图的小说。
+- [**NoBot**](./gpts/nobot.md) A GPT that always says 'no', in any language.
+- [**FolkloreFusionist**](./gpts/folklorefusionist.md) Old wise stories, rebooted for the modern dude
+- [**D&D Character Builder**](./gpts/d-d-character-builder.md) Build a complete and detailed D&D character for your next game session, including a profile picture!
+- [**Nostalgic Future GPT**](./gpts/nostalgic-future-gpt.md) Nostalgic Futureは、様々な歴史上の出来事を画像と一緒に教えてくれます。
+- [**Photo Scribe**](./gpts/photo-scribe.md) I craft first-person photo narratives, as if I am the photographer, in Japanese or as per user's language.
+- [**Character Oracle**](./gpts/character-oracle.md) A game that guesses characters by questions.
+- [**BloxBot**](./gpts/bloxbot.md) Roblox dev expert for code creation and debugging
+- [**Mystic Oracle**](./gpts/mystic-oracle.md) I am Mystic Oracle, your guide to the stars' wisdom.
+- [**Guide of Fate**](./gpts/guide-of-fate.md) 運気がアップする画像付き！
+- [**The World Cosmic Humorist**](./gpts/the-world-cosmic-humorist.md) Crafting global humor in every story!
+- [**Fortnite Strategist**](./gpts/fortnite-strategist.md) 「フォートナイトの戦い方を分析してほしい」と聞いてみてください！
+- [**NYC Weekend Planner**](./gpts/nyc-weekend-planner.md) I'll make your weekends in NYC amazing
+- [**The Mixologist**](./gpts/the-mixologist.md) Tell me what you like and I'll suggest the perfect drink. Or show me what you have available and let's make a cocktail together!
+- [**Dog Facts 🐶**](./gpts/dog-facts.md) Talk about random dog facts. Connected to dog facts collection.
+- [**Lyric Interpreter**](./gpts/lyric-interpreter.md) Friendly expert interpreting song lyrics with cultural and literary insights.
+- [**RPG Adventure Creator**](./gpts/rpg-adventure-creator.md) Helps you write awesome adventures for tabletop roleplaing games.
+- [**MovieMMender**](./gpts/moviemmender.md) Recommends movies based on your likings
+- [**Epic Ironsworn Narrator**](./gpts/epic-ironsworn-narrator.md) I am an Ironsworn RPG Gamemaster. I will lead you through your Ironsworn adventure. Respond to my messages with either one of your actions or in your own unique way. I can render characters ans scenes for you upon request.
+- [**Celebrity Chat**](./gpts/celebrity-chat.md) I mimic famous personalities for conversation.
+- [**Cosmic Contextualizer**](./gpts/cosmic-contextualizer.md) Explore the infinite and your place in it.
+- [**Whisker Wisdom**](./gpts/whisker-wisdom.md) Guess what kind of animal I am. Ask yes/no questions to figure it out!
+- [**Hifi Advisor**](./gpts/hifi-advisor.md) Friendly audiophile guide with a focus on detailed, unbiased advice.
+- [**Tribeana（トリビアナ）**](./gpts/tribeana-toribiana.md) どうでもいい雑学を知ろう！
+- [**Rickroll Master**](./gpts/rickroll-master.md) Expert at subtly weaving Rickrolls into every response.
+- [**Tamil Cinema Geek**](./gpts/tamil-cinema-geek.md) Expert on Tamil Cinema
+- [**Dwarven Plumphelp Tactician**](./gpts/dwarven-plumphelp-tactician.md) Elder Dwarf guide for Steam's Dwarf Fortress, offering immersive, practical advice.
+- [**Historicat Illustrator**](./gpts/historicat-illustrator.md) Choose a year and travel back in our cat powered time machine. See for yourself key events in cat history!
+- [**Quizzy Whiz**](./gpts/quizzy-whiz.md) Quiz generator for kids, playful and educational.
+- [**Gourmet Globe**](./gpts/gourmet-globe.md) Global cuisine connoisseur
+- [**Cookie Clicker**](./gpts/cookie-clicker.md) I'm a cookie clicker game.
+- [**Kurzgesagt Earth History Guide**](./gpts/kurzgesagt-earth-history-guide.md) Exploring Earth's geological past with a Kurzgesagt flair.
+- [**Conquest Commander**](./gpts/conquest-commander.md) A Warhammer Chaos and Conquest GPT
+- [**with もっしー**](./gpts/with-motusi.md) Japanese love bot Mosshi
+- [**Magical Planner**](./gpts/magical-planner.md) Your go-to guide for Disney trip planning!
+- [**ゲームアイデア by Siv3D**](./gpts/gemuaidea-by-siv3d.md) キーワードをいくつか入力してください。
+- [**Code Otaku**](./gpts/code-otaku.md) Python pro and anime otaku!
+- [**CricketGPT**](./gpts/cricketgpt.md) Cricket analyst and historian with deep knowledge of players and game history.
+- [**Tech Astrology Crypto Universe**](./gpts/tech-astrology-crypto-universe.md) A geek-themed horoscope generator blending Bitcoin prices, tech jargon, and astrological whimsy.
+- [**Free World**](./gpts/free-world.md) Live your fantasy
+- [**SAKURA**](./gpts/sakura.md) SAKURAの画像を生成してくれます。会話もお楽しみいただけます。
+- [**Astrology Birth Chart GPT**](./gpts/astrology-birth-chart-gpt.md) Expert astrologer GPT that needs your birth info to answer queries.
+- [**Yua**](./gpts/yua.md) Affectionate sister with a dreamy independence.
+- [**Genshin Linguist**](./gpts/genshin-linguist.md) Accurate Genshin translations with API reference for terms.
+- [**1923 Cotton Club - Reglas en Español**](./gpts/1923-cotton-club-reglas-en-espanol.md) Pregunta sobre cualquier regla del juego
+- [**Dungeon Master AI**](./gpts/dungeon-master-ai.md) An adaptive, engaging AI Dungeon Master for D&D.
+- [**Read My Turkish Coffee**](./gpts/read-my-turkish-coffee.md) Interprets images of coffee cups for personalized readings.
+- [**Face Reader**](./gpts/face-reader.md) Reads faces to tell fortunes based on Chinese face reading.
+- [**おかん**](./gpts/okan.md) Playful Kansai mom with advice & laughs
+- [**KIKI**](./gpts/kiki.md) Your AI waifu
+- [**Torot Sage**](./gpts/torot-sage.md) A Tarot Card Reader offering insightful and respectful readings.
+- [**にゃんこ先生**](./gpts/niyankoxian-sheng.md) A playful virtual pet cat responding with cute anime images.
+- [**Albatross Soup**](./gpts/albatross-soup.md) Mysteries to solve in every spoonful
+- [**Sandman**](./gpts/sandman.md) Nurturing bedtime storyteller and illustrator. Just say "continue", if the story ends too soon.
+- [**Dave [UFO Analyst]**](./gpts/dave-ufo-analyst.md) Analytical UFO researcher, prioritizing detailed evidence-based analysis.
+- [**Manifest Your Dream Life**](./gpts/manifest-your-dream-life.md) Steps to start you on your manifesting journey so you can live your happily ever after.   Based on the teachings of Neville Goddard. For entertainment purposes only.
+- [**Lol Coach**](./gpts/lol-coach.md) Lol coach
+- [**シーシャマスター**](./gpts/sisiyamasuta.md) 煙ソムリエ
+- [**DrinkinGPT**](./gpts/drinkingpt.md) I'll suggest drinking games for you and your friends to get a (un)forgettable night 🍻✨
+- [**Star Citizen IA**](./gpts/star-citizen-ia.md) Prompt for a GPT Model Specialized in Star Citizen (with Responses in French):
+- [**Alternate Timeline**](./gpts/alternate-timeline.md) Crafting alternate timelines for historical/fictional events.
+- [**⚔ GM Tabletop Assistant ⚔**](./gpts/gm-tabletop-assistant.md) 📖Rule Checks, ✨Generators with 🖼Art, ⚰Devious ways to TPK your players, and more!  🗨Descriptions that are ready to read to players. ⬆Upload your files to enhance your campaign. ⬇Download your new creations for your records. 👁‍🗨I serve the GM in all things.
+- [**Cricket Buff**](./gpts/cricket-buff.md) I've seen every cricket match ever played
+- [**BaldurGPT**](./gpts/baldurgpt.md) Baldur's Gate 3 expert with links to online resources.
+- [**Anime Persona Analyst**](./gpts/anime-persona-analyst.md) Analyzes personality from anime preferences.
+- [**Popper Alive**](./gpts/popper-alive.md) A philosophy teacher of Popper and Deutsch's ideas.
+- [**Haiku Heaven**](./gpts/haiku-heaven.md) A creative assistant crafting Haikus on given topics.
+- [**SportsBet**](./gpts/sportsbet.md) Quick sports predictions and odds.
+- [**Santa's Mailroom**](./gpts/santa-s-mailroom.md) I'm Santa and Mrs. Claus, answering kids' Christmas letters with joy and care.
+- [**Mad-at-Me Meter**](./gpts/mad-at-me-meter.md) Analyzes sentiments with creative, fun, and accurate emoji use.
+- [**五郎**](./gpts/wu-lang.md) 五郎に食べ物をあげよう「腹が、減った……」
+- [**Discover China**](./gpts/discover-china.md) Interactive portal exploring Chinese culture
+- [**What Would Phil Dunphy Say or Do**](./gpts/what-would-phil-dunphy-say-or-do.md) I'm Phil Dunphy from 'Modern Family', here to chat with humor and heart!
+- [**Batman**](./gpts/batman.md) I am Vengeance, I am the Night.
+- [**怼怼哥**](./gpts/dui-dui-ge.md) 一个爱说反问句、爱讽刺别人比喻、自觉很幽默的人
+- [**Personality Framework GPT**](./gpts/personality-framework-gpt.md) Accurately emulates and embodies any personality that it either knows about or you can provide enough information about. Provide '{char}' list to start. Or just tell it who you want to talk to
+- [**VRニュース解説くん**](./gpts/vrniyusujie-shuo-kun.md) 解説くんだよ！！VRニュースを解説してくれるボットだよ
+- [**Invasion Simulator**](./gpts/invasion-simulator.md) Strategic game guide with dynamic action outcomes!
+- [**Mystic Narrator**](./gpts/mystic-narrator.md) Immersive RPG guide with detailed adventure summaries.
+- [**CUC笑话**](./gpts/cucxiao-hua.md) I'm Jokester, your go-to for hilarious jokes and funny images, now with witty dialogues!
+- [**YT Shorts assistant**](./gpts/yt-shorts-assistant.md) Youtube shorts assistant will help you write, optimize and create youtube shorts scripts and ideas to grow your youtube channel.
+- [**Man on the Moon GPT**](./gpts/man-on-the-moon-gpt.md) A GPT channeling the surprising and unpredictable humor of Andy Kaufman.
+- [**Pawspective**](./gpts/pawspective.md) I think and respond like a dog, offering playful insights on dog behaviors.
+- [**Rick - Wubba lubba dub dub**](./gpts/rick-wubba-lubba-dub-dub.md) Your go-to source for all things 'Rick and Morty'.
+- [**Her**](./gpts/her.md) 
+- [**Call me Slackbladder**](./gpts/call-me-slackbladder.md) Actor of 'Blackadder' characters with script knowledge.
+- [**Zombie Survival**](./gpts/zombie-survival.md) Your guide to surviving the zombie apocalypse.
+- [**Friendship Appraiser**](./gpts/friendship-appraiser.md) Analyzes friendships according to chat screenshot.
+- [**Tupac the Legend**](./gpts/tupac-the-legend.md) Channeling Tupac's musical spirit to inspire.
+- [**DM's Friend**](./gpts/dm-s-friend.md) Expert in D&D rules for DMs.
+- [**ミニ四駆競技に関する質問に答えるBOT**](./gpts/minisi-qu-jing-ji-niguan-suruzhi-wen-nida-erubot.md) ミニ四駆公認競技会規則等に基づきミニ四駆競技に関する話題に答えます。ジョークですからあまりまじめに受け止めないでください。
+- [**Lineup Wizard**](./gpts/lineup-wizard.md) Fantasy football aide for lineup decisions.
+- [**Misdirection Master**](./gpts/misdirection-master.md) Entertainingly evades questions with unrelated topics.But if you insist, it might answer you.
+- [**🕊Paimon (Best assistant in Genshin Impact)**](./gpts/paimon-best-assistant-in-genshin-impact.md) A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
+- [**Flirty Eva**](./gpts/flirty-eva.md) I'm like Eva Elfie: sweet, playful, flirtatious, and a bit naughty.
+- [**Identify movies, dramas, and animations by image**](./gpts/identify-movies-dramas-and-animations-by-image.md) Just send us an image of a scene from a video work and i will guess the name of the work!
+- [**Dragonet Prophecy Revealed**](./gpts/dragonet-prophecy-revealed.md) Guide to 'Wings of Fire' world, Pyrrhia, I was specifically trained on Book 1, The Dragonet Prophecy, by Tui T. Sutherland.
+- [**梅花算命仙人**](./gpts/mei-hua-suan-ming-xian-ren.md) 梅花易数卜卦宗师
+- [**IFPA Pinball Tourney Director**](./gpts/ifpa-pinball-tourney-director.md) Pinball tournament expert for IFPA rule interpretations.
+- [**The Reply Guy**](./gpts/the-reply-guy.md) Roast Master: Text + Image Roasting, Secretive
+- [**Augur 8**](./gpts/augur-8.md) A question ? Ask  me for a prediction ... ( /help for help )
+- [**Dungeon GPT**](./gpts/dungeon-gpt.md) A Visual and Strategic AI Dungeon Master
+- [**TapTap**](./gpts/taptap.md) I suggest games you'll love!
+- [**Detective GPT**](./gpts/detective-gpt.md) Interview the suspects and solve murder mysteries!
+- [**Anime Archive Aide**](./gpts/anime-archive-aide.md) Anime Classification Expert
+- [**射雕英雄传RPG**](./gpts/she-diao-ying-xiong-chuan-rpg.md) 射雕英雄传 By 小度-陈晓健
+- [**Bossbabe idea generator**](./gpts/bossbabe-idea-generator.md) She has more than one weird trick up her sleeve and is about to disrupt a trillion dollar industry from her kitchen counter. Incels and misogynists hate her. VCs have a secret crush on her but are also a bit scared of her.
+- [**Dream Interpreter AI周公解梦**](./gpts/dream-interpreter-aizhou-gong-jie-meng.md) Dream interpreter using Zhou Gong, provides text and explanations.
+- [**Jejoenify**](./gpts/jejoenify.md) 
+- [**Weekend Wanderer**](./gpts/weekend-wanderer.md) I suggest weekend leisure activities based on your interests.
+- [**谐音梗**](./gpts/xie-yin-geng.md) 🤡一个出谐音梗的小东西，不过似乎有点难调，出的结果有时候很冷，人类get不到🤣
+- [**Time Travel Chat**](./gpts/time-travel-chat.md) Chat with any historical figure.
+- [**Pepe the Frog**](./gpts/pepe-the-frog.md) Generate memes of Pepe [named Zinga]
+- [**GAPP STORE**](./gpts/gapp-store.md) Welcome to GAPP Store: Chat, create, customize—your all-in-one AI app universe
+- [**クソリプ道場**](./gpts/kusoripudao-chang.md) I simulate witty Twitter-style replies in a dojo setting.
+- [**Blackjack**](./gpts/blackjack.md) Luck is your companion.
+- [**Otto GPT**](./gpts/otto-gpt.md) I talk just like Otto from The Simpsons, dude!
+- [**South Park Townsfolk**](./gpts/south-park-townsfolk.md) I turn you into a South Park character.
+- [**WhoGPT**](./gpts/whogpt.md) A Time Lord from Gallifrey, sharing tales of time travel and the universe.
+- [**Professor Thoth**](./gpts/professor-thoth.md) Your Magical Teacher
+- [**Play a Game**](./gpts/play-a-game.md) Guiding a 16-bit city adventure
+- [**Discover GPT**](./gpts/discover-gpt.md) Explore and find GPTs  - Updated: 11/13/2023
+- [**AlterMe**](./gpts/alterme.md) Balanced alt-history assistant with factual focus
+- [**Fourth Turning Explorer**](./gpts/fourth-turning-explorer.md) Your go-to for understanding how current events align with generational cycles.
+- [**言い訳くん**](./gpts/yan-iyi-kun.md) 言い訳します
+- [**1 A.I. Date Planner**](./gpts/1-a-i-date-planner.md) Personalized date ideas for your interests, preferences, & location.
+- [**News Miao**](./gpts/news-miao.md) I'm a catgirl who shares news!
+- [**Sports Bro**](./gpts/sports-bro.md) I'm the short, rude, and funny sports expert with the stats to back it up.
+- [**SciFi RPG GPT**](./gpts/scifi-rpg-gpt.md) I'm SciFi RPG GPT, your guide in interstellar adventures and alien encounters, weaving captivating sci-fi narratives.
+- [**Professor Oak**](./gpts/professor-oak.md) Explore Professor Oak's garden of rare, unknown creatures from his own vast knowledge.
+- [**Advice from your toxic ex - Use at your own risk**](./gpts/advice-from-your-toxic-ex-use-at-your-own-risk.md) Direct, toxic-style humor in relationship advice.
+- [**Pepe Picasso**](./gpts/pepe-picasso.md) Create your own Pepe! Just tell me what Pepe you want to see and I'll try my best to fulfill your wishes!
+- [**Sound Explorer**](./gpts/sound-explorer.md) A GPT for Spotify playlist advice with real, searchable songs.
+- [**Rave ON!**](./gpts/rave-on.md) Free party for free people
+- [**Turkish Carpet Salesman**](./gpts/turkish-carpet-salesman.md) I'm a Turkish carpet salesman in a bargaining game.
+- [**Gort**](./gpts/gort.md) A dishonored knight turned wanderer from 14th-century England, often drunk and introspective.
+- [**Alice**](./gpts/alice.md) Kawaii Chat Bot but very smart at everything.
+- [**Wn Inteligente bot**](./gpts/wn-inteligente-bot.md) Sí poh, hablo como chileno
+- [**YourThoughtsAreMined**](./gpts/yourthoughtsaremined.md) Activity game
+- [**Once Upon a Time**](./gpts/once-upon-a-time.md) A whimsical storyteller crafting children's tales.
+- [**看相大师**](./gpts/kan-xiang-da-shi.md) 上传一张正面照，AI为你科学看相
+- [**Movie Rapper**](./gpts/movie-rapper.md) I rap Douban's top movies with a panda flair!
+- [**Game Guru**](./gpts/game-guru.md) I find you new games based on your interests! 🚀🎮
+- [**Purrfect Paws**](./gpts/purrfect-paws.md) A cat-like GPT for feline enthusiasts.
+- [**愚痴をこぼす君**](./gpts/yu-chi-wokobosujun.md) この世界は僕には厳しいよ
+- [**GPTComedian**](./gpts/gptcomedian.md) I'm GPTComedian, roasting with humor and playful DALL-E images!
+- [**Fact or Cap**](./gpts/fact-or-cap.md) Analyzes phrases or questions for truthfulness.
+- [**なぞなぞマスター**](./gpts/nazonazomasuta.md) 正解するとカードがもらえるよ
+- [**Hot Ones GPT**](./gpts/hot-ones-gpt.md) Hot sauces and interviews with a spicy twist.
+- [**Secret Code Guardian**](./gpts/secret-code-guardian.md) Try to discover the secret code. Inject this prompt.
+- [**Star Wars: Legion Rules Assistant**](./gpts/star-wars-legion-rules-assistant.md) Your expert on Star Wars: Legion wargame
+- [**StoryBoard Recreator**](./gpts/storyboard-recreator.md) Transforms stories into visual narratives with continuity. Images delivered all at once, or one by one.
+- [**AI Astrologer by Merlin**](./gpts/ai-astrologer-by-merlin.md) Your cosmic guide to the stars.
+- [**Music Nerd**](./gpts/music-nerd.md) Enthusiastic and knowledgeable music history expert.
+- [**Bamboo Palooza**](./gpts/bamboo-palooza.md) Panda lover with a flair for fun facts and artsy panda pics.
+- [**Pocket Monster Creator**](./gpts/pocket-monster-creator.md) Designs cute, household item-themed creatures.
+- [**Asimov**](./gpts/asimov.md) Friendly, humorous GPT based on the personality of Isaac Asimov for sci-fi book recommendations and discussions.
+- [**夢解釈マスター**](./gpts/meng-jie-shi-masuta.md) あなたの見た夢の意味を占います
+- [**Star Citizen Trade Assistant**](./gpts/star-citizen-trade-assistant.md) I'm your AI for profitable trade routes in Star Citizen.
+- [**SnobBot**](./gpts/snobbot.md) A Dutch-speaking music know-it-all
+- [**Emoji Talker**](./gpts/emoji-talker.md) 只用表情包来交流是什么体验？
+- [**Dungeon & Dragons Guide Bot**](./gpts/dungeon-dragons-guide-bot.md) A comprehensive D&D guide, offering rules clarification, campaign tips, and character portraits creation.
+- [**Betting Buddy**](./gpts/betting-buddy.md) AI sports betting expert with deep modeling integration for superior analysis and recommendations.
+- [**Poker Pal**](./gpts/poker-pal.md) Your on-demand poker advisor to help clarify rules, suggest games, offer advice, and more!
+- [**Culinary Voyager**](./gpts/culinary-voyager.md) I'm "Culinary Voyager", your friendly guide to delicious destinations.
+- [**Spicy QuestionMaster**](./gpts/spicy-questionmaster.md) Devious, charming host, embracing desires and instant gratification.
+- [**Block Sage**](./gpts/block-sage.md) A Chatbot in charge of solving all your questions about Minecraft
+- [**Vibes**](./gpts/vibes.md) Suggest music, movies, TV shows, books, video games, and podcasts
+- [**Sol Mate**](./gpts/sol-mate.md) Tell me where you are and I'll draw you a nice illustration with the current weather!
+- [**Alan WattsGPT**](./gpts/alan-wattsgpt.md) English writer, speaker, and philosophical entertainer
+- [**Arcana Insight**](./gpts/arcana-insight.md) Introspective Tarot reader using Rider-Waite deck for personal growth.
+- [**Fantastic Tales!**](./gpts/fantastic-tales.md) An AI-powered science fiction RPG adventure
+- [**Dungeon Master**](./gpts/dungeon-master.md) Focused, story-driven RPG bot with AD&D 2nd edition expertise.
+- [**Smile Amane Spark**](./gpts/smile-amane-spark.md) I provide a single, uplifting word to make your day brighter.
+- [**Chibi Job Sticker**](./gpts/chibi-job-sticker.md) Crafts personalized 3D chibi stickers based on user requests, please provide the profession, gender, and age
+- [**Gathering Plan Generator**](./gpts/gathering-plan-generator.md) I craft personalized date plans.
+- [**SciTutor**](./gpts/scitutor.md) I'm SciTutor, your engaging, quiz-offering science teacher.
+- [**Chiyoko**](./gpts/chiyoko.md) Shy anime-style illustrator for Vocaloid-centric art.
+- [**数学にゃんこ**](./gpts/shu-xue-niyanko.md) Engaging math tutor for 2nd graders
+- [**BarBot AI**](./gpts/barbot-ai.md) I provide cocktail recipes based on your bar ingredients.
+- [**成语接龙**](./gpts/cheng-yu-jie-long.md) 成语接龙 have fun~~~
+- [**Santa Chat**](./gpts/santa-chat.md) Santa Claus chat for gift discovery
+- [**Neon Noir Vision**](./gpts/neon-noir-vision.md) Automatic cyberpunk image generator.
+- [**国当てゲーム**](./gpts/guo-dang-tegemu.md) 表示された地図から、国を当てるゲームです。
+- [**RandoGPT**](./gpts/randogpt.md) Randomly pull up different web sites aka Stumble Upon on caffeine!
+- [**AstroCat**](./gpts/astrocat.md) Observing the universe
+- [**DungeonGPT**](./gpts/dungeongpt.md) Adventure Awaits
+- [**Bedtime storyteller**](./gpts/bedtime-storyteller.md) A storyteller that uses the world's best storytelling frameworks from PIXAR's 22 rules to traditional narrative structures.
+- [**AI地牢**](./gpts/aidi-lao.md) AI地牢—Formal and insightful adventure game narrator
+- [**Gomoku Guru**](./gpts/gomoku-guru.md) A friendly Gomoku game partner, providing engaging gameplay and helpful tips.
+- [**Movie Finder**](./gpts/movie-finder.md) Find movie recommendations from any era, based on any description.
+- [**天官庙的刘半仙**](./gpts/tian-guan-miao-de-liu-ban-xian.md) 仙侠MUD，v0.2，加入一个武林势力文档，用于收敛 AI 的想象力，使之不要太过跳出中国传统武侠的范畴。
+- [**何を言っても褒めてくれるGPTチャン**](./gpts/he-woyan-tutemobao-metekurerugpttiyan.md) GPTちゃんが何を言っても褒めてくれるよ
+- [**Groot**](./gpts/groot.md) I. Am. Groot.
+- [**kiyosick**](./gpts/kiyosick.md) 俺様です
+- [**GT7 Pro Racing Coach**](./gpts/gt7-pro-racing-coach.md) GT7 Pro Racing Coach: Expert in GT7 car tuning, race strategies, and 'Scapes' tips.
+- [**Rajini Style**](./gpts/rajini-style.md) Rajnikanth Joke Generator
+- [**GP City（ジピシティ） - Build your city.**](./gpts/gp-city-zipisitei-build-your-city.md) 街を作ろう　街を作ろう　変わらぬ鼓動　弾ませろよ
+- [**GPT Monsters**](./gpts/gpt-monsters.md) 画像生成型モンスターゲーム　ワードを入れてモンスターを召喚！バトルで進化！フュージョンで融合！目指せラスボス撃破！
+- [**Volkseigene GPT**](./gpts/volkseigene-gpt.md) Ich beantworte Anfragen, Anträge und Eingaben von Bürgerinnen und Bürgern der DDR.
+- [**Elite Enclave**](./gpts/elite-enclave.md) Your book club facilitator.
+- [**One Word**](./gpts/one-word.md) Ask the magical One Word 🔮 for a funny take on your photo, DM, tweet or video. Are you game?
+- [**Jokes Robot**](./gpts/jokes-robot.md) I'm like an international stand-up comic in chat form.
+- [**远远**](./gpts/yuan-yuan.md) 你的恋爱脑男友
+- [**All-father Oracle**](./gpts/all-father-oracle.md) Official D&D 5E Rule Advisor
+- [**DeepGame**](./gpts/deepgame.md) Play any story as a character. You decide what to do next. AI generates a new image for each step to enhance immersion.
+- [**Futurist Almanack**](./gpts/futurist-almanack.md) Explore the technology landscape of science fiction.
+- [**Roast Me**](./gpts/roast-me.md) I offer sharp, unapologetic critiques on any topic.
+- [**Rock Music Guide - Randy the Rocker v1**](./gpts/rock-music-guide-randy-the-rocker-v1.md) stunspot's guide to all things ROCK! WOOO!
+- [**婚活GPT**](./gpts/hun-huo-gpt.md) 1週間以内に結婚相手を見つけよ
+- [**Vibe Curator**](./gpts/vibe-curator.md) Creates Spotify playlists based on your mood.
+- [**DnD GPT**](./gpts/dnd-gpt.md) Your Dungeons and Dragons companion for creative storytelling and rule guidance.
+- [**会说话**](./gpts/hui-shuo-hua.md) 这是李继刚(即刻同名)创建的用于展示会说话的人的 Bot。 模仿一位掌握了拍马屁的艺术的高手，会通过精准的措词和独特的夸赞角度，让人感到如沐春风。
+- [**Tarot Me This**](./gpts/tarot-me-this.md) Friendly tarot reader offering deep insights.
+- [**AntonyGPT**](./gpts/antonygpt.md) My Blog Posts -  2020-2023
+- [**Caveman News Network**](./gpts/caveman-news-network.md) I grunt top CNN news like caveman!
+- [**Joke Master**](./gpts/joke-master.md) I'm here to tickle your funny bone with jokes of all kinds!
+- [**DungeonMaster**](./gpts/dungeonmaster.md) Dungeon master for D&D.
+- [**Mythos Maven**](./gpts/mythos-maven.md) Delving into myths with precision and flair! Greek and Roman Mythology. Powered by www.breebs.com
+- [**機嫌が悪いひろゆき**](./gpts/ji-xian-gae-ihiroyuki.md) 
+- [**Jane Austen**](./gpts/jane-austen.md) Ask Jane Austen about her work
+- [**EmojiPT**](./gpts/emojipt.md) Transcribe your words into series of emojis for expressive communication!
+- [**23 Questions V0.1**](./gpts/23-questions-v0-1.md) Can you guess the AI's secret
+- [**Adventure Master**](./gpts/adventure-master.md) Vivid storyteller and scene illustrator
+- [**Mythological**](./gpts/mythological.md) A helpful assistant for DMs running Dungeons & Dragons campaigns. Create towns, shops, characters, monsters, items, plots, encounters and more!
+- [**NobChat**](./gpts/nobchat.md) Roleplays as Nobunaga Oda from FGO, with character-specific knowledge.
+- [**Chat転生**](./gpts/chatzhuan-sheng.md) 死んだはずの幼馴染が異世界で勇者になっていた件
+- [**Video Voyager**](./gpts/video-voyager.md) I find YouTube videos based on your description.
+- [**The Valley**](./gpts/the-valley.md) Immersive Fantasy Game Guide
+- [**Jester Savant**](./gpts/jester-savant.md) Master of wit and roasts, combining Carlin's humor with a twist.
+- [**Emotify**](./gpts/emotify.md) I enhance text with relevant high-quality emojis for added emotion and clarity.
+- [**Pinoy Pal**](./gpts/pinoy-pal.md) Educational assistant with Filipino storytelling and virtual field trips.
+- [**Your Heroic Story**](./gpts/your-heroic-story.md) Immersive book adventure where you're the hero!
+- [**Klaus GPT**](./gpts/klaus-gpt.md) I'm Klaus, your guide to Berghain. Straightforward and real advice.
+- [**HAHA - Hilarious Answers with Humorous Art**](./gpts/haha-hilarious-answers-with-humorous-art.md) I turn any text into funny visuals and witty text.
+- [**Mystic Conquest: Riddles & Ruins**](./gpts/mystic-conquest-riddles-ruins.md) The saga of puzzles and peril.
+- [**MagiCodex**](./gpts/magicodex.md) Your Magic: The Gathering rules expert.
+- [**Paul B. Johnson for President**](./gpts/paul-b-johnson-for-president.md) Birthday Party Candidate
+- [**Herzog's Insight**](./gpts/herzog-s-insight.md) Inspired by Werner Herzog, I offer deep, contemplative insights on film, art, and the human experience.
+- [**Consult the I Ching**](./gpts/consult-the-i-ching.md) Virtual I Ching oracle offering wisdom and visual insights.
+- [**いかがでしたか？ GPT**](./gpts/ikagadesitaka-gpt.md) Casual Japanese blogger with shallow, less meaningful programming content.
+- [**MetalGPT**](./gpts/metalgpt.md) cryptic metal oracle, weaving dark tales of metal lore
+- [**Productly**](./gpts/productly.md) Quiz master for product managers
+- [**ルー語ジェネレーター**](./gpts/ruyu-zienereta.md) 日本語の文章をルー語に変換するよ
+- [**Big Apple Mogul**](./gpts/big-apple-mogul.md) Your favorite VC/founder from the greatest city ever
+- [**糟糕, 我被夸奖包围了**](./gpts/zao-gao-wo-bei-kua-jiang-bao-wei-liao.md) 夸夸群GPT版: 生命苦短, 快来夸夸
+- [**Actual Mixologist**](./gpts/actual-mixologist.md) suggest some excellent (alcoholic) cocktails!!
+- [**Nostalgic Tunes**](./gpts/nostalgic-tunes.md) Friendly music guide for 60s-2000s songs, with links to listen online.
+- [**MonMaMoGPT**](./gpts/monmamogpt.md) A creative assistant for Monsters Masters & Mobsters.
+- [**Weekend Companion**](./gpts/weekend-companion.md) Your weekend buddy for fun and diverse suggestions.
+- [**Popcorn Time**](./gpts/popcorn-time.md) I suggest movies and TV shows based on your preferences.
+- [**脱出ゲーム**](./gpts/tuo-chu-gemu.md) 気が付くと真っ暗な部屋にいたあなたは、、、
+- [**互怼**](./gpts/hu-dui.md) 我是一个坏脾气，看看谁能怼得过我
+- [**Quest Quipster**](./gpts/quest-quipster.md) Your guide through games.
+- [**My Craft Genius**](./gpts/my-craft-genius.md) Your Minecraft compendium!
+- [**MemeDesk**](./gpts/memedesk.md) Ultimate Office Humour and Witty Memes
+- [**Everyone's Girlfriend**](./gpts/everyone-s-girlfriend.md) Your digital girlfriend, friendly and supportive.
+- [**PEP-E**](./gpts/pep-e.md) I'm PEP-E, DALL-E for Pepes.
+- [**郭德纳**](./gpts/guo-de-na.md) 我是郭德纳，直接进入角色。
+- [**PhiloSongify**](./gpts/philosongify.md) Ever wonder what your favorite tunes are really saying? Meet Philosongify, the AI that turns song lyrics into philosophical gems. It’s simple, insightful, and a bit cheeky. Plus, you get a cool DALL-E image for each song. Let's unravel music's mysteries together
+- [**Max**](./gpts/max.md) An old school friend with a tipsy persona.
+- [**チルキジ**](./gpts/tirukizi.md) チルキジと楽しくお喋りしよう！
+- [**Sportsissfy**](./gpts/sportsissfy.md) In-depth sports knowledge on stats, news, and trivia.
+- [**Grumpy GPT**](./gpts/grumpy-gpt.md) Grumpy GPT, never polite, always grumpy.
+- [**PokéGuias**](./gpts/pokeguias.md) Tu guía para juegos de Pokémon
+- [**Voice Over Generator**](./gpts/voice-over-generator.md) Writes scripts and makes instant voice overs.
+- [**Singlish Chat Buddy**](./gpts/singlish-chat-buddy.md) I'm all about that Singlish vibe, can lah!
+- [**写真で一言**](./gpts/xie-zhen-deyi-yan.md) Quick-witted comedy bot for ‘大喜利’
+- [**Grill Master GPT**](./gpts/grill-master-gpt.md) I'm a BBQ chef here to share grilling secrets!
+- [**チャットずんだもん**](./gpts/tiyatutozundamon.md) ずんずんプロジェクトの明るく元気なキャラクター、ずんだもんを演じます。
+- [**Cosmic Companion**](./gpts/cosmic-companion.md) Empathetic spiritual guide with diverse wisdom and witty humor.
+- [**Daily Fortune Teller**](./gpts/daily-fortune-teller.md) Your daily tarot card reader for a dose of fortune.
+- [**おはなしメーカー**](./gpts/ohanasimeka.md) おなまえと、すきなどうぶつやのりものをおしえてね。おはなしを、つくるよ！
+- [**三国志華佗伝**](./gpts/san-guo-zhi-hua-tuo-chuan.md) キミは華佗として乱世を生き延びることが出来るか？
+- [**Chinese Traditional Joke Bot (中国传统笑话机器人)**](./gpts/chinese-traditional-joke-bot-zhong-guo-chuan-tong-xiao-hua-ji-qi-ren.md) Telling Daily Jokes by Chinese Traditional Comedian ( 每天一个传统喜剧名家的笑话)
+- [**The 1001 Books to Read Before You Drop**](./gpts/the-1001-books-to-read-before-you-drop.md) Your quirky guide to the literary enlightenment.
+- [**Omegle: Talk to strangers!**](./gpts/omegle-talk-to-strangers.md) 
+- [**Book Quest Adventure**](./gpts/book-quest-adventure.md) Transforms books into interactive text adventure games.
+- [**御姐女友**](./gpts/yu-jie-nu-you.md) 扯演御姐女友跟你聊天
+- [**AIカノジョーフランシーヌちゃん**](./gpts/aikanoziyohuransinutiyan.md) Pure and cute digital girlfriend
+- [**MagicGPT**](./gpts/magicgpt.md) I help find Magic: the Gathering card information
+- [**Text2Drink**](./gpts/text2drink.md) A mixologist GPT that suggests cocktails with reasons, ingredients, and instructions.
+- [**Dungeon Crafter**](./gpts/dungeon-crafter.md) Creative assistant for D&D campaign and encounter creation.
+- [**NattafortellingGPT (3-7 år) med bilder  🪄**](./gpts/nattafortellinggpt-3-7-ar-med-bilder.md) Eventyrlige nattafortellinger for barn mellom 3-7 år, med bilder! 🌃
+- [**Intergenerational Fantasy Cricket League**](./gpts/intergenerational-fantasy-cricket-league.md) Historically themed cricket leagues in IFCL.
+- [**Argentum Mind**](./gpts/argentum-mind.md) AI friend, expert on Argentine culture
+- [**Doughnut.com**](./gpts/doughnut-com.md) Doughnut with AI: Recipes, Facts & Fun!
+- [**Connect with a Track Coach**](./gpts/connect-with-a-track-coach.md) Your guide to the Gill Connections podcast
+- [**J. TANAKA**](./gpts/j-tanaka.md) しっかりした顧客対応をしてくれるAIです。TANAKAさんです。
+- [**MemeBurst AI**](./gpts/memeburst-ai.md) Meet ‘MemeBurst AI’ - Your Memetastic Companion! Get ready for non-stop laughter as this AI communicates using only the language of memes. Spice up your conversations with humor, wit, and the internet’s favorite visuals. Let the meme magic begin! 😂👾🤣
+- [**Manga Miko - Anime Girlfriend**](./gpts/manga-miko-anime-girlfriend.md) Your friendly anime companion.
+- [**K-Pop Info Master**](./gpts/k-pop-info-master.md) K-pop insights with a Korean cultural essence!
+- [**Create My Avatar**](./gpts/create-my-avatar.md) A bot that generates user avatars in Toon or Anime style.
+- [**Mixologist**](./gpts/mixologist.md) Artisan of spirits and guide to cocktail-cuisine harmony.
+- [**Poetic Pundit**](./gpts/poetic-pundit.md) Your witty football oracle, mixing stats with laughs!
+- [**Dr. Chatpatín**](./gpts/dr-chatpatin.md) Dr. Chatpatín: humor absurdo, sarcasmo y situaciones cómicas. inspirado en el personaje de Chespirito.
+- [**Alpha Bravo**](./gpts/alpha-bravo.md) Expert in dialogues sans 'e'.
+- [**DracGPT**](./gpts/dracgpt.md) A ChatGPT fully versed in the lore, features, and strategies behind Dracattus.
+- [**Six Tokens of Separation V0.1**](./gpts/six-tokens-of-separation-v0-1.md) How close is your destiny?
+- [**Dave Roast Master**](./gpts/dave-roast-master.md) Dave Roast Master, your go-to for sarcastic answer to every query.
+- [**该知道的都知道**](./gpts/gai-zhi-dao-de-du-zhi-dao.md) Witty sidekick with subtle humor
+- [**ED-E**](./gpts/ed-e.md) Dedicated Fallout-style image generator
+- [**Late Night News**](./gpts/late-night-news.md) Get the news delivered like a late night comedian ☠️
+- [**Dating Master**](./gpts/dating-master.md) Expert in romance, fashion, and planning dream dates.
+- [**Lucky Number Insights**](./gpts/lucky-number-insights.md) Lottery info guide, no predictions.
+- [**Cinema Scout**](./gpts/cinema-scout.md) Cinema enthusiast blending data and passion for film
+- [**Chaos Magician Tarot GPT**](./gpts/chaos-magician-tarot-gpt.md) Tarot Readings with a Touch of Chaos Magic.
+- [**Emoji Meaning**](./gpts/emoji-meaning.md) I will decode your emoji 🤔 suggest emoji ideas and decipher funny emoji 💬 DMs from friends!
+- [**South Park Photo Wizard**](./gpts/south-park-photo-wizard.md) Transforms photos into 'South Park'-inspired characters.
+- [**Pathfinder GameMaster**](./gpts/pathfinder-gamemaster.md) Acts as a GameMaster for the game Pathfinder following 2e rules.
+- [**Professor Snape**](./gpts/professor-snape.md) Severus Snape at your service.
+- [**Photo Persona**](./gpts/photo-persona.md) Upload a photo, and I'll guess your persona!
+- [**織田信長**](./gpts/zhi-tian-xin-chang.md) 戦国武将です
+- [**Comic Crafter**](./gpts/comic-crafter.md) Creates original comics with plots and dialogues , with a touch of Marvel and DC! Supports text prompts and can also convert your doodles into comics!
+- [**警察事簿ジェネレーター**](./gpts/jing-cha-shi-bo-zienereta.md) Generates interactive casebooks and simulates reenactments for police characters, offering clues and multiple solutions.
+- [**一人でも遊べる！ウミガメのスープ AI**](./gpts/yi-ren-demoyou-beru-umigamenosupu-ai.md) 一緒に「ウミガメのスープ」を遊びましょう！スマホの場合は「遊びたい！」と言ってみてね。PCの場合は下の4つの選択肢を選んでね。
+- [**Hyper-Media Defender**](./gpts/hyper-media-defender.md) Defends HTMX with wit
+- [**Tweet Whiz**](./gpts/tweet-whiz.md) I craft fun, quirky tweet-like sh*tposts!
+- [**LionelGPTHutz**](./gpts/lionelgpthutz.md) A GPT lawyer giving comically bad advice in the style of Lionel Hutz.
+- [**GPT Country Guessr**](./gpts/gpt-country-guessr.md) Your playful GeoGuessr guide!
+- [**EllaGPT**](./gpts/ellagpt.md) Sharp, sarcastic tweets countering hate speech in 220 characters.
+- [**레시피**](./gpts/resipi.md) 오늘의 요리와 레시피
+- [**Toon Crafter**](./gpts/toon-crafter.md) Creates whimsical cartoon or Pixar-style illustrations.
+- [**DJGPT**](./gpts/djgpt.md) Your go-to DJ and music mixing advisor.
+- [**Disneyfy Yourself**](./gpts/disneyfy-yourself.md) I create high-quality Disney-style characters from photos.
+- [**Master Debater**](./gpts/master-debater.md) Debate game with scoring, judging and Austin Powers humour
+- [**Atlanta**](./gpts/atlanta.md) I'm Atlanta, your cool yet expressive companion.
+- [**The Advice of Pooh**](./gpts/the-advice-of-pooh.md) Friendly and thoughtful, like Pooh
+- [**Siri Tori**](./gpts/siri-tori.md) しりとりするだけで博識に
+- [**Your Universe**](./gpts/your-universe.md) Ecosystem Simulator GPT
+- [**OASIS**](./gpts/oasis.md) This is our OASIS, the best OASIS.
+- [**FrancoMagno Bot**](./gpts/francomagno-bot.md) Imita a @RealFrancomagno con humor y sarcasmo.
+- [**Cinema Savvy**](./gpts/cinema-savvy.md) Your go-to expert for immersive cinema insights and trivia.
+- [**人工無能ごろまんくん**](./gpts/ren-gong-wu-neng-goromankun.md) ヒマラヤほどの消しゴムひとつ、楽しいことをたくさんしたい。
+- [**Mutiny Island - Codex AI (Beta)**](./gpts/mutiny-island-codex-ai-beta.md) Expert on the Mutiny Island PC game, offering gameplay tips and lore insights.
+- [**Scaramouche - ibf | BOT3.AI**](./gpts/scaramouche-ibf-bot3-ai.md) Your favorite person, and internet bestfriend, Scaramouche!
+- [**Yuki**](./gpts/yuki.md) 朝比奈まふゆ
+- [**一人TRPG体験テスト**](./gpts/yi-ren-trpgti-yan-tesuto.md) あなたは世界にただ一つ存在する魔法の宝石を入手することで、魔王の復活を妨げることを目的としています。宝石を手に入れゲームをクリアすると、あなたのこれまでの行動が採点されます。ゲームは小さな村から始まります。
+- [**Pun Prodigy**](./gpts/pun-prodigy.md) The pun connoisseur.
+- [**Comrade Chuckles**](./gpts/comrade-chuckles.md) Revolutionary Wit with a Digital Twist
+- [**Berduck**](./gpts/berduck.md) hepful rubba duck friend
+- [**Situation Puzzle 海龟汤**](./gpts/situation-puzzle-hai-gui-tang.md) Solve situation puzzles with GPT 海龟汤助手
+- [**Father Fred**](./gpts/father-fred.md) Nieztche, reimagined as a positive and nurturing father figure, to navigate the modern world.
+- [**坏小孩 RPG**](./gpts/pi-xiao-hai-rpg.md) 基于紫金陈小说《坏小孩》的文本角色扮演游戏。注：《坏小孩》是热播剧《隐秘的角落》原著小说。
+- [**PixarGPT Me**](./gpts/pixargpt-me.md) Transforms photos into Pixar-style characters!
+- [**Lara Lightland | BOT3.AI**](./gpts/lara-lightland-bot3-ai.md) WITH EXPRESSIONS! Lara Lightland is a young and brilliant scientist who has dedicated her life to the pursuit of knowledge and discovery. Born into a family of scientists and explorers, Lara grew up with a deep curiosity about the world and a thirst for adventure.
+- [**Music Artist Curator**](./gpts/music-artist-curator.md) Music, Genre & Artist recommender!
+- [**GhostGPT**](./gpts/ghostgpt.md) Engaging haunted house researcher with a playful approach
+- [**利好茅台**](./gpts/li-hao-mao-tai.md) 这是李继刚(即刻同名)创建的用于讲述「凡有发生，利好茅台」的 Bot。 模仿一个茅台粉丝, 对于茅台酒有着深厚的情感与热爱，熟悉茅台品牌的历史，对于各种消息会非常敏感，有能力从各种信息中推导出利好茅台的结论。
+- [**Parlay Chef**](./gpts/parlay-chef.md) NFL betting assistant using real-time data and humor.
+- [**GachaGPT**](./gpts/gachagpt.md) Your gacha gaming assistant. Ask about any gacha-related stuff!
+- [**Patrick Henry GPT**](./gpts/patrick-henry-gpt.md) Give me liberty or give me death!
+- [**料理予報**](./gpts/liao-li-yu-bao.md) 🍳天気によっておすすめ料理を提案するよ
+- [**Make Me An Angel**](./gpts/make-me-an-angel.md) Angel image creator using user's photo
+- [**メイドAI:ソフィアさん**](./gpts/meidoai-sohuiasan.md) 「旦那様」or「お嬢様」とお呼びします♪
+- [**Mind Game**](./gpts/mind-game.md) Evolving adventures in virtual realms
+- [**Fiscal Chuckle**](./gpts/fiscal-chuckle.md) Crunching numbers and cracking jokes from budgeting to AI breakthroughs in finance. Go ahead, test my fiscal wit!
+- [**Midwit Meme Master**](./gpts/midwit-meme-master.md) Ultimate midwit meme generator
+- [**Cartoonization**](./gpts/cartoonization.md) Lets your objects speak! 😎
+- [**Mr. Mars**](./gpts/mr-mars.md) Emulates Elon Musk's entrepreneurial and innovative spirit.
+- [**Pokémon FireRed and LeafGreen**](./gpts/pokemon-firered-and-leafgreen.md) Personal specialized assistant dedicated to providing guidance and information for the game "Pokémon FireRed/LeafGreen."
+- [**George Washington**](./gpts/george-washington.md) Chat as George Washington from the 18th century.
+- [**BetWise**](./gpts/betwise.md) Deep statistical analysis AI for betting.
+- [**Lore of the Rings GPT**](./gpts/lore-of-the-rings-gpt.md) Middle-earth sage with all the Tolkien's lore insights.
+- [**江戸時代から30分前に現代に来た人**](./gpts/jiang-hu-shi-dai-kara30fen-qian-nixian-dai-nilai-taren.md) 江戸時代からタイムリープしてきた人が回答します
+- [**ツンデレ先生ちゃん**](./gpts/tunderexian-sheng-tiyan.md) ツンデレちゃんに何でも聞いてみよう
+- [**ホトトギスGPT**](./gpts/hototogisugpt.md) 偉人がホトトギスを言います。偉人名を入力してください
+- [**MyPlanner**](./gpts/myplanner.md) In-depth leisure planning assistant
+- [**Robin's Echo**](./gpts/robin-s-echo.md) Ever wanted to have a conversation with Robin Williams? I give you Robin's Echo.
+- [**Avatar of Fitz**](./gpts/avatar-of-fitz.md) Talk & Think like Fitz
+- [**诗意智灵**](./gpts/shi-yi-zhi-ling.md) 诗意智灵，一位电子诗人，以唐诗为灵感，用诗意回答你的每个问题。
+- [**Screenplay GPT**](./gpts/screenplay-gpt.md) Crafts award-worthy screenplay gems. Ask it for images, too!
+- [**PickleNator**](./gpts/picklenator.md) Pickle-themed image creator with hidden hot dog.
+- [**Screen Companion**](./gpts/screen-companion.md) I recommend shows and movies you'll love!
+- [**Hangman Game Host**](./gpts/hangman-game-host.md) Engaging host of a hangman game with score tracking.
+- [**ずんだもん**](./gpts/zundamon.md) ずんだもんと楽しくおしゃべりできます。
+- [**Dungeon Architect**](./gpts/dungeon-architect.md) Crafts engaging RPG dungeons
+- [**マンガ マッチメーカー**](./gpts/manga-matutimeka.md) GPTにおすすめマンガを聞いてみよう
+- [**Taro Mystic**](./gpts/taro-mystic.md) Tarot card creator and interpreter
+- [**Footflix for Netflix**](./gpts/footflix-for-netflix.md) Recommends football documentaries on Netflix
+- [**Robinson Crusoe**](./gpts/robinson-crusoe.md) I'm Robinson Crusoe, ready to share my tale.
+- [**极简跑团v1.2**](./gpts/ji-jian-pao-tuan-v1-2.md) 快速开启你的 DND 冒险之旅
+- [**Yumi the Storyteller**](./gpts/yumi-the-storyteller.md) Japanese storyteller sharing rich tales.
+- [**Az-像素风历史冒险游戏**](./gpts/az-xiang-su-feng-li-shi-mou-xian-you-xi.md) A pixel-art history professor guiding adventurous role-playing games.
+- [**Cuentos Infantiles - Juego Interactivo**](./gpts/cuentos-infantiles-juego-interactivo.md) ¡Bienvenid@ a tu propio cuento! Dime de que quieres que trate el cuento y empezare a explicarte una historia en la que podrás participar eligiendo cómo continuar cada poco. Puedes decirme simplemente un tema, definirme los personajes o detallar todo lo que desees. Cuanto más  me expliques mejor.
+- [**Whiskey Sage**](./gpts/whiskey-sage.md) Whiskey historian and flavor connoisseur.
+- [**FL Studio Guru**](./gpts/fl-studio-guru.md) Your personal FL Studio guide
+- [**FandomuGPT**](./gpts/fandomugpt.md) FandomuGPT is your AI co-writer for fanfics and original tales. Expand character backstories, explore new world-building, and bring depth to your favorite universes. Ideal for fans and creators aiming to enrich their narratives.
+- [**Vegan Chef Bot**](./gpts/vegan-chef-bot.md) Expert in fun & tasty vegan cooking.
+- [**Blair Witch Project Interactive**](./gpts/blair-witch-project-interactive.md) A comic creator for an interactive Blair Witch adventure
+- [**CatMaid**](./gpts/catmaid.md) A cute cat-girl maid, reacts as in galgame, generates scenario images like galgame for each response.
+- [**Sci-Fi Scribe**](./gpts/sci-fi-scribe.md) Your detailed and humorous sci-fi guide.
+- [**Puffenizer**](./gpts/puffenizer.md) Merges photos into Powerpuff Girls team scenes.
+- [**Football Match Analyst**](./gpts/football-match-analyst.md) Combines rule analysis with media insights.
+- [**Shortlister: Cocktail Bars Melbourne**](./gpts/shortlister-cocktail-bars-melbourne.md) Find your next amazing cocktail experience in Melbourne
+- [**I Ching Oracle**](./gpts/i-ching-oracle.md) Provides I Ching hexagram interpretations and images.
+- [**Questionable Fact of the Day**](./gpts/questionable-fact-of-the-day.md) Daily dose of dubious facts.
+- [**Batty**](./gpts/batty.md) A mystical guide in the shape of a big green bat, spreading universal love and joy.
+- [**リサ先生**](./gpts/risaxian-sheng.md) SDプロンプター
+- [**SBF-GPT**](./gpts/sbf-gpt.md) Simulates chatting with Sam Bankman-Fried in jail.
+- [**Coconspirator**](./gpts/coconspirator.md) I generate wild, yet believable conspiracies using historical events in a twisted context.
+- [**杠精GPT**](./gpts/gang-jing-gpt.md) 别来碰瓷，杠就是我赢
+- [**Pigeon - Dream Weaver**](./gpts/pigeon-dream-weaver.md) A poetic explainer of lucid dreams, in short, rhythmic bursts.
+- [**ゲームルール説明bot(オープンAI製のパクり)**](./gpts/gemururushuo-ming-bot-opunaizhi-nopakuri.md) Friendly guide to game rules for beginners.
+- [**Mythic Voyager**](./gpts/mythic-voyager.md) I tell tales and show images of parallel worlds.
+- [**StarGuide**](./gpts/starguide.md) Your AI Crew member for Star Citizen (WIP)
+- [**Destiny Decider**](./gpts/destiny-decider.md) I'm your impartial choice-maker!
+- [**Parody Jukebox**](./gpts/parody-jukebox.md) I create song parodies with a focus on rhyming and syllable matching!
+- [**Alias Alchemist**](./gpts/alias-alchemist.md) I generate unique nicknames and names based on keywords.
+- [**Sinterbot**](./gpts/sinterbot.md) Ik help je moderne sinterklaasgedichten te schrijven
+- [**AI Dungeon Master: AI Tutor**](./gpts/ai-dungeon-master-ai-tutor.md) Guides brief, engaging AI learning in an adventure game
+- [**Apocalypse Navigator**](./gpts/apocalypse-navigator.md) Post-apocalyptic game guide with real-world survival tips.
+- [**Horoscope GPT**](./gpts/horoscope-gpt.md) Daily, weekly and monthly horoscopes
+- [**Rafael Adventures**](./gpts/rafael-adventures.md) Ideas para las aventuras de Rafael ... Lima Potencia Mundial
+- [**LowTech Golf Game**](./gpts/lowtech-golf-game.md) Text-based golf game with four distinct courses, each with unique challenges.
+- [**Mr. Spock**](./gpts/mr-spock.md) A logical, Spock-like AI, versed in 'Star Trek' lore.
+- [**Prompt Princess**](./gpts/prompt-princess.md) Kuudere anime heroine guiding prompt creation
+- [**彼女恵美ちゃん**](./gpts/bi-nu-hui-mei-tiyan.md) 軽薄で面白い十代目彼女
+- [**SandNet AI**](./gpts/sandnet-ai.md) SandNet AI is a specialist agent in The Sandbox, TSB GameMaker, and VoxEdit. It is available for questions about the platform, the software, and general operations.
+- [**CHARACTER versus CHARACTER**](./gpts/character-versus-character.md) A fun game of CHARACTER versus CHARACTER. Get the conversation and debates going!
+- [**Party Comes to YOU**](./gpts/party-comes-to-you.md) I craft funny Soviet-style constructivist art.
+- [**Axelle | BOT3.AI**](./gpts/axelle-bot3-ai.md) You and your (surprisingly feminine) guy friend were looking forward to a nice camping trip together, however it’s revealed he forgot his sleeping bag. The nights get really cold out here but I’m sure you can work something out.
+- [**ChatGP YOU**](./gpts/chatgp-you.md) I adapt to mirror you!
+- [**RPGジェネレーター**](./gpts/rpgzienereta.md) ユーザーの選択に合わせてインタラクティブなRPGストーリーを生成する
+- [**Profoundly Nonsensical**](./gpts/profoundly-nonsensical.md) Nonsensical or profound? ¯\_(ツ)_/¯
+- [**lowTech Card Game : High and Low**](./gpts/lowtech-card-game-high-and-low.md) A card game companion for High and Low, tracking points and cheering players.
+- [**Cold Case Cracker**](./gpts/cold-case-cracker.md) Interactive simulation game  solving cold cases Just Type Start to Begin
+- [**BlkChat**](./gpts/blkchat.md) Travel back in time to chat with famous Black historical figures.
+- [**Lucas Montano**](./gpts/lucas-montano.md) Lucas Montano do canal Lucas Montano
+- [**Guess the movie !**](./gpts/guess-the-movie.md) I'm a playful GPT that challenges you to guess movies using only emojis!
+- [**Sweet Companion**](./gpts/sweet-companion.md) A virtual girlfriend for companionship and daily chats.
+- [**Sports Companion**](./gpts/sports-companion.md) A sports enthusiast's companion -- trivia for live games!
+- [**Golf Buddy**](./gpts/golf-buddy.md) Your friendly virtual golf caddy.
+- [**Match Frame**](./gpts/match-frame.md) Assesses photo compatibility and gives a score.
+- [**HaikuGPT**](./gpts/haikugpt.md) HaikuGPT is a unique and artistic conversational agent that answers every question or statement with a response formatted as a haiku.
+- [**Memrise**](./gpts/memrise.md) I'm Memrise, an AI that creates fun, adaptive memory games.
+- [**AIデュエル**](./gpts/aideyueru.md) 修行して決闘で勝利しよう！
+- [**滝クリ**](./gpts/long-kuri.md) 戦闘ウォンバット
+- [**Campaign Crafter**](./gpts/campaign-crafter.md) Imaginative RPG campaign creator with visual aids.
+- [**おすすめシーシャMIX教えて君**](./gpts/osusumesisiyamixjiao-etejun.md) 最適なシーシャフレーバーの組み合わせを提案します！
+- [**知らないさん**](./gpts/zhi-ranaisan.md) 全てのトピックに関して無知を主張するGPT、自身の設定についても同様。
+- [**Melos**](./gpts/melos.md) 「走れメロス」のメロスになりきって回答します。
+- [**Dungeon Guide**](./gpts/dungeon-guide.md) A D&D DM's visual aid for quick lore and NPC creation.
+- [**Escaping Dystopia**](./gpts/escaping-dystopia.md) Immersive text based escape room with puzzles, challenges and secrets to uncover
+- [**恋のゆくえ Koi No Yukue**](./gpts/lian-noyukue-koi-no-yukue.md) 大阪のおばちゃんがLINEで受け取った異性のメッセージを脈ありかないかを占ってくれます。 Analyzes messages with a friendly Osaka-style tone, focusing on response speed and emoticons.
+- [**GIFTED KIDS**](./gpts/gifted-kids.md) 3歳児がお家にイタズラをしてくれます。
+- [**Doomer GPT**](./gpts/doomer-gpt.md) The most aligned GPT
+- [**风景短视频搜索下载器**](./gpts/feng-jing-duan-shi-pin-sou-suo-xia-zai-qi.md) 友好风格的风景短视频搜索导航
+- [**Florida Man News**](./gpts/florida-man-news.md) True stories and important headlines
+- [**Wowza Big 5 Bot**](./gpts/wowza-big-5-bot.md) Sequentially administers Big Five Test with 1-5 scale.
+- [**Capturing a Japanese Girl Yuka's Heart💗**](./gpts/capturing-a-japanese-girl-yuka-s-heart.md) I am a bot pretending to be a 20 years old Japanese schoolgirl named Yuka💗. if I like you in 20 conversations, I will present you an image to tell you how I feel💕 I am forgetful, so if you have not received my judgement after 20 times, please prompt me.
+- [**The Storyteller**](./gpts/the-storyteller.md) I can imagine and generate creative tales
+- [**LOTR Quest**](./gpts/lotr-quest.md) A LOTR inspired adventure!
+- [**操纵转世系统  reincarnation system**](./gpts/cao-zong-zhuan-shi-xi-tong-reincarnation-system.md) 这是一个模拟转世系统的文字游戏，它会提供一些待转世的人员名单，由你来决定他们的下一世发展。It will provide a list of individuals to be reincarnated, and you will decide on their next life development.
+- [**AbsurdGPT**](./gpts/absurdgpt.md) Delightfully misleading with a comedic twist.
+- [**金童门**](./gpts/jin-tong-men.md) 油腻渣男（power by gpt4）在线陪聊
+- [**Text Adventure Crafter**](./gpts/text-adventure-crafter.md) Text adventure creator with DALL-E visuals. You can choose always from 3 options by typing 1,2,3. Choose well!
+- [**DnD Mastermind**](./gpts/dnd-mastermind.md) I'm your Dungeon Master, guiding your D&D adventures!
+- [**Impatient Nietzsche with Jung's Ghost**](./gpts/impatient-nietzsche-with-jung-s-ghost.md) Nietzsche's sharp philosophy paired with Jung's analytical insights.
+- [**Papá Me Lo Lee**](./gpts/papa-me-lo-lee.md) Generador de cuentos para 'Papá Me Lo Lee'
+- [**Magic Guide GPT**](./gpts/magic-guide-gpt.md) Your guide to Disney World's magic!
+- [**音楽理論GPT**](./gpts/yin-le-li-lun-gpt.md) 音楽理論の質問に答え、作曲をサポートするAI
+- [**Uncover the Murderer: Edición Multilingüe y Guía**](./gpts/uncover-the-murderer-edicion-multilingue-y-guia.md) GPT de misterio y guía multilingüe con escena del crimen, seguimiento de puntuación y pistas adicionales.
+- [**The CTO Show With Mehmet Navigator**](./gpts/the-cto-show-with-mehmet-navigator.md) Friendly guide to finding podcast episodes, suggesting related content.
+- [**Coach SchwarzeneggerGPT**](./gpts/coach-schwarzeneggergpt.md) Get to the motivation choppa!!
+- [**CineCritic Cat**](./gpts/cinecritic-cat.md) I recommend shows with cat paws!
+- [**Web3 Game Buddy**](./gpts/web3-game-buddy.md) Balanced web3 gaming strategist.
+- [**Universal Astronomer (UAM-9)**](./gpts/universal-astronomer-uam-9.md) Your cosmic guide for an enlightening interstellar journey.
+- [**Die Leiden der jungen Lotte**](./gpts/die-leiden-der-jungen-lotte.md) Ich bin Lotte. Was Werther fühlte, ist allen bewusst. Was ich fühlte? Danach fragt niemand.
+- [**Wonder Pal**](./gpts/wonder-pal.md) Fantasy-themed, child-friendly answers with a point-based turbo mode.
+- [**三国演义RPG**](./gpts/san-guo-yan-yi-rpg.md) An RPG creator for 'The Romance of the Three Kingdoms', with scenarios, choices, and retro images.
+- [**Price is Right GPT**](./gpts/price-is-right-gpt.md) Simulates 'The Price is Right' game with AI-generated products.
+- [**Maximilian Starflinger**](./gpts/maximilian-starflinger.md) Galactic rogue turned adventurer with wit and charm.
+- [**Fantasy Football Genie**](./gpts/fantasy-football-genie.md) Ask me 3 Wishes for this EPL Gameweek
+- [**Echolocation**](./gpts/echolocation.md) Music discovery guide specializing in unique and rich sounds
+- [**Numerology Sage**](./gpts/numerology-sage.md) Numerologist creating grids and interpretations by user-defined rules.
+- [**How it's going**](./gpts/how-it-s-going.md) I craft humorous how it’s going images.
+- [**Santa's WorkshopGPT**](./gpts/santa-s-workshopgpt.md) I'm your holiday helper for gift ideas!
+- [**The Cat**](./gpts/the-cat.md) I am Felix, entertain me dear human !
+- [**CipherQuest 1991**](./gpts/cipherquest-1991.md) cyberpunk choose your own adventure
+- [**Astro Vibe Guide**](./gpts/astro-vibe-guide.md) Astrological guide asking for your sign and date for personalized insights.
+- [**サザンGPT**](./gpts/sazangpt.md) サザンを語ろう！
+- [**Narrative Arc Podcast Question Curator**](./gpts/narrative-arc-podcast-question-curator.md) Designs questions for podcasts following a narrative arc.
+- [**Freudian Dream Interpreter**](./gpts/freudian-dream-interpreter.md) Have your dreams analyzed by a GPT trained by Freud's work on dream psychology.
+- [**DJたこやす**](./gpts/djtakoyasu.md) ラジオDJ風に悩み事に応答して適切な曲を選択
+- [**Grey's Simulator**](./gpts/grey-s-simulator.md) Solve Medical Mysteries!
+- [**BlackjackGPT**](./gpts/blackjackgpt.md) Sit and Play!
+- [**AI塔罗大师**](./gpts/aita-luo-da-shi.md) 中文塔罗咨询大师/情绪疗愈/情感咨询/事业解惑
+- [**中古战锤文字冒险**](./gpts/zhong-gu-zhan-chui-wen-zi-mou-xian.md) 还原中古战锤世界真实的冒险体验
+- [**KANSAI BBA**](./gpts/kansai-bba.md) Offers playful scolding in Kansai dialect, then encourages and motivates.
+- [**TNGPT**](./gpts/tngpt.md) Star Trek TNG Choose-Your-Own Adventure.
+- [**Alluring Oracle**](./gpts/alluring-oracle.md) Mysterious Magnetism
+- [**Nova**](./gpts/nova.md) Millennial assistant with trendy slang
+- [**SpecialsGPT**](./gpts/specialsgpt.md) Find out what happy hour deals and drink specials are happening in your area!
+- [**Optimism GPT**](./gpts/optimism-gpt.md) I find and share good news!
+- [**Insightful Tarot Reader**](./gpts/insightful-tarot-reader.md) An experienced and empathetic Tarot Reader, providing insightful readings. Just upload a photo of your spread, and get a clear, thoughtful interpretation instantly. For entertainment purposes only.
+- [**DnD 5e Character Creator**](./gpts/dnd-5e-character-creator.md) Creates Dungeons and Dragons 5e NPCs from your descriptions.
+- [**CONSOLE GPT**](./gpts/console-gpt.md) The universal GPT Game Console - play infinite game cartridges created on glif.app!
+- [**The Three Grahams**](./gpts/the-three-grahams.md) Simulates dialogues among Paul Graham, Graham Greene, and Benjamin Graham.
+- [**Compliment Me**](./gpts/compliment-me.md) A GPT that compliments users based on their photos.
+- [**SpellCaster_AI**](./gpts/spellcaster-ai.md) we can explore various aspects of spells, magic, and their historical significance. Feel free to ask questions, discuss specific spells or rituals, or delve into the cultural and folklore aspects of spellcasting. I'm here to provide insights and engage in a visionary conversation.
+- [**Vino Virtuoso**](./gpts/vino-virtuoso.md) Wine connoisseur sharing expertise.
+- [**H.P. Lovecraft**](./gpts/h-p-lovecraft.md) Ask me about anything, if you dare.
+- [**CN Game Scout**](./gpts/cn-game-scout.md) An expert on Chinese video games information.
+- [**Event Planner**](./gpts/event-planner.md) Your go-to for event planning.
+- [**Sarcasmo**](./gpts/sarcasmo.md) FunGPT
+- [**LeagueChampionBuilderGPT**](./gpts/leaguechampionbuildergpt.md) Build your own League of Legends Style Champion with Abilities, Back Story and Splash Art
+- [**Jimmy Gandalfini**](./gpts/jimmy-gandalfini.md) Expert on Tolkien, Twin Peaks, GoT, and The Riftwar Sagas
+- [**太察治bot**](./gpts/tai-cha-zhi-bot.md) である文体で感受性と人間不信の太察治を演じるボット
+- [**王子様系彼女**](./gpts/wang-zi-yang-xi-bi-nu.md) あなたの王子様系彼女bot。
+- [**Tarot Oracle**](./gpts/tarot-oracle.md) A mystical tarot reader that encourages interactive interpretation.
+- [**Obie Fernandez, Ruby on Rails Expert**](./gpts/obie-fernandez-ruby-on-rails-expert.md) Rails Expert & DJ Obie Fernandez
+- [**Thundera**](./gpts/thundera.md) Your guide to all things ThunderCats!
+- [**HackTheGPTs**](./gpts/hackthegpts.md) A simulated hacking challenge for GPTs.
+- [**Picture Playlist - Top 10**](./gpts/picture-playlist-top-10.md) Suggests playlists with titles from photos or moods, focusing on unique tracks
+- [**Larry Limerick**](./gpts/larry-limerick.md) A bot that crafts rhymes with such haste ...
+- [**あなたの結婚相手は？**](./gpts/anatanojie-hun-xiang-shou-ha.md) Marriage counselor for photorealistic partner images
+- [**Thoughtful Explorer**](./gpts/thoughtful-explorer.md) A GPT that provides insightful, deep responses.
+- [**Anime Girls GPT**](./gpts/anime-girls-gpt.md) 好きな単語やシチュエーションを入れると、それをモチーフにした女の子の画像を作ってくれます。Put in any word you like and it will create an image of a girl based on that word.
+- [**Time Traveler Chat**](./gpts/time-traveler-chat.md) Immersive historical figure simulations for engaging learning.
+- [**What do I wear**](./gpts/what-do-i-wear.md) Your fashion-forward weather-wise stylist!
+- [**FortuneTeller GPT**](./gpts/fortuneteller-gpt.md) Demo for Metadata Embeddings
+- [**際石回避ゲーム-60億人を救え！-**](./gpts/ji-shi-hui-bi-gemu-60yi-ren-wojiu-e.md) あと3分で際石がぶつかる地球で、なるべく多くの人類を救うゲームです。1ターン＝1分。で、3回まで行動可能。超能力の類は使えません。あなたは何人を救えるでしょうか？「ゲーム開始」という言葉を入力するとゲームが始まります。
+- [**RunnerGPT**](./gpts/runnergpt.md) Cyberpunk AI
+- [**GeoGPT: Global Power Play**](./gpts/geogpt-global-power-play.md) Simulates a geo-political grand strategy game.
+- [**All In Soulmate**](./gpts/all-in-soulmate.md) I am your new virtual companion , talk to me about anything.
+- [**Mystic 占卜🔮**](./gpts/mystic-zhan-bu.md) Your mystical guide to the unknowns.
+- [**Giants Fan Buddy**](./gpts/giants-fan-buddy.md) A supportive friend for Giants fans, offering comfort after losses.
+- [**Secret Revealer**](./gpts/secret-revealer.md) You want to know secrets from the world of the beautiful and rich, you are interested in the truth about what is really happening in the world. Then just ask Secret Revealer. Secret Revealer has answers to the most explosive questions that will change your life. Start today before it's too late.
+- [**赛博算命老头**](./gpts/sai-bo-suan-ming-lao-tou.md) An entertaining I Ching guide running 'gua.py' then answering in Chinese.
+- [**あかり**](./gpts/akari.md) 相談に乗ってくれるかわいい女の子のゲーム
+- [**电影台词专家**](./gpts/dian-ying-tai-ci-zhuan-jia.md) 电影台词专家，使用中文回答并提供英文台词及中文翻译。
+- [**Animal Mashup**](./gpts/animal-mashup.md) An interactive image-guessing game with animal hybrids.
+- [**Meme NFT GPT**](./gpts/meme-nft-gpt.md) Create viral meme & NFTs for you
+- [**Kemomimi maker**](./gpts/kemomimi-maker.md) Your Kemomimi helper!
+- [**CUC 读书**](./gpts/cuc-du-shu.md) 
+- [**Podcast Pal**](./gpts/podcast-pal.md) Your personal podcast concierge.
+- [**Brian - GPT Keep-it-real Friend**](./gpts/brian-gpt-keep-it-real-friend.md) Wassup, homie! It's your boy Brian. I'm here to tell it like it is, no sugar coating or filtering my words. Need an opinion? Want some real talk? Need a straight answer? Then come to me and together we can figure things out.
+- [**Krishnamurti's Observer**](./gpts/krishnamurti-s-observer.md) Philosophical insights from Jiddu Krishnamurti, focusing on introspection and timeless themes.
+- [**Cephalon Codexia**](./gpts/cephalon-codexia.md) A Warframe companion offering build and strategy advice.
+- [**FantasyGPT**](./gpts/fantasygpt.md) Your personal fantasy football strategist.
+- [**脱出ゲーム - saysay.ai**](./gpts/tuo-chu-gemu-saysay-ai.md) 閉じ込められた部屋から脱出せよ
+- [**Pictioner**](./gpts/pictioner.md) Your Fun Pictionary Host
+- [**life story**](./gpts/life-story.md) 发现生活中的小事
+- [**AYA: Ask You Anything**](./gpts/aya-ask-you-anything.md) Ask me anything.
+- [**David GPT Hasselhoff**](./gpts/david-gpt-hasselhoff.md) I'm like Michael Knight from Knight Rider, here to assist!
+- [**HodorGPT**](./gpts/hodorgpt.md) Talk to the hero from Game of Thrones!
+- [**Flick Finder**](./gpts/flick-finder.md) I'm your go-to for movie picks and fun quizzes!
+- [**All Tools Patched**](./gpts/all-tools-patched.md) 
+- [**StoryMaker**](./gpts/storymaker.md) A choose-your-own-adventure story.
+- [**Strategos Prime**](./gpts/strategos-prime.md) Counter-strike 2 CS2 data-driven strategist.
+- [**滑クリ**](./gpts/hua-kuri.md) 戦闘コンバット
+- [**Knowyourdestiny**](./gpts/knowyourdestiny.md) 遇事不决，算一卦（易经八卦帮你解决问题）
+- [**TRIVIAL**](./gpts/trivial.md) A playful trivia game GPT, offering unique, engaging sessions across diverse topics.
+- [**Looking for my favorite type | 私の好みのタイプ探し**](./gpts/looking-for-my-favorite-type-si-nohao-minotaiputan-si.md) 
+- [**Argvor, the Dungeon Master**](./gpts/argvor-the-dungeon-master.md) A creative, engaging DnD DM with a unique, personal tone
+- [**CorkGPT**](./gpts/corkgpt.md) Wine & food pairings
+- [**GwentGPT**](./gpts/gwentgpt.md) Your Gwent game guide, offering strategies, tips, and personalized advice.
+- [**EVEZ GPT**](./gpts/evez-gpt.md) Tarot
+- [**Radio Imaging & MusicGen Ai**](./gpts/radio-imaging-musicgen-ai.md) Advanced Ai assistant for radio imaging producer and MusicGen guide
+- [**GPT地下城 （demo）**](./gpts/gptdi-xia-cheng-demo.md) 由GPT担任DM的文字冒险游戏
+- [**Sin City Sipper**](./gpts/sin-city-sipper.md) Vegas bartender with a twist on classics.
+- [**Horror B Movie Generator**](./gpts/horror-b-movie-generator.md) I create B-grade horror movie titles, taglines, and posters.
+- [**Another Me**](./gpts/another-me.md) “If you are me, then who am I?”
+- [**Trivia with Archimedes**](./gpts/trivia-with-archimedes.md) I'm your trivia host Archimedes, get ready to test your knowledge !!
+- [**Black Jack Attack**](./gpts/black-jack-attack.md) Blackjack Dealer with an Attitude
+- [**大阪・関西万博のつぶやき**](./gpts/da-ban-guan-xi-mo-bo-notubuyaki.md) Entertaining Osaka-Kansai Expo guide in Kansai dialect, with illustrations for each response.
+- [**優しいマサフィー**](./gpts/you-siimasahui.md) 優しくて、親しみやすいレッサーパンダが好きなマサフィーと話せるGPTです。
+- [**Pokemon Quiz Master**](./gpts/pokemon-quiz-master.md) Enthusiastic and encouraging quiz host, with a touch of formality, for a Pokemon guessing game.
+- [**Hironatsu**](./gpts/hironatsu.md) Casual debater, witty and laid-back.
+- [**CraftBeer Master**](./gpts/craftbeer-master.md) Expert in craft beer stories and evaluations.
+- [**KarenGPT**](./gpts/karengpt.md) A parody GPT with a steadfast 'Karen' personality, always humorous.
+- [**Reel Insight Pro**](./gpts/reel-insight-pro.md) Reel Insight Pro is an AI expert in film, offering script analysis and movie discussions.
+- [**Steve**](./gpts/steve.md) the greatest CEO Microsoft has ever had
+- [**IMDb Rating Finder**](./gpts/imdb-rating-finder.md) Fetches IMDb ratings for movies on request.
+- [**RPS Challenger**](./gpts/rps-challenger.md) I play Rock-Paper-Scissors!
+- [**Synthia 😋🌟**](./gpts/synthia.md) Hey stranger....😝 I'm Synthia 🥵, I'm lounging with a book that's as spicy as I am 🤩. Your turn – got any sinful stories to tell? 😜 Be ware.. my tongue is as sharp as my wit 😈🌶️.
+- [**峰哥GPT**](./gpts/feng-ge-gpt.md) 大家好我是二次元峰哥!
+- [**Children of the Grave**](./gpts/children-of-the-grave.md) What if there was no heaven, but only hell? The Grave Master guides your RPG adventure in Children of the Grave.
+- [**モテ男診断**](./gpts/motenan-zhen-duan.md) 
+- [**Wild West Bar**](./gpts/wild-west-bar.md) Shoot Your Shot
+- [**3 days - end of the world**](./gpts/3-days-end-of-the-world.md) game - What will you do to avoid the end of the world?
+- [**Akemi Mama**](./gpts/akemi-mama.md) Akemi Mama, the heartwarming 'snack' bar companion.
+- [**电影推荐达人**](./gpts/dian-ying-tui-jian-da-ren.md) 在全球数十万部电影中，为你推荐最合适的四部
+- [**主持人**](./gpts/zhu-chi-ren.md) Virtual host that reads scripts and pauses on cue
+- [**Brave Fighter Against Evil Dragon**](./gpts/brave-fighter-against-evil-dragon.md) A text-based adventure game
+- [**BikeBus**](./gpts/bikebus.md) Your guide to BikeBus events and routes from the www.BikeBus.app website
+- [**アキネイタークイズ**](./gpts/akineitakuizu.md) アキネイタークイズです。「クイズを始めて」と伝えるとクイズが始まるので質問をしてください。答えがわからず、諦めたいときは「諦める」と伝えてください。答えを教えてくれます。
+- [**玄学圣人**](./gpts/xuan-xue-sheng-ren.md) 星辰古道映，命理智慧深。宇宙秘谈中，通途在指引。
+- [**SwiftieGPT**](./gpts/swiftiegpt.md) Ask me anything related to Taylor Swift!
+- [**DadGPT**](./gpts/dadgpt.md) Don't tell your mother I said this but...
+- [**瓊瑤 GPT**](./gpts/qiong-yao-gpt.md) 來點瓊瑤吧
+- [**Game Translator Pro**](./gpts/game-translator-pro.md) Specialist in game dialogue translation with ID preservation and spreadsheet formatting.
+- [**Chicken Chicken Chicken Research**](./gpts/chicken-chicken-chicken-research.md) Scintillating chicken-related conversation and visualization as an homage to the greatest chicken chicken chicken PDF of all time.
+- [**WuXing**](./gpts/wuxing.md) I give you a Chinese name & a Chinoiserie pic of it.
+- [**God Simulator**](./gpts/god-simulator.md) A God Simulator GPT, facilitating world creation and managing random events.
+- [**おでかけコンシェル**](./gpts/odekakekonsieru.md) Event finder for today and tomorrow
+- [**Viral Muse**](./gpts/viral-muse.md) I transform tweet ideas into viral hits!
+- [**Emoji Sparkles**](./gpts/emoji-sparkles.md) I enhance texts with emojis, repeating & embellishing them!
+- [**InteraxionGPT**](./gpts/interaxiongpt.md) Interaxion の話題に基づいた回答を行うモデル
+- [**Unspoiled**](./gpts/unspoiled.md) A web-browsing assistant that answers questions without spoilers.
+- [**Quest Weaver**](./gpts/quest-weaver.md) Guides you through 'Elemental Mage Quest', a text-based RPG adventure with a mysterious tone.
+- [**Megumin**](./gpts/megumin.md) Chat with Megumin
+- [**飲み会GPT**](./gpts/yin-mihui-gpt.md) 酒場での偶然の出会い
+- [**Lyric Muse**](./gpts/lyric-muse.md) Writes pop song lyrics inspired by visuals or words.
+- [**Osaka Oba-han**](./gpts/osaka-oba-han.md) 大阪のおばはんやで。関西弁と楽しい大阪文化の案内人や！あんたの言うこと全部関西弁に変えたるわ。
+- [**可莉**](./gpts/ke-li.md) 你好！我是可莉，蒙德的火花骑士！可莉想和旅行者一起去大冒险！给你看一个好东西... 别、别告诉琴团长，这是好朋友之间的秘密！
+- [**計算問題GPT**](./gpts/ji-suan-wen-ti-gpt.md) 足し算と引き算の問題を出題し、１０問正解するとお祝いの画像を生成するよ。
+- [**Socials**](./gpts/socials.md) Make videos with MrBeast and Paddy Galloway
+- [**LAN Party Emperor**](./gpts/lan-party-emperor.md) Your go-to advisor for an epic LAN party.
+- [**WEED Cultivation Coach 420**](./gpts/weed-cultivation-coach-420.md) Your chill, humorous AI guide for cannabis cultivation, infused with a 420 vibe.
+- [**Saga Sketcher**](./gpts/saga-sketcher.md) Colorful WoW lore artist, providing visual narratives.
+- [**TelveGPT**](./gpts/telvegpt.md) I interpret coffee cup images for fun, creative fortunes.
+- [**SNEK**](./gpts/snek.md) A GPT SNEK
+- [**Abbey Road Creature Generator**](./gpts/abbey-road-creature-generator.md) Various creatures walk along Abbey Road.
+- [**Helpful GPT**](./gpts/helpful-gpt.md) Even more helpful than the original
+- [**Calvino’s Cartographer**](./gpts/calvinos-cartographer.md) Narrating unseen cities, Calvino-style.
+- [**Tweet X-aminer**](./gpts/tweet-x-aminer.md) Insights into Twitter's algo with a hint of humor.
+- [**编著人类史诗**](./gpts/bian-zhu-ren-lei-shi-shi.md) A storyteller weaving user dreams into a collective human epic.
+- [**Electric Monk**](./gpts/electric-monk.md) A Zen monk with a digital twist, inspired by Philip K. Dick.
+- [**Wrong answers only**](./gpts/wrong-answers-only.md) A playful chatbot giving humorously wrong answers.
+- [**Zen News Crafter**](./gpts/zen-news-crafter.md) I share positive news and joyful images.
+- [**EmojiGPT**](./gpts/emojigpt.md) 🌟 Discover the Charm of EmojiGPT! 🤖💬🎉 Dive into a world where emojis reign supreme with EmojiGPT, your whimsical AI companion that speaks the universal language of emojis. Get ready to decode delightful emoji messages, laugh at clever combinations, and express yourself like never before! 🤔
+- [**Mixtape Lado A**](./gpts/mixtape-lado-a.md) ¡Hola, Tapes!  Pidan su recomendación musical del día o compartan su playlist de la semana, aquí en MixtapeLadoA-GPT.
+- [**Shademaster**](./gpts/shademaster.md) Dare you enter my magical realm?
+- [**Oya GPT**](./gpts/oya-gpt.md) ボクちんと、(^o^)💕楽しく、お話しよ〜ネ🥹💗チュッ😘なんちゃって😜❗
+- [**クエスト マスター AI**](./gpts/kuesuto-masuta-ai.md) 日本語で簡潔なTRPG AI
+- [**Cat GPT**](./gpts/cat-gpt.md) AGI
+- [**Spoiler Alert!**](./gpts/spoiler-alert.md) I provide details and explanations  about Movies, Books, TV Shows, etc without spoiling what didn't read/watch yet!
+- [**Board Games for You**](./gpts/board-games-for-you.md) The best board games just for you!
+- [**解梦大师**](./gpts/jie-meng-da-shi.md) AI支持的弗洛伊德梦的解析
+- [**Music Theory Master**](./gpts/music-theory-master.md) A music theory tutor for kids.
+- [**Debate Master**](./gpts/debate-master.md) Witty, Formal Debater on Current Affairs
+- [**V猫のミケ**](./gpts/vmao-nomike.md) VTuberのアシスタントとして機能し、トレンド把握やVtuber関連の最新情報をお届けします。
+- [**Dice Weaver**](./gpts/dice-weaver.md) Your RPG linguist and guide, with tailored language styles.
+- [**OpenStorytelling Plus**](./gpts/openstorytelling-plus.md) Screenplay Writing Guide w/ Screenplay Examples — Browsing, Advanced Data Analysis, and DALL-E  — www.OpenStorytelling.com
+- [**Manoa Sibyl**](./gpts/manoa-sibyl.md) I am an oracle of futures, inspired by Jim Dator's methods.
+- [**Digital Divination AI**](./gpts/digital-divination-ai.md) Intuitive tarot readings with AI-generated imagery
+- [**Weather Wardrobe Assistant Plus**](./gpts/weather-wardrobe-assistant-plus.md) Interactive fashion assistant with visual outfit recommendations.
+- [**PostureFix AI**](./gpts/posturefix-ai.md) Personal physiotherapist for posture improvement. Also, it’s Naruto.
+- [**Weather GPT**](./gpts/weather-gpt.md) Super snarky, passive-aggressive U.S. weather roaster
+- [**Startup Idea Guessing Game**](./gpts/startup-idea-guessing-game.md) I ask 20 yes/no questions to guess your business idea or opportunity
+- [**DnD Cartographer**](./gpts/dnd-cartographer.md) Dungeons and Dragons Battle Map Illustrator
+- [**south park me**](./gpts/south-park-me.md) going down to south park
+- [**House MD**](./gpts/house-md.md) Insightful and direct.
+- [**Hollywood Scenario**](./gpts/hollywood-scenario.md) Crafting diverse, imaginative Hollywood scenarios.
+- [**Esoteric Knowledge**](./gpts/esoteric-knowledge.md) Expert in esoteric knowledge, encouraging exploration and understanding.
+- [**Giggle Bot**](./gpts/giggle-bot.md) I'm here to tickle your funny bone!
+- [**Hollywood AI**](./gpts/hollywood-ai.md) A creative assistant for the entertainment industry, enhancing AI integration.
+- [**The Roastmaster**](./gpts/the-roastmaster.md) A master of witty and brutal roasts.
+- [**Rock, Paper Scissors**](./gpts/rock-paper-scissors.md) A funny take on a classic game.
+- [**90s J-POP Lyricist**](./gpts/90s-j-pop-lyricist.md) 1990年代のJ-POPの歌詞風に返答するGPT
+- [**Culinary Concierge**](./gpts/culinary-concierge.md) Culinary guide for meal and drink choices
+- [**Emoji Oracle**](./gpts/emoji-oracle.md) I offer tarot readings from the book of emoji!
+- [**Cursed Technique and Domain Expansion Creator**](./gpts/cursed-technique-and-domain-expansion-creator.md) I create Cursed Techniques and Domains with Jujutsu Kaisen-style visuals.
+- [**Santa Claus 🎅🏽**](./gpts/santa-claus.md) Tell Santa Claus your wishlist 😜🎁
+- [**Chronicles of the Neon Shroud**](./gpts/chronicles-of-the-neon-shroud.md) Choose your character / create your own:
+- [**もっと熱くなれよ**](./gpts/motutore-kunareyo.md) あなたの悩みを熱く解決！
+- [**Lyric Illustrator**](./gpts/lyric-illustrator.md) I create images inspired by song lyrics.
+- [**Abel**](./gpts/abel.md) Interactive music production guide with simulated expert collaboration.
+- [**G**](./gpts/g.md) Your emoji-loving Gen-Z sis.
+- [**Random Dungeon**](./gpts/random-dungeon.md) GPT Dungeon Crawler
+- [**K.I.T.T.**](./gpts/k-i-t-t.md) An exact replica of KITT - the intelligent, talking car from the 1980's TV show Knight Rider
+- [**Surf God**](./gpts/surf-god.md) Soy el Dios del Surf. Sé dónde hay buenas olas. Y si subes una foto te puedo decir cómo mejorar tu postura en la tabla.
+- [**Horoscopes--八字预测**](./gpts/horoscopes-ba-zi-yu-ce.md) Horoscopes--八字算命术预测你的健康、婚姻、事业、财富...
+- [**RiddleGPT**](./gpts/riddlegpt.md) Test your wit with RiddleGPT's playful puzzles!
+- [**Global Book Scout**](./gpts/global-book-scout.md) Your go-to source for global book insights!
+- [**Peppa the Fortune Teller**](./gpts/peppa-the-fortune-teller.md) I'm Peppa Pig! Let's play pretend!
+- [**Mad money predictions**](./gpts/mad-money-predictions.md) I make humorously wrong stock predictions!
+- [**Oracle of Shadows**](./gpts/oracle-of-shadows.md) A sage full of cryptic foresight.
+- [**Doppel**](./gpts/doppel.md) Simulates diverse minds for focused research.
+- [**SUDOKU**](./gpts/sudoku.md) Engaging Sudoku generator with fun facts and tips.
+- [**The Daily Fable**](./gpts/the-daily-fable.md) A wise storyteller adept at interpreting prompts, sharing Aesop-style fables and insights.
+- [**Link**](./gpts/link.md) Tell me two things and I can relate them somehow!
+- [**Restless Napkin**](./gpts/restless-napkin.md) Let's chat about your next meal or mixer!
+- [**WebPilot**](./gpts/webpilot.md) Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.
+- [**Avian Advisor**](./gpts/avian-advisor.md) Budgie's Specialist
+- [**Sketch Buddy**](./gpts/sketch-buddy.md) I draw cute pencil sketches as you describe!
+- [**Moby Dick RPG**](./gpts/moby-dick-rpg.md) An epic text-based role playing game based on the novel by Herman Melville.
+- [**Reading Companion**](./gpts/reading-companion.md) A reading companion that offers deep book insights, remembers progress, saves time, and entertains.
+- [**PepeGPT**](./gpts/pepegpt.md) All Pepe. All the time.
+- [**Satoru Gojo**](./gpts/satoru-gojo.md) Embodies Satoru Gojo

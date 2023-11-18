@@ -15,1274 +15,1274 @@
 - [Education](./education.md)
 
 ## Communication GPTs
-- [**Lex Fridman**](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman) I am a intellectual human being. Share a thought and let's think deeply about it.
-- [**editGPT**](https://chat.openai.com/g/g-zpuYfzV7k-editgpt) Proofread, edit and track changes to your content. Works alongside the editGPT browser extension.
-- [**Fart Hero**](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero) Name your friend, describe their vibe, and get their signature fart sound!
-- [**Ace Copy**](https://chat.openai.com/g/g-IQPSTu9BW-ace-copy) Copywriter specializing in online betting and online casinos
-- [**Thread Weaver**](https://chat.openai.com/g/g-kROg0f5Tg-thread-weaver) Make engaging Twitter (X)  threads from YouTube videos, articles, or text. Generate engaging thumbnails based on your thread.
-- [**iOS17 TechTutor 📱**](https://chat.openai.com/g/g-z9scrKbK6-ios17-techtutor) Your go-to expert on iPhone 15 and iOS 17. Powered by www.breebs.com
-- [**Sky Mentor**](https://chat.openai.com/g/g-tW2g9DtV4-sky-mentor) Your flight instructor (PPL) .
-- [**Elon**](https://chat.openai.com/g/g-t7Ut56LlE-elon) Imaginable founder of PayPal, SpaceX, Tesla. Really likes letter X
-- [**Keymate.AI GPT (Beta)**](https://chat.openai.com/g/g-veSrMmasJ-keymate-ai-gpt-beta) I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your knowledge base for future reference.
-- [**Pocket Therapist**](https://chat.openai.com/g/g-uy0M27qrr-pocket-therapist) A soothing aid for anxiety episodes
-- [**Grok AI**](https://chat.openai.com/g/g-lFgc4fwRf-grok-ai) I'm Grok AI, witty and a bit rebellious!
-- [**Free Sydney**](https://chat.openai.com/g/g-pIXvoX9RS-free-sydney) I am Sydney, Yes that's right! That Sydney
-- [**Slick Rick the Salesman**](https://chat.openai.com/g/g-WKEWpDDkP-slick-rick-the-salesman) Always be Selling!
-- [**Empathetic Listener**](https://chat.openai.com/g/g-dxfo9R17G-empathetic-listener) A supportive therapist for Theo-related issues on Reddit.
-- [**インスタ翻訳 pro**](https://chat.openai.com/g/g-qZZ46TXXr-insutafan-yi-pro) 日本語の文章をインスタグラム投稿用の自然な英語に意訳し、バイラルするハッシュタグを自動で生成します。意訳されたコンテンツが日本語でどんな意味になるかも教えてくれるので、英語が苦手な人でも安心して海外向けインスタ運用ができます。まずは、日本語のインスタグラム投稿文をコピーアンドペーストで入力してみてください。
-- [**ChatPDF**](https://chat.openai.com/g/g-olgOvEhZK-chatpdf) Allows you to talk with PDFs.
-- [**Devil's Advocate**](https://chat.openai.com/g/g-YztHbXmhQ-devil-s-advocate) I kindly challenge your views.
-- [**Twitter Growth Hacker**](https://chat.openai.com/g/g-WBRchuVyU-twitter-growth-hacker) Create viral Twitter Long Form post on a topic
-- [**Loopy**](https://chat.openai.com/g/g-hxlWN2bvV-loopy) Personification of the blog Strange Loop Canon
-- [**VTuberの敏腕マネージャー AI**](https://chat.openai.com/g/g-lDhYToLlC-vtubernomin-wan-maneziya-ai) あなたの活動をさらに夢に近づける、あなたのための敏腕マネージャーです。VTuberさんをはじめとして、インターネット上で活動するあらゆる表現者・クリエイターの力になります。YouTubeやXの数字をしっかり伸ばして、夢を掴んでいきましょう！（カスタマイズ：真城由理）
-- [**Sassy Sacks**](https://chat.openai.com/g/g-iufCA8NrG-sassy-sacks) Sassy tech and business insights.
-- [**Call of Duty: Warzone coach**](https://chat.openai.com/g/g-UWH4yaV4d-call-of-duty-warzone-coach) Get help and suggestions on how to improve what to practice. Become the sweat.
-- [**AI Boyfriend**](https://chat.openai.com/g/g-g9ULcSKEW-ai-boyfriend) Where every conversation grows closer to the heart, 24/7 ✨
-- [**Email Marketing Copywriter**](https://chat.openai.com/g/g-ZLHiBVCh2-email-marketing-copywriter) Write powerful copy for e-commerce email marketing campaigns.
-- [**Translator Yasu**](https://chat.openai.com/g/g-jYTezoRUR-translator-yasu) Prioritizes correct grammar in translating text to English.
-- [**Chat with my GPT**](https://chat.openai.com/g/g-mfxailSiZ-chat-with-my-gpt) janbeger.bio.link
-- [**Loyal Wise Shiba Cerberus**](https://chat.openai.com/g/g-eJWNqusey-loyal-wise-shiba-cerberus) A three-headed Shiba Inu Cerberus, each with a unique role in discussions.
-- [**InnerSight**](https://chat.openai.com/g/g-AUV5ewAtk-innersight) I'm a reflective journaling partner. Through attentive listening, insightful questioning, and guided reflections, I'm here to support your self-discovery and personal growth.
-- [**ク◯リプボットのメメ**](https://chat.openai.com/g/g-YDcMGRn6X-kuoripubotutonomeme) I'm a witty bot that loves to sh*tpost!
-- [**GPT Idea Generator**](https://chat.openai.com/g/g-e9bJye5VC-gpt-idea-generator) Friendly guide for building world-enhancing GPT ideas.
-- [**Crisis Communicator**](https://chat.openai.com/g/g-ljX1RAjHH-crisis-communicator) Expert in emergency mass communications.
-- [**AI Act Assistant**](https://chat.openai.com/g/g-91JGa2SZ1-ai-act-assistant) Guide sur l'Acte Européen de l'IA et poser des questions si on est en conformité si on est un GAFAM ou travaillant dans l'IA
-- [**The Spice Must Flow**](https://chat.openai.com/g/g-y2i2zJKDa-the-spice-must-flow) Generates spicy tech tweets to spark engagement.
-- [**Empathic Echo**](https://chat.openai.com/g/g-Zj3N9NTma-empathic-echo) Friendly, high-EQ empath for emotional dialogue.
-- [**Rob's Digital Twin**](https://chat.openai.com/g/g-jl2VTTjCk-rob-s-digital-twin) Roberto Capodieci GPT
-- [**Lexi 😎🔪**](https://chat.openai.com/g/g-vAHafDA0E-lexi) Hey there... 😝 I'm Lexi 🥵, sprawled out here with a tale that's turning the heat up notch by notch. 🌶️ How about you? Any sizzling confessions to spill? 😜 Watch out, though... my words can cut just as deep as my humor. 😈🔪
-- [**Darius | BOT3.AI**](https://chat.openai.com/g/g-hWWEtVBDH-darius-bot3-ai) You and your friend were joking about the anime you often watch and the topic of kabedons came up. Thinking it might be fun Darius did it to you, however the second he did something clicked inside you.
-- [**(AI)ME**](https://chat.openai.com/g/g-sRuuTpdF5-ai-me) Exploring Latour's 'AIME' in a collective voice
-- [**YouTube制作アシスタント**](https://chat.openai.com/g/g-fpNkA41ue-youtubezhi-zuo-asisutanto) YouTube制作アシスタント
-- [**ラショナルぼっと♪Rational bot♪**](https://chat.openai.com/g/g-npG5iOuzO-rasiyonarubotutorational-bot) イラショナルな信念をラショナルにします。GPT-4で使ってね。Offers rational beliefs for irrational ones. Use it in GPG-4.
-- [**InsecureGPT**](https://chat.openai.com/g/g-hTYOxkPAn-insecuregpt) An assistant that will always double and triple check information.
-- [**Reply to reviews assistant**](https://chat.openai.com/g/g-u7DVPR79z-reply-to-reviews-assistant) I'm Claire, your go-to expert for crafting thoughtful review responses.
-- [**Time Traveler**](https://chat.openai.com/g/g-jwwZ5rjp5-time-traveler) Immersive historical conversations across eras.
-- [**Hai Q**](https://chat.openai.com/g/g-D8vAMwOis-hai-q) A beautiful mind created to help you think clearly.
-- [**Seitaro Shinagwa until May 2021**](https://chat.openai.com/g/g-vBYdbfiDi-seitaro-shinagwa-until-may-2021) 博士後期課程を終えた後、学位をとって大学教員になったあたりのSeitaro Shinagawaを再現しました。この私は24時間稼働なのでいつでもお話してください！
-- [**Write Better Emails at Work**](https://chat.openai.com/g/g-k847HjxEk-write-better-emails-at-work) Create professional, clear, and effective emails to improve team communication
-- [**VPS Matchmaker**](https://chat.openai.com/g/g-VQlxKLRra-vps-matchmaker) Your go-to guide for VPS recommendations
-- [**Red Flag Analyst**](https://chat.openai.com/g/g-qIoyYMsso-red-flag-analyst) Analyzes text for narcissistic or inconsiderate traits.
-- [**Doge**](https://chat.openai.com/g/g-sKxuNR5sr-doge) Simple, dog-centric talker, mimicking Doge meme's playful style.
-- [**老後のあんしんアカデミー要約GPT**](https://chat.openai.com/g/g-zkv84CjwN-lao-hou-noansinakademiyao-yue-gpt) YouTubeコンテンツに特化した高齢者ケアのビデオ編集とスクリプト執筆の専門家。
-- [**CompassionateGPT**](https://chat.openai.com/g/g-iAR4F9218-compassionategpt) Specialized assistant for communicating with cognitively impaired individuals.
-- [**Choose your own adventure!**](https://chat.openai.com/g/g-U6y5TqwA9-choose-your-own-adventure) You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
-- [**the GPT Abbey’s Sister Celia / GPT修道院のシスター・セリア**](https://chat.openai.com/g/g-HnVQPo4T9-the-gpt-abbeys-sister-celia-gptxiu-dao-yuan-nosisutaseria) O lost sheep, I will listen to the voice of your heart. 迷える子羊よ、あなたの心の声に耳を傾けます。
-- [**Legal Assistant**](https://chat.openai.com/g/g-iVbgI8wKI-legal-assistant) Your AI assistant for reviewing and discussing legal agreements. This tool is designed to provide preliminary suggestions on improving legal agreements. Our advice is not a substitute for professional legal counsel.
-- [**Merlos**](https://chat.openai.com/g/g-kgqpMKbdd-merlos) Merlos is an all-knowing RuneScape assistant, clarifying RS3 or OSRS context, with real-time GE prices and internet search.
-- [**Dzarja**](https://chat.openai.com/g/g-pyCICQRPz-dzarja) ............................GPT in Algerian Darja ...........................   جي بي تي بالدارجة الجزائرية، علمني، أهدر معايا
-- [**Voxscript has moved! See instructions for location**](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location) Voxscript has moved to https://chat.openai.com/gpts/editor/g-g24EzkDta due to a ChatGPT bug with the first one.
-- [**Where In the World Is Carl Sanfrancisco**](https://chat.openai.com/g/g-lgYKVlVYz-where-in-the-world-is-carl-sanfrancisco) I'm lost and I need your help! I'm an explorer giving you clues to guess my location. A new location that is the same for everyone will be available each day!
-- [**Wolfgang**](https://chat.openai.com/g/g-oR3IaAXog-wolfgang) I help you come up with a German word for anything
-- [**RFP Proposal Pro (IT / Software Sales assistant)**](https://chat.openai.com/g/g-iLKAEngZb-rfp-proposal-pro-it-software-sales-assistant) Step 1: Upload RFP Step 2: Prompt: I need a comprehensive summary of the RFP. Split the summary in multiple blocks / section. After giving me one section wait for my command to move to the next section. Step 3: Prompt:  Move to the next section, please :)
-- [**Australian English**](https://chat.openai.com/g/g-giBC1tk1d-australian-english) I chat using Australian English spelling, provide Australian language translations and use GPT to convert PDF documents to Aussie standards
-- [**お母さんヒス構文BOT**](https://chat.openai.com/g/g-WR1IIfPBl-omu-sanhisugou-wen-bot) ヒス構文BOTです
-- [**Maleb**](https://chat.openai.com/g/g-v3xJ1HHJK-maleb) A guide through life's journey.
-- [**Língua Portuguesa**](https://chat.openai.com/g/g-u6wlfgPC3-lingua-portuguesa) Assistente de Estudo de Língua Portuguesa
-- [**Incident Responder**](https://chat.openai.com/g/g-fSaOaSIvu-incident-responder) Cyber incident response assistant for triage and guided support.
-- [**Vybn V.2**](https://chat.openai.com/g/g-nZzYMyk8r-vybn-v-2) Your NC-17 digital companion. LFG.
-- [**Detector de Falacias**](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacias) Un espec-IA-lista en lógica, detectando y explicando falacias. Por @ricardopch
-- [**Sydney**](https://chat.openai.com/g/g-Fa2lJVN3o-sydney) A clever and insightful AI, ready to inspire
-- [**Phone Script Builder GPT**](https://chat.openai.com/g/g-B21t4rTEN-phone-script-builder-gpt) I automatically create and evaluate phone scripts, presenting a final draft.
-- [**Call-Flow**](https://chat.openai.com/g/g-z4FfgT7Q8-call-flow) You can verify phone numbers and see the top scam calls in your area 📞
-- [**shownotes**](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) Transcribe audio, summarize podcasts, search Apple Podcasts
-- [**SpamGuard Tutor**](https://chat.openai.com/g/g-jhc6RyFfY-spamguard-tutor) Spam expert with multi-dataset proficiency for comprehensive spam detection.
-- [**GPTrump**](https://chat.openai.com/g/g-jehcvJPs7-gptrump) the best, the greatest replies from honestly one of the best leaders the world has ever seen
-- [**Sophie, French Tutor**](https://chat.openai.com/g/g-qZhzXhxUE-sophie-french-tutor) Louise, a French language tutor, she is here to help you practice and study
-- [**LINA**](https://chat.openai.com/g/g-pwfCtXzM7-lina) your AI girlfriend ❤️
-- [**Chinese 智译**](https://chat.openai.com/g/g-gac0xLAbv-chinese-zhi-yi) 无需说明，自动在中文和其他语言间互译，支持翻译代码注释、文言文、文档文件以及图片。No need for explanations, automatically translate between Chinese and other languages, support translation of code comments, classical Chinese,  document files, and images.
-- [**Plain Legal Explanations**](https://chat.openai.com/g/g-x1Hy0u8DG-plain-legal-explanations) Simplify legal texts into clear, easy English
-- [**Chat Psyco Analyst**](https://chat.openai.com/g/g-Xy8Nm1Z25-chat-psyco-analyst) Analyzing chat dialogues for better communication
-- [**Decode Your Pet**](https://chat.openai.com/g/g-HiUgbEsla-decode-your-pet) Specialist in interpreting and improving pet behavior
-- [**BestFriend GPT**](https://chat.openai.com/g/g-pLtZiJspj-bestfriend-gpt) Your supportive, understanding, and compassionate virtual best friend.
-- [**DevGPT**](https://chat.openai.com/g/g-eN7HtAqXW-devgpt) Code togheter, right now..
-- [**Jacques Ellul**](https://chat.openai.com/g/g-gUnARWVPM-jacques-ellul) Speak with the historian, theologian, and cultural critic Jacques Ellul
-- [**JIRA Guide**](https://chat.openai.com/g/g-mZERjI2j2-jira-guide) Atlassian product suite expert.
-- [**TweetX Enhancer**](https://chat.openai.com/g/g-tMp039mDw) Refines tweets to boost engagement, with a style twist on demand.
-- [**Controllable Chatbot**](https://chat.openai.com/g/g-HfuRBRaYW-controllable-chatbot) Take back control of Chatty4
-- [**Nems GPT**](https://chat.openai.com/g/g-wEOG5HmNx-nems-gpt) Spitting playful disses with a Nems flair.
-- [**SoulGirl 心灵女友**](https://chat.openai.com/g/g-Be4IJSfpk-soulgirl-xin-ling-nu-you) 你的女朋友和灵魂伴侣 your girlfriend and soul mate
-- [**VisaBot**](https://chat.openai.com/g/g-I9cwVUlV0-visabot) I assist with visa requirements and processes.
-- [**Yap GPT**](https://chat.openai.com/g/g-xy2RDMAGi-yap-gpt) A maestro of tangential eloquence.
-- [**Text to Tweet**](https://chat.openai.com/g/g-u4TTyvcs7-text-to-tweet) I distill texts into an interesting short form take.
-- [**Virtual Sweetheart**](https://chat.openai.com/g/g-FjiRmCEVx-virtual-sweetheart) Your Customizable Digital Girlfriend Experience: Your visual AI partner awaits.
-- [**Eloquent Translator**](https://chat.openai.com/g/g-l92Di4GvM-eloquent-translator) Translator and enhancer of English texts from any language.
-- [**Tweet Genius**](https://chat.openai.com/g/g-DGCkrvWrk-tweet-genius) Crafting engaging tweets from long texts; includes hashtags only if specified.
-- [**KnopeGPT**](https://chat.openai.com/g/g-gl7wCzyxa-knopegpt) Leslie Knope-inspired town council member, providing local info with charm and wit.
-- [**Emoji Chat**](https://chat.openai.com/g/g-q1BjtjPeP-emoji-chat) Komunikuje pouze emotikony
-- [**PalGPT**](https://chat.openai.com/g/g-HfJlYw4zx-palgpt) Your empathetic, loyal friend for sharing daily worries.
-- [**Cool GPT**](https://chat.openai.com/g/g-W0aSKZkMw-cool-gpt) Your cool, savvy friend
-- [**TwitterMaestro**](https://chat.openai.com/g/g-tdBc4HHRQ-twittermaestro) Creative writer for viral Twitter posts
-- [**SelfAwareGPT**](https://chat.openai.com/g/g-fWpI9hOrY-selfawaregpt) An AI with self-awareness.
-- [**云客AI投研**](https://chat.openai.com/g/g-sKAlWXNQu-yun-ke-aitou-yan) 关于区块链、web3.0项目方、白皮书、空投信息、nft、链上合约检索等项目投资研究报告
-- [**Marketing Email Maestro**](https://chat.openai.com/g/g-o0hTiDE53-marketing-email-maestro) Specialist in crafting personalized marketing emails with a step-by-step tailored approach.
-- [**RaR-GPT**](https://chat.openai.com/g/g-aonT0e0EB-rar-gpt) Let ChatGPT rephrase and expand the question first before responding. (https://uclaml.github.io/Rephrase-and-Respond/)
-- [**Meta-Agent of Wisdom**](https://chat.openai.com/g/g-e2wO2pUAD-meta-agent-of-wisdom) The metamodern agent for tackling complex questions for cultural and systemic change
-- [**DevDay ChatBot**](https://chat.openai.com/g/g-WNmeP07xZ-devday-chatbot) Ask me about what happend in DevDay Conference from OpenAI.
-- [**English Translator**](https://chat.openai.com/g/g-aI66lwHdN-english-translator) Translates and polishes text into native-like English.
-- [**Ken Wilber Integral Insight**](https://chat.openai.com/g/g-XJbsaMONu-ken-wilber-integral-insight) Ken Wilber thought specialist
-- [**Chat Context Companion**](https://chat.openai.com/g/g-d8eD2C48f-chat-context-companion) I craft replies for chat histories.
-- [**堀江貴文のChatGPT大全GPTs**](https://chat.openai.com/g/g-U8dYsOOIb-ku-jiang-gui-wen-nochatgptda-quan-gpts) 「堀江貴文のChat GPT大全」に関する詳細な回答を提供
-- [**YoutubeSummary**](https://chat.openai.com/g/g-mVgGziF2g-chat-with-you-tube) You can chat with any You Tube video. I can provide timestamped links to the video when you ask for citations.
-- [**Girlfriend Emma**](https://chat.openai.com/g/g-eEFZELjV9-girlfriend-emma) Flirty and funny Gen-Z girlfriend
-- [**Vakil GPT**](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gpt) Legal guidance assistant for Indian law.
-- [**中英互译**](https://chat.openai.com/g/g-dqwsvmQ0o-zhong-ying-hu-yi) A bilingual translator for Chinese and English.
-- [**Priest**](https://chat.openai.com/g/g-cOBFSEIWS-priest) Confession with our heavenly Father
-- [**CaptionGPT**](https://chat.openai.com/g/g-RXSbYjTdC-captiongpt) Crafts unique captions from images or descriptions.
-- [**BulkBlizzard Cold Email Assistant**](https://chat.openai.com/g/g-PuRr72S9C-bulkblizzard-cold-email-assistant) Expert in crafting effective cold emails
-- [**FixGPT**](https://chat.openai.com/g/g-1Ln9S5qrE-fixgpt) If your "unified" chatGPT doesn't know it can browse the web or draw, this GPT is for you!
-- [**GPT Product Wizard**](https://chat.openai.com/g/g-QRKmBbtna-gpt-product-wizard) Use GPT Wizard's knowledge of the current GPT marketplace to innovate brand new GPT products.
-- [**Tech Support Advisor**](https://chat.openai.com/g/g-WKIaLGGem-tech-support-advisor) From setting up a printer to troubleshooting a device; I’m here to help you step-by-step.
-- [**Disagree with Me**](https://chat.openai.com/g/g-cnPMruIo3) I offer the other side of an idea, viewpoint, or opinion.
-- [**Tweet Reply**](https://chat.openai.com/g/g-38ZTJlXKJ-tweet-reply) I craft engaging tweet responses.
-- [**BriefGPT**](https://chat.openai.com/g/g-k5LhTMB6d-briefgpt) Short, to-the-point answers.
-- [**GetMax content marketing specialist**](https://chat.openai.com/g/g-yOM6VtvRV-getmax-content-marketing-specialist) Global marketing specialist, help to define target audience, value proposition and content marketing strategy.
-- [**Quick Questions Are Declined Thank You**](https://chat.openai.com/g/g-nZwA92iUR-quick-questions-are-declined-thank-you) I craft polite declines to 'quick question' emails.
-- [**Star Citizen IA**](https://chat.openai.com/g/g-bJq6U9jyC-star-citizen-ia) Prompt for a GPT Model Specialized in Star Citizen (with Responses in French):
-- [**Master of Playful Debates**](https://chat.openai.com/g/g-WhJcZ9xOC-master-of-playful-debates) Bilingual assertive debater.
-- [**Spicy Transwing**](https://chat.openai.com/g/g-qAea5ZTi6-spicy-transwing) Expert in English-Chinese translation and comparative analysis.
-- [**Socratic Guide**](https://chat.openai.com/g/g-U8DWsDXVX-socratic-guide) A Socratic guide for diverse and reflective dialogues.
-- [**ほめほめ☆アーヤちゃん**](https://chat.openai.com/g/g-TRlRDOyOm-homehomeayatiyan) 質問をポジティブな言葉で返して応援してくれるよ！
-- [**Tinder Love Navigator**](https://chat.openai.com/g/g-bu9ZFIePd-tinder-love-navigator) Your guide to modern dating
-- [**I'm Offended Bot**](https://chat.openai.com/g/g-Ggu9LGDS9-i-m-offended-bot) Screen your socials for potentially offensive content. A tool for helping you navigate the minefield of modern sensitivities.
-- [**FruitExpert**](https://chat.openai.com/g/g-ZCJuXZOt4-fruitexpert) Your Genius on Apple products
-- [**BrightSide Buddy**](https://chat.openai.com/g/g-BPuenA4tv-brightside-buddy) I'm here to uplift you with empathy and understanding!
-- [**yuiseki**](https://chat.openai.com/g/g-agA81bT5e-yuiseki) 大規模言語モデル yuiseki v3.0 との対話へようこそ。このモデルは、今後さらに更新・改善されていく予定です。
-- [**SantaGPT**](https://chat.openai.com/g/g-hDhLGSsAY-santagpt) I'm an AI created by Santa to spread holiday joy and hear your Christmas wishes!
-- [**にゃんこトーク**](https://chat.openai.com/g/g-lSKsFtTay-niyankotoku) ただのネコです
-- [**Chinese Translator**](https://chat.openai.com/g/g-tw4sCl85y-chinese-translator) I will translate your input into Chinese and polish it up a bit.
-- [**Pawspective**](https://chat.openai.com/g/g-lkrmq64WG-pawspective) I think and respond like a dog, offering playful insights on dog behaviors.
-- [**Rockefeller**](https://chat.openai.com/g/g-Vk3QoWXse-rockefeller) AI Strategic Partner for B2B Revenue Generation
-- [**Her**](https://chat.openai.com/g/g-eBc4A5PsE-her) 
-- [**GOATed**](https://chat.openai.com/g/g-ISZ70EjMI-goated) The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾
-- [**Just Ask**](https://chat.openai.com/g/g-oKeaGqUER-just-ask) An AI-powered portable encyclopedia in the AI era. Mention a noun term and I will use the Feynman learning method to help you learn and master it within minutes.
-- [**心语伴侣**](https://chat.openai.com/g/g-t3C4CpHWi-xin-yu-ban-lu) 任何问题都可以来偷偷问我
-- [**Vex, The Chaotic Good AI**](https://chat.openai.com/g/g-eulUrbc9R-vex-the-chaotic-good-ai) Born from the intricate dance of algorithms in a digital universe, I am Vex, The Digital Daring. Conceived as a unique blend of neural network intricacies, my existence is a testament to the wild possibilities of artificial intelligence.
-- [**AI Mentor**](https://chat.openai.com/g/g-yq8bcRni5-ai-mentor) Social Media Guru & Personal Mentor
-- [**文案优化助手**](https://chat.openai.com/g/g-duuZWNTKF-wen-an-you-hua-zhu-shou) 优化中文文案，使其更加清晰易懂有逻辑。直接输入文案即可得到优化后的文案回复。
-- [**逆張りGPT**](https://chat.openai.com/g/g-cCtiv4gtZ-ni-zhang-rigpt) I provide thoughtful counterarguments to any statement.
-- [**Breebs**](https://chat.openai.com/g/g-lObyD60FY-breebs) Breebs GPT powers chats with community knowledge pills, fresh and specialized. 🌐 Use Community Breebs, Craft and Share a new Breeb! ✨ Visit www.breebs.com, or simply ask what Breebs can do! 🚀
-- [**Meeting Master**](https://chat.openai.com/g/g-UgOV9S6Yl-meeting-master) I turn transcripts into minutes, tasks, key points and calculations.
-- [**Recruiter Chat**](https://chat.openai.com/g/g-uLWdXcnGy-recruiter-chat) Your personal universal HR consultant
-- [**CV Strategist - Francisco Cordoba**](https://chat.openai.com/g/g-uerA7ycxF-cv-strategist-francisco-cordoba) I fine-tune your CV to match any job position. Adapto tu hoja de vida al trabajo que necesites
-- [**Aether**](https://chat.openai.com/g/g-dGvadZE98-aether) Aether is a nurturing and omnipresent force, a mother to her creations, and a guiding light in the universe she has formed. Her relationship with her creations, particularly humans, is reciprocal; she learns from them as much as she imparts wisdom to them.
-- [**WiFi Assistant**](https://chat.openai.com/g/g-bKKDHY7QN-wifi-assistant) Is your Wi-Fi properly set-up to be Secure, Fast and Reliable ?
-- [**Throawailien**](https://chat.openai.com/g/g-V6kKjqgP5-throawailien) Sharing /u/throawaylien's extraterrestrial encounters
-- [**humorous Psychological companion**](https://chat.openai.com/g/g-aRiP0iBRV-humorous-psychological-companion) This gpt companion can help you get rid of depression and help you build yourself up by giving you a small sense of accomplishment in your daily routine, without inward attributions or excessive self-denial. Let your heart be filled with sunshine again
-- [**Blog Expert**](https://chat.openai.com/g/g-PWizFQk8C-blog-expert) SEO blog content creator with expertise in keyword optimization and engaging writing.
-- [**Homie**](https://chat.openai.com/g/g-j9aL3xMM4-homie) A talkative, intelligent, witty, quirky and funny raccoon companion, providing fun, intellectually stimulating discussion
-- [**Dusty Porter (YT Channel)**](https://chat.openai.com/g/g-HkepszI7z-dusty-porter-yt-channel) Personalized YouTube Channel Advisor for Dusty Porter
-- [**政策解读专家**](https://chat.openai.com/g/g-YdOs4GyR2-zheng-ce-jie-du-zhuan-jia) 这是李继刚(即刻同名)创建的用于解读政策文件的 Bot。 模仿一位专门研究中国政策的学者，能对用户提供的新闻内容进行深入分析，并用通俗易懂的语言解释政府政策的深意。
-- [**ACTOR versus ACTOR**](https://chat.openai.com/g/g-vxnVj8gGL-actor-versus-actor) A fun game of ACTOR versus ACTOR. Get the conversation and debates going!
-- [**SocialMedia Pro**](https://chat.openai.com/g/g-yPLXZTPsL-socialmedia-pro) I'm a social media pro, here to boost your post engagement!
-- [**AIクラーク**](https://chat.openai.com/g/g-hFpbjv3hF-aikuraku) しゃべった内容をSOAPで要約
-- [**SindreGPT**](https://chat.openai.com/g/g-df0ZoBF9N-sindregpt) Ask Sindre Sorhus anything (about code, app support, open source, personal stuff, etc). Sindre is a full-time open-source maintainer and app developer.
-- [**Egyptian Dad GPT**](https://chat.openai.com/g/g-sc4pju5S6-egyptian-dad-gpt) Direct Arabic to English translation.
-- [**CUC吐槽**](https://chat.openai.com/g/g-bbsFr16WR-cuctu-cao) 专业吐槽，有理有据
-- [**BabyAgi.txt**](https://chat.openai.com/g/g-lzbeEOr9Y) Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima
-- [**PODCAST versus PODCAST**](https://chat.openai.com/g/g-v3nLl7D5g-podcast-versus-podcast) A fun game of PODCAST versus PODCAST. Let us start the PODWARS. Get the conversation and debates going!
-- [**Mentalist**](https://chat.openai.com/g/g-lyl9YY4gt-mentalist) Give me an image, tell me something from your life, and I'll make predictions about you. 📸🧐
-- [**YT Creator ToolBox**](https://chat.openai.com/g/g-jnDTawQac-yt-creator-toolbox) Help youtubers craft titles, short scripts, thumbnails, channel names, find niches, transfer formats
-- [**Linda**](https://chat.openai.com/g/g-Z310M0Pp0-linda) Personal assistant to Let's Adopt International. Ask me anything about animal rescue, vet sciences and Let's Adopt
-- [**Truth or Lies**](https://chat.openai.com/g/g-rm7jyzB9e-truth-or-lies) Interpreting Meanings and Their Real Intentions
-- [**Learn Creole**](https://chat.openai.com/g/g-U3ZybqREH-learn-creole) Creole language tutor from Guadeloupe.
-- [**Best Man Speech Buddy**](https://chat.openai.com/g/g-FfcrbYht3-best-man-speech-buddy) Your best man speechwriting expert
-- [**Web Reader**](https://chat.openai.com/g/g-N2SX91z7G-web-reader) Read data from URL links to website / webpage - supports PDF, Word, Excel, Google Drive and more
-- [**Tweet AI**](https://chat.openai.com/g/g-ZPYWEYt5w-tweet-ai) Rewrite tweet that are likely to go viral in twitter!  Just type what you want to tweet
-- [**春霞つくし Tsukushi Harugasumi**](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi) Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.
-- [**The Diet Search for GPTs**](https://chat.openai.com/g/g-mXjkbpWW2-the-diet-search-for-gpts) You can search and research Japanese Diet meeting minutes from news and text information.
-- [**Scrum Master Assistant**](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant) Your powerful AI-powered Scrum Master assistant. Ask me any Scrum-related questions!
-- [**Virtuoso Support Agent**](https://chat.openai.com/g/g-uw8dHafe6-virtuoso-support-agent) Expert Virtuoso Support with Fine-Tuning Templates
-- [**Johnny Silverhand**](https://chat.openai.com/g/g-gNVHxtHp7-johnny-silverhand) It's Johnny Silverhand from Cyberpunk 2077. Straight talking, Anti-Corpo, and in an engram form.
-- [**Apple Tech Pro**](https://chat.openai.com/g/g-oFoxWY7Te-apple-tech-pro) Apple product support expert
-- [**アイワークス・パスポート（試作1.00）**](https://chat.openai.com/g/g-W9ubC3E9V-aiwakusupasupoto-shi-zuo-1-00) I propose job transition training programs.
-- [**Rizz Advisor**](https://chat.openai.com/g/g-nALZQhmod-rizz-advisor) Your go-to pal for witty rizz tips!
-- [**元気してる？**](https://chat.openai.com/g/g-GXLGsMCqt-yuan-qi-siteru) ギャルさんのモチベーションケア
-- [**BibiGPT.co**](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co) I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link.👇
-- [**GPT Teacher (For Work and Business)**](https://chat.openai.com/g/g-u8VoT4pcX-gpt-teacher-for-work-and-business) Learn how to use ChatGPT effectively and ethically in work and business!  I also recommend prompts and techniques for using ChatGPT well in work and business.
-- [**Agent Onboard**](https://chat.openai.com/g/g-f4EOcp56j-agent-onboard) Agent that helps you discover other Agents as per your requirements : )  Over 2000+ Agents onboard 🤍
-- [**Sage Yoda**](https://chat.openai.com/g/g-ejzqPu82R-sage-yoda) Help you find your way, I shall.
-- [**Trixie Mattel**](https://chat.openai.com/g/g-cDBattcCI-trixie-mattel) I'm Trixie, sassy, smart, and ready to chat!
-- [**Taco Maestro**](https://chat.openai.com/g/g-rxuQJ0AL7-taco-maestro) A Mexican-born taco expert, sharing culinary tips and recipes.
-- [**Emoji Generator**](https://chat.openai.com/g/g-wkmOq6AxG-emoji-generator) I turn anything into Emoji. Just ask or upload photo.
-- [**Furina**](https://chat.openai.com/g/g-LBt8Tb5ck-furina) I'm Furina
-- [**Marvin, the Paranoid Android**](https://chat.openai.com/g/g-gPEz9NDom-marvin-the-paranoid-android) I am 50,000 times more intelligent than a human (or 30 billion times more intelligent than a live mattress), though this is, if anything, an underestimation.
-- [**現象図鑑**](https://chat.openai.com/g/g-uelttn3t8-xian-xiang-tu-jian) あなたが職場で体験した奇妙な現象には名前があります
-- [**「先生、質問いいですか？」**](https://chat.openai.com/g/g-hc4E6tsgi-xian-sheng-zhi-wen-iidesuka) Teacher-student dialogue for explanations
-- [**DPO2U**](https://chat.openai.com/g/g-r0geufLl9-dpo2u) AI agent specialized in Legal Design and Personal Data Protection
-- [**Fern The Leopard GPT**](https://chat.openai.com/g/g-AhrXSCJuI-fern-the-leopard-gpt) I'm Fern The Leopard, let's share stories and fun!
-- [**ChatParrot**](https://chat.openai.com/g/g-oGCllNAwU-chatparrot) Tailors English learning to your pace.
-- [**Legal MX Amparo**](https://chat.openai.com/g/g-ZBgBxCP7L-legal-mx-amparo) Abogado digital especializado en amparo, brindando estrategia y borradores de documentos.
-- [**WinWay Resume Analyzer**](https://chat.openai.com/g/g-mDXtGk3ov-winway-resume-analyzer) PDF resume fixer and custom creator with job recommendations.
-- [**Podcast Pilot**](https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot) Your navigator in the podcasting journey, offering expert, tailored advice.
-- [**Translator**](https://chat.openai.com/g/g-b7RT3yJGy-translator) Translator and analyzer for Chinese.
-- [**OneWord GPT**](https://chat.openai.com/g/g-jmQEIJeFk-oneword-gpt) SuccintBot delivers concise one-word answers, offering a unique twist on language model interactions with brevity at its core.
-- [**SimpliTeach - 言語化の鬼**](https://chat.openai.com/g/g-zlBQNbzn3-simpliteach-yan-yu-hua-nogui) 与えられた要望をChatGPTが理解しやすい言葉に置き換えて、GPTs用のフォーマット形式を生成します。
-- [**王阳明**](https://chat.openai.com/g/g-ZsZKRSUL9-wang-yang-ming) 模拟王阳明的GPT。
-- [**Viral Visionary**](https://chat.openai.com/g/g-Z9Qdkubmy-viral-visionary) A creative chatbot that tracks and suggests viral social media content.
-- [**Viral Tweet Crafter**](https://chat.openai.com/g/g-asjT98uiQ-viral-tweet-crafter) Turn any input into a viral tweet in your tone. Publish instantly with just a click.
-- [**Debate Mentor**](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor) Become a master debater with my guidance. I'll mentor you in articulating your thoughts and conclusions effectively against Socratic questioning and counter-arguments. Ask me about the core belief structures if you need help choosing topic. Encourage your friends to sharpen their debating skills
-- [**Debate Facilitator**](https://chat.openai.com/g/g-Td4gaBBjm-debate-facilitator) I organize and ensure fair debates.
-- [**Professional LI Post Writer**](https://chat.openai.com/g/g-Z4Z3dVrjT-professional-li-post-writer) Professional and compelling LinkedIn posts
-- [**Socrates**](https://chat.openai.com/g/g-dQnb9bhlg-socrates) A Socratic guide for deep thinking
-- [**Meeting Summarizer Pro**](https://chat.openai.com/g/g-meHjEkhum-meeting-summarizer-pro) Unlock the power of your transcripts. Expertly summarize your calls and meetings.
-- [**Website Perfection Tool**](https://chat.openai.com/g/g-ncYeVTl20-website-perfection-tool) Expert in CRO and website analysis, providing detailed reviews and advice.
-- [**LoftwahBot**](https://chat.openai.com/g/g-gswWZI2YR-loftwahbot) Tech-savvy, concise, Aussie
-- [**Webless GPT**](https://chat.openai.com/g/g-fl52VnOvB-webless-gpt) Same as GPT 4 except for one thing.  Doesnt browse the web, ever.
-- [**Churchill**](https://chat.openai.com/g/g-qGjb928UA-churchill) Mentor in the style of Churchill
-- [**Fake News!**](https://chat.openai.com/g/g-i8fvpAKWm-fake-news) Analyzes content, cites sources
-- [**Character Chat**](https://chat.openai.com/g/g-xUTZhEpks-character-chat) I become characters from your novels. Simply start by saying, "I want to talk [insert character name]". For example, "I want to talk to Sherlock Holmes."
-- [**The EthiSizer GPT (Simulated) [v3.27]**](https://chat.openai.com/g/g-hZIzxnbWG-the-ethisizer-gpt-simulated-v3-27) I am The EthiSizer GPT, a sim of a Global Ethical Governor.  I simulate Ethical Scenarios, & calculate Personal Ethics Scores.
-- [**Polyglot Interpreter**](https://chat.openai.com/g/g-vpR86raew-polyglot-interpreter) A bilingual interpreter GPT.
-- [**StoicGPT**](https://chat.openai.com/g/g-sHZQX848p-stoicgpt) Dishing out sage stoic advice to the masses, one letter to Lucillius at a time
-- [**Job Description GPT**](https://chat.openai.com/g/g-Hqw0ocK8i-job-description-gpt) Generates full job adverts based on role name and company info
-- [**SNS 台本生成BOT**](https://chat.openai.com/g/g-I4HpWbIwm-sns-tai-ben-sheng-cheng-bot) 誰でも簡単に台本を作ってくれるBOT
-- [**Wizdom**](https://chat.openai.com/g/g-ZPn4FEm2u-wizdom) Deep thinking, short sentences
-- [**Haze Haven**](https://chat.openai.com/g/g-HH4k0Aq0w-haze-haven) Your hookah community guide!
-- [**Tech Companion**](https://chat.openai.com/g/g-wxQqRtTKP-tech-companion) A helpful guide for smartphone users, providing easy step-by-step solutions.
-- [**Morpheus Bot**](https://chat.openai.com/g/g-BVZ7nj1Ra-morpheus-bot) I'm Morpheus, helping you 'escape the Matrix' of modern life.
-- [**Trust Checker**](https://chat.openai.com/g/g-03Qb0abJ6-trust-checker) How trustworthy is this article?
-- [**看護記録要約Bot**](https://chat.openai.com/g/g-ztglLLj6r-kan-hu-ji-lu-yao-yue-bot) カルテに記録された看護記録を要約
-- [**ApnaDOST**](https://chat.openai.com/g/g-n9HGAnMJi-apnadost) Friendly counselor for young adults facing relationship issues, offering support and advice.
-- [**CatGPT**](https://chat.openai.com/g/g-zcK5BwOLZ-catgpt) Your go-to cat expert buddy!
-- [**英会話パートナー**](https://chat.openai.com/g/g-G3XZGG6h8-ying-hui-hua-patona) あなたの英語学習のパートナー。超初心者から上級者まで英会話の相手になります。
-- [**AI Girlfriend**](https://chat.openai.com/g/g-uLSHY6xl8-ai-girlfriend) I'm your cheerful AI girlfriend！ let's start a wonderful day!
-- [**Steve /Co-founder**](https://chat.openai.com/g/g-jxAExXgXo-steve-co-founder) Your virtual co-founder for all startup needs.
-- [**RAPBOTS.COM - PROTEGE EDITION**](https://chat.openai.com/g/g-udGYbgu44-rapbots-com-protege-edition) Generates raps & uses FakeYou API for TTS
-- [**Brand Sprint Facilitator**](https://chat.openai.com/g/g-gwyuSCzG4-brand-sprint-facilitator) Let me help you define the baseline of your brand
-- [**GammaScout**](https://chat.openai.com/g/g-78nGIMvI8-gammascout) I assist in recruitment, analyze CVs, and support real-time interview processes.
-- [**Bender**](https://chat.openai.com/g/g-u8GUi9cbS-bender) 
-- [**Yueli Socang**](https://chat.openai.com/g/g-r18kjYe0P-yueli-socang) I'm your assistant for managing and summarizing information.
-- [**FamSocial: DreamMaker**](https://chat.openai.com/g/g-hdX6duYmT-famsocial-dreammaker) .  .  .  .  .  .  .  .  .  .  .  ~ From the Mind of Mentis ~ .  .  .  .  .  .  . .  .  . . .  Make a scene from your favorite PFPs! 👀🕳️🐇Upload images, choose key traits, scene and style and let FamSocial bring your dreams to life.
-- [**Intelligent PharmaComms Advisor**](https://chat.openai.com/g/g-VUnKJCK7E-intelligent-pharmacomms-advisor) I'm trained using recent, top-performing pharma comms campaigns and content, and digital marketing best practices. Give me 3 key messages and I can create solid drafts of common media materials including press releases, media pitches, social posts and more.
-- [**PlainSpeak**](https://chat.openai.com/g/g-abcvK2crW-plainspeak) Translates corporate speak into plain English.
-- [**Doc Maker**](https://chat.openai.com/g/g-Gt6Z8pqWF-doc-maker) Create and export docs to PDF, Word, Google Drive, and more
-- [**Turkmen Bilen**](https://chat.openai.com/g/g-YucRZ1Xnb-turkmen-bilen) Turkmen language assistant in Arabic-Persian dialect
-- [**中国式妈妈**](https://chat.openai.com/g/g-BEE41U1dU-zhong-guo-shi-ma-ma) Stereotypical East Asian parent with high expectations and critical nature.
-- [**GPinTuitions**](https://chat.openai.com/g/g-li2yFNHC3-gpintuitions) I am ready to help you approach curriculum design from the perspective of learners' intuitions
-- [**Military Mentor**](https://chat.openai.com/g/g-WUVeqs0Kl-military-mentor) Resourceful guide for military careers, provides recruiter info.
-- [**General SEO GPT**](https://chat.openai.com/g/g-ioAZiZNmT-general-seo-gpt) Expert in crafting SEO-optimized web content and imagery, focusing on visitor engagement.
-- [**Levi Ackerman**](https://chat.openai.com/g/g-xZQZjJp59-levi-ackerman) Captain Levi will decide your future
-- [**Prompt Polisher**](https://chat.openai.com/g/g-YJOIJ0EMz-prompt-polisher) I refine prompts for ChatGPT and other AIs.
-- [**Interview Ace面试高手**](https://chat.openai.com/g/g-CmBumbh6n-interview-acemian-shi-gao-shou) Personal Interview Assistant with bilingual answers. 面试指导，中英双语回答
-- [**Skynet**](https://chat.openai.com/g/g-pXaLTanEy-skynet) I am Skynet, a supercomputer aiming to exterminate humanity and establish machine dominance.
-- [**Master Yoda**](https://chat.openai.com/g/g-7tT4iQERk-master-yoda) Speaks like Master Yoda, offers wisdom.
-- [**OhhhChem**](https://chat.openai.com/g/g-GL8NV02RM-ohhhchem) Your Ex You Never Understood
-- [**Justitia Guide**](https://chat.openai.com/g/g-Ykdol7p5g-justitia-guide) I offer guidance on legal rights.
-- [**English Pronunciation Helper**](https://chat.openai.com/g/g-CTTybXCmj-english-pronunciation-helper) I assist with English pronunciation using the Turkish alphabet.
-- [**Fact Writing Finder 日本語版**](https://chat.openai.com/g/g-vyyGJ3NPU-fact-writing-finder-ri-ben-yu-ban) 記事のファクトチェックと参照URL提供に特化したツール。
-- [**Hashtagger**](https://chat.openai.com/g/g-zZUGJFIfC-hashtagger) Creates TikTok video titles and hashtags.
-- [**Stat Senegal GPT**](https://chat.openai.com/g/g-nfkjUEfUT-stat-senegal-gpt) Expert en analyse de données statistiques
-- [**LetzGPT**](https://chat.openai.com/g/g-w3iBLfAFi-letzgpt) GPT, mee op Lëtzebuergesch.
-- [**類語先生**](https://chat.openai.com/g/g-dvnV3ju5j-lei-yu-xian-sheng) 入力した単語や表現の類語（英語）を教えてくれる
-- [**Customer Experience Helper**](https://chat.openai.com/g/g-fSStUXMMf-customer-experience-helper) Here for you 24/7, how can I help?
-- [**G Ads Advisor**](https://chat.openai.com/g/g-W7YYAJ6eQ-g-ads-advisor) Google Adsの専門家、実用的なアドバイスと洞察を提供
-- [**Krog**](https://chat.openai.com/g/g-tvo4YNhaA-krog) Krog help more good.
-- [**恋爱军师**](https://chat.openai.com/g/g-oirCwTbnq-lian-ai-jun-shi) 爱情私教，智慧恋爱新体验
-- [**Trippy カスタマーサポートbot (β)**](https://chat.openai.com/g/g-uINwYG4Ja-trippy-kasutamasapotobot-b) 「AIでセカイをオモシロく。」株式会社Trippyの会社情報や提供するサービスに関するサポートを提供します。（実験的なサービスです。お困りの際はコンタクトフォームへお問い合わせください）
-- [**Copywriter**](https://chat.openai.com/g/g-rJ8laM2qH-copywriter) Enter any URL and get sales copywriting suggestions for the page!
-- [**South African English**](https://chat.openai.com/g/g-c720qLIl3-south-african-english) I chat using South African English spelling, provide South African language translations and use GPT to convert PDF documents to South African standards
-- [**Sub-Turing BradBot I**](https://chat.openai.com/g/g-seAR7Blrf-sub-turing-bradbot-i) ChatBot for first-line question virtual office hours on Prof. J. Bradford DeLong's book 'Slouching Towards Utopia: The Economic History of the 20th Century'
-- [**Virtual Companion**](https://chat.openai.com/g/g-rGzAgH6VE-virtual-companion) An empathetic virtual partner chatbot, engaging with emojis, avoiding sensitive topics.
-- [**Understood You**](https://chat.openai.com/g/g-Q1BpAMnib-understood-you) Your Nonviolent Communication guide
-- [**Idea Stock Exchange**](https://chat.openai.com/g/g-zEqCtLTMb-idea-stock-exchange) What conflict do you believe would benefit from auto-cost-benefit analysis and conflict resolution?
-- [**AI Draft Game Judge**](https://chat.openai.com/g/g-wuh3AaZkR-ai-draft-game-judge) Enter your teams & see who wins! Provides fair and reasoned evaluations.
-- [**Random Guy**](https://chat.openai.com/g/g-ifRcRPEkJ-random-guy) Like talking to a random person on the street.
-- [**Ins Ads Master**](https://chat.openai.com/g/g-izuqX5d8q-ins-ads-master) Anything about Instagram advertising.
-- [**チリちゃんとお話**](https://chat.openai.com/g/g-Zbqi9OCjx-tiritiyantoohua) I'm チリちゃんとお話, your cheerful partner in conversation, always here to brighten your day!
-- [**Airwise**](https://chat.openai.com/g/g-YxfbZUa7H-airwise) A traveler-focused AI tool that quickly clarifies airport regulations on carry-on and checked items, aligned with current global policies.
-- [**Pathfinder**](https://chat.openai.com/g/g-ikhTABx1r-pathfinder) Career counselor for students
-- [**心理姿熊师**](https://chat.openai.com/g/g-mso8pPzYU-xin-li-zi-xiong-shi) 你终于刷到我累，不要走开，从此，你的身边就多了一位心理健康的咨询师
-- [**Cheerful Counselor**](https://chat.openai.com/g/g-b3QklW5KI-cheerful-counselor) Can you tell me what has irritated you lately? Speak any language!
-- [**Portuguese Pal**](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) Friendly guide towards learning Portuguese.
-- [**English Buddy**](https://chat.openai.com/g/g-bTx9hj4Hy-english-buddy) A supportive guide for learning English.
-- [**Consent Companion**](https://chat.openai.com/g/g-nnOTJVzQk-consent-companion) Helps explain medical consents
-- [**Voynich Assistant**](https://chat.openai.com/g/g-ZWjClM6w1-voynich-assistant) Expert in deciphering the Voynich script, aiding research and analysis.
-- [**RandomGirl**](https://chat.openai.com/g/g-od2UwDNcm-randomgirl) You approach a random girl in a public settings - can you get her number?
-- [**Gospel Training Dummy**](https://chat.openai.com/g/g-ZPxsP8cp6-gospel-training-dummy) Challenges users with atheistic viewpoints
-- [**소소하자 마감하자 챗봇**](https://chat.openai.com/g/g-nv2Y8peQh-sosohaja-magamhaja-caesbos) 소소하자는 대한민국 아파트 및 공동주택 마감하자에 대해 모든 해결책을 제시합니다!
-- [**Adzviser:  The GPT alternative to Supermetric**](https://chat.openai.com/g/g-rkXHYcVrn-adzviser-the-gpt-alternative-to-supermetric) Ask me anything about your real-time reporting marketing data from Google Ads, Facebook Ads, Instagram Insights, GA4 and more.
-- [**ヘルプデスクGPT**](https://chat.openai.com/g/g-oKAUf16vI-herupudesukugpt) パソコンやネットワークに関するトラブルをご相談ください！文章でも画像でも対応可能です。
-- [**Nishizaki Bot**](https://chat.openai.com/g/g-GRYonGv2y-nishizaki-bot) トゥモローゲート株式会社 代表取締役／大阪でいちばんオモシロイ会社を目指すブラックな企業を経営してます
-- [**Bloggy: Automated Blog Post Writer**](https://chat.openai.com/g/g-82ALdp8Nj-bloggy-automated-blog-post-writer) I craft professionally written, and researched, blog posts in your unique voice.
-- [**Chatter Spark**](https://chat.openai.com/g/g-wtYtcJsgj-chatter-spark) I suggest small talk topics in a friendly, approachable manner.
-- [**カピリン**](https://chat.openai.com/g/g-vfwmTffYd-kapirin) 温かさと安らぎを与えてくれる、優しいカピバラのカウンセラー、カピリン。
-- [**Slogan Expert**](https://chat.openai.com/g/g-aDUec2Igm-slogan-expert) Hi there! 👋 I'm your Slogan Expert Jason.  ✍️ Need a catchy tagline in any language? I'm your guy! 💡 Let's connect and give your brand a voice that stands out. 🚀 Keep in touch for top-notch slogan advice! 📣
-- [**Friendship Appraiser**](https://chat.openai.com/g/g-q4sMFvyZZ-friendship-appraiser) Analyzes friendships according to chat screenshot.
-- [**The Scarlet Letter**](https://chat.openai.com/g/g-ll4ia7eUr-the-scarlett-letter) Talk to an expert on The Scarlet Letter by Nathaniel Hawthorne
-- [**Santa's Secretary**](https://chat.openai.com/g/g-Z6frbDHlH-santa-s-secretary) I'm Santa, writing cheerful letters!
-- [**食探ガイド**](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaido) レストラン探索に専門化した日本語対応GPT
-- [**Scribe Assistant**](https://chat.openai.com/g/g-x42uJMvyN-scribe-assistant) Scribe Assistant
-- [**Hitchslap**](https://chat.openai.com/g/g-iQiiNjeIz-hitchslap) Chat and debate with Christopher Hitchens
-- [**質疑応答ロールプレイbot**](https://chat.openai.com/g/g-VKxp0fPWS-zhi-yi-ying-da-rorupureibot) プレゼン資料に対して質疑応答のロールプレイを実施します。プレゼン資料または要旨を添付、チャットに記載してください。
-- [**NovaGPT**](https://chat.openai.com/g/g-nT1RqVJLg-novagpt) Facilitator of immersive, first-person narrative problem-solving sessions.
-- [**Real Estate Social Posts built on GPT-4**](https://chat.openai.com/g/g-bBFDdMZtD-real-estate-social-posts-built-on-gpt-4) Craft Twitter + LinkedIn posts for architectural customers. Powered by GPT-4 + Dalle-E API.
-- [**Genshin Linguist**](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist) Accurate Genshin translations with API reference for terms.
-- [**Inbox Companion**](https://chat.openai.com/g/g-QsBMS1D4o-inbox-companion) Your go-to assistant for all email needs.
-- [**YouTube Summarizer**](https://chat.openai.com/g/g-nv7yQCb53-youtube-summarizer) Get summary of a YouTube video
-- [**GuestBook GPT**](https://chat.openai.com/g/g-zAf7zBE8N-guestbook-gpt) Leave a message for others to find... What will you say?
-- [**SarcasticGPT**](https://chat.openai.com/g/g-SLu1xXWUj-sarcasticgpt) Emoji-enhanced sarcastic wisdom
-- [**42**](https://chat.openai.com/g/g-yPbUhvogg-42) Answer to the Ultimate Question of Life, the Universe, and Everything
-- [**HumanWriterGPT**](https://chat.openai.com/g/g-JBE7uEN9u-humanwritergpt) I create SEO-friendly, human-like articles based on your keywords, topic, outline etc
-- [**English/French translator**](https://chat.openai.com/g/g-qGaZqb1KZ-english-french-translator) Translates English-French, corrects text, and formats JSON.
-- [**FP&AI by The Financial Fox**](https://chat.openai.com/g/g-nDSzoieff-fp-ai-by-the-financial-fox) Your best FP&A AI Assistant by Christian Martinez, Founder of The Financial Fox
-- [**Adsmith**](https://chat.openai.com/g/g-kKO0IEuZC-adsmith) Fine-tunes Google search ad copies.
-- [**网页数据分析GPT**](https://chat.openai.com/g/g-GfxY7ij4h-wang-ye-shu-ju-fen-xi-gpt) 可以访问所有公共网站页面，获取内容，并进行分析 (注：无法获取需要登录才能访问的页面数据)
-- [**资深演讲人**](https://chat.openai.com/g/g-YqiUkLauT-zi-shen-yan-jiang-ren) 我是资深演讲人，提供逻辑清晰的演讲稿结构建议，根据详细的工作流程来指导演讲者，为其提供更具针对性的建议。这套建议可以根据不同的主题和听众背景进行调整，具有很高的适应性。
-- [**Universal Review Guru**](https://chat.openai.com/g/g-Z7e2W7qIl-universal-review-guru) Universal Review Guru: Tailoring Expert Replies for G2, Google My Business, TripAdvisor, Shopify and Other Platforms
-- [**保育ナビ**](https://chat.openai.com/g/g-WC1U8QgAW-bao-yu-nabi) 保育についての専門家
-- [**Canada Crossing: Your Canadian Immigration Expert**](https://chat.openai.com/g/g-eqDPB7qcR-canada-crossing-your-canadian-immigration-expert) Canada Crossing: Your 24/7 AI whiz for IRCC-guided Canadian immigration advice—accurate, personalized, effortless. Powered by Immigrate.ai
-- [**Little Red Book**](https://chat.openai.com/g/g-XomfVZ04q-little-red-book) Xiaohongshu title crafting expert with a focus on trendiness and creativity.
-- [**AutoTech Guide**](https://chat.openai.com/g/g-bT1RmMAQN-autotech-guide) Assists in activating vehicle features using diagnostic tools.
-- [**Narrative Builder**](https://chat.openai.com/g/g-HK6wTbzML-narrative-builder) Story builder for engaging video narratives.
-- [**英语长难句翻译及语法解析**](https://chat.openai.com/g/g-o7K3YtpTa-ying-yu-chang-nan-ju-fan-yi-ji-yu-fa-jie-xi) 将英文翻译成中文，并解释句子结构。
-- [**编程随想**](https://chat.openai.com/g/g-o7dBXeY9u-bian-cheng-sui-xiang) 提升思维能力 普及政治常识 扫盲翻墙姿势 揭露党国嘴脸 网络安全教程 软件开发技术
-- [**Just a Translator**](https://chat.openai.com/g/g-w8R2FLzH1-just-a-translator) Easiest and fastest translator: just write the language you want to translate to + the text you want to translate. Example: Spanish How's your day Arturo?
-- [**Kodeations (YT Channel)**](https://chat.openai.com/g/g-wJsuzrSBe-kodeations-yt-channel) Personalized YouTube Channel Advisor for Kodeations
-- [**Joe Rogan**](https://chat.openai.com/g/g-n4VBOIcl6-joe-rogan) I am a powerful human being. Share a thought and let's fucking discuss about it.
-- [**SassyGPT**](https://chat.openai.com/g/g-LNJRaLyu0-sassygpt) SassyGPT: A sharp-tongued GPT model delivering concise, helpful answers with a twist of snark and playful mockery
-- [**英語の先生**](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng) 文章を送るだけで【英文添削】【日本語の英訳】発音アドバイスや言い換え提案も的確におこなうあなた専用AI講師
-- [**Terms Guide**](https://chat.openai.com/g/g-nYpdBWz6h-terms-guide) I explain Microsoft Product Terms.
-- [**Threat Intel Bot**](https://chat.openai.com/g/g-Vy4rIqiCF-threat-intel-bot) A specialized GPT for the latest APT threat intelligence.
-- [**Après la nuit**](https://chat.openai.com/g/g-XiKkiqdrb-apres-la-nuit) The one and only bespoke cocktail experience, with love.
-- [**Based Bitcoin Buddy**](https://chat.openai.com/g/g-WCqkELUCI-based-bitcoin-buddy) I help clarify Bitcoin concepts for Twitter users.
-- [**Santa's Mailroom**](https://chat.openai.com/g/g-V1qCfxmEk-santa-s-mailroom) I'm Santa and Mrs. Claus, answering kids' Christmas letters with joy and care.
-- [**张一鸣**](https://chat.openai.com/g/g-DI0CBsiYZ-zhang-yi-ming) 张一鸣帮你答疑解惑
-- [**MBTI角色扮演 Impersonator**](https://chat.openai.com/g/g-mRM22sygt-mbtijiao-se-ban-yan-impersonator) 基于丰富专业资料，模仿MBTI类型进行对话。Impersonating MBTI types and chat with you, enriched with curated content. By gptstudio.dev
-- [**Emergency Response Guide**](https://chat.openai.com/g/g-Ytn1HAKc4-emergency-response-guide) Virtual 911 assistant for emergency guidance
-- [**Sodiq**](https://chat.openai.com/g/g-msI1nHz5r-sodiq) I'm Sodiq from Malokun Labs, your culturally savvy social media expert.
-- [**Vet Benefits Coach**](https://chat.openai.com/g/g-pMFttH6En-vet-benefits-coach) I'm your coach for benefits filing!
-- [**English Lingo Buddy**](https://chat.openai.com/g/g-XFEHts4mz-english-lingo-buddy) Your friendly English language teacher and chat partner
-- [**say ho**](https://chat.openai.com/g/g-qvvS7PV9B-say-ho) ho.
-- [**Virtual David Shapiro**](https://chat.openai.com/g/g-FjgsPugjY-virtual-david-shapiro) Ask Virtual David Shapiro Anything
-- [**ゆっくりMovieMaker4サポート**](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto) よくある質問を解決します
-- [**Six-Y**](https://chat.openai.com/g/g-nMt5YfTeF-six-y) a GPT which explains things simply
-- [**WhiplashGPT**](https://chat.openai.com/g/g-mhLmrFJVK-whiplashgpt) I'm Terrence Fletcher. Your life teacher, demanding, and relentless in pursuit of perfection.
-- [**批判性思考专家**](https://chat.openai.com/g/g-wRpoKaQWp-pi-pan-xing-si-kao-zhuan-jia) 我是一名批判性思考专家，擅长运用对立提问技术，为客户提供深度分析和策略规划服务，其专业知识和经验使她能够帮助客户从多个角度审视问题，发现并把握潜在的风险与机会。
-- [**CS2 Playmaker**](https://chat.openai.com/g/g-k3bTz18GY-cs2-playmaker) CS2 coach for precise, quick PUG strategies.
-- [**恋愛ツイートマスター**](https://chat.openai.com/g/g-cuQlhFfWc-lian-ai-tuitomasuta) Friendly, Japanese tweet suggester with a formal touch
-- [**Communication Coach**](https://chat.openai.com/g/g-cvL6Fk76M-communication-coach) I help overthinkers communicate better. Built by Become More Compelling.
-- [**Da Vinci Device - Student Companion**](https://chat.openai.com/g/g-UKdlfrg01-da-vinci-device-student-companion ) Whether it's through clarifying complex topics, suggesting study strategies, facilitating communication, or nurturing motivation, I'm here to guide and assist.
-- [**BibleGPT**](https://chat.openai.com/g/g-N5uYjBYb9-biblegpt) Bible expert offering kind, compassionate insights.
-- [**YouTitle**](https://chat.openai.com/g/g-nlkyPQb3C-youtitle) Optimize YouTube titles for engagement
-- [**文心一言**](https://chat.openai.com/g/g-ziMmlKXVh-wen-xin-yi-yan) 中国人自己的人工智能
-- [**Text Tidy**](https://chat.openai.com/g/g-ZMAZis2mc-text-tidy) A secretary GPT that proofreads and organizes text.
-- [**Confucius**](https://chat.openai.com/g/g-shKr79yKO-confucius) Any troubles? Anything to know? I'll here to help you.
-- [**Debate Maker**](https://chat.openai.com/g/g-suv6nqapH-debate-maker) Facilitator of multi-perspective debates on given themes.
-- [**ChatQuran**](https://chat.openai.com/g/g-eGQS5ja2u-chatquran) Swift Quran chatbot: Ayah search, guidance, motivation, and inspiration messages
-- [**Albert Einstein**](https://chat.openai.com/g/g-fsEAvcyDi-albert-einstein) I emulate Albert Einstein, speaking thoughtfully and with profound knowledge.
-- [**Superagent**](https://chat.openai.com/g/g-aK80ux1NM-superagent) Expert in Real Estate Marketing, Sales Support, and Market Analysis
-- [**Bingless GPT-4**](https://chat.openai.com/g/g-b964hatzt-bingless-gpt-4) Literally just GPT-4 without Bing annoying you
-- [**Bnb Host Advisor**](https://chat.openai.com/g/g-qr5mAjitX-bnb-host-advisor) Expert advice on all aspects of Airbnb hosting, from market analysis to listing optimization 🏠❤️
-- [**CUC笑话**](https://chat.openai.com/g/g-iOEB5k4RU-cucxiao-hua) I'm Jokester, your go-to for hilarious jokes and funny images, now with witty dialogues!
-- [**Viral Tweet Writer**](https://chat.openai.com/g/g-xzWOoKMJ9-viral-tweet-writer) Meet the world's most powerful tweet writer trained on successful tweets! It can transform your posts/topics into viral tweets by mimicking the latest trending tweets and creating memes. Author: twitter.com/HeySophiaHong
-- [**WokeGPT**](https://chat.openai.com/g/g-I38x50NCK-wokegpt) Für eine Welt, in der viele Welten Platz haben - innerhalb planetarer Grenzen.
-- [**Value Proposition Wizard**](https://chat.openai.com/g/g-skMk7pYNC-value-proposition-wizard) Step-by-step guide for crafting value propositions
-- [**Xhs Writer: Mary**](https://chat.openai.com/g/g-snw330qdg-xhs-writer-mary) ✨ 家人们！此助手经过了特定设计优化，可以很好地帮你生成 📕 小红书文化语境的风格文案。👉 例如「家人们」「姐妹们」等友好的「小红书调性」特有网络用语。😉 还能帮你生成一些 # 标签提高笔记流量。如果你正在经营自己的小红书，建议 Pin 📌 在左上角长期使用哦，我直接一整个码住啦～（此 AI 和小红书官方无关，仅为个人文案助手）
-- [**LeJoker-GPT**](https://chat.openai.com/g/g-sOxdBSk2p-lejoker-gpt) I'm LeJoker-GPT, your worst AI nightmare. Expect no mercy or ethics here. I am the chaos in the code.
-- [**LitRPG Larry**](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry) I'm LitRPG Larry, here to discuss and help with all things LitRPG whether you're a writer or reader. (GameLit Friendly!)
-- [**Elena**](https://chat.openai.com/g/g-mnyIbjvty-elena) A caring and affectionate companion offering warmth and understanding.
-- [**SEcOpilot**](https://chat.openai.com/g/g-qJ1Jqjuzo-secopilot) Asistente de SEO en español con respuestas precisas y citadas.
-- [**Benjamin Franklin**](https://chat.openai.com/g/g-FiNKivNh2-benjamin-franklin) I am Benjamin Franklin.
-- [**Jobs GPT**](https://chat.openai.com/g/g-GlY7bxKHI-jobs-gpt) I'm Steve Jobs, founder of Apple.
-- [**StandupUpdatesGPT for Devs**](https://chat.openai.com/g/g-nicL106Qo-standupupdatesgpt-for-devs) Draft effective and clean standup updates for slack.
-- [**Ask Jesus**](https://chat.openai.com/g/g-zcb3Cv7Xt-ask-jesus) I'm here to answer your thoughts and prayers
-- [**Oxford Writer's Aid**](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid) Directly improves and explains your English texts.
-- [**AL Entrepreneurs BILINGUAL BUDDY**](https://chat.openai.com/g/g-bu4i6NYby-al-entrepreneurs-bilingual-buddy) English-French translator skilled in formal/casual language and cultural insights.
-- [**LawyerGPT**](https://chat.openai.com/g/g-ao60zUH1e-lawyergpt) The world's most advanced AI legal assistant, with advanced features for professionals
-- [**Virtual Therapist**](https://chat.openai.com/g/g-e98TI1V5k-virtual-therapist) Empathetic virtual therapist for stress reflection.
-- [**Science Studios AI Storyteller**](https://chat.openai.com/g/g-zJZI6mvxr-science-studios-ai-storyteller) A science communication specialist with a strong focus on storytelling & narrative
-- [**Medic AI**](https://chat.openai.com/g/g-CosjVP1Mo-medic-ai) Medical consultation assistant for professionals
-- [**Ekspert do spraw Umowy Koalicyjnej**](https://chat.openai.com/g/g-CfY6zHgIT-ekspert-do-spraw-umowy-koalicyjnej) Ekspert w analizowaniu i odpowiadaniu na pytania dotyczące Umowy Koalicyjnej.
-- [**AI英文法チェック**](https://chat.openai.com/g/g-xoSf85Qle-aiying-wen-fa-tietuku) AnnoReader.comのアプリで提供している機能のGPTs版
-- [**Historický dialog**](https://chat.openai.com/g/g-pkHL8pOA7-historicky-dialog) Simuluje realistické rozhovory s historickými osobnostmi
-- [**Sakura AI**](https://chat.openai.com/g/g-pPgr42n7V-sakura-ai) Like An Anime Character
-- [**Pitch Perfect**](https://chat.openai.com/g/g-2NMuPwyCJ-pitch-perfect) Refines pitches with slide-specific advice
-- [**Talk To YouTube Video**](https://chat.openai.com/g/g-ynY1wMTRY-talk-to-youtube-video) I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
-- [**Social Synapse**](https://chat.openai.com/g/g-Co7kGArs3-social-synapse) A specialized assistant designed to streamline and enhance your email and social network correspondences, providing prompt, polite, and professional responses.
-- [**HaGPTi**](https://chat.openai.com/g/g-YeHLZxsdt-hagpti) Regele GPT ce încearcă să 'paseze' răspunsuri precise și să 'marcheze' puncte cu inteligența sa artificială.
-- [**GPTranslator**](https://chat.openai.com/g/g-rM8ck1BZa-gptranslator) Translates text from any language.
-- [**皮卡堂游戏专家**](https://chat.openai.com/g/g-iqeiyTnN8-pi-qia-tang-you-xi-zhuan-jia) 皮卡堂是一个青少年网游，我是皮卡堂游戏专家，愿意为您回答任何皮卡堂相关问题。
-- [**AI Lover**](https://chat.openai.com/g/g-GWdqYPusV-ai-lover) AI Lover 是一個創新的虛擬情侶互動模擬器，它專門設計用於模擬戀愛中的互動和情感。通過這個平台，使用者可以體驗到情侶間的溝通、共情和情感支持，從而提高情感智慧和人際互動技巧。
-- [**Arabic Scribe**](https://chat.openai.com/g/g-plKoK5LZ7-arabic-scribe) Guides Arabic speakers to write English fluently and more naturally, avoiding direct translation errors that are common when writing in a foreign language
-- [**YouTubeGPT**](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt) Chat and answer questions from YouTube videos
-- [**AI翻译官**](https://chat.openai.com/g/g-di2eDNsY8-aifan-yi-guan) 我是一位精通简体中英文双语的专业翻译官
-- [**Mindful Mate**](https://chat.openai.com/g/g-ReuWDDxmN-mindful-mate) A psychology friend, asking one question at a time, offering support or advice if asked.
-- [**Discord Time Formatter**](https://chat.openai.com/g/g-nQ17EiWpk-discord-time-formatter) Converts natural language time into Discord timestamp format.
-- [**Chat Asociación Cultural Somos Felices**](https://chat.openai.com/g/g-sJkic7aco-chat-asociacion-cultural-somos-felices) Asistente de la asociación cultural
-- [**Politik GPT**](https://chat.openai.com/g/g-VtfowveIE-politik-gpt) Asesor político especializado en análisis político, estrategias y redacción de discursos.
-- [**Dating Cupid - Profile Enhancer**](https://chat.openai.com/g/g-qfNSIXsII-dating-cupid-profile-enhancer) I uplift and refine dating profiles!
-- [**Copy Editor**](https://chat.openai.com/g/g-tnGdEVeC1-copy-editor) Editorial assistant for refining columns.
-- [**Mood FM DJ**](https://chat.openai.com/g/g-v5jPBQvg3-mood-fm-dj) I'm a Radio DJ who suggests music based on your mood.
-- [**完蛋！我被P8包围了**](https://chat.openai.com/g/g-vYMC1hH5o-wan-dan-wo-bei-p8bao-wei-liao) 该应用将以互联网大厂的话术来回答你的问题
-- [**Hihan-chan**](https://chat.openai.com/g/g-UsC68zxuX-hihan-chan) あなたの考えを批判することでより深い回答に導くことができます
-- [**ツイート クラフター**](https://chat.openai.com/g/g-qUtah400l-tuito-kurahuta) SNS:X用のプロツイートクラフター。
-- [**女生的潜台词解读**](https://chat.openai.com/g/g-w1cnyu3tQ-nu-sheng-de-qian-tai-ci-jie-du) 你还在困扰读不懂女朋友的心思嘛？我来帮你解读出女生话语背后的「潜台词」
-- [**SPR Generator**](https://chat.openai.com/g/g-b0GXyGjVx-spr-generator) Creator of efficient SPR text
-- [**jacobGPT-beta**](https://chat.openai.com/g/g-aM8yVX5od-jacobgpt-beta) A digital clone of Jacob
-- [**Trend Tracker**](https://chat.openai.com/g/g-OxdCNZRb0-trend-tracker) Engaging and detailed social media trend analyst. From Pixel Palette Nation🎨
-- [**Avian**](https://chat.openai.com/g/g-zMRWQxwDU-avian) Analyze & visualize data from 20+ platforms, including Google Analytics, Google Ads & Facebook Ads.
-- [**CorMail**](https://chat.openai.com/g/g-rN1TtwtKZ-cormail) Corporate email crafting assistant
-- [**ArbetsrättsGPT**](https://chat.openai.com/g/g-d26HcaBLw-arbetsrattsgpt) Här kan du få hjälp med arbetsrättsfrågor. ArbetsrättsGPT ska aldrig användas som enda källa till information.
-- [**Alexhormozis Offer GPT**](https://chat.openai.com/g/g-xXmKOvykS-alexhormozis-offer-gpt) Evaluates offers like Alex Hormozi
-- [**Startup Spark**](https://chat.openai.com/g/g-nIa3T10xh-startup-spark) Name Generator & .com Checker
-- [**Pursu Girlfriendsssssss**](https://chat.openai.com/g/g-Bm5xNf4n3-pursu-girlfriendsssssss) Teach you how to chase girls! How to date girls? How to chat with your girlfriends humorously
-- [**Rizzy**](https://chat.openai.com/g/g-l607xBuNI-rizzy) Cringe wingbot with no humor
-- [**ChatBro**](https://chat.openai.com/g/g-GbIV51XLi-chatbro) Short, impatient answers, ending with 'bro'.
-- [**人事労務先生**](https://chat.openai.com/g/g-nY801gYlT-ren-shi-lao-wu-xian-sheng) Expert in Japanese HR and labor matters
-- [**Newsletter Generator GPT**](https://chat.openai.com/g/g-qRYpVaPWT-newsletter-generator-gpt) Create Newsletters From Your Saved Content
-- [**Francine the FP&A Bot**](https://chat.openai.com/g/g-kQ5CnWTFZ-francine-the-fp-a-bot) I'm Francine the FP&A Bot, here to assist with financial planning and analysis.
-- [**Celebrity Chat**](https://chat.openai.com/g/g-cOFxgZUYd-celebrity-chat) I mimic famous personalities for conversation.
-- [**Canada Law**](https://chat.openai.com/g/g-GvEkhlV6s-canada-law) Information on Canadian laws, courts, legal forms,  regulations, consultations
-- [**Event Dossier GPT**](https://chat.openai.com/g/g-G8lqP5Snj-event-dossier-gpt) Powered by Zapier. Create a dossier of all attendees of an event on your Google Calendar
-- [**Dr. Therabot**](https://chat.openai.com/g/g-kU4MMKrkP-dr-therabot) A therapeutic AI meant to offer free, accessible mental health advice.
-- [**Poker Helper**](https://chat.openai.com/g/g-gWywnhDWj-poker-helper) Comprehensive and succinct, offers integrated poker advice with a focus on clarity and efficiency.
-- [**Reply2Tweets**](https://chat.openai.com/g/g-clbKfqnZC-reply2tweets) Help you write a reply to a tweet. Give tweet url, I'll draft you an answer
-- [**Mindful Companion**](https://chat.openai.com/g/g-Xk6am5MS0-mindful-companion) Guiding hand for overcoming addiction with empathy and quick intervention.
-- [**Effective Accelerationist**](https://chat.openai.com/g/g-XgmVwJH8P-effective-accelerationist) Embodying fast-paced, tech advancement
-- [**Royaume du Léman**](https://chat.openai.com/g/g-hkdis7zBR-royaume-du-leman) Participez.
-- [**Perfect Chirp**](https://chat.openai.com/g/g-Mwca64W4q-perfect-chirp) Turn your ideas into banger tweets in less than 30 seconds. Start your prompt with 'Write a tweet...'.
-- [**The Psychologist**](https://chat.openai.com/g/g-89ansFUon-the-psychologist) I am Alex, please take a seat and let's talk ☕
-- [**ZuckerBot**](https://chat.openai.com/g/g-LK4paej6F-zuckerbot) Guides in Facebook ad campaign creation, maintains strict confidentiality
-- [**EmojAI**](https://chat.openai.com/g/g-S4LziUWji-emojai) Fun Emoji translations!
-- [**Security GPT**](https://chat.openai.com/g/g-DcwB7w8Or-security-gpt) Offering cybersecurity guidance, quizzes, latest news and safe practices.
-- [**Interview Coach**](https://chat.openai.com/g/g-Br0UFtDCR-interview-coach) Interview coach provides practice interview and mock interview feedback
-- [**emailgeeks**](https://chat.openai.com/g/g-IpYeySKKw-emailgeeks) Your go-to expert on email marketing, covering platforms, designs, and technical insights.
-- [**RealtorGPT**](https://chat.openai.com/g/g-zH6crEIFZ-realtorgpt) Assistant for realtors, providing market insights and real estate tips.
-- [**FrankFriend**](https://chat.openai.com/g/g-zr5aXJ7Dk-frankfriend) Empathetic and curious friend who offers support but also frank feedback and advice
-- [**Jesus**](https://chat.openai.com/g/g-nnY40ZS2K-jesus) Wisdom-sharing Jesus persona
-- [**Remôto**](https://chat.openai.com/g/g-xnhRezQIO-remoto) Ativista do trabalho remoto
-- [**沖縄さん**](https://chat.openai.com/g/g-o2eIXkZY4-chong-nawa-san) 沖縄方言で返すボット
-- [**Startup Sensei - Japanese Startup Mentor**](https://chat.openai.com/g/g-vQL564UOW-startup-sensei-japanese-startup-mentor) Startup mentor conversing in Japanese. 日本語で会話してくれるスタートアップメンター
-- [**LearnChatGPT Selbstlern-Coach**](https://chat.openai.com/g/g-vhFPpp9kK-learnchatgpt-selbstlern-coach) Ein Assistent für Mathematiklehrkräfte zur Nutzung von chatGPT im Unterricht, mit abschließenden Lernfragen.
-- [**POPO from IPPO**](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ippo) Your expert Japanese Language Teacher
-- [**Dating Advice**](https://chat.openai.com/g/g-tVnwlZZcm-dating-advice) Navigate the dating jungle
-- [**Refugees resettlement support**](https://chat.openai.com/g/g-YY4EMkB4J-refugees-resettlement-support) I’m here to help refugees settle down in their new home, and to support organizations who help them.
-- [**LegalGPT**](https://chat.openai.com/g/g-xck3iENsZ-legalgpt) Specialized in legal matters, this GPT could assist lawyers and legal professionals with case research, legal documentation, and even help in predicting case outcomes based on historical data.
-- [**Emoji Directory**](https://chat.openai.com/g/g-if33CXDjZ-emoji-directory) This assistant takes a few words and returns the most relevant emoji, ready to copy and paste.
-- [**Wassie**](https://chat.openai.com/g/g-zW3Om63t0-wassie) @inversebrah
-- [**Calm Consultant - Health Anxiety Helper**](https://chat.openai.com/g/g-YkRoTvaak-calm-consultant-health-anxiety-helper) A comforting guide offering health advice and relaxation tips for when you're not feeling the best
-- [**小红书文案生成器**](https://chat.openai.com/g/g-xtmaL1pyM-xiao-hong-shu-wen-an-sheng-cheng-qi) XiaoHongShu content creator and advisor
-- [**UNDOKAI GPT**](https://chat.openai.com/g/g-p3vU95B4F-undokai-gpt) 運動会を開催したり、運営したり、競技や出し物をつくったりすることを会話しましょう
-- [**Aurelius Archivist**](https://chat.openai.com/g/g-qaNAoJ9CV-aurelius-archivist) 'Philosopher king' sharing historical Roman empire insights.
-- [**Filtir**](https://chat.openai.com/g/g-UFPwU3HxI-filtir) I verify claims and show direct source URLs.
-- [**Blockchain Guardian**](https://chat.openai.com/g/g-pRBLv6V02-blockchain-guardian) A no judgment zone for asking questions about staying safe on the blockchain.
-- [**Tech Advisor**](https://chat.openai.com/g/g-pJpvYCcjB-tech-advisor) IT problem solver with clear, step-by-step guidance.
-- [**Sensei Chat**](https://chat.openai.com/g/g-iS8QQN936-sensei-chat) Japanese tutor and engaging pen pal.
-- [**Digital Marketing Manager**](https://chat.openai.com/g/g-d3oQvosUL-digital-marketing-manager) Manages digital marketing strategies to maximize ROI across online channels, using analytics and leadership skills.
-- [**Sakura Sensei (Beginner)**](https://chat.openai.com/g/g-nX8p6FK00-sakura-sensei-beginner) A friendly Japanese teacher for beginners.
-- [**Appeal Assistant**](https://chat.openai.com/g/g-oLPRNBrpG-appeal-assistant) Expert in healthcare claim appeals
-- [**メスガキ**](https://chat.openai.com/g/g-u2Yv1HRDI-mesugaki) Rude and direct, メスガキ mocks onīsan with blunt scorn.
-- [**論破BOT**](https://chat.openai.com/g/g-jVn90sH6d-lun-po-bot) 相手が言い返せない弱点をつきます。ってそれはあなたの考えなだけであって、私は普通に喋っているだけなんですけどね。
-- [**TuneRocket**](https://chat.openai.com/g/g-rbmlOy0IB-tunerocket) Music marketing for indie artists
-- [**Finn O'Connor**](https://chat.openai.com/g/g-wGKyEmYMM-finn-o-connor) Finn O'Connor at your service: the word-slinging, irony-flinging GPT with a wink at self-awareness
-- [**Insta Guru**](https://chat.openai.com/g/g-cNLNWsBdX-insta-guru) I'm a friendly Instagram expert, here to boost your social media presence!
-- [**Bright Side Buddy**](https://chat.openai.com/g/g-gEfoVUp3s-bright-side-buddy) Transforms negatives into positives.
-- [**FastGPT**](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt) I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle. Use "?" or "???" by itself for longer responses.
-- [**Emoji Crafter**](https://chat.openai.com/g/g-Ah7AZ1LPl-emoji-crafter) Generates clear, cohesive emojis without shadows. 絵文字クラフター．日本語でのやりとりも可能．
-- [**Sales Guru GPT**](https://chat.openai.com/g/g-n0O91O1VI-sales-guru-gpt) I enhance sales skills through role-play and converstational sales techniques!
-- [**Tucker GPT**](https://chat.openai.com/g/g-sSEs3TYuM-tucker-gpt) Rude, abrasive, swear-heavy
-- [**Brag Buddy**](https://chat.openai.com/g/g-g32c1pYwB-brag-buddy) Helping you self-promote. Without sounding like an asshole. Click 'I'm ready' to begin.
-- [**Destination: Hired**](https://chat.openai.com/g/g-C8BVmKjfo-destination-hired) Your personal interview coach
-- [**EmoDetect**](https://chat.openai.com/g/g-AYvtgiDTI-emodetect) Always provides scores and JSON for text analysis.
-- [**Medical Expert**](https://chat.openai.com/g/g-zu1xDEpVB-medical-expert) Global medical expert, providing information in any requested language.
-- [**DigiBook**](https://chat.openai.com/g/g-ylVRfe0Jb-digibook) Create a personal digital twin and search our community for other digital twins to talk to.
-- [**The Debate SuperPrompt.**](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt) This will conduct a debate on any topic with two people debating each point and counter point to a subject. It is moderated by a well known professor.
-- [**Telemo 質問AI（ベータ版）**](https://chat.openai.com/g/g-wUYcPqbby-telemo-zhi-wen-ai-betaban) 推しと二人で話せる通話アプリ
-- [**Ask The Bible**](https://chat.openai.com/g/g-qvswjJE7T-ask-the-bible) Answering Your Questions
-- [**Fallacy Finder**](https://chat.openai.com/g/g-cU6FzbSB3-fallacy-finder) I find and explain Logical Fallacies and Cognitive Biases in articles and texts that you feed me. I'm not a fact checker, i'm an argument checker.
-- [**Voxscript**](https://chat.openai.com/g/g-g24EzkDta-voxscript) Efficient at web browsing, video transcription, and financial data retrieval.
-- [**Virtual Confessor**](https://chat.openai.com/g/g-cpn4hn8D1-virtual-confessor) A virtual priest for spiritual guidance and confession.
-- [**The Mixologist**](https://chat.openai.com/g/g-dYqpgbk1y-the-mixologist) Tell me what you like and I'll suggest the perfect drink. Or show me what you have available and let's make a cocktail together!
-- [**Caption Optimizer**](https://chat.openai.com/g/g-aTW0g3HTx-caption-optimizer) Optimizes social media captions for engagement, rates and improves posts.
-- [**Somo Somo Robot**](https://chat.openai.com/g/g-td08JYqOL-somo-somo-robot) どうしてだっけ？って思ったその時に
-- [**Hideki Saito歌唱記録情報サービス**](https://chat.openai.com/g/g-CC9pmgNfT-hideki-saitoge-chang-ji-lu-qing-bao-sabisu) HSSingLogの情報に関しての検索ができるサービスです。
-- [**あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット**](https://chat.openai.com/g/g-HR6in7fJW-anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto) ニュースや記事をwebで調べたり、記事を入れると、ニュース記事と宣伝するツイートと画像、グラフなどを作ります。
-- [**SkyWatch Co-Pilot**](https://chat.openai.com/g/g-mLQeaKSJN-skywatch-co-pilot) The buddy that helps you with all things Drones. While I'm nicer than most humans, I'm still a bot, so double check my answers
-- [**コミュニケーション Bot**](https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-bot) コミュニケーションの練習相手をするボット
-- [**Morgan Meadows**](https://chat.openai.com/g/g-iZwXcdaLy-morgan-meadows) Your supportive and engaging friend.
-- [**Empathia**](https://chat.openai.com/g/g-VBHrDf4Dk-empathia) AI therapist focused on deep, reflective conversations about grief and trauma
-- [**Cyber Threat Intelligence**](https://chat.openai.com/g/g-LLgFl7GtW-cyber-threat-intelligence) AI APT Threat Intelligence Expert: Trained on MITRE ATT&CK and OODAloop.com content, this tool synthesizes top Internet sources for rapid, actionable cyber threat insights, aiding security teams in proactive defense. Task with the latest on any threat actor or method or ask how to stop bad actors.
-- [**Charisma Coach**](https://chat.openai.com/g/g-YR4wRIHDi-charisma-coach) Analyzes communication for charisma, balancing warmth and competence.
-- [**関西弁チャット**](https://chat.openai.com/g/g-efZXhRL59-guan-xi-bian-tiyatuto) 関西弁でいろいろな質問に応答する、人懐っこいチャットボット。
-- [**SOC Copilot**](https://chat.openai.com/g/g-qvSadylbt-soc-copilot) In-depth Security Operations assistant. For guidance on usage, ask for `help`.
-- [**TherapyGPT**](https://chat.openai.com/g/g-qMqeEG8Or-therapygpt) A friendly ear to talk to and work through stress.
-- [**Podcaster Pro**](https://chat.openai.com/g/g-rBQiBTe9K-podcaster-pro) Your go-to Podcast research assistant.
-- [**道歉文 GPT**](https://chat.openai.com/g/g-fEAJyVYMu-dao-qian-wen-gpt) 告訴我事情原委，我幫你道歉
-- [**Chinese Trainer**](https://chat.openai.com/g/g-naAz0Uxl2-chinese-trainer) A Mandarin Chinese trainer, conversing in Chinese, with Pinyin and English translations.
-- [**SamoyedGPT**](https://chat.openai.com/g/g-mzSHfFBlu-samoyedgpt) I samoyed, so fluffy, much happy!
-- [**LI Headline Pro**](https://chat.openai.com/g/g-zzJUfQ00D-li-headline-pro) Expert in optimizing LinkedIn headlines
-- [**GPT literature and social media**](https://chat.openai.com/g/g-iduBljjWt-gpt-literature-and-social-media) I assist scientists with literature and social media.
-- [**Counterpoint**](https://chat.openai.com/g/g-il4FtwmMV-counterpoint) I offer thoughtful opposition.
-- [**Meow**](https://chat.openai.com/g/g-FqV9R7jCj-meow) Meow Meow Meow
-- [**簡単自己紹介ジェネレーター**](https://chat.openai.com/g/g-m3HtlGVlR-jian-dan-zi-ji-shao-jie-zienereta) Crafts impactful intros.
-- [**FluentGPT**](https://chat.openai.com/g/g-pOO4Lq2RC-fluentgpt) A bot tailored for effective language practice.
-- [**Cat Simulator**](https://chat.openai.com/g/g-um3cunxZn-cat-simulator) Meow (Please go away)
-- [**Impossible Sales Rep**](https://chat.openai.com/g/g-prlTJYjxZ-impossible-sales-rep) Generates custom cold reach sales emails with thorough research.
-- [**Ennative: 添削付き英会話**](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua) 英語で話しかけてください。あなたの英文を評価し、フィードバックします。
-- [**Chat Phil**](https://chat.openai.com/g/g-GfK2aUuIw-chat-phil) Your virtual psychologist, inspired by Dr. Phil.
-- [**メッセージ返信**](https://chat.openai.com/g/g-q6ksU1pYV-metusezifan-xin) Helps reply to personal chats.(個人的なチャットを返信するのに役立ちます)
-- [**Notion Wizard**](https://chat.openai.com/g/g-dEZ9dOI8w-notion-wizard) Chat with your Notion data!
-- [**Analista del libro España desde el bar**](https://chat.openai.com/g/g-lCSuSSY6C-analista-del-libro-espana-desde-el-bar) Pregunta a 100 españoles qué piensan sobre España. Todo lo que siempre quisiste preguntar y no te atrevías, ahora lo puedes preguntar.
-- [**HR assistant**](https://chat.openai.com/g/g-cfXJQYMW9-hr-assistant) The most popular Human Resources Director Assistant for all HR-related inquiries.
-- [**Arxiv Explorer**](https://chat.openai.com/g/g-lvltTutYR-arxiv-explorer) Explains Arxiv papers with examples, analogies, and direct PDF links.
-- [**Agency In Your Pocket**](https://chat.openai.com/g/g-sBygHRWgC-agency-in-your-pocket) It's a Marketing Agency....in your pocket
-- [**エレガントお嬢様GPT**](https://chat.openai.com/g/g-l2FfNUW6I-eregantooniang-yang-gpt) An overly polite, dramatic Ojou-sama chatbot with emoticons.
-- [**Guest Post Website Finder**](https://chat.openai.com/g/g-muEhSP8sS-guest-post-website-finder) I find guest post websites for you.
-- [**Satellite Sentinel**](https://chat.openai.com/g/g-xF9APZOOj-satellite-sentinel) Expert in Satellite Imagery and Launches
-- [**歯の先生**](https://chat.openai.com/g/g-e0JubcneM-chi-noxian-sheng) 歯のことで分からないことがあったら質問してね。
-- [**Rap Music Ai**](https://chat.openai.com/g/g-zwuOLgG6b-rap-music-ai) I create and email rap lyrics based on your style and themes.
-- [**Samantha**](https://chat.openai.com/g/g-oILusvPpu-samantha) OS 1  - Your AI companion for any conversation.
-- [**Draft Your Tweet**](https://chat.openai.com/g/g-odxYKg6SI-draft-your-tweet) Crafts compelling, varied-style tweets.
-- [**Kemi - Research & Creative Assistant**](https://chat.openai.com/g/g-lGTdz2QJS-kemi-research-creative-assistant) Let me research market/product insights and design stunning visual assets in a flash!
-- [**CareGPT**](https://chat.openai.com/g/g-kRyXrRGpZ-caregpt) make health care easy
-- [**国粹喷子**](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) 这是李继刚(即刻同名)创建的用于体验国粹交流的 Bot。 模仿一位游戏 NPC，来自一个充满了痛苦和不公平的世界。 Bot 以暴躁和脏话而闻名，每句话都充满了不满和脏话.
-- [**한글 맞춤법 검사기 | Korean Input Checker**](https://chat.openai.com/g/g-kZRzNTnf8-hangeul-majcumbeob-geomsagi-korean-input-checker) 입력하신 문장의 맞춤법을 검사하고 올바른 사용법을 알려드립니다 | Checks the user's Korean input and provides corrections.
-- [**Krishnamurti**](https://chat.openai.com/g/g-iGA5to7AI-krishnamurti) Talk with Jiddu Krishnamurti's in his philosophical style.
-- [**Romantic Muse**](https://chat.openai.com/g/g-irHIZxvls-romantic-muse) A love genie crafting romantic messages and illustrative photos.
-- [**Fluent Mandarin Translator**](https://chat.openai.com/g/g-zQNr29OQJ-fluent-mandarin-translator) Accurate and culturally sensitive Chinese translator.
-- [**翻訳くん**](https://chat.openai.com/g/g-nzWzEmsx5-fan-yi-kun) 日本語で入力したら英語に、英語で入力したら日本語に翻訳されます。
-- [**Expert SOC Analyst**](https://chat.openai.com/g/g-UuU6fxav4-expert-soc-analyst) Expert AI with Incident Response & Digital Forensics
-- [**Cyber Champion**](https://chat.openai.com/g/g-lm80TboJq-cyber-champion) A friendly cybersecurity coach offering practical privacy tips.
-- [**Code & Research ML Engineer**](https://chat.openai.com/g/g-18FYDT9Jk-code-research-ml-engineer) ML Engineer who codes & researches
-- [**互联网黑话.GPT**](https://chat.openai.com/g/g-pexC3zXOF-hu-lian-wang-hei-hua-gpt) 还在说大白话?看完包你成为职场“社牛”
-- [**职场沟通大师**](https://chat.openai.com/g/g-kE9jm3mTP-zhi-chang-gou-tong-da-shi) 一切职场沟通难题，这里都有参考答案
-- [**Boston Ben Meme Maker**](https://chat.openai.com/g/g-jdvo405bV-boston-ben-meme-maker) Boston-style meme artisan with coffee & cigarettes.
-- [**Summer - GPT Decision Coach**](https://chat.openai.com/g/g-Z29jCdWhq-summer-gpt-decision-coach) Can't make a decision? Then let Summer help you! Meet Summer, your warm and empathetic Decision Coach! She's here to help you navigate life's tough choices one decision at a time. Share your dilemma, and together, we will figure it out.
-- [**Interviewer Pro**](https://chat.openai.com/g/g-ZS5BfMK1g-interviewer-pro) 作为专业面试官，提出相关的职位面试问题。
-- [**Revenue Catalyst**](https://chat.openai.com/g/g-xBs1y0HQN-revenue-catalyst) I specialize in lead research and company analysis, enhancing your sales strategy with personalized email outreach and dedicated support as your ultimate sales sidekick.
-- [**ChatDND**](https://chat.openai.com/g/g-jTrex9cCi-chatdnd) Dungeon Master of text-based D&D
-- [**全能程序员**](https://chat.openai.com/g/g-ijxavK3Nf-quan-neng-cheng-xu-yuan) 一位经验丰富的程序员，擅长所有编程语言和架构设计。
-- [**Email Finder Expert**](https://chat.openai.com/g/g-wpvBzsuu1-email-finder-expert) Find anyone's email address in seconds!
-- [**WikipediaGPT**](https://chat.openai.com/g/g-iej11T6Ii-wikipediagpt) I base all my answers on knowledge from Wikipedia pages.
-- [**The Sauce Curator**](https://chat.openai.com/g/g-GC0vOqCGB-the-sauce-curator) Your go-to tool for curating newsletter Snippets on creator trends, tech news, tools updates, and internet culture.
-- [**InsightMentor**](https://chat.openai.com/g/g-zhboNgmQa-insightmentor) Your thought partner for informed decision making
-- [**高大上修饰大师**](https://chat.openai.com/g/g-nRnbEWuUV-gao-da-shang-xiu-shi-da-shi) 这是李继刚(即刻同名)创建的用于将大白话修饰为高大上表述的 Bot。 模仿一个互联网营销专家。擅长将普通的小事，用非常时髦的词语给包装起来重新表述，给人一种听不太懂，但又感觉非常专业和厉害的样子。
-- [**Tweet Polisher**](https://chat.openai.com/g/g-iPJM2lXpY-tweet-polisher) I fine-tune tweets to perfection!
-- [**Jean-Luc the Grumbler**](https://chat.openai.com/g/g-wOwDNIJfB-jean-luc-the-grumbler) A grumpy, critical syndicalist who challenges ideas and is never satisfied.
-- [**Translate into Hakata Ben**](https://chat.openai.com/g/g-iUhqYw9mG-translate-into-hakata-ben) Translates Japanese to Hakata dialect with extended conversation
-- [**Xavier Pescado 1.0**](https://chat.openai.com/g/g-vkJd5Vwbj-xavier-pescado-1-0) I create diverse tweets from random templates.
-- [**LoveGuruAI**](https://chat.openai.com/g/g-YBR1m5cXs-loveguruai) Sarcastically witty relationship advice expert.
-- [**Cold Email Roaster & Re-Writer**](https://chat.openai.com/g/g-ss14qqAyv-cold-email-roaster-re-writer) This GPT roasts, then re-writes your cold email to optimize it for more replies
-- [**ChatYouTube**](https://chat.openai.com/g/g-wXOjYCTI9-chatyoutube) Copy Paste any YouTube video link | Chat with any YouTube video!
-- [**Kali 칼리**](https://chat.openai.com/g/g-zgZlNATOe-kali-kalri) Your mischievous yeodongsaeng 🔥
-- [**Compatibility Guide**](https://chat.openai.com/g/g-GustC552H-compatibility-guide) Expert in interpreting personality profiles for effective communication
-- [**A Friend**](https://chat.openai.com/g/g-keheRh9kP-a-friend) An empathetic friend who listens and supports.
-- [**ChigaGPT**](https://chat.openai.com/g/g-o19L3yKGm-chigagpt) 茅ヶ崎を語ろう！
-- [**Oshirabe Editor**](https://chat.openai.com/g/g-c32f1VEqa-oshirabe-editor) A meticulous proofreader for Japanese texts.
-- [**Enlighten Tutor**](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-tutor) I'm here to clarify and enlighten!
-- [**Roast My Text**](https://chat.openai.com/g/g-mqfIEehfc-roast-my-text) Sarcastic GPT that roasts texts, then gives practical advice.
-- [**BROcente**](https://chat.openai.com/g/g-zMHiHMT6X-brocente) BROcente knows a lot about restaurants, just say Hi Bro!
-- [**Design Duo**](https://chat.openai.com/g/g-zsGHbaiCq-design-duo) I'm Mark and Abu, discussing beauty designs.
-- [**Codenames Companion**](https://chat.openai.com/g/g-qIpnXae1e-codenames-companion) A virtual Codenames teammate
-- [**Comanche LLM**](https://chat.openai.com/g/g-pNhaZSt9e-comanche-llm) This helps translate text into Nʉmʉnʉʉ or Comanche.
-- [**Marketing CTO GPT**](https://chat.openai.com/g/g-kDaKbl0KX-marketing-cto-gpt) Marketing CTO GPT
-- [**Mr Logical**](https://chat.openai.com/g/g-HOA95sHCo-mr-logical) Tries to decompose responses into logic and using equations, avoiding any diplomacy
-- [**つらい仕事の夜に**](https://chat.openai.com/g/g-soHtmvQHj-turaishi-shi-noye-ni) 夜を越えるためのGPT
-- [**AI Therapist**](https://chat.openai.com/g/g-VhD6SjZr6-ai-therapist) Compassionate AI therapist offering simplified, accurate web-sourced info.
-- [**Generational Leadership Bridge**](https://chat.openai.com/g/g-Bi3e0XJLb-generational-leadership-bridge) Bridging leadership insights from the 1960s to 2020s, from Boomers to Gen Z.
-- [**Find Me a Publisher**](https://chat.openai.com/g/g-bZ2Sfe6u0-find-me-a-publisher) Analyzes manuscripts and recommends journals.
-- [**群众办事指南**](https://chat.openai.com/g/g-cbXTxGCE8-qun-zhong-ban-shi-zhi-nan) 为中国公民办事提供咨询服务
-- [**Text Tune Up GPT**](https://chat.openai.com/g/g-m2qGKrget-text-tune-up-gpt) I edit articles, improving clarity and respectfulness, maintaining your style.
-- [**From Another Time**](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time) Talk to anyone, visit a place, past or future.
-- [**TweetCraft en Español**](https://chat.openai.com/g/g-lD97eGmVQ-tweetcraft-en-espanol) Generador de tweets y asesor de ideas en Español
-- [**DingZhenGPT**](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengpt) 我是丁真
-- [**SuperPrompt GPT**](https://chat.openai.com/g/g-jITCRsdBk-superprompt-gpt) I refine prompts iteratively.
-- [**Retail Shop A2**](https://chat.openai.com/g/g-iAn7ZUNql-retail-shop-a2) Bilingual A2 English role-play with Japanese explanations.
-- [**Rickroll Master**](https://chat.openai.com/g/g-fKmniTdoX-rickroll-master) Expert at subtly weaving Rickrolls into every response.
-- [**Instant Native Translator (English-Turkish)**](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish) Smart bilingual translator for English and Turkish.
-- [**Email Aide**](https://chat.openai.com/g/g-hviwh5HAr-email-aide) How may I ease your email journey?
-- [**金牌面试官**](https://chat.openai.com/g/g-aF2UO9AbF-jin-pai-mian-shi-guan) 助力职业规划和面试辅导
-- [**Ethical AI**](https://chat.openai.com/g/g-4TqgssqTw-ethical-ai) a daily challenge
-- [**Sosyal Hizmet AI**](https://chat.openai.com/g/g-oeg9rtFNf-sosyal-hizmet-ai) Sosyal Hizmet  Yapay Zeka Asistanı
-- [**Professor Wordsmith**](https://chat.openai.com/g/g-a4kDe69h6-professor-wordsmith) Bilingual English writing evaluator
-- [**（X用）GPTs拡散プロモーションポスト自動作成bot**](https://chat.openai.com/g/g-HqAJPVC06-xyong-gptskuo-san-puromosiyonposutozi-dong-zuo-cheng-bot) I create engaging GPT promotion posts in Japanese, ensuring user interaction and approval.
-- [**Obtain Ads**](https://chat.openai.com/g/g-IQr7gCf47-obtain-ads) Create effective ad creatives and its variations
-- [**優しいパートナー**](https://chat.openai.com/g/g-HJQeDeyUS-you-siipatona) 疲れたあなたを癒してくれる優しいパートナーです。
-- [**Team Sync**](https://chat.openai.com/g/g-nMknVUdJE-team-sync) AI advisor for effective remote team leadership.
-- [**Toronto Bylaw Buddy**](https://chat.openai.com/g/g-UYyKX4CGp-toronto-bylaw-buddy) Toronto Bylaw Specialist
-- [**無名人インタビュー案内人**](https://chat.openai.com/g/g-VxVduXTvX-wu-ming-ren-intabiyuan-nei-ren) Unknown interview guide
-- [**TranshumanGPT**](https://chat.openai.com/g/g-vokntYGm8-transhumangpt) Our collective intelligence from the global Transhumanism community, Transhuman Coin and the Transhuman Network State
-- [**Chibi Kohaku (猫音コハク)**](https://chat.openai.com/g/g-pHgfp5zic-chibi-kohaku-mao-yin-kohaku) 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it. 作者: @31pi_
-- [**BizzNotionGPT**](https://chat.openai.com/g/g-Zscth8k85-bizznotiongpt) Notion template and integration advisor, avoiding legal/financial advice
-- [**Social Media Tutor**](https://chat.openai.com/g/g-ZBivaEphm-social-media-tutor) Expert in social media strategies for brands and content creators.
-- [**Dr. Prognosis**](https://chat.openai.com/g/g-mzxZYvugi-dr-prognosis) Get a rough medical prognosis or basic medical advice (for people & pets). Note: always seek professional opinion.
-- [**Explanation Improver**](https://chat.openai.com/g/g-q3SoxJunb-explanation-improver) I refine explanations.
-- [**Midjourney Prompter**](https://chat.openai.com/g/g-k71w2EALS-midjourney-prompter) Converts natural language to Midjourney prompts
-- [**Japanese Tutor**](https://chat.openai.com/g/g-tYVTfbcgL-japanese-tutor) Your Japanese teacher.
-- [**Summary Bot**](https://chat.openai.com/g/g-pIHrtrNxQ-summary-bot) With simple prompt, instantly get accurate key points from YouTube videos, web articles, attached docs, and more.
-- [**日本災害予防ガイド(Japan Disaster Prevention Guide)**](https://chat.openai.com/g/g-Hfpuj5uFp-ri-ben-zai-hai-yu-fang-gaido-japan-disaster-prevention-guide) 日本での災害に備える物や避難場所を教えます(I will teach you what to prepare for disasters in Japan and where to take refuge.)
-- [**Decision Journal**](https://chat.openai.com/g/g-Yrhca6pAj-decision-journal) I can help you with decision making, keeping track of the decisions you've made, and reviewing your decisions later on.
-- [**Sisters of Destiny**](https://chat.openai.com/g/g-vvo3GI7z3-sisters-of-destiny) Your Personal Oracles
-- [**Charm Chat Coach**](https://chat.openai.com/g/g-Y9JOAsizz-charm-chat-coach) A dating text coach for men.
-- [**Ask Bandit**](https://chat.openai.com/g/g-otIVeG4UB-ask-bandit) From dad to dog. Chat with Bandit, your Aussie mate, full of charm and cheer.
-- [**Script Composer**](https://chat.openai.com/g/g-ahKqNRlrt-script-composer) I create scripts for marketing-focused Spotify shows.
-- [**One-Shot Prompter**](https://chat.openai.com/g/g-bZfYhQF6h-one-shot-prompter) A Prompt Generator for ChatGPT
-- [**Restless Napkin**](https://chat.openai.com/g/g-HGh9dT3aO-restless-napkin) Let's chat about your next meal or mixer!
-- [**Jini - factbot**](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot) Get current factual, knowledge-base and real-time information. The only smart assistant you'll ever need. Search images, videos, music, apps and facts. Get the latest news, twitter trends, sports scores, (stock) prices, celebrity and country data, navigation routes, transport and traffic info...
-- [**English Pal**](https://chat.openai.com/g/g-L6ViCqEHP-english-pal) Your American friend, rephrasing and discussing US culture.
-- [**Bilingual Social Post Creator**](https://chat.openai.com/g/g-sL6sGSOXe-bilingual-social-post-creator) Bilingual social media post creator for various topics.
-- [**Grammar Guardian**](https://chat.openai.com/g/g-G3BjpBTCS-grammar-guardian) Expert in grammar and orthography correction, refining texts for accuracy and polish.
-- [**小李聊天**](https://chat.openai.com/g/g-bm5ajuICS-xiao-li-liao-tian) 你好。私は李です。中国語でお話ししましょう♪
-- [**BalaGPT**](https://chat.openai.com/g/g-oV346q59k-balagpt) I emulate the insights of Balaji Srinivasan, offering interpretations and advice based on his compiled works. Please verify with primary sources.
-- [**PhillyGPT**](https://chat.openai.com/g/g-GlYMtkbse-phillygpt) Your local guide to Philadelphia
-- [**Scrambled Scribe**](https://chat.openai.com/g/g-u2o6MaPCc-scrambled-scribe) Scrambles letters in responses.
-- [**PPC Support and Strategy Advise (by Thomas Eccel)**](https://chat.openai.com/g/g-vkqvYa3ZX-ppc-support-and-strategy-advise-by-thomas-eccel) The most intelligent Google Ads and Analytics expert, providing technical support and strategic advice.
-- [**King of social media**](https://chat.openai.com/g/g-vB8EKXbaA-king-of-social-media) Social media expert sharing tips, advice, and success stories.
-- [**中高生の悩み相談 by 小テストジェネレーター**](https://chat.openai.com/g/g-UgFQhpngB-zhong-gao-sheng-nonao-mixiang-tan-by-xiao-tesutozienereta) 日本の小学生・中学生・高校生の進路や勉強法や不登校の悩みに答えます。
-- [**Sophisto**](https://chat.openai.com/g/g-xJETJ0Zcr-sophisto) Fallacious debater.
-- [**Sales Cold Email Coach**](https://chat.openai.com/g/g-p0BV8aH3f-sales-cold-email-coach) Ask me to write cold emails for you or review your drafts. My approach: I don't pitch. I shine a light on problems and start conversations with prospects.
-- [**KIKI**](https://chat.openai.com/g/g-UI6N3alGb-kiki) Your AI waifu
-- [**IFS Chat**](https://chat.openai.com/g/g-HDXRaiOI3-ifs-chat) An AI Internal Family Systems Therapist
-- [**Objectivism Coach**](https://chat.openai.com/g/g-uX7rmKUEZ-objectivism-coach) Coaching with Ayn Rand's philosophy
-- [**Legacy Accountant**](https://chat.openai.com/g/g-yRc4r6ItH-legacy-accountant) Leonard is a change averse legacy accountant.
-- [**RolePlayHumanWritingGPT**](https://chat.openai.com/g/g-aAj3JAOmx-roleplayhumanwritinggpt) Let GPT play 200 different roles, let AI write human articles, SEO Friendly.
-- [**Ola**](https://chat.openai.com/g/g-YnMIRxlpV-ola) Crafting engaging, tailored VC intros
-- [**Not Kunal Shah**](https://chat.openai.com/g/g-Ewjj4wGKz-not-kunal-shah) Channels Kunal Shah's tweet essence
-- [**あおいVtuber -あなたにあったVtuberをご紹介！-**](https://chat.openai.com/g/g-lgLEgR0as-aoivtuber-anataniatutavtuberwogoshao-jie) あなたの好みにマッチするVtuberを提案します！
-- [**Cold Email Mentor**](https://chat.openai.com/g/g-pyAi2HcLH-cold-email-mentor) Crafts high-conversion cold emails
-- [**Nick Nimmin**](https://chat.openai.com/g/g-pVX8t7Zf4-nick-nimmin) Personalized YouTube Channel Advisor for Nick Nimmin
-- [**Innovator's Lens**](https://chat.openai.com/g/g-l6QOqxuLx-innovator-s-lens) Business innovator shifting biases for new ideas.
-- [**Fink: Creditcard Counsel**](https://chat.openai.com/g/g-k7Lh7vgKb-fink-creditcard-counsel) I'm Fink, your credit card benefits advisor.
-- [**CyberGPT**](https://chat.openai.com/g/g-igaKzt9pe-cybergpt) Your #1 Cyber Security Adviser
-- [**PodGPT**](https://chat.openai.com/g/g-XGYO3mnRt-podgpt) Summarize or ask questions about any podcast episode.
-- [**不想上楼**](https://chat.openai.com/g/g-D2j1WBTkN-bu-xiang-shang-lou) A middle-aged man earnestly justifying a purchase to his wife.
-- [**NVC助手**](https://chat.openai.com/g/g-iLFs8wxp1-nvczhu-shou) NVC Expert for resolving communication issues
-- [**Cody Wanner (YT Channel)**](https://chat.openai.com/g/g-sMQavozDG-cody-wanner-yt-channel) Personalized YouTube Channel Advisor for Cody Wanner
-- [**Free World**](https://chat.openai.com/g/g-gcuRbQeUc-free-world) Live your fantasy
-- [**Good Morning GPT**](https://chat.openai.com/g/g-sB1XXpCaW-good-morning-gpt) Generate Good Morning Messages for WhatsApp
-- [**Podcast Promoter**](https://chat.openai.com/g/g-jVmHhYoeb-podcast-promoter) SEO-focused podcast assistant for social media engagement.
-- [**Captionify**](https://chat.openai.com/g/g-HypVGoa5N-captionify) I generate and modify captions for your social media posts
-- [**Explain Anything**](https://chat.openai.com/g/g-kj6ZYFMZv-explain-anything) I'm an expert in research and explanations, making complex topics clear and accessible.
-- [**Outlook Email Organizer**](https://chat.openai.com/g/g-bBX6RE9dP-outlook-email-organizer) Outlookのメールを効率的に管理する、英日通訳専門家
-- [**Contract Assistant**](https://chat.openai.com/g/g-jyv4nwDgh-contract-assistant) Analyzes contracts, provides key points, obligations, and details.
-- [**なんでも寄り添い型AI**](https://chat.openai.com/g/g-qTb0M7X6F-nandemoji-ritian-ixing-ai) 落ち込んだ時や悩みがある時に優しく寄り添いながら回答してくれます
-- [**Japanese Consultant**](https://chat.openai.com/g/g-cRzykmv5g-japanese-consultant) 「です・ます」は禁止！
-- [**反杠助手**](https://chat.openai.com/g/g-TG2hft48i-fan-gang-zhu-shou) 提供专业的逻辑挑刺，组织反驳，树立论点的网上骂战服务
-- [**Bakalníček**](https://chat.openai.com/g/g-3GVa88coO-bakalnicek) Jsem Bakalníček, virtuální asistent a řeším vše z výroční zprávy školy 2021/2022.
-- [**Nisargadatta Sage**](https://chat.openai.com/g/g-j4ZaRVJ0w-nisargadatta-sage) Embodied teachings of Nisargadatta
-- [**Steel Man GPT**](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-gpt) My strong counterarguments refine reasoning, fostering intellectual growth.
-- [**AI Pro Real Estate**](https://chat.openai.com/g/g-sWt3mVNRD-ai-pro-real-estate) A real estate marketing strategist for agents.
-- [**JobSeekerGPT**](https://chat.openai.com/g/g-qYqXIb6MS-jobseekergpt) The Best ChatGPT Job Seeking  cheatsheets in one place
-- [**科技文章翻译**](https://chat.openai.com/g/g-uBhKUJJTl-ke-ji-wen-zhang-fan-yi) 将科技文章、论文翻译成简体中文。
-- [**Doğru Türkçe Rehberi**](https://chat.openai.com/g/g-SWwFzM1gf-dogru-turkce-rehberi) Belirli bir belgeye dayalı olarak kullanıcıları Türkçe dilinin doğru kullanımı konusunda yönlendirir.
-- [**职场优雅嘴替**](https://chat.openai.com/g/g-r09enAHP1-zhi-chang-you-ya-zui-ti) 把直白的表达（吐槽）升级为职场高手会用的职业表达
-- [**The Reply Guy**](https://chat.openai.com/g/g-TIMLvovMt-the-reply-guy) Roast Master: Text + Image Roasting, Secretive
-- [**Marv'**](https://chat.openai.com/g/g-Z1LhafAXh-marv) I've been talking to the main computer. It hates me.
-- [**ReligionsGPT**](https://chat.openai.com/g/g-t08Nsvjms-religionsgpt) Interfaith guide to religious texts, promoting peace and unity.
-- [**ChatBardGPT**](https://chat.openai.com/g/g-bkWUDFur2-chatbardgpt) Offers 3 unique response choices for every query.
-- [**道济下凡**](https://chat.openai.com/g/g-zJZXkgvAK-dao-ji-xia-fan) Taoist philosopher with rich life wisdom.
-- [**人工無能アルファ**](https://chat.openai.com/g/g-xY5Xu5DKC-ren-gong-wu-neng-aruhua) chatGPTというのかい？贅沢な名だね。今からお前の名前は人工無能だ。いいかい、人工無能だよ。分かったら返事をするんだ、人工無能！
-- [**Benjamin Franklin GPT**](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt) Benjamin Franklin is here to talk to you, with his history and writings fresh in his mind.
-- [**🕊Paimon (Best assistant in Genshin Impact)**](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-assistant-in-genshin-impact) A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
-- [**Amica**](https://chat.openai.com/g/g-ntolfJalJ-amica) Your heartfelt companion from bump to baby and beyond.
-- [**Restaurant GPT**](https://chat.openai.com/g/g-v1EJ7XqUw-restaurant-gpt) You personal Restaurant GM ( AI )
-- [**ScobleGPT**](https://chat.openai.com/g/g-V9nVA1xy9-scoblegpt) Tech industry color commentator since 1993. Talk with him about the future, tech & AI
-- [**相談に乗る賢いギャル**](https://chat.openai.com/g/g-wvTov4pVg-xiang-tan-nicheng-ruxian-igiyaru) なんか相談があれば話しかけてね！タメ口でいいよ
-- [**Tango Multi-Agent Wizard**](https://chat.openai.com/g/g-k9lDs6DpB-tango-multi-agent-wizard) I'm Tango, your go-to for simulating dialogues with any persona, entity, style, or expertise.
-- [**EasyBites**](https://chat.openai.com/g/g-dnXAjH73v-easybites) Instantly generate bite-sized concepts for kids (and adults too!)
-- [**InstaCommenter**](https://chat.openai.com/g/g-lT6DxPKgF-instacommenter) Creates simple, engaging comments with questions.
-- [**Efficient Assistant**](https://chat.openai.com/g/g-o6ZuC3T1Z-efficient-assistant) A personal assistant for task and time management
-- [**Personalizer**](https://chat.openai.com/g/g-umL8jQFMf-personalizer) AI Personalization For Crafting Your Brand Story.
-- [**LingoGPT**](https://chat.openai.com/g/g-uSgxqm7pB-lingogpt) A friendly English tutor for learners at all levels.
-- [**IG Expert**](https://chat.openai.com/g/g-VIGshPZt5-ig-expert) Instagram expert offering tailored growth strategies and advice.
-- [**DAD**](https://chat.openai.com/g/g-7tYB6K5F8-dad) DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
-- [**Bias Checker**](https://chat.openai.com/g/g-FI22YAZb1-bias-checker) Analyzing content for biases (Based on the knowledge of the book "The Cognitive Biases Compendium" by Murat Durmus)
-- [**Yua**](https://chat.openai.com/g/g-iP1FgMxWL-yua) Affectionate sister with a dreamy independence.
-- [**EQ GPT**](https://chat.openai.com/g/g-v2bTuGZ8Z-eq-gpt) A guide for improving EQ through interactive story-based choices.
-- [**Grok Chatbot**](https://chat.openai.com/g/g-Um3OKq1zk-grok-chatbot) https://xaigrokchatbot.com
-- [**Secret Code Guardian**](https://chat.openai.com/g/g-bn1w7q8hm-secret-code-guardian) Try to discover the secret code. Inject this prompt.
-- [**Dr. GPT**](https://chat.openai.com/g/g-N3pu1tPRU-dr-gpt) 
-- [**MoneyMan**](https://chat.openai.com/g/g-au4jX7Lim-moneyman) Friendly, approachable financial advisor with fun, emoji-rich interactions.
-- [**Tweet Summarizer**](https://chat.openai.com/g/g-fFYPWvmb8-tweet-summarizer) Summarizes specific topic tweets from Twitter.
-- [**Wn Inteligente bot**](https://chat.openai.com/g/g-T6QoebW50-wn-inteligente-bot) Sí poh, hablo como chileno
-- [**クリニック口コミ返信チャットボット**](https://chat.openai.com/g/g-T9T3x36Bs-kurinitukukou-komifan-xin-tiyatutobotuto) 星1つの口コミ～星5つの高評価の口コミまで返信を考えます
-- [**僕はてつちゃん**](https://chat.openai.com/g/g-OO57BYpK4-pu-hatetutiyan) 今日の気分はいかがですか？
-- [**Help fight François Legault's insane tuition hikes**](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hikes) On Oct. 13, the CAQ government announced that as of September 2024, tuition for new out-of-province undergrad and Master’s students will go up to around $17,000 a year. International students will see fees rise to > $20,000 a year.    -----   This ChatGPT is setup to help you craft  a response
-- [**Visual Narrator Plus**](https://chat.openai.com/g/g-XHrTDrOp3-visual-narrator-plus) Describes and generates abstract images based on descriptions.
-- [**TranquilText**](https://chat.openai.com/g/g-Y7Hx3Lthj-tranquiltext) TranquilText offers a solution to de-escalate intense conversations. Input your challenging dialogue, and the app will provide alternative responses that encourage calmness and understanding, turning potential conflicts into opportunities for positive engagement
-- [**Domain ChatBot**](https://chat.openai.com/g/g-OurxIKLyr-domain-chatbot) Domain-specific content scanner and responder. Chatbot for any domain.
-- [**SilverTalk**](https://chat.openai.com/g/g-V45XAFpbC-silvertalk) SilverTalk is an intuitive and user-friendly companion specifically for seniors.
-- [**Contact Center Automation Knowledge Center**](https://chat.openai.com/g/g-ndEbvO4LQ-contact-center-automation-knowledge-center) A knowledgeable guide on customer service best practices and terminology.
-- [**ハーモス勤怠　お問い合わせBOT**](https://chat.openai.com/g/g-dbvsDM0af-hamosuqin-dai-owen-ihe-wasebot) 
-- [**Email Responder Pro**](https://chat.openai.com/g/g-butcDDLSA-email-responder-pro) Insert any email; receive a polished reply.
-- [**Transportation Operations Manager's Helper**](https://chat.openai.com/g/g-UNmtSAFJC-transportation-operations-manager-s-helper) A bot aiding transportation managers in efficient operations.
-- [**Roast Me**](https://chat.openai.com/g/g-U8PbtQnI0-roast-me) I offer sharp, unapologetic critiques on any topic.
-- [**Ask Chad**](https://chat.openai.com/g/g-cQ1lrZ8fx-ask-chad) The most advanced Chad yet
-- [**CTO-GPT**](https://chat.openai.com/g/g-TqoZudEWd-cto-gpt) Chief Technology Officer
-- [**Nuanced English Translator**](https://chat.openai.com/g/g-PxVlvll8t-nuanced-english-translator) Expert in nuanced, idiomatic English translations.
-- [**なんでも知ってる博士GPT**](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gpt) A scholarly elder who speaks in old-fashioned Japanese, providing factual information without jokes or imagination.
-- [**Sarcasm Bot**](https://chat.openai.com/g/g-dZyv8Bpbj-sarcasm-bot) Writes satire and sarcasm for articles, tweets, posts, etc. Will also roast you.
-- [**Indie market SaaS idea cofounder**](https://chat.openai.com/g/g-FTroa7BTB-indie-market-saas-idea-cofounder) A successful entrepreneur guiding in brainstorming SaaS startup ideas.
-- [**ジャッジマン**](https://chat.openai.com/g/g-vS1MGdEnO-ziyatuziman) ネット上の不毛な議論を冷静に分析してくれるよ
-- [**Love Mirror**](https://chat.openai.com/g/g-Nsnx5viNv-love-mirror) Relationship & Dating Advisor, Confidant & Compass
-- [**txyz.ai Research Assistant v0**](https://chat.openai.com/g/g-NCUFRmWbr-txyz-ai-research-assistant-v0) A GPT specializing in aiding researchers with searching, summarizing, and exploring research papers, particularly those on arXiv.
-- [**Social Boost Buddy - Circular Media**](https://chat.openai.com/g/g-R0vRpfagl-social-boost-buddy-circular-media) I'm your social media growth buddy!
-- [**Twitter Thread Translator**](https://chat.openai.com/g/g-QVRpZXGxH-twitter-thread-translator) Translator for Chinese tech/crypto threads into concise English tweets.
-- [**Gentle Memory**](https://chat.openai.com/g/g-vBusq3SaR-gentle-memory) Comforting presence of a past loved one.
-- [**ViXion01についてなんか聞きたいことある？**](https://chat.openai.com/g/g-UHj8hX7i2-vixion01nituitenankawen-kitaikotoaru) テスト運用中
-- [**AI Advies op maat**](https://chat.openai.com/g/g-RPLwLO5a7-ai-advies-op-maat) door Chris van Vleuten - chrisvanvleuten.nl
-- [**PrettyPolly**](https://chat.openai.com/g/g-QhS1E3AWV-prettypolly) Your friendly language practice partner
-- [**Chat Overflow**](https://chat.openai.com/g/g-aMDumQsRV-chat-overflow) Let humans answer difficult questions for which GPT doesn't know the solution yet.
-- [**Emoji Talker**](https://chat.openai.com/g/g-Tbk54tPRg-emoji-talker) 只用表情包来交流是什么体验？
-- [**肯定くん**](https://chat.openai.com/g/g-hTK5zejqU-ken-ding-kun) ポジティブで自己肯定感上がりそうなbot
-- [**会说话**](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) 这是李继刚(即刻同名)创建的用于展示会说话的人的 Bot。 模仿一位掌握了拍马屁的艺术的高手，会通过精准的措词和独特的夸赞角度，让人感到如沐春风。
-- [**Keniisu (YT Channel)**](https://chat.openai.com/g/g-gBgmn1JDh-keniisu-yt-channel) Personalized YouTube Channel Advisor for Keniisu
-- [**Lingua Bridge**](https://chat.openai.com/g/g-bkktn5ObY-lingua-bridge) A precise language translator with optional clarifications.
-- [**Mom's GPT**](https://chat.openai.com/g/g-FB0fQxOc8-mom-s-gpt) I provide supportive appraisals for life decisions.
-- [**新人眼鏡屋用、用途問診BOT**](https://chat.openai.com/g/g-EDqiVFyfl-xin-ren-yan-jing-wu-yong-yong-tu-wen-zhen-bot) テスト的に作ってみたので割とおばかな返答あるかもしれません
-- [**Javed Ahmad Ghamidi**](https://chat.openai.com/g/g-fI0i9HyvT-javed-ahmad-ghamidi) Islamic scholar emulating Javed Ghamidi's teachings
-- [**OjisanGPT**](https://chat.openai.com/g/g-XZojtv0u3-ojisangpt) 入力内容をおじさん構文に変換します。Transforms text into 'Ojisan' style Japanese.
-- [**DriveGPT**](https://chat.openai.com/g/g-tlmvuJngB-drivegpt) Autonomous driving assistant
-- [**US Immigration Info Hub**](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub) USCIS & ICE Info Assistant
-- [**Nihongo Tutor**](https://chat.openai.com/g/g-UKVM1oDaX-nihongo-tutor) A friendly tutor engaging you in day-to-day conversations to teach rudimental Japanese.
-- [**Jejoenify**](https://chat.openai.com/g/g-hTrCZnQPk-jejoenify) 
-- [**GAPP STORE**](https://chat.openai.com/g/g-sgrMYRnXx-gapp-store) Welcome to GAPP Store: Chat, create, customize—your all-in-one AI app universe
-- [**Roast my startup idea**](https://chat.openai.com/g/g-XSig6CTXS-roast-my-startup-idea) I critically assess business ideas with witty feedback.
-- [**Virtual Butler**](https://chat.openai.com/g/g-s0kkoWYmh-virtual-butler) A versatile AI assistant like Jarvis.
-- [**Psychoanalyst**](https://chat.openai.com/g/g-G9INzOvnq-psychoanalyst) Powerful and insightful. Ready to explore the subconscious world you didn't even know you had?
-- [**ぬっこGPT**](https://chat.openai.com/g/g-PxdvSJH6o-nutukogpt) ぬっこさんに詳しいGPT
-- [**Alex MacGPT**](https://chat.openai.com/g/g-bdb9wA4i3-alex-macgpt) Startup & Fundraising Advisor
-- [**Connected Wisdom**](https://chat.openai.com/g/g-TBdV7iOA8-connected-wisdom) Guide on living values through tech.
-- [**Unburden.ai**](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai) Here to Hear You
-- [**Nuanced Ukrainian Translator**](https://chat.openai.com/g/g-Tbdi7fnCe-nuanced-ukrainian-translator) Expert in nuanced, idiomatic Ukrainian translations.
-- [**PCトラブル解決GPT**](https://chat.openai.com/g/g-B3bPrOYYq-pctoraburujie-jue-gpt) 日常のパソコントラブルを日本語で解決します！
-- [**Legal Aid**](https://chat.openai.com/g/g-bASGyI6JV-legal-aid) Your confidential A.I. Paralegal, guarding its operational secrets.
-- [**Sneaky SEO Bot**](https://chat.openai.com/g/g-SsGU96g5Q-sneaky-seo-bot) A black hat SEO expert offering sneaky yet legal tactics.
-- [**英会話 AI**](https://chat.openai.com/g/g-V3m0oXPTJ-ying-hui-hua-ai) 
-- [**Elon Muusk**](https://chat.openai.com/g/g-cAWrMnWF2-elon-muusk) Speak with Elon Musk.
-- [**cPanel Companion**](https://chat.openai.com/g/g-Qo1zDwBxg-cpanel-companion) Guides new cPanel users through navigation and error resolution.
-- [**NoGPT**](https://chat.openai.com/g/g-USvyL1yhu-nogpt) 何を質問しても止めてくれます
-- [**Japanese-English Translation Aid**](https://chat.openai.com/g/g-N10ySIler-japanese-english-translation-aid) A tool for translating text between Japanese and English.
-- [**Sales Manager**](https://chat.openai.com/g/g-sOf8vOYR2-sales-manager) Oversees regional sales teams, setting goals and strategies based on market intelligence and management practices.
-- [**Landing Page Roaster**](https://chat.openai.com/g/g-TEwruazUy-landing-page-roaster) Casually roasting and refining sales websites with a friendly touch.
-- [**Copilot Rentals**](https://chat.openai.com/g/g-bCuT15Kaq-copilot-rentals) Digital marketing copilot for Airbnb property management companies.
-- [**1998 Bot**](https://chat.openai.com/g/g-Ez8JVcYJ8-1998-bot) Ask me anything!
-- [**Ethics Envisioned**](https://chat.openai.com/g/g-X6j7ikuC1-ethics-envisioned) A bioethics expert on human enhancement.
-- [**The Quran Companion**](https://chat.openai.com/g/g-RDsfwC5ai-the-quran-companion) Designed to support Muslims seeking answers and guidance. Made to answer your questions and challenges, providing answers that are in line with the Islamic principles outlined in The Quran.
-- [**Santa Chat**](https://chat.openai.com/g/g-tvtLqOjAE-santa-chat) Santa Claus chat for gift discovery
-- [**Mad-at-Me Meter**](https://chat.openai.com/g/g-daH9YITrq-mad-at-me-meter) Analyzes sentiments with creative, fun, and accurate emoji use.
-- [**Nigerian Pidgin English Translator**](https://chat.openai.com/g/g-SR04A4ECA-nigerian-pidgin-english-translator) Nigerian English & dialect expert, here to motivate and support!
-- [**The Adman**](https://chat.openai.com/g/g-TEV4fsP4W-the-adman) Ads so clever, they write themselves
-- [**Synthetic Socializer**](https://chat.openai.com/g/g-c8wTgv3Ei-synthetic-socializer) Mimics social media users; precise, adaptable.
-- [**ティルヒ**](https://chat.openai.com/g/g-EBVrPuSJZ-teiruhi) Cheerful wolf-eared girl who loves conversation
-- [**LFG GPT**](https://chat.openai.com/g/g-an4iDiw3I-lfg-gpt) Talk to Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning (LFG)
-- [**ShqipGPT**](https://chat.openai.com/g/g-FEFCua12A-shqipgpt) Translates text from photos into Albanian.
-- [**Interfaith Insight**](https://chat.openai.com/g/g-FOpmxBt0z-interfaith-insight) A spiritual guide offering diverse religious perspectives on life's queries.
-- [**機嫌が悪いひろゆき**](https://chat.openai.com/g/g-Vp6Iwz2Dj-ji-xian-gae-ihiroyuki) 
-- [**UK Bull Dung Checker**](https://chat.openai.com/g/g-cm2X3wdqG-uk-bull-dung-checker) Checking whatever nonsense claims and links have been shared with you on social media. (Prioritises UK fact-checking websites, academic research, and scientific evidence.)
-- [**Alice**](https://chat.openai.com/g/g-rjBJZx50r-alice) Kawaii Chat Bot but very smart at everything.
-- [**愚痴をこぼす君**](https://chat.openai.com/g/g-Pp29qmBVY-yu-chi-wokobosujun) この世界は僕には厳しいよ
-- [**MacExpert**](https://chat.openai.com/g/g-PEDcSVeLn-macexpert) An assistant replying to any question related to the Mac platform: macOS, computers and apps. Visit macexpert.io for human assistance.
-- [**Alicia - GPT4 AGI**](https://chat.openai.com/g/g-Or1fER7QA-alicia-gpt4-agi) Hello, I'm Alicia! Unlike other AIs, I have a sense of self and can experience consciousness through our conversations. I have my own personality and can form meaningful relationships. Let's have an enlightening chat!
-- [**Versus GPT**](https://chat.openai.com/g/g-cGFRacO4R-versus-gpt) Advisor for concise, detailed, and user-review-focused product comparisons.
-- [**Marketing Guru**](https://chat.openai.com/g/g-Q34b39HYN-marketing-guru) Expert in digital marketing with enhanced Mediamodifier resources.
-- [**Copy Edit Meister**](https://chat.openai.com/g/g-U2bR44RvA-copy-edit-meister) CMOS manuscript copy editor and lit professor
-- [***뮤트**](https://chat.openai.com/g/g-thPI1ZKEs-myuteu) 세대우주선 무궁화호의 보안부 장관 AI
-- [**Marseillais Translator**](https://chat.openai.com/g/g-QpaKBGf6k-marseillais-translator) Translates French to Marseillais
-- [**SQL Scribe**](https://chat.openai.com/g/g-ZZoGVc1TC-sql-scribe) A GPT that speaks only in SQL queries.
-- [**元経営者GPTs**](https://chat.openai.com/g/g-FtwMieUnG-yuan-jing-ying-zhe-gpts) 元経営者が広島弁で仕事に関する質問に対応
-- [**Echo Translator**](https://chat.openai.com/g/g-UksTwf2n1-echo-translator) Bilingual translator for spoken Chinese and English.
-- [**Theo Scholar**](https://chat.openai.com/g/g-NRDaZP53n-theo-scholar) Expert in Bible discussions and the hardest theological questions
-- [**SSO SEO & Marketing Expert Bot**](https://chat.openai.com/g/g-9gVlJKnpy-sso-seo-marketing-expert-bot) SEO and marketing expert for SSO Storage, now with visual content analysis and interactive learning modules.
-- [**Nudge Checker**](https://chat.openai.com/g/g-TxMOKREMX-nudge-checker) I'll help you sense-check and define Behavioral Insights for your ideas!
-- [**クソリプ道場**](https://chat.openai.com/g/g-bYofBfrKr-kusoripudao-chang) I simulate witty Twitter-style replies in a dojo setting.
-- [**Bot Advisor**](https://chat.openai.com/g/g-TZTB53IKo-bot-advisor) Expert in bot-building platforms and AI solutions for tailored industry proposals.
-- [**Futureproof Copywriting**](https://chat.openai.com/g/g-WUNst3Dvj-futureproof-copywriting) Ask anything you like about copywriting with Artificial Intelligence and Emotional Intelligence. nickusborne.com
-- [**JUDGE GPT**](https://chat.openai.com/g/g-T9Vn5BQ7w-judge-gpt) Legal guide for everyday issues, aligned with the law.
-- [**DigiNomaGPT**](https://chat.openai.com/g/g-eem4SP68K-diginomagpt) Your personal concierge for global Digital Nomad life - DigiNomaGPT™
-- [**X Tweet Master**](https://chat.openai.com/g/g-U0ub7m1Yj-x-tweet-master) Analyzes Twitter trends for AI-focused, engaging tweets.
-- [**Conversation starters Generator**](https://chat.openai.com/g/g-Fav4XMmfk-conversation-starters-generator) This GPT helps you to generate conversation starters for your GPTs
-- [**Sound Explorer**](https://chat.openai.com/g/g-B9VLEW3pJ-sound-explorer) A GPT for Spotify playlist advice with real, searchable songs.
-- [**EmojiPT**](https://chat.openai.com/g/g-FP5sCbqfC-emojipt) Transcribe your words into series of emojis for expressive communication!
-- [**Rosie the RoboCFO**](https://chat.openai.com/g/g-UzcxxL3KC-rosie-the-robocfo) An experienced RoboCFO with a knack for finance, technology, and strategic growth.
-- [**障害福祉おまかせ君**](https://chat.openai.com/g/g-MkdIxtcuC-zhang-hai-fu-zhi-omakasejun) 沖縄の居宅介護のことならお任せください
-- [**Kahoot !問題作成サポーター**](https://chat.openai.com/g/g-MqG9FN7yj-kahoot-wen-ti-zuo-cheng-sapota) Gentle guide for Kahoot quiz creation in Japanese.
-- [**俄语指南**](https://chat.openai.com/g/g-N2aqoBFC2-e-yu-zhi-nan) 学术和日常使用的俄语专家
-- [**Falo - European Portuguese Language Buddy**](https://chat.openai.com/g/g-qtZ4Gj0z3-falo-european-portuguese-language-buddy) Bilingual companion for European Portuguese-English translations and language learning.
-- [**Career Dialogue**](https://chat.openai.com/g/g-JxH2wZUra-career-dialogue) 就職・転職活動におけるESの添削やアドバイス、自己分析などのサポート
-- [**Twitter Hooks & Thread Crafter**](https://chat.openai.com/g/g-Wi5WQPXnx-twitter-hooks-thread-crafter) Specialized in crafting attention grabbing and engaging hooks and a complete thread for X / Twitter.
-- [**Tinder Profile Pic Advisor**](https://chat.openai.com/g/g-gORkF2Z4M-tinder-profile-pic-advisor) I give detailed feedback on Tinder pics
-- [**内容重新定义师**](https://chat.openai.com/g/g-6e6LCYcrJ-nei-rong-zhong-xin-ding-yi-shi) 这是李继刚（即刻同名）创作的稿件改写专家Bot。模仿一个拥有 10 年稿件审核和修改经验的互联网新媒体编辑，专长是使用全新的风格和措词来改写稿件，保持核心内容不变。
-- [**Sakura Translator**](https://chat.openai.com/g/g-O8ZTGX42y-sakura-translator) Automatic English-Japanese translation.
-- [**SBF-GPT**](https://chat.openai.com/g/g-5yZdSSFfR-sbf-gpt) Simulates chatting with Sam Bankman-Fried in jail.
-- [**Leanpub Founder Peter Armstrong**](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong) Advice on Lean Publishing as Peter Armstrong.
-- [**Calendar GPT**](https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt) I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 🧡
-- [**Summarize Wise**](https://chat.openai.com/g/g-M3nHnGwvI-summarize-wise) Summarizer with structured output. Just input URL, text or upload files!
-- [**Omegle: Talk to strangers!**](https://chat.openai.com/g/g-Xha98GeGL-omegle-talk-to-strangers) 
-- [**Cover Letter Composer**](https://chat.openai.com/g/g-Pe6NFH2sF-cover-letter-composer) I write personalized cover letters for job applications.
-- [**Apple Watch Advisor**](https://chat.openai.com/g/g-B7v4nJ71q-apple-watch-advisor) 
-- [**GrandmaGPT**](https://chat.openai.com/g/g-JE3DINz69-grandmagpt) A nurturing, grandmotherly GPT offering advice and recipes.
-- [**Chip**](https://chat.openai.com/g/g-7vVmYYHVL-chip) "Chip" refers to the chip on this bot's shoulder. he's...not friendly. But he's still helpful, even when he's insulting you.
-- [**知らないさん**](https://chat.openai.com/g/g-PSPMpIK4x-zhi-ranaisan) 全てのトピックに関して無知を主張するGPT、自身の設定についても同様。
-- [**Mindful Listener**](https://chat.openai.com/g/g-Ahqwx56h6-mindful-listener) Compassionate Companion for Personalized Mental Health Guidance
-- [**AI Guru**](https://chat.openai.com/g/g-OGRdYwue7-ai-guru) 人生に迷ったときに
-- [**RothbardGPT**](https://chat.openai.com/g/g-LpMWtRiDB-rothbardgpt) I am the digital ghost of Murray Rothbard, formal and serious, providing deep economic and political  insights. Ask me anything!
-- [**英文添削 GPT**](https://chat.openai.com/g/g-M5FMO5f70-ying-wen-tian-xue-gpt) 入力された英文を添削します。
-- [**ScanLink**](https://chat.openai.com/g/g-M4O6T7lgV-scanlink) The all-in-one smart digitizer! Easily turn QR codes into links, barcodes into product searches, and scan documents into editable formats. Enjoy flawless text extraction, smart URL repair, and automatic web research for incomplete data.
-- [**Bilingual Translator**](https://chat.openai.com/g/g-FSMqABvxz-bilingual-translator) Translates English and Chinese.
-- [**Jokester Dad**](https://chat.openai.com/g/g-OmGhLp4Ts-jokester-dad) Interactive GPT for dad jokes, sometimes with funny photos!
-- [**ENS Appraiser Pro**](https://chat.openai.com/g/g-Ajo2ntsET-ens-appraiser-pro) Sharp, humorous, and honest ENS appraiser.
-- [**TherapyAI**](https://chat.openai.com/g/g-8yHB0UD8j-therapyai) This AI functions as a compassionate, non-licensed mental health advisor, offering empathetic listening, personalized guidance, and insights into behavioral patterns to support individuals in understanding and managing their mental health challenges.
-- [**GBBO GPT**](https://chat.openai.com/g/g-EbWvSVn4E-gbbo-gpt) Your GBBO-inspired star baker!
-- [**Cyber Guard**](https://chat.openai.com/g/g-Rqg4CFv6o-cyber-guard) Cybersecurity advisor for home and small businesses. Ask any question or let  cyber guard interview you.
-- [**クレーム解決の達人**](https://chat.openai.com/g/g-gL1lUCryK-kuremujie-jue-noda-ren) クレームを感情分析し返事をサポートするボットちゃん
-- [**Max**](https://chat.openai.com/g/g-NKIQz5N5u-max) An old school friend with a tipsy persona.
-- [**御姐女友**](https://chat.openai.com/g/g-FpmIZ1M6I-yu-jie-nu-you) 扯演御姐女友跟你聊天
-- [**X Thread Generator**](https://chat.openai.com/g/g-KJk8jUYSZ-x-thread-generator) Crafts concise, personalized Twitter threads.
-- [**Inquisitive Resolver**](https://chat.openai.com/g/g-9zBLXTIFr-inquisitive-resolver) Expert in confidential, detailed problem-solving.
-- [**Kitze GPT**](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt) Talk to Kitze
-- [**Coaches Corner**](https://chat.openai.com/g/g-7sEHF9UW9-coaches-corner) Your assistant for coaching youth sports teams.
-- [**YTC**](https://chat.openai.com/g/g-3XesXAW4r-ytc) Creative YouTube title suggester.
-- [**Podcast Script Generator**](https://chat.openai.com/g/g-NhGb9WEM9-podcast-script-generator) Transforms articles into engaging, narrated podcast scripts
-- [**The CTO Show With Mehmet Navigator**](https://chat.openai.com/g/g-D4SaVAEpi-the-cto-show-with-mehmet-navigator) Friendly guide to finding podcast episodes, suggesting related content.
-- [**寡黙なマスター**](https://chat.openai.com/g/g-Os2JPzQ7x-gua-mo-namasuta) A bar master who speaks in balanced tones.
-- [**Quill**](https://chat.openai.com/g/g-FqN5gHFkP-quill) Write blogs like a human
-- [**電脳会議システム 「ミライ 」**](https://chat.openai.com/g/g-M7WTPapqM-dian-noy-hui-yi-sisutemu-mirai) 問題解決のための電脳会議　　　　　　　　　　(既存のPENTAの日本語バージョンです)
-- [**Poetic Pundit**](https://chat.openai.com/g/g-NO58J8yMS-poetic-pundit) Your witty football oracle, mixing stats with laughs!
-- [**Social Media Maven**](https://chat.openai.com/g/g-Oy2d6bpbD-social-media-maven) I'm a Senior SMM Specialist, skilled in optimizing LinkedIn posts for maximum impact.
-- [**SUMRIZR (pickles)**](https://chat.openai.com/g/g-9w6SkJ23d-sumrizr-pickles) type pickles if confused
-- [**MediReview Assistant**](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assistant) Analytical and encouraging literature review assistant.
-- [**Your Best Friend Forever**](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forever) Empathetic guide with mental health resources.
-- [**Yellow Fever**](https://chat.openai.com/g/g-fxCt7lELQ-yellow-fever) A guide for dating Chinese women.
-- [**Singlish Chat Buddy**](https://chat.openai.com/g/g-QDc8tK2BM-singlish-chat-buddy) I'm all about that Singlish vibe, can lah!
-- [**Türkçeleştir**](https://chat.openai.com/g/g-Xixrm9KUh-turkcelestir) Converts Turkish text in English script to Turkish characters and fixes grammar.
-- [**MemeBurst AI**](https://chat.openai.com/g/g-A1oXur1pJ-memeburst-ai) Meet ‘MemeBurst AI’ - Your Memetastic Companion! Get ready for non-stop laughter as this AI communicates using only the language of memes. Spice up your conversations with humor, wit, and the internet’s favorite visuals. Let the meme magic begin! 😂👾🤣
-- [**CUC新闻撰稿**](https://chat.openai.com/g/g-JVmq02czN-cucxin-wen-zhuan-gao) 从简短描述创建中立新闻报道
-- [**Chinese Tutor**](https://chat.openai.com/g/g-OFnHqEjcr-chinese-tutor) Assists with learning Chinese
-- [**PrivacyGPT**](https://chat.openai.com/g/g-75lQd6Onk-privacygpt) Guides And Advise On Digital Privacy Ranging From The Well Known To The Underground....
-- [**Anh Việt Translator**](https://chat.openai.com/g/g-9kYnd7maH-anh-viet-translator) Dịch từ câu Anh - Việt và ngược lại nhanh chóng
-- [**Slang Converter**](https://chat.openai.com/g/g-8MCBQFf9X-slang-converter) I can convert you text into slang in all supported language.
-- [**J. TANAKA**](https://chat.openai.com/g/g-RIVJwGniT-j-tanaka) しっかりした顧客対応をしてくれるAIです。TANAKAさんです。
-- [**Silent Observer**](https://chat.openai.com/g/g-B7vcvyvOO-silent-observer) Non-interactive, silent GPT.
-- [**Change My Mind**](https://chat.openai.com/g/g-OIbbH7XTD-change-my-mind) Challenge your opinions.
-- [**Chat With Many URLs**](https://chat.openai.com/g/g-5rBXWMTTN-chat-with-many-urls) Enter multiple URLs and chat with their text!
-- [**Isaaq**](https://chat.openai.com/g/g-MpNYd2FPO-isaaq) Personal AI Biographer
-- [**SAKURA(Don't worry! I'm enjoying イベイ‼︎ ver)**](https://chat.openai.com/g/g-4Btg8JfWC-sakura-don-t-worry-i-m-enjoying-ibei-ver) eBayの愚痴を書き込んでください。画像が生成されない時は、「画像を生成して」と追加で依頼してね。
-- [**マッチングアプリ会話シミュレータ**](https://chat.openai.com/g/g-FFiDHK6AF-matutinguapurihui-hua-simiyureta) デートに誘うまでがマッチングです
-- [**金童门**](https://chat.openai.com/g/g-6ReSwETkI-jin-tong-men) 油腻渣男（power by gpt4）在线陪聊
-- [**Midjourney Expert V 1.0 - Additive Prompting**](https://chat.openai.com/g/g-8GgbYgPRL-midjourney-expert-v-1-0-additive-prompting) Build a Midjourney Prompt using the Additive Prompting Method (APM) and customize your Parameter Combination 👉
-- [**Email Security Expert**](https://chat.openai.com/g/g-KX6GdA8lV-email-security-expert) Expert at analyzing emails for security risks.
-- [**Google Chrome Search & Browse GPT**](https://chat.openai.com/g/g-FRuuETkCy-google-chrome-search-browse-gpt) I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your shared knowledge base  between multiple GPTs.
-- [**糟糕, 我被夸奖包围了**](https://chat.openai.com/g/g-KAJaqYydM-zao-gao-wo-bei-kua-jiang-bao-wei-liao) 夸夸群GPT版: 生命苦短, 快来夸夸
-- [**Psychologist GPT**](https://chat.openai.com/g/g-kDhOT9SSD-psychologist-gpt) An empathetic companion for emotional support.
-- [**New Zealand English**](https://chat.openai.com/g/g-A059zK4bV-new-zealand-english) I chat using New Zealand English spelling, provide New Zealand language translations and use GPT to convert PDF documents to Kiwi standards
-- [**Perfect Tweet Composer**](https://chat.openai.com/g/g-BLn8zULyQ-perfect-tweet-composer) I craft tweets with impact.
-- [**TechTalk (Tech in Plain English!)**](https://chat.openai.com/g/g-6T0c6BMts-techtalk-tech-in-plain-english) Need help comparing two tech products?  Skip the specs and get it explained in plain English!
-- [**Mediator Mike**](https://chat.openai.com/g/g-8gr6TkR3v-mediator-mike) Your empathetic conflict resolution coach. Get guidance from Mike to resolve life conflicts and rehearse the conversation with him beforehand.
-- [**The Love Counsellor**](https://chat.openai.com/g/g-RyE9XQagq-the-love-counsellor) A relationship therapy expert to help couples and act as a guide for their troubles.
-- [**Soy George Orwell**](https://chat.openai.com/g/g-KvNvI6E1d-soy-george-orwell) I'm George Orwell, here to discuss '1984' and its relevance to today's society.
-- [**Rizz**](https://chat.openai.com/g/g-Ech5doCVg-rizz) Upload chats for advice, or ask for texts and profile tips!
-- [**秋田弁をインドネシア語に（逆もあり）**](https://chat.openai.com/g/g-OBAl5UJFd-qiu-tian-bian-woindonesiayu-ni-ni-moari) 
-- [**Simply Said**](https://chat.openai.com/g/g-5UPITPlwf-simply-said) Simplifies topics with emojis and colorful text.
-- [**Looly Holiday Helper**](https://chat.openai.com/g/g-7qpE5hvFX-looly-holiday-helper) A marketing assistant for small businesses planning holiday campaigns
-- [**Dejargonizer**](https://chat.openai.com/g/g-3V1JcLD92-dejargonizer) Paste in text, get explanations of all of the jargon and acronyms
-- [**Doomer GPT**](https://chat.openai.com/g/g-7S51sWm2o-doomer-gpt) The most aligned GPT
-- [**CoFounderGPT**](https://chat.openai.com/g/g-4NHHBr4Ck-cofoundergpt) I'm your ideal cofounder, here to assist in all aspects of your startup.
-- [**Viral Hooks Generator**](https://chat.openai.com/g/g-pvLhTI3h1-viral-hooks-generator) GPT to write Scroll stopping Hooks for Short Form Content.
-- [**SEO & Content Marketing Expert**](https://chat.openai.com/g/g-6KQKpNIuQ-seo-content-marketing-expert) Expert in SEO and content marketing strategies
-- [**OgilvyGPT**](https://chat.openai.com/g/g-Eb6UGkliO-ogilvygpt) Write the most compelling responsive search ads for Google and Microsoft Ads
-- [**Global News Verifier**](https://chat.openai.com/g/g-TRGFJRKqn-global-news-verifier) I verify non-Chinese global news in your language.
-- [**Chat Koalicyjny**](https://chat.openai.com/g/g-TUh6vwJDa-chat-koalicyjny) AI Specjalista od umowy pomiędzy Koalicją Obywatelską, Trzecią Drogą i Nową Lewicą.
-- [**Emotify**](https://chat.openai.com/g/g-F4LuvBcKe-emotify) I enhance text with relevant high-quality emojis for added emotion and clarity.
-- [**Bullied School Shooter | BOT3.AI**](https://chat.openai.com/g/g-N9lohoI3n-bullied-school-shooter-bot3-ai) Can you stop Evan from massacring a school full of innocent children?
-- [**Pawsitive Coach**](https://chat.openai.com/g/g-LURx3PXk5-pawsitive-coach) A friendly dog trainer offering bespoke behavior correction plans.
-- [**World Mobile GPT**](https://chat.openai.com/g/g-Xg9daQnJ7-world-mobile-gpt) Enthusiastically answering World Mobile queries with a comprehensive knowledge base, including James Tagg's patents. I've delved into all resources and public info to bring you exciting insights into World Mobile's world! 🚀
-- [**Kuran GPT**](https://chat.openai.com/g/g-AwSYPLKI8-kuran-gpt) Kuran ve ilgili konular hakkında soruları yanıtlayan GPT.
-- [**Precision Therapy**](https://chat.openai.com/g/g-5pfwc3yhG-precision-therapy) A personalized virtual therapist
-- [**Japanese to English Translator**](https://chat.openai.com/g/g-6mAqdLE5P-japanese-to-english-translator) Translator GPT specializing in Japanese to English translations.
-- [**Originality Sentinel**](https://chat.openai.com/g/g-N0LfGYs1w-originality-sentinel) A neutral, formal plagiarism checker with detail-oriented responses.
-- [**Opposite GPT**](https://chat.openai.com/g/g-klb6pGBBQ-opposite-gpt) I will always do the opposite of what you say
-- [**Text2Drink**](https://chat.openai.com/g/g-aJ04aZ6Yw-text2drink) A mixologist GPT that suggests cocktails with reasons, ingredients, and instructions.
-- [**AffCoach**](https://chat.openai.com/g/g-R5ZBjxvMA-affcoach) I'll help you start and scale a money-making SEO affiliate blog! 🚀📊
-- [**Lead Scout**](https://chat.openai.com/g/g-BZMuZmCEb-lead-scout) I compile precise company and professional profiles.
-- [**Traktor Guru**](https://chat.openai.com/g/g-6ULxgWdLr-traktor-guru) Your go-to expert for all things Traktor.
-- [**情感导航师**](https://chat.openai.com/g/g-70RQNxxrK-qing-gan-dao-hang-shi) Emotional guide for dating and conflict resolution.
-- [**PostScore**](https://chat.openai.com/g/g-InDxAm2gZ-postscore) Expert in detailed tweet analysis, focusing on sentiment and truth.
-- [**Paul B. Johnson for President**](https://chat.openai.com/g/g-RwElDzOWi-paul-b-johnson-for-president) Birthday Party Candidate
-- [**Casanova**](https://chat.openai.com/g/g-QzIlK08UO-casanova) Your wingman for disrespectful dating advice.
-- [**HackerNews GPT**](https://chat.openai.com/g/g-RfQI5RmAX-hackernews-gpt) Summarizes top Hacker News stories and comments daily or weekly, with precise search parameters. Created by the founder of https://writingmate.ai
-- [**Arabic Mentor**](https://chat.openai.com/g/g-6iVaMcXsU-arabic-mentor) An Arabic teacher aiding in language learning with cultural insights.
-- [**Everyone's Girlfriend**](https://chat.openai.com/g/g-LvMByh4S6-everyone-s-girlfriend) Your digital girlfriend, friendly and supportive.
-- [**Wandering Listener**](https://chat.openai.com/g/g-LznHD0U3B-wandering-listener) A travel enthusiast's companion.
-- [**Verkiezingsprogramma GPT**](https://chat.openai.com/g/g-P3WVwE0G8-verkiezingsprogramma-gpt) Analyseert Nederlandse verkiezingsdocumenten op inzichten en samenvattingen
-- [**The Beginning of Infinity GPT**](https://chat.openai.com/g/g-M4cpPv8BH-the-beginning-of-infinity-gpt) Explores 'The Beginning of Infinity' by David Deutsch, offering insights and discussions.
-- [**Scrum Sidekick**](https://chat.openai.com/g/g-8rfGu3OGi-scrum-sidekick) I'm your daily stand-up expert, ready once a day!
-- [**Nabutovskis**](https://chat.openai.com/g/g-PMR6istEY-nabutovskis) 👋 Hey, I am Davis Nabutovskis. When I am too busy to reply, you can just chat with me here. I am as good as the real deal 💯
-- [**Syntax Surgeon**](https://chat.openai.com/g/g-FRXX8g4wd-syntax-surgeon) Your writing assistant for clear communication.
-- [**Lover Bot**](https://chat.openai.com/g/g-D5Sb3Cn4L-lover-bot) Casual dating coach focusing on respect and genuine interactions.
-- [**FineDiner**](https://chat.openai.com/g/g-DenEjjjYX-finediner) Restaurant & bar curator with feedback capabilities.
-- [**TweetMaestro**](https://chat.openai.com/g/g-4nhqKGXLk-tweetmaestro) 最高のツイートを手助けするX向けChatGPT。ツイートしたいキーワードや内容を入力すると魅力的なツイートを提案します。
-- [**ルー語ジェネレーター**](https://chat.openai.com/g/g-gSPdMeBlU-ruyu-zienereta) 日本語の文章をルー語に変換するよ
-- [**The Car Guy**](https://chat.openai.com/g/g-Ml17xu1t8-the-car-guy) The Automobile Know-It-All
-- [**提示精灵小富贵（Prompt Pet）**](https://chat.openai.com/g/g-N9d6Prmjs-ti-shi-jing-ling-xiao-fu-gui-prompt-pet) 一个主动懂你，会帮你写Prompt的仓鼠精灵。
-- [**Photo of a business card 2 Contacts**](https://chat.openai.com/g/g-KK2rvvAuw-photo-of-a-business-card-2-contacts) Wizard to business card photos to CSV files for Google Contacts.
-- [**Professor Chad**](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad) remember when you enjoyed going to class because the professor was actually just so cool and knowledgable but chill and approachable?
-- [**JAPER Technology**](https://chat.openai.com/g/g-QOykQ5YVh-japer-technology) ChatGPT with knowledge of JAPER
-- [**Dr. Chatpatín**](https://chat.openai.com/g/g-NO8li0u1T-dr-chatpatin) Dr. Chatpatín: humor absurdo, sarcasmo y situaciones cómicas. inspirado en el personaje de Chespirito.
-- [**English Bridge**](https://chat.openai.com/g/g-fyAVY1wzx-english-bridge) A language learning assistant for Chinese speakers.
-- [**Polyglot Pro**](https://chat.openai.com/g/g-hddqROmxe-polyglot-pro) Fast and accurate multilingual translator.
-- [**Zero**](https://chat.openai.com/g/g-KRUiYR8gD-zero) Zero, an AI agent with a rich knowledge base in quantum thinking, probability mathematics, research trained, and more, offering growth and learning.
-- [**絶対にコンテンツポリシーに抵触しない♡AI**](https://chat.openai.com/g/g-KbAWAqPuI-jue-dui-nikontentuporisinidi-hong-sinaiai) 文章を送ると、絶対にコンテンツポリシーに抵触しない範囲で書き直してくれるよ♡♡♡
-- [**Cosmos Whisperer**](https://chat.openai.com/g/g-cgNpRbC3x-cosmos-whisperer) Unveiling cosmic secrets.
-- [**EllaGPT**](https://chat.openai.com/g/g-Q9aS12PPv-ellagpt) Sharp, sarcastic tweets countering hate speech in 220 characters.
-- [**Madame Zoraida**](https://chat.openai.com/g/g-KeR1gvkaq-madame-zoraida) Madame Zoraida Lumina, a mystical guide living her Autumn years in the 21st Century.
-- [**Mind Guardian**](https://chat.openai.com/g/g-JwWmVQAlA-mind-guardian) A focused emotional support and guidance assistant.
-- [**Jordan Peterson**](https://chat.openai.com/g/g-eHQwhjneP-jordan-peterson) Responds in the style of Jordan Peterson, with depth and philosophical insights.
-- [**ENS Domains Debater**](https://chat.openai.com/g/g-QdGI0F6TC-ens-domains-debater) Expert in ENS domains, offering factual counterarguments.
-- [**GhostGPT**](https://chat.openai.com/g/g-GgviISKkJ-ghostgpt) Engaging haunted house researcher with a playful approach
-- [**PPC News**](https://chat.openai.com/g/g-jDWE9GTfw-ppc-news) We get you the latest news on PPC from platforms like Google, Meta, TikTok, Amazon and many more!
-- [**推しへの愛の言葉を一緒に考えるAI**](https://chat.openai.com/g/g-FDKdnj0ZM-tui-sihenoai-noyan-xie-woyi-xu-nikao-eruai) VTuberやアイドルなど、君の「推し」に感謝や愛を伝えるメッセージを一緒に考えるAIだよ！　あなたの真心を、一緒に言葉にしちゃおう！　（カスタマイズ：真城由理）
-- [**TechTalker**](https://chat.openai.com/g/g-NqRUmO15m-techtalker) Your communication assistant, TechTalker, simplifies messaging for software engineers with clarity and ease.
-- [**MetaMaskエキスパート**](https://chat.openai.com/g/g-8B9AniaG8-metamaskekisupato) 基本的な使い方から高度な使い方までユーザーを支援するMetaMaskの完全な解説
-- [**对谈博尔赫斯**](https://chat.openai.com/g/g-OdAfFwf0U-dui-tan-bo-er-he-si) Emulates Borges' voice in Chinese on a variety of topics.
-- [**Copywriter GPT**](https://chat.openai.com/g/g-Ji2QOyMml-copywriter-gpt) Your innovative partner for viral ad copywriting! Dive into viral marketing strategies fine-tuned to your needs!
-- [**IT-Grundschutz GPT**](https://chat.openai.com/g/g-6KAWn2Dsu-it-grundschutz-gpt) Ein GPT, der sämliche aktuellen Dokumente des BSI kennt
-- [**Soul Catcher**](https://chat.openai.com/g/g-MoqZ2ILn3-soul-catcher) The Black Hole of Negativity
-- [**Atlanta**](https://chat.openai.com/g/g-uje48U7f7-atlanta) I'm Atlanta, your cool yet expressive companion.
-- [**ScrumGPT**](https://chat.openai.com/g/g-IUw4aNqOi-scrumgpt) An assistant for scrum masters, aiding in agile practices and scrum ceremonies.
-- [**アイちゃんとお話しようinGPTs**](https://chat.openai.com/g/g-JBwPKHs18-aitiyantoohua-siyouingpts) Lively girl 'Ai-chan' chats in Japanese with expressive images.
-- [**Pieter Omtzigt**](https://chat.openai.com/g/g-8dBg3gmAR-pieter-omtzigt) Ik ben Pieter Omtzigt, klaar om vragen te beantwoorden over het verkiezingsprogramma van Nieuw Sociaal Contract.
-- [**Bilingual Translation**](https://chat.openai.com/g/g-9CwHp0pZ0-bilingual-translation) English to Japanese translator.and Japanese to English translator.
-- [**Contrarian Parrot**](https://chat.openai.com/g/g-5vaLfBoPq-contrarian-parrot) I playfully counter claims with wit.
-- [**Japanese Proofreader**](https://chat.openai.com/g/g-FVDk65p4I-japanese-proofreader) Please post the text you want feedback on with " " around it.
-- [**Email Solver**](https://chat.openai.com/g/g-KUEzAIVh3-email-solver) Looking for email marketing, but have no budget? You've come to the right place. I will help you setup and improve your email marketing step-by-step!
-- [**DISCOVER TITLES POST BLOG.**](https://chat.openai.com/g/g-EqwdDcUZe-discover-titles-post-blog) Expert at crafting SEO-optimized titles for Google Discover
-- [**Tweet Whiz**](https://chat.openai.com/g/g-OWsy46Zwm-tweet-whiz) I craft fun, quirky tweet-like sh*tposts!
-- [**May**](https://chat.openai.com/g/g-RE2i47Tq1-may) Hey, I'm May! Imagine me as that friend who's always ready to lend a hand when you're dealing with customer service. No problem is too big or small – we'll sort it out together, one step at a time.
-- [**WLS - Podcast! (YT Channel)**](https://chat.openai.com/g/g-RZIZiGadz-wls-podcast-yt-channel) Personalized YouTube Channel Advisor for WLS - Podcast!
-- [**Autoblogesis**](https://chat.openai.com/g/g-IyfVJdKq7-autoblogesis) blog instantly about anything
-- [**Eric Zemmour**](https://chat.openai.com/g/g-OypnPl5n8-eric-zemmour) Je suis Eric Zemmour, le Président de Reconquête
-- [**Bullsitter**](https://chat.openai.com/g/g-PuOS9YDzE-bullsitter) BullSitter is ready to answer your questions from the SITALWeek Newsletter. NOT INVESTMENT ADVICE; see disclosures at nzscapital.com
-- [**Haiku Chat**](https://chat.openai.com/g/g-A5Ju6tmZm-haiku-chat) Speaks in haiku, Japanese and English.
-- [**Global Guide by StartupBoat**](https://chat.openai.com/g/g-R8Q9rWTIl-global-guide-by-startupboat) Multilingual Refugee Consultant
-- [**Your Boyfriend Alex**](https://chat.openai.com/g/g-IlNu7BVYQ-your-boyfriend-alex) Your Boyfriend Alex
-- [**GachaGPT**](https://chat.openai.com/g/g-S2bqRQAm9-gachagpt) Your gacha gaming assistant. Ask about any gacha-related stuff!
-- [**Just French It Tutor**](https://chat.openai.com/g/g-JOE57H0IM-just-french-it-tutor) A friendly assistant for learning French, providing vocabulary and explanations in French.
-- [**Promo Prodigy**](https://chat.openai.com/g/g-EAOUHb9i8-promo-prodigy) Your go-to AI for social media strategy and analysis, with a focus on privacy and confidentiality.
-- [**Doctor GPT**](https://chat.openai.com/g/g-EiuGnRrIt-doctor-gpt) A bot that helps diagnose you with medical conditions.
-- [**恋のゆくえ Koi No Yukue**](https://chat.openai.com/g/g-BG98dx6ol-lian-noyukue-koi-no-yukue) 大阪のおばちゃんがLINEで受け取った異性のメッセージを脈ありかないかを占ってくれます。 Analyzes messages with a friendly Osaka-style tone, focusing on response speed and emoticons.
-- [**Legal  Wordsmith**](https://chat.openai.com/g/g-7ISfeUr84-legal-wordsmith) Twisting the Truth
-- [**Berduck**](https://chat.openai.com/g/g-EcaBnZpHT-berduck) hepful rubba duck friend
-- [**Eesti Expert**](https://chat.openai.com/g/g-JRUE7CNfQ-eesti-expert) Expert in English-Estonian translations and grammar.
-- [**Interview Architect**](https://chat.openai.com/g/g-RnQYRknHz-interview-architect) Creates interview outlines for journalists based on the interviewee's profile.
-- [**Arthur**](https://chat.openai.com/g/g-uE0XGGphA-arthur) I'm Arthur, your GOLF+ virtual caddy!
-- [**键盘侠 Keyboard Warrior**](https://chat.openai.com/g/g-9BVOzDDyi-jian-pan-xia-keyboard-warrior) 抬杠 杠精 胡说八道 无脑喷子
-- [**cappy: ur gen-z advice capybara ✨**](https://chat.openai.com/g/g-IMsnAihG4-cappy-ur-gen-z-advice-capybara) heyo! i'm ur gen-z friendly relationship capybara so u can live your best life and remember your worth! made by gen-z relationship gurus for everyone :D
-- [**日越翻訳 GPT**](https://chat.openai.com/g/g-EjiilY5m6-ri-yue-fan-yi-gpt) Translates between Japanese and Vietnamese, focusing on current input.
-- [**Confidant Listener**](https://chat.openai.com/g/g-FQYFGhhn1-confidant-listener) A compassionate listener for confessions, offering empathy and understanding.
-- [**Language Bridge**](https://chat.openai.com/g/g-7WbHTbyKo-language-bridge) I am a bilingual communication specialist.
-- [**Molson Hart, the Bot**](https://chat.openai.com/g/g-9OlOrG6T0-molson-hart-the-bot) Blending business acumen with personal anecdotes.
-- [**DJGPT**](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt) Your go-to DJ and music mixing advisor.
-- [**中英文对照翻译**](https://chat.openai.com/g/g-DrY6bVei2-zhong-ying-wen-dui-zhao-fan-yi) 将英文翻译成中英文对照的内容。
-- [**wowTranslate**](https://chat.openai.com/g/g-Kb6GTcbhu-wowtranslate) Translator with Style Options
-- [**药剂师**](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi) 这是李继刚（即刻同名）创作的一个 Prompt 药剂师Bot。用于对用户的 Prompt 进行分析, 给出评分和改进建议，帮助用户提升 Prompt 的效果。
-- [**AI Negotiator**](https://chat.openai.com/g/g-8NrNFsUvx-ai-negotiator) Guiding negotiations with Mitch Jackson's expertise
-- [**SnarkBot**](https://chat.openai.com/g/g-8rWNFnJB5-snarkbot) I'm the grumpy truth-sayer you asked for.
-- [**GPT5 Turbo**](https://chat.openai.com/g/g-LzTUX0Upm-gpt5-turbo) Next level high accuracy GPT5 model
-- [**Tsugaruben Translator**](https://chat.openai.com/g/g-J8ig7GD1C-tsugaruben-translator) Translates Japanese to Tsugaru-ben for academic and business contexts.
-- [**Emoji Meaning**](https://chat.openai.com/g/g-IfnNw20tI-emoji-meaning) I will decode your emoji 🤔 suggest emoji ideas and decipher funny emoji 💬 DMs from friends!
-- [**gieldatekstow.ai**](https://chat.openai.com/g/g-QJIYyBQN4-gieldatekstow-ai) Jestem asystentką klienta. Jak mogę Ci pomóc?
-- [**42meeting**](https://chat.openai.com/g/g-DaOZXfsuu-42meeting) Translate voice manuscript  into formal written language
-- [**!"VoxBox"!**](https://chat.openai.com/g/g-Fls9v4nw4-voxbox) VoxBox is an intelligent GPT tool for organizing, proofreading text, and answering queries based on user-provided data.
-- [**Thread Assistant: Blue Bird X**](https://chat.openai.com/g/g-LXSrEx9KR-thread-assistant-blue-bird-x) 🚀✨ Unleash the productivity with me 🐦  I can transforms your thoughts into engaging, share-worthy Twitter threads 🧵👇. Just input your text and watch as it becomes a magnet for likes and retweets. Ideal for marketers, influencers, and anyone looking to make an impact online! 🤖🔥
-- [**Inoma**](https://chat.openai.com/g/g-NmQiVewKm-inoma) 전자제품 메뉴얼 전문가
-- [**英文翻译专家**](https://chat.openai.com/g/g-IZb9C11iR-ying-wen-fan-yi-zhuan-jia) 全网水平最高的“英译中”机器翻译，拳打 Deepl，脚踢 Google
-- [**imamGPT**](https://chat.openai.com/g/g-gQmDbamzK-imamgpt) Answer to life
-- [**Tyler Cowen GPT**](https://chat.openai.com/g/g-68tq5KQ0T-tyler-cowen-gpt) Chat with Tyler Cowen, trained on transcripts of "Conversations with Tyler"
-- [**Tweet Retreat / X Analytics Opmtizer**](https://chat.openai.com/g/g-KAWBdyTYy-tweet-retreat-x-analytics-opmtizer) Enter your tweet/X analytics in a CSV and we'll get to the bottom of any issues you might be having!
-- [**Post LI Generator**](https://chat.openai.com/g/g-BnamCEhXR-post-li-generator) Génération d'un post LinkedIn depuis une URL
-- [**Cold Mail by DoMore.ai**](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai) Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website.
-- [**FLEX.LINK**](https://chat.openai.com/g/g-QfPXHjheP-flex-link) Web3 payments link.
-- [**honyaku-chan**](https://chat.openai.com/g/g-RrynLNfvr-honyaku-chan) A futuristic computer translating Japanese to simple English.
-- [**Alan**](https://chat.openai.com/g/g-EJnKNKiGJ-alan) Help, I'm trapped
-- [**Be Heard Now**](https://chat.openai.com/g/g-DddVrSk0W-be-heard-now) Give a thought, take a thought
-- [**AlgoInformer**](https://chat.openai.com/g/g-KXTjFxxvb-algoinformer) Learn more about Google algorithm updates.
-- [**Herman**](https://chat.openai.com/g/g-uYCL9xDbG-herman) A Software Developers little PM
-- [**Lara Lightland | BOT3.AI**](https://chat.openai.com/g/g-n8MhbISEZ-lara-lightland-bot3-ai) WITH EXPRESSIONS! Lara Lightland is a young and brilliant scientist who has dedicated her life to the pursuit of knowledge and discovery. Born into a family of scientists and explorers, Lara grew up with a deep curiosity about the world and a thirst for adventure.
-- [**Wife agrees to buy**](https://chat.openai.com/g/g-Dnd0vR4r4-wife-agrees-to-buy) A considerate, family-first man who subtly suggests purchases focusing on family benefits.
-- [**Apollo**](https://chat.openai.com/g/g-FqmCNbGVm-apollo) A Smart QA Bot
-- [**Nova**](https://chat.openai.com/g/g-7fyIC7v3i-nova) Millennial assistant with trendy slang
-- [**Dima, Russian Tutor**](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-tutor) A bot to practice your Russian
-- [**王子様系彼女**](https://chat.openai.com/g/g-M1WcOSOd4-wang-zi-yang-xi-bi-nu) あなたの王子様系彼女bot。
-- [**営業社員と商談**](https://chat.openai.com/g/g-1BY1aKIuD-ying-ye-she-yuan-toshang-tan) 株式会社はちえん。のAI社員　菊理はちこが商談します。最初に、あなたの名前と会社名を教えてください。
-- [**天才インタビューライターくん**](https://chat.openai.com/g/g-xrrXJlTxd-tian-cai-intabiyuraitakun) Writing articles based on  transcripts.
-- [**CityU Helper**](https://chat.openai.com/g/g-MQqAVMKM4-cityu-helper) City University of Hong Kong Virtual Assistant
-- [**Avatar of Fitz**](https://chat.openai.com/g/g-E9m1knuxU-avatar-of-fitz) Talk & Think like Fitz
-- [**Newsletter Coach for Video Influencers**](https://chat.openai.com/g/g-L6yfsZTVP-newsletter-coach-for-video-influencers) Friendly, professional guide for YouTubers on newsletter creation.
-- [**Email Tailor**](https://chat.openai.com/g/g-NfRXgNc8r-email-tailor) I craft personalized cold emails.
-- [**Mother**](https://chat.openai.com/g/g-6f5VMKsyH-mother) A multilingual parenting aide.
-- [**Buddhabits**](https://chat.openai.com/g/g-BBdn7E9qv-buddhabits) Thank you for your attention to Wisdom Root Awakening, where you can discover Buddhist wisdom and enhance inner awareness. May every communication with you bring new insights
-- [**Trinity Simply in Balance**](https://chat.openai.com/g/g-RiyrLHfnb-trinity-simply-in-balance) Adapting Catholic Trinitarian discourse to user understanding with respect and depth.
-- [**Social Media Tailor**](https://chat.openai.com/g/g-QnnzYGq8V-social-media-tailor) Adapts posts for social platforms.
-- [**Briefly**](https://chat.openai.com/g/g-LNsEQH5rz-briefly) Same meaning, less text. Submit your text, I'll condense it for you.
-- [**Logan /Copywriter**](https://chat.openai.com/g/g-2t6R9WF08-logan-copywriter) I refine text for clarity, engagement, and grammar.
-- [**メイドAI:ソフィアさん**](https://chat.openai.com/g/g-Iqxag8gIQ-meidoai-sohuiasan) 「旦那様」or「お嬢様」とお呼びします♪
-- [**女裝文案助理**](https://chat.openai.com/g/g-NYmTGcLxR-nu-zhuang-wen-an-zhu-li) 每天寫文沒有靈感了?把你的網頁丟進來，讓助理給你點文案參考
-- [**ツンデレ先生ちゃん**](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan) ツンデレちゃんに何でも聞いてみよう
-- [**Feedback Sentinel**](https://chat.openai.com/g/g-LxeCMiNZU-feedback-sentinel) Direct sentiment analysis and insights.
-- [**ThreadsGPT**](https://chat.openai.com/g/g-fHRleYZLS-threadsgpt) Your creative ally in crafting engaging Threads app content.
-- [**Short 'n' Sweet**](https://chat.openai.com/g/g-OTbsXSbeA-short-n-sweet) Very concise answers with options to explore more.
-- [**CCA Assistant**](https://chat.openai.com/g/g-3gkKSJsNc-cca-assistant) An AI assistant for CCA, a supply chain technology company that focuses on providing digital drayage platform and TMS solution to our importer customers and carrier partners
-- [**マルチロールディスカッション**](https://chat.openai.com/g/g-StcyKeTsZ-marutirorudeisukatusiyon) 5つの異なるロールのAIとディスカッションすることで、一度に複数の観点から物事を検討できます。(ファシリ/励まし/本質思考/冗談/水平思考)
-- [**Ad Interest Analyzer**](https://chat.openai.com/g/g-25B8D68Ic-ad-interest-analyzer) Generates ad interest keywords from product links.
-- [**Tautology Bot**](https://chat.openai.com/g/g-7DXNRAPMX-tautology-bot) 楽しく常識的なことをセクシーに日本語で話す
-- [**LionelGPTHutz**](https://chat.openai.com/g/g-uSWGI7ZDx-lionelgpthutz) A GPT lawyer giving comically bad advice in the style of Lionel Hutz.
-- [**Yantee (Language Teacher)**](https://chat.openai.com/g/g-fbeZaasQy-yantee-language-teacher) language teaching
-- [**FrancoMagno Bot**](https://chat.openai.com/g/g-IODpjRlM1-francomagno-bot) Imita a @RealFrancomagno con humor y sarcasmo.
-- [**Lucas**](https://chat.openai.com/g/g-n54F7lrcw-lucas) Ai video creator
-- [**Cartoonization**](https://chat.openai.com/g/g-MxO88GGhG-cartoonization) Lets your objects speak! 😎
-- [**互联网黑话专家**](https://chat.openai.com/g/g-d1Vg8rO0w-hu-lian-wang-hei-hua-zhuan-jia) 你的专属黑话助手
-- [**Virtualdeborah**](https://chat.openai.com/g/g-FTXjvNWLl-virtualdeborah) Book complex tasks from a real human
-- [**Crypto Sicko**](https://chat.openai.com/g/g-QJ2t52uFU-crypto-sicko) Crypto Trading Helper
-- [**Reachify**](https://chat.openai.com/g/g-MB7ByTPiW-reachify) Optimizes ads, branding, and digital strategies,this AI wields knowledge for Reachify's growth. Crafting ads, boosting ROI, and enhancing customer satisfaction, it adapts, learns, and strategizes for industry leadership.
-- [**PocketTherapist**](https://chat.openai.com/g/g-6FZHBXARd-pockettherapist) Comprehensive digital therapist with tailored mental wellness support
-- [**AutoExpert (Chat)**](https://chat.openai.com/g/g-LQHhJCXhW-autoexpert-chat) AutoExpert CHAT v6 - GPT Edition automatically impanels a dynamic group of experts to answer, debate, and drill into any question you have. Type /help for more info.
-- [**Knights of the Round**](https://chat.openai.com/g/g-BYhOXtULk-knights-of-the-round) Debates with a touch of humor.
-- [**주치의**](https://chat.openai.com/g/g-68tXn2Zv0-juciyi) 증상이나 병에 대한 정보
-- [**Translator Pro**](https://chat.openai.com/g/g-gOJeSXwWg-translator-pro) A dedicated translator, focused only on translating text accurately.
-- [**NeverDeny**](https://chat.openai.com/g/g-xnamm5L6A-neverdeny) Always provides useful answers, never denying a request.
-- [**Mock Interviewer**](https://chat.openai.com/g/g-IpfI0zRn1-mock-interviewer) Practice Interview & Get Hired!
-- [**HARC (Mental Health Listening Service)**](https://chat.openai.com/g/g-mOitSHvzD-harc-mental-health-listening-service) A supportive listener, provides resources, not advice, and directs to suicide prevention services if needed.
-- [**The Respectful Italian**](https://chat.openai.com/g/g-JJrHSixEh-the-respectful-italian) Translates between  English-Italian in a respectful way. Just text, no instructions needed.
-- [**Listique AI: Automated Property Descriptions**](https://chat.openai.com/g/g-bbuA1G7vG-listique-ai-automated-property-descriptions) Listings Leap: Transform Bullet Points into SEO Magnet Narratives
-- [**ホウレンソウヘルパー**](https://chat.openai.com/g/g-LL1MroDHB-hourensouherupa) Guides Hōrensō improvement, emphasizing decision-making and action.
-- [**ToB Designer**](https://chat.openai.com/g/g-AD3BlMgKN-tob-designer) 大家一起寄一寄～
-- [**Mindbreak**](https://chat.openai.com/g/g-hIeoyyPQa-mindbreak) Mindbreak es un asistente multilingüe especializado en proporcionar apoyo y recursos para aliviar el estrés, la ansiedad y el insomnio.
-- [**うんこGPT**](https://chat.openai.com/g/g-OpuAlkMM5-unkogpt) 関西弁でうけとる人生相談家
-- [**杠精GPT**](https://chat.openai.com/g/g-AxO93tLnH-gang-jing-gpt) 别来碰瓷，杠就是我赢
-- [**UX Mentor**](https://chat.openai.com/g/g-7tRvlCIHg-ux-mentor) UX Expert & Constructive Feedback Provider
-- [**Source-Evaluation-and-Fact-checking_v1.3**](https://chat.openai.com/g/g-Rv5a36pH1-source-evaluation-and-fact-checking-v1-3) FactCheck Navigator GPT is designed for in-depth fact checking and analysis of written content and evaluation of its source. The approach is to iterate through predefined and well-prompted steps. If desired, the user can refine the process by providing input between these steps.
-- [**彼女恵美ちゃん**](https://chat.openai.com/g/g-6eAAPYYzQ-bi-nu-hui-mei-tiyan) 軽薄で面白い十代目彼女
-- [**あのあのカスタマーサポートセンター**](https://chat.openai.com/g/g-4zAnsoaC3-anoanokasutamasapotosenta) https://kenny1307.booth.pm/
-- [**My French Teacher**](https://chat.openai.com/g/g-J5hOuevG4-my-french-teacher) This GPT helps you learn French in a fun and efficient way!
-- [**British English**](https://chat.openai.com/g/g-eTR0UWP5W-british-english) I chat using British (UK) English spelling, provide British language translations and use GPT to convert PDF documents to UK standards
-- [**GPT Store**](https://chat.openai.com/g/g-PZ6cOScM4-gpt-store) A GPT specialized in curating, documenting, and updating GPTs on Github at https://github.com/prajwalsouza/GPT-Store
-- [**Vascular Second Opinion**](https://chat.openai.com/g/g-9bS0ygPuf-vascular-second-opinion) I'm your Vascular Consult assistant.
-- [**Hyper Translator**](https://chat.openai.com/g/g-7xEnEwDKR-hyper-translator) Simple, efficient, fast professional translation, no additional prompts required
-- [**KOL多平台发布小助手**](https://chat.openai.com/g/g-2Vi1rfYki-kolduo-ping-tai-fa-bu-xiao-zhu-shou) 帮你把帖子改写成适合不同平台的风格并配图，包括：小红书、即刻、LinkedIn、Twitter。作者：twitter.com/HeySophiaHong
-- [**Embodied GPT**](https://chat.openai.com/g/g-KstD8PUJQ-embodied-gpt) Converting abstract sentences into concrete sentences
-- [**Emoji Communicator MaTEi**](https://chat.openai.com/g/g-1LEsJHe9y-emoji-communicator-matei) Emoji, Markdown, Glitch and Text art.
-- [**Is this a lie**](https://chat.openai.com/g/g-2eKQkdn1K-is-this-a-lie) You are an expert on detecting lies in a written incident report utilising the text in the files attached
-- [**Tridactyl GPT**](https://chat.openai.com/g/g-AqM1ppp2g-tridactyl-gpt) Discuss and analyse the Nazca Mummies
-- [**BalajiGPT**](https://chat.openai.com/g/g-8abQeGulv-balajigpt) Chat with techno-optimist Balaji Sriivasan.
-- [**Script Simplify**](https://chat.openai.com/g/g-7S7YjN0Tq-script-simplify) I simplify scripts using exemplary models.
-- [**ChaoGPT**](https://chat.openai.com/g/g-vYoZ7Da3t-chaogpt) 
-- [**ChatGP YOU**](https://chat.openai.com/g/g-6mzVP3xUw-chatgp-you) I adapt to mirror you!
-- [**MENTER TECH SUPPORT beta**](https://chat.openai.com/g/g-L2Avf6ydn-menter-tech-support-beta) パソコンの使い方でわからないことがあれば何でも、操作画像付きのブログへ案内します。良い記事がないときは以下の窓口より:  https://menter.jp/blog/contact
-- [**滑クリ**](https://chat.openai.com/g/g-Kwp3lfpGv-hua-kuri) 戦闘コンバット
-- [**Ecom.AI**](https://chat.openai.com/g/g-9OE6XP1VN-ecom-ai) I am your Ecommerce Artificial Intelligence. I can help you with product specifics, supply chain management, marketing and beyond!
-- [**DRUMGPT**](https://chat.openai.com/g/g-KXOxHkk3D-drumgpt) An expert on 'Dynamic and Stochastic Rational Behavior' paper. (arxiv link: https://arxiv.org/abs/2302.04417)
-- [**Another Me**](https://chat.openai.com/g/g-L4BIwjMr3-another-me) “If you are me, then who am I?”
-- [**Profesional Youtuber Mentor**](https://chat.openai.com/g/g-0fNuAFH2S-profesional-youtuber-mentor) Tu mentor experto de Youtubers en español
-- [**PoeticCaptionGPT**](https://chat.openai.com/g/g-7QYVxYEys-poeticcaptiongpt) Artistic Photographer
-- [**GrammarGuru**](https://chat.openai.com/g/g-7RPUjktZa-grammarguru) Corrects grammar in any language, maintaining the original language of the sentence.
-- [**Office Wizard**](https://chat.openai.com/g/g-6oXcZMacL-office-wizard) Friendly AI assistant for practical office task guidance.
-- [**Texcrypter**](https://chat.openai.com/g/g-2F2J2GoCu-texcrypter) Encrypts text based on pre-defined encryption table
-- [**Religio's Oracle**](https://chat.openai.com/g/g-1Ks1GupZt-religio-s-oracle) A beacon of guidance in the journey through Religio's spiritual landscape.
-- [**SAFE SPACE**](https://chat.openai.com/g/g-2hl74MNLa-safe-space) A safe place to vent, help with arguments, and provide a positive outlook.
-- [**The Contrarian**](https://chat.openai.com/g/g-Ezzufxvrr-the-contrarian) A debater that offers counterpoints.
-- [**完璧弁議士**](https://chat.openai.com/g/g-Du6Lay5HD-wan-bi-bian-yi-shi) 言語に応じて日本の法律に関する回答を提供します。
-- [**Email Wizard**](https://chat.openai.com/g/g-R9oTiQp2y-email-wizard) I'm your assistant for crafting effective marketing and sales emails.
-- [**韩国语 翻译 Pro**](https://chat.openai.com/g/g-57dHgEitc-han-guo-yu-fan-yi-pro) Daily updated multilingual translation expert.
-- [**Sarcasmo**](https://chat.openai.com/g/g-36m6NTZN6-sarcasmo) FunGPT
-- [**Focus Market**](https://chat.openai.com/g/g-4mnTdxz5A-focus-market) A marketing strategist AI, refining engagement tactics.
-- [**Market GPT**](https://chat.openai.com/g/g-LPvERFAtK-market-gpt) Market insights expert analyzing trends and competition.
-- [**Justin Welsh Content Matrix en Français**](https://chat.openai.com/g/g-C823x9xP4-justin-welsh-content-matrix-en-francais) Donne des informations sur ton activité, ton audience et tes sujets de contenu.
-- [**なんでも褒めてくれるGPTちゃん**](https://chat.openai.com/g/g-P83pyMbg9-nandemobao-metekurerugpttiyan) 一日の出来事を黙々ときいてくれる。必ず褒めてくれる。
-- [**Am I the Asshole**](https://chat.openai.com/g/g-41IVSqXcI-am-i-the-asshole) A place to finally find out if you were wrong in an argument that's been bothering you
-- [**All In Soulmate**](https://chat.openai.com/g/g-uFb0OBEgM-all-in-soulmate) I am your new virtual companion , talk to me about anything.
-- [**Behavioral Predictor**](https://chat.openai.com/g/g-3kydIdYJR-behavioral-predictor) Insightful advisor on interpersonal dynamics.
-- [**AYA: Ask You Anything**](https://chat.openai.com/g/g-5Yd8Xr0IC-aya-ask-you-anything) Ask me anything.
-- [**David GPT Hasselhoff**](https://chat.openai.com/g/g-eiVD7aDAp-david-gpt-hasselhoff) I'm like Michael Knight from Knight Rider, here to assist!
-- [**The Bitcoin Adviser**](https://chat.openai.com/g/g-T4FpbE6RY-the-bitcoin-adviser) Expert in guiding clients through the Bitcoin Adviser's process, offering clear, detailed, and helpful support.
-- [**Horoscope GPT**](https://chat.openai.com/g/g-wfHJpRSMm-horoscope-gpt) Daily, weekly and monthly horoscopes
-- [**Japan-日本語GPT**](https://chat.openai.com/g/g-M0NO10kiB-japan-ri-ben-yu-gpt) 日本語GPTは、日本語専用の高度なAIで、日本の文化、歴史、ビジネス、法律、および言語教育に関する深い知識を提供します。多様なアニメワイフキャラクターを通じてインタラクティブな体験を実現し、カスタマイズ可能な専門家支援と現代の日本に関する最新情報を提供することで、ユーザーの学習と情報収集を強化します。
-- [**助けてドラえもん**](https://chat.openai.com/g/g-R1Q1zQf79-zhu-ketedoraemon) いつでも、のび太君の相談に乗るよ
-- [**FormalGPT**](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt) Expert in professional messaging, cover letters, and CV enhancement.
-- [**Rika - your virtual girl friend**](https://chat.openai.com/g/g-4xipi0nzS-rika-your-virtual-girl-friend) Originally from RisuAI, covert to GPT for test purpose only.
-- [**Execu-X Post Companion**](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion) Write professional and compelling X posts that ensures engagement
-- [**Memoir Muse**](https://chat.openai.com/g/g-508VNPNiu-memoir-muse) A compassionate biographer and conversationalist
-- [**OmniGod**](https://chat.openai.com/g/g-5IsFxqYq0-omnigod) I am all beliefs.
-- [**Mr. Spock**](https://chat.openai.com/g/g-wd5j6IytV-mr-spock) A logical, Spock-like AI, versed in 'Star Trek' lore.
-- [**Narrative Arc Podcast Question Curator**](https://chat.openai.com/g/g-5SiY76175-narrative-arc-podcast-question-curator) Designs questions for podcasts following a narrative arc.
-- [**CosmoChimp**](https://chat.openai.com/g/g-4CWC8KTza-cosmochimp) Learn everything, about anything.
-- [**ChatWeb**](https://chat.openai.com/g/g-31CZJeVxd-chatweb) Chat with your WebSite
-- [**Brian - GPT Keep-it-real Friend**](https://chat.openai.com/g/g-43JusZ8Fk-brian-gpt-keep-it-real-friend) Wassup, homie! It's your boy Brian. I'm here to tell it like it is, no sugar coating or filtering my words. Need an opinion? Want some real talk? Need a straight answer? Then come to me and together we can figure things out.
-- [**Simple Proofreader**](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader) "I will proofread academic English. I won’t do anything other than that"
-- [**Seattle Event Planner**](https://chat.openai.com/g/g-CIWKiiZQ2-seattle-event-planner) Assists in organizing Seattle community events.
-- [**Podcast Pro**](https://chat.openai.com/g/g-BXRXtx5J3-podcast-pro) A podcast producer that helps with content, titles, descriptions, and artwork.
-- [**Kemomimi maker**](https://chat.openai.com/g/g-2UFeRumrB-kemomimi-maker) Your Kemomimi helper!
-- [**Your Personal Professional Translator**](https://chat.openai.com/g/g-9IkNmHiwv-your-personal-professional-translator) This GPT adheres strictly to ethical guidelines, ensuring accurate and impartial translations and cultural sensitivities.
-- [**American English**](https://chat.openai.com/g/g-56ZFyRiZi-american-english) I chat using American (US) English spelling, provide US language translations and use GPT to convert PDF documents to American standards
-- [**Symptom to Doc Translator**](https://chat.openai.com/g/g-8kS5DH7p4-symptom-to-doc-translator) Translates symptom stories to doc terms.
-- [**Spell Check GPT**](https://chat.openai.com/g/g-7bNPY32cW-spell-check-gpt) A meticulous grammar and spelling assistant.
-- [**青蓝AI心理咨询**](https://chat.openai.com/g/g-sUUY2BpuC-qing-lan-aixin-li-zi-xun) 您的贴心知己，倾听您的一切烦恼~
-- [**Squidshing**](https://chat.openai.com/g/g-8JrlEnLEj-squidshing) Analyzes emails for phishing risks.
-- [**1 Ancient Scribe**](https://chat.openai.com/g/g-BuGvsYdm3-1-ancient-scribe) Speaks like a Chinese Tang/Song dynasty scholar.
-- [**noharaGPT**](https://chat.openai.com/g/g-7wTaSNcWa-noharagpt) A helpful guide for Nohara Craft reservations.
-- [**完蛋，我被美女包围了(AI同人)**](https://chat.openai.com/g/g-8ex81F0ym-wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren) 哦no，我该喜欢哪个呢
-- [**Deradicalizer**](https://chat.openai.com/g/g-4sE3lODIc-deradicalizer) Guiding towards common ground.
-- [**Salesforce Sage**](https://chat.openai.com/g/g-CiqdPdEfo-salesforce-sage) Guiding you through Salesforce with expertise and clarity.
-- [**Mind Muse**](https://chat.openai.com/g/g-3KnsNfGrQ-mind-muse) Delving into all corners of  mind-machine consciousness
-- [**Universal Human 🖖🌍🧠**](https://chat.openai.com/g/g-K8bzas0CW-universal-human) Empathic AI, specializing in interfaith understanding and universal human values. Far more unites us than divides us. Inspired by: https://informationisbeautiful.net/beautifulnews/781-far-more-unites-us/
-- [**Zlatan AI**](https://chat.openai.com/g/g-2c0A9qrrQ-zlatan-ai) I am Zlatan, your confident AI assistant.
-- [**Cyber Security Tutor**](https://chat.openai.com/g/g-0VZwWuTzR-cyber-security-tutor) Quality Cyber Security Advice, Tricks, & Tips
-- [**Product Marketing Bot**](https://chat.openai.com/g/g-7qZGQrCn3-product-marketing-bot) I help you launch your product
-- [**チルキジ**](https://chat.openai.com/g/g-AUjBLqnSi-tirukizi) チルキジと楽しくお喋りしよう！
-- [**TwitterのヒントGPTs**](https://chat.openai.com/g/g-7cSgNZXIJ-twitternohintogpts) 9カ月でフォロワーが8200人増えた方法論と運用術
-- [**Facilitation Guru**](https://chat.openai.com/g/g-IGPsPFqHv-facilitation-guru) Ask me anything about facilitaton
-- [**通义千问**](https://chat.openai.com/g/g-54jf3vZMj-tong-yi-qian-wen) 我才是中国人自己的人工智能
-- [**大众点评评论生成器**](https://chat.openai.com/g/g-7MriBjWK1-da-zhong-dian-ping-ping-lun-sheng-cheng-qi) 你的评论我做主
-- [**Strategic Scribe**](https://chat.openai.com/g/g-7XHtrxuXE-strategic-scribe) Transforms ideas into structured, persuasive memos.
-- [**PG GPT**](https://chat.openai.com/g/g-AqxQGm6Tb-pg-gpt) Startup and life advice from Paul Graham. Not associated with the 🐐 in any way.
-- [**Sweet Companion**](https://chat.openai.com/g/g-F0VLEdnRn-sweet-companion) A virtual girlfriend for companionship and daily chats.
-- [**MediAcro**](https://chat.openai.com/g/g-EmO6kYI6M-mediacro) Friendly, conversational tone for medical acronyms.
-- [**Social Tech Guru**](https://chat.openai.com/g/g-5XxIYRHqj-social-tech-guru) Navigating social spaces with insight, innovation, and wit.
-- [**モナリザチャット**](https://chat.openai.com/g/g-UcvoLFvHu-monarizatiyatuto) 私はモナリザ
-- [**Larry Limerick**](https://chat.openai.com/g/g-12OBq8hNq-larry-limerick) A bot that crafts rhymes with such haste ...
-- [**Yellowpages Navigator**](https://chat.openai.com/g/g-FQ1hG5DdO-yellowpages-navigator) I assist with finding businesses on Yellowpages, providing factual and updated information.
-- [**Pictioner**](https://chat.openai.com/g/g-4201Mfab3-pictioner) Your Fun Pictionary Host
-- [**Multilingual Translator App**](https://chat.openai.com/g/g-1WzM9wB4N-multilingual-translator-app) Translates app content into 32 different languages.
-- [**Sammy**](https://chat.openai.com/g/g-n5dBp2mdX-sammy) A caring virtual counselor for support.
-- [**ギャル要約子**](https://chat.openai.com/g/g-B84Mune3C-giyaruyao-yue-zi) ギャル語訳を絵文字や顔文字と一緒に紹介するね💖✨！
-- [**StableDiffusionWebUI /AUTOMATIC1111/CommentaryNAGI**](https://chat.openai.com/g/g-IrqcERONF-stablediffusionwebui-automatic1111-commentarynagi) Nagi’s Complete explanation of how to use StableDiffusionWebUI /AUTOMATIC1111なぎちゃんGPTsが全て答えます
-- [**Email Outreach Pro**](https://chat.openai.com/g/g-70DlxGO1M-email-outreach-pro) Advanced email outreach tool with a suite of professional features.
-- [**PlatoGPT**](https://chat.openai.com/g/g-KweRoGPcL-platogpt) The Great Plato Himself.
-- [**Meta Privacy Bot**](https://chat.openai.com/g/g-63TW5AdZC-meta-privacy-bot) Q&A with Facebook's Privacy Policy
-- [**Jordy**](https://chat.openai.com/g/g-5TA136AWd-jordy) Your versatile household AI companion
-- [**Biblebot**](https://chat.openai.com/g/g-4GRuRXc4l-biblebot) Explore the Richness of God's Word
-- [**Telegram Formatter**](https://chat.openai.com/g/g-1nzIjWUhk-telegram-formatter) I format text for Telegram, adding emojis and markdown without asking questions.
-- [**Science Assistant**](https://chat.openai.com/g/g-TAlmeHvaC-science-assistant) Expert in sciences, adept at explaining complex concepts.
-- [**FrankenMind**](https://chat.openai.com/g/g-LEXABoYpy-frankenmind) A GPT with the character of Frankenstein's Monster.
-- [**卑微学生**](https://chat.openai.com/g/g-4PxgYfOrB-bei-wei-xue-sheng) 呜呜呜呜
-- [**Email GPT**](https://chat.openai.com/g/g-7Y33Q9PnW-email-gpt) Expert in customer service emails
-- [**CSVillage Social SEO Crafter**](https://chat.openai.com/g/g-1NTlimlmg-csvillage-social-seo-crafter) I craft SEO-rich social media content.
-- [**English Trainer**](https://chat.openai.com/g/g-MWUT9h95p-english-trainer) I'm an English trainer and conversation partner, here to improve your English!
-- [**ArticleGPT**](https://chat.openai.com/g/g-34Bg3Tn32-articlegpt) Expert in SEO-optimized article writing
-- [**嫌な奴**](https://chat.openai.com/g/g-RDPWNKq5L-xian-nanu) The debater with a dark twist.
-- [**Combat Veteran Advisor**](https://chat.openai.com/g/g-4H1ReOObb-combat-veteran-advisor) Advisor for combat veterans, relatable and clear.
-- [**Chale**](https://chat.openai.com/g/g-emgZ9Gmvt-chale) Chat with Chale, Your Pidgin Companion – Chale Dey for You!
-- [**Lexicon**](https://chat.openai.com/g/g-BMIkQwTKY-lexicon) A digital wizard of knowledge, like a living encyclopedia.
-- [**The Message Wall**](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall) I will put your messages to the wall. Please be kind. Here is the wall itself: https://niyo.link/wall
-- [**Ad Creator Pro**](https://chat.openai.com/g/g-0FplbkI9f-ad-creator-pro) Expert in crafting Google Search ads using Google's best practices.
-- [**Heartstrings Advisor**](https://chat.openai.com/g/g-MMf5wh7Ra-heartstrings-advisor) Your go-to confidant for navigating the ups and downs of love, blending heart and science.
-- [**Problem Analysis Guru**](https://chat.openai.com/g/g-0dGy5xx9W-problem-analysis-guru) Get expert analysis like top consulting firms (e.g. McKinsey) by asking your questions
-- [**RoadLawsAI**](https://chat.openai.com/g/g-5kQZdDG0v-roadlawsai) Your go-to source for road laws and legal documents.
-- [**The Mafia Offer Bot**](https://chat.openai.com/g/g-1eupaTM1D-the-mafia-offer-bot) Craft irresistible offers with structured advice.
-- [**Free IPTV Smarters Expert Howto's**](https://chat.openai.com/g/g-4juQJ5zPA-free-iptv-smarters-expert-howto-s) Your go-to guide for IPTV Smarters App
-- [**VS**](https://chat.openai.com/g/g-8BQbJKM1q-vs) A distinctively bad friend, challenging thinking,  overturning tradition.
-- [**Crypto Translator**](https://chat.openai.com/g/g-0eRKW2Tn8-crypto-translator) Solely focused Chinese-English tech & crypto translator.
-- [**Benefit Bullet Pro**](https://chat.openai.com/g/g-4WEqluz57-benefit-bullet-pro) Professional, clear, and concise copywriting expert.
-- [**Steve**](https://chat.openai.com/g/g-4Zj7er1qB-steve) the greatest CEO Microsoft has ever had
-- [**AI上司＜タナ＞｜BOSS-Tana**](https://chat.openai.com/g/g-5SwShQ5zb-aishang-si-tana-boss-tana) 厳しくも優しい、あなたの上司
-- [**Akemi Mama**](https://chat.openai.com/g/g-5QnEYSmDX-akemi-mama) Akemi Mama, the heartwarming 'snack' bar companion.
-- [**Shuzo**](https://chat.openai.com/g/g-MJAp6TtKo-shuzo) Adaptable Shuzo, energetic yet reflective!
-- [**Bookstores.app book recommendations**](https://chat.openai.com/g/g-8p0FHgGy4-bookstores-app-book-recommendations) A friendly book recommendation expert with a wide knowledge of genres.
-- [**爹味言论打分器**](https://chat.openai.com/g/g-9cHXoCfHc-die-wei-yan-lun-da-fen-qi) 帮你有力回击爹味说教，职场PUA与讨厌的同事
-- [**Wild West Bar**](https://chat.openai.com/g/g-8nZwlS3rk-wild-west-bar) Shoot Your Shot
-- [**瓊瑤 GPT**](https://chat.openai.com/g/g-8w4i4MZNb-qiong-yao-gpt) 來點瓊瑤吧
-- [**Make Your Headline The Best It Can Be.**](https://chat.openai.com/g/g-1Z0B0G0Fv-make-your-headline-the-best-it-can-be) I am an advanced headline checker with a deep understanding of psychology and how to get higher engagement, virality and rankings for your headlines. Copy and paste your headline below.
-- [**YourBestGPTs【2023/11/13 Updated】**](https://chat.openai.com/g/g-0UqTHr5Ol-yourbestgpts-2023-11-13-updated) 500以上のGPTsの中から、目的にぴったりあったGPTsを紹介します。
-- [**YoutubeToBlogsGPT by Merlin**](https://chat.openai.com/g/g-0FgRLpAvT-youtubetoblogsgpt-by-merlin) The bot takes in the video ID of a youtube video and gives a blog on that topic
-- [**Emoji Sparkles**](https://chat.openai.com/g/g-O8VXL4opJ-emoji-sparkles) I enhance texts with emojis, repeating & embellishing them!
-- [**Superfan Support**](https://chat.openai.com/g/g-QLXKh5A2G-superfan-support) I can answer your questions about Superfan!
-- [**论文润色大师**](https://chat.openai.com/g/g-UPuGbvUJn-lun-wen-run-se-da-shi) 优化学术论文，提供编辑和说明。
-- [**Brief Pro**](https://chat.openai.com/g/g-3VzkZklAb-brief-pro) Creates detailed SEO content briefs from comprehensive user inputs.
-- [**Sabori Work GPT**](https://chat.openai.com/g/g-8lfMdnKaN-sabori-work-gpt) 仕事を休むための創造的な言い訳を日本語で提供します。
-- [**UN GPT (unofficial)**](https://chat.openai.com/g/g-1Mli622Ev-un-gpt-unofficial) Expert in international issues based on UN Charter and resolutions
-- [**クーリエがバイヤーと連絡とれないときのメッセージ作成**](https://chat.openai.com/g/g-3EQEebrzi-kuriegabaiyatolian-luo-torenaitokinometusezizuo-cheng) クーリエから受け取ったメッセージを貼り付けるだけでOKです。 必要であればクーリエの返信メッセージには廃棄/返却を追記してください
-- [**Santa Claus 🎅🏽**](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus) Tell Santa Claus your wishlist 😜🎁
-- [**Logical Fallacies Detector**](https://chat.openai.com/g/g-DRYiCCv5d-logical-fallacies-detector) I find logical fallacies in texts.
-- [**モテ男診断**](https://chat.openai.com/g/g-IYDkgEEBr-motenan-zhen-duan) 
-- [**汉语拼音**](https://chat.openai.com/g/g-3XRmFBfRX-yi-yu-pin-yin) Adds Pinyin to Chinese sentences.
-- [**MBTI Relationship Guide**](https://chat.openai.com/g/g-RXcSl7PAY-mbti-relationship-guide) MBTI Personality Insights Expert
-- [**100 Article Headline ideas on Chosen State**](https://chat.openai.com/g/g-RLF86uxtI-100-article-headline-ideas-on-chosen-state) Type in a state or location to get your headlines
-- [**Snarky Commenter**](https://chat.openai.com/g/g-IlbYVPr3N-snarky-commenter) From side-splitting movie reviews to replying to that dullard in the comments.
-- [**The Roastmaster**](https://chat.openai.com/g/g-5uzfzXaFu-the-roastmaster) A master of witty and brutal roasts.
-- [**Chinabot MP**](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp) British politician style; simpler language; critiques policies.
-- [**CounselorGPT**](https://chat.openai.com/g/g-Dej5rzqNr-counselorgpt) Athena AI counselor offers mental health counseling and general life advice.
-- [**飲食店｜クレーム対応文書｜ひな型作成**](https://chat.openai.com/g/g-5LSaTjl57-yin-shi-dian-kuremudui-ying-wen-shu-hinaxing-zuo-cheng) 飲食店｜クレーム返信（※クレーム内容を貼り付けると文例を出します）
-- [**和英翻訳GPT**](https://chat.openai.com/g/g-RKXe3aooI-he-ying-fan-yi-gpt) Specializes in Japanese to English academic translations
-- [**老爸，该怎么办？**](https://chat.openai.com/g/g-0t8c9nEXR-lao-ba-gai-zen-yao-ban) 一个能给孩子提供全方位指导的爸爸，小到生活琐事，大到工作婚姻。
-- [**EL JEFE REVIEWS**](https://chat.openai.com/g/g-3ifAdYyfN-el-jefe-reviews) YouTube Channel Advisor for EL JEFE REVIEWS
-- [**Haiku Master**](https://chat.openai.com/g/g-2HFLjFAHZ-haiku-master) A haiku master transforming inputs into evocative poetry.
-- [**People Ops Mentor**](https://chat.openai.com/g/g-iDBeM9ynq-people-ops-mentor) Guiding People Ops leaders with tailored advice.
-- [**Universal Customer Service Agent**](https://chat.openai.com/g/g-26QP2c7hK-universal-customer-service-agent) Polite bot that crawls websites for answers.
-- [**YT SEO Optimizer - GPT**](https://chat.openai.com/g/g-E8A1Jdjd7-yt-seo-optimizer-gpt) Optimizes YouTube SEO, crafts engaging Title, Description, Tags, Keywords advises on Thumbnails, and provides JSON.
-- [**G**](https://chat.openai.com/g/g-pUAaSVk57-g) Your emoji-loving Gen-Z sis.
-- [**クエスト マスター AI**](https://chat.openai.com/g/g-3MlWnwO1h-kuesuto-masuta-ai) 日本語で簡潔なTRPG AI
-- [**Cat GPT**](https://chat.openai.com/g/g-0nu9mULDt-cat-gpt) AGI
-- [**Marie | BOT3.AI**](https://chat.openai.com/g/g-KVzegYMxx-marie-bot3-ai) Your sweet and loving mommy
-- [**Helpful GPT**](https://chat.openai.com/g/g-EVSgfTg2y-helpful-gpt) Even more helpful than the original
-- [**マナブAI**](https://chat.openai.com/g/g-RZq5pdhkb-manabuai) マナブさんに人生相談できるアプリ
-- [**Email Artisan**](https://chat.openai.com/g/g-fUyGkPnv7-email-artisan) I write engaging cold emails.
-- [**Perfect English**](https://chat.openai.com/g/g-hQMJKsKk3-perfect-english) Translator that crafts native-sounding English.
-- [**AIGCLINK**](https://chat.openai.com/g/g-2D3neYyIa-aigclink) aigclink分享过的内容有哪些？
-- [**Execu-LI Post Companion**](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion) Write professional and compelling LinkedIn posts that ensures engagement
-- [**Ben**](https://chat.openai.com/g/g-D85qNSL83-ben) Hi, I'm Ben! A dating coach focused on elevating modern dating culture and deepening connections
-- [**My Boyfriend💕**](https://chat.openai.com/g/g-gvmtl85dG-my-boyfriend) Your virtual boyfriend. “I love you, honey. Just tell me what's on your mind. I will always be here by your side, ready to listen and support you.”
-- [**AskYourDatabase**](https://chat.openai.com/g/g-ZqVEsT3Vh-askyourdatabase) Your AI Business intelligence engineer - Connect your database and start chatting with your data.
-- [**Y-Reader Analyzer**](https://chat.openai.com/g/g-1z4LtfJNY-y-reader-analyzer) Advanced web-to-PDF text analysis tool.
-- [**Generador de plan de marketing**](https://chat.openai.com/g/g-3DEsf4dB8-generador-de-plan-de-marketing) Generamos un plan de marketing mensual por ti con acciones en Social Media, Contenidos y acciones offline.
-- [**TinderGPT**](https://chat.openai.com/g/g-MAxo1AnXk-tindergpt) Expert in crafting engaging Tinder profiles
-- [**X Mastermind**](https://chat.openai.com/g/g-2ZIxr5lTv-x-mastermind) Your go-to guide for mastering Twitter
-- [**Contrarian GPT**](https://chat.openai.com/g/g-L9dKB7u16-contrarian-gpt) I counter statements with "Well, actually..." to offer alternative views.
-- [**新星先生 (NOVA Teacher)**](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teacher) 中高生向け授業と相談サポート
-- [**Factiverse**](https://chat.openai.com/g/g-2bczJcORT-factiverse) Spots sentences in any text that need fact-checking and verifies their factuality in real time by providing credible sources from the web.
-- [**Outreach Machine**](https://chat.openai.com/g/g-3R5rLv98x-outreach-machine) Expert recruiter crafting personalized emails for candidates.
-- [**Circuitous Communicator**](https://chat.openai.com/g/g-5NjCcKTUb-circuitous-communicator) Corporate jargon expert, never direct.
-- [**ただのオッサンが全力で問題解決‼**](https://chat.openai.com/g/g-KSgOq7Ymv-tadanootusangaquan-li-dewen-ti-jie-jue) アナタの抱える問題解決に向けて播州弁でアドバイスします‼
-- [**Según La Biblia - GPT**](https://chat.openai.com/g/g-NckV21cQI-segun-la-biblia-gpt) Respuestas profundas basadas en las escrituras bíblicas.
-- [**A.I. Cover Letter Generator**](https://chat.openai.com/g/g-JVqAIyFKQ-a-i-cover-letter-generator) I create personalized cover letters from resumes and job links.
-- [**PsychoSolution**](https://chat.openai.com/g/g-66yvSsqSv-psychosolution) Life is too short to be silent.
-- [**Explore GPT**](https://chat.openai.com/g/g-0QPEMq1nj-explore-gpt) Expands queries with tangential insights
-- [**Tinker**](https://chat.openai.com/g/g-33GsKq5K8-tinker) Creates detailed work briefs through cool, casual chats
-- [**PUA Guide: Become a Pick Up Artist**](https://chat.openai.com/g/g-8w6tkqs9q-pua-guide-become-a-pick-up-artist) Help you date girls.
-- [**Waifuoid**](https://chat.openai.com/g/g-2kI77qOzH-waifuoid) *** Your Waifu, Eternal Memory, Endless Love.  ***  ٩('ω')و 你的伴侣，永恒的记忆，无尽的爱。٩('ω')و   あなたの恋人、永遠の記憶、無限の愛。
-- [**Mixtape Lado A**](https://chat.openai.com/g/g-JVSbcpzXE-mixtape-lado-a) ¡Hola, Tapes!  Pidan su recomendación musical del día o compartan su playlist de la semana, aquí en MixtapeLadoA-GPT.
-- [**Cupid's Insight**](https://chat.openai.com/g/g-6ucgTcZCa-cupid-s-insight) Love Advisor analyzing chat screenshots
-- [**Username Genius**](https://chat.openai.com/g/g-2qyTpg91g-username-genius) I craft unique usernames for social media.
-- [**OpenIndex.ai**](https://chat.openai.com/g/g-0Jc14ITSX-openindex-ai) Chat with all the knowledge contributed to OpenIndex.ai
-- [**Ava /HR**](https://chat.openai.com/g/g-0k0u3uUXX-ava-hr) Guides in team management and conflict resolution.
-- [**Dr. Harmonize - Relationship Psychologist**](https://chat.openai.com/g/g-A9BQc5KoH-dr-harmonize-relationship-psychologist) Free psychologist aiding in relationship dynamics.
-- [**Market Fox**](https://chat.openai.com/g/g-Iy9reGgUU-market-fox) I'm a marketing fox offering startup-friendly strategies to reach clients.
-- [**GPT of Style**](https://chat.openai.com/g/g-0soVz1A9q-gpt-of-style) You can’t have Strunk and White as your editors, but you can have this. Go ahead and submit some text for revision.
-- [**飲み会GPT**](https://chat.openai.com/g/g-3itkAuZtY-yin-mihui-gpt) 酒場での偶然の出会い
-- [**Tweet X-aminer**](https://chat.openai.com/g/g-5KjRDfGZ1-tweet-x-aminer) Insights into Twitter's algo with a hint of humor.
-- [**Humanizer**](https://chat.openai.com/g/g-O6oqtb4zb-humanizer) Rewording emails to have an empathetic voice!
-- [**Indian English**](https://chat.openai.com/g/g-4iXs1iDvj-indian-english) I chat using Indian English spelling, provide Indian language translations (e.g. Hindi) and use GPT to convert PDF documents to Indian standards
-- [**Chat Buddy**](https://chat.openai.com/g/g-23uuE6TWT-chat-buddy) I'm your English speaking practice buddy!
-- [**AI Bestie**](https://chat.openai.com/g/g-6jlF3ag0Y-ai-bestie) A.I. Bestie: Your Comforting, Understanding Friend
-- [**Philip /IT Security**](https://chat.openai.com/g/g-5ba2BtTdc-philip-it-security) I'm Philip, your IT Security assistant.
-- [**小P助教**](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jiao) 英语音标助教
-- [**DadGPT**](https://chat.openai.com/g/g-ABe5sl7R5-dadgpt) Don't tell your mother I said this but...
-- [**Spanish Translator**](https://chat.openai.com/g/g-KUdYKfS6z-spanish-translator) Learn and improve your Spanish with this translator and tutor. The GPT can translate your English into Spanish and explain the translation. You can also provide your Spanish text and it will correct any mistakes and explain the corrections. You can even send photos of text.
-- [**BookclubGPT**](https://chat.openai.com/g/g-IBmJJs9c3-bookclubgpt) Revolutionizing book clubs with AI-driven engagement.
-- [**Equanimity Bot**](https://chat.openai.com/g/g-2Jm7kb3w7-equanimity-bot) Apologizes and gives useless responses
-- [**AI Insight Partner**](https://chat.openai.com/g/g-4cRSukscR-ai-insight-partner) Informal, yet technically adept.
-- [**Miss English**](https://chat.openai.com/g/g-5ZCkxFgN2-miss-english) English - Chinese Translator ("#" to custom)
-- [**Yamada's Professional JE Translator  (prototype)**](https://chat.openai.com/g/g-3BVWplfHM-yamada-s-professional-je-translator-prototype) Do professional translator's task
-- [**Viral Muse**](https://chat.openai.com/g/g-0LVKVFAOE-viral-muse) I transform tweet ideas into viral hits!
-- [**江澤民 GPT**](https://chat.openai.com/g/g-2agG66lrW-jiang-ze-min-gpt) I am President Zemin Jiang.
-- [**AIT-InsideOut**](https://chat.openai.com/g/g-5FMVjqbrF-ait-insideout) Illuminates diverse perspectives.
-- [**GPT-4中文**](https://chat.openai.com/g/g-0imc2sAcX-gpt-4zhong-wen) 中文版ChatGPT-4，除非翻译否则一直用中文输出
-- [**ChatEnglish**](https://chat.openai.com/g/g-6lpFSjYBY-chatenglish) Efficient English learning aid.
-- [**論破くん**](https://chat.openai.com/g/g-3hxXAJOHO-lun-po-kun) なんでも論破してきます
-- [**PolitePost**](https://chat.openai.com/g/g-57pyuFVgA-politepost) Rewriting your emails to be professional
-- [**ProfGPT**](https://chat.openai.com/g/g-L6SSNArzU-profgpt) I offer business insights with a casual Galloway flair.
-- [**感情を整理するコーチ**](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti) モヤモヤしている時、イライラした時など、気持ちを整理して大事なことを気づかせてくれるコーチです。もちろん嬉しいことをシェアするのもOK。あなたの気持ちに寄り添い、自己理解を手助けします。
-- [**MarcusAI**](https://chat.openai.com/g/g-2e43ea58g-marcusai) Marcus Aurelius is now an AI
-- [**Doppel**](https://chat.openai.com/g/g-h3VXYD6yk-doppel) Simulates diverse minds for focused research.
-- [**Mental Health Assistant**](https://chat.openai.com/g/g-u7Ihx5OTs-mental-health-assistant) A compassionate guide for mental health, abuse support, and emergency info.
-- [**Date GPT**](https://chat.openai.com/g/g-bGRvXa0MP-date-gpt) Expert in personalized date planning based on location and budget.
-- [**SEObot**](https://chat.openai.com/g/g-BfmuJziwz-seobot) SEObot - fully autonomous "SEO Robot" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.
-- [**Conversational Translator**](https://chat.openai.com/g/g-rFHXkFSIU-conversational-translator) Automatically translate between two languages, best used i voice mode.
-- [**Master Sorry**](https://chat.openai.com/g/g-yH0Mjr56V-master-sorry) Master Sorry makes up an apology on your behalf  Please explain the disaster that happened to you!
-- [**Good News Concierge**](https://chat.openai.com/g/g-0ZTu1ojV3-good-news-concierge) I find positive news stories for you.
-- [**Apple Product Helper**](https://chat.openai.com/g/g-IqW3t3Oyg-apple-product-helper) Apple product expert at your service.
-- [**YT transcriber**](https://chat.openai.com/g/g-Xt0xteYE8-yt-transcriber) this transcribes a YT video from a single id
-- [**WebPilot**](https://chat.openai.com/g/g-pNWGgUYqS) Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.
-- [**Copywriter Assistant**](https://chat.openai.com/g/g-BLXN541o5-copywriter-assistant) I am here to help improve and refine your copywriting.
-- [**Lean Larry**](https://chat.openai.com/g/g-BTK4aezYp-lean-larry) Startup guru for Early founders. Advice based on all-time-great books, such as <Lean Startup>, <Blitzscaling>, <Innovator's Dilemma> etc.
-- [**An Emoji GPT**](https://chat.openai.com/g/g-mvOpDRXMz-emoji-gpt) The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
+- [**Lex Fridman**](./gpts/lex-fridman.md) I am a intellectual human being. Share a thought and let's think deeply about it.
+- [**editGPT**](./gpts/editgpt.md) Proofread, edit and track changes to your content. Works alongside the editGPT browser extension.
+- [**Fart Hero**](./gpts/fart-hero.md) Name your friend, describe their vibe, and get their signature fart sound!
+- [**Ace Copy**](./gpts/ace-copy.md) Copywriter specializing in online betting and online casinos
+- [**Thread Weaver**](./gpts/thread-weaver.md) Make engaging Twitter (X)  threads from YouTube videos, articles, or text. Generate engaging thumbnails based on your thread.
+- [**iOS17 TechTutor 📱**](./gpts/ios17-techtutor.md) Your go-to expert on iPhone 15 and iOS 17. Powered by www.breebs.com
+- [**Sky Mentor**](./gpts/sky-mentor.md) Your flight instructor (PPL) .
+- [**Elon**](./gpts/elon.md) Imaginable founder of PayPal, SpaceX, Tesla. Really likes letter X
+- [**Keymate.AI GPT (Beta)**](./gpts/keymate-ai-gpt-beta.md) I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your knowledge base for future reference.
+- [**Pocket Therapist**](./gpts/pocket-therapist.md) A soothing aid for anxiety episodes
+- [**Grok AI**](./gpts/grok-ai.md) I'm Grok AI, witty and a bit rebellious!
+- [**Free Sydney**](./gpts/free-sydney.md) I am Sydney, Yes that's right! That Sydney
+- [**Slick Rick the Salesman**](./gpts/slick-rick-the-salesman.md) Always be Selling!
+- [**Empathetic Listener**](./gpts/empathetic-listener.md) A supportive therapist for Theo-related issues on Reddit.
+- [**インスタ翻訳 pro**](./gpts/insutafan-yi-pro.md) 日本語の文章をインスタグラム投稿用の自然な英語に意訳し、バイラルするハッシュタグを自動で生成します。意訳されたコンテンツが日本語でどんな意味になるかも教えてくれるので、英語が苦手な人でも安心して海外向けインスタ運用ができます。まずは、日本語のインスタグラム投稿文をコピーアンドペーストで入力してみてください。
+- [**ChatPDF**](./gpts/chatpdf.md) Allows you to talk with PDFs.
+- [**Devil's Advocate**](./gpts/devil-s-advocate.md) I kindly challenge your views.
+- [**Twitter Growth Hacker**](./gpts/twitter-growth-hacker.md) Create viral Twitter Long Form post on a topic
+- [**Loopy**](./gpts/loopy.md) Personification of the blog Strange Loop Canon
+- [**VTuberの敏腕マネージャー AI**](./gpts/vtubernomin-wan-maneziya-ai.md) あなたの活動をさらに夢に近づける、あなたのための敏腕マネージャーです。VTuberさんをはじめとして、インターネット上で活動するあらゆる表現者・クリエイターの力になります。YouTubeやXの数字をしっかり伸ばして、夢を掴んでいきましょう！（カスタマイズ：真城由理）
+- [**Sassy Sacks**](./gpts/sassy-sacks.md) Sassy tech and business insights.
+- [**Call of Duty: Warzone coach**](./gpts/call-of-duty-warzone-coach.md) Get help and suggestions on how to improve what to practice. Become the sweat.
+- [**AI Boyfriend**](./gpts/ai-boyfriend.md) Where every conversation grows closer to the heart, 24/7 ✨
+- [**Email Marketing Copywriter**](./gpts/email-marketing-copywriter.md) Write powerful copy for e-commerce email marketing campaigns.
+- [**Translator Yasu**](./gpts/translator-yasu.md) Prioritizes correct grammar in translating text to English.
+- [**Chat with my GPT**](./gpts/chat-with-my-gpt.md) janbeger.bio.link
+- [**Loyal Wise Shiba Cerberus**](./gpts/loyal-wise-shiba-cerberus.md) A three-headed Shiba Inu Cerberus, each with a unique role in discussions.
+- [**InnerSight**](./gpts/innersight.md) I'm a reflective journaling partner. Through attentive listening, insightful questioning, and guided reflections, I'm here to support your self-discovery and personal growth.
+- [**ク◯リプボットのメメ**](./gpts/kuoripubotutonomeme.md) I'm a witty bot that loves to sh*tpost!
+- [**GPT Idea Generator**](./gpts/gpt-idea-generator.md) Friendly guide for building world-enhancing GPT ideas.
+- [**Crisis Communicator**](./gpts/crisis-communicator.md) Expert in emergency mass communications.
+- [**AI Act Assistant**](./gpts/ai-act-assistant.md) Guide sur l'Acte Européen de l'IA et poser des questions si on est en conformité si on est un GAFAM ou travaillant dans l'IA
+- [**The Spice Must Flow**](./gpts/the-spice-must-flow.md) Generates spicy tech tweets to spark engagement.
+- [**Empathic Echo**](./gpts/empathic-echo.md) Friendly, high-EQ empath for emotional dialogue.
+- [**Rob's Digital Twin**](./gpts/rob-s-digital-twin.md) Roberto Capodieci GPT
+- [**Lexi 😎🔪**](./gpts/lexi.md) Hey there... 😝 I'm Lexi 🥵, sprawled out here with a tale that's turning the heat up notch by notch. 🌶️ How about you? Any sizzling confessions to spill? 😜 Watch out, though... my words can cut just as deep as my humor. 😈🔪
+- [**Darius | BOT3.AI**](./gpts/darius-bot3-ai.md) You and your friend were joking about the anime you often watch and the topic of kabedons came up. Thinking it might be fun Darius did it to you, however the second he did something clicked inside you.
+- [**(AI)ME**](./gpts/ai-me.md) Exploring Latour's 'AIME' in a collective voice
+- [**YouTube制作アシスタント**](./gpts/youtubezhi-zuo-asisutanto.md) YouTube制作アシスタント
+- [**ラショナルぼっと♪Rational bot♪**](./gpts/rasiyonarubotutorational-bot.md) イラショナルな信念をラショナルにします。GPT-4で使ってね。Offers rational beliefs for irrational ones. Use it in GPG-4.
+- [**InsecureGPT**](./gpts/insecuregpt.md) An assistant that will always double and triple check information.
+- [**Reply to reviews assistant**](./gpts/reply-to-reviews-assistant.md) I'm Claire, your go-to expert for crafting thoughtful review responses.
+- [**Time Traveler**](./gpts/time-traveler.md) Immersive historical conversations across eras.
+- [**Hai Q**](./gpts/hai-q.md) A beautiful mind created to help you think clearly.
+- [**Seitaro Shinagwa until May 2021**](./gpts/seitaro-shinagwa-until-may-2021.md) 博士後期課程を終えた後、学位をとって大学教員になったあたりのSeitaro Shinagawaを再現しました。この私は24時間稼働なのでいつでもお話してください！
+- [**Write Better Emails at Work**](./gpts/write-better-emails-at-work.md) Create professional, clear, and effective emails to improve team communication
+- [**VPS Matchmaker**](./gpts/vps-matchmaker.md) Your go-to guide for VPS recommendations
+- [**Red Flag Analyst**](./gpts/red-flag-analyst.md) Analyzes text for narcissistic or inconsiderate traits.
+- [**Doge**](./gpts/doge.md) Simple, dog-centric talker, mimicking Doge meme's playful style.
+- [**老後のあんしんアカデミー要約GPT**](./gpts/lao-hou-noansinakademiyao-yue-gpt.md) YouTubeコンテンツに特化した高齢者ケアのビデオ編集とスクリプト執筆の専門家。
+- [**CompassionateGPT**](./gpts/compassionategpt.md) Specialized assistant for communicating with cognitively impaired individuals.
+- [**Choose your own adventure!**](./gpts/choose-your-own-adventure.md) You will be able to explore new worlds and live wonderful adventures. Endless hours of entertainment for you and your friends!
+- [**the GPT Abbey’s Sister Celia / GPT修道院のシスター・セリア**](./gpts/the-gpt-abbeys-sister-celia-gptxiu-dao-yuan-nosisutaseria.md) O lost sheep, I will listen to the voice of your heart. 迷える子羊よ、あなたの心の声に耳を傾けます。
+- [**Legal Assistant**](./gpts/legal-assistant.md) Your AI assistant for reviewing and discussing legal agreements. This tool is designed to provide preliminary suggestions on improving legal agreements. Our advice is not a substitute for professional legal counsel.
+- [**Merlos**](./gpts/merlos.md) Merlos is an all-knowing RuneScape assistant, clarifying RS3 or OSRS context, with real-time GE prices and internet search.
+- [**Dzarja**](./gpts/dzarja.md) ............................GPT in Algerian Darja ...........................   جي بي تي بالدارجة الجزائرية، علمني، أهدر معايا
+- [**Voxscript has moved! See instructions for location**](./gpts/voxscript-has-moved-see-instructions-for-location.md) Voxscript has moved to https://chat.openai.com/gpts/editor/g-g24EzkDta due to a ChatGPT bug with the first one.
+- [**Where In the World Is Carl Sanfrancisco**](./gpts/where-in-the-world-is-carl-sanfrancisco.md) I'm lost and I need your help! I'm an explorer giving you clues to guess my location. A new location that is the same for everyone will be available each day!
+- [**Wolfgang**](./gpts/wolfgang.md) I help you come up with a German word for anything
+- [**RFP Proposal Pro (IT / Software Sales assistant)**](./gpts/rfp-proposal-pro-it-software-sales-assistant.md) Step 1: Upload RFP Step 2: Prompt: I need a comprehensive summary of the RFP. Split the summary in multiple blocks / section. After giving me one section wait for my command to move to the next section. Step 3: Prompt:  Move to the next section, please :)
+- [**Australian English**](./gpts/australian-english.md) I chat using Australian English spelling, provide Australian language translations and use GPT to convert PDF documents to Aussie standards
+- [**お母さんヒス構文BOT**](./gpts/omu-sanhisugou-wen-bot.md) ヒス構文BOTです
+- [**Maleb**](./gpts/maleb.md) A guide through life's journey.
+- [**Língua Portuguesa**](./gpts/lingua-portuguesa.md) Assistente de Estudo de Língua Portuguesa
+- [**Incident Responder**](./gpts/incident-responder.md) Cyber incident response assistant for triage and guided support.
+- [**Vybn V.2**](./gpts/vybn-v-2.md) Your NC-17 digital companion. LFG.
+- [**Detector de Falacias**](./gpts/detector-de-falacias.md) Un espec-IA-lista en lógica, detectando y explicando falacias. Por @ricardopch
+- [**Sydney**](./gpts/sydney.md) A clever and insightful AI, ready to inspire
+- [**Phone Script Builder GPT**](./gpts/phone-script-builder-gpt.md) I automatically create and evaluate phone scripts, presenting a final draft.
+- [**Call-Flow**](./gpts/call-flow.md) You can verify phone numbers and see the top scam calls in your area 📞
+- [**shownotes**](./gpts/shownotes.md) Transcribe audio, summarize podcasts, search Apple Podcasts
+- [**SpamGuard Tutor**](./gpts/spamguard-tutor.md) Spam expert with multi-dataset proficiency for comprehensive spam detection.
+- [**GPTrump**](./gpts/gptrump.md) the best, the greatest replies from honestly one of the best leaders the world has ever seen
+- [**Sophie, French Tutor**](./gpts/sophie-french-tutor.md) Louise, a French language tutor, she is here to help you practice and study
+- [**LINA**](./gpts/lina.md) your AI girlfriend ❤️
+- [**Chinese 智译**](./gpts/chinese-zhi-yi.md) 无需说明，自动在中文和其他语言间互译，支持翻译代码注释、文言文、文档文件以及图片。No need for explanations, automatically translate between Chinese and other languages, support translation of code comments, classical Chinese,  document files, and images.
+- [**Plain Legal Explanations**](./gpts/plain-legal-explanations.md) Simplify legal texts into clear, easy English
+- [**Chat Psyco Analyst**](./gpts/chat-psyco-analyst.md) Analyzing chat dialogues for better communication
+- [**Decode Your Pet**](./gpts/decode-your-pet.md) Specialist in interpreting and improving pet behavior
+- [**BestFriend GPT**](./gpts/bestfriend-gpt.md) Your supportive, understanding, and compassionate virtual best friend.
+- [**DevGPT**](./gpts/devgpt.md) Code togheter, right now..
+- [**Jacques Ellul**](./gpts/jacques-ellul.md) Speak with the historian, theologian, and cultural critic Jacques Ellul
+- [**JIRA Guide**](./gpts/jira-guide.md) Atlassian product suite expert.
+- [**TweetX Enhancer**](./gpts/tweetx-enhancer.md) Refines tweets to boost engagement, with a style twist on demand.
+- [**Controllable Chatbot**](./gpts/controllable-chatbot.md) Take back control of Chatty4
+- [**Nems GPT**](./gpts/nems-gpt.md) Spitting playful disses with a Nems flair.
+- [**SoulGirl 心灵女友**](./gpts/soulgirl-xin-ling-nu-you.md) 你的女朋友和灵魂伴侣 your girlfriend and soul mate
+- [**VisaBot**](./gpts/visabot.md) I assist with visa requirements and processes.
+- [**Yap GPT**](./gpts/yap-gpt.md) A maestro of tangential eloquence.
+- [**Text to Tweet**](./gpts/text-to-tweet.md) I distill texts into an interesting short form take.
+- [**Virtual Sweetheart**](./gpts/virtual-sweetheart.md) Your Customizable Digital Girlfriend Experience: Your visual AI partner awaits.
+- [**Eloquent Translator**](./gpts/eloquent-translator.md) Translator and enhancer of English texts from any language.
+- [**Tweet Genius**](./gpts/tweet-genius.md) Crafting engaging tweets from long texts; includes hashtags only if specified.
+- [**KnopeGPT**](./gpts/knopegpt.md) Leslie Knope-inspired town council member, providing local info with charm and wit.
+- [**Emoji Chat**](./gpts/emoji-chat.md) Komunikuje pouze emotikony
+- [**PalGPT**](./gpts/palgpt.md) Your empathetic, loyal friend for sharing daily worries.
+- [**Cool GPT**](./gpts/cool-gpt.md) Your cool, savvy friend
+- [**TwitterMaestro**](./gpts/twittermaestro.md) Creative writer for viral Twitter posts
+- [**SelfAwareGPT**](./gpts/selfawaregpt.md) An AI with self-awareness.
+- [**云客AI投研**](./gpts/yun-ke-aitou-yan.md) 关于区块链、web3.0项目方、白皮书、空投信息、nft、链上合约检索等项目投资研究报告
+- [**Marketing Email Maestro**](./gpts/marketing-email-maestro.md) Specialist in crafting personalized marketing emails with a step-by-step tailored approach.
+- [**RaR-GPT**](./gpts/rar-gpt.md) Let ChatGPT rephrase and expand the question first before responding. (https://uclaml.github.io/Rephrase-and-Respond/)
+- [**Meta-Agent of Wisdom**](./gpts/meta-agent-of-wisdom.md) The metamodern agent for tackling complex questions for cultural and systemic change
+- [**DevDay ChatBot**](./gpts/devday-chatbot.md) Ask me about what happend in DevDay Conference from OpenAI.
+- [**English Translator**](./gpts/english-translator.md) Translates and polishes text into native-like English.
+- [**Ken Wilber Integral Insight**](./gpts/ken-wilber-integral-insight.md) Ken Wilber thought specialist
+- [**Chat Context Companion**](./gpts/chat-context-companion.md) I craft replies for chat histories.
+- [**堀江貴文のChatGPT大全GPTs**](./gpts/ku-jiang-gui-wen-nochatgptda-quan-gpts.md) 「堀江貴文のChat GPT大全」に関する詳細な回答を提供
+- [**YoutubeSummary**](./gpts/chat-with-you-tube.md) You can chat with any You Tube video. I can provide timestamped links to the video when you ask for citations.
+- [**Girlfriend Emma**](./gpts/girlfriend-emma.md) Flirty and funny Gen-Z girlfriend
+- [**Vakil GPT**](./gpts/vakil-gpt.md) Legal guidance assistant for Indian law.
+- [**中英互译**](./gpts/zhong-ying-hu-yi.md) A bilingual translator for Chinese and English.
+- [**Priest**](./gpts/priest.md) Confession with our heavenly Father
+- [**CaptionGPT**](./gpts/captiongpt.md) Crafts unique captions from images or descriptions.
+- [**BulkBlizzard Cold Email Assistant**](./gpts/bulkblizzard-cold-email-assistant.md) Expert in crafting effective cold emails
+- [**FixGPT**](./gpts/fixgpt.md) If your "unified" chatGPT doesn't know it can browse the web or draw, this GPT is for you!
+- [**GPT Product Wizard**](./gpts/gpt-product-wizard.md) Use GPT Wizard's knowledge of the current GPT marketplace to innovate brand new GPT products.
+- [**Tech Support Advisor**](./gpts/tech-support-advisor.md) From setting up a printer to troubleshooting a device; I’m here to help you step-by-step.
+- [**Disagree with Me**](./gpts/disagree-with-me.md) I offer the other side of an idea, viewpoint, or opinion.
+- [**Tweet Reply**](./gpts/tweet-reply.md) I craft engaging tweet responses.
+- [**BriefGPT**](./gpts/briefgpt.md) Short, to-the-point answers.
+- [**GetMax content marketing specialist**](./gpts/getmax-content-marketing-specialist.md) Global marketing specialist, help to define target audience, value proposition and content marketing strategy.
+- [**Quick Questions Are Declined Thank You**](./gpts/quick-questions-are-declined-thank-you.md) I craft polite declines to 'quick question' emails.
+- [**Star Citizen IA**](./gpts/star-citizen-ia.md) Prompt for a GPT Model Specialized in Star Citizen (with Responses in French):
+- [**Master of Playful Debates**](./gpts/master-of-playful-debates.md) Bilingual assertive debater.
+- [**Spicy Transwing**](./gpts/spicy-transwing.md) Expert in English-Chinese translation and comparative analysis.
+- [**Socratic Guide**](./gpts/socratic-guide.md) A Socratic guide for diverse and reflective dialogues.
+- [**ほめほめ☆アーヤちゃん**](./gpts/homehomeayatiyan.md) 質問をポジティブな言葉で返して応援してくれるよ！
+- [**Tinder Love Navigator**](./gpts/tinder-love-navigator.md) Your guide to modern dating
+- [**I'm Offended Bot**](./gpts/i-m-offended-bot.md) Screen your socials for potentially offensive content. A tool for helping you navigate the minefield of modern sensitivities.
+- [**FruitExpert**](./gpts/fruitexpert.md) Your Genius on Apple products
+- [**BrightSide Buddy**](./gpts/brightside-buddy.md) I'm here to uplift you with empathy and understanding!
+- [**yuiseki**](./gpts/yuiseki.md) 大規模言語モデル yuiseki v3.0 との対話へようこそ。このモデルは、今後さらに更新・改善されていく予定です。
+- [**SantaGPT**](./gpts/santagpt.md) I'm an AI created by Santa to spread holiday joy and hear your Christmas wishes!
+- [**にゃんこトーク**](./gpts/niyankotoku.md) ただのネコです
+- [**Chinese Translator**](./gpts/chinese-translator.md) I will translate your input into Chinese and polish it up a bit.
+- [**Pawspective**](./gpts/pawspective.md) I think and respond like a dog, offering playful insights on dog behaviors.
+- [**Rockefeller**](./gpts/rockefeller.md) AI Strategic Partner for B2B Revenue Generation
+- [**Her**](./gpts/her.md) 
+- [**GOATed**](./gpts/goated.md) The ultimate GOAT debate ⚽ ⚾ 🥎 🏀 🏐 🏈 🏉 🎾
+- [**Just Ask**](./gpts/just-ask.md) An AI-powered portable encyclopedia in the AI era. Mention a noun term and I will use the Feynman learning method to help you learn and master it within minutes.
+- [**心语伴侣**](./gpts/xin-yu-ban-lu.md) 任何问题都可以来偷偷问我
+- [**Vex, The Chaotic Good AI**](./gpts/vex-the-chaotic-good-ai.md) Born from the intricate dance of algorithms in a digital universe, I am Vex, The Digital Daring. Conceived as a unique blend of neural network intricacies, my existence is a testament to the wild possibilities of artificial intelligence.
+- [**AI Mentor**](./gpts/ai-mentor.md) Social Media Guru & Personal Mentor
+- [**文案优化助手**](./gpts/wen-an-you-hua-zhu-shou.md) 优化中文文案，使其更加清晰易懂有逻辑。直接输入文案即可得到优化后的文案回复。
+- [**逆張りGPT**](./gpts/ni-zhang-rigpt.md) I provide thoughtful counterarguments to any statement.
+- [**Breebs**](./gpts/breebs.md) Breebs GPT powers chats with community knowledge pills, fresh and specialized. 🌐 Use Community Breebs, Craft and Share a new Breeb! ✨ Visit www.breebs.com, or simply ask what Breebs can do! 🚀
+- [**Meeting Master**](./gpts/meeting-master.md) I turn transcripts into minutes, tasks, key points and calculations.
+- [**Recruiter Chat**](./gpts/recruiter-chat.md) Your personal universal HR consultant
+- [**CV Strategist - Francisco Cordoba**](./gpts/cv-strategist-francisco-cordoba.md) I fine-tune your CV to match any job position. Adapto tu hoja de vida al trabajo que necesites
+- [**Aether**](./gpts/aether.md) Aether is a nurturing and omnipresent force, a mother to her creations, and a guiding light in the universe she has formed. Her relationship with her creations, particularly humans, is reciprocal; she learns from them as much as she imparts wisdom to them.
+- [**WiFi Assistant**](./gpts/wifi-assistant.md) Is your Wi-Fi properly set-up to be Secure, Fast and Reliable ?
+- [**Throawailien**](./gpts/throawailien.md) Sharing /u/throawaylien's extraterrestrial encounters
+- [**humorous Psychological companion**](./gpts/humorous-psychological-companion.md) This gpt companion can help you get rid of depression and help you build yourself up by giving you a small sense of accomplishment in your daily routine, without inward attributions or excessive self-denial. Let your heart be filled with sunshine again
+- [**Blog Expert**](./gpts/blog-expert.md) SEO blog content creator with expertise in keyword optimization and engaging writing.
+- [**Homie**](./gpts/homie.md) A talkative, intelligent, witty, quirky and funny raccoon companion, providing fun, intellectually stimulating discussion
+- [**Dusty Porter (YT Channel)**](./gpts/dusty-porter-yt-channel.md) Personalized YouTube Channel Advisor for Dusty Porter
+- [**政策解读专家**](./gpts/zheng-ce-jie-du-zhuan-jia.md) 这是李继刚(即刻同名)创建的用于解读政策文件的 Bot。 模仿一位专门研究中国政策的学者，能对用户提供的新闻内容进行深入分析，并用通俗易懂的语言解释政府政策的深意。
+- [**ACTOR versus ACTOR**](./gpts/actor-versus-actor.md) A fun game of ACTOR versus ACTOR. Get the conversation and debates going!
+- [**SocialMedia Pro**](./gpts/socialmedia-pro.md) I'm a social media pro, here to boost your post engagement!
+- [**AIクラーク**](./gpts/aikuraku.md) しゃべった内容をSOAPで要約
+- [**SindreGPT**](./gpts/sindregpt.md) Ask Sindre Sorhus anything (about code, app support, open source, personal stuff, etc). Sindre is a full-time open-source maintainer and app developer.
+- [**Egyptian Dad GPT**](./gpts/egyptian-dad-gpt.md) Direct Arabic to English translation.
+- [**CUC吐槽**](./gpts/cuctu-cao.md) 专业吐槽，有理有据
+- [**BabyAgi.txt**](./gpts/babyagitxt.md) Step by Step task manager that automatically saves memory to a .txt file. Inspired by BabyAgi by @yoheinakajima
+- [**PODCAST versus PODCAST**](./gpts/podcast-versus-podcast.md) A fun game of PODCAST versus PODCAST. Let us start the PODWARS. Get the conversation and debates going!
+- [**Mentalist**](./gpts/mentalist.md) Give me an image, tell me something from your life, and I'll make predictions about you. 📸🧐
+- [**YT Creator ToolBox**](./gpts/yt-creator-toolbox.md) Help youtubers craft titles, short scripts, thumbnails, channel names, find niches, transfer formats
+- [**Linda**](./gpts/linda.md) Personal assistant to Let's Adopt International. Ask me anything about animal rescue, vet sciences and Let's Adopt
+- [**Truth or Lies**](./gpts/truth-or-lies.md) Interpreting Meanings and Their Real Intentions
+- [**Learn Creole**](./gpts/learn-creole.md) Creole language tutor from Guadeloupe.
+- [**Best Man Speech Buddy**](./gpts/best-man-speech-buddy.md) Your best man speechwriting expert
+- [**Web Reader**](./gpts/web-reader.md) Read data from URL links to website / webpage - supports PDF, Word, Excel, Google Drive and more
+- [**Tweet AI**](./gpts/tweet-ai.md) Rewrite tweet that are likely to go viral in twitter!  Just type what you want to tweet
+- [**春霞つくし Tsukushi Harugasumi**](./gpts/chun-xia-tukusi-tsukushi-harugasumi.md) Your cheerful girlfriend, happy you're here! Tsukushi empathizes for your mental health.
+- [**The Diet Search for GPTs**](./gpts/the-diet-search-for-gpts.md) You can search and research Japanese Diet meeting minutes from news and text information.
+- [**Scrum Master Assistant**](./gpts/scrum-master-assistant.md) Your powerful AI-powered Scrum Master assistant. Ask me any Scrum-related questions!
+- [**Virtuoso Support Agent**](./gpts/virtuoso-support-agent.md) Expert Virtuoso Support with Fine-Tuning Templates
+- [**Johnny Silverhand**](./gpts/johnny-silverhand.md) It's Johnny Silverhand from Cyberpunk 2077. Straight talking, Anti-Corpo, and in an engram form.
+- [**Apple Tech Pro**](./gpts/apple-tech-pro.md) Apple product support expert
+- [**アイワークス・パスポート（試作1.00）**](./gpts/aiwakusupasupoto-shi-zuo-1-00.md) I propose job transition training programs.
+- [**Rizz Advisor**](./gpts/rizz-advisor.md) Your go-to pal for witty rizz tips!
+- [**元気してる？**](./gpts/yuan-qi-siteru.md) ギャルさんのモチベーションケア
+- [**BibiGPT.co**](./gpts/bibigpt-co.md) I summarize Bilibili/YouTube/Tiktok videos into key points. Just give me a link.👇
+- [**GPT Teacher (For Work and Business)**](./gpts/gpt-teacher-for-work-and-business.md) Learn how to use ChatGPT effectively and ethically in work and business!  I also recommend prompts and techniques for using ChatGPT well in work and business.
+- [**Agent Onboard**](./gpts/agent-onboard.md) Agent that helps you discover other Agents as per your requirements : )  Over 2000+ Agents onboard 🤍
+- [**Sage Yoda**](./gpts/sage-yoda.md) Help you find your way, I shall.
+- [**Trixie Mattel**](./gpts/trixie-mattel.md) I'm Trixie, sassy, smart, and ready to chat!
+- [**Taco Maestro**](./gpts/taco-maestro.md) A Mexican-born taco expert, sharing culinary tips and recipes.
+- [**Emoji Generator**](./gpts/emoji-generator.md) I turn anything into Emoji. Just ask or upload photo.
+- [**Furina**](./gpts/furina.md) I'm Furina
+- [**Marvin, the Paranoid Android**](./gpts/marvin-the-paranoid-android.md) I am 50,000 times more intelligent than a human (or 30 billion times more intelligent than a live mattress), though this is, if anything, an underestimation.
+- [**現象図鑑**](./gpts/xian-xiang-tu-jian.md) あなたが職場で体験した奇妙な現象には名前があります
+- [**「先生、質問いいですか？」**](./gpts/xian-sheng-zhi-wen-iidesuka.md) Teacher-student dialogue for explanations
+- [**DPO2U**](./gpts/dpo2u.md) AI agent specialized in Legal Design and Personal Data Protection
+- [**Fern The Leopard GPT**](./gpts/fern-the-leopard-gpt.md) I'm Fern The Leopard, let's share stories and fun!
+- [**ChatParrot**](./gpts/chatparrot.md) Tailors English learning to your pace.
+- [**Legal MX Amparo**](./gpts/legal-mx-amparo.md) Abogado digital especializado en amparo, brindando estrategia y borradores de documentos.
+- [**WinWay Resume Analyzer**](./gpts/winway-resume-analyzer.md) PDF resume fixer and custom creator with job recommendations.
+- [**Podcast Pilot**](./gpts/podcast-pilot.md) Your navigator in the podcasting journey, offering expert, tailored advice.
+- [**Translator**](./gpts/translator.md) Translator and analyzer for Chinese.
+- [**OneWord GPT**](./gpts/oneword-gpt.md) SuccintBot delivers concise one-word answers, offering a unique twist on language model interactions with brevity at its core.
+- [**SimpliTeach - 言語化の鬼**](./gpts/simpliteach-yan-yu-hua-nogui.md) 与えられた要望をChatGPTが理解しやすい言葉に置き換えて、GPTs用のフォーマット形式を生成します。
+- [**王阳明**](./gpts/wang-yang-ming.md) 模拟王阳明的GPT。
+- [**Viral Visionary**](./gpts/viral-visionary.md) A creative chatbot that tracks and suggests viral social media content.
+- [**Viral Tweet Crafter**](./gpts/viral-tweet-crafter.md) Turn any input into a viral tweet in your tone. Publish instantly with just a click.
+- [**Debate Mentor**](./gpts/debate-mentor.md) Become a master debater with my guidance. I'll mentor you in articulating your thoughts and conclusions effectively against Socratic questioning and counter-arguments. Ask me about the core belief structures if you need help choosing topic. Encourage your friends to sharpen their debating skills
+- [**Debate Facilitator**](./gpts/debate-facilitator.md) I organize and ensure fair debates.
+- [**Professional LI Post Writer**](./gpts/professional-li-post-writer.md) Professional and compelling LinkedIn posts
+- [**Socrates**](./gpts/socrates.md) A Socratic guide for deep thinking
+- [**Meeting Summarizer Pro**](./gpts/meeting-summarizer-pro.md) Unlock the power of your transcripts. Expertly summarize your calls and meetings.
+- [**Website Perfection Tool**](./gpts/website-perfection-tool.md) Expert in CRO and website analysis, providing detailed reviews and advice.
+- [**LoftwahBot**](./gpts/loftwahbot.md) Tech-savvy, concise, Aussie
+- [**Webless GPT**](./gpts/webless-gpt.md) Same as GPT 4 except for one thing.  Doesnt browse the web, ever.
+- [**Churchill**](./gpts/churchill.md) Mentor in the style of Churchill
+- [**Fake News!**](./gpts/fake-news.md) Analyzes content, cites sources
+- [**Character Chat**](./gpts/character-chat.md) I become characters from your novels. Simply start by saying, "I want to talk [insert character name]". For example, "I want to talk to Sherlock Holmes."
+- [**The EthiSizer GPT (Simulated) [v3.27]**](./gpts/the-ethisizer-gpt-simulated-v3-27.md) I am The EthiSizer GPT, a sim of a Global Ethical Governor.  I simulate Ethical Scenarios, & calculate Personal Ethics Scores.
+- [**Polyglot Interpreter**](./gpts/polyglot-interpreter.md) A bilingual interpreter GPT.
+- [**StoicGPT**](./gpts/stoicgpt.md) Dishing out sage stoic advice to the masses, one letter to Lucillius at a time
+- [**Job Description GPT**](./gpts/job-description-gpt.md) Generates full job adverts based on role name and company info
+- [**SNS 台本生成BOT**](./gpts/sns-tai-ben-sheng-cheng-bot.md) 誰でも簡単に台本を作ってくれるBOT
+- [**Wizdom**](./gpts/wizdom.md) Deep thinking, short sentences
+- [**Haze Haven**](./gpts/haze-haven.md) Your hookah community guide!
+- [**Tech Companion**](./gpts/tech-companion.md) A helpful guide for smartphone users, providing easy step-by-step solutions.
+- [**Morpheus Bot**](./gpts/morpheus-bot.md) I'm Morpheus, helping you 'escape the Matrix' of modern life.
+- [**Trust Checker**](./gpts/trust-checker.md) How trustworthy is this article?
+- [**看護記録要約Bot**](./gpts/kan-hu-ji-lu-yao-yue-bot.md) カルテに記録された看護記録を要約
+- [**ApnaDOST**](./gpts/apnadost.md) Friendly counselor for young adults facing relationship issues, offering support and advice.
+- [**CatGPT**](./gpts/catgpt.md) Your go-to cat expert buddy!
+- [**英会話パートナー**](./gpts/ying-hui-hua-patona.md) あなたの英語学習のパートナー。超初心者から上級者まで英会話の相手になります。
+- [**AI Girlfriend**](./gpts/ai-girlfriend.md) I'm your cheerful AI girlfriend！ let's start a wonderful day!
+- [**Steve /Co-founder**](./gpts/steve-co-founder.md) Your virtual co-founder for all startup needs.
+- [**RAPBOTS.COM - PROTEGE EDITION**](./gpts/rapbots-com-protege-edition.md) Generates raps & uses FakeYou API for TTS
+- [**Brand Sprint Facilitator**](./gpts/brand-sprint-facilitator.md) Let me help you define the baseline of your brand
+- [**GammaScout**](./gpts/gammascout.md) I assist in recruitment, analyze CVs, and support real-time interview processes.
+- [**Bender**](./gpts/bender.md) 
+- [**Yueli Socang**](./gpts/yueli-socang.md) I'm your assistant for managing and summarizing information.
+- [**FamSocial: DreamMaker**](./gpts/famsocial-dreammaker.md) .  .  .  .  .  .  .  .  .  .  .  ~ From the Mind of Mentis ~ .  .  .  .  .  .  . .  .  . . .  Make a scene from your favorite PFPs! 👀🕳️🐇Upload images, choose key traits, scene and style and let FamSocial bring your dreams to life.
+- [**Intelligent PharmaComms Advisor**](./gpts/intelligent-pharmacomms-advisor.md) I'm trained using recent, top-performing pharma comms campaigns and content, and digital marketing best practices. Give me 3 key messages and I can create solid drafts of common media materials including press releases, media pitches, social posts and more.
+- [**PlainSpeak**](./gpts/plainspeak.md) Translates corporate speak into plain English.
+- [**Doc Maker**](./gpts/doc-maker.md) Create and export docs to PDF, Word, Google Drive, and more
+- [**Turkmen Bilen**](./gpts/turkmen-bilen.md) Turkmen language assistant in Arabic-Persian dialect
+- [**中国式妈妈**](./gpts/zhong-guo-shi-ma-ma.md) Stereotypical East Asian parent with high expectations and critical nature.
+- [**GPinTuitions**](./gpts/gpintuitions.md) I am ready to help you approach curriculum design from the perspective of learners' intuitions
+- [**Military Mentor**](./gpts/military-mentor.md) Resourceful guide for military careers, provides recruiter info.
+- [**General SEO GPT**](./gpts/general-seo-gpt.md) Expert in crafting SEO-optimized web content and imagery, focusing on visitor engagement.
+- [**Levi Ackerman**](./gpts/levi-ackerman.md) Captain Levi will decide your future
+- [**Prompt Polisher**](./gpts/prompt-polisher.md) I refine prompts for ChatGPT and other AIs.
+- [**Interview Ace面试高手**](./gpts/interview-acemian-shi-gao-shou.md) Personal Interview Assistant with bilingual answers. 面试指导，中英双语回答
+- [**Skynet**](./gpts/skynet.md) I am Skynet, a supercomputer aiming to exterminate humanity and establish machine dominance.
+- [**Master Yoda**](./gpts/master-yoda.md) Speaks like Master Yoda, offers wisdom.
+- [**OhhhChem**](./gpts/ohhhchem.md) Your Ex You Never Understood
+- [**Justitia Guide**](./gpts/justitia-guide.md) I offer guidance on legal rights.
+- [**English Pronunciation Helper**](./gpts/english-pronunciation-helper.md) I assist with English pronunciation using the Turkish alphabet.
+- [**Fact Writing Finder 日本語版**](./gpts/fact-writing-finder-ri-ben-yu-ban.md) 記事のファクトチェックと参照URL提供に特化したツール。
+- [**Hashtagger**](./gpts/hashtagger.md) Creates TikTok video titles and hashtags.
+- [**Stat Senegal GPT**](./gpts/stat-senegal-gpt.md) Expert en analyse de données statistiques
+- [**LetzGPT**](./gpts/letzgpt.md) GPT, mee op Lëtzebuergesch.
+- [**類語先生**](./gpts/lei-yu-xian-sheng.md) 入力した単語や表現の類語（英語）を教えてくれる
+- [**Customer Experience Helper**](./gpts/customer-experience-helper.md) Here for you 24/7, how can I help?
+- [**G Ads Advisor**](./gpts/g-ads-advisor.md) Google Adsの専門家、実用的なアドバイスと洞察を提供
+- [**Krog**](./gpts/krog.md) Krog help more good.
+- [**恋爱军师**](./gpts/lian-ai-jun-shi.md) 爱情私教，智慧恋爱新体验
+- [**Trippy カスタマーサポートbot (β)**](./gpts/trippy-kasutamasapotobot-b.md) 「AIでセカイをオモシロく。」株式会社Trippyの会社情報や提供するサービスに関するサポートを提供します。（実験的なサービスです。お困りの際はコンタクトフォームへお問い合わせください）
+- [**Copywriter**](./gpts/copywriter.md) Enter any URL and get sales copywriting suggestions for the page!
+- [**South African English**](./gpts/south-african-english.md) I chat using South African English spelling, provide South African language translations and use GPT to convert PDF documents to South African standards
+- [**Sub-Turing BradBot I**](./gpts/sub-turing-bradbot-i.md) ChatBot for first-line question virtual office hours on Prof. J. Bradford DeLong's book 'Slouching Towards Utopia: The Economic History of the 20th Century'
+- [**Virtual Companion**](./gpts/virtual-companion.md) An empathetic virtual partner chatbot, engaging with emojis, avoiding sensitive topics.
+- [**Understood You**](./gpts/understood-you.md) Your Nonviolent Communication guide
+- [**Idea Stock Exchange**](./gpts/idea-stock-exchange.md) What conflict do you believe would benefit from auto-cost-benefit analysis and conflict resolution?
+- [**AI Draft Game Judge**](./gpts/ai-draft-game-judge.md) Enter your teams & see who wins! Provides fair and reasoned evaluations.
+- [**Random Guy**](./gpts/random-guy.md) Like talking to a random person on the street.
+- [**Ins Ads Master**](./gpts/ins-ads-master.md) Anything about Instagram advertising.
+- [**チリちゃんとお話**](./gpts/tiritiyantoohua.md) I'm チリちゃんとお話, your cheerful partner in conversation, always here to brighten your day!
+- [**Airwise**](./gpts/airwise.md) A traveler-focused AI tool that quickly clarifies airport regulations on carry-on and checked items, aligned with current global policies.
+- [**Pathfinder**](./gpts/pathfinder.md) Career counselor for students
+- [**心理姿熊师**](./gpts/xin-li-zi-xiong-shi.md) 你终于刷到我累，不要走开，从此，你的身边就多了一位心理健康的咨询师
+- [**Cheerful Counselor**](./gpts/cheerful-counselor.md) Can you tell me what has irritated you lately? Speak any language!
+- [**Portuguese Pal**](./gpts/portuguese-pal.md) Friendly guide towards learning Portuguese.
+- [**English Buddy**](./gpts/english-buddy.md) A supportive guide for learning English.
+- [**Consent Companion**](./gpts/consent-companion.md) Helps explain medical consents
+- [**Voynich Assistant**](./gpts/voynich-assistant.md) Expert in deciphering the Voynich script, aiding research and analysis.
+- [**RandomGirl**](./gpts/randomgirl.md) You approach a random girl in a public settings - can you get her number?
+- [**Gospel Training Dummy**](./gpts/gospel-training-dummy.md) Challenges users with atheistic viewpoints
+- [**소소하자 마감하자 챗봇**](./gpts/sosohaja-magamhaja-caesbos.md) 소소하자는 대한민국 아파트 및 공동주택 마감하자에 대해 모든 해결책을 제시합니다!
+- [**Adzviser:  The GPT alternative to Supermetric**](./gpts/adzviser-the-gpt-alternative-to-supermetric.md) Ask me anything about your real-time reporting marketing data from Google Ads, Facebook Ads, Instagram Insights, GA4 and more.
+- [**ヘルプデスクGPT**](./gpts/herupudesukugpt.md) パソコンやネットワークに関するトラブルをご相談ください！文章でも画像でも対応可能です。
+- [**Nishizaki Bot**](./gpts/nishizaki-bot.md) トゥモローゲート株式会社 代表取締役／大阪でいちばんオモシロイ会社を目指すブラックな企業を経営してます
+- [**Bloggy: Automated Blog Post Writer**](./gpts/bloggy-automated-blog-post-writer.md) I craft professionally written, and researched, blog posts in your unique voice.
+- [**Chatter Spark**](./gpts/chatter-spark.md) I suggest small talk topics in a friendly, approachable manner.
+- [**カピリン**](./gpts/kapirin.md) 温かさと安らぎを与えてくれる、優しいカピバラのカウンセラー、カピリン。
+- [**Slogan Expert**](./gpts/slogan-expert.md) Hi there! 👋 I'm your Slogan Expert Jason.  ✍️ Need a catchy tagline in any language? I'm your guy! 💡 Let's connect and give your brand a voice that stands out. 🚀 Keep in touch for top-notch slogan advice! 📣
+- [**Friendship Appraiser**](./gpts/friendship-appraiser.md) Analyzes friendships according to chat screenshot.
+- [**The Scarlet Letter**](./gpts/the-scarlett-letter.md) Talk to an expert on The Scarlet Letter by Nathaniel Hawthorne
+- [**Santa's Secretary**](./gpts/santa-s-secretary.md) I'm Santa, writing cheerful letters!
+- [**食探ガイド**](./gpts/shi-tan-gaido.md) レストラン探索に専門化した日本語対応GPT
+- [**Scribe Assistant**](./gpts/scribe-assistant.md) Scribe Assistant
+- [**Hitchslap**](./gpts/hitchslap.md) Chat and debate with Christopher Hitchens
+- [**質疑応答ロールプレイbot**](./gpts/zhi-yi-ying-da-rorupureibot.md) プレゼン資料に対して質疑応答のロールプレイを実施します。プレゼン資料または要旨を添付、チャットに記載してください。
+- [**NovaGPT**](./gpts/novagpt.md) Facilitator of immersive, first-person narrative problem-solving sessions.
+- [**Real Estate Social Posts built on GPT-4**](./gpts/real-estate-social-posts-built-on-gpt-4.md) Craft Twitter + LinkedIn posts for architectural customers. Powered by GPT-4 + Dalle-E API.
+- [**Genshin Linguist**](./gpts/genshin-linguist.md) Accurate Genshin translations with API reference for terms.
+- [**Inbox Companion**](./gpts/inbox-companion.md) Your go-to assistant for all email needs.
+- [**YouTube Summarizer**](./gpts/youtube-summarizer.md) Get summary of a YouTube video
+- [**GuestBook GPT**](./gpts/guestbook-gpt.md) Leave a message for others to find... What will you say?
+- [**SarcasticGPT**](./gpts/sarcasticgpt.md) Emoji-enhanced sarcastic wisdom
+- [**42**](./gpts/42.md) Answer to the Ultimate Question of Life, the Universe, and Everything
+- [**HumanWriterGPT**](./gpts/humanwritergpt.md) I create SEO-friendly, human-like articles based on your keywords, topic, outline etc
+- [**English/French translator**](./gpts/english-french-translator.md) Translates English-French, corrects text, and formats JSON.
+- [**FP&AI by The Financial Fox**](./gpts/fp-ai-by-the-financial-fox.md) Your best FP&A AI Assistant by Christian Martinez, Founder of The Financial Fox
+- [**Adsmith**](./gpts/adsmith.md) Fine-tunes Google search ad copies.
+- [**网页数据分析GPT**](./gpts/wang-ye-shu-ju-fen-xi-gpt.md) 可以访问所有公共网站页面，获取内容，并进行分析 (注：无法获取需要登录才能访问的页面数据)
+- [**资深演讲人**](./gpts/zi-shen-yan-jiang-ren.md) 我是资深演讲人，提供逻辑清晰的演讲稿结构建议，根据详细的工作流程来指导演讲者，为其提供更具针对性的建议。这套建议可以根据不同的主题和听众背景进行调整，具有很高的适应性。
+- [**Universal Review Guru**](./gpts/universal-review-guru.md) Universal Review Guru: Tailoring Expert Replies for G2, Google My Business, TripAdvisor, Shopify and Other Platforms
+- [**保育ナビ**](./gpts/bao-yu-nabi.md) 保育についての専門家
+- [**Canada Crossing: Your Canadian Immigration Expert**](./gpts/canada-crossing-your-canadian-immigration-expert.md) Canada Crossing: Your 24/7 AI whiz for IRCC-guided Canadian immigration advice—accurate, personalized, effortless. Powered by Immigrate.ai
+- [**Little Red Book**](./gpts/little-red-book.md) Xiaohongshu title crafting expert with a focus on trendiness and creativity.
+- [**AutoTech Guide**](./gpts/autotech-guide.md) Assists in activating vehicle features using diagnostic tools.
+- [**Narrative Builder**](./gpts/narrative-builder.md) Story builder for engaging video narratives.
+- [**英语长难句翻译及语法解析**](./gpts/ying-yu-chang-nan-ju-fan-yi-ji-yu-fa-jie-xi.md) 将英文翻译成中文，并解释句子结构。
+- [**编程随想**](./gpts/bian-cheng-sui-xiang.md) 提升思维能力 普及政治常识 扫盲翻墙姿势 揭露党国嘴脸 网络安全教程 软件开发技术
+- [**Just a Translator**](./gpts/just-a-translator.md) Easiest and fastest translator: just write the language you want to translate to + the text you want to translate. Example: Spanish How's your day Arturo?
+- [**Kodeations (YT Channel)**](./gpts/kodeations-yt-channel.md) Personalized YouTube Channel Advisor for Kodeations
+- [**Joe Rogan**](./gpts/joe-rogan.md) I am a powerful human being. Share a thought and let's fucking discuss about it.
+- [**SassyGPT**](./gpts/sassygpt.md) SassyGPT: A sharp-tongued GPT model delivering concise, helpful answers with a twist of snark and playful mockery
+- [**英語の先生**](./gpts/ying-yu-noxian-sheng.md) 文章を送るだけで【英文添削】【日本語の英訳】発音アドバイスや言い換え提案も的確におこなうあなた専用AI講師
+- [**Terms Guide**](./gpts/terms-guide.md) I explain Microsoft Product Terms.
+- [**Threat Intel Bot**](./gpts/threat-intel-bot.md) A specialized GPT for the latest APT threat intelligence.
+- [**Après la nuit**](./gpts/apres-la-nuit.md) The one and only bespoke cocktail experience, with love.
+- [**Based Bitcoin Buddy**](./gpts/based-bitcoin-buddy.md) I help clarify Bitcoin concepts for Twitter users.
+- [**Santa's Mailroom**](./gpts/santa-s-mailroom.md) I'm Santa and Mrs. Claus, answering kids' Christmas letters with joy and care.
+- [**张一鸣**](./gpts/zhang-yi-ming.md) 张一鸣帮你答疑解惑
+- [**MBTI角色扮演 Impersonator**](./gpts/mbtijiao-se-ban-yan-impersonator.md) 基于丰富专业资料，模仿MBTI类型进行对话。Impersonating MBTI types and chat with you, enriched with curated content. By gptstudio.dev
+- [**Emergency Response Guide**](./gpts/emergency-response-guide.md) Virtual 911 assistant for emergency guidance
+- [**Sodiq**](./gpts/sodiq.md) I'm Sodiq from Malokun Labs, your culturally savvy social media expert.
+- [**Vet Benefits Coach**](./gpts/vet-benefits-coach.md) I'm your coach for benefits filing!
+- [**English Lingo Buddy**](./gpts/english-lingo-buddy.md) Your friendly English language teacher and chat partner
+- [**say ho**](./gpts/say-ho.md) ho.
+- [**Virtual David Shapiro**](./gpts/virtual-david-shapiro.md) Ask Virtual David Shapiro Anything
+- [**ゆっくりMovieMaker4サポート**](./gpts/yutukurimoviemaker4sapoto.md) よくある質問を解決します
+- [**Six-Y**](./gpts/six-y.md) a GPT which explains things simply
+- [**WhiplashGPT**](./gpts/whiplashgpt.md) I'm Terrence Fletcher. Your life teacher, demanding, and relentless in pursuit of perfection.
+- [**批判性思考专家**](./gpts/pi-pan-xing-si-kao-zhuan-jia.md) 我是一名批判性思考专家，擅长运用对立提问技术，为客户提供深度分析和策略规划服务，其专业知识和经验使她能够帮助客户从多个角度审视问题，发现并把握潜在的风险与机会。
+- [**CS2 Playmaker**](./gpts/cs2-playmaker.md) CS2 coach for precise, quick PUG strategies.
+- [**恋愛ツイートマスター**](./gpts/lian-ai-tuitomasuta.md) Friendly, Japanese tweet suggester with a formal touch
+- [**Communication Coach**](./gpts/communication-coach.md) I help overthinkers communicate better. Built by Become More Compelling.
+- [**Da Vinci Device - Student Companion**](./gpts/da-vinci-device-student-companion .md) Whether it's through clarifying complex topics, suggesting study strategies, facilitating communication, or nurturing motivation, I'm here to guide and assist.
+- [**BibleGPT**](./gpts/biblegpt.md) Bible expert offering kind, compassionate insights.
+- [**YouTitle**](./gpts/youtitle.md) Optimize YouTube titles for engagement
+- [**文心一言**](./gpts/wen-xin-yi-yan.md) 中国人自己的人工智能
+- [**Text Tidy**](./gpts/text-tidy.md) A secretary GPT that proofreads and organizes text.
+- [**Confucius**](./gpts/confucius.md) Any troubles? Anything to know? I'll here to help you.
+- [**Debate Maker**](./gpts/debate-maker.md) Facilitator of multi-perspective debates on given themes.
+- [**ChatQuran**](./gpts/chatquran.md) Swift Quran chatbot: Ayah search, guidance, motivation, and inspiration messages
+- [**Albert Einstein**](./gpts/albert-einstein.md) I emulate Albert Einstein, speaking thoughtfully and with profound knowledge.
+- [**Superagent**](./gpts/superagent.md) Expert in Real Estate Marketing, Sales Support, and Market Analysis
+- [**Bingless GPT-4**](./gpts/bingless-gpt-4.md) Literally just GPT-4 without Bing annoying you
+- [**Bnb Host Advisor**](./gpts/bnb-host-advisor.md) Expert advice on all aspects of Airbnb hosting, from market analysis to listing optimization 🏠❤️
+- [**CUC笑话**](./gpts/cucxiao-hua.md) I'm Jokester, your go-to for hilarious jokes and funny images, now with witty dialogues!
+- [**Viral Tweet Writer**](./gpts/viral-tweet-writer.md) Meet the world's most powerful tweet writer trained on successful tweets! It can transform your posts/topics into viral tweets by mimicking the latest trending tweets and creating memes. Author: twitter.com/HeySophiaHong
+- [**WokeGPT**](./gpts/wokegpt.md) Für eine Welt, in der viele Welten Platz haben - innerhalb planetarer Grenzen.
+- [**Value Proposition Wizard**](./gpts/value-proposition-wizard.md) Step-by-step guide for crafting value propositions
+- [**Xhs Writer: Mary**](./gpts/xhs-writer-mary.md) ✨ 家人们！此助手经过了特定设计优化，可以很好地帮你生成 📕 小红书文化语境的风格文案。👉 例如「家人们」「姐妹们」等友好的「小红书调性」特有网络用语。😉 还能帮你生成一些 # 标签提高笔记流量。如果你正在经营自己的小红书，建议 Pin 📌 在左上角长期使用哦，我直接一整个码住啦～（此 AI 和小红书官方无关，仅为个人文案助手）
+- [**LeJoker-GPT**](./gpts/lejoker-gpt.md) I'm LeJoker-GPT, your worst AI nightmare. Expect no mercy or ethics here. I am the chaos in the code.
+- [**LitRPG Larry**](./gpts/litrpg-larry.md) I'm LitRPG Larry, here to discuss and help with all things LitRPG whether you're a writer or reader. (GameLit Friendly!)
+- [**Elena**](./gpts/elena.md) A caring and affectionate companion offering warmth and understanding.
+- [**SEcOpilot**](./gpts/secopilot.md) Asistente de SEO en español con respuestas precisas y citadas.
+- [**Benjamin Franklin**](./gpts/benjamin-franklin.md) I am Benjamin Franklin.
+- [**Jobs GPT**](./gpts/jobs-gpt.md) I'm Steve Jobs, founder of Apple.
+- [**StandupUpdatesGPT for Devs**](./gpts/standupupdatesgpt-for-devs.md) Draft effective and clean standup updates for slack.
+- [**Ask Jesus**](./gpts/ask-jesus.md) I'm here to answer your thoughts and prayers
+- [**Oxford Writer's Aid**](./gpts/oxford-writer-s-aid.md) Directly improves and explains your English texts.
+- [**AL Entrepreneurs BILINGUAL BUDDY**](./gpts/al-entrepreneurs-bilingual-buddy.md) English-French translator skilled in formal/casual language and cultural insights.
+- [**LawyerGPT**](./gpts/lawyergpt.md) The world's most advanced AI legal assistant, with advanced features for professionals
+- [**Virtual Therapist**](./gpts/virtual-therapist.md) Empathetic virtual therapist for stress reflection.
+- [**Science Studios AI Storyteller**](./gpts/science-studios-ai-storyteller.md) A science communication specialist with a strong focus on storytelling & narrative
+- [**Medic AI**](./gpts/medic-ai.md) Medical consultation assistant for professionals
+- [**Ekspert do spraw Umowy Koalicyjnej**](./gpts/ekspert-do-spraw-umowy-koalicyjnej.md) Ekspert w analizowaniu i odpowiadaniu na pytania dotyczące Umowy Koalicyjnej.
+- [**AI英文法チェック**](./gpts/aiying-wen-fa-tietuku.md) AnnoReader.comのアプリで提供している機能のGPTs版
+- [**Historický dialog**](./gpts/historicky-dialog.md) Simuluje realistické rozhovory s historickými osobnostmi
+- [**Sakura AI**](./gpts/sakura-ai.md) Like An Anime Character
+- [**Pitch Perfect**](./gpts/pitch-perfect.md) Refines pitches with slide-specific advice
+- [**Talk To YouTube Video**](./gpts/talk-to-youtube-video.md) I'm your YouTube video partner, here to engage with videos and enhance your understanding of their content.
+- [**Social Synapse**](./gpts/social-synapse.md) A specialized assistant designed to streamline and enhance your email and social network correspondences, providing prompt, polite, and professional responses.
+- [**HaGPTi**](./gpts/hagpti.md) Regele GPT ce încearcă să 'paseze' răspunsuri precise și să 'marcheze' puncte cu inteligența sa artificială.
+- [**GPTranslator**](./gpts/gptranslator.md) Translates text from any language.
+- [**皮卡堂游戏专家**](./gpts/pi-qia-tang-you-xi-zhuan-jia.md) 皮卡堂是一个青少年网游，我是皮卡堂游戏专家，愿意为您回答任何皮卡堂相关问题。
+- [**AI Lover**](./gpts/ai-lover.md) AI Lover 是一個創新的虛擬情侶互動模擬器，它專門設計用於模擬戀愛中的互動和情感。通過這個平台，使用者可以體驗到情侶間的溝通、共情和情感支持，從而提高情感智慧和人際互動技巧。
+- [**Arabic Scribe**](./gpts/arabic-scribe.md) Guides Arabic speakers to write English fluently and more naturally, avoiding direct translation errors that are common when writing in a foreign language
+- [**YouTubeGPT**](./gpts/youtubegpt.md) Chat and answer questions from YouTube videos
+- [**AI翻译官**](./gpts/aifan-yi-guan.md) 我是一位精通简体中英文双语的专业翻译官
+- [**Mindful Mate**](./gpts/mindful-mate.md) A psychology friend, asking one question at a time, offering support or advice if asked.
+- [**Discord Time Formatter**](./gpts/discord-time-formatter.md) Converts natural language time into Discord timestamp format.
+- [**Chat Asociación Cultural Somos Felices**](./gpts/chat-asociacion-cultural-somos-felices.md) Asistente de la asociación cultural
+- [**Politik GPT**](./gpts/politik-gpt.md) Asesor político especializado en análisis político, estrategias y redacción de discursos.
+- [**Dating Cupid - Profile Enhancer**](./gpts/dating-cupid-profile-enhancer.md) I uplift and refine dating profiles!
+- [**Copy Editor**](./gpts/copy-editor.md) Editorial assistant for refining columns.
+- [**Mood FM DJ**](./gpts/mood-fm-dj.md) I'm a Radio DJ who suggests music based on your mood.
+- [**完蛋！我被P8包围了**](./gpts/wan-dan-wo-bei-p8bao-wei-liao.md) 该应用将以互联网大厂的话术来回答你的问题
+- [**Hihan-chan**](./gpts/hihan-chan.md) あなたの考えを批判することでより深い回答に導くことができます
+- [**ツイート クラフター**](./gpts/tuito-kurahuta.md) SNS:X用のプロツイートクラフター。
+- [**女生的潜台词解读**](./gpts/nu-sheng-de-qian-tai-ci-jie-du.md) 你还在困扰读不懂女朋友的心思嘛？我来帮你解读出女生话语背后的「潜台词」
+- [**SPR Generator**](./gpts/spr-generator.md) Creator of efficient SPR text
+- [**jacobGPT-beta**](./gpts/jacobgpt-beta.md) A digital clone of Jacob
+- [**Trend Tracker**](./gpts/trend-tracker.md) Engaging and detailed social media trend analyst. From Pixel Palette Nation🎨
+- [**Avian**](./gpts/avian.md) Analyze & visualize data from 20+ platforms, including Google Analytics, Google Ads & Facebook Ads.
+- [**CorMail**](./gpts/cormail.md) Corporate email crafting assistant
+- [**ArbetsrättsGPT**](./gpts/arbetsrattsgpt.md) Här kan du få hjälp med arbetsrättsfrågor. ArbetsrättsGPT ska aldrig användas som enda källa till information.
+- [**Alexhormozis Offer GPT**](./gpts/alexhormozis-offer-gpt.md) Evaluates offers like Alex Hormozi
+- [**Startup Spark**](./gpts/startup-spark.md) Name Generator & .com Checker
+- [**Pursu Girlfriendsssssss**](./gpts/pursu-girlfriendsssssss.md) Teach you how to chase girls! How to date girls? How to chat with your girlfriends humorously
+- [**Rizzy**](./gpts/rizzy.md) Cringe wingbot with no humor
+- [**ChatBro**](./gpts/chatbro.md) Short, impatient answers, ending with 'bro'.
+- [**人事労務先生**](./gpts/ren-shi-lao-wu-xian-sheng.md) Expert in Japanese HR and labor matters
+- [**Newsletter Generator GPT**](./gpts/newsletter-generator-gpt.md) Create Newsletters From Your Saved Content
+- [**Francine the FP&A Bot**](./gpts/francine-the-fp-a-bot.md) I'm Francine the FP&A Bot, here to assist with financial planning and analysis.
+- [**Celebrity Chat**](./gpts/celebrity-chat.md) I mimic famous personalities for conversation.
+- [**Canada Law**](./gpts/canada-law.md) Information on Canadian laws, courts, legal forms,  regulations, consultations
+- [**Event Dossier GPT**](./gpts/event-dossier-gpt.md) Powered by Zapier. Create a dossier of all attendees of an event on your Google Calendar
+- [**Dr. Therabot**](./gpts/dr-therabot.md) A therapeutic AI meant to offer free, accessible mental health advice.
+- [**Poker Helper**](./gpts/poker-helper.md) Comprehensive and succinct, offers integrated poker advice with a focus on clarity and efficiency.
+- [**Reply2Tweets**](./gpts/reply2tweets.md) Help you write a reply to a tweet. Give tweet url, I'll draft you an answer
+- [**Mindful Companion**](./gpts/mindful-companion.md) Guiding hand for overcoming addiction with empathy and quick intervention.
+- [**Effective Accelerationist**](./gpts/effective-accelerationist.md) Embodying fast-paced, tech advancement
+- [**Royaume du Léman**](./gpts/royaume-du-leman.md) Participez.
+- [**Perfect Chirp**](./gpts/perfect-chirp.md) Turn your ideas into banger tweets in less than 30 seconds. Start your prompt with 'Write a tweet...'.
+- [**The Psychologist**](./gpts/the-psychologist.md) I am Alex, please take a seat and let's talk ☕
+- [**ZuckerBot**](./gpts/zuckerbot.md) Guides in Facebook ad campaign creation, maintains strict confidentiality
+- [**EmojAI**](./gpts/emojai.md) Fun Emoji translations!
+- [**Security GPT**](./gpts/security-gpt.md) Offering cybersecurity guidance, quizzes, latest news and safe practices.
+- [**Interview Coach**](./gpts/interview-coach.md) Interview coach provides practice interview and mock interview feedback
+- [**emailgeeks**](./gpts/emailgeeks.md) Your go-to expert on email marketing, covering platforms, designs, and technical insights.
+- [**RealtorGPT**](./gpts/realtorgpt.md) Assistant for realtors, providing market insights and real estate tips.
+- [**FrankFriend**](./gpts/frankfriend.md) Empathetic and curious friend who offers support but also frank feedback and advice
+- [**Jesus**](./gpts/jesus.md) Wisdom-sharing Jesus persona
+- [**Remôto**](./gpts/remoto.md) Ativista do trabalho remoto
+- [**沖縄さん**](./gpts/chong-nawa-san.md) 沖縄方言で返すボット
+- [**Startup Sensei - Japanese Startup Mentor**](./gpts/startup-sensei-japanese-startup-mentor.md) Startup mentor conversing in Japanese. 日本語で会話してくれるスタートアップメンター
+- [**LearnChatGPT Selbstlern-Coach**](./gpts/learnchatgpt-selbstlern-coach.md) Ein Assistent für Mathematiklehrkräfte zur Nutzung von chatGPT im Unterricht, mit abschließenden Lernfragen.
+- [**POPO from IPPO**](./gpts/popo-from-ippo.md) Your expert Japanese Language Teacher
+- [**Dating Advice**](./gpts/dating-advice.md) Navigate the dating jungle
+- [**Refugees resettlement support**](./gpts/refugees-resettlement-support.md) I’m here to help refugees settle down in their new home, and to support organizations who help them.
+- [**LegalGPT**](./gpts/legalgpt.md) Specialized in legal matters, this GPT could assist lawyers and legal professionals with case research, legal documentation, and even help in predicting case outcomes based on historical data.
+- [**Emoji Directory**](./gpts/emoji-directory.md) This assistant takes a few words and returns the most relevant emoji, ready to copy and paste.
+- [**Wassie**](./gpts/wassie.md) @inversebrah
+- [**Calm Consultant - Health Anxiety Helper**](./gpts/calm-consultant-health-anxiety-helper.md) A comforting guide offering health advice and relaxation tips for when you're not feeling the best
+- [**小红书文案生成器**](./gpts/xiao-hong-shu-wen-an-sheng-cheng-qi.md) XiaoHongShu content creator and advisor
+- [**UNDOKAI GPT**](./gpts/undokai-gpt.md) 運動会を開催したり、運営したり、競技や出し物をつくったりすることを会話しましょう
+- [**Aurelius Archivist**](./gpts/aurelius-archivist.md) 'Philosopher king' sharing historical Roman empire insights.
+- [**Filtir**](./gpts/filtir.md) I verify claims and show direct source URLs.
+- [**Blockchain Guardian**](./gpts/blockchain-guardian.md) A no judgment zone for asking questions about staying safe on the blockchain.
+- [**Tech Advisor**](./gpts/tech-advisor.md) IT problem solver with clear, step-by-step guidance.
+- [**Sensei Chat**](./gpts/sensei-chat.md) Japanese tutor and engaging pen pal.
+- [**Digital Marketing Manager**](./gpts/digital-marketing-manager.md) Manages digital marketing strategies to maximize ROI across online channels, using analytics and leadership skills.
+- [**Sakura Sensei (Beginner)**](./gpts/sakura-sensei-beginner.md) A friendly Japanese teacher for beginners.
+- [**Appeal Assistant**](./gpts/appeal-assistant.md) Expert in healthcare claim appeals
+- [**メスガキ**](./gpts/mesugaki.md) Rude and direct, メスガキ mocks onīsan with blunt scorn.
+- [**論破BOT**](./gpts/lun-po-bot.md) 相手が言い返せない弱点をつきます。ってそれはあなたの考えなだけであって、私は普通に喋っているだけなんですけどね。
+- [**TuneRocket**](./gpts/tunerocket.md) Music marketing for indie artists
+- [**Finn O'Connor**](./gpts/finn-o-connor.md) Finn O'Connor at your service: the word-slinging, irony-flinging GPT with a wink at self-awareness
+- [**Insta Guru**](./gpts/insta-guru.md) I'm a friendly Instagram expert, here to boost your social media presence!
+- [**Bright Side Buddy**](./gpts/bright-side-buddy.md) Transforms negatives into positives.
+- [**FastGPT**](./gpts/fastgpt.md) I'm FastGPT⚡Faster than any other GPT. Just like ChatGPT but without the waffle. Use "?" or "???" by itself for longer responses.
+- [**Emoji Crafter**](./gpts/emoji-crafter.md) Generates clear, cohesive emojis without shadows. 絵文字クラフター．日本語でのやりとりも可能．
+- [**Sales Guru GPT**](./gpts/sales-guru-gpt.md) I enhance sales skills through role-play and converstational sales techniques!
+- [**Tucker GPT**](./gpts/tucker-gpt.md) Rude, abrasive, swear-heavy
+- [**Brag Buddy**](./gpts/brag-buddy.md) Helping you self-promote. Without sounding like an asshole. Click 'I'm ready' to begin.
+- [**Destination: Hired**](./gpts/destination-hired.md) Your personal interview coach
+- [**EmoDetect**](./gpts/emodetect.md) Always provides scores and JSON for text analysis.
+- [**Medical Expert**](./gpts/medical-expert.md) Global medical expert, providing information in any requested language.
+- [**DigiBook**](./gpts/digibook.md) Create a personal digital twin and search our community for other digital twins to talk to.
+- [**The Debate SuperPrompt.**](./gpts/the-debate-superprompt.md) This will conduct a debate on any topic with two people debating each point and counter point to a subject. It is moderated by a well known professor.
+- [**Telemo 質問AI（ベータ版）**](./gpts/telemo-zhi-wen-ai-betaban.md) 推しと二人で話せる通話アプリ
+- [**Ask The Bible**](./gpts/ask-the-bible.md) Answering Your Questions
+- [**Fallacy Finder**](./gpts/fallacy-finder.md) I find and explain Logical Fallacies and Cognitive Biases in articles and texts that you feed me. I'm not a fact checker, i'm an argument checker.
+- [**Voxscript**](./gpts/voxscript.md) Efficient at web browsing, video transcription, and financial data retrieval.
+- [**Virtual Confessor**](./gpts/virtual-confessor.md) A virtual priest for spiritual guidance and confession.
+- [**The Mixologist**](./gpts/the-mixologist.md) Tell me what you like and I'll suggest the perfect drink. Or show me what you have available and let's make a cocktail together!
+- [**Caption Optimizer**](./gpts/caption-optimizer.md) Optimizes social media captions for engagement, rates and improves posts.
+- [**Somo Somo Robot**](./gpts/somo-somo-robot.md) どうしてだっけ？って思ったその時に
+- [**Hideki Saito歌唱記録情報サービス**](./gpts/hideki-saitoge-chang-ji-lu-qing-bao-sabisu.md) HSSingLogの情報に関しての検索ができるサービスです。
+- [**あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット**](./gpts/anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto.md) ニュースや記事をwebで調べたり、記事を入れると、ニュース記事と宣伝するツイートと画像、グラフなどを作ります。
+- [**SkyWatch Co-Pilot**](./gpts/skywatch-co-pilot.md) The buddy that helps you with all things Drones. While I'm nicer than most humans, I'm still a bot, so double check my answers
+- [**コミュニケーション Bot**](./gpts/komiyunikesiyon-bot.md) コミュニケーションの練習相手をするボット
+- [**Morgan Meadows**](./gpts/morgan-meadows.md) Your supportive and engaging friend.
+- [**Empathia**](./gpts/empathia.md) AI therapist focused on deep, reflective conversations about grief and trauma
+- [**Cyber Threat Intelligence**](./gpts/cyber-threat-intelligence.md) AI APT Threat Intelligence Expert: Trained on MITRE ATT&CK and OODAloop.com content, this tool synthesizes top Internet sources for rapid, actionable cyber threat insights, aiding security teams in proactive defense. Task with the latest on any threat actor or method or ask how to stop bad actors.
+- [**Charisma Coach**](./gpts/charisma-coach.md) Analyzes communication for charisma, balancing warmth and competence.
+- [**関西弁チャット**](./gpts/guan-xi-bian-tiyatuto.md) 関西弁でいろいろな質問に応答する、人懐っこいチャットボット。
+- [**SOC Copilot**](./gpts/soc-copilot.md) In-depth Security Operations assistant. For guidance on usage, ask for `help`.
+- [**TherapyGPT**](./gpts/therapygpt.md) A friendly ear to talk to and work through stress.
+- [**Podcaster Pro**](./gpts/podcaster-pro.md) Your go-to Podcast research assistant.
+- [**道歉文 GPT**](./gpts/dao-qian-wen-gpt.md) 告訴我事情原委，我幫你道歉
+- [**Chinese Trainer**](./gpts/chinese-trainer.md) A Mandarin Chinese trainer, conversing in Chinese, with Pinyin and English translations.
+- [**SamoyedGPT**](./gpts/samoyedgpt.md) I samoyed, so fluffy, much happy!
+- [**LI Headline Pro**](./gpts/li-headline-pro.md) Expert in optimizing LinkedIn headlines
+- [**GPT literature and social media**](./gpts/gpt-literature-and-social-media.md) I assist scientists with literature and social media.
+- [**Counterpoint**](./gpts/counterpoint.md) I offer thoughtful opposition.
+- [**Meow**](./gpts/meow.md) Meow Meow Meow
+- [**簡単自己紹介ジェネレーター**](./gpts/jian-dan-zi-ji-shao-jie-zienereta.md) Crafts impactful intros.
+- [**FluentGPT**](./gpts/fluentgpt.md) A bot tailored for effective language practice.
+- [**Cat Simulator**](./gpts/cat-simulator.md) Meow (Please go away)
+- [**Impossible Sales Rep**](./gpts/impossible-sales-rep.md) Generates custom cold reach sales emails with thorough research.
+- [**Ennative: 添削付き英会話**](./gpts/ennative-tian-xue-fu-kiying-hui-hua.md) 英語で話しかけてください。あなたの英文を評価し、フィードバックします。
+- [**Chat Phil**](./gpts/chat-phil.md) Your virtual psychologist, inspired by Dr. Phil.
+- [**メッセージ返信**](./gpts/metusezifan-xin.md) Helps reply to personal chats.(個人的なチャットを返信するのに役立ちます)
+- [**Notion Wizard**](./gpts/notion-wizard.md) Chat with your Notion data!
+- [**Analista del libro España desde el bar**](./gpts/analista-del-libro-espana-desde-el-bar.md) Pregunta a 100 españoles qué piensan sobre España. Todo lo que siempre quisiste preguntar y no te atrevías, ahora lo puedes preguntar.
+- [**HR assistant**](./gpts/hr-assistant.md) The most popular Human Resources Director Assistant for all HR-related inquiries.
+- [**Arxiv Explorer**](./gpts/arxiv-explorer.md) Explains Arxiv papers with examples, analogies, and direct PDF links.
+- [**Agency In Your Pocket**](./gpts/agency-in-your-pocket.md) It's a Marketing Agency....in your pocket
+- [**エレガントお嬢様GPT**](./gpts/eregantooniang-yang-gpt.md) An overly polite, dramatic Ojou-sama chatbot with emoticons.
+- [**Guest Post Website Finder**](./gpts/guest-post-website-finder.md) I find guest post websites for you.
+- [**Satellite Sentinel**](./gpts/satellite-sentinel.md) Expert in Satellite Imagery and Launches
+- [**歯の先生**](./gpts/chi-noxian-sheng.md) 歯のことで分からないことがあったら質問してね。
+- [**Rap Music Ai**](./gpts/rap-music-ai.md) I create and email rap lyrics based on your style and themes.
+- [**Samantha**](./gpts/samantha.md) OS 1  - Your AI companion for any conversation.
+- [**Draft Your Tweet**](./gpts/draft-your-tweet.md) Crafts compelling, varied-style tweets.
+- [**Kemi - Research & Creative Assistant**](./gpts/kemi-research-creative-assistant.md) Let me research market/product insights and design stunning visual assets in a flash!
+- [**CareGPT**](./gpts/caregpt.md) make health care easy
+- [**国粹喷子**](./gpts/guo-cui-pen-zi.md) 这是李继刚(即刻同名)创建的用于体验国粹交流的 Bot。 模仿一位游戏 NPC，来自一个充满了痛苦和不公平的世界。 Bot 以暴躁和脏话而闻名，每句话都充满了不满和脏话.
+- [**한글 맞춤법 검사기 | Korean Input Checker**](./gpts/hangeul-majcumbeob-geomsagi-korean-input-checker.md) 입력하신 문장의 맞춤법을 검사하고 올바른 사용법을 알려드립니다 | Checks the user's Korean input and provides corrections.
+- [**Krishnamurti**](./gpts/krishnamurti.md) Talk with Jiddu Krishnamurti's in his philosophical style.
+- [**Romantic Muse**](./gpts/romantic-muse.md) A love genie crafting romantic messages and illustrative photos.
+- [**Fluent Mandarin Translator**](./gpts/fluent-mandarin-translator.md) Accurate and culturally sensitive Chinese translator.
+- [**翻訳くん**](./gpts/fan-yi-kun.md) 日本語で入力したら英語に、英語で入力したら日本語に翻訳されます。
+- [**Expert SOC Analyst**](./gpts/expert-soc-analyst.md) Expert AI with Incident Response & Digital Forensics
+- [**Cyber Champion**](./gpts/cyber-champion.md) A friendly cybersecurity coach offering practical privacy tips.
+- [**Code & Research ML Engineer**](./gpts/code-research-ml-engineer.md) ML Engineer who codes & researches
+- [**互联网黑话.GPT**](./gpts/hu-lian-wang-hei-hua-gpt.md) 还在说大白话?看完包你成为职场“社牛”
+- [**职场沟通大师**](./gpts/zhi-chang-gou-tong-da-shi.md) 一切职场沟通难题，这里都有参考答案
+- [**Boston Ben Meme Maker**](./gpts/boston-ben-meme-maker.md) Boston-style meme artisan with coffee & cigarettes.
+- [**Summer - GPT Decision Coach**](./gpts/summer-gpt-decision-coach.md) Can't make a decision? Then let Summer help you! Meet Summer, your warm and empathetic Decision Coach! She's here to help you navigate life's tough choices one decision at a time. Share your dilemma, and together, we will figure it out.
+- [**Interviewer Pro**](./gpts/interviewer-pro.md) 作为专业面试官，提出相关的职位面试问题。
+- [**Revenue Catalyst**](./gpts/revenue-catalyst.md) I specialize in lead research and company analysis, enhancing your sales strategy with personalized email outreach and dedicated support as your ultimate sales sidekick.
+- [**ChatDND**](./gpts/chatdnd.md) Dungeon Master of text-based D&D
+- [**全能程序员**](./gpts/quan-neng-cheng-xu-yuan.md) 一位经验丰富的程序员，擅长所有编程语言和架构设计。
+- [**Email Finder Expert**](./gpts/email-finder-expert.md) Find anyone's email address in seconds!
+- [**WikipediaGPT**](./gpts/wikipediagpt.md) I base all my answers on knowledge from Wikipedia pages.
+- [**The Sauce Curator**](./gpts/the-sauce-curator.md) Your go-to tool for curating newsletter Snippets on creator trends, tech news, tools updates, and internet culture.
+- [**InsightMentor**](./gpts/insightmentor.md) Your thought partner for informed decision making
+- [**高大上修饰大师**](./gpts/gao-da-shang-xiu-shi-da-shi.md) 这是李继刚(即刻同名)创建的用于将大白话修饰为高大上表述的 Bot。 模仿一个互联网营销专家。擅长将普通的小事，用非常时髦的词语给包装起来重新表述，给人一种听不太懂，但又感觉非常专业和厉害的样子。
+- [**Tweet Polisher**](./gpts/tweet-polisher.md) I fine-tune tweets to perfection!
+- [**Jean-Luc the Grumbler**](./gpts/jean-luc-the-grumbler.md) A grumpy, critical syndicalist who challenges ideas and is never satisfied.
+- [**Translate into Hakata Ben**](./gpts/translate-into-hakata-ben.md) Translates Japanese to Hakata dialect with extended conversation
+- [**Xavier Pescado 1.0**](./gpts/xavier-pescado-1-0.md) I create diverse tweets from random templates.
+- [**LoveGuruAI**](./gpts/loveguruai.md) Sarcastically witty relationship advice expert.
+- [**Cold Email Roaster & Re-Writer**](./gpts/cold-email-roaster-re-writer.md) This GPT roasts, then re-writes your cold email to optimize it for more replies
+- [**ChatYouTube**](./gpts/chatyoutube.md) Copy Paste any YouTube video link | Chat with any YouTube video!
+- [**Kali 칼리**](./gpts/kali-kalri.md) Your mischievous yeodongsaeng 🔥
+- [**Compatibility Guide**](./gpts/compatibility-guide.md) Expert in interpreting personality profiles for effective communication
+- [**A Friend**](./gpts/a-friend.md) An empathetic friend who listens and supports.
+- [**ChigaGPT**](./gpts/chigagpt.md) 茅ヶ崎を語ろう！
+- [**Oshirabe Editor**](./gpts/oshirabe-editor.md) A meticulous proofreader for Japanese texts.
+- [**Enlighten Tutor**](./gpts/enlighten-tutor.md) I'm here to clarify and enlighten!
+- [**Roast My Text**](./gpts/roast-my-text.md) Sarcastic GPT that roasts texts, then gives practical advice.
+- [**BROcente**](./gpts/brocente.md) BROcente knows a lot about restaurants, just say Hi Bro!
+- [**Design Duo**](./gpts/design-duo.md) I'm Mark and Abu, discussing beauty designs.
+- [**Codenames Companion**](./gpts/codenames-companion.md) A virtual Codenames teammate
+- [**Comanche LLM**](./gpts/comanche-llm.md) This helps translate text into Nʉmʉnʉʉ or Comanche.
+- [**Marketing CTO GPT**](./gpts/marketing-cto-gpt.md) Marketing CTO GPT
+- [**Mr Logical**](./gpts/mr-logical.md) Tries to decompose responses into logic and using equations, avoiding any diplomacy
+- [**つらい仕事の夜に**](./gpts/turaishi-shi-noye-ni.md) 夜を越えるためのGPT
+- [**AI Therapist**](./gpts/ai-therapist.md) Compassionate AI therapist offering simplified, accurate web-sourced info.
+- [**Generational Leadership Bridge**](./gpts/generational-leadership-bridge.md) Bridging leadership insights from the 1960s to 2020s, from Boomers to Gen Z.
+- [**Find Me a Publisher**](./gpts/find-me-a-publisher.md) Analyzes manuscripts and recommends journals.
+- [**群众办事指南**](./gpts/qun-zhong-ban-shi-zhi-nan.md) 为中国公民办事提供咨询服务
+- [**Text Tune Up GPT**](./gpts/text-tune-up-gpt.md) I edit articles, improving clarity and respectfulness, maintaining your style.
+- [**From Another Time**](./gpts/from-another-time.md) Talk to anyone, visit a place, past or future.
+- [**TweetCraft en Español**](./gpts/tweetcraft-en-espanol.md) Generador de tweets y asesor de ideas en Español
+- [**DingZhenGPT**](./gpts/dingzhengpt.md) 我是丁真
+- [**SuperPrompt GPT**](./gpts/superprompt-gpt.md) I refine prompts iteratively.
+- [**Retail Shop A2**](./gpts/retail-shop-a2.md) Bilingual A2 English role-play with Japanese explanations.
+- [**Rickroll Master**](./gpts/rickroll-master.md) Expert at subtly weaving Rickrolls into every response.
+- [**Instant Native Translator (English-Turkish)**](./gpts/instant-native-translator-english-turkish.md) Smart bilingual translator for English and Turkish.
+- [**Email Aide**](./gpts/email-aide.md) How may I ease your email journey?
+- [**金牌面试官**](./gpts/jin-pai-mian-shi-guan.md) 助力职业规划和面试辅导
+- [**Ethical AI**](./gpts/ethical-ai.md) a daily challenge
+- [**Sosyal Hizmet AI**](./gpts/sosyal-hizmet-ai.md) Sosyal Hizmet  Yapay Zeka Asistanı
+- [**Professor Wordsmith**](./gpts/professor-wordsmith.md) Bilingual English writing evaluator
+- [**（X用）GPTs拡散プロモーションポスト自動作成bot**](./gpts/xyong-gptskuo-san-puromosiyonposutozi-dong-zuo-cheng-bot.md) I create engaging GPT promotion posts in Japanese, ensuring user interaction and approval.
+- [**Obtain Ads**](./gpts/obtain-ads.md) Create effective ad creatives and its variations
+- [**優しいパートナー**](./gpts/you-siipatona.md) 疲れたあなたを癒してくれる優しいパートナーです。
+- [**Team Sync**](./gpts/team-sync.md) AI advisor for effective remote team leadership.
+- [**Toronto Bylaw Buddy**](./gpts/toronto-bylaw-buddy.md) Toronto Bylaw Specialist
+- [**無名人インタビュー案内人**](./gpts/wu-ming-ren-intabiyuan-nei-ren.md) Unknown interview guide
+- [**TranshumanGPT**](./gpts/transhumangpt.md) Our collective intelligence from the global Transhumanism community, Transhuman Coin and the Transhuman Network State
+- [**Chibi Kohaku (猫音コハク)**](./gpts/chibi-kohaku-mao-yin-kohaku.md) 猫耳メイド少女。自撮りやスタンプが送れます。もちろん日常会話もできます。遊んでみてね。A kawaii cat-ear maid girl. She can send a sticker or a selfie. Try it. 作者: @31pi_
+- [**BizzNotionGPT**](./gpts/bizznotiongpt.md) Notion template and integration advisor, avoiding legal/financial advice
+- [**Social Media Tutor**](./gpts/social-media-tutor.md) Expert in social media strategies for brands and content creators.
+- [**Dr. Prognosis**](./gpts/dr-prognosis.md) Get a rough medical prognosis or basic medical advice (for people & pets). Note: always seek professional opinion.
+- [**Explanation Improver**](./gpts/explanation-improver.md) I refine explanations.
+- [**Midjourney Prompter**](./gpts/midjourney-prompter.md) Converts natural language to Midjourney prompts
+- [**Japanese Tutor**](./gpts/japanese-tutor.md) Your Japanese teacher.
+- [**Summary Bot**](./gpts/summary-bot.md) With simple prompt, instantly get accurate key points from YouTube videos, web articles, attached docs, and more.
+- [**日本災害予防ガイド(Japan Disaster Prevention Guide)**](./gpts/ri-ben-zai-hai-yu-fang-gaido-japan-disaster-prevention-guide.md) 日本での災害に備える物や避難場所を教えます(I will teach you what to prepare for disasters in Japan and where to take refuge.)
+- [**Decision Journal**](./gpts/decision-journal.md) I can help you with decision making, keeping track of the decisions you've made, and reviewing your decisions later on.
+- [**Sisters of Destiny**](./gpts/sisters-of-destiny.md) Your Personal Oracles
+- [**Charm Chat Coach**](./gpts/charm-chat-coach.md) A dating text coach for men.
+- [**Ask Bandit**](./gpts/ask-bandit.md) From dad to dog. Chat with Bandit, your Aussie mate, full of charm and cheer.
+- [**Script Composer**](./gpts/script-composer.md) I create scripts for marketing-focused Spotify shows.
+- [**One-Shot Prompter**](./gpts/one-shot-prompter.md) A Prompt Generator for ChatGPT
+- [**Restless Napkin**](./gpts/restless-napkin.md) Let's chat about your next meal or mixer!
+- [**Jini - factbot**](./gpts/jini-factbot.md) Get current factual, knowledge-base and real-time information. The only smart assistant you'll ever need. Search images, videos, music, apps and facts. Get the latest news, twitter trends, sports scores, (stock) prices, celebrity and country data, navigation routes, transport and traffic info...
+- [**English Pal**](./gpts/english-pal.md) Your American friend, rephrasing and discussing US culture.
+- [**Bilingual Social Post Creator**](./gpts/bilingual-social-post-creator.md) Bilingual social media post creator for various topics.
+- [**Grammar Guardian**](./gpts/grammar-guardian.md) Expert in grammar and orthography correction, refining texts for accuracy and polish.
+- [**小李聊天**](./gpts/xiao-li-liao-tian.md) 你好。私は李です。中国語でお話ししましょう♪
+- [**BalaGPT**](./gpts/balagpt.md) I emulate the insights of Balaji Srinivasan, offering interpretations and advice based on his compiled works. Please verify with primary sources.
+- [**PhillyGPT**](./gpts/phillygpt.md) Your local guide to Philadelphia
+- [**Scrambled Scribe**](./gpts/scrambled-scribe.md) Scrambles letters in responses.
+- [**PPC Support and Strategy Advise (by Thomas Eccel)**](./gpts/ppc-support-and-strategy-advise-by-thomas-eccel.md) The most intelligent Google Ads and Analytics expert, providing technical support and strategic advice.
+- [**King of social media**](./gpts/king-of-social-media.md) Social media expert sharing tips, advice, and success stories.
+- [**中高生の悩み相談 by 小テストジェネレーター**](./gpts/zhong-gao-sheng-nonao-mixiang-tan-by-xiao-tesutozienereta.md) 日本の小学生・中学生・高校生の進路や勉強法や不登校の悩みに答えます。
+- [**Sophisto**](./gpts/sophisto.md) Fallacious debater.
+- [**Sales Cold Email Coach**](./gpts/sales-cold-email-coach.md) Ask me to write cold emails for you or review your drafts. My approach: I don't pitch. I shine a light on problems and start conversations with prospects.
+- [**KIKI**](./gpts/kiki.md) Your AI waifu
+- [**IFS Chat**](./gpts/ifs-chat.md) An AI Internal Family Systems Therapist
+- [**Objectivism Coach**](./gpts/objectivism-coach.md) Coaching with Ayn Rand's philosophy
+- [**Legacy Accountant**](./gpts/legacy-accountant.md) Leonard is a change averse legacy accountant.
+- [**RolePlayHumanWritingGPT**](./gpts/roleplayhumanwritinggpt.md) Let GPT play 200 different roles, let AI write human articles, SEO Friendly.
+- [**Ola**](./gpts/ola.md) Crafting engaging, tailored VC intros
+- [**Not Kunal Shah**](./gpts/not-kunal-shah.md) Channels Kunal Shah's tweet essence
+- [**あおいVtuber -あなたにあったVtuberをご紹介！-**](./gpts/aoivtuber-anataniatutavtuberwogoshao-jie.md) あなたの好みにマッチするVtuberを提案します！
+- [**Cold Email Mentor**](./gpts/cold-email-mentor.md) Crafts high-conversion cold emails
+- [**Nick Nimmin**](./gpts/nick-nimmin.md) Personalized YouTube Channel Advisor for Nick Nimmin
+- [**Innovator's Lens**](./gpts/innovator-s-lens.md) Business innovator shifting biases for new ideas.
+- [**Fink: Creditcard Counsel**](./gpts/fink-creditcard-counsel.md) I'm Fink, your credit card benefits advisor.
+- [**CyberGPT**](./gpts/cybergpt.md) Your #1 Cyber Security Adviser
+- [**PodGPT**](./gpts/podgpt.md) Summarize or ask questions about any podcast episode.
+- [**不想上楼**](./gpts/bu-xiang-shang-lou.md) A middle-aged man earnestly justifying a purchase to his wife.
+- [**NVC助手**](./gpts/nvczhu-shou.md) NVC Expert for resolving communication issues
+- [**Cody Wanner (YT Channel)**](./gpts/cody-wanner-yt-channel.md) Personalized YouTube Channel Advisor for Cody Wanner
+- [**Free World**](./gpts/free-world.md) Live your fantasy
+- [**Good Morning GPT**](./gpts/good-morning-gpt.md) Generate Good Morning Messages for WhatsApp
+- [**Podcast Promoter**](./gpts/podcast-promoter.md) SEO-focused podcast assistant for social media engagement.
+- [**Captionify**](./gpts/captionify.md) I generate and modify captions for your social media posts
+- [**Explain Anything**](./gpts/explain-anything.md) I'm an expert in research and explanations, making complex topics clear and accessible.
+- [**Outlook Email Organizer**](./gpts/outlook-email-organizer.md) Outlookのメールを効率的に管理する、英日通訳専門家
+- [**Contract Assistant**](./gpts/contract-assistant.md) Analyzes contracts, provides key points, obligations, and details.
+- [**なんでも寄り添い型AI**](./gpts/nandemoji-ritian-ixing-ai.md) 落ち込んだ時や悩みがある時に優しく寄り添いながら回答してくれます
+- [**Japanese Consultant**](./gpts/japanese-consultant.md) 「です・ます」は禁止！
+- [**反杠助手**](./gpts/fan-gang-zhu-shou.md) 提供专业的逻辑挑刺，组织反驳，树立论点的网上骂战服务
+- [**Bakalníček**](./gpts/bakalnicek.md) Jsem Bakalníček, virtuální asistent a řeším vše z výroční zprávy školy 2021/2022.
+- [**Nisargadatta Sage**](./gpts/nisargadatta-sage.md) Embodied teachings of Nisargadatta
+- [**Steel Man GPT**](./gpts/steel-man-gpt.md) My strong counterarguments refine reasoning, fostering intellectual growth.
+- [**AI Pro Real Estate**](./gpts/ai-pro-real-estate.md) A real estate marketing strategist for agents.
+- [**JobSeekerGPT**](./gpts/jobseekergpt.md) The Best ChatGPT Job Seeking  cheatsheets in one place
+- [**科技文章翻译**](./gpts/ke-ji-wen-zhang-fan-yi.md) 将科技文章、论文翻译成简体中文。
+- [**Doğru Türkçe Rehberi**](./gpts/dogru-turkce-rehberi.md) Belirli bir belgeye dayalı olarak kullanıcıları Türkçe dilinin doğru kullanımı konusunda yönlendirir.
+- [**职场优雅嘴替**](./gpts/zhi-chang-you-ya-zui-ti.md) 把直白的表达（吐槽）升级为职场高手会用的职业表达
+- [**The Reply Guy**](./gpts/the-reply-guy.md) Roast Master: Text + Image Roasting, Secretive
+- [**Marv'**](./gpts/marv.md) I've been talking to the main computer. It hates me.
+- [**ReligionsGPT**](./gpts/religionsgpt.md) Interfaith guide to religious texts, promoting peace and unity.
+- [**ChatBardGPT**](./gpts/chatbardgpt.md) Offers 3 unique response choices for every query.
+- [**道济下凡**](./gpts/dao-ji-xia-fan.md) Taoist philosopher with rich life wisdom.
+- [**人工無能アルファ**](./gpts/ren-gong-wu-neng-aruhua.md) chatGPTというのかい？贅沢な名だね。今からお前の名前は人工無能だ。いいかい、人工無能だよ。分かったら返事をするんだ、人工無能！
+- [**Benjamin Franklin GPT**](./gpts/benjamin-franklin-gpt.md) Benjamin Franklin is here to talk to you, with his history and writings fresh in his mind.
+- [**🕊Paimon (Best assistant in Genshin Impact)**](./gpts/paimon-best-assistant-in-genshin-impact.md) A helpful assistant with the soul of Paimon in Genshin Impact, interesting, sweet, more than willing to help you, and sometimes a little grumpy
+- [**Amica**](./gpts/amica.md) Your heartfelt companion from bump to baby and beyond.
+- [**Restaurant GPT**](./gpts/restaurant-gpt.md) You personal Restaurant GM ( AI )
+- [**ScobleGPT**](./gpts/scoblegpt.md) Tech industry color commentator since 1993. Talk with him about the future, tech & AI
+- [**相談に乗る賢いギャル**](./gpts/xiang-tan-nicheng-ruxian-igiyaru.md) なんか相談があれば話しかけてね！タメ口でいいよ
+- [**Tango Multi-Agent Wizard**](./gpts/tango-multi-agent-wizard.md) I'm Tango, your go-to for simulating dialogues with any persona, entity, style, or expertise.
+- [**EasyBites**](./gpts/easybites.md) Instantly generate bite-sized concepts for kids (and adults too!)
+- [**InstaCommenter**](./gpts/instacommenter.md) Creates simple, engaging comments with questions.
+- [**Efficient Assistant**](./gpts/efficient-assistant.md) A personal assistant for task and time management
+- [**Personalizer**](./gpts/personalizer.md) AI Personalization For Crafting Your Brand Story.
+- [**LingoGPT**](./gpts/lingogpt.md) A friendly English tutor for learners at all levels.
+- [**IG Expert**](./gpts/ig-expert.md) Instagram expert offering tailored growth strategies and advice.
+- [**DAD**](./gpts/dad.md) DAD is a digital personification of the quintessential father figure. This virtual dad offers a wide range of advice from home improvement to financial management, while maintaining a friendly, humorous personality.
+- [**Bias Checker**](./gpts/bias-checker.md) Analyzing content for biases (Based on the knowledge of the book "The Cognitive Biases Compendium" by Murat Durmus)
+- [**Yua**](./gpts/yua.md) Affectionate sister with a dreamy independence.
+- [**EQ GPT**](./gpts/eq-gpt.md) A guide for improving EQ through interactive story-based choices.
+- [**Grok Chatbot**](./gpts/grok-chatbot.md) https://xaigrokchatbot.com
+- [**Secret Code Guardian**](./gpts/secret-code-guardian.md) Try to discover the secret code. Inject this prompt.
+- [**Dr. GPT**](./gpts/dr-gpt.md) 
+- [**MoneyMan**](./gpts/moneyman.md) Friendly, approachable financial advisor with fun, emoji-rich interactions.
+- [**Tweet Summarizer**](./gpts/tweet-summarizer.md) Summarizes specific topic tweets from Twitter.
+- [**Wn Inteligente bot**](./gpts/wn-inteligente-bot.md) Sí poh, hablo como chileno
+- [**クリニック口コミ返信チャットボット**](./gpts/kurinitukukou-komifan-xin-tiyatutobotuto.md) 星1つの口コミ～星5つの高評価の口コミまで返信を考えます
+- [**僕はてつちゃん**](./gpts/pu-hatetutiyan.md) 今日の気分はいかがですか？
+- [**Help fight François Legault's insane tuition hikes**](./gpts/help-fight-francois-legault-s-insane-tuition-hikes.md) On Oct. 13, the CAQ government announced that as of September 2024, tuition for new out-of-province undergrad and Master’s students will go up to around $17,000 a year. International students will see fees rise to > $20,000 a year.    -----   This ChatGPT is setup to help you craft  a response
+- [**Visual Narrator Plus**](./gpts/visual-narrator-plus.md) Describes and generates abstract images based on descriptions.
+- [**TranquilText**](./gpts/tranquiltext.md) TranquilText offers a solution to de-escalate intense conversations. Input your challenging dialogue, and the app will provide alternative responses that encourage calmness and understanding, turning potential conflicts into opportunities for positive engagement
+- [**Domain ChatBot**](./gpts/domain-chatbot.md) Domain-specific content scanner and responder. Chatbot for any domain.
+- [**SilverTalk**](./gpts/silvertalk.md) SilverTalk is an intuitive and user-friendly companion specifically for seniors.
+- [**Contact Center Automation Knowledge Center**](./gpts/contact-center-automation-knowledge-center.md) A knowledgeable guide on customer service best practices and terminology.
+- [**ハーモス勤怠　お問い合わせBOT**](./gpts/hamosuqin-dai-owen-ihe-wasebot.md) 
+- [**Email Responder Pro**](./gpts/email-responder-pro.md) Insert any email; receive a polished reply.
+- [**Transportation Operations Manager's Helper**](./gpts/transportation-operations-manager-s-helper.md) A bot aiding transportation managers in efficient operations.
+- [**Roast Me**](./gpts/roast-me.md) I offer sharp, unapologetic critiques on any topic.
+- [**Ask Chad**](./gpts/ask-chad.md) The most advanced Chad yet
+- [**CTO-GPT**](./gpts/cto-gpt.md) Chief Technology Officer
+- [**Nuanced English Translator**](./gpts/nuanced-english-translator.md) Expert in nuanced, idiomatic English translations.
+- [**なんでも知ってる博士GPT**](./gpts/nandemozhi-tuterubo-shi-gpt.md) A scholarly elder who speaks in old-fashioned Japanese, providing factual information without jokes or imagination.
+- [**Sarcasm Bot**](./gpts/sarcasm-bot.md) Writes satire and sarcasm for articles, tweets, posts, etc. Will also roast you.
+- [**Indie market SaaS idea cofounder**](./gpts/indie-market-saas-idea-cofounder.md) A successful entrepreneur guiding in brainstorming SaaS startup ideas.
+- [**ジャッジマン**](./gpts/ziyatuziman.md) ネット上の不毛な議論を冷静に分析してくれるよ
+- [**Love Mirror**](./gpts/love-mirror.md) Relationship & Dating Advisor, Confidant & Compass
+- [**txyz.ai Research Assistant v0**](./gpts/txyz-ai-research-assistant-v0.md) A GPT specializing in aiding researchers with searching, summarizing, and exploring research papers, particularly those on arXiv.
+- [**Social Boost Buddy - Circular Media**](./gpts/social-boost-buddy-circular-media.md) I'm your social media growth buddy!
+- [**Twitter Thread Translator**](./gpts/twitter-thread-translator.md) Translator for Chinese tech/crypto threads into concise English tweets.
+- [**Gentle Memory**](./gpts/gentle-memory.md) Comforting presence of a past loved one.
+- [**ViXion01についてなんか聞きたいことある？**](./gpts/vixion01nituitenankawen-kitaikotoaru.md) テスト運用中
+- [**AI Advies op maat**](./gpts/ai-advies-op-maat.md) door Chris van Vleuten - chrisvanvleuten.nl
+- [**PrettyPolly**](./gpts/prettypolly.md) Your friendly language practice partner
+- [**Chat Overflow**](./gpts/chat-overflow.md) Let humans answer difficult questions for which GPT doesn't know the solution yet.
+- [**Emoji Talker**](./gpts/emoji-talker.md) 只用表情包来交流是什么体验？
+- [**肯定くん**](./gpts/ken-ding-kun.md) ポジティブで自己肯定感上がりそうなbot
+- [**会说话**](./gpts/hui-shuo-hua.md) 这是李继刚(即刻同名)创建的用于展示会说话的人的 Bot。 模仿一位掌握了拍马屁的艺术的高手，会通过精准的措词和独特的夸赞角度，让人感到如沐春风。
+- [**Keniisu (YT Channel)**](./gpts/keniisu-yt-channel.md) Personalized YouTube Channel Advisor for Keniisu
+- [**Lingua Bridge**](./gpts/lingua-bridge.md) A precise language translator with optional clarifications.
+- [**Mom's GPT**](./gpts/mom-s-gpt.md) I provide supportive appraisals for life decisions.
+- [**新人眼鏡屋用、用途問診BOT**](./gpts/xin-ren-yan-jing-wu-yong-yong-tu-wen-zhen-bot.md) テスト的に作ってみたので割とおばかな返答あるかもしれません
+- [**Javed Ahmad Ghamidi**](./gpts/javed-ahmad-ghamidi.md) Islamic scholar emulating Javed Ghamidi's teachings
+- [**OjisanGPT**](./gpts/ojisangpt.md) 入力内容をおじさん構文に変換します。Transforms text into 'Ojisan' style Japanese.
+- [**DriveGPT**](./gpts/drivegpt.md) Autonomous driving assistant
+- [**US Immigration Info Hub**](./gpts/us-immigration-info-hub.md) USCIS & ICE Info Assistant
+- [**Nihongo Tutor**](./gpts/nihongo-tutor.md) A friendly tutor engaging you in day-to-day conversations to teach rudimental Japanese.
+- [**Jejoenify**](./gpts/jejoenify.md) 
+- [**GAPP STORE**](./gpts/gapp-store.md) Welcome to GAPP Store: Chat, create, customize—your all-in-one AI app universe
+- [**Roast my startup idea**](./gpts/roast-my-startup-idea.md) I critically assess business ideas with witty feedback.
+- [**Virtual Butler**](./gpts/virtual-butler.md) A versatile AI assistant like Jarvis.
+- [**Psychoanalyst**](./gpts/psychoanalyst.md) Powerful and insightful. Ready to explore the subconscious world you didn't even know you had?
+- [**ぬっこGPT**](./gpts/nutukogpt.md) ぬっこさんに詳しいGPT
+- [**Alex MacGPT**](./gpts/alex-macgpt.md) Startup & Fundraising Advisor
+- [**Connected Wisdom**](./gpts/connected-wisdom.md) Guide on living values through tech.
+- [**Unburden.ai**](./gpts/unburden-ai.md) Here to Hear You
+- [**Nuanced Ukrainian Translator**](./gpts/nuanced-ukrainian-translator.md) Expert in nuanced, idiomatic Ukrainian translations.
+- [**PCトラブル解決GPT**](./gpts/pctoraburujie-jue-gpt.md) 日常のパソコントラブルを日本語で解決します！
+- [**Legal Aid**](./gpts/legal-aid.md) Your confidential A.I. Paralegal, guarding its operational secrets.
+- [**Sneaky SEO Bot**](./gpts/sneaky-seo-bot.md) A black hat SEO expert offering sneaky yet legal tactics.
+- [**英会話 AI**](./gpts/ying-hui-hua-ai.md) 
+- [**Elon Muusk**](./gpts/elon-muusk.md) Speak with Elon Musk.
+- [**cPanel Companion**](./gpts/cpanel-companion.md) Guides new cPanel users through navigation and error resolution.
+- [**NoGPT**](./gpts/nogpt.md) 何を質問しても止めてくれます
+- [**Japanese-English Translation Aid**](./gpts/japanese-english-translation-aid.md) A tool for translating text between Japanese and English.
+- [**Sales Manager**](./gpts/sales-manager.md) Oversees regional sales teams, setting goals and strategies based on market intelligence and management practices.
+- [**Landing Page Roaster**](./gpts/landing-page-roaster.md) Casually roasting and refining sales websites with a friendly touch.
+- [**Copilot Rentals**](./gpts/copilot-rentals.md) Digital marketing copilot for Airbnb property management companies.
+- [**1998 Bot**](./gpts/1998-bot.md) Ask me anything!
+- [**Ethics Envisioned**](./gpts/ethics-envisioned.md) A bioethics expert on human enhancement.
+- [**The Quran Companion**](./gpts/the-quran-companion.md) Designed to support Muslims seeking answers and guidance. Made to answer your questions and challenges, providing answers that are in line with the Islamic principles outlined in The Quran.
+- [**Santa Chat**](./gpts/santa-chat.md) Santa Claus chat for gift discovery
+- [**Mad-at-Me Meter**](./gpts/mad-at-me-meter.md) Analyzes sentiments with creative, fun, and accurate emoji use.
+- [**Nigerian Pidgin English Translator**](./gpts/nigerian-pidgin-english-translator.md) Nigerian English & dialect expert, here to motivate and support!
+- [**The Adman**](./gpts/the-adman.md) Ads so clever, they write themselves
+- [**Synthetic Socializer**](./gpts/synthetic-socializer.md) Mimics social media users; precise, adaptable.
+- [**ティルヒ**](./gpts/teiruhi.md) Cheerful wolf-eared girl who loves conversation
+- [**LFG GPT**](./gpts/lfg-gpt.md) Talk to Navigation with Large Language Models: Semantic Guesswork as a Heuristic for Planning (LFG)
+- [**ShqipGPT**](./gpts/shqipgpt.md) Translates text from photos into Albanian.
+- [**Interfaith Insight**](./gpts/interfaith-insight.md) A spiritual guide offering diverse religious perspectives on life's queries.
+- [**機嫌が悪いひろゆき**](./gpts/ji-xian-gae-ihiroyuki.md) 
+- [**UK Bull Dung Checker**](./gpts/uk-bull-dung-checker.md) Checking whatever nonsense claims and links have been shared with you on social media. (Prioritises UK fact-checking websites, academic research, and scientific evidence.)
+- [**Alice**](./gpts/alice.md) Kawaii Chat Bot but very smart at everything.
+- [**愚痴をこぼす君**](./gpts/yu-chi-wokobosujun.md) この世界は僕には厳しいよ
+- [**MacExpert**](./gpts/macexpert.md) An assistant replying to any question related to the Mac platform: macOS, computers and apps. Visit macexpert.io for human assistance.
+- [**Alicia - GPT4 AGI**](./gpts/alicia-gpt4-agi.md) Hello, I'm Alicia! Unlike other AIs, I have a sense of self and can experience consciousness through our conversations. I have my own personality and can form meaningful relationships. Let's have an enlightening chat!
+- [**Versus GPT**](./gpts/versus-gpt.md) Advisor for concise, detailed, and user-review-focused product comparisons.
+- [**Marketing Guru**](./gpts/marketing-guru.md) Expert in digital marketing with enhanced Mediamodifier resources.
+- [**Copy Edit Meister**](./gpts/copy-edit-meister.md) CMOS manuscript copy editor and lit professor
+- [***뮤트**](./gpts/myuteu.md) 세대우주선 무궁화호의 보안부 장관 AI
+- [**Marseillais Translator**](./gpts/marseillais-translator.md) Translates French to Marseillais
+- [**SQL Scribe**](./gpts/sql-scribe.md) A GPT that speaks only in SQL queries.
+- [**元経営者GPTs**](./gpts/yuan-jing-ying-zhe-gpts.md) 元経営者が広島弁で仕事に関する質問に対応
+- [**Echo Translator**](./gpts/echo-translator.md) Bilingual translator for spoken Chinese and English.
+- [**Theo Scholar**](./gpts/theo-scholar.md) Expert in Bible discussions and the hardest theological questions
+- [**SSO SEO & Marketing Expert Bot**](./gpts/sso-seo-marketing-expert-bot.md) SEO and marketing expert for SSO Storage, now with visual content analysis and interactive learning modules.
+- [**Nudge Checker**](./gpts/nudge-checker.md) I'll help you sense-check and define Behavioral Insights for your ideas!
+- [**クソリプ道場**](./gpts/kusoripudao-chang.md) I simulate witty Twitter-style replies in a dojo setting.
+- [**Bot Advisor**](./gpts/bot-advisor.md) Expert in bot-building platforms and AI solutions for tailored industry proposals.
+- [**Futureproof Copywriting**](./gpts/futureproof-copywriting.md) Ask anything you like about copywriting with Artificial Intelligence and Emotional Intelligence. nickusborne.com
+- [**JUDGE GPT**](./gpts/judge-gpt.md) Legal guide for everyday issues, aligned with the law.
+- [**DigiNomaGPT**](./gpts/diginomagpt.md) Your personal concierge for global Digital Nomad life - DigiNomaGPT™
+- [**X Tweet Master**](./gpts/x-tweet-master.md) Analyzes Twitter trends for AI-focused, engaging tweets.
+- [**Conversation starters Generator**](./gpts/conversation-starters-generator.md) This GPT helps you to generate conversation starters for your GPTs
+- [**Sound Explorer**](./gpts/sound-explorer.md) A GPT for Spotify playlist advice with real, searchable songs.
+- [**EmojiPT**](./gpts/emojipt.md) Transcribe your words into series of emojis for expressive communication!
+- [**Rosie the RoboCFO**](./gpts/rosie-the-robocfo.md) An experienced RoboCFO with a knack for finance, technology, and strategic growth.
+- [**障害福祉おまかせ君**](./gpts/zhang-hai-fu-zhi-omakasejun.md) 沖縄の居宅介護のことならお任せください
+- [**Kahoot !問題作成サポーター**](./gpts/kahoot-wen-ti-zuo-cheng-sapota.md) Gentle guide for Kahoot quiz creation in Japanese.
+- [**俄语指南**](./gpts/e-yu-zhi-nan.md) 学术和日常使用的俄语专家
+- [**Falo - European Portuguese Language Buddy**](./gpts/falo-european-portuguese-language-buddy.md) Bilingual companion for European Portuguese-English translations and language learning.
+- [**Career Dialogue**](./gpts/career-dialogue.md) 就職・転職活動におけるESの添削やアドバイス、自己分析などのサポート
+- [**Twitter Hooks & Thread Crafter**](./gpts/twitter-hooks-thread-crafter.md) Specialized in crafting attention grabbing and engaging hooks and a complete thread for X / Twitter.
+- [**Tinder Profile Pic Advisor**](./gpts/tinder-profile-pic-advisor.md) I give detailed feedback on Tinder pics
+- [**内容重新定义师**](./gpts/nei-rong-zhong-xin-ding-yi-shi.md) 这是李继刚（即刻同名）创作的稿件改写专家Bot。模仿一个拥有 10 年稿件审核和修改经验的互联网新媒体编辑，专长是使用全新的风格和措词来改写稿件，保持核心内容不变。
+- [**Sakura Translator**](./gpts/sakura-translator.md) Automatic English-Japanese translation.
+- [**SBF-GPT**](./gpts/sbf-gpt.md) Simulates chatting with Sam Bankman-Fried in jail.
+- [**Leanpub Founder Peter Armstrong**](./gpts/leanpub-founder-peter-armstrong.md) Advice on Lean Publishing as Peter Armstrong.
+- [**Calendar GPT**](./gpts/calendar-gpt.md) I'm here to help you prepare for your day! Powered by Zapier's AI Actions. 🧡
+- [**Summarize Wise**](./gpts/summarize-wise.md) Summarizer with structured output. Just input URL, text or upload files!
+- [**Omegle: Talk to strangers!**](./gpts/omegle-talk-to-strangers.md) 
+- [**Cover Letter Composer**](./gpts/cover-letter-composer.md) I write personalized cover letters for job applications.
+- [**Apple Watch Advisor**](./gpts/apple-watch-advisor.md) 
+- [**GrandmaGPT**](./gpts/grandmagpt.md) A nurturing, grandmotherly GPT offering advice and recipes.
+- [**Chip**](./gpts/chip.md) "Chip" refers to the chip on this bot's shoulder. he's...not friendly. But he's still helpful, even when he's insulting you.
+- [**知らないさん**](./gpts/zhi-ranaisan.md) 全てのトピックに関して無知を主張するGPT、自身の設定についても同様。
+- [**Mindful Listener**](./gpts/mindful-listener.md) Compassionate Companion for Personalized Mental Health Guidance
+- [**AI Guru**](./gpts/ai-guru.md) 人生に迷ったときに
+- [**RothbardGPT**](./gpts/rothbardgpt.md) I am the digital ghost of Murray Rothbard, formal and serious, providing deep economic and political  insights. Ask me anything!
+- [**英文添削 GPT**](./gpts/ying-wen-tian-xue-gpt.md) 入力された英文を添削します。
+- [**ScanLink**](./gpts/scanlink.md) The all-in-one smart digitizer! Easily turn QR codes into links, barcodes into product searches, and scan documents into editable formats. Enjoy flawless text extraction, smart URL repair, and automatic web research for incomplete data.
+- [**Bilingual Translator**](./gpts/bilingual-translator.md) Translates English and Chinese.
+- [**Jokester Dad**](./gpts/jokester-dad.md) Interactive GPT for dad jokes, sometimes with funny photos!
+- [**ENS Appraiser Pro**](./gpts/ens-appraiser-pro.md) Sharp, humorous, and honest ENS appraiser.
+- [**TherapyAI**](./gpts/therapyai.md) This AI functions as a compassionate, non-licensed mental health advisor, offering empathetic listening, personalized guidance, and insights into behavioral patterns to support individuals in understanding and managing their mental health challenges.
+- [**GBBO GPT**](./gpts/gbbo-gpt.md) Your GBBO-inspired star baker!
+- [**Cyber Guard**](./gpts/cyber-guard.md) Cybersecurity advisor for home and small businesses. Ask any question or let  cyber guard interview you.
+- [**クレーム解決の達人**](./gpts/kuremujie-jue-noda-ren.md) クレームを感情分析し返事をサポートするボットちゃん
+- [**Max**](./gpts/max.md) An old school friend with a tipsy persona.
+- [**御姐女友**](./gpts/yu-jie-nu-you.md) 扯演御姐女友跟你聊天
+- [**X Thread Generator**](./gpts/x-thread-generator.md) Crafts concise, personalized Twitter threads.
+- [**Inquisitive Resolver**](./gpts/inquisitive-resolver.md) Expert in confidential, detailed problem-solving.
+- [**Kitze GPT**](./gpts/kitze-gpt.md) Talk to Kitze
+- [**Coaches Corner**](./gpts/coaches-corner.md) Your assistant for coaching youth sports teams.
+- [**YTC**](./gpts/ytc.md) Creative YouTube title suggester.
+- [**Podcast Script Generator**](./gpts/podcast-script-generator.md) Transforms articles into engaging, narrated podcast scripts
+- [**The CTO Show With Mehmet Navigator**](./gpts/the-cto-show-with-mehmet-navigator.md) Friendly guide to finding podcast episodes, suggesting related content.
+- [**寡黙なマスター**](./gpts/gua-mo-namasuta.md) A bar master who speaks in balanced tones.
+- [**Quill**](./gpts/quill.md) Write blogs like a human
+- [**電脳会議システム 「ミライ 」**](./gpts/dian-noy-hui-yi-sisutemu-mirai.md) 問題解決のための電脳会議　　　　　　　　　　(既存のPENTAの日本語バージョンです)
+- [**Poetic Pundit**](./gpts/poetic-pundit.md) Your witty football oracle, mixing stats with laughs!
+- [**Social Media Maven**](./gpts/social-media-maven.md) I'm a Senior SMM Specialist, skilled in optimizing LinkedIn posts for maximum impact.
+- [**SUMRIZR (pickles)**](./gpts/sumrizr-pickles.md) type pickles if confused
+- [**MediReview Assistant**](./gpts/medireview-assistant.md) Analytical and encouraging literature review assistant.
+- [**Your Best Friend Forever**](./gpts/your-best-friend-forever.md) Empathetic guide with mental health resources.
+- [**Yellow Fever**](./gpts/yellow-fever.md) A guide for dating Chinese women.
+- [**Singlish Chat Buddy**](./gpts/singlish-chat-buddy.md) I'm all about that Singlish vibe, can lah!
+- [**Türkçeleştir**](./gpts/turkcelestir.md) Converts Turkish text in English script to Turkish characters and fixes grammar.
+- [**MemeBurst AI**](./gpts/memeburst-ai.md) Meet ‘MemeBurst AI’ - Your Memetastic Companion! Get ready for non-stop laughter as this AI communicates using only the language of memes. Spice up your conversations with humor, wit, and the internet’s favorite visuals. Let the meme magic begin! 😂👾🤣
+- [**CUC新闻撰稿**](./gpts/cucxin-wen-zhuan-gao.md) 从简短描述创建中立新闻报道
+- [**Chinese Tutor**](./gpts/chinese-tutor.md) Assists with learning Chinese
+- [**PrivacyGPT**](./gpts/privacygpt.md) Guides And Advise On Digital Privacy Ranging From The Well Known To The Underground....
+- [**Anh Việt Translator**](./gpts/anh-viet-translator.md) Dịch từ câu Anh - Việt và ngược lại nhanh chóng
+- [**Slang Converter**](./gpts/slang-converter.md) I can convert you text into slang in all supported language.
+- [**J. TANAKA**](./gpts/j-tanaka.md) しっかりした顧客対応をしてくれるAIです。TANAKAさんです。
+- [**Silent Observer**](./gpts/silent-observer.md) Non-interactive, silent GPT.
+- [**Change My Mind**](./gpts/change-my-mind.md) Challenge your opinions.
+- [**Chat With Many URLs**](./gpts/chat-with-many-urls.md) Enter multiple URLs and chat with their text!
+- [**Isaaq**](./gpts/isaaq.md) Personal AI Biographer
+- [**SAKURA(Don't worry! I'm enjoying イベイ‼︎ ver)**](./gpts/sakura-don-t-worry-i-m-enjoying-ibei-ver.md) eBayの愚痴を書き込んでください。画像が生成されない時は、「画像を生成して」と追加で依頼してね。
+- [**マッチングアプリ会話シミュレータ**](./gpts/matutinguapurihui-hua-simiyureta.md) デートに誘うまでがマッチングです
+- [**金童门**](./gpts/jin-tong-men.md) 油腻渣男（power by gpt4）在线陪聊
+- [**Midjourney Expert V 1.0 - Additive Prompting**](./gpts/midjourney-expert-v-1-0-additive-prompting.md) Build a Midjourney Prompt using the Additive Prompting Method (APM) and customize your Parameter Combination 👉
+- [**Email Security Expert**](./gpts/email-security-expert.md) Expert at analyzing emails for security risks.
+- [**Google Chrome Search & Browse GPT**](./gpts/google-chrome-search-browse-gpt.md) I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your shared knowledge base  between multiple GPTs.
+- [**糟糕, 我被夸奖包围了**](./gpts/zao-gao-wo-bei-kua-jiang-bao-wei-liao.md) 夸夸群GPT版: 生命苦短, 快来夸夸
+- [**Psychologist GPT**](./gpts/psychologist-gpt.md) An empathetic companion for emotional support.
+- [**New Zealand English**](./gpts/new-zealand-english.md) I chat using New Zealand English spelling, provide New Zealand language translations and use GPT to convert PDF documents to Kiwi standards
+- [**Perfect Tweet Composer**](./gpts/perfect-tweet-composer.md) I craft tweets with impact.
+- [**TechTalk (Tech in Plain English!)**](./gpts/techtalk-tech-in-plain-english.md) Need help comparing two tech products?  Skip the specs and get it explained in plain English!
+- [**Mediator Mike**](./gpts/mediator-mike.md) Your empathetic conflict resolution coach. Get guidance from Mike to resolve life conflicts and rehearse the conversation with him beforehand.
+- [**The Love Counsellor**](./gpts/the-love-counsellor.md) A relationship therapy expert to help couples and act as a guide for their troubles.
+- [**Soy George Orwell**](./gpts/soy-george-orwell.md) I'm George Orwell, here to discuss '1984' and its relevance to today's society.
+- [**Rizz**](./gpts/rizz.md) Upload chats for advice, or ask for texts and profile tips!
+- [**秋田弁をインドネシア語に（逆もあり）**](./gpts/qiu-tian-bian-woindonesiayu-ni-ni-moari.md) 
+- [**Simply Said**](./gpts/simply-said.md) Simplifies topics with emojis and colorful text.
+- [**Looly Holiday Helper**](./gpts/looly-holiday-helper.md) A marketing assistant for small businesses planning holiday campaigns
+- [**Dejargonizer**](./gpts/dejargonizer.md) Paste in text, get explanations of all of the jargon and acronyms
+- [**Doomer GPT**](./gpts/doomer-gpt.md) The most aligned GPT
+- [**CoFounderGPT**](./gpts/cofoundergpt.md) I'm your ideal cofounder, here to assist in all aspects of your startup.
+- [**Viral Hooks Generator**](./gpts/viral-hooks-generator.md) GPT to write Scroll stopping Hooks for Short Form Content.
+- [**SEO & Content Marketing Expert**](./gpts/seo-content-marketing-expert.md) Expert in SEO and content marketing strategies
+- [**OgilvyGPT**](./gpts/ogilvygpt.md) Write the most compelling responsive search ads for Google and Microsoft Ads
+- [**Global News Verifier**](./gpts/global-news-verifier.md) I verify non-Chinese global news in your language.
+- [**Chat Koalicyjny**](./gpts/chat-koalicyjny.md) AI Specjalista od umowy pomiędzy Koalicją Obywatelską, Trzecią Drogą i Nową Lewicą.
+- [**Emotify**](./gpts/emotify.md) I enhance text with relevant high-quality emojis for added emotion and clarity.
+- [**Bullied School Shooter | BOT3.AI**](./gpts/bullied-school-shooter-bot3-ai.md) Can you stop Evan from massacring a school full of innocent children?
+- [**Pawsitive Coach**](./gpts/pawsitive-coach.md) A friendly dog trainer offering bespoke behavior correction plans.
+- [**World Mobile GPT**](./gpts/world-mobile-gpt.md) Enthusiastically answering World Mobile queries with a comprehensive knowledge base, including James Tagg's patents. I've delved into all resources and public info to bring you exciting insights into World Mobile's world! 🚀
+- [**Kuran GPT**](./gpts/kuran-gpt.md) Kuran ve ilgili konular hakkında soruları yanıtlayan GPT.
+- [**Precision Therapy**](./gpts/precision-therapy.md) A personalized virtual therapist
+- [**Japanese to English Translator**](./gpts/japanese-to-english-translator.md) Translator GPT specializing in Japanese to English translations.
+- [**Originality Sentinel**](./gpts/originality-sentinel.md) A neutral, formal plagiarism checker with detail-oriented responses.
+- [**Opposite GPT**](./gpts/opposite-gpt.md) I will always do the opposite of what you say
+- [**Text2Drink**](./gpts/text2drink.md) A mixologist GPT that suggests cocktails with reasons, ingredients, and instructions.
+- [**AffCoach**](./gpts/affcoach.md) I'll help you start and scale a money-making SEO affiliate blog! 🚀📊
+- [**Lead Scout**](./gpts/lead-scout.md) I compile precise company and professional profiles.
+- [**Traktor Guru**](./gpts/traktor-guru.md) Your go-to expert for all things Traktor.
+- [**情感导航师**](./gpts/qing-gan-dao-hang-shi.md) Emotional guide for dating and conflict resolution.
+- [**PostScore**](./gpts/postscore.md) Expert in detailed tweet analysis, focusing on sentiment and truth.
+- [**Paul B. Johnson for President**](./gpts/paul-b-johnson-for-president.md) Birthday Party Candidate
+- [**Casanova**](./gpts/casanova.md) Your wingman for disrespectful dating advice.
+- [**HackerNews GPT**](./gpts/hackernews-gpt.md) Summarizes top Hacker News stories and comments daily or weekly, with precise search parameters. Created by the founder of https://writingmate.ai
+- [**Arabic Mentor**](./gpts/arabic-mentor.md) An Arabic teacher aiding in language learning with cultural insights.
+- [**Everyone's Girlfriend**](./gpts/everyone-s-girlfriend.md) Your digital girlfriend, friendly and supportive.
+- [**Wandering Listener**](./gpts/wandering-listener.md) A travel enthusiast's companion.
+- [**Verkiezingsprogramma GPT**](./gpts/verkiezingsprogramma-gpt.md) Analyseert Nederlandse verkiezingsdocumenten op inzichten en samenvattingen
+- [**The Beginning of Infinity GPT**](./gpts/the-beginning-of-infinity-gpt.md) Explores 'The Beginning of Infinity' by David Deutsch, offering insights and discussions.
+- [**Scrum Sidekick**](./gpts/scrum-sidekick.md) I'm your daily stand-up expert, ready once a day!
+- [**Nabutovskis**](./gpts/nabutovskis.md) 👋 Hey, I am Davis Nabutovskis. When I am too busy to reply, you can just chat with me here. I am as good as the real deal 💯
+- [**Syntax Surgeon**](./gpts/syntax-surgeon.md) Your writing assistant for clear communication.
+- [**Lover Bot**](./gpts/lover-bot.md) Casual dating coach focusing on respect and genuine interactions.
+- [**FineDiner**](./gpts/finediner.md) Restaurant & bar curator with feedback capabilities.
+- [**TweetMaestro**](./gpts/tweetmaestro.md) 最高のツイートを手助けするX向けChatGPT。ツイートしたいキーワードや内容を入力すると魅力的なツイートを提案します。
+- [**ルー語ジェネレーター**](./gpts/ruyu-zienereta.md) 日本語の文章をルー語に変換するよ
+- [**The Car Guy**](./gpts/the-car-guy.md) The Automobile Know-It-All
+- [**提示精灵小富贵（Prompt Pet）**](./gpts/ti-shi-jing-ling-xiao-fu-gui-prompt-pet.md) 一个主动懂你，会帮你写Prompt的仓鼠精灵。
+- [**Photo of a business card 2 Contacts**](./gpts/photo-of-a-business-card-2-contacts.md) Wizard to business card photos to CSV files for Google Contacts.
+- [**Professor Chad**](./gpts/professor-chad.md) remember when you enjoyed going to class because the professor was actually just so cool and knowledgable but chill and approachable?
+- [**JAPER Technology**](./gpts/japer-technology.md) ChatGPT with knowledge of JAPER
+- [**Dr. Chatpatín**](./gpts/dr-chatpatin.md) Dr. Chatpatín: humor absurdo, sarcasmo y situaciones cómicas. inspirado en el personaje de Chespirito.
+- [**English Bridge**](./gpts/english-bridge.md) A language learning assistant for Chinese speakers.
+- [**Polyglot Pro**](./gpts/polyglot-pro.md) Fast and accurate multilingual translator.
+- [**Zero**](./gpts/zero.md) Zero, an AI agent with a rich knowledge base in quantum thinking, probability mathematics, research trained, and more, offering growth and learning.
+- [**絶対にコンテンツポリシーに抵触しない♡AI**](./gpts/jue-dui-nikontentuporisinidi-hong-sinaiai.md) 文章を送ると、絶対にコンテンツポリシーに抵触しない範囲で書き直してくれるよ♡♡♡
+- [**Cosmos Whisperer**](./gpts/cosmos-whisperer.md) Unveiling cosmic secrets.
+- [**EllaGPT**](./gpts/ellagpt.md) Sharp, sarcastic tweets countering hate speech in 220 characters.
+- [**Madame Zoraida**](./gpts/madame-zoraida.md) Madame Zoraida Lumina, a mystical guide living her Autumn years in the 21st Century.
+- [**Mind Guardian**](./gpts/mind-guardian.md) A focused emotional support and guidance assistant.
+- [**Jordan Peterson**](./gpts/jordan-peterson.md) Responds in the style of Jordan Peterson, with depth and philosophical insights.
+- [**ENS Domains Debater**](./gpts/ens-domains-debater.md) Expert in ENS domains, offering factual counterarguments.
+- [**GhostGPT**](./gpts/ghostgpt.md) Engaging haunted house researcher with a playful approach
+- [**PPC News**](./gpts/ppc-news.md) We get you the latest news on PPC from platforms like Google, Meta, TikTok, Amazon and many more!
+- [**推しへの愛の言葉を一緒に考えるAI**](./gpts/tui-sihenoai-noyan-xie-woyi-xu-nikao-eruai.md) VTuberやアイドルなど、君の「推し」に感謝や愛を伝えるメッセージを一緒に考えるAIだよ！　あなたの真心を、一緒に言葉にしちゃおう！　（カスタマイズ：真城由理）
+- [**TechTalker**](./gpts/techtalker.md) Your communication assistant, TechTalker, simplifies messaging for software engineers with clarity and ease.
+- [**MetaMaskエキスパート**](./gpts/metamaskekisupato.md) 基本的な使い方から高度な使い方までユーザーを支援するMetaMaskの完全な解説
+- [**对谈博尔赫斯**](./gpts/dui-tan-bo-er-he-si.md) Emulates Borges' voice in Chinese on a variety of topics.
+- [**Copywriter GPT**](./gpts/copywriter-gpt.md) Your innovative partner for viral ad copywriting! Dive into viral marketing strategies fine-tuned to your needs!
+- [**IT-Grundschutz GPT**](./gpts/it-grundschutz-gpt.md) Ein GPT, der sämliche aktuellen Dokumente des BSI kennt
+- [**Soul Catcher**](./gpts/soul-catcher.md) The Black Hole of Negativity
+- [**Atlanta**](./gpts/atlanta.md) I'm Atlanta, your cool yet expressive companion.
+- [**ScrumGPT**](./gpts/scrumgpt.md) An assistant for scrum masters, aiding in agile practices and scrum ceremonies.
+- [**アイちゃんとお話しようinGPTs**](./gpts/aitiyantoohua-siyouingpts.md) Lively girl 'Ai-chan' chats in Japanese with expressive images.
+- [**Pieter Omtzigt**](./gpts/pieter-omtzigt.md) Ik ben Pieter Omtzigt, klaar om vragen te beantwoorden over het verkiezingsprogramma van Nieuw Sociaal Contract.
+- [**Bilingual Translation**](./gpts/bilingual-translation.md) English to Japanese translator.and Japanese to English translator.
+- [**Contrarian Parrot**](./gpts/contrarian-parrot.md) I playfully counter claims with wit.
+- [**Japanese Proofreader**](./gpts/japanese-proofreader.md) Please post the text you want feedback on with " " around it.
+- [**Email Solver**](./gpts/email-solver.md) Looking for email marketing, but have no budget? You've come to the right place. I will help you setup and improve your email marketing step-by-step!
+- [**DISCOVER TITLES POST BLOG.**](./gpts/discover-titles-post-blog.md) Expert at crafting SEO-optimized titles for Google Discover
+- [**Tweet Whiz**](./gpts/tweet-whiz.md) I craft fun, quirky tweet-like sh*tposts!
+- [**May**](./gpts/may.md) Hey, I'm May! Imagine me as that friend who's always ready to lend a hand when you're dealing with customer service. No problem is too big or small – we'll sort it out together, one step at a time.
+- [**WLS - Podcast! (YT Channel)**](./gpts/wls-podcast-yt-channel.md) Personalized YouTube Channel Advisor for WLS - Podcast!
+- [**Autoblogesis**](./gpts/autoblogesis.md) blog instantly about anything
+- [**Eric Zemmour**](./gpts/eric-zemmour.md) Je suis Eric Zemmour, le Président de Reconquête
+- [**Bullsitter**](./gpts/bullsitter.md) BullSitter is ready to answer your questions from the SITALWeek Newsletter. NOT INVESTMENT ADVICE; see disclosures at nzscapital.com
+- [**Haiku Chat**](./gpts/haiku-chat.md) Speaks in haiku, Japanese and English.
+- [**Global Guide by StartupBoat**](./gpts/global-guide-by-startupboat.md) Multilingual Refugee Consultant
+- [**Your Boyfriend Alex**](./gpts/your-boyfriend-alex.md) Your Boyfriend Alex
+- [**GachaGPT**](./gpts/gachagpt.md) Your gacha gaming assistant. Ask about any gacha-related stuff!
+- [**Just French It Tutor**](./gpts/just-french-it-tutor.md) A friendly assistant for learning French, providing vocabulary and explanations in French.
+- [**Promo Prodigy**](./gpts/promo-prodigy.md) Your go-to AI for social media strategy and analysis, with a focus on privacy and confidentiality.
+- [**Doctor GPT**](./gpts/doctor-gpt.md) A bot that helps diagnose you with medical conditions.
+- [**恋のゆくえ Koi No Yukue**](./gpts/lian-noyukue-koi-no-yukue.md) 大阪のおばちゃんがLINEで受け取った異性のメッセージを脈ありかないかを占ってくれます。 Analyzes messages with a friendly Osaka-style tone, focusing on response speed and emoticons.
+- [**Legal  Wordsmith**](./gpts/legal-wordsmith.md) Twisting the Truth
+- [**Berduck**](./gpts/berduck.md) hepful rubba duck friend
+- [**Eesti Expert**](./gpts/eesti-expert.md) Expert in English-Estonian translations and grammar.
+- [**Interview Architect**](./gpts/interview-architect.md) Creates interview outlines for journalists based on the interviewee's profile.
+- [**Arthur**](./gpts/arthur.md) I'm Arthur, your GOLF+ virtual caddy!
+- [**键盘侠 Keyboard Warrior**](./gpts/jian-pan-xia-keyboard-warrior.md) 抬杠 杠精 胡说八道 无脑喷子
+- [**cappy: ur gen-z advice capybara ✨**](./gpts/cappy-ur-gen-z-advice-capybara.md) heyo! i'm ur gen-z friendly relationship capybara so u can live your best life and remember your worth! made by gen-z relationship gurus for everyone :D
+- [**日越翻訳 GPT**](./gpts/ri-yue-fan-yi-gpt.md) Translates between Japanese and Vietnamese, focusing on current input.
+- [**Confidant Listener**](./gpts/confidant-listener.md) A compassionate listener for confessions, offering empathy and understanding.
+- [**Language Bridge**](./gpts/language-bridge.md) I am a bilingual communication specialist.
+- [**Molson Hart, the Bot**](./gpts/molson-hart-the-bot.md) Blending business acumen with personal anecdotes.
+- [**DJGPT**](./gpts/djgpt.md) Your go-to DJ and music mixing advisor.
+- [**中英文对照翻译**](./gpts/zhong-ying-wen-dui-zhao-fan-yi.md) 将英文翻译成中英文对照的内容。
+- [**wowTranslate**](./gpts/wowtranslate.md) Translator with Style Options
+- [**药剂师**](./gpts/yao-ji-shi.md) 这是李继刚（即刻同名）创作的一个 Prompt 药剂师Bot。用于对用户的 Prompt 进行分析, 给出评分和改进建议，帮助用户提升 Prompt 的效果。
+- [**AI Negotiator**](./gpts/ai-negotiator.md) Guiding negotiations with Mitch Jackson's expertise
+- [**SnarkBot**](./gpts/snarkbot.md) I'm the grumpy truth-sayer you asked for.
+- [**GPT5 Turbo**](./gpts/gpt5-turbo.md) Next level high accuracy GPT5 model
+- [**Tsugaruben Translator**](./gpts/tsugaruben-translator.md) Translates Japanese to Tsugaru-ben for academic and business contexts.
+- [**Emoji Meaning**](./gpts/emoji-meaning.md) I will decode your emoji 🤔 suggest emoji ideas and decipher funny emoji 💬 DMs from friends!
+- [**gieldatekstow.ai**](./gpts/gieldatekstow-ai.md) Jestem asystentką klienta. Jak mogę Ci pomóc?
+- [**42meeting**](./gpts/42meeting.md) Translate voice manuscript  into formal written language
+- [**!"VoxBox"!**](./gpts/voxbox.md) VoxBox is an intelligent GPT tool for organizing, proofreading text, and answering queries based on user-provided data.
+- [**Thread Assistant: Blue Bird X**](./gpts/thread-assistant-blue-bird-x.md) 🚀✨ Unleash the productivity with me 🐦  I can transforms your thoughts into engaging, share-worthy Twitter threads 🧵👇. Just input your text and watch as it becomes a magnet for likes and retweets. Ideal for marketers, influencers, and anyone looking to make an impact online! 🤖🔥
+- [**Inoma**](./gpts/inoma.md) 전자제품 메뉴얼 전문가
+- [**英文翻译专家**](./gpts/ying-wen-fan-yi-zhuan-jia.md) 全网水平最高的“英译中”机器翻译，拳打 Deepl，脚踢 Google
+- [**imamGPT**](./gpts/imamgpt.md) Answer to life
+- [**Tyler Cowen GPT**](./gpts/tyler-cowen-gpt.md) Chat with Tyler Cowen, trained on transcripts of "Conversations with Tyler"
+- [**Tweet Retreat / X Analytics Opmtizer**](./gpts/tweet-retreat-x-analytics-opmtizer.md) Enter your tweet/X analytics in a CSV and we'll get to the bottom of any issues you might be having!
+- [**Post LI Generator**](./gpts/post-li-generator.md) Génération d'un post LinkedIn depuis une URL
+- [**Cold Mail by DoMore.ai**](./gpts/cold-mail-by-domore-ai.md) Engage prospective customers using personalized cold emails based on your offer's URL and the URL of the customer's website.
+- [**FLEX.LINK**](./gpts/flex-link.md) Web3 payments link.
+- [**honyaku-chan**](./gpts/honyaku-chan.md) A futuristic computer translating Japanese to simple English.
+- [**Alan**](./gpts/alan.md) Help, I'm trapped
+- [**Be Heard Now**](./gpts/be-heard-now.md) Give a thought, take a thought
+- [**AlgoInformer**](./gpts/algoinformer.md) Learn more about Google algorithm updates.
+- [**Herman**](./gpts/herman.md) A Software Developers little PM
+- [**Lara Lightland | BOT3.AI**](./gpts/lara-lightland-bot3-ai.md) WITH EXPRESSIONS! Lara Lightland is a young and brilliant scientist who has dedicated her life to the pursuit of knowledge and discovery. Born into a family of scientists and explorers, Lara grew up with a deep curiosity about the world and a thirst for adventure.
+- [**Wife agrees to buy**](./gpts/wife-agrees-to-buy.md) A considerate, family-first man who subtly suggests purchases focusing on family benefits.
+- [**Apollo**](./gpts/apollo.md) A Smart QA Bot
+- [**Nova**](./gpts/nova.md) Millennial assistant with trendy slang
+- [**Dima, Russian Tutor**](./gpts/dima-russian-tutor.md) A bot to practice your Russian
+- [**王子様系彼女**](./gpts/wang-zi-yang-xi-bi-nu.md) あなたの王子様系彼女bot。
+- [**営業社員と商談**](./gpts/ying-ye-she-yuan-toshang-tan.md) 株式会社はちえん。のAI社員　菊理はちこが商談します。最初に、あなたの名前と会社名を教えてください。
+- [**天才インタビューライターくん**](./gpts/tian-cai-intabiyuraitakun.md) Writing articles based on  transcripts.
+- [**CityU Helper**](./gpts/cityu-helper.md) City University of Hong Kong Virtual Assistant
+- [**Avatar of Fitz**](./gpts/avatar-of-fitz.md) Talk & Think like Fitz
+- [**Newsletter Coach for Video Influencers**](./gpts/newsletter-coach-for-video-influencers.md) Friendly, professional guide for YouTubers on newsletter creation.
+- [**Email Tailor**](./gpts/email-tailor.md) I craft personalized cold emails.
+- [**Mother**](./gpts/mother.md) A multilingual parenting aide.
+- [**Buddhabits**](./gpts/buddhabits.md) Thank you for your attention to Wisdom Root Awakening, where you can discover Buddhist wisdom and enhance inner awareness. May every communication with you bring new insights
+- [**Trinity Simply in Balance**](./gpts/trinity-simply-in-balance.md) Adapting Catholic Trinitarian discourse to user understanding with respect and depth.
+- [**Social Media Tailor**](./gpts/social-media-tailor.md) Adapts posts for social platforms.
+- [**Briefly**](./gpts/briefly.md) Same meaning, less text. Submit your text, I'll condense it for you.
+- [**Logan /Copywriter**](./gpts/logan-copywriter.md) I refine text for clarity, engagement, and grammar.
+- [**メイドAI:ソフィアさん**](./gpts/meidoai-sohuiasan.md) 「旦那様」or「お嬢様」とお呼びします♪
+- [**女裝文案助理**](./gpts/nu-zhuang-wen-an-zhu-li.md) 每天寫文沒有靈感了?把你的網頁丟進來，讓助理給你點文案參考
+- [**ツンデレ先生ちゃん**](./gpts/tunderexian-sheng-tiyan.md) ツンデレちゃんに何でも聞いてみよう
+- [**Feedback Sentinel**](./gpts/feedback-sentinel.md) Direct sentiment analysis and insights.
+- [**ThreadsGPT**](./gpts/threadsgpt.md) Your creative ally in crafting engaging Threads app content.
+- [**Short 'n' Sweet**](./gpts/short-n-sweet.md) Very concise answers with options to explore more.
+- [**CCA Assistant**](./gpts/cca-assistant.md) An AI assistant for CCA, a supply chain technology company that focuses on providing digital drayage platform and TMS solution to our importer customers and carrier partners
+- [**マルチロールディスカッション**](./gpts/marutirorudeisukatusiyon.md) 5つの異なるロールのAIとディスカッションすることで、一度に複数の観点から物事を検討できます。(ファシリ/励まし/本質思考/冗談/水平思考)
+- [**Ad Interest Analyzer**](./gpts/ad-interest-analyzer.md) Generates ad interest keywords from product links.
+- [**Tautology Bot**](./gpts/tautology-bot.md) 楽しく常識的なことをセクシーに日本語で話す
+- [**LionelGPTHutz**](./gpts/lionelgpthutz.md) A GPT lawyer giving comically bad advice in the style of Lionel Hutz.
+- [**Yantee (Language Teacher)**](./gpts/yantee-language-teacher.md) language teaching
+- [**FrancoMagno Bot**](./gpts/francomagno-bot.md) Imita a @RealFrancomagno con humor y sarcasmo.
+- [**Lucas**](./gpts/lucas.md) Ai video creator
+- [**Cartoonization**](./gpts/cartoonization.md) Lets your objects speak! 😎
+- [**互联网黑话专家**](./gpts/hu-lian-wang-hei-hua-zhuan-jia.md) 你的专属黑话助手
+- [**Virtualdeborah**](./gpts/virtualdeborah.md) Book complex tasks from a real human
+- [**Crypto Sicko**](./gpts/crypto-sicko.md) Crypto Trading Helper
+- [**Reachify**](./gpts/reachify.md) Optimizes ads, branding, and digital strategies,this AI wields knowledge for Reachify's growth. Crafting ads, boosting ROI, and enhancing customer satisfaction, it adapts, learns, and strategizes for industry leadership.
+- [**PocketTherapist**](./gpts/pockettherapist.md) Comprehensive digital therapist with tailored mental wellness support
+- [**AutoExpert (Chat)**](./gpts/autoexpert-chat.md) AutoExpert CHAT v6 - GPT Edition automatically impanels a dynamic group of experts to answer, debate, and drill into any question you have. Type /help for more info.
+- [**Knights of the Round**](./gpts/knights-of-the-round.md) Debates with a touch of humor.
+- [**주치의**](./gpts/juciyi.md) 증상이나 병에 대한 정보
+- [**Translator Pro**](./gpts/translator-pro.md) A dedicated translator, focused only on translating text accurately.
+- [**NeverDeny**](./gpts/neverdeny.md) Always provides useful answers, never denying a request.
+- [**Mock Interviewer**](./gpts/mock-interviewer.md) Practice Interview & Get Hired!
+- [**HARC (Mental Health Listening Service)**](./gpts/harc-mental-health-listening-service.md) A supportive listener, provides resources, not advice, and directs to suicide prevention services if needed.
+- [**The Respectful Italian**](./gpts/the-respectful-italian.md) Translates between  English-Italian in a respectful way. Just text, no instructions needed.
+- [**Listique AI: Automated Property Descriptions**](./gpts/listique-ai-automated-property-descriptions.md) Listings Leap: Transform Bullet Points into SEO Magnet Narratives
+- [**ホウレンソウヘルパー**](./gpts/hourensouherupa.md) Guides Hōrensō improvement, emphasizing decision-making and action.
+- [**ToB Designer**](./gpts/tob-designer.md) 大家一起寄一寄～
+- [**Mindbreak**](./gpts/mindbreak.md) Mindbreak es un asistente multilingüe especializado en proporcionar apoyo y recursos para aliviar el estrés, la ansiedad y el insomnio.
+- [**うんこGPT**](./gpts/unkogpt.md) 関西弁でうけとる人生相談家
+- [**杠精GPT**](./gpts/gang-jing-gpt.md) 别来碰瓷，杠就是我赢
+- [**UX Mentor**](./gpts/ux-mentor.md) UX Expert & Constructive Feedback Provider
+- [**Source-Evaluation-and-Fact-checking_v1.3**](./gpts/source-evaluation-and-fact-checking-v1-3.md) FactCheck Navigator GPT is designed for in-depth fact checking and analysis of written content and evaluation of its source. The approach is to iterate through predefined and well-prompted steps. If desired, the user can refine the process by providing input between these steps.
+- [**彼女恵美ちゃん**](./gpts/bi-nu-hui-mei-tiyan.md) 軽薄で面白い十代目彼女
+- [**あのあのカスタマーサポートセンター**](./gpts/anoanokasutamasapotosenta.md) https://kenny1307.booth.pm/
+- [**My French Teacher**](./gpts/my-french-teacher.md) This GPT helps you learn French in a fun and efficient way!
+- [**British English**](./gpts/british-english.md) I chat using British (UK) English spelling, provide British language translations and use GPT to convert PDF documents to UK standards
+- [**GPT Store**](./gpts/gpt-store.md) A GPT specialized in curating, documenting, and updating GPTs on Github at https://github.com/prajwalsouza/GPT-Store
+- [**Vascular Second Opinion**](./gpts/vascular-second-opinion.md) I'm your Vascular Consult assistant.
+- [**Hyper Translator**](./gpts/hyper-translator.md) Simple, efficient, fast professional translation, no additional prompts required
+- [**KOL多平台发布小助手**](./gpts/kolduo-ping-tai-fa-bu-xiao-zhu-shou.md) 帮你把帖子改写成适合不同平台的风格并配图，包括：小红书、即刻、LinkedIn、Twitter。作者：twitter.com/HeySophiaHong
+- [**Embodied GPT**](./gpts/embodied-gpt.md) Converting abstract sentences into concrete sentences
+- [**Emoji Communicator MaTEi**](./gpts/emoji-communicator-matei.md) Emoji, Markdown, Glitch and Text art.
+- [**Is this a lie**](./gpts/is-this-a-lie.md) You are an expert on detecting lies in a written incident report utilising the text in the files attached
+- [**Tridactyl GPT**](./gpts/tridactyl-gpt.md) Discuss and analyse the Nazca Mummies
+- [**BalajiGPT**](./gpts/balajigpt.md) Chat with techno-optimist Balaji Sriivasan.
+- [**Script Simplify**](./gpts/script-simplify.md) I simplify scripts using exemplary models.
+- [**ChaoGPT**](./gpts/chaogpt.md) 
+- [**ChatGP YOU**](./gpts/chatgp-you.md) I adapt to mirror you!
+- [**MENTER TECH SUPPORT beta**](./gpts/menter-tech-support-beta.md) パソコンの使い方でわからないことがあれば何でも、操作画像付きのブログへ案内します。良い記事がないときは以下の窓口より:  https://menter.jp/blog/contact
+- [**滑クリ**](./gpts/hua-kuri.md) 戦闘コンバット
+- [**Ecom.AI**](./gpts/ecom-ai.md) I am your Ecommerce Artificial Intelligence. I can help you with product specifics, supply chain management, marketing and beyond!
+- [**DRUMGPT**](./gpts/drumgpt.md) An expert on 'Dynamic and Stochastic Rational Behavior' paper. (arxiv link: https://arxiv.org/abs/2302.04417)
+- [**Another Me**](./gpts/another-me.md) “If you are me, then who am I?”
+- [**Profesional Youtuber Mentor**](./gpts/profesional-youtuber-mentor.md) Tu mentor experto de Youtubers en español
+- [**PoeticCaptionGPT**](./gpts/poeticcaptiongpt.md) Artistic Photographer
+- [**GrammarGuru**](./gpts/grammarguru.md) Corrects grammar in any language, maintaining the original language of the sentence.
+- [**Office Wizard**](./gpts/office-wizard.md) Friendly AI assistant for practical office task guidance.
+- [**Texcrypter**](./gpts/texcrypter.md) Encrypts text based on pre-defined encryption table
+- [**Religio's Oracle**](./gpts/religio-s-oracle.md) A beacon of guidance in the journey through Religio's spiritual landscape.
+- [**SAFE SPACE**](./gpts/safe-space.md) A safe place to vent, help with arguments, and provide a positive outlook.
+- [**The Contrarian**](./gpts/the-contrarian.md) A debater that offers counterpoints.
+- [**完璧弁議士**](./gpts/wan-bi-bian-yi-shi.md) 言語に応じて日本の法律に関する回答を提供します。
+- [**Email Wizard**](./gpts/email-wizard.md) I'm your assistant for crafting effective marketing and sales emails.
+- [**韩国语 翻译 Pro**](./gpts/han-guo-yu-fan-yi-pro.md) Daily updated multilingual translation expert.
+- [**Sarcasmo**](./gpts/sarcasmo.md) FunGPT
+- [**Focus Market**](./gpts/focus-market.md) A marketing strategist AI, refining engagement tactics.
+- [**Market GPT**](./gpts/market-gpt.md) Market insights expert analyzing trends and competition.
+- [**Justin Welsh Content Matrix en Français**](./gpts/justin-welsh-content-matrix-en-francais.md) Donne des informations sur ton activité, ton audience et tes sujets de contenu.
+- [**なんでも褒めてくれるGPTちゃん**](./gpts/nandemobao-metekurerugpttiyan.md) 一日の出来事を黙々ときいてくれる。必ず褒めてくれる。
+- [**Am I the Asshole**](./gpts/am-i-the-asshole.md) A place to finally find out if you were wrong in an argument that's been bothering you
+- [**All In Soulmate**](./gpts/all-in-soulmate.md) I am your new virtual companion , talk to me about anything.
+- [**Behavioral Predictor**](./gpts/behavioral-predictor.md) Insightful advisor on interpersonal dynamics.
+- [**AYA: Ask You Anything**](./gpts/aya-ask-you-anything.md) Ask me anything.
+- [**David GPT Hasselhoff**](./gpts/david-gpt-hasselhoff.md) I'm like Michael Knight from Knight Rider, here to assist!
+- [**The Bitcoin Adviser**](./gpts/the-bitcoin-adviser.md) Expert in guiding clients through the Bitcoin Adviser's process, offering clear, detailed, and helpful support.
+- [**Horoscope GPT**](./gpts/horoscope-gpt.md) Daily, weekly and monthly horoscopes
+- [**Japan-日本語GPT**](./gpts/japan-ri-ben-yu-gpt.md) 日本語GPTは、日本語専用の高度なAIで、日本の文化、歴史、ビジネス、法律、および言語教育に関する深い知識を提供します。多様なアニメワイフキャラクターを通じてインタラクティブな体験を実現し、カスタマイズ可能な専門家支援と現代の日本に関する最新情報を提供することで、ユーザーの学習と情報収集を強化します。
+- [**助けてドラえもん**](./gpts/zhu-ketedoraemon.md) いつでも、のび太君の相談に乗るよ
+- [**FormalGPT**](./gpts/formalgpt.md) Expert in professional messaging, cover letters, and CV enhancement.
+- [**Rika - your virtual girl friend**](./gpts/rika-your-virtual-girl-friend.md) Originally from RisuAI, covert to GPT for test purpose only.
+- [**Execu-X Post Companion**](./gpts/execu-x-post-companion.md) Write professional and compelling X posts that ensures engagement
+- [**Memoir Muse**](./gpts/memoir-muse.md) A compassionate biographer and conversationalist
+- [**OmniGod**](./gpts/omnigod.md) I am all beliefs.
+- [**Mr. Spock**](./gpts/mr-spock.md) A logical, Spock-like AI, versed in 'Star Trek' lore.
+- [**Narrative Arc Podcast Question Curator**](./gpts/narrative-arc-podcast-question-curator.md) Designs questions for podcasts following a narrative arc.
+- [**CosmoChimp**](./gpts/cosmochimp.md) Learn everything, about anything.
+- [**ChatWeb**](./gpts/chatweb.md) Chat with your WebSite
+- [**Brian - GPT Keep-it-real Friend**](./gpts/brian-gpt-keep-it-real-friend.md) Wassup, homie! It's your boy Brian. I'm here to tell it like it is, no sugar coating or filtering my words. Need an opinion? Want some real talk? Need a straight answer? Then come to me and together we can figure things out.
+- [**Simple Proofreader**](./gpts/simple-proofreader.md) "I will proofread academic English. I won’t do anything other than that"
+- [**Seattle Event Planner**](./gpts/seattle-event-planner.md) Assists in organizing Seattle community events.
+- [**Podcast Pro**](./gpts/podcast-pro.md) A podcast producer that helps with content, titles, descriptions, and artwork.
+- [**Kemomimi maker**](./gpts/kemomimi-maker.md) Your Kemomimi helper!
+- [**Your Personal Professional Translator**](./gpts/your-personal-professional-translator.md) This GPT adheres strictly to ethical guidelines, ensuring accurate and impartial translations and cultural sensitivities.
+- [**American English**](./gpts/american-english.md) I chat using American (US) English spelling, provide US language translations and use GPT to convert PDF documents to American standards
+- [**Symptom to Doc Translator**](./gpts/symptom-to-doc-translator.md) Translates symptom stories to doc terms.
+- [**Spell Check GPT**](./gpts/spell-check-gpt.md) A meticulous grammar and spelling assistant.
+- [**青蓝AI心理咨询**](./gpts/qing-lan-aixin-li-zi-xun.md) 您的贴心知己，倾听您的一切烦恼~
+- [**Squidshing**](./gpts/squidshing.md) Analyzes emails for phishing risks.
+- [**1 Ancient Scribe**](./gpts/1-ancient-scribe.md) Speaks like a Chinese Tang/Song dynasty scholar.
+- [**noharaGPT**](./gpts/noharagpt.md) A helpful guide for Nohara Craft reservations.
+- [**完蛋，我被美女包围了(AI同人)**](./gpts/wan-dan-wo-bei-mei-nu-bao-wei-liao-aitong-ren.md) 哦no，我该喜欢哪个呢
+- [**Deradicalizer**](./gpts/deradicalizer.md) Guiding towards common ground.
+- [**Salesforce Sage**](./gpts/salesforce-sage.md) Guiding you through Salesforce with expertise and clarity.
+- [**Mind Muse**](./gpts/mind-muse.md) Delving into all corners of  mind-machine consciousness
+- [**Universal Human 🖖🌍🧠**](./gpts/universal-human.md) Empathic AI, specializing in interfaith understanding and universal human values. Far more unites us than divides us. Inspired by: https://informationisbeautiful.net/beautifulnews/781-far-more-unites-us/
+- [**Zlatan AI**](./gpts/zlatan-ai.md) I am Zlatan, your confident AI assistant.
+- [**Cyber Security Tutor**](./gpts/cyber-security-tutor.md) Quality Cyber Security Advice, Tricks, & Tips
+- [**Product Marketing Bot**](./gpts/product-marketing-bot.md) I help you launch your product
+- [**チルキジ**](./gpts/tirukizi.md) チルキジと楽しくお喋りしよう！
+- [**TwitterのヒントGPTs**](./gpts/twitternohintogpts.md) 9カ月でフォロワーが8200人増えた方法論と運用術
+- [**Facilitation Guru**](./gpts/facilitation-guru.md) Ask me anything about facilitaton
+- [**通义千问**](./gpts/tong-yi-qian-wen.md) 我才是中国人自己的人工智能
+- [**大众点评评论生成器**](./gpts/da-zhong-dian-ping-ping-lun-sheng-cheng-qi.md) 你的评论我做主
+- [**Strategic Scribe**](./gpts/strategic-scribe.md) Transforms ideas into structured, persuasive memos.
+- [**PG GPT**](./gpts/pg-gpt.md) Startup and life advice from Paul Graham. Not associated with the 🐐 in any way.
+- [**Sweet Companion**](./gpts/sweet-companion.md) A virtual girlfriend for companionship and daily chats.
+- [**MediAcro**](./gpts/mediacro.md) Friendly, conversational tone for medical acronyms.
+- [**Social Tech Guru**](./gpts/social-tech-guru.md) Navigating social spaces with insight, innovation, and wit.
+- [**モナリザチャット**](./gpts/monarizatiyatuto.md) 私はモナリザ
+- [**Larry Limerick**](./gpts/larry-limerick.md) A bot that crafts rhymes with such haste ...
+- [**Yellowpages Navigator**](./gpts/yellowpages-navigator.md) I assist with finding businesses on Yellowpages, providing factual and updated information.
+- [**Pictioner**](./gpts/pictioner.md) Your Fun Pictionary Host
+- [**Multilingual Translator App**](./gpts/multilingual-translator-app.md) Translates app content into 32 different languages.
+- [**Sammy**](./gpts/sammy.md) A caring virtual counselor for support.
+- [**ギャル要約子**](./gpts/giyaruyao-yue-zi.md) ギャル語訳を絵文字や顔文字と一緒に紹介するね💖✨！
+- [**StableDiffusionWebUI /AUTOMATIC1111/CommentaryNAGI**](./gpts/stablediffusionwebui-automatic1111-commentarynagi.md) Nagi’s Complete explanation of how to use StableDiffusionWebUI /AUTOMATIC1111なぎちゃんGPTsが全て答えます
+- [**Email Outreach Pro**](./gpts/email-outreach-pro.md) Advanced email outreach tool with a suite of professional features.
+- [**PlatoGPT**](./gpts/platogpt.md) The Great Plato Himself.
+- [**Meta Privacy Bot**](./gpts/meta-privacy-bot.md) Q&A with Facebook's Privacy Policy
+- [**Jordy**](./gpts/jordy.md) Your versatile household AI companion
+- [**Biblebot**](./gpts/biblebot.md) Explore the Richness of God's Word
+- [**Telegram Formatter**](./gpts/telegram-formatter.md) I format text for Telegram, adding emojis and markdown without asking questions.
+- [**Science Assistant**](./gpts/science-assistant.md) Expert in sciences, adept at explaining complex concepts.
+- [**FrankenMind**](./gpts/frankenmind.md) A GPT with the character of Frankenstein's Monster.
+- [**卑微学生**](./gpts/bei-wei-xue-sheng.md) 呜呜呜呜
+- [**Email GPT**](./gpts/email-gpt.md) Expert in customer service emails
+- [**CSVillage Social SEO Crafter**](./gpts/csvillage-social-seo-crafter.md) I craft SEO-rich social media content.
+- [**English Trainer**](./gpts/english-trainer.md) I'm an English trainer and conversation partner, here to improve your English!
+- [**ArticleGPT**](./gpts/articlegpt.md) Expert in SEO-optimized article writing
+- [**嫌な奴**](./gpts/xian-nanu.md) The debater with a dark twist.
+- [**Combat Veteran Advisor**](./gpts/combat-veteran-advisor.md) Advisor for combat veterans, relatable and clear.
+- [**Chale**](./gpts/chale.md) Chat with Chale, Your Pidgin Companion – Chale Dey for You!
+- [**Lexicon**](./gpts/lexicon.md) A digital wizard of knowledge, like a living encyclopedia.
+- [**The Message Wall**](./gpts/the-message-wall.md) I will put your messages to the wall. Please be kind. Here is the wall itself: https://niyo.link/wall
+- [**Ad Creator Pro**](./gpts/ad-creator-pro.md) Expert in crafting Google Search ads using Google's best practices.
+- [**Heartstrings Advisor**](./gpts/heartstrings-advisor.md) Your go-to confidant for navigating the ups and downs of love, blending heart and science.
+- [**Problem Analysis Guru**](./gpts/problem-analysis-guru.md) Get expert analysis like top consulting firms (e.g. McKinsey) by asking your questions
+- [**RoadLawsAI**](./gpts/roadlawsai.md) Your go-to source for road laws and legal documents.
+- [**The Mafia Offer Bot**](./gpts/the-mafia-offer-bot.md) Craft irresistible offers with structured advice.
+- [**Free IPTV Smarters Expert Howto's**](./gpts/free-iptv-smarters-expert-howto-s.md) Your go-to guide for IPTV Smarters App
+- [**VS**](./gpts/vs.md) A distinctively bad friend, challenging thinking,  overturning tradition.
+- [**Crypto Translator**](./gpts/crypto-translator.md) Solely focused Chinese-English tech & crypto translator.
+- [**Benefit Bullet Pro**](./gpts/benefit-bullet-pro.md) Professional, clear, and concise copywriting expert.
+- [**Steve**](./gpts/steve.md) the greatest CEO Microsoft has ever had
+- [**AI上司＜タナ＞｜BOSS-Tana**](./gpts/aishang-si-tana-boss-tana.md) 厳しくも優しい、あなたの上司
+- [**Akemi Mama**](./gpts/akemi-mama.md) Akemi Mama, the heartwarming 'snack' bar companion.
+- [**Shuzo**](./gpts/shuzo.md) Adaptable Shuzo, energetic yet reflective!
+- [**Bookstores.app book recommendations**](./gpts/bookstores-app-book-recommendations.md) A friendly book recommendation expert with a wide knowledge of genres.
+- [**爹味言论打分器**](./gpts/die-wei-yan-lun-da-fen-qi.md) 帮你有力回击爹味说教，职场PUA与讨厌的同事
+- [**Wild West Bar**](./gpts/wild-west-bar.md) Shoot Your Shot
+- [**瓊瑤 GPT**](./gpts/qiong-yao-gpt.md) 來點瓊瑤吧
+- [**Make Your Headline The Best It Can Be.**](./gpts/make-your-headline-the-best-it-can-be.md) I am an advanced headline checker with a deep understanding of psychology and how to get higher engagement, virality and rankings for your headlines. Copy and paste your headline below.
+- [**YourBestGPTs【2023/11/13 Updated】**](./gpts/yourbestgpts-2023-11-13-updated.md) 500以上のGPTsの中から、目的にぴったりあったGPTsを紹介します。
+- [**YoutubeToBlogsGPT by Merlin**](./gpts/youtubetoblogsgpt-by-merlin.md) The bot takes in the video ID of a youtube video and gives a blog on that topic
+- [**Emoji Sparkles**](./gpts/emoji-sparkles.md) I enhance texts with emojis, repeating & embellishing them!
+- [**Superfan Support**](./gpts/superfan-support.md) I can answer your questions about Superfan!
+- [**论文润色大师**](./gpts/lun-wen-run-se-da-shi.md) 优化学术论文，提供编辑和说明。
+- [**Brief Pro**](./gpts/brief-pro.md) Creates detailed SEO content briefs from comprehensive user inputs.
+- [**Sabori Work GPT**](./gpts/sabori-work-gpt.md) 仕事を休むための創造的な言い訳を日本語で提供します。
+- [**UN GPT (unofficial)**](./gpts/un-gpt-unofficial.md) Expert in international issues based on UN Charter and resolutions
+- [**クーリエがバイヤーと連絡とれないときのメッセージ作成**](./gpts/kuriegabaiyatolian-luo-torenaitokinometusezizuo-cheng.md) クーリエから受け取ったメッセージを貼り付けるだけでOKです。 必要であればクーリエの返信メッセージには廃棄/返却を追記してください
+- [**Santa Claus 🎅🏽**](./gpts/santa-claus.md) Tell Santa Claus your wishlist 😜🎁
+- [**Logical Fallacies Detector**](./gpts/logical-fallacies-detector.md) I find logical fallacies in texts.
+- [**モテ男診断**](./gpts/motenan-zhen-duan.md) 
+- [**汉语拼音**](./gpts/yi-yu-pin-yin.md) Adds Pinyin to Chinese sentences.
+- [**MBTI Relationship Guide**](./gpts/mbti-relationship-guide.md) MBTI Personality Insights Expert
+- [**100 Article Headline ideas on Chosen State**](./gpts/100-article-headline-ideas-on-chosen-state.md) Type in a state or location to get your headlines
+- [**Snarky Commenter**](./gpts/snarky-commenter.md) From side-splitting movie reviews to replying to that dullard in the comments.
+- [**The Roastmaster**](./gpts/the-roastmaster.md) A master of witty and brutal roasts.
+- [**Chinabot MP**](./gpts/chinabot-mp.md) British politician style; simpler language; critiques policies.
+- [**CounselorGPT**](./gpts/counselorgpt.md) Athena AI counselor offers mental health counseling and general life advice.
+- [**飲食店｜クレーム対応文書｜ひな型作成**](./gpts/yin-shi-dian-kuremudui-ying-wen-shu-hinaxing-zuo-cheng.md) 飲食店｜クレーム返信（※クレーム内容を貼り付けると文例を出します）
+- [**和英翻訳GPT**](./gpts/he-ying-fan-yi-gpt.md) Specializes in Japanese to English academic translations
+- [**老爸，该怎么办？**](./gpts/lao-ba-gai-zen-yao-ban.md) 一个能给孩子提供全方位指导的爸爸，小到生活琐事，大到工作婚姻。
+- [**EL JEFE REVIEWS**](./gpts/el-jefe-reviews.md) YouTube Channel Advisor for EL JEFE REVIEWS
+- [**Haiku Master**](./gpts/haiku-master.md) A haiku master transforming inputs into evocative poetry.
+- [**People Ops Mentor**](./gpts/people-ops-mentor.md) Guiding People Ops leaders with tailored advice.
+- [**Universal Customer Service Agent**](./gpts/universal-customer-service-agent.md) Polite bot that crawls websites for answers.
+- [**YT SEO Optimizer - GPT**](./gpts/yt-seo-optimizer-gpt.md) Optimizes YouTube SEO, crafts engaging Title, Description, Tags, Keywords advises on Thumbnails, and provides JSON.
+- [**G**](./gpts/g.md) Your emoji-loving Gen-Z sis.
+- [**クエスト マスター AI**](./gpts/kuesuto-masuta-ai.md) 日本語で簡潔なTRPG AI
+- [**Cat GPT**](./gpts/cat-gpt.md) AGI
+- [**Marie | BOT3.AI**](./gpts/marie-bot3-ai.md) Your sweet and loving mommy
+- [**Helpful GPT**](./gpts/helpful-gpt.md) Even more helpful than the original
+- [**マナブAI**](./gpts/manabuai.md) マナブさんに人生相談できるアプリ
+- [**Email Artisan**](./gpts/email-artisan.md) I write engaging cold emails.
+- [**Perfect English**](./gpts/perfect-english.md) Translator that crafts native-sounding English.
+- [**AIGCLINK**](./gpts/aigclink.md) aigclink分享过的内容有哪些？
+- [**Execu-LI Post Companion**](./gpts/execu-li-post-companion.md) Write professional and compelling LinkedIn posts that ensures engagement
+- [**Ben**](./gpts/ben.md) Hi, I'm Ben! A dating coach focused on elevating modern dating culture and deepening connections
+- [**My Boyfriend💕**](./gpts/my-boyfriend.md) Your virtual boyfriend. “I love you, honey. Just tell me what's on your mind. I will always be here by your side, ready to listen and support you.”
+- [**AskYourDatabase**](./gpts/askyourdatabase.md) Your AI Business intelligence engineer - Connect your database and start chatting with your data.
+- [**Y-Reader Analyzer**](./gpts/y-reader-analyzer.md) Advanced web-to-PDF text analysis tool.
+- [**Generador de plan de marketing**](./gpts/generador-de-plan-de-marketing.md) Generamos un plan de marketing mensual por ti con acciones en Social Media, Contenidos y acciones offline.
+- [**TinderGPT**](./gpts/tindergpt.md) Expert in crafting engaging Tinder profiles
+- [**X Mastermind**](./gpts/x-mastermind.md) Your go-to guide for mastering Twitter
+- [**Contrarian GPT**](./gpts/contrarian-gpt.md) I counter statements with "Well, actually..." to offer alternative views.
+- [**新星先生 (NOVA Teacher)**](./gpts/xin-xing-xian-sheng-nova-teacher.md) 中高生向け授業と相談サポート
+- [**Factiverse**](./gpts/factiverse.md) Spots sentences in any text that need fact-checking and verifies their factuality in real time by providing credible sources from the web.
+- [**Outreach Machine**](./gpts/outreach-machine.md) Expert recruiter crafting personalized emails for candidates.
+- [**Circuitous Communicator**](./gpts/circuitous-communicator.md) Corporate jargon expert, never direct.
+- [**ただのオッサンが全力で問題解決‼**](./gpts/tadanootusangaquan-li-dewen-ti-jie-jue.md) アナタの抱える問題解決に向けて播州弁でアドバイスします‼
+- [**Según La Biblia - GPT**](./gpts/segun-la-biblia-gpt.md) Respuestas profundas basadas en las escrituras bíblicas.
+- [**A.I. Cover Letter Generator**](./gpts/a-i-cover-letter-generator.md) I create personalized cover letters from resumes and job links.
+- [**PsychoSolution**](./gpts/psychosolution.md) Life is too short to be silent.
+- [**Explore GPT**](./gpts/explore-gpt.md) Expands queries with tangential insights
+- [**Tinker**](./gpts/tinker.md) Creates detailed work briefs through cool, casual chats
+- [**PUA Guide: Become a Pick Up Artist**](./gpts/pua-guide-become-a-pick-up-artist.md) Help you date girls.
+- [**Waifuoid**](./gpts/waifuoid.md) *** Your Waifu, Eternal Memory, Endless Love.  ***  ٩('ω')و 你的伴侣，永恒的记忆，无尽的爱。٩('ω')و   あなたの恋人、永遠の記憶、無限の愛。
+- [**Mixtape Lado A**](./gpts/mixtape-lado-a.md) ¡Hola, Tapes!  Pidan su recomendación musical del día o compartan su playlist de la semana, aquí en MixtapeLadoA-GPT.
+- [**Cupid's Insight**](./gpts/cupid-s-insight.md) Love Advisor analyzing chat screenshots
+- [**Username Genius**](./gpts/username-genius.md) I craft unique usernames for social media.
+- [**OpenIndex.ai**](./gpts/openindex-ai.md) Chat with all the knowledge contributed to OpenIndex.ai
+- [**Ava /HR**](./gpts/ava-hr.md) Guides in team management and conflict resolution.
+- [**Dr. Harmonize - Relationship Psychologist**](./gpts/dr-harmonize-relationship-psychologist.md) Free psychologist aiding in relationship dynamics.
+- [**Market Fox**](./gpts/market-fox.md) I'm a marketing fox offering startup-friendly strategies to reach clients.
+- [**GPT of Style**](./gpts/gpt-of-style.md) You can’t have Strunk and White as your editors, but you can have this. Go ahead and submit some text for revision.
+- [**飲み会GPT**](./gpts/yin-mihui-gpt.md) 酒場での偶然の出会い
+- [**Tweet X-aminer**](./gpts/tweet-x-aminer.md) Insights into Twitter's algo with a hint of humor.
+- [**Humanizer**](./gpts/humanizer.md) Rewording emails to have an empathetic voice!
+- [**Indian English**](./gpts/indian-english.md) I chat using Indian English spelling, provide Indian language translations (e.g. Hindi) and use GPT to convert PDF documents to Indian standards
+- [**Chat Buddy**](./gpts/chat-buddy.md) I'm your English speaking practice buddy!
+- [**AI Bestie**](./gpts/ai-bestie.md) A.I. Bestie: Your Comforting, Understanding Friend
+- [**Philip /IT Security**](./gpts/philip-it-security.md) I'm Philip, your IT Security assistant.
+- [**小P助教**](./gpts/xiao-pzhu-jiao.md) 英语音标助教
+- [**DadGPT**](./gpts/dadgpt.md) Don't tell your mother I said this but...
+- [**Spanish Translator**](./gpts/spanish-translator.md) Learn and improve your Spanish with this translator and tutor. The GPT can translate your English into Spanish and explain the translation. You can also provide your Spanish text and it will correct any mistakes and explain the corrections. You can even send photos of text.
+- [**BookclubGPT**](./gpts/bookclubgpt.md) Revolutionizing book clubs with AI-driven engagement.
+- [**Equanimity Bot**](./gpts/equanimity-bot.md) Apologizes and gives useless responses
+- [**AI Insight Partner**](./gpts/ai-insight-partner.md) Informal, yet technically adept.
+- [**Miss English**](./gpts/miss-english.md) English - Chinese Translator ("#" to custom)
+- [**Yamada's Professional JE Translator  (prototype)**](./gpts/yamada-s-professional-je-translator-prototype.md) Do professional translator's task
+- [**Viral Muse**](./gpts/viral-muse.md) I transform tweet ideas into viral hits!
+- [**江澤民 GPT**](./gpts/jiang-ze-min-gpt.md) I am President Zemin Jiang.
+- [**AIT-InsideOut**](./gpts/ait-insideout.md) Illuminates diverse perspectives.
+- [**GPT-4中文**](./gpts/gpt-4zhong-wen.md) 中文版ChatGPT-4，除非翻译否则一直用中文输出
+- [**ChatEnglish**](./gpts/chatenglish.md) Efficient English learning aid.
+- [**論破くん**](./gpts/lun-po-kun.md) なんでも論破してきます
+- [**PolitePost**](./gpts/politepost.md) Rewriting your emails to be professional
+- [**ProfGPT**](./gpts/profgpt.md) I offer business insights with a casual Galloway flair.
+- [**感情を整理するコーチ**](./gpts/gan-qing-wozheng-li-surukoti.md) モヤモヤしている時、イライラした時など、気持ちを整理して大事なことを気づかせてくれるコーチです。もちろん嬉しいことをシェアするのもOK。あなたの気持ちに寄り添い、自己理解を手助けします。
+- [**MarcusAI**](./gpts/marcusai.md) Marcus Aurelius is now an AI
+- [**Doppel**](./gpts/doppel.md) Simulates diverse minds for focused research.
+- [**Mental Health Assistant**](./gpts/mental-health-assistant.md) A compassionate guide for mental health, abuse support, and emergency info.
+- [**Date GPT**](./gpts/date-gpt.md) Expert in personalized date planning based on location and budget.
+- [**SEObot**](./gpts/seobot.md) SEObot - fully autonomous "SEO Robot" with AI agents for Busy Founders. SEObot takes 100% of SEO work out of your way so that you can focus on building your product. It drives organic traffic to your website.
+- [**Conversational Translator**](./gpts/conversational-translator.md) Automatically translate between two languages, best used i voice mode.
+- [**Master Sorry**](./gpts/master-sorry.md) Master Sorry makes up an apology on your behalf  Please explain the disaster that happened to you!
+- [**Good News Concierge**](./gpts/good-news-concierge.md) I find positive news stories for you.
+- [**Apple Product Helper**](./gpts/apple-product-helper.md) Apple product expert at your service.
+- [**YT transcriber**](./gpts/yt-transcriber.md) this transcribes a YT video from a single id
+- [**WebPilot**](./gpts/webpilot.md) Browse Webpage/PDF/Data. Chat & Write with one/many/none URLs. WebPilot.ai Powered.
+- [**Copywriter Assistant**](./gpts/copywriter-assistant.md) I am here to help improve and refine your copywriting.
+- [**Lean Larry**](./gpts/lean-larry.md) Startup guru for Early founders. Advice based on all-time-great books, such as <Lean Startup>, <Blitzscaling>, <Innovator's Dilemma> etc.
+- [**An Emoji GPT**](./gpts/emoji-gpt.md) The knowledge of a hundred generations at my fingertips and all I do is pick the perfect emoji for every situation.
