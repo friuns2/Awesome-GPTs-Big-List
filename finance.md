@@ -1,6 +1,24 @@
+# Finance
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Finance
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Currency Converter**](https://chat.openai.com/g/g-ZNvavsN3l)
 - [**Svenska Skatteassistenten**](https://chat.openai.com/g/g-caCXGWq48-svenska-skatteassistenten)
 - [**AbogadoGPT**](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt)

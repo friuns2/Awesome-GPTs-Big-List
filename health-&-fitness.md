@@ -1,6 +1,24 @@
+# Health & Fitness
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Health & Fitness
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Pill Pal**](https://chat.openai.com/g/g-oHDhbozdt-pill-pal)
 - [**Daily Bedtime Journal**](https://chat.openai.com/g/g-rnsmLxOHR-daily-bedtime-journal)
 - [**Pocket Therapist**](https://chat.openai.com/g/g-uy0M27qrr-pocket-therapist)

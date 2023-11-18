@@ -1,6 +1,24 @@
+# Communication
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Communication
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Lex Fridman**](https://chat.openai.com/g/g-aZNL7vXSf-lex-fridman)
 - [**editGPT**](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 - [**Fart Hero**](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero)

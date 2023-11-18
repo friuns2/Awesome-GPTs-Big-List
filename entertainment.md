@@ -1,6 +1,24 @@
+# Entertainment
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Entertainment
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Simpsonize Me**](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me)
 - [**Dish Roaster**](https://chat.openai.com/g/g-nzZCfAQ0M-dish-roaster)
 - [**Caveman GPT**](https://chat.openai.com/g/g-6EER9RKH6-caveman-gpt)

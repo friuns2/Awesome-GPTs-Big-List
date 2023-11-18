@@ -1,6 +1,24 @@
+# News & Weather
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## News & Weather
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Good News Concierge**](https://chat.openai.com/g/g-0ZTu1ojV3-good-news-concierge)
 - [**No-Code News**](https://chat.openai.com/g/g-t2KCsqk91-no-code-news)
 - [**Bright News Gazette**](https://chat.openai.com/g/g-vbiIzSjVC-bright-news-gazette)

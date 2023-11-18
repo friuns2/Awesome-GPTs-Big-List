@@ -1,6 +1,24 @@
+# Education
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Education
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Time Travel Chat**](https://chat.openai.com/g/g-MOVDnrtbT-time-travel-chat)
 - [**📚 Summarizer Pro 📄**](https://chat.openai.com/g/g-uwJFgQQ4i-summarizer-pro)
 - [**Paul Graham**](https://chat.openai.com/g/g-p2M4Atl3N-paul-graham)

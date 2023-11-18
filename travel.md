@@ -1,6 +1,24 @@
+# Travel
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Travel
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Itinerary Planner - Globetrotter Guide**](https://chat.openai.com/g/g-rlxtQxHxC-itinerary-planner-globetrotter-guide)
 - [**Flight Coach**](https://chat.openai.com/g/g-5i1eI9Ciy-flight-coach)
 - [**Pilot Mentor**](https://chat.openai.com/g/g-TrU25ecw9-pilot-mentor)

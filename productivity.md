@@ -1,6 +1,24 @@
+# Productivity
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Productivity
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**From image to text 📷💬**](https://chat.openai.com/g/g-PTLXUA56g-from-image-to-text)
 - [**Echo Writer**](https://chat.openai.com/g/g-shwWB8Wp4-echo-writer)
 - [**📚 Summarizer Pro 📄**](https://chat.openai.com/g/g-uwJFgQQ4i-summarizer-pro)

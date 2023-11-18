@@ -1,6 +1,24 @@
+# Art & Design
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Art & Design
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Simpsonize Me**](https://chat.openai.com/g/g-tcmMldCYy-simpsonize-me)
 - [**Dish Roaster**](https://chat.openai.com/g/g-nzZCfAQ0M-dish-roaster)
 - [**Echo Writer**](https://chat.openai.com/g/g-shwWB8Wp4-echo-writer)

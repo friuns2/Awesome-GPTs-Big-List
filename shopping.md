@@ -1,6 +1,24 @@
+# Shopping
+
+## Categories
+
 # Awesome GPTs You Should Know About
 
-## Shopping
+## Categories
+
+- [Entertainment](./entertainment.md)
+- [Other](./readme.md)
+- [Finance](./finance.md)
+- [Art & Design](./art-&-design.md)
+- [Communication](./communication.md)
+- [Health & Fitness](./health-&-fitness.md)
+- [Productivity](./productivity.md)
+- [Travel](./travel.md)
+- [Shopping](./shopping.md)
+- [News & Weather](./news-&-weather.md)
+- [Education](./education.md)
+
+## GPTs
 - [**Amazon Scout**](https://chat.openai.com/g/g-0M42Pb2fg-amazon-scout)
 - [**Awesome BFCM Deals Finder 2023**](https://chat.openai.com/g/g-I0UcBW7ZU-awesome-bfcm-deals-finder-2023)
 - [**Amazon Listing Wizard**](https://chat.openai.com/g/g-cyCdsDpO9-amazon-listing-wizard)
