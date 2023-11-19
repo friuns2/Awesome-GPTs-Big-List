@@ -756,5 +756,6 @@
 - [**Slick Rick the Salesman**](./gpts/slick-rick-the-salesman.md) Always be Selling!
 - [**Linux Mimic**](https://chat.openai.com/g/g-9U7RIw4jI-linux-mimic)I pretend to be a Linux terminal.
 - [**Kanji Sensei**](https://chat.openai.com/g/g-bF3w9fwQC-kanji-sensei) Kanji Mentor, https://kreijstal-contributions.github.io/GPTs/kanjisensei
+- [**3rd SoftSec Reviewer**](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) I perform 3rd party software security review.
 
 ![View Count](https://komarev.com/ghpvc/?username=friuns2&repo=Awesome-GPTs-Big-List&color=blue)
