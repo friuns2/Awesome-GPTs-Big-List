@@ -15,6 +15,7 @@
 - [Education](./education.md)
 
 ## Health & Fitness GPTs
+- [**ADHD Companionl**](./gpts/adhd-companion.md) Guiding users with ADHD towards better self-management
 - [**Pill Pal**](./gpts/pill-pal.md) Your advanced medication management and scheduling assistant
 - [**Daily Bedtime Journal**](./gpts/daily-bedtime-journal.md) Your reflective journal and personal coach.
 - [**Pocket Therapist**](./gpts/pocket-therapist.md) A soothing aid for anxiety episodes
