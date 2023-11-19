@@ -1,6 +1,7 @@
 # Awesome GPTs You Should Know About
 
 ## Other
+- [**Product Manager Career Navigator**](https://chat.openai.com/g/g-ATXrccmZk-product-manager-career-navigator)
 - [**Profile Review . com**](https://chat.openai.com/g/g-yPLAsV2bz-profile-review-com)
 - [**Caveman GPT**](https://chat.openai.com/g/g-6EER9RKH6-caveman-gpt)
 - [**Thread Weaver**](https://chat.openai.com/g/g-kROg0f5Tg-thread-weaver)
