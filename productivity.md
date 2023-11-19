@@ -1435,3 +1435,4 @@
 - [**GitMaxd’s Onboarding Email Generator**](./gpts/gitmaxds-onboarding-email-generator.md) I create SaaS onboarding emails.
 - [**Copywriter Assistant**](./gpts/copywriter-assistant.md) I am here to help improve and refine your copywriting.
 - [**Product Coach**](./gpts/product-coach.md) Guiding your product journey with expert insights.
+- [**Technical RFP Expert**](./gpts/technical-rfp-expert.md) Offers analysis and guidance on technology-focused RFPs, RFIs, and RFQs, focusing on technical aspects, risks, and regulations in a clear, factual manner.
