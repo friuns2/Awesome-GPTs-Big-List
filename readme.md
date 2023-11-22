@@ -1,7 +1,7 @@
 # Awesome GPTs You Should Know About
 
 ## Update
-I just made list of free GPTs that work without GPTs plus [Here](https://github.com/friuns2/FreeGPTs.git)
+I just made list of free GPTs [Here](https://github.com/friuns2/FreeGPTs.git)  (ChatGPT Plus subscription bypass.)
 
 ## Categories
 
