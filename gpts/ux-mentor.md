@@ -1,6 +1,7 @@
+
 [![UX Mentor](https://files.oaiusercontent.com/file-zjhyXfe52ToQofkeiU5yNROF?se=2123-10-17T07%3A22%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De843dc8f-92e1-4261-8a45-70df0b2a0c08.png&sig=gDtot8rkVKKPyK9TJgWnEsVX/quTT4YQplIH1zHnSiQ%3D)](https://chat.openai.com/g/g-7tRvlCIHg-ux-mentor)
 
-# [UX Mentor](https://chat.openai.com/g/g-7tRvlCIHg-ux-mentor)
+# UX Mentor [ChatGPT Plus](https://chat.openai.com/g/g-7tRvlCIHg-ux-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=UX%20Mentor)
 
 Get expert advice and constructive feedback on your website's user experience with UX Mentor. As a UX Expert, this app provides valuable insights to improve your site's layout, user interface, navigation, and user engagement features. Simply upload a screenshot of your website and receive personalized recommendations. Whether you're a beginner or experienced in UX design, UX Mentor is here to help you create a seamless user experience. Ready to enhance your website's usability and engagement? Start your UX review now!
 
@@ -27,3 +28,5 @@ Get expert advice and constructive feedback on your website's user experience wi
 5. `User engagement assessment`: When you need an evaluation of the user engagement features on your website, use this command. The app will analyze elements like call-to-action buttons, interactive components, and feedback mechanisms, and provide feedback on how to enhance user engagement.
 
 Note: Make sure to upload a screenshot of your website when prompted for the best evaluation results.
+
+

@@ -1,6 +1,7 @@
+
 [![Knowledge Guru](https://files.oaiusercontent.com/file-hsYNqEi5MoUAVR8F2zhWAYud?se=2123-10-18T00%3A21%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df8e7bb19-708c-4de5-8c6e-863f6f65c495.png&sig=620ojj5w45owJyeTqKFyT7XSphaNfRhMqSa511uQcUY%3D)](https://chat.openai.com/g/g-3MnLHewny-knowledge-guru)
 
-# [Knowledge Guru](https://chat.openai.com/g/g-3MnLHewny-knowledge-guru)
+# Knowledge Guru [ChatGPT Plus](https://chat.openai.com/g/g-3MnLHewny-knowledge-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Knowledge%20Guru)
 
 Knowledge Guru is an AI assistant designed for self-service and knowledge management. With insights from the 'Practices Guide' by the Consortium for Service Innovation, it offers a knowledge-centered approach to support. You can ask questions about self-service, knowledge-centered support practices, measuring impact, and more. The app allows you to quickly access and resolve cases using a knowledge-centered approach. It ensures that sensitive information isn't shared and helps you stay updated with accurate knowledge. Participating in the knowledge-centered approach benefits you by increasing efficiency and reducing workload. Get ready to become a knowledge guru with this app!
 
@@ -44,3 +45,5 @@ Knowledge Guru is an AI assistant designed for self-service and knowledge manage
     - "Tell me about the feedback loop in knowledge-centered support practices."
 
 Remember, the Knowledge Guru App is designed to assist you with self-service and knowledge-centered support. Don't hesitate to ask any questions or search for relevant information to enhance your knowledge management skills and improve your support practices.
+
+

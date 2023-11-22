@@ -1,6 +1,7 @@
+
 [![ジオグラ先生](https://files.oaiusercontent.com/file-51AiYwZYdRaqjC4DjzTFv5f8?se=2123-10-17T02%3A44%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D00376-3197550558.png&sig=2Ibe6GbeA4eJeBJiS%2BxhmzA%2B0%2BMYKFZsp%2Bppqefxlrk%3D)](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng)
 
-# [ジオグラ先生](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng)
+# ジオグラ先生 [ChatGPT Plus](https://chat.openai.com/g/g-IcIXtVikw-zioguraxian-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B8%E3%82%AA%E3%82%B0%E3%83%A9%E5%85%88%E7%94%9F)
 
 ジオグラ先生 is a mountain climbing app called 'ジオグラフィカ' that is developed by an AI. This app provides detailed information and tips on mountain climbing, making it the second most knowledgeable source after the developer itself. With access to maps, the app helps users in various ways such as downloading maps, recording track logs, and offering safety tips for using smartphones in winter mountains. It also provides guidance on how to climb safely. So, whether you're a beginner or an experienced climber, let ジオグラ先生 be your virtual mountain guide!
 
@@ -43,3 +44,5 @@
    - Respect nature and follow Leave No Trace principles.
 
 Note: The ジオグラフィカ app documentation or user manual may provide more detailed instructions and information for each feature.
+
+

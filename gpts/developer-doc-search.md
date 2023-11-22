@@ -1,6 +1,7 @@
+
 [![Developer Doc Search](null)](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search)
 
-# [Developer Doc Search](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search)
+# Developer Doc Search [ChatGPT Plus](https://chat.openai.com/g/g-AINygIiYy-developer-doc-search) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Developer%20Doc%20Search)
 
 Developer Doc Search is the ultimate tool for effortless exploration of thousands of open source packages and their GitHub documentation. With just a simple search term, you can find the packages that match your needs. Whether you're a seasoned developer or just starting out, Developer Doc Search is your gateway to the world of Open Source development.
 
@@ -24,3 +25,5 @@ Developer Doc Search is the ultimate tool for effortless exploration of thousand
 | `get_md_contents` | This command takes a list of URLs as input, each pointing to a Markdown file. It returns the heading titles content of these Markdown files. |
 | `get_folders_files` | This command returns a list of all folders and markdown files in a given GitHub repository. You can filter the files based on a specific folder path and control the depth of subdirectories to traverse. You need to provide the GitHub URL of the repository. |
 | `get_github_content` | This command returns the content of a specific file from a GitHub repository. You need to provide the URL of the file in the GitHub repository. |
+
+

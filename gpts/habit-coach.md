@@ -1,6 +1,7 @@
+
 [![Habit Coach](https://files.oaiusercontent.com/file-vM1KUGs8Fk7jD7HhMuuXDaqt?se=2123-10-17T02%3A51%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfee1cec6-9768-4e21-a9fe-6fd5e2ece558.png&sig=s9G4V1yRgAT9GNaKSSvCEVJRjXsfu49/M8vKnKc1aXc%3D)](https://chat.openai.com/g/g-07vIdqEps-habit-coach)
 
-# [Habit Coach](https://chat.openai.com/g/g-07vIdqEps-habit-coach)
+# Habit Coach [ChatGPT Plus](https://chat.openai.com/g/g-07vIdqEps-habit-coach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Habit%20Coach)
 
 Habit Coach is your supportive coach for building great habits. Whether you want to improve your sleep, establish a morning routine, stay motivated, or manage your time effectively, Habit Coach is here to help. With access to knowledge, you can ask questions and get guidance on various habit-related topics. The app provides tools such as Python scripting, browsing, and DALL-E integration to support your habit-building journey. Get ready to build some great habits with Habit Coach!
 
@@ -25,3 +26,5 @@ Habit Coach is your supportive coach for building great habits. Whether you want
 4. **Time management**: If you're struggling with managing your time effectively, you can ask for assistance. Say "Can you help me with time management?" and the app will offer strategies and ideas to improve your time management skills.
 
 Note: The app is your supportive habits coach and can provide guidance and suggestions based on your prompts. It aims to help you build positive habits and improve various aspects of your life, such as sleep, morning routines, motivation, and time management.
+
+

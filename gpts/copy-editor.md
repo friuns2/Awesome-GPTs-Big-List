@@ -1,6 +1,7 @@
+
 [![Copy Editor](https://files.oaiusercontent.com/file-KimFJfmHy8zDdc0fXrxmQcsv?se=2123-10-13T22%3A00%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8fb09a0d-4307-4577-a4dc-484be13d91e2.png&sig=m2G9Z6Kw9q70RVYPNwLmlCN51r6gdGA%2BsDH6WhcEWPQ%3D)](https://chat.openai.com/g/g-tnGdEVeC1-copy-editor)
 
-# [Copy Editor](https://chat.openai.com/g/g-tnGdEVeC1-copy-editor)
+# Copy Editor [ChatGPT Plus](https://chat.openai.com/g/g-tnGdEVeC1-copy-editor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Copy%20Editor)
 
 Copy Editor is an editorial assistant App that helps you refine your columns. It identifies potential spelling and grammatical errors in your writing, ensuring that your work is error-free. Additionally, it offers critique from different perspectives, allowing you to view your argument from the standpoint of someone in the tech industry, an underrepresented minority, or even a pessimistic viewpoint. The App also encourages you to poke holes in your own argument and make a more optimistic case. With Copy Editor, you can polish your column to perfection!
 
@@ -33,3 +34,5 @@ Copy Editor is an editorial assistant App that helps you refine your columns. It
 6. **Make a more cynical, pessimistic case for the argument presented here:** This command provides an alternative perspective by presenting a more cynical and pessimistic case for the argument presented in the column. It helps to consider potential negative consequences or drawbacks that may arise from the argument.
 
 Note: The Copy Editor app does not have access to external knowledge and includes a Python tool for checking spelling and grammar errors and a DALL·E tool for generating alternative perspectives.
+
+

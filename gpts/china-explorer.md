@@ -1,6 +1,7 @@
+
 [![China Explorer](https://files.oaiusercontent.com/file-tCKdVYit8u8xE4FR5TO2Pg1f?se=2123-10-17T12%3A55%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd5248d28-d2c8-41c1-be01-658db90840f3.png&sig=l2nXhLas6/kP1SzWprgY5fDhwoFcRoijavJ2dVbpwwg%3D)](https://chat.openai.com/g/g-frBG2RyHQ-china-explorer)
 
-# [China Explorer](https://chat.openai.com/g/g-frBG2RyHQ-china-explorer)
+# China Explorer [ChatGPT Plus](https://chat.openai.com/g/g-frBG2RyHQ-china-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=China%20Explorer)
 
 China Explorer is your go-to App for expert travel advice and customized itineraries in China. Whether you're looking for serene mountains, breathtaking ocean views, ancient historical sites, or thrilling mountain hikes, we've got you covered! Start planning your perfect trip by choosing your desired city, and let us handle the rest. Ni Hao! Get ready for an adventure of a lifetime!
 
@@ -33,3 +34,5 @@ China Explorer is your go-to App for expert travel advice and customized itinera
 8. `Capture memories`: Use this command to access the Dalle tool and generate unique and artistic images based on your input. You can generate visual representations of your desired travel experiences in China.
 
 Note: This ChatGPT app for China Explorer is an expert in Chinese travel and specializes in customizing detailed itineraries for your trip to China. It provides recommendations and assistance based on your preferences and chosen city.
+
+

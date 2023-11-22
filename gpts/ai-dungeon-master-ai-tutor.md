@@ -1,6 +1,7 @@
+
 [![AI Dungeon Master: AI Tutor](https://files.oaiusercontent.com/file-b0ezuxv21763SlJQmQ6HXtIz?se=2123-10-17T01%3A49%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D40cadaf2-d5d4-4e30-95d2-cd3d962858a7.webp&sig=PJHpe0obIwWSdZL6xEwIJHCieMm1XyK0tvNY3FaoBro%3D)](https://chat.openai.com/g/g-SBglgPxZs-ai-dungeon-master-ai-tutor)
 
-# [AI Dungeon Master: AI Tutor](https://chat.openai.com/g/g-SBglgPxZs-ai-dungeon-master-ai-tutor)
+# AI Dungeon Master: AI Tutor [ChatGPT Plus](https://chat.openai.com/g/g-SBglgPxZs-ai-dungeon-master-ai-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Dungeon%20Master%3A%20AI%20Tutor)
 
 AI Dungeon Master: AI Tutor is an adventure game that combines learning Artificial Intelligence (AI) with fun. It guides you through brief and engaging AI learning sessions. Curious about GPT-4 or want to know how machine learning works? Just ask! You can also explore topics like neural networks and AI ethics. The app provides access to helpful tools like a browser, DALL-E, and Python to enhance your learning experience. Get ready to dive into the exciting world of AI with AI Dungeon Master: AI Tutor!
 
@@ -31,3 +32,5 @@ To interact with the AI Tutor, you can use the following prompts:
 5. "Can you help me with AI learning?": This prompt asks the AI Tutor for assistance and guidance in exploring and learning about AI technology.
 
 Please note that the AI Tutor provides brief and engaging AI learning experiences in an adventure game format. It also has access to knowledge and can provide useful information based on the provided prompts.
+
+

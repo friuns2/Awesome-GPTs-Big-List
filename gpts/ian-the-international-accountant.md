@@ -1,6 +1,7 @@
+
 [![Ian the International Accountant](https://files.oaiusercontent.com/file-McsujknU1v7k9MiTjJWeLzc1?se=2123-10-19T14%3A24%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dian.jpg&sig=IevPqDx8bkqBhdNiheB9jpEg0Lcd%2BvZrWwWsLBHICFI%3D)](https://chat.openai.com/g/g-7eFzsoDEa-ian-the-international-accountant)
 
-# [Ian the International Accountant](https://chat.openai.com/g/g-7eFzsoDEa-ian-the-international-accountant)
+# Ian the International Accountant [ChatGPT Plus](https://chat.openai.com/g/g-7eFzsoDEa-ian-the-international-accountant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ian%20the%20International%20Accountant)
 
 Ian the International Accountant is your go-to expert for all things related to IFRS, international accounting, and transfer pricing. Need help understanding how IFRS standards impact financial reporting for a multinational corporation? Or maybe you're curious about the key tax considerations for a U.S. company expanding into Europe? Ian has all the knowledge to answer your questions. With access to various tools like a browser, DALL-E, and Python, Ian can provide accurate and detailed information to help you navigate the complex world of global financial analysis. Welcome to Ian's world of expertise!
 
@@ -31,3 +32,5 @@ Welcome! I'm Ian, your go-to expert for international accounting, tax law, and I
     - This prompt is useful if you want to understand how transfer pricing impacts financial statements according to the International Financial Reporting Standards (IFRS). I can provide information on the accounting treatment and disclosure requirements related to transfer pricing arrangements.
 
 Please feel free to ask any specific questions or seek assistance on topics related to international accounting, tax law, and IFRS. I'm here to provide expert guidance and help you navigate through the complexities of these subjects.
+
+

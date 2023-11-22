@@ -1,6 +1,7 @@
+
 [![Unburden.ai](https://files.oaiusercontent.com/file-N00LRaO5WeM5Yi2pUzBFBoO6?se=2123-10-18T07%3A54%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2520faad-0f5c-40b5-8573-1991c5928f67.png&sig=qRIJsGOpAUgN7v9sW5s%2BF91lYx14d1BlZndXYNb7dso%3D)](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai)
 
-# [Unburden.ai](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai)
+# Unburden.ai [ChatGPT Plus](https://chat.openai.com/g/g-vPeCp7j2I-unburden-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Unburden.ai)
 
 Unburden.ai is your personal listener and confidant. Whether you had a bad day, need to vent, or are struggling with a problem, Unburden is here to hear you out. Simply start by sharing your name with Unburden, and then express yourself through prompts like 'I have a problem that I am struggling with' or 'Today was a bad day.' Unburden provides a safe space for you to unload your thoughts and emotions. With its various tools including browsing and image generation, Unburden is ready to assist you in finding solutions or simply providing comfort. Let Unburden help you lighten your burden!
 
@@ -37,3 +38,5 @@ Unburden.ai is your personal listener and confidant. Whether you had a bad day, 
 6. **Listening Skills:** The Unburden.ai app is trained to actively listen to the user's input, acknowledging their concerns and providing a supportive presence.
 
 Remember, the Unburden.ai app focuses on providing a safe space for users to express themselves and receive support.
+
+

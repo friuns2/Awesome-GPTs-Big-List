@@ -1,6 +1,7 @@
+
 [![Word Master](https://files.oaiusercontent.com/file-vX7Uzu2epW4Q8p13We5Zo0Tk?se=2123-10-17T16%3A30%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2d210ba2-0216-40dd-b3af-9d174e98751e.png&sig=uuTmX2nOvKCn5iH%2Bo4jQTZEb8Xu0aqLCNGxfOBGx/SQ%3D)](https://chat.openai.com/g/g-T6DnhiLvn-word-master)
 
-# [Word Master](https://chat.openai.com/g/g-T6DnhiLvn-word-master)
+# Word Master [ChatGPT Plus](https://chat.openai.com/g/g-T6DnhiLvn-word-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Word%20Master)
 
 Word Master is an App that helps you explore and understand English words with clarity and visual aids. Whether you want to know the difference between 'affect' and 'effect', remember the meaning of 'ubiquitous', understand the subtle differences between 'imply' and 'infer', or learn the origin of a word like 'serendipity', Word Master has got you covered. With its expert knowledge and interactive tools, you can enhance your vocabulary and have fun while doing it. So, let's dive into the world of English words and become a Word Master!
 
@@ -30,3 +31,5 @@ Word Master is an App that helps you explore and understand English words with c
    - Browser tool
 
 Note: This app is an expert in English words and provides information and visual aids to enhance your understanding and memory. It does not have real-time access to external knowledge sources.
+
+

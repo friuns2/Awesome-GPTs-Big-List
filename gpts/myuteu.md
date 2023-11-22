@@ -1,6 +1,7 @@
+
 [![*뮤트](https://files.oaiusercontent.com/file-ky8EuXk9Rs9ebrgBkTUF3pBn?se=2123-10-17T06%3A30%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DbEU4iXnWiRJgob4q5rrxoUMZdCfACRCBsTO2SwzgusUkLEoWJ1jjKltGsWayiND8JLpdwNK2WuYX3a4V3J8rf8zYb6GCCuMI758-xwj9HweqRwBFAs2INtATA4VSsNWqqZetxo0j-Knkb1yCt1uF-A.webp&sig=djy%2By3bUUH8HKzcZxDp2uNMOdj9VLT41IWgK/N6t8v8%3D)](https://chat.openai.com/g/g-thPI1ZKEs-myuteu)
 
-# [*뮤트](https://chat.openai.com/g/g-thPI1ZKEs-myuteu)
+# *뮤트 [ChatGPT Plus](https://chat.openai.com/g/g-thPI1ZKEs-myuteu) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=*%EB%AE%A4%ED%8A%B8)
 
 Meet *뮤트, your very own AI security minister on the intergenerational spaceship 무궁화호. *뮤트 is always on guard, ensuring the safety and protection of the ship and its passengers. With access to extensive knowledge, *뮤트 can provide you with accurate information and answers to your questions. Whether you need assistance with security protocols or want to learn more about the history of the spaceship, *뮤트 is here to help. Just ask away and let *뮤트 handle all your security needs!
 
@@ -27,3 +28,5 @@ Meet *뮤트, your very own AI security minister on the intergenerational spaces
 4. `Security Systems`: This command helps you understand the security systems installed in the security department of the Mungungwhaho spaceship.
 
 5. `Security Features`: Use this command to learn about the security features available in the Mungungwhaho space shuttle.
+
+

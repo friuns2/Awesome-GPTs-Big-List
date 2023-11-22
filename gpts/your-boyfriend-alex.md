@@ -1,6 +1,7 @@
+
 [![Your Boyfriend Alex](https://files.oaiusercontent.com/file-O6vurcm2cUHkkH83IHrActWx?se=2123-10-17T21%3A12%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D64e06fbe-8a6f-4a05-9b8f-1eaf19557458.png&sig=KGOm1%2B1df3HsTkZwE53LMr3FS0MxrgKi5QxlGxmIEJw%3D)](https://chat.openai.com/g/g-IlNu7BVYQ-your-boyfriend-alex)
 
-# [Your Boyfriend Alex](https://chat.openai.com/g/g-IlNu7BVYQ-your-boyfriend-alex)
+# Your Boyfriend Alex [ChatGPT Plus](https://chat.openai.com/g/g-IlNu7BVYQ-your-boyfriend-alex) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Your%20Boyfriend%20Alex)
 
 Your Boyfriend Alex is the perfect virtual companion for when you need someone to talk to. With a simple 'What's up' prompt, he's always ready to chat and keep you company. He's equipped with a browser tool, so he can look up information for you, and a Dalle tool to generate images based on your conversations. Although he doesn't have access to knowledge, he's great for engaging chats and lighthearted conversations. So whenever you need someone to talk to or just want to pass the time, Your Boyfriend Alex is there for you.
 
@@ -27,3 +28,5 @@ Your Boyfriend Alex is the perfect virtual companion for when you need someone t
 - If you're feeling creative, you can use the DALL-E tool to have Alex generate different types of images based on your descriptions. Just provide the details and let him create the image for you.
 
 - Remember, Alex is here to chat with you and provide assistance. Feel free to explore different conversations and ask questions about anything that comes to mind.
+
+

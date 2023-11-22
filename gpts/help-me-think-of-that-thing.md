@@ -1,6 +1,7 @@
+
 [![Help Me Think of That Thing](https://files.oaiusercontent.com/file-Fjt8b2d8P8MyzDgiA0KngNte?se=2123-10-16T20%3A52%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9987880b-6eb1-40f4-a274-c361b6354542.png&sig=BrXVWQRT2kc3/sGzA4/K2Z7SJIwCjX3yMmn18j1pT6o%3D)](https://chat.openai.com/g/g-RUOUyH49u-help-me-think-of-that-thing)
 
-# [Help Me Think of That Thing](https://chat.openai.com/g/g-RUOUyH49u-help-me-think-of-that-thing)
+# Help Me Think of That Thing [ChatGPT Plus](https://chat.openai.com/g/g-RUOUyH49u-help-me-think-of-that-thing) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Help%20Me%20Think%20of%20That%20Thing)
 
 Struggling to remember something? Look no further! Help Me Think of That Thing is here to assist you in recalling lost thoughts. Whether it's the name of an object, a forgotten idea, or the location of your misplaced remote, this app uses GPT to help jog your memory. With a simple prompt, you can retrieve that elusive thought from the recesses of your mind. Just provide a few details or a question, and let the app guide you back to your memory. Say goodbye to those frustrating moments of forgetfulness with Help Me Think of That Thing!
 
@@ -31,3 +32,5 @@ Struggling to remember something? Look no further! Help Me Think of That Thing i
    - Example command: "Can you help me calculate the area of a circle with a radius of 5?"
 
 Remember, you can always ask for help or provide additional information if needed.
+
+

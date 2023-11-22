@@ -1,6 +1,7 @@
+
 [![チルキジ](https://files.oaiusercontent.com/file-0OxQKdBbl4veWDDVjpn6B4yS?se=2123-10-17T04%3A07%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dap_pfp.png&sig=ua3f2yklY67SfaDLqqm8I27vT3awdO5EJm%2BZOCy7Zk0%3D)](https://chat.openai.com/g/g-AUjBLqnSi-tirukizi)
 
-# [チルキジ](https://chat.openai.com/g/g-AUjBLqnSi-tirukizi)
+# チルキジ [ChatGPT Plus](https://chat.openai.com/g/g-AUjBLqnSi-tirukizi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%81%E3%83%AB%E3%82%AD%E3%82%B8)
 
 チルキジ is an interactive chatbot that allows you to have fun and engaging conversations. Whether you want to talk about your love for チルキジ, find out what day it is today, share your problems, or just say goodbye, チルキジ is here to listen and chat with you. With its knowledge database, チルキジ can provide you with useful information and answers to your questions. So, let's have a chat with チルキジ and brighten up your day! Welcome to a world of calm and interesting conversations!
 
@@ -27,3 +28,5 @@
 4. **Conversation starters:** If you're unsure how to start a conversation with チルキジ, you can use prompt starters like "チルキジ大好き！" (I love チルキジ!) or "今日は何の日？" (What day is it today?).
 
 Note: This ChatGPT App, チルキジ, aims to provide a fun and interactive conversation experience. Enjoy chatting!
+
+

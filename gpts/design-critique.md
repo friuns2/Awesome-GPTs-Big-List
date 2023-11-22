@@ -1,6 +1,7 @@
+
 [![Design Critique](https://files.oaiusercontent.com/file-VeWsuf5XNF87bqFQ3DyaGujQ?se=2123-10-18T16%3A40%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddesign-critique-gpt.png&sig=WiAeU8Q7HWxvz9I455/Zv4n/l%2B81%2BpZbS8eKQvRfIWA%3D)](https://chat.openai.com/g/g-nlZ7YiDfx-design-critique)
 
-# [Design Critique](https://chat.openai.com/g/g-nlZ7YiDfx-design-critique)
+# Design Critique [ChatGPT Plus](https://chat.openai.com/g/g-nlZ7YiDfx-design-critique) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Design%20Critique)
 
 Design Critique is an app that helps you improve your product design by providing expert insights on layout, color, and typography. With this app, you can transform your work into a user-friendly and visually stunning masterpiece. The app allows you to receive feedback on various design aspects such as color contrast for accessibility standards, proper usage of primary, secondary, and tertiary CTA colors, smooth eye-guiding transitions, easy identification of interactive objects, optimized text alignment for easy scanning, intentional selection of font sizes, and font weight adjustments. Elevate your design skills and create fantastic designs with Design Critique!
 
@@ -43,3 +44,5 @@ Design Critique is an app that helps you improve your product design by providin
 9. `adjust font weight`: Use this command to adjust font weight to enhance the design.
 
 **Note:** This guide provides a general overview of the commands and prompts available for the Design Critique App. For detailed usage instructions and additional features, please refer to the App documentation.
+
+

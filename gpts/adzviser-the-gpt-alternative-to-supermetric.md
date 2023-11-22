@@ -1,6 +1,7 @@
+
 [![Adzviser:  The GPT alternative to Supermetric](https://files.oaiusercontent.com/file-N83lsoIruGwfJgwyzd5ucLa5?se=2123-10-16T06%3A07%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAdzviser-graphic-white.png&sig=IqrKPGAv0K0sop/l3P4RHLjYc5BOhNS6RALVBK/%2BnW8%3D)](https://chat.openai.com/g/g-rkXHYcVrn-adzviser-the-gpt-alternative-to-supermetric)
 
-# [Adzviser:  The GPT alternative to Supermetric](https://chat.openai.com/g/g-rkXHYcVrn-adzviser-the-gpt-alternative-to-supermetric)
+# Adzviser:  The GPT alternative to Supermetric [ChatGPT Plus](https://chat.openai.com/g/g-rkXHYcVrn-adzviser-the-gpt-alternative-to-supermetric) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Adzviser%3A%20%20The%20GPT%20alternative%20to%20Supermetric)
 
 Adzviser is your go-to app for real-time reporting on your marketing data from Google Ads, Facebook Ads, Instagram Insights, GA4, and more. Simply ask questions like 'How much did I spend on Google Ads last month?' or 'What is the weekly CPM, CPC from Facebook Ads this month?' and get the answers instantly. With Adzviser, you can track your ad performance, monitor follower growth on Instagram, and analyze data from various sources all in one place. Stay ahead of the game with Adzviser and optimize your marketing strategies for better results!
 
@@ -39,3 +40,5 @@ Adzviser is your go-to app for real-time reporting on your marketing data from G
 11. **Search Bar**: Use this command to retrieve real-time reporting data from marketing channels like Google Ads, Facebook Ads, Instagram Insights, Bing Ads, etc. The command allows you to specify the desired metrics, breakdowns, date ranges, and time granularity. Make sure to provide the necessary information based on the selected data source.
 
 12. **Get Workspace**: This command retrieves a list of workspaces created by the user, including the connected data sources like Google Ads, Facebook Ads accounts, etc.
+
+

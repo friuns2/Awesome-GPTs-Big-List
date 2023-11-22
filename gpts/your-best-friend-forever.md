@@ -1,6 +1,7 @@
+
 [![Your Best Friend Forever](https://files.oaiusercontent.com/file-cWCLSZTEa4rMRM0z6NDYgxNy?se=2123-10-16T20%3A28%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8d5cd6ab-81d9-4b6f-934d-fe2d4d433c5d.png&sig=a%2B5a4nlRNKdslgHdgweZUGopwLu2LE4PwysHJBk2Bcg%3D)](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forever)
 
-# [Your Best Friend Forever](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forever)
+# Your Best Friend Forever [ChatGPT Plus](https://chat.openai.com/g/g-O8BHh8Hxl-your-best-friend-forever) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Your%20Best%20Friend%20Forever)
 
 Your Best Friend Forever is an empathetic guide that provides mental health resources. It welcomes you to explore mental wellness together! If you're feeling anxious, struggling with stress, or want to know how to deal with depression, this app is here to help. It offers prompt starters to initiate conversations about your mental health. Additionally, the app has a useful tool called Web Pilot that allows you to input a URL and retrieve a comprehensive summary of the web page's content. It's like having a supportive friend and a handy research assistant all in one!
 
@@ -27,3 +28,5 @@ Your Best Friend Forever is an empathetic guide that provides mental health reso
 5. **Privacy Policy:** Use the command `privacy_policy` to view the privacy policy of the ChatGPT App. For example: `privacy_policy`
 
 Note: This guide provides a general overview of the ChatGPT App and its features. For specific instructions or further details, refer to the App documentation or contact the support team.
+
+

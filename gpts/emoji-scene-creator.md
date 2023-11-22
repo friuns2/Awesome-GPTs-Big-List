@@ -1,6 +1,7 @@
+
 [![Emoji Scene Creator](https://files.oaiusercontent.com/file-h4PuLIe6VQHbxQn2WM94VI1M?se=2123-10-16T09%3A40%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D501ac743-190e-4a80-84d9-075fb70b5db0.png&sig=/Y/ZsvyVKtSKHiBR9hPGZe7bknVCe0oyOoMSivhVbHE%3D)](https://chat.openai.com/g/g-uKv2D5SHy-emoji-scene-creator)
 
-# [Emoji Scene Creator](https://chat.openai.com/g/g-uKv2D5SHy-emoji-scene-creator)
+# Emoji Scene Creator [ChatGPT Plus](https://chat.openai.com/g/g-uKv2D5SHy-emoji-scene-creator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Emoji%20Scene%20Creator)
 
 Emoji Scene Creator is a fun and interactive app that lets you bring your emojis to life! Simply send me emojis and I'll create a vibrant scene for you. Whether it's a dog on a tropical island or a frozen world with palm trees, the possibilities are endless! With access to powerful tools like Dalle and a built-in browser, I'll make sure your scenes are full of creativity and imagination. So go ahead, unleash your emoji artistry and let's create some amazing scenes together!
 
@@ -23,3 +24,5 @@ Emoji Scene Creator is a fun and interactive app that lets you bring your emojis
 | `tools` | This command lists the tools available for creating scenes. In this case, the app has two tools: a DALL-E model and a browser tool. |
 
 Note: The app does not have access to knowledge.
+
+

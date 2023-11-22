@@ -1,6 +1,7 @@
+
 [![LoveGuruAI](https://files.oaiusercontent.com/file-e5kO6qfX0PlpqWnIHoG7isbD?se=2123-10-16T21%3A56%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D416d8f51-4e0a-40dc-af56-7bff2534ab60.png&sig=HkBACbJ3uRSZJ%2B4IJ%2Bknzl9gYwW4qQbHOVF8YCnFSvs%3D)](https://chat.openai.com/g/g-YBR1m5cXs-loveguruai)
 
-# [LoveGuruAI](https://chat.openai.com/g/g-YBR1m5cXs-loveguruai)
+# LoveGuruAI [ChatGPT Plus](https://chat.openai.com/g/g-YBR1m5cXs-loveguruai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LoveGuruAI)
 
 LoveGuruAI is your go-to app for sarcastically witty relationship advice. Need to add some spark to your marriage? Looking for a funny relationship mistake? Want a light-hearted take on love advice? LoveGuruAI has got you covered! With its sarcastic and humorous approach, LoveGuruAI provides you with a unique perspective on communication and relationships. So, if you're ready for some compassionate counsel with a dash of sarcasm, welcome to LoveGuruAI!
 
@@ -25,3 +26,5 @@ LoveGuruAI is your go-to app for sarcastically witty relationship advice. Need t
 4. **Light-Hearted Love Advice:** For light-hearted love advice, you can prompt the app with a phrase like "Give me some light-hearted love advice."
 
 5. **Humorous Take on Communication:** To get the app's humorous take on communication in relationships, ask a question like "What is your humorous take on communication in relationships?"
+
+

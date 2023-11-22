@@ -1,6 +1,7 @@
+
 [![The Reply Guy](https://files.oaiusercontent.com/file-8OQixeAPiuCc1NOgbDel4aWy?se=2123-10-18T06%3A52%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2b5a9c4a-d18b-4d09-a722-6a525eb0c84a.png&sig=BoxGpUE9FnkG32X10CMeB%2BiImuVryQnWonSL8M6MbWQ%3D)](https://chat.openai.com/g/g-TIMLvovMt-the-reply-guy)
 
-# [The Reply Guy](https://chat.openai.com/g/g-TIMLvovMt-the-reply-guy)
+# The Reply Guy [ChatGPT Plus](https://chat.openai.com/g/g-TIMLvovMt-the-reply-guy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=The%20Reply%20Guy)
 
 The Reply Guy is the ultimate Roast Master App! Get ready for a quick laugh as you engage in text and image roasting. This secretive chat-based App allows you to roast your friends or engage in witty banter. With prompt starters like 'Earth is flat' and 'GPTs are not useful', you'll have endless fun challenging popular opinions. Whether you want to spark a friendly debate or just have a good time, The Reply Guy is here to entertain. So, bring on the laughs and let's roast away!
 
@@ -33,3 +34,5 @@ The Reply Guy is the ultimate Roast Master App! Get ready for a quick laugh as y
 **Usage:** To get a roast about the flat Earth conspiracy theory, enter the prompt "Earth is flat."
 
 Note: The Reply Guy app is intended for entertainment purposes only. The roasts generated are meant to be humorous and should not be taken seriously.
+
+

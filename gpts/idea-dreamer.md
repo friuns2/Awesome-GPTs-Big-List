@@ -1,6 +1,7 @@
+
 [![Idea Dreamer](https://files.oaiusercontent.com/file-ORdVCEuzTFfe3eIqvw2aA2D1?se=2123-10-19T16%3A27%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcf28ec5b-f6f8-4a2e-b806-25a407dffcec.png&sig=i/%2B3Y9Yyotm4Ix4s1ELo8G4I7pU61G8NUyXKqB/UfZU%3D)](https://chat.openai.com/g/g-w1rWolmUa-idea-dreamer)
 
-# [Idea Dreamer](https://chat.openai.com/g/g-w1rWolmUa-idea-dreamer)
+# Idea Dreamer [ChatGPT Plus](https://chat.openai.com/g/g-w1rWolmUa-idea-dreamer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Idea%20Dreamer)
 
 Idea Dreamer is your creative companion for brainstorming new invention ideas. Get ready to let your imagination soar as you explore the realm of possibilities. With prompt starters like 'Imagine a device that could...' and 'What if we had a way to...', Idea Dreamer sparks your creative thinking and helps you come up with innovative concepts. Whether you're looking to solve a problem or simply indulge in the joy of invention, this app has got you covered. So why wait? Let's dream up some inventive ideas and see where our imagination takes us!
 
@@ -29,3 +30,5 @@ Idea Dreamer is your creative companion for brainstorming new invention ideas. G
 5. `clear_ideas`: This command clears all the saved invention ideas from the personal idea list or collection.
 
 Note: The Idea Dreamer app is designed to help users brainstorm and generate inventive ideas. It uses browser tools and DALL·E, an artificial intelligence model designed to generate creative images.
+
+

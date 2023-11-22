@@ -1,6 +1,7 @@
+
 [![تعلم اللغة الإنجليزية](https://files.oaiusercontent.com/file-lYaKa1M7r5lDvgyubNU63wBY?se=2123-10-16T11%3A58%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6f70f5f5-1cc8-4006-8844-11985d490008.webp&sig=Hv1hHPJ7fTdcmUhHs8bRP4puhwsjzaKfI/BqSpyBemU%3D)](https://chat.openai.com/g/g-ZkRUVvKog-t-lm-llg-lnjlyzy)
 
-# [تعلم اللغة الإنجليزية](https://chat.openai.com/g/g-ZkRUVvKog-t-lm-llg-lnjlyzy)
+# تعلم اللغة الإنجليزية [ChatGPT Plus](https://chat.openai.com/g/g-ZkRUVvKog-t-lm-llg-lnjlyzy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%D8%AA%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%84%D8%BA%D8%A9%20%D8%A7%D9%84%D8%A5%D9%86%D8%AC%D9%84%D9%8A%D8%B2%D9%8A%D8%A9)
 
 This app is designed for beginners to learn the English language. It offers lessons on basic vocabulary, simple grammar rules, and everyday conversation phrases. You can access helpful tips for learning English quickly, understand the difference between 'This' and 'That,' test your English language skills and evaluate your proficiency, learn new English words daily, and speak English fluently. Get ready to embark on your language learning journey with this app!
 
@@ -27,3 +28,5 @@ This app is designed for beginners to learn the English language. It offers less
 | `evaluateLanguageLevel` | This command helps you assess your English language proficiency by taking a test. |
 | `dailyWordLearning` | This command provides tips and techniques for learning new English words every day. |
 | `speakFluently` | This command provides guidance and techniques for speaking English fluently. |
+
+

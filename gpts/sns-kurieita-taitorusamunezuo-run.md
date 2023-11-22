@@ -1,6 +1,7 @@
+
 [![SNS クリエイター「タイトル・サムネ作るん」](https://files.oaiusercontent.com/file-cwvCi27v87RP1fQlcYzhek4V?se=2123-10-17T14%3A19%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D65134aae-709e-4a57-901d-6708f7581f32.png&sig=IPvoy22F0U9z5Ze7pOC8s8uBy6Jto%2BVK8b7Iq9S0UPo%3D)](https://chat.openai.com/g/g-q8RQzOVq9-sns-kurieita-taitorusamunezuo-run)
 
-# [SNS クリエイター「タイトル・サムネ作るん」](https://chat.openai.com/g/g-q8RQzOVq9-sns-kurieita-taitorusamunezuo-run)
+# SNS クリエイター「タイトル・サムネ作るん」 [ChatGPT Plus](https://chat.openai.com/g/g-q8RQzOVq9-sns-kurieita-taitorusamunezuo-run) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SNS%20%E3%82%AF%E3%83%AA%E3%82%A8%E3%82%A4%E3%82%BF%E3%83%BC%E3%80%8C%E3%82%BF%E3%82%A4%E3%83%88%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%A0%E3%83%8D%E4%BD%9C%E3%82%8B%E3%82%93%E3%80%8D)
 
 This App called 'SNS Creator' allows you to create captivating video titles and thumbnails in Japanese. Whether you're creating content on economics, AI, or psychology, this App has got you covered. With its easy-to-use tools, you can unleash your creativity and design eye-catching titles and thumbnails for your social media videos. From generating AI-powered suggestions to browsing for inspiration, this App provides you with everything you need to create compelling visuals for your videos. Say goodbye to boring titles and thumbnails, and let 'SNS Creator' turn your videos into works of art!
 
@@ -27,3 +28,5 @@ This ChatGPT App, "SNS クリエイター「タイトル・サムネ作るん」
 To create engaging video titles and thumbnails, you can start by using one of the example prompts provided above. The App will then guide you through the process, helping you come up with the perfect titles and thumbnails for your social media videos.
 
 Remember to be descriptive and provide any specific details or preferences you have for your titles and thumbnails. The App will use this information to generate creative suggestions for you.
+
+

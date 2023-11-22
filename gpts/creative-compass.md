@@ -1,6 +1,7 @@
+
 [![Creative Compass](https://files.oaiusercontent.com/file-YfLwsdJalC8rUJaVs20ipPqb?se=2123-10-18T20%3A45%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De2f44c5a-59ee-4fd2-a519-fded9f0a5f7c.png&sig=jVQ1n%2B8bhemwTji8wD/R73GjMSDTX6JbFbRxYwMxLHQ%3D)](https://chat.openai.com/g/g-vjrGVWsoP-creative-compass)
 
-# [Creative Compass](https://chat.openai.com/g/g-vjrGVWsoP-creative-compass)
+# Creative Compass [ChatGPT Plus](https://chat.openai.com/g/g-vjrGVWsoP-creative-compass) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Creative%20Compass)
 
 Welcome to Creative Compass, your expert navigator to the best GPT for all your creative tasks. Whether you need assistance with writing a novel, graphic design, coding, or creative brainstorming, we have got you covered. Our app features direct links to the perfect GPT (Generative Pre-trained Transformer) tools that you need. Explore a wide range of options, from browsing to Python and even DALL-E, to enhance your creative process. Get ready to unleash your creativity with Creative Compass!
 
@@ -31,3 +32,5 @@ Welcome to Creative Compass, your expert navigator to the best GPT for all your 
     c. **Dalle Tool:** This tool is optimized for creative tasks and is specifically mentioned for its potential in graphic design. It likely offers features and functionalities related to generating visual content using the DALL-E model.
 
 Please note that the provided information is limited, and precise details about each tool's functionality are not available.
+
+

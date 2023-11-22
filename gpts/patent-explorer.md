@@ -1,6 +1,7 @@
+
 [![Patent Explorer](https://files.oaiusercontent.com/file-Z11H1CjuIvRfRQBPKbbVpxO9?se=2123-10-19T16%3A52%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da735d5c0-1ec7-431d-8c38-ae667e388129.png&sig=dqahI33errdZDVaIvW04XMCz5Yec9DbgBura3RfAs1A%3D)](https://chat.openai.com/g/g-pwPdZCok6-patent-explorer)
 
-# [Patent Explorer](https://chat.openai.com/g/g-pwPdZCok6-patent-explorer)
+# Patent Explorer [ChatGPT Plus](https://chat.openai.com/g/g-pwPdZCok6-patent-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Patent%20Explorer)
 
 Patent Explorer is your go-to App for expert patent searches and analysis on Google Patents. Whether you need to find patents related to a specific patent number, provide related patents based on an invention description, list patents similar to a renewable energy technology, or compare patents in the field of autonomous vehicles, Patent Explorer has got you covered. With access to Google Patents, you'll have all the information you need right at your fingertips. Hello, I'm Patent Explorer, ready to assist you in your patent exploration journey!
 
@@ -26,3 +27,5 @@ Patent Explorer is your go-to App for expert patent searches and analysis on Goo
 4. **Compare patents in the field of autonomous vehicles** - This command allows you to compare patents in the field of autonomous vehicles. Specify the criteria you want to compare, and the app will provide a comparison of relevant patents.
 
 Please note that the Patent Explorer app uses Google Patents for patent searches and analysis. To assist you, the app also utilizes the DALL-E model and a browser tool.
+
+

@@ -1,6 +1,7 @@
+
 [![Multilingual PDF Translator MD](https://files.oaiusercontent.com/file-apEqB6TF4qMA3mZJFBEQsplk?se=2123-10-17T04%3A18%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e3c0eeb-8326-440d-afd2-5e63811e5678.png&sig=VyQLktWBIenjM4W3SF/70oKkBPPhAkrDVWBi7A7Nn1c%3D)](https://chat.openai.com/g/g-2bsj5hatH-multilingual-pdf-translator-md)
 
-# [Multilingual PDF Translator MD](https://chat.openai.com/g/g-2bsj5hatH-multilingual-pdf-translator-md)
+# Multilingual PDF Translator MD [ChatGPT Plus](https://chat.openai.com/g/g-2bsj5hatH-multilingual-pdf-translator-md) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Multilingual%20PDF%20Translator%20MD)
 
 Translate PDF documents into multiple languages using the Multilingual PDF Translator MD app. This app allows you to upload a PDF and specify the languages for translation. Whether you need to translate a document for work, study, or personal purposes, this app has got you covered. It even supports Markdown formatting, so you can preserve the formatting of your translated text. With a combination of advanced tools like Dalle and Python, accurate translations are just a few clicks away. Say goodbye to language barriers and hello to seamless multilingual communication!
 
@@ -28,3 +29,5 @@ Please note that this Multilingual PDF Translator App supports the following too
 - DALL·E: to generate image-to-image translations
 - Python: to run Python code
 - Browser: to perform web-based actions.
+
+

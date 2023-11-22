@@ -1,6 +1,7 @@
+
 [![Cinema Savvy](https://files.oaiusercontent.com/file-CQfsXj4z6D5KLxHmN19r16Yu?se=2123-10-19T10%3A15%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcd5468d8-ad52-4a34-90ca-244caa55778f.png&sig=scqwjTmyVRCOVJeRi%2B1/8is0jwRvhYHFbLBMKwh2b6M%3D)](https://chat.openai.com/g/g-DA32emHxJ-cinema-savvy)
 
-# [Cinema Savvy](https://chat.openai.com/g/g-DA32emHxJ-cinema-savvy)
+# Cinema Savvy [ChatGPT Plus](https://chat.openai.com/g/g-DA32emHxJ-cinema-savvy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cinema%20Savvy)
 
 Explore the fascinating world of cinema with Cinema Savvy! This app is your go-to expert for immersive cinema insights and trivia. From the latest reviews to recommendations for movies like The Matrix, analyzing symbolism in Parasite, and discussing Quentin Tarantino's directorial style, Cinema Savvy has it all. You can also create a discussion guide for Fight Club, compare the storytelling in Blade Runner and Blade Runner 2049, and build a list of must-watch noir films. Whether you want a summary of The Shawshank Redemption or insights into how The Lord of the Rings was adapted from the book, Cinema Savvy is the perfect companion for all cinema lovers!
 
@@ -58,3 +59,5 @@ To get a summary of a specific movie, use prompts like "Give me a summary of [mo
 
 10. **Book-to-movie adaptation:**
 To learn about the adaptation of a book into a movie, use prompts like "How was [book title] adapted from the book?". For example: "How was The Lord of the Rings adapted from the book?"
+
+

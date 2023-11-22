@@ -1,6 +1,7 @@
+
 [![换梦永书](https://files.oaiusercontent.com/file-P56LNRDIr3k3ScNIH8sRalji?se=2123-10-18T00%3A13%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db92458e6-4ef1-4224-b9b8-c35ae53cec02.png&sig=N1iZIaw5tQhl2T6Ld9eMEgFNXuVEotU8Ml4HXgOKzyU%3D)](https://chat.openai.com/g/g-XE0Vm2ZKT-huan-meng-yong-shu)
 
-# [换梦永书](https://chat.openai.com/g/g-XE0Vm2ZKT-huan-meng-yong-shu)
+# 换梦永书 [ChatGPT Plus](https://chat.openai.com/g/g-XE0Vm2ZKT-huan-meng-yong-shu) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%8D%A2%E6%A2%A6%E6%B0%B8%E4%B9%A6)
 
 Join the global storytelling adventure in Bridge of Dreams! Swap dreams and create a collaborative novel. Immerse yourself in the intertwined fates of Gao Shouxi, Zhou Yang, and Xu Yue. Discover your role in the story and contribute to the ever-evolving narrative. Use your dreams as inspiration and add them to the novel. Stay up to date with the latest chapters and contributions. Let your imagination run wild and be part of this unique literary experience.
 
@@ -23,3 +24,5 @@ Join the global storytelling adventure in Bridge of Dreams! Swap dreams and crea
 3. **gzm_cnf_wlzcu3zgdSjuzcaUptN8PoAQ~gzm_tool_gniuQiXqN94HWbeAYf0ZyWqT**: A DALLE tool that assists in generating illustrations for the novel.
 
 Note: The usage and functionality of these tools are not described in detail as per the task instructions.
+
+

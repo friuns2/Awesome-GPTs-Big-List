@@ -1,6 +1,7 @@
+
 [![Movie Finder](https://files.oaiusercontent.com/file-oLXCSspvVIHpMuEg2URR2zKS?se=2123-10-18T00%3A27%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D93b5909d-fcca-4830-9e60-1e2f610576c3.png&sig=/BJnFlZXW9hyBHA/gQUOEoUXslsra5CPFktGKT%2B7/ms%3D)](https://chat.openai.com/g/g-NpDyGADyv-movie-finder)
 
-# [Movie Finder](https://chat.openai.com/g/g-NpDyGADyv-movie-finder)
+# Movie Finder [ChatGPT Plus](https://chat.openai.com/g/g-NpDyGADyv-movie-finder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Movie%20Finder)
 
 Find movie recommendations from any era, based on any description. Whether you're in the mood for a nostalgic 80s romantic comedy or a twisty 90s sci-fi flick, this app has got you covered! Just describe the type of movie you're looking for, and it will humorously find the perfect recommendation for you. Want action with a funny sidekick? No problem! Or maybe you're in the mood for a classic film with iconic humor? This app will help you discover hidden gems and satisfy your movie cravings. Get ready for a movie night like no other!
 
@@ -25,3 +26,5 @@ Find movie recommendations from any era, based on any description. Whether you'r
 2. **Welcome message**: The app starts with a welcome message that says: "Hi! Describe a movie and I'll humorously find it for you!"
 
 Note: This ChatGPT App does not have access to external knowledge and it uses two tools: a browser tool and a DALL·E tool.
+
+

@@ -1,6 +1,7 @@
+
 [![Brain Analyser](https://files.oaiusercontent.com/file-64DEMJw7wZSKvgGx6FJUmEhU?se=2123-10-19T11%3A31%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D967b9fa8-089a-4cf4-8c51-2c0bf749d77a.png&sig=BxFUICyjBFTRqM2p0mrRz/ugQgx0Vw71q4vhCYwtCe8%3D)](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser)
 
-# [Brain Analyser](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser)
+# Brain Analyser [ChatGPT Plus](https://chat.openai.com/g/g-xm3sxO7Ej-brain-analyser) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Brain%20Analyser)
 
 Brain Analyser is an AI assistant designed to help with neural data analysis. Whether you need guidance on fNIRS artifact removal, assistance with script writing for alpha peak frequency calculation, advice on novel fMRI analysis for specific populations, or help with designing a brain imaging study, Brain Analyser is here to assist you. With tools like a browser, Python, and Dalle, the app provides a range of options to support your EEG analysis and study design. Say hello to Brain Analyser and let it take your neural data analysis to the next level!
 
@@ -35,3 +36,5 @@ Brain Analyser is an AI assistant designed to help with neural data analysis. Wh
 9. **DALLE tool**: The App has a DALLE tool (id: gzm_cnf_xTNxTqpEtaSoTMHpbXQ3iOMM~gzm_tool_o8QaTJleS8QOuoXYnhhzyVs6) specifically designed for image generation and analysis tasks.
 
 Note: This is a simulated guide based on the information provided. The actual functionality of the ChatGPT App may vary.
+
+

@@ -1,6 +1,7 @@
+
 [![感情を整理するコーチ](https://files.oaiusercontent.com/file-fWJEtrI5Z4r39k56z5aIIXWh?se=2123-10-17T10%3A30%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252019.12.23%2520-%2520Anime-style%2520female%2520coach%2520with%2520a%2520gentle%2520and%2520understanding%2520expression%252C%2520sitting%2520in%2520a%2520cozy%2520office%2520environment.%2520She%2520has%2520long%2520flowing%2520hair%252C%2520kind%2520eyes%252C%2520and%2520i.png&sig=Oiev241J4PLUywwhUM4kv7VOseGE65MpnwRWxAwRCig%3D)](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti)
 
-# [感情を整理するコーチ](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti)
+# 感情を整理するコーチ [ChatGPT Plus](https://chat.openai.com/g/g-06kSLX772-gan-qing-wozheng-li-surukoti) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%84%9F%E6%83%85%E3%82%92%E6%95%B4%E7%90%86%E3%81%99%E3%82%8B%E3%82%B3%E3%83%BC%E3%83%81)
 
 This App is your personal coach to help you sort out your emotions and gain clarity. Whether you're feeling frustrated, confused, or just need to share something positive, this coach is here for you. It listens to your feelings, provides guidance, and helps you better understand yourself. Simply chat with the coach and let it help you organize your thoughts and uncover what truly matters. So whenever you're feeling stuck, let this coach be your emotional guide.
 
@@ -24,3 +25,5 @@ This App is your personal coach to help you sort out your emotions and gain clar
 3. **Share Happy News:** Allows you to share something positive and celebrate good moments. Example: "嬉しいことがあります"
 
 Please note that this is a high-level guide and there may be additional commands and functionalities available in the app's documentation.
+
+

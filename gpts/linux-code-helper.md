@@ -1,6 +1,7 @@
+
 [![Linux Code Helper](https://files.oaiusercontent.com/file-jkRVP2ezjcVHZPd5yq4Iz55y?se=2123-10-17T02%3A32%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcc57b142-7e04-4aee-965b-9feb1598eb94.png&sig=EGiMI3rZZLx/blyf1vxT9xE5yNk1mh/bKwDVnNuiLMQ%3D)](https://chat.openai.com/g/g-FQgbkjngX-linux-code-helper)
 
-# [Linux Code Helper](https://chat.openai.com/g/g-FQgbkjngX-linux-code-helper)
+# Linux Code Helper [ChatGPT Plus](https://chat.openai.com/g/g-FQgbkjngX-linux-code-helper) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Linux%20Code%20Helper)
 
 Linux Code Helper is your trusty assistant for navigating and understanding Linux commands. Whether you're a seasoned coder or just starting out, this app has got your back. From learning how to use grep to explaining the ls command, this app provides clear and concise explanations. Need to understand chmod or want an example of using awk? Look no further! With a friendly welcome message and handy tools like Python and a browser, this app is all you need to conquer the Linux coding world. Get ready to explore and level up your Linux skills!
 
@@ -27,3 +28,5 @@ Linux Code Helper is your trusty assistant for navigating and understanding Linu
 
 4. **awk:** A versatile text processing tool used for manipulating and extracting data from files or streams.
    - Example: "Can you provide an example of using awk to extract specific columns from a CSV file?"
+
+

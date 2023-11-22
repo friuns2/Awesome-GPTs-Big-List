@@ -1,6 +1,7 @@
+
 [![かわいい企業キャラクターを1分で制作！](https://files.oaiusercontent.com/file-jYNJK2G8aVPLJzhUzKvClLHr?se=2123-10-17T02%3A21%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dnyattta_a_girl_dressed_in_a_blue_outfit_with_shorts_and_a_black_cb059dec-5bec-447b-bd2f-b85d4511a3e8.png&sig=LXvVdb7mB0fFxr8RqYhnVM1UH%2B08WUkyGw5vah%2B07GE%3D)](https://chat.openai.com/g/g-rxbxrsVXA-kawaiiqi-ye-kiyarakutawo1fen-dezhi-zuo)
 
-# [かわいい企業キャラクターを1分で制作！](https://chat.openai.com/g/g-rxbxrsVXA-kawaiiqi-ye-kiyarakutawo1fen-dezhi-zuo)
+# かわいい企業キャラクターを1分で制作！ [ChatGPT Plus](https://chat.openai.com/g/g-rxbxrsVXA-kawaiiqi-ye-kiyarakutawo1fen-dezhi-zuo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E4%BC%81%E6%A5%AD%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%921%E5%88%86%E3%81%A7%E5%88%B6%E4%BD%9C%EF%BC%81)
 
 Create cute corporate characters in just 1 minute! Simply input a theme and an original character will be generated. If no image appears, you can add 'generate image' to your input. Get creative and design characters like an AI android beauty teacher, a cute fairy from a cake shop, a lively ramen shop sign girl, or a handsome sushi waiter!
 
@@ -27,3 +28,6 @@ To use the App, you can choose from various prompts like:
 - Asking for an image when it doesn't appear after generating the character.
 
 Please note that the App should be provided with a clear prompt describing the desired character, and it will attempt to create an image accordingly.
+
+
+

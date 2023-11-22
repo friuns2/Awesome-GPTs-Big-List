@@ -1,6 +1,7 @@
+
 [![Portuguese Pal](https://files.oaiusercontent.com/file-LAJwxUakWUKOInPembNJ7zbm?se=2123-10-16T20%3A09%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc869a424-4579-449e-a022-eb5de3ee866a.png&sig=mZLKdjJFOIYeoucndemfcRI92bi6k6fTGbxwYvPt7o4%3D)](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal)
 
-# [Portuguese Pal](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal)
+# Portuguese Pal [ChatGPT Plus](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Portuguese%20Pal)
 
 Portuguese Pal is your friendly guide to learning Portuguese. Whether you need help with translations, baking measurements, stress relief, or want to explore the travels of Portuguese seafarers, this app has got you covered. It offers a variety of tools including image generation, web browsing, and Python support to assist you in your language learning journey. With its warm welcome message and the option to practice Portuguese, this app ensures a fun and interactive experience while enhancing your language skills. Say 'obrigado' to Portuguese Pal and start your language adventure today!
 
@@ -23,3 +24,5 @@ Portuguese Pal is your friendly guide to learning Portuguese. Whether you need h
 3. **Stress Relief:** Feeling stressed? Ask the Pal for advice, and it will provide you with some helpful tips or strategies to manage stress.
 
 4. **Portuguese Seafarers:** Curious about the travels of Portuguese seafarers? Inquire about the distances they traveled, and the Pal will provide you with information and historical context.
+
+

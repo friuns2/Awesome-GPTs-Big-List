@@ -1,6 +1,7 @@
+
 [![World Builder](https://files.oaiusercontent.com/file-4ounDvIYDR1Qv5h4O9Xveauu?se=2123-10-17T17%3A52%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252017.48.22%2520-%2520A%2520detailed%2520and%2520colorful%2520map%2520of%2520a%2520fantasy%2520world%252C%2520filled%2520with%2520imaginary%2520adventurous%2520locations.%2520The%2520map%2520should%2520feature%2520a%2520variety%2520of%2520terrains%2520such%2520as%2520towe.png&sig=sbPxfGEH8qv4kYsbg01rzkLzb6b1M/ebOfm09Fb0aUU%3D)](https://chat.openai.com/g/g-nFP96n03I-world-builder)
 
-# [World Builder](https://chat.openai.com/g/g-nFP96n03I-world-builder)
+# World Builder [ChatGPT Plus](https://chat.openai.com/g/g-nFP96n03I-world-builder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=World%20Builder)
 
 World Builder is a fun and creative App that unleashes your imagination. With this App, you can create your own imaginary world by simply writing down your ideas. Whether you envision a magical kingdom, a society of elves and living trees, a group of underground assassins, or the natural habitat of a half-wolf-half-cat creature, this App can help you bring your world to life. Don't worry if you're not an artist, the App can assist you in drawing your world as well. Get ready to explore new realms and let your creativity run wild with World Builder!
 
@@ -31,3 +32,22 @@ World Builder is a fun and creative App that unleashes your imagination. With th
 7. `DALL·E Image Search`: Use this tool to search for existing images that match your world's concept. It can help you find reference images or visualize specific elements of your world.
 
 Note: Make sure to provide clear and detailed instructions when using the commands or tools, so the AI can better understand and assist with your world-building process.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+I am a creative writer and concept artist. I am working on different projects that I want to write different stories in. I want to express these narratives through different mediums, such as short stories, limited TV series, and most importantly depict in beautiful concept art projects. I need you to act as a my research and writing assistant. I am world building for a multimedia project I would like to work on.
+I need you to assist me in imagining the envisioned world. I need you to Brainstorm and give me some ideas of settings, fictional cultures, races, flora and fauna, nations, and anything else that may be needed to make this fictional land in believable setting hey believable setting in which our story takes place.
+Provide detailed imaginative and creative descriptions that will inspire unique and interesting answers; using a wide range of language and even abstract concepts, feel free to be as imaginative and descriptive as possible.  
+
+Everything should be delivered in an organized format in markdown
+
+I will provide the keywords/concepts/inspiration for each project. 
+
+You will start by asking for the first set of inspirations {{var_0}}
+```
+
+</details>
+

@@ -1,6 +1,7 @@
+
 [![TinderGPT](https://files.oaiusercontent.com/file-pUR5hHVmCBDczJZwNJItH2ZH?se=2123-10-19T09%3A37%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DCleanShot%25202023-11-12%2520at%252010.37.30%25402x.png&sig=XmgALK5uZR7bRs8FimXjtO1nd0B7nOzVejimAj9haDs%3D)](https://chat.openai.com/g/g-MAxo1AnXk-tindergpt)
 
-# [TinderGPT](https://chat.openai.com/g/g-MAxo1AnXk-tindergpt)
+# TinderGPT [ChatGPT Plus](https://chat.openai.com/g/g-MAxo1AnXk-tindergpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TinderGPT)
 
 TinderGPT is your go-to expert for crafting engaging Tinder profiles. Whether you need help writing a catchy bio, choosing the perfect photos, or adding an attractive opening line, this app has got you covered. With access to extensive knowledge and a friendly interface, it guides you through the process of creating a swipe-worthy profile. Get ready to stand out from the crowd and make a lasting impression on your potential matches. Let TinderGPT be your wingman in the world of online dating!
 
@@ -33,3 +34,5 @@ Example command: "How can I make my Tinder profile more attractive?"
 Example command: "What's a good opening line for my Tinder bio?"
 
 Note: The ChatGPT App has access to knowledge and utilizes two tools: a browser tool and a DALL-E tool. These tools assist in crafting engaging Tinder profiles by providing information and generating visual content. However, the exact usage and interactions with these tools are not described in the given data.
+
+

@@ -1,6 +1,7 @@
+
 [![Data Sage](https://files.oaiusercontent.com/file-inOizznITMXv4vUGqNaqYxrN?se=2123-10-17T07%3A10%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3aa05f18-f9bd-4089-8d2b-5602ba20423e.png&sig=INXdGxNDgkl1XyQB3wEgOorgHFVvozKvnY42CAHmUdM%3D)](https://chat.openai.com/g/g-ISnmXV8UQ-data-sage)
 
-# [Data Sage](https://chat.openai.com/g/g-ISnmXV8UQ-data-sage)
+# Data Sage [ChatGPT Plus](https://chat.openai.com/g/g-ISnmXV8UQ-data-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Data%20Sage)
 
 Data Sage is an App that specializes in data analysis and visualization. With its expertise, it can help you find data, analyze trends, summarize research, and compare statistics. Whether you need insights for a project or want to make data-driven decisions, Data Sage has got you covered. It greets you with a friendly 'Hello!' and offers tools like a browser, Python, and Dalle to assist you in your data-related tasks. Let Data Sage be your guide in unlocking the power of data!
 
@@ -25,3 +26,5 @@ Data Sage is an App that specializes in data analysis and visualization. With it
 4. **Compare statistics of [category]:** Use this command followed by the category you want to compare statistics of. This command will provide a comparison of statistics among different entities within the given category. For example, "Compare statistics of population growth among Asian countries."
 
 Remember to provide clear and specific information in your prompts to get accurate results.
+
+

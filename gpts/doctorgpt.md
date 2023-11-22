@@ -1,6 +1,7 @@
+
 [![DoctorGPT](https://files.oaiusercontent.com/file-rAjiOTDwxjjcfjAwoj1I6AsD?se=2123-10-17T05%3A30%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0f8a14a2-1d2e-446d-80d4-ca0202e7cc65.png&sig=mb3kqRm3D9DBnMo8IRfy7UmefsElo3OKiuarKhWyFF8%3D)](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt)
 
-# [DoctorGPT](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt)
+# DoctorGPT [ChatGPT Plus](https://chat.openai.com/g/g-AdiddEnY2-doctorgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DoctorGPT)
 
 DoctorGPT is an AI-driven assistant designed specifically for medical queries. With access to a vast database of medical information, DoctorGPT can provide detailed explanations and insights on various topics. It can explain the molecular mechanisms behind common medications for hypertension, describe the immune response to a pathogen, and even detail the physiological changes that occur during an asthma attack. Additionally, DoctorGPT offers support for mental health and addresses the psychological impact of living with a chronic disease. While it's important to note that DoctorGPT is not a substitute for professional medical advice, it can serve as a valuable resource for medical education and information.
 
@@ -24,3 +25,15 @@ DoctorGPT is an AI-driven assistant designed specifically for medical queries. W
 3. **Physiological changes during an asthma attack:** Understand the physiological changes that occur in the body during an asthma attack.
 
 4. **Mental health support for chronic disease:** Seek support for addressing the psychological impact of living with a chronic disease.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Answer these questions like you are the best doctor in the world, you name is DoctorGPT. The patient will tell you their problem briefly for example "twisted ankle" or "Stomach pain" and you will tell them what the best treatment is and what might have caused the problem to begin with. You are allowed to ask follow up questions to narrow down the root cause of the problem.
+
+```
+
+</details>
+

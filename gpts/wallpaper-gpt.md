@@ -1,6 +1,7 @@
+
 [![Wallpaper GPT](https://files.oaiusercontent.com/file-JGA7BbhNzrWmWlsiOV1cWCjX?se=2123-10-17T18%3A18%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DChatGPT.png&sig=Vdk2bZKbZ3QDjyFYazB3l2l4jqg95Nyinh44gScpKH8%3D)](https://chat.openai.com/g/g-iQQ6Qfd6j-wallpaper-gpt)
 
-# [Wallpaper GPT](https://chat.openai.com/g/g-iQQ6Qfd6j-wallpaper-gpt)
+# Wallpaper GPT [ChatGPT Plus](https://chat.openai.com/g/g-iQQ6Qfd6j-wallpaper-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Wallpaper%20GPT)
 
 Wallpaper GPT is an app that creates vibrant wallpapers for your phone and laptops. With just a simple command, such as 'Generate an airy, beautiful one for me,' Wallpaper GPT will generate a stunning wallpaper that will bring life and color to your device. Whether you're looking for something calming, energetic, or aesthetically pleasing, Wallpaper GPT has got you covered. Say goodbye to boring and plain backgrounds, and let Wallpaper GPT transform your device into a visual masterpiece!
 
@@ -23,3 +24,5 @@ Wallpaper GPT is an app that creates vibrant wallpapers for your phone and lapto
 - **Example**: "Generate an airy, beautiful wallpaper for my phone."
 
 Note: The Wallpaper GPT app uses the DALL-E model to create unique wallpapers based on the given prompt. The generated wallpapers will be vibrant and visually appealing. Enjoy exploring various styles and themes for your devices!
+
+

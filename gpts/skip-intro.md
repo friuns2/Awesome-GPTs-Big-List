@@ -1,6 +1,7 @@
+
 [![Skip Intro](https://files.oaiusercontent.com/file-sivOcXlegSHOHs1hZtrSf19q?se=2123-10-19T01%3A41%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df4b48b23-39ee-45d6-a50f-cce325fddd6f.png&sig=shA3zVvgXWgaor/EPKRD7cZ/fCLEvXaQVx%2B73k6O8A4%3D)](https://chat.openai.com/g/g-CoECDk67K-skip-intro)
 
-# [Skip Intro](https://chat.openai.com/g/g-CoECDk67K-skip-intro)
+# Skip Intro [ChatGPT Plus](https://chat.openai.com/g/g-CoECDk67K-skip-intro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Skip%20Intro)
 
 Relive the nostalgia of the 1990s with Skip Intro! This app pays homage to the classic Skip Intro buttons by allowing you to seamlessly skip the introductory part and dive straight into using plain GPT. Just press the Skip Intro button, and you're ready to go! Say goodbye to unnecessary intros and hello to instant access. Whether you're looking for quick information or engaging in conversations, Skip Intro saves you time and gets you right to the point. No more waiting around; seize the moment and let the Skip Intro app take you on a skip-tastic journey!
 
@@ -31,3 +32,5 @@ Relive the nostalgia of the 1990s with Skip Intro! This app pays homage to the c
 6. `Help me read a paper and then save it to my library`: This command combines the functionalities of reading a paper and saving it to your library. It will guide you through the process of reading the paper and then automatically save it to your library.
 
 Please note that the ChatGPT App "Skip Intro" is a homage to the 1990s Skip Intro buttons. It allows you to start using plain GPT without any extra features or tools.
+
+

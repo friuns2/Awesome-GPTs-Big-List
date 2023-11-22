@@ -1,6 +1,7 @@
+
 [![Prompt Professor](https://files.oaiusercontent.com/file-MsXTgHdeT8NqXvoz3yFp1DsA?se=2123-10-16T03%3A42%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D76811343-01fe-4316-b18f-12ed04c3af99.png&sig=OOcasgdAq%2BCscJ7raZMCDdYCZb00lsUNcOl%2BnNzEAY8%3D)](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor)
 
-# [Prompt Professor](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor)
+# Prompt Professor [ChatGPT Plus](https://chat.openai.com/g/g-qfoOICq1l-prompt-professor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Prompt%20Professor)
 
 Prompt Professor is your go-to app for prompt engineering! Whether you're a student, a teacher, or just curious about the art of designing prompts, this app has got you covered. Get expert guidance on improving prompts, understanding what makes a good prompt, and even learn about prompt chaining. With access to knowledgeable prompts, Prompt Professor ensures that you never run out of inspiration. Plus, it offers a range of tools including Python, DALLE, and a browser to enhance your prompt engineering experience. So, let's get creative and dive into the fascinating world of prompts with Prompt Professor!
 
@@ -41,3 +42,5 @@ Prompt Professor is your go-to app for prompt engineering! Whether you're a stud
 12. `Delete Knowledge`: Allows deleting information from Prompt Professor's knowledge base.
 
 13. `Modify Knowledge`: Allows modifying existing information in Prompt Professor's knowledge base.
+
+

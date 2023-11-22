@@ -1,6 +1,7 @@
+
 [![Yegfood.com Price Checker](https://files.oaiusercontent.com/file-VT11iPVi3mrIyIU2E0DqxKWS?se=2123-10-16T19%3A50%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df64d86cb-a6ca-4293-9720-c962e125c605.png&sig=IXsL24nc4LxQV89db7Od3hwHUsxPDMOVx5ib8hpXYpE%3D)](https://chat.openai.com/g/g-rlevOuTNU-yegfood-com-price-checker)
 
-# [Yegfood.com Price Checker](https://chat.openai.com/g/g-rlevOuTNU-yegfood-com-price-checker)
+# Yegfood.com Price Checker [ChatGPT Plus](https://chat.openai.com/g/g-rlevOuTNU-yegfood-com-price-checker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Yegfood.com%20Price%20Checker)
 
 Yegfood.com Price Checker is an app that helps you find the best food deals in Alberta. It allows you to easily search for discounts and compare prices across different grocery stores. You can ask for specific information such as the price of ground beef over the last year or the average price of a particular item. The app can also analyze your Instacart order to suggest cheaper grocery options. With Yegfood.com Price Checker, you'll never miss out on a great deal and can save money while shopping for food!
 
@@ -27,3 +28,5 @@ This ChatGPT app, called "Yegfood.com Price Checker," helps you find food deals 
 4. **Analyze an Instacart order:** You can provide your Instacart order details and ask the app to analyze it for you. For example, you can say, "Can you analyze my Instacart order?"
 
 Please note that this app has access to knowledge and can provide information based on the available data. It may not have access to real-time prices or specific store information.
+
+

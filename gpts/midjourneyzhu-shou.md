@@ -1,6 +1,7 @@
+
 [![Midjourney助手](https://files.oaiusercontent.com/file-DPzMMfeUFObX73BtxCiozrRG?se=2123-10-17T06%3A24%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D53b7e4c8-9946-4cfb-a86c-060370d6edb1.png&sig=FfCA6klqcvE8Y3kVNZOvCBxXG97onjd95euaeYrr/yk%3D)](https://chat.openai.com/g/g-osUvHyL1K-midjourneyzhu-shou)
 
-# [Midjourney助手](https://chat.openai.com/g/g-osUvHyL1K-midjourneyzhu-shou)
+# Midjourney助手 [ChatGPT Plus](https://chat.openai.com/g/g-osUvHyL1K-midjourneyzhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Midjourney%E5%8A%A9%E6%89%8B)
 
 Midjourney助手 is an app that allows you to generate advanced English prompts for image creation. With a touch of customization, you can describe a scene, an object, a character idea, or the type of environment you envision. The app welcomes you with a friendly message and guides you through the process of crafting prompts. By answering Midjourney-related questions, you can create prompts that inspire creative illustrations. So whether you need prompts for personal projects or professional endeavors, Midjourney助手 has got you covered!
 
@@ -25,3 +26,5 @@ Midjourney助手 is an app that allows you to generate advanced English prompts 
 | `illustrateObject` | This command is used to request the AI to provide an illustration of a specific object. You can describe the object in detail and the AI will generate an illustration based on your description. |
 | `generateCharacter` | This command helps you create a character idea for your story or game. You can provide details about the character's appearance, personality, and backstory, and the AI will generate a unique character concept for you. |
 | `customizeEnvironment` | This command allows you to customize the environment of a particular scene or setting. You can specify the type of environment you have in mind, such as a forest, mountains, or city, and the AI will generate a customized description based on your input. |
+
+

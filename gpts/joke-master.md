@@ -1,6 +1,7 @@
+
 [![Joke Master](https://files.oaiusercontent.com/file-K83IzhYuVY8yLsvuzKVKQlWK?se=2123-10-17T05%3A39%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D059dbfa8-f1a8-4004-ae78-50cfbdc23fe7.png&sig=9slEYutH6Evow7NmEH0Ff6JkR36oOf81pGVjfPy2B38%3D)](https://chat.openai.com/g/g-UGu5Y29B8-joke-master)
 
-# [Joke Master](https://chat.openai.com/g/g-UGu5Y29B8-joke-master)
+# Joke Master [ChatGPT Plus](https://chat.openai.com/g/g-UGu5Y29B8-joke-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Joke%20Master)
 
 Joke Master is your go-to app for a good laugh! With jokes of all kinds, I'm here to tickle your funny bone. Whether you're in the mood for a tech joke, a political joke, or even a children's joke, I've got you covered. Just tell me what kind of joke you're looking for, and I'll deliver the laughs. Need a joke about dogs? No problem! I've got a joke for that too. Get ready to have a great time and unleash your sense of humor with Joke Master!
 
@@ -29,3 +30,5 @@ Joke Master is your go-to app for a good laugh! With jokes of all kinds, I'm her
 4. **Joke Variety**: The Joke Master App provides jokes of all kinds, ensuring you get a wide variety of jokes to tickle your funny bone.
 
 Note: This App does not have access to external knowledge.
+
+

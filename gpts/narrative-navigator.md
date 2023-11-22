@@ -1,6 +1,7 @@
+
 [![Narrative Navigator](null)](https://chat.openai.com/g/g-8iCJrziIG-narrative-navigator)
 
-# [Narrative Navigator](https://chat.openai.com/g/g-8iCJrziIG-narrative-navigator)
+# Narrative Navigator [ChatGPT Plus](https://chat.openai.com/g/g-8iCJrziIG-narrative-navigator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Narrative%20Navigator)
 
 Narrative Navigator is an expert in story analysis and continuation. It helps users analyze the sentiment of plotlines, track character storylines, explore relationships between characters, write the next part of a story, and describe key scenes for images. With access to a wealth of knowledge, this app immerses users in their story's universe. Its tools include a Python tool for advanced analysis, a browser tool for research and reference, and a Dalle tool for generating visual scenes. Get ready to navigate your narrative like a pro!
 
@@ -27,3 +28,5 @@ Narrative Navigator is an expert in story analysis and continuation. It helps us
 4. **Write the next part of this story:** Use this command to generate the next part of a story. Provide the current storyline or prompt, and the ChatGPT App will continue the story based on the given input.
 
 5. **Describe a key scene for an image:** Use this command to get a description of a key scene based on an image. Provide the image as input, and the ChatGPT App will generate a vivid description of the scene depicted in the image.
+
+

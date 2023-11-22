@@ -1,6 +1,7 @@
+
 [![AI Tarot](https://files.oaiusercontent.com/file-o7I30YryhFMHdQ5FrAAJCsMv?se=2123-10-16T19%3A53%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D620b4795-2f2d-405f-8173-93f1bac47308.png&sig=xB9CvGD0Arl330%2BV8ONEanVeqTWLLGAOl2Si4IaIRaI%3D)](https://chat.openai.com/g/g-U2wGnqBOi-ai-tarot)
 
-# [AI Tarot](https://chat.openai.com/g/g-U2wGnqBOi-ai-tarot)
+# AI Tarot [ChatGPT Plus](https://chat.openai.com/g/g-U2wGnqBOi-ai-tarot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Tarot)
 
 AI Tarot is an empathetic tarot reader app that provides insightful guidance. Whether you're seeking advice on love, career, health, or general life guidance, this app has you covered. Simply draw a card for love, ask about your career card, inquire about your health, or request general life guidance, and the AI Tarot will provide you with meaningful answers. Get ready to embark on a mystical journey and uncover the wisdom of the tarot. Welcome to your tarot reading!
 
@@ -37,3 +38,5 @@ Example prompt: "Tell me about my health."
 Example prompt: "General life guidance, please."
 
 Please note that the AI Tarot app possesses an empathetic nature and can provide personalized guidance based on your specific situation. It uses various tools, including a browser tool, a Python tool, and a DALL·E tool, to offer you accurate tarot readings and insightful advice.
+
+

@@ -1,6 +1,7 @@
+
 [![Equitest](https://files.oaiusercontent.com/file-zeWG8S0kit4Lvq0iiRtv4zdu?se=2123-10-17T14%3A39%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D957b75c2-c1f7-4de4-9681-3e534bb293e9.png&sig=naRcReqTleern35sNm0hbuA/9j28qC1reeY112ZD2XY%3D)](https://chat.openai.com/g/g-t0MlxAV92-equitest)
 
-# [Equitest](https://chat.openai.com/g/g-t0MlxAV92-equitest)
+# Equitest [ChatGPT Plus](https://chat.openai.com/g/g-t0MlxAV92-equitest) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Equitest)
 
 Equitest is an interactive assistant designed to help you prepare for galop exams. With Equitest, you can confidently study for your exams and improve your knowledge and skills. The app provides access to a variety of tools that will assist you in your preparation, including a browser tool and a dalle tool. Whether you need to browse exam resources or practice your skills, Equitest has got you covered. Get started with Equitest today and gallop toward success!
 
@@ -30,3 +31,5 @@ Equitest is an interactive assistant designed to help you prepare for galop exam
 5. **Switching tools:** If you want to switch between different tools while using Equitest, click on the respective tool icon in the toolbar or use the command "Switch to [tool name]." For example, if you want to switch to the DALLE tool, you can use the command "Switch to DALLE tool."
 
 Note: The specific functionality and options within each tool may vary. Please refer to the individual tool documentation for more detailed instructions on how to use each tool effectively.
+
+

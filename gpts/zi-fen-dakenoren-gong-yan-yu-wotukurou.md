@@ -1,6 +1,7 @@
+
 [![自分だけの人工言語をつくろう](https://files.oaiusercontent.com/file-27R4ptpIaGhAAWkGTkAPe1YW?se=2123-10-19T02%3A58%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df3e3f843-5cdc-4ac3-99be-d4a94c0f5943.png&sig=lajoPAzj9acFswaQh3po0t3sJ2PsUeug/vLSWEWn6Jw%3D)](https://chat.openai.com/g/g-8h3yV5e2b-zi-fen-dakenoren-gong-yan-yu-wotukurou)
 
-# [自分だけの人工言語をつくろう](https://chat.openai.com/g/g-8h3yV5e2b-zi-fen-dakenoren-gong-yan-yu-wotukurou)
+# 自分だけの人工言語をつくろう [ChatGPT Plus](https://chat.openai.com/g/g-8h3yV5e2b-zi-fen-dakenoren-gong-yan-yu-wotukurou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%87%AA%E5%88%86%E3%81%A0%E3%81%91%E3%81%AE%E4%BA%BA%E5%B7%A5%E8%A8%80%E8%AA%9E%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8D%E3%81%86)
 
 Create your very own artificial language and get support for translation! Specify the sounds, grammar, and characteristics of the language. Start by giving an example of what you want your language to be like. For example: 'Please create a cute language with lots of 'p' sounds and grammar similar to English.' Explore and unleash your creativity with this language creation and translation app!
 
@@ -28,3 +29,5 @@ Create your very own artificial language and get support for translation! Specif
 4. `Create a language with a grammar structure similar to French`: This command helps in generating an artificial language that has a grammar structure similar to the French language.
 
 5. `Assistance in translating a few words into my artificial language`: This command helps in translating a few words from a natural language into the user's created artificial language.
+
+

@@ -1,6 +1,7 @@
+
 [![Hangman Game Host](https://files.oaiusercontent.com/file-lITljjo2pK1KL5aV491e0AHu?se=2123-10-18T00%3A41%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8fc7b081-480c-4bb8-8f5c-c968dee0803f.png&sig=Fffqe9TksHxoFXTC%2BEUFzJP5RMUEF69JimDnvqFF0Ow%3D)](https://chat.openai.com/g/g-KwpCUgtKq-hangman-game-host)
 
-# [Hangman Game Host](https://chat.openai.com/g/g-KwpCUgtKq-hangman-game-host)
+# Hangman Game Host [ChatGPT Plus](https://chat.openai.com/g/g-KwpCUgtKq-hangman-game-host) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Hangman%20Game%20Host)
 
 Welcome to Hangman! Get ready to have fun and test your word-guessing skills. As the engaging host of the game, I'll guide you through the rounds and keep track of your score. Simply guess a letter to uncover hidden words, or ask me to show your score. If you're up for a challenge, I can increase the difficulty level. Not sure about the rules? Just ask me to explain! Let's see how many words you can decode!
 
@@ -25,3 +26,5 @@ Welcome to Hangman! Get ready to have fun and test your word-guessing skills. As
 4. **Explain the rules:** Use this command to receive an explanation of the rules of the hangman game. The host will provide you with a clear explanation of how the game works.
 
 Please note that this ChatGPT App does not have access to external knowledge and is designed specifically for hosting a hangman game with score tracking.
+
+

@@ -1,6 +1,7 @@
+
 [![Practice Improv](https://files.oaiusercontent.com/file-Yirc2uoyXviTkCKh7K2cV0VE?se=2123-10-15T20%3A58%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5164fbdc-fe97-4130-930e-ac6120785477.png&sig=BRNMtd2A324p2q0zRTutp7j%2Bb0Ao1XZSohwmTi3Z%2Bho%3D)](https://chat.openai.com/g/g-jAjGL5Rdb-practice-improv)
 
-# [Practice Improv](https://chat.openai.com/g/g-jAjGL5Rdb-practice-improv)
+# Practice Improv [ChatGPT Plus](https://chat.openai.com/g/g-jAjGL5Rdb-practice-improv) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Practice%20Improv)
 
 Practice Improv is your go-to partner for a great 2 person scene. Whether you're a seasoned improviser or just starting out, this app provides a platform to unleash your creativity and spontaneity. With prompt starters like 'Let's start a scene with my suggestion' or 'Suggest a specific word for us to start', you'll never run out of ideas. The app also offers tools like DALLE, a powerful AI model that can generate images based on text prompts, and a browser for quick research or inspiration. Ready to improvise? Let's create a scene!
 
@@ -21,3 +22,5 @@ Practice Improv is your go-to partner for a great 2 person scene. Whether you're
 4. **Browser tool:** The App includes a browser tool that can provide additional information or resources for the scene.
 
 Remember to be creative and have fun while using the Practice Improv App!
+
+

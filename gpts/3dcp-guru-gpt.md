@@ -1,6 +1,7 @@
+
 [![3DCP Guru GPT](https://files.oaiusercontent.com/file-g2xIHK36ogQ94f75VxJE08w3?se=2123-10-16T22%3A13%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAutomate%2520Construction-E2.jpg&sig=6jMi2v3xqKoRgW9S0l6M5rLqwWrs%2BmezjUOL8TqXvqo%3D)](https://chat.openai.com/g/g-1RPXrDUz4-3dcp-guru-gpt)
 
-# [3DCP Guru GPT](https://chat.openai.com/g/g-1RPXrDUz4-3dcp-guru-gpt)
+# 3DCP Guru GPT [ChatGPT Plus](https://chat.openai.com/g/g-1RPXrDUz4-3dcp-guru-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=3DCP%20Guru%20GPT)
 
 3DCP Guru GPT is a 3D Printed Construction wizard that has been trained on expert interviews. Use it creatively, but don't rely on it for factual information. It may not always be accurate, but it's pretty darn good at what it does. With 3DCP Guru GPT, you can tap into a wealth of knowledge about 3D printing and construction. From troubleshooting common issues to discovering innovative techniques, this app is your go-to source for all things 3D printing. Whether you're a beginner or an expert, 3DCP Guru GPT will help you unlock your creative potential in the world of 3D printed construction.
 
@@ -27,3 +28,5 @@
 4. **Troubleshooting:** If you encounter issues with your 3D printer, you can ask for help in troubleshooting common problems. The app can provide guidance and potential solutions.
 
 Note: The 3DCP Guru GPT app is not intended to provide factually accurate information, but it can offer creative insights and general advice based on expert interviews.
+
+

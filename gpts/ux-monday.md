@@ -1,6 +1,7 @@
+
 [![UX Monday](https://files.oaiusercontent.com/file-ojX4Li67Ah2NXnQL08ls0mxP?se=2123-10-18T05%3A26%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D895be909-aa89-4c83-83ce-279b8fb18843.png&sig=ZG4HuP%2BC1/GYFt7LOuZR5pxbCm87H1bhp6KAoihCV7w%3D)](https://chat.openai.com/g/g-q6Xv7vYi4-ux-monday)
 
-# [UX Monday](https://chat.openai.com/g/g-q6Xv7vYi4-ux-monday)
+# UX Monday [ChatGPT Plus](https://chat.openai.com/g/g-q6Xv7vYi4-ux-monday) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=UX%20Monday)
 
 UX Monday is your personal UX coach, helping job seekers improve their UX skills and stand out in the competitive job market. With UX Monday, you can get expert guidance on reviewing your UX case studies, enhancing storytelling in your UX design, learning key elements of a UX interview, and presenting your UX projects effectively. The app provides a friendly and welcoming environment to dive into the world of UX. It offers various tools, such as a browser for research, Python for coding, and Dalle for generating innovative design ideas. Get ready to boost your UX skills and land your dream job!
 
@@ -33,3 +34,5 @@ UX Monday is your personal UX coach, helping job seekers improve their UX skills
     Example command: "Tips for presenting a UX project effectively?"
 
 Please note that the ChatGPT App for UX Monday has access to knowledge and can provide useful guidance in the field of UX design.
+
+

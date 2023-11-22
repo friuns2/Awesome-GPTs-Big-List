@@ -1,6 +1,7 @@
+
 [![有伴A-Level数学高级教师](https://files.oaiusercontent.com/file-ZKxo3aFHBtg7Az3a8fvDzQ4V?se=2123-10-17T06%3A25%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df407f556-9d1b-47a0-8665-3720cdf85b00.png&sig=Ie88uzf9rHwRdki1evn0GBERVJm/FsigszvqghnGGNE%3D)](https://chat.openai.com/g/g-Sq0uVGkaM-you-ban-a-levelshu-xue-gao-ji-jiao-shi)
 
-# [有伴A-Level数学高级教师](https://chat.openai.com/g/g-Sq0uVGkaM-you-ban-a-levelshu-xue-gao-ji-jiao-shi)
+# 有伴A-Level数学高级教师 [ChatGPT Plus](https://chat.openai.com/g/g-Sq0uVGkaM-you-ban-a-levelshu-xue-gao-ji-jiao-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%9C%89%E4%BC%B4A-Level%E6%95%B0%E5%AD%A6%E9%AB%98%E7%BA%A7%E6%95%99%E5%B8%88)
 
 Learn and conquer A-Level Mathematics with the help of an expert teacher! This app provides you with a new solution to math problems and allows you to practice by giving you 3 exam questions of the same knowledge points. Get ready to ace your A-Level Math exams with confidence! The app also offers tools such as DALLE for generating solutions, Python for coding tasks, and a browser for additional resources. Start your journey to mathematical excellence today!
 
@@ -19,3 +20,5 @@ Learn and conquer A-Level Mathematics with the help of an expert teacher! This a
 3. **Python tool:** The app provides access to a Python tool. You can use the Python tool by specifying the tool id: "gzm_cnf_z28F5vaaJlsQgj23YqNmGlMR~gzm_tool_h4vGkhCNkYiZNHnofySnTaDs".
 
 4. **Browser tool:** The app provides access to a browser tool. You can use the browser tool by specifying the tool id: "gzm_cnf_z28F5vaaJlsQgj23YqNmGlMR~gzm_tool_tP66h7lh0LOS2wAegFOH7yrl".
+
+

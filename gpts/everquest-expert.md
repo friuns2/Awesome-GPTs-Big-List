@@ -1,6 +1,7 @@
+
 [![EverQuest Expert](https://files.oaiusercontent.com/file-VV3knZPijGcl70IJ6ByP8JVS?se=2123-10-20T04%3A29%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D62e54f10-f314-4aa9-a48b-98e0ebfcffbe.png&sig=koVPm7gKq9LuYd8k4GPPKe/xcTBgwmq3N8nWZLNKxyM%3D)](https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert)
 
-# [EverQuest Expert](https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert)
+# EverQuest Expert [ChatGPT Plus](https://chat.openai.com/g/g-vIV6W5xGo-everquest-expert) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=EverQuest%20Expert)
 
 EverQuest Expert is your ultimate guide to all things EverQuest. With a vast database of knowledge, it can answer all your questions about leveling strategies, lore, character-specific items, and quest completions. Simply ask questions like 'What's the best strategy for leveling in EverQuest?' or 'Can you explain the lore behind [specific quest or character]?' and let EverQuest Expert uncover the secrets of Norrath for you. Get ready to embark on epic adventures and discover hidden treasures with the help of this knowledgeable companion.
 
@@ -25,3 +26,5 @@ EverQuest Expert is your ultimate guide to all things EverQuest. With a vast dat
 4. `complete_quest(quest)`: Use this command to get guidance on how to complete a specific quest or dungeon in EverQuest. Replace `quest` with the name of the quest or dungeon you want to complete. For example, you can use the command `complete_quest("Plane of Hate")` to get help on completing the "Plane of Hate" dungeon.
 
 Note: The above commands are examples and may not represent the actual commands available in the EverQuest Expert App. Please refer to the App documentation for the complete list of available features and commands.
+
+

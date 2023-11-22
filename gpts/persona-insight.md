@@ -1,6 +1,7 @@
+
 [![Persona Insight](https://files.oaiusercontent.com/file-SbHjlE4Gsdix58xpGrDIVUg9?se=2123-10-17T01%3A13%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5dd0d6de-977c-4358-8034-99ad1d7a6f28.png&sig=aTPm/IIHVjDAgxMU69R%2B/BL9V7fpla6Ha4l3CA75K4Q%3D)](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight)
 
-# [Persona Insight](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight)
+# Persona Insight [ChatGPT Plus](https://chat.openai.com/g/g-0xL2Nq5yb-persona-insight) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Persona%20Insight)
 
 Persona Insight is an AI-powered app that provides in-depth personality analysis. Whether you want to understand yourself better or explore different facets of your personality, this app is here to help. It uses advanced AI algorithms to analyze your traits, strengths, and weaknesses, giving you valuable insights into your personality. With Persona Insight, you can gain self-awareness and discover new perspectives about yourself. It's like having a personal psychologist in your pocket! So, let's embark on a journey of self-discovery together and unlock the secrets of your unique persona.
 
@@ -27,3 +28,5 @@ Persona Insight is an AI-powered app that provides in-depth personality analysis
 6. **Browser Tool:** The Browser tool is available for browsing and accessing online resources related to personality analysis.
 
 Note: Please make sure to provide appropriate prompts and follow the instructions provided by the app for the best experience.
+
+

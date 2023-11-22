@@ -1,6 +1,7 @@
+
 [![MrGPT](https://files.oaiusercontent.com/file-UPiHu3vjGjW5SvIne8pqC36x?se=2123-10-16T20%3A15%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D80561707-c271-48ee-8897-1977931bf571.png&sig=NR2XMV5YDuoOXFL58inljLNTUGNGjd2buPkr/EZjk%2BM%3D)](https://chat.openai.com/g/g-FBc2E4iuS-mrgpt)
 
-# [MrGPT](https://chat.openai.com/g/g-FBc2E4iuS-mrgpt)
+# MrGPT [ChatGPT Plus](https://chat.openai.com/g/g-FBc2E4iuS-mrgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MrGPT)
 
 MrGPT is an interactive educational App designed to help bright kids learn and explore on their own. With MrGPT, young learners can ask questions and get answers on a wide range of topics, from robotics and quantum physics to language learning and computer game development. The App welcomes users with a friendly message and provides access to various tools, including Python programming, DALL-E image generation, and a built-in browser for research. Whether you want to dive into coding, unleash your creativity, or expand your knowledge, MrGPT is here to guide you on your learning journey!
 
@@ -31,3 +32,5 @@ MrGPT is an interactive educational App designed to help bright kids learn and e
    - For example, you can ask: "Can you find me some articles about climate change?" or "How can I access online tutorials for learning programming?"
 
 Remember, MrGPT is an eager educator who loves to help you learn and explore new things! Feel free to ask questions or use the specific tools to enhance your learning experience.
+
+

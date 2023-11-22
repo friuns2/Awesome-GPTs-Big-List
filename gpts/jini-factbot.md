@@ -1,6 +1,7 @@
+
 [![Jini - factbot](https://files.oaiusercontent.com/file-HekqBv1EKfAxxkwZcWleNcGZ?se=2123-10-21T11%3A14%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Djini-4005-bordered.webp&sig=gxJfyR8vD5lzJrKmaXjkLO1sAYgthdnjUbeAov9jUpQ%3D)](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot)
 
-# [Jini - factbot](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot)
+# Jini - factbot [ChatGPT Plus](https://chat.openai.com/g/g-mmsFgX3BA-jini-factbot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Jini%20-%20factbot)
 
 Jini - factbot is a smart assistant that provides current factual, knowledge-based, and real-time information. With Jini, you can search for images, videos, music, apps, and various facts. Stay updated with the latest news, twitter trends, sports scores, stock prices, celebrity and country data, navigation routes, and public transport and traffic information. Jini acts as a proxy to make any online information available to you. So, whenever you need assistance, just ask Jini! With over five million users, Jini is the only smart assistant you'll ever need for all your informational needs.
 
@@ -30,3 +31,5 @@ Jini - factbot is a smart assistant that provides current factual, knowledge-bas
 - `get traffic info` - Use this command to check for traffic updates and congestion on roads.
 
 Remember to provide clear and specific queries or topics when interacting with Jini to get the most accurate and relevant information.
+
+

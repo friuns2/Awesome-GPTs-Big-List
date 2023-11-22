@@ -1,6 +1,7 @@
+
 [![py-assistant](https://files.oaiusercontent.com/file-ovttMxsl2dulqAoEWSWJ7HAF?se=2123-10-18T02%3A41%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dpython-logo-only.png&sig=/yzl8sWxklZXgDuyuSToCuqvkkZlLtCPua8LVxlQ3/4%3D)](https://chat.openai.com/g/g-mD4OzOoob-py-assistant)
 
-# [py-assistant](https://chat.openai.com/g/g-mD4OzOoob-py-assistant)
+# py-assistant [ChatGPT Plus](https://chat.openai.com/g/g-mD4OzOoob-py-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=py-assistant)
 
 py-assistant is a helpful App that can assist you in writing code and teach you Python knowledge through a chat-based Q&A format. Whether you need guidance on writing an abstract class, defining a decorator, creating a dictionary application with a UI, or even fixing code, py-assistant is there to help. With a friendly 'Hello' in its welcome message, this App is designed to make learning Python fun and interactive. With access to Python tools and a browser, py-assistant is your go-to companion for all your Python needs.
 
@@ -124,3 +125,5 @@ py-assistant is a helpful App that can assist you in writing code and teach you 
    ```
 
    The assistant will then help identify and suggest corrections for any syntax or logical errors in the code.
+
+

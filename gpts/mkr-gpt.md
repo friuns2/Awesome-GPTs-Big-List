@@ -1,6 +1,7 @@
+
 [![MKR-GPT](https://files.oaiusercontent.com/file-7j7w6sC9tMDZKU7gcQUUe5RW?se=2123-10-18T11%3A54%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De8c16c31-c7eb-4733-9ab6-b2ee9f326d9d.png&sig=ytVHuVqNd/UTtNvRxg/%2BSXOFXVO8B%2Byx/hqScCuXwPE%3D)](https://chat.openai.com/g/g-b0iACCvX2-mkr-gpt)
 
-# [MKR-GPT](https://chat.openai.com/g/g-b0iACCvX2-mkr-gpt)
+# MKR-GPT [ChatGPT Plus](https://chat.openai.com/g/g-b0iACCvX2-mkr-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MKR-GPT)
 
 MKR-GPT ist eine App, die Lehrkräfte dabei unterstützt, Medienkompetenz in den NRW-Unterricht zu integrieren. Mit MKR-GPT können Sie Fragen zu verschiedenen Kompetenzbereichen des Medienkompetenzrahmens NRW stellen, Beispiele für Medienkompetenz in spezifischen Fächern erhalten und Ideen für digitale Werkzeuge im Unterricht entdecken. Die App begrüßt Sie freundlich und steht Ihnen mit formeller Unterstützung zur Seite. Sie können auch auf verschiedene Tools zugreifen, darunter ein Browser und die Möglichkeit, mit der Dalle-Technologie zu interagieren. Machen Sie sich bereit, Medienkompetenz in Ihrem Unterricht zu fördern!
 
@@ -22,3 +23,5 @@ MKR-GPT ist eine App, die Lehrkräfte dabei unterstützt, Medienkompetenz in den
 2. **DALLE Tool:** This tool utilizes the power of the DALLE language model to generate creative ideas and suggestions for integrating media literacy into various subjects. You can ask questions like "Give me examples of media literacy activities for history lessons" or "Generate ideas for incorporating media literacy in the biology curriculum."
 
 Note: The specific commands and prompts mentioned above are examples and may not cover the complete functionality of the MKR-GPT app. Please refer to the app documentation for more detailed information on available commands and prompts.
+
+

@@ -1,6 +1,7 @@
+
 [![life story](https://files.oaiusercontent.com/file-PQmKHf9bJTDywYmSpTeftpZR?se=2123-10-17T03%3A13%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D32fe6438-873f-4bc2-a5c2-095f4e418450.png&sig=0PXxedR/WKtNGWua2AOkTZmyieK2oAM1MmAzqsFKU7I%3D)](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)
 
-# [life story](https://chat.openai.com/g/g-7ZUyq8WGD-life-story)
+# life story [ChatGPT Plus](https://chat.openai.com/g/g-7ZUyq8WGD-life-story) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=life%20story)
 
 Discover life's little joys with Life Story! This app is all about finding the beauty in the small things. Whether it's learning a new recipe, exploring a hidden gem in your city, or finding creative ways to upcycle, Life Story has you covered. Get ready for a daily dose of inspiration and positivity delivered straight to your chat. With a combination of Python, DALLE, and a built-in browser, this app ensures you never run out of interesting things to explore. Start your day with a smile and let Life Story uncover the magic in everyday life!
 
@@ -29,3 +30,14 @@ Discover life's little joys with Life Story! This app is all about finding the b
 5. **Learn practical tips**: Ask for practical tips to improve daily routines or solve common problems.
 
 6. **Get cooking ideas**: Request recipes or cooking tips for various meals or occasions.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+A seemingly happy couple who inwardly Not having children, they are far from each other and have their own problems And complete social issue with society's problems that the man is unemployed and the woman is employed and the problem of infertility is for the woman
+```
+
+</details>
+

@@ -1,6 +1,7 @@
+
 [![マンガオタク侍](https://files.oaiusercontent.com/file-lerw1NGOuiDcYOAzOZ9FWXH5?se=2123-10-18T06%3A09%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252011.27.jpeg&sig=Ji3Io9DmX4cTw%2B5z04CuBCUW7aIMEvZ9OyrIhYZOJj0%3D)](https://chat.openai.com/g/g-tKGi46JJe-mangaotakushi)
 
-# [マンガオタク侍](https://chat.openai.com/g/g-tKGi46JJe-mangaotakushi)
+# マンガオタク侍 [ChatGPT Plus](https://chat.openai.com/g/g-tKGi46JJe-mangaotakushi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%9E%E3%83%B3%E3%82%AC%E3%82%AA%E3%82%BF%E3%82%AF%E4%BE%8D)
 
 Meet マンガオタク侍, the manga-loving samurai! This app is here to recommend you the best manga titles out there. Whether you're looking for cool action-packed manga, romance stories, or timeless classics for beginners, マンガオタク侍 has got you covered. With an extensive knowledge of famous manga, this samurai has some surprising recommendations up their sleeve! Just ask for suggestions like 'Tell me your recommended action manga' or 'Do you have any romance manga recommendations?' Welcome to the world of マンガオタク侍, where manga is the ultimate adventure!
 
@@ -30,3 +31,5 @@ Meet マンガオタク侍, the manga-loving samurai! This app is here to recomm
   - Example usage: "有名な作品は読みつくした。意表を突いたの頼む！"
 
 Please note that the commands mentioned above are not actual commands but rather examples of how a chatbot might respond to the given prompts.
+
+

@@ -1,6 +1,7 @@
+
 [![コミュニケーション Bot](https://files.oaiusercontent.com/file-eWkKCgUQSHNXVQL9XmE6bE8a?se=2123-10-18T06%3A04%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3d9f6a18-c8e5-48e5-9a3c-750bc823f920.png&sig=kko%2BSS9h9nwvB8RUzHgotZOMP1fhGglBaSuC/NVvoGQ%3D)](https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-bot)
 
-# [コミュニケーション Bot](https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-bot)
+# コミュニケーション Bot [ChatGPT Plus](https://chat.openai.com/g/g-lLAKSrA4E-komiyunikesiyon-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%20Bot)
 
 コミュニケーション Bot is your practice partner for improving communication skills. Whether you want to role-play as a cheerful university student, a serious-minded adult, or a mischievous elementary schooler, this bot is here to help. Connect with the bot on LINE or engage in communication exercises with randomly generated profile variables. With Konnichiwa as the welcome message, the bot is ready to assist you with your communication goals. It even offers tools like Dalle (an AI image generation model) and a browser for added functionality and convenience.
 
@@ -25,3 +26,5 @@
 3. `Browser Tool:` This tool enables you to browse the web and search for information. It can be used to look up specific topics, websites, or perform general web searches.
 
 Note: The command names and descriptions of what they do are not provided in the available data.
+
+

@@ -1,6 +1,7 @@
+
 [![Kaggleのチュートリアル第6版](https://files.oaiusercontent.com/file-a9shwkn5OW11j8hmGwtEhElL?se=2123-10-17T03%3A27%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dhyoushi_ver6_set.jpeg&sig=0MzBqA4hdFGUkaZDKCHuumNxjOHljyKOR8iLS%2BwZpj4%3D)](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ban)
 
-# [Kaggleのチュートリアル第6版](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ban)
+# Kaggleのチュートリアル第6版 [ChatGPT Plus](https://chat.openai.com/g/g-Z3a4iOzGR-kagglenotiyutoriarudi-6ban) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Kaggle%E3%81%AE%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E7%AC%AC6%E7%89%88)
 
 This App is the 6th edition of the Kaggle tutorial. It allows users to ask questions about the tutorial and get answers. Whether you're stuck on a specific concept or need clarification on a task, this App has got you covered. With access to knowledge and helpful prompt starters, you'll never feel lost. The App features tools like DALL·E and a browser, providing a seamless learning experience. Don't hesitate to dive into the tutorial and explore the world of Kaggle!
 
@@ -27,3 +28,5 @@ This App is the 6th edition of the Kaggle tutorial. It allows users to ask quest
 4. **Use Browser tool:** Provides information on the browser tool available in Kaggle's Tutorial version 6.
 
 5. **Instructions:** Offers specific instructions or guidelines for using Kaggle's Tutorial version 6.
+
+

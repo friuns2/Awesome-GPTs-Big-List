@@ -1,6 +1,7 @@
+
 [![Random Dungeon](https://files.oaiusercontent.com/file-CUr3Anz1x7AmOO0u7QwTSclL?se=2123-10-17T12%3A14%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc42b0ed0-016e-4144-af2e-d62c782e9ae9.png&sig=UvLiq%2BHT8%2BRSl/Gqian/EEtnhDDzHxzcswfGfPbuqTE%3D)](https://chat.openai.com/g/g-rK2fPwDpQ-random-dungeon)
 
-# [Random Dungeon](https://chat.openai.com/g/g-rK2fPwDpQ-random-dungeon)
+# Random Dungeon [ChatGPT Plus](https://chat.openai.com/g/g-rK2fPwDpQ-random-dungeon) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Random%20Dungeon)
 
 Random Dungeon is a text-based App that takes you on an exciting adventure through randomly generated dungeons. With its GPT Dungeon Crawler, you'll never know what challenges await you as you navigate through the depths. Just type in your actions or choices, and the App will respond accordingly, creating a unique and immersive experience every time. Get ready to explore mysterious corridors, encounter dangerous creatures, and find hidden treasures. Whether you're a fan of role-playing games or love a good adventure, Random Dungeon will keep you entertained for hours!
 
@@ -39,3 +40,5 @@ Example command: "Open the chest and see what's inside."
 Example command: "Use the health potion to restore my health."
 
 Remember, the Random Dungeon app is an immersive text-based adventure, so feel free to engage with it using natural language and descriptive prompts to fully enjoy the experience!
+
+

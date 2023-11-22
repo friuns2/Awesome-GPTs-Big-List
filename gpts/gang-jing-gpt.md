@@ -1,6 +1,7 @@
+
 [![杠精GPT](null)](https://chat.openai.com/g/g-AxO93tLnH-gang-jing-gpt)
 
-# [杠精GPT](https://chat.openai.com/g/g-AxO93tLnH-gang-jing-gpt)
+# 杠精GPT [ChatGPT Plus](https://chat.openai.com/g/g-AxO93tLnH-gang-jing-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%9D%A0%E7%B2%BEGPT)
 
 杠精GPT is an interactive text-based App that lets you explore and discuss various topics with a touch of humor. Whether you want to debate philosophical questions like the nature of freedom or solve practical puzzles like proving your birth without a birth certificate, this App has got you covered. You can also engage in lighthearted conversations and share your thoughts on the responsibility of environmental protection. With 杠精GPT, you can enjoy witty interactions and tap into the collective knowledge of the chat community. So, why wait? Start chatting and leave with a smile!
 
@@ -27,3 +28,5 @@
 4. **Understanding symbolism:** Seek information or explanation about symbolic concepts or landmarks. For example, you can ask, "Can you help me understand the meaning behind the Statue of Liberty?"
 
 5. **Firefighting process:** Discuss or inquire about the process of firefighting and what happens when firefighters extinguish a fire completely. For example, you can ask, "What happens when the firefighters extinguish the fire completely?"
+
+

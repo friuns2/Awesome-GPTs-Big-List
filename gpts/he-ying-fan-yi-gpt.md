@@ -1,6 +1,7 @@
+
 [![和英翻訳GPT](https://files.oaiusercontent.com/file-3i1Dc0oKNdX51IQvx6Z9DsiD?se=2123-10-18T11%3A29%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbc200c72-c6e1-4ebe-b7e0-d1a9a8ba15b9.png&sig=2IkIRyMFOYAYwqwtBsU/siXRJOcxxdrtxTLCDncEE3o%3D)](https://chat.openai.com/g/g-RKXe3aooI-he-ying-fan-yi-gpt)
 
-# [和英翻訳GPT](https://chat.openai.com/g/g-RKXe3aooI-he-ying-fan-yi-gpt)
+# 和英翻訳GPT [ChatGPT Plus](https://chat.openai.com/g/g-RKXe3aooI-he-ying-fan-yi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%92%8C%E8%8B%B1%E7%BF%BB%E8%A8%B3GPT)
 
 和英翻訳GPT is a text-based App that specializes in Japanese to English academic translations. Whether you need assistance with translating a research paper, an abstract, or a specific term, this App has got you covered. Simply provide the Japanese text and let the App do the rest. With its expertise in academic translations, you can expect accurate and reliable results. Say goodbye to language barriers and let 和英翻訳GPT help you navigate the world of Japanese academia with ease!
 
@@ -25,3 +26,5 @@
 4. **Translate Research Paper**: Use this command to get the English translation of an entire research paper written in Japanese. Provide the Japanese research paper you want to translate as the input prompt.
 
 Note: Make sure to provide the Japanese text you want to translate in a clear and understandable manner.
+
+

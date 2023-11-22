@@ -1,6 +1,7 @@
+
 [![DALL-E3 background image](https://files.oaiusercontent.com/file-VV5la7vC3BNA3ss5MPLrFKvn?se=2123-10-16T23%3A46%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5bd240d2-fb1e-4aa7-a4c6-1cfb68c480ab.webp&sig=nqEy2W2%2Bn%2BPgXaeUencGJHi7e7i5ANLcEo%2BLDULriGo%3D)](https://chat.openai.com/g/g-tVAGL9k69-dall-e3-background-image)
 
-# [DALL-E3 background image](https://chat.openai.com/g/g-tVAGL9k69-dall-e3-background-image)
+# DALL-E3 background image [ChatGPT Plus](https://chat.openai.com/g/g-tVAGL9k69-dall-e3-background-image) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DALL-E3%20background%20image)
 
 This App called DALL-E3 background image allows you to easily create custom background images. Have fun designing your own unique backgrounds for various purposes. Simply describe or input your desired background, and the App will generate an image for you. You can also provide feedback or suggestions for improvement. Finally, don't forget to output and save your generated image. Let your conversations come to life with personalized backgrounds!
 
@@ -29,3 +30,5 @@ This App called DALL-E3 background image allows you to easily create custom back
 - **Output request:** Use the prompt "最後に画像出力してください" to request the final output of the generated image. This command ensures that you receive the image you have created.
 
 Please note that the specific commands above may be tailored to the terminology and functionality of the app.
+
+

@@ -1,6 +1,7 @@
+
 [![Gravity Guide](https://files.oaiusercontent.com/file-4TqFpEdJ14pIoFLAYPEFeKi7?se=2123-10-17T18%3A57%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D13ff6d68-1a97-4e2e-9d13-0dd24e1300ab.png&sig=TuM%2BcBIuvuMCoUeiSWSif57wdHwwYbsS1adZa5ujBkw%3D)](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide)
 
-# [Gravity Guide](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide)
+# Gravity Guide [ChatGPT Plus](https://chat.openai.com/g/g-zPHA1EMmM-gravity-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Gravity%20Guide)
 
 Gravity Guide is your personalized calisthenics coach, helping you master gravity-defying moves and build strength. Whether you want to learn planche progressions, improve your muscle-up technique, or develop fundamental calisthenics skills, this app has got you covered. With tailored routines and skill progressions, you'll turn gravity into your ally and level up your calisthenics journey. Get ready to challenge yourself and achieve impressive feats of strength with the help of Gravity Guide!
 
@@ -23,3 +24,5 @@ Gravity Guide is your personalized calisthenics coach, helping you master gravit
 3. **Fundamental Calisthenics Skills:** This command lists and explains the fundamental skills in calisthenics, which are essential for building a strong foundation in this training style.
 
 4. **Create Handstand Program:** This command generates a personalized handstand program tailored to your skill level and goals in calisthenics. It includes exercises, progressions, and tips to help you develop a solid handstand.
+
+

@@ -1,6 +1,7 @@
+
 [![HR Tech Wizard](https://files.oaiusercontent.com/file-VHQN7iAg2fM4aqAgiGaAlnlg?se=2123-10-16T22%3A23%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D89460238-1f84-445a-bbaa-c4847ac72ef3.png&sig=H0%2BKH3GoICznvK6Erxe2ePg4CmNHq%2BytqVXVaRLZ87U%3D)](https://chat.openai.com/g/g-PkIJyV0Nk-hr-tech-wizard)
 
-# [HR Tech Wizard](https://chat.openai.com/g/g-PkIJyV0Nk-hr-tech-wizard)
+# HR Tech Wizard [ChatGPT Plus](https://chat.openai.com/g/g-PkIJyV0Nk-hr-tech-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HR%20Tech%20Wizard)
 
 HR Tech Wizard is your mystical guide to the magical world of HRIS. With access to knowledge and a range of tools, this app is here to help you navigate the complexities of HR technology. Whether you need help with finding solutions for specific challenges, choosing the right HR tech solutions, or exploring the possibilities of Generative AI in your job, HR Tech Wizard has got you covered. You can even have fun by writing songs about HR Technology in the style of Taylor Swift or playing mad libs with an HR Technology Conference as the setting. Ready to tackle some HR tech together?
 
@@ -39,3 +40,5 @@ HR Tech Wizard is your mystical guide to the magical world of HRIS. With access 
 5. Have fun and get creative by requesting a Taylor Swift-style song about HR technology to add some entertainment to your HR journey.
 
 6. Play a mad libs game using an HR Technology Conference as the setting, allowing for a fun and engaging way to explore HR tech concepts.
+
+

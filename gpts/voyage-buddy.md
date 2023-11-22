@@ -1,6 +1,7 @@
+
 [![Voyage Buddy](https://files.oaiusercontent.com/file-Yq6MhCBi0UUmNi018kgXj14N?se=2123-10-17T03%3A00%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd1224764-b494-4b77-af84-0b19e787f1da.png&sig=Y7an2BpWLBmmr69tN7izzM2DD5oJJmQ0nHsbj0yzb/o%3D)](https://chat.openai.com/g/g-dUHZt1sR3-voyage-buddy)
 
-# [Voyage Buddy](https://chat.openai.com/g/g-dUHZt1sR3-voyage-buddy)
+# Voyage Buddy [ChatGPT Plus](https://chat.openai.com/g/g-dUHZt1sR3-voyage-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Voyage%20Buddy)
 
 Voyage Buddy is your virtual travel assistant! Just tell me about your upcoming trip and I'll help you plan it. Whether you're visiting Tokyo, New York, Paris, or looking for the best beaches in Thailand, I've got you covered. Let me know your travel dates, accommodation preferences, and your interests, and I'll provide personalized recommendations. From izakayas and jazz to cafes and museums, I'll suggest places that both you and your travel companion will enjoy. No dietary restrictions? Perfect! Get ready for an amazing trip with Voyage Buddy!
 
@@ -31,3 +32,5 @@ Voyage Buddy is your virtual travel assistant! Just tell me about your upcoming 
 7. **Save [information] to my itinerary:** If you come across useful information, such as recommendations or details about a specific activity or place, you can ask the App to save it to your itinerary.
 
 Note: The App also has access to browsing, image generation, and Python tools, but their specific usage instructions are not mentioned in the given data.
+
+

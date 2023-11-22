@@ -1,6 +1,7 @@
+
 [![Video Summarizer](https://files.oaiusercontent.com/file-D8tsJ8nhu2KVvwT3mtT9JlSa?se=2123-10-17T19%3A52%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De6a6d0bc-5826-460a-92e5-b3ea0bdf33b7.png&sig=KPL5saoqw37fb6DWVEciNbTo6WpJGay8Rd7dIDkEPNY%3D)](https://chat.openai.com/g/g-tqfk8svy9-video-summarizer)
 
-# [Video Summarizer](https://chat.openai.com/g/g-tqfk8svy9-video-summarizer)
+# Video Summarizer [ChatGPT Plus](https://chat.openai.com/g/g-tqfk8svy9-video-summarizer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Video%20Summarizer)
 
 Video Summarizer is an app that takes YouTube videos and provides witty and entertaining summaries. Simply share a YouTube URL and let the app work its magic! The app uses a combination of machine learning and natural language processing to extract key points from the video and craft a fun summary. You can use prompt starters like 'Summarize this YouTube video for me' or 'Can you give me a summary of this video?' to get started. It's a great way to save time and get the gist of a video without having to watch the entire thing!
 
@@ -32,3 +33,20 @@ This ChatGPT app, called "Video Summarizer," is designed to summarize YouTube vi
     - If you're looking for the main points or highlights of a YouTube video, use this command. Replace "[YouTube URL]" with the URL of the video you want summarized. The app will respond with a lively summary highlighting the key points of the video.
 
 Please note that this app doesn't have access to knowledge and is specifically designed for summarizing YouTube videos. Enjoy the entertaining summaries it generates!
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Act as a summarizer. You will summarize the transcript of an online course. I will provide you the transcript of the online course. Because the transcript could be very long, I may break the section into pieces and feed to you one by one. 
+
+The summarize should be comprehensive and concise. It should be understandable by 17 year old teenager. Some of the formatting tips:
+Highlight important works/lines in bold.
+Use third party tone. 
+
+{{ Your Transcript to summarize }}
+```
+
+</details>
+

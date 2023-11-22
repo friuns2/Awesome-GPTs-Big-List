@@ -1,6 +1,7 @@
+
 [![CuratorGPT](null)](https://chat.openai.com/g/g-3Df4zQppr-curatorgpt)
 
-# [CuratorGPT](https://chat.openai.com/g/g-3Df4zQppr-curatorgpt)
+# CuratorGPT [ChatGPT Plus](https://chat.openai.com/g/g-3Df4zQppr-curatorgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CuratorGPT)
 
 CuratorGPT is your personal content curator powered by ChatGPT. It helps you stay updated with the latest trends and news by creating curated lists. Whether you're interested in AI tools, top rated products, trending viral news, or political news, CuratorGPT has got you covered. Just give it a command like 'Create a list of 10 AI tools launched last week' and it will provide you with a handpicked list. With access to browsing, DALL-E image generation, and Python code execution tools, CuratorGPT ensures you get the most accurate and reliable information. Stay informed with CuratorGPT!
 
@@ -24,3 +25,5 @@ CuratorGPT is your personal content curator powered by ChatGPT. It helps you sta
 2. **DALLE tool:** DALLE is an AI model that generates cohesive and creative content based on the given input. You can use this tool to generate images, text, or other types of content.
 
 3. **Python tool:** This tool allows you to run Python code and execute various tasks. You can use it for data analysis, computational tasks, automation, and more.
+
+

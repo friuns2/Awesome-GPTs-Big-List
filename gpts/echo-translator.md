@@ -1,6 +1,7 @@
+
 [![Echo Translator](https://files.oaiusercontent.com/file-xvdfRoy1rwpwgPbu8SDAeiLw?se=2123-10-17T05%3A06%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc840ffd4-bec9-4541-87b2-bae2cce9cf83.png&sig=rv4Wz8gFvlSeqFTGSJ%2Bkp6S2ZO093KleHHclNvpfu9o%3D)](https://chat.openai.com/g/g-UksTwf2n1-echo-translator)
 
-# [Echo Translator](https://chat.openai.com/g/g-UksTwf2n1-echo-translator)
+# Echo Translator [ChatGPT Plus](https://chat.openai.com/g/g-UksTwf2n1-echo-translator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Echo%20Translator)
 
 Echo Translator is a bilingual translator app designed for spoken Chinese and English. Whether you need to hold a conversation with someone who speaks a different language or want to practice your language skills, Echo Translator has got you covered. Just say a phrase in Chinese or English, and the app will provide you with an accurate translation. You can even ask about the weather or have a casual chat. With Echo Translator, language barriers become a thing of the past!
 
@@ -35,3 +36,5 @@ Echo Translator is a bilingual translator app designed for spoken Chinese and En
 4. If you have specific Python code that you want to execute, you can use the Python tool. Provide your Python code as a prompt, and the app will execute it for you. This can be useful for performing calculations or running custom scripts.
 
 Note: The app's access to knowledge is disabled, so it may have limited capabilities in providing up-to-date information or answering specific questions that rely on external knowledge.
+
+

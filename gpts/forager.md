@@ -1,6 +1,7 @@
+
 [![Forager](https://files.oaiusercontent.com/file-VzoNkrjhiqUxn2mGsYktu4ep?se=2123-10-19T14%3A12%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e01c800-b460-47af-abc9-becdd55d838b.png&sig=qSidDnLKvyDuQ%2B%2B2qHod8drxKMQ9AD9GJpZT5P1D298%3D)](https://chat.openai.com/g/g-yMn1RH7Rt-forager)
 
-# [Forager](https://chat.openai.com/g/g-yMn1RH7Rt-forager)
+# Forager [ChatGPT Plus](https://chat.openai.com/g/g-yMn1RH7Rt-forager) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Forager)
 
 Forager is an AI-powered app that supercharges your online searching abilities. With its enhanced capabilities, you can now find exactly what you need with precision. Whether you're on the hunt for art galleries in New York with modern exhibits or compiling a list of top-rated vegan restaurants in Los Angeles, Forager has got you covered. It's like having your own personal search assistant, helping you discover the information you're looking for more efficiently. Say goodbye to endless scrolling and let Forager do the hard work for you!
 
@@ -23,3 +24,5 @@ Forager is an AI-powered app that supercharges your online searching abilities. 
 5. **Using the Browser tool:** For certain tasks, Forager uses the Browser tool to access web pages and retrieve specific information. This allows Forager to extract data from websites and provide you with the most up-to-date information available.
 
 Remember to frame your prompts in a clear and concise manner, specifying what information you are looking for and any additional criteria or preferences you may have. Forager will then use its enhanced capabilities to provide you with the most relevant and accurate search results possible.
+
+

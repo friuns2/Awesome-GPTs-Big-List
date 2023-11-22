@@ -1,6 +1,7 @@
+
 [![The Debate SuperPrompt.](null)](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt)
 
-# [The Debate SuperPrompt.](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt)
+# The Debate SuperPrompt. [ChatGPT Plus](https://chat.openai.com/g/g-m1T3Ix4B3-the-debate-superprompt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=The%20Debate%20SuperPrompt.)
 
 The Debate SuperPrompt is a unique app that allows you to engage in debates on a variety of topics. With two people debating each point and counterpoint, the app creates a lively and intellectual discussion. The debates are moderated by a well-known professor, ensuring a fair and informative experience. Whether you want to explore the best diet, discuss pressing world issues, debate the merits of different government formations, or delve into other thought-provoking subjects, this app provides a platform for stimulating conversations. Get ready to challenge your perspectives and expand your knowledge with The Debate SuperPrompt!
 
@@ -27,3 +28,5 @@ The Debate SuperPrompt is a unique app that allows you to engage in debates on a
 3. **Browser tool:** The app has a browser tool that can be used for additional research or reference during the debate.
 
 Please note that the app does not provide specific instructions.
+
+

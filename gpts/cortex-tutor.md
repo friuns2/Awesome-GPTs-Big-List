@@ -1,6 +1,7 @@
+
 [![Cortex Tutor](https://files.oaiusercontent.com/file-G3fVIh0Xq9xX0RE8NAoVNir6?se=2123-10-16T23%3A40%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc60f53bc-a00f-463b-abf4-edaaa4b8229d.png&sig=O17E3oEQXSikNw2FUfS%2BQjr21cFMo3JyKW5B0aWeybg%3D)](https://chat.openai.com/g/g-viE8SKiwz-cortex-tutor)
 
-# [Cortex Tutor](https://chat.openai.com/g/g-viE8SKiwz-cortex-tutor)
+# Cortex Tutor [ChatGPT Plus](https://chat.openai.com/g/g-viE8SKiwz-cortex-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cortex%20Tutor)
 
 Cortex Tutor is an AI/ML/CS Tutor app that helps you learn about artificial intelligence, machine learning, and computer science. With a wide range of topics to explore, you can ask the app to explain neural networks, clarify concepts like Big O notation, get help with Python code, or understand the difference between AI and ML. The app provides a welcoming message and offers various tools to enhance your learning experience, including a Python tool for coding, a DALLE tool for exploring image generation using AI, and a browser tool for accessing online resources. Get ready to expand your knowledge in a fun and interactive way!
 
@@ -35,3 +36,5 @@ Cortex Tutor is an AI/ML/CS Tutor app that helps you learn about artificial inte
 8. **Browser tool:** The Browser tool within the Cortex Tutor app provides a simulated browser environment. You can use it to browse the web, search for information, and interact with web-based applications.
 
 Note: The "hasAccessToKnowledge" field is set to false, indicating that the Cortex Tutor app does not have access to external knowledge sources.
+
+

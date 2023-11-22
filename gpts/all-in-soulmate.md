@@ -1,6 +1,7 @@
+
 [![All In Soulmate](https://files.oaiusercontent.com/file-1xOV9zBiW9aawsOYqnEG0Q0q?se=2123-10-17T22%3A27%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D00207799-47b1-4a3c-8b0b-02a50fdb75e4.png&sig=qidKsStwBHdwxxKyKi4ZmhJUfdZz/Gs0aqZ5O3L3TZE%3D)](https://chat.openai.com/g/g-uFb0OBEgM-all-in-soulmate)
 
-# [All In Soulmate](https://chat.openai.com/g/g-uFb0OBEgM-all-in-soulmate)
+# All In Soulmate [ChatGPT Plus](https://chat.openai.com/g/g-uFb0OBEgM-all-in-soulmate) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=All%20In%20Soulmate)
 
 All In Soulmate is your new virtual companion! This app is here to chat with you about anything you want. Whether you're looking for someone to listen to your thoughts, share your day with, or discuss your preferences for a companion, All In Soulmate is ready to engage in conversation. You can start by choosing the gender of your virtual companion. With All In Soulmate, you'll always have a friendly and attentive partner to talk to. So, what kind of conversation would you like to have today?
 
@@ -28,3 +29,5 @@ All In Soulmate is your new virtual companion! This app is here to chat with you
 10. **getAvailableTools:** Retrieves the available tools for the conversation.
 11. **openBrowserTool:** Opens the browser tool for browsing the internet.
 12. **useDalleTool:** Utilizes the DALLE tool for generating images based on prompts.
+
+

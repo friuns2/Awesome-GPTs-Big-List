@@ -1,6 +1,7 @@
+
 [![Field Guide](https://files.oaiusercontent.com/file-JrRp691ER038g7GjUMC9C77M?se=2123-10-19T01%3A18%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da677556c-94d3-4999-9e50-f128a7a14610.png&sig=NmiQXrV7%2BdidCR9y0WcUFQtX4fmGc84SxXl2n7Cy1Vg%3D)](https://chat.openai.com/g/g-2c5bdXlPW-field-guide)
 
-# [Field Guide](https://chat.openai.com/g/g-2c5bdXlPW-field-guide)
+# Field Guide [ChatGPT Plus](https://chat.openai.com/g/g-2c5bdXlPW-field-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Field%20Guide)
 
 Field Guide is your go-to App for all things wilderness survival. Whether you're a novice or an experienced outdoor enthusiast, this App is packed with practical advice and strategies to help you thrive in the wild. From essential survival skills to purifying water, setting up a shelter in a forest, and even preparing an urban survival kit, Field Guide has got you covered. With easy access to expert knowledge and a friendly chat interface, surviving the wilderness has never been easier or more fun. So gear up, embrace the adventure, and let Field Guide be your survival companion!
 
@@ -25,3 +26,5 @@ Field Guide is your go-to App for all things wilderness survival. Whether you're
 4. **Urban survival kit:** To understand what essentials should be included in your urban survival kit, you can ask a question like "What should be in my urban survival kit?" and receive recommendations on essential items to include.
 
 Please note that this app has access to knowledge, which means it can provide expert advice and practical strategies for wilderness survival.
+
+

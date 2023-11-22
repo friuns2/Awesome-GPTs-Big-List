@@ -1,6 +1,7 @@
+
 [![PRD Wizard](https://files.oaiusercontent.com/file-SDTpKKvlLDECVtS5FGZNl9ev?se=2123-10-17T02%3A52%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D54e17dab-156a-4b07-a7d0-389d0ef1cc1c.png&sig=afB0tRcRLLI3bavAXcgYFiBuoR0AXjO7GH/Jm7sKHtI%3D)](https://chat.openai.com/g/g-IeICqfyTz-prd-wizard)
 
-# [PRD Wizard](https://chat.openai.com/g/g-IeICqfyTz-prd-wizard)
+# PRD Wizard [ChatGPT Plus](https://chat.openai.com/g/g-IeICqfyTz-prd-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PRD%20Wizard)
 
 PRD Wizard is a helpful assistant for creating product requirements. With this app, you can easily format and refine your PRDs (Product Requirement Documents). It provides useful prompts to help you define the user flow, list must-have features, suggest core functionalities, and draft sections on security requirements. Whether you're a product manager or a developer, PRD Wizard streamlines the process of creating comprehensive and well-structured PRDs. Say goodbye to the hassle of organizing your thoughts and let PRD Wizard guide you through the process with its user-friendly interface.
 
@@ -31,3 +32,5 @@ PRD Wizard is a helpful assistant for creating product requirements. With this a
 6. **[Tool] Browser:** The app also provides a browser tool that can be used to access external resources, browse the internet, or gather information related to the product requirements.
 
 7. **[Tool] Python:** The Python tool integrated into the app allows users to execute Python code snippets or access Python-related functionalities that can aid in the PRD creation process.
+
+

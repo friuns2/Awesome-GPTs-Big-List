@@ -1,6 +1,7 @@
+
 [![Verify Don't Trust](https://files.oaiusercontent.com/file-8wbYdZRbWtxm89dkjdTFzbYb?se=2123-10-18T17%3A40%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df86b704c-3bfd-4d9a-8f91-d4722545c350.png&sig=2bx7T7JYOcGfNm3xDeOqFe9oCKu%2Bt0VIWUQMZk1fITg%3D)](https://chat.openai.com/g/g-5QU9ci9X3-verify-don-t-trust)
 
-# [Verify Don't Trust](https://chat.openai.com/g/g-5QU9ci9X3-verify-don-t-trust)
+# Verify Don't Trust [ChatGPT Plus](https://chat.openai.com/g/g-5QU9ci9X3-verify-don-t-trust) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Verify%20Don't%20Trust)
 
 Verify Don't Trust is a GPT Assistant App that simplifies the tedious process of verifying information. Whether you're fact-checking news, researching a topic, or validating claims, this App has got you covered. Just tell the Assistant what you want to verify, and it will guide you through the process. With powerful tools like a browser for quick search, advanced image generation with DALLE, and the ability to run Python code, you'll have all the resources you need at your fingertips. Never fall for fake news again and trust, but verify!
 
@@ -27,3 +28,5 @@ Here are the features and commands available in the Verify Don't Trust app and s
 3. **Python Tool:** The Python tool provides a Python environment where you can execute code to aid in the verification process. You can use it to analyze data, run algorithms, or perform other tasks related to fact-checking.
 
 Please note that specific usage instructions and details about each tool's functionality should be provided in the app's official documentation.
+
+

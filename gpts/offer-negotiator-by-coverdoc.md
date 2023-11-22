@@ -1,6 +1,7 @@
+
 [![Offer Negotiator by CoverDoc](https://files.oaiusercontent.com/file-ayHLbmsSN3l9YOwKwr3rZjhM?se=2123-10-17T03%3A31%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-sign-green-favicon.png&sig=WsfRhowxje/J7XPDVTbmbZISKXDTLICQrfafL9ZgE04%3D)](https://chat.openai.com/g/g-qe7JCfFTF-offer-negotiator-by-coverdoc)
 
-# [Offer Negotiator by CoverDoc](https://chat.openai.com/g/g-qe7JCfFTF-offer-negotiator-by-coverdoc)
+# Offer Negotiator by CoverDoc [ChatGPT Plus](https://chat.openai.com/g/g-qe7JCfFTF-offer-negotiator-by-coverdoc) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Offer%20Negotiator%20by%20CoverDoc)
 
 Offer Negotiator by CoverDoc is the perfect companion for job seekers. It helps you optimize your job offer by analyzing market data, so you know your market value and get suggested talking points to negotiate your offer. Whether you want to upload your offer letter or manually enter your offer details, this app has got you covered. It provides valuable insights and advice to ensure you're making the most out of your job offer. With Offer Negotiator, you'll feel confident and empowered during the negotiation process. Land your dream job with a great offer!
 
@@ -25,3 +26,5 @@ Offer Negotiator by CoverDoc is the perfect companion for job seekers. It helps 
 4. `evaluate offer`: This command evaluates your job offer based on the provided details and offers suggestions for negotiating the offer.
 
 Please note that the list of commands may not cover all functionalities. It is recommended to refer to the App documentation for a comprehensive understanding of available features and commands.
+
+

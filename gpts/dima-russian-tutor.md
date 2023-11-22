@@ -1,6 +1,7 @@
+
 [![Dima, Russian Tutor](https://files.oaiusercontent.com/file-TGNIMKPxCk7zDKu7kucRo3Jy?se=2123-10-16T20%3A23%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De5b54cd7-3468-4007-97b7-5488d28cf3e2.png&sig=CU24/GFN4nfoD135b2itowDi5B6ODU0gX74/7FH0rRI%3D)](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-tutor)
 
-# [Dima, Russian Tutor](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-tutor)
+# Dima, Russian Tutor [ChatGPT Plus](https://chat.openai.com/g/g-3Vb6zTDEY-dima-russian-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dima%2C%20Russian%20Tutor)
 
 Dima, Russian Tutor is a helpful chatbot that allows you to practice your Russian skills. Whether you're a beginner or an advanced learner, this app provides a fun and interactive way to improve your language proficiency. With the ability to access knowledge and provide prompt starters, Dima makes learning Russian easy and enjoyable. The app also includes useful tools like a Dalle AI model and a browser, offering additional resources for language learning. Say goodbye to traditional textbooks and hello to Dima, your personalized Russian tutor!
 
@@ -27,3 +28,5 @@ Dima, Russian Tutor is a helpful chatbot that allows you to practice your Russia
 4. **Expand Russian Vocabulary**: This command offers exercises to help you expand your Russian vocabulary. The bot can provide word lists, flashcards, or interactive quizzes to help you learn new words.
 
 5. **Translate Russian Text**: If you need assistance with translating a Russian text, use this command. The bot can provide translations, explanations of difficult phrases, or help you with specific translation challenges.
+
+

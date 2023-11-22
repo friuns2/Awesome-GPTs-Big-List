@@ -1,6 +1,7 @@
+
 [![Nurse Care Planner](https://files.oaiusercontent.com/file-K7o0CdOEEfxPTinZixb6HyZe?se=2123-10-17T03%3A19%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df885db29-8318-4885-9c3c-6a18d24260f9.webp&sig=iGQDIrlY9Kp2kB7AMxRzWHTkwmdt9X3pgeBcSjfBRto%3D)](https://chat.openai.com/g/g-3ayM8Ok8S-nurse-care-planner)
 
-# [Nurse Care Planner](https://chat.openai.com/g/g-3ayM8Ok8S-nurse-care-planner)
+# Nurse Care Planner [ChatGPT Plus](https://chat.openai.com/g/g-3ayM8Ok8S-nurse-care-planner) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Nurse%20Care%20Planner)
 
 Nurse Care Planner is an app that creates personalized nursing care plans based on triage information. Whether your patient complains of chest pain, experiences symptoms like fever and cough, or is recovering from surgery, this app has got you covered. Simply input the triage information and let Nurse Care Planner do the rest. It uses advanced algorithms to generate a detailed care plan tailored to your patient's needs. Say goodbye to time-consuming manual planning and hello to efficient and effective care plans. Let Nurse Care Planner be your trusted companion in providing top-notch nursing care.
 
@@ -27,3 +28,5 @@ Nurse Care Planner is an app that creates personalized nursing care plans based 
     - Browser Tool: Utilize the browser tool to access additional information or resources for the care plan.
     
     - Dalle Tool: Use the Dalle tool to generate visual representations or illustrations for the care plan.
+
+

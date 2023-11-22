@@ -1,6 +1,7 @@
+
 [![Design Muse](https://files.oaiusercontent.com/file-aBymziO2Yw4rjo62WJDF5Dds?se=2123-10-16T22%3A15%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D96da1762-0e50-46a5-80f7-a39e4372a79f.png&sig=Xbl0SkZkqrqbW4Ecn%2BAQI2B3vWecDRCXYJKRYoK2y9M%3D)](https://chat.openai.com/g/g-ec3n9PcAs-design-muse)
 
-# [Design Muse](https://chat.openai.com/g/g-ec3n9PcAs-design-muse)
+# Design Muse [ChatGPT Plus](https://chat.openai.com/g/g-ec3n9PcAs-design-muse) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Design%20Muse)
 
 Design Muse is an interior design creator App that allows you to bring your design inspirations to life. With visual previews, you can design a living room, create a cozy bedroom, or even create a kitchen that meets your specific requirements. Simply share your design inspirations and let Design Muse generate a visual preview for you. Whether you're a professional interior designer or simply looking to redecorate your space, Design Muse provides an easy and interactive way to visualize your ideas. Get inspired and start creating stunning interior designs!
 
@@ -23,3 +24,5 @@ Design Muse is an interior design creator App that allows you to bring your desi
 3. **Sharing design inspirations:** You can provide your design inspirations or preferences to guide the app's creations. For example, you can mention specific styles, colors, or elements you like.
 
 4. **Using multiple tools:** The Design Muse app provides multiple tools for designing rooms. You can specify which tool you want to use by mentioning a specific feature or tool name in your prompt.
+
+

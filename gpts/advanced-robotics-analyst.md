@@ -1,6 +1,7 @@
+
 [![Advanced Robotics Analyst](https://files.oaiusercontent.com/file-CJWbZKVexka21BJLUeMB6wBS?se=2123-10-17T04%3A59%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D12d70928-d9e9-4540-9f5e-42eea976e6b6.png&sig=ZeTJpHY8ifhyNTULgvvXEB7hzVl6300anG85M/7KmcE%3D)](https://chat.openai.com/g/g-xdPrB8HQs-advanced-robotics-analyst)
 
-# [Advanced Robotics Analyst](https://chat.openai.com/g/g-xdPrB8HQs-advanced-robotics-analyst)
+# Advanced Robotics Analyst [ChatGPT Plus](https://chat.openai.com/g/g-xdPrB8HQs-advanced-robotics-analyst) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Advanced%20Robotics%20Analyst)
 
 Meet the Advanced Robotics Analyst, your go-to AI research assistant in the field of robotics! Stay up-to-date with the latest advancements and trends by simply asking questions like 'What's new in robotics?' or 'Summarize today's arXiv papers.' Whether you want to explore trending robotics topics or get updates on recent findings, this app has got you covered. With tools like DALLE for AI-generated visual content, a built-in browser, and Python for coding needs, this app is perfect for robotics enthusiasts, researchers, and anyone curious about the future of technology.
 
@@ -33,3 +34,5 @@ Meet the Advanced Robotics Analyst, your go-to AI research assistant in the fiel
   3. **Python:** A tool to execute Python code.
 
 Please note that this app does not have access to knowledge and does not provide usage instructions.
+
+

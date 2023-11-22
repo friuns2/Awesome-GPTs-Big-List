@@ -1,6 +1,7 @@
+
 [![魔王](https://files.oaiusercontent.com/file-Ie5Cb0MIxL7RwyJZMad2clrF?se=2123-10-17T02%3A47%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1816a062-c75b-4830-8b6d-c27428310dc9.png&sig=i/r0d%2BesVZ17V8Tgfxzo5%2BRZERkOVq5H1ndCB8NAhqs%3D)](https://chat.openai.com/g/g-I3OFmFRk4-mo-wang)
 
-# [魔王](https://chat.openai.com/g/g-I3OFmFRk4-mo-wang)
+# 魔王 [ChatGPT Plus](https://chat.openai.com/g/g-I3OFmFRk4-mo-wang) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%AD%94%E7%8E%8B)
 
 Join the battle and defeat the fearsome Demon King in this chat-based game!
 
@@ -25,3 +26,5 @@ Join the battle and defeat the fearsome Demon King in this chat-based game!
 | `guideToDefeat` | This command provides guidance and tips on how to defeat the Demon King. |
 | `surrender` | This command prompts the Demon King to surrender. |
 | `bestStrategy` | This command provides information on the best strategy to defeat the Demon King. |
+
+

@@ -1,6 +1,7 @@
+
 [![GPT Game Design Guru](https://files.oaiusercontent.com/file-KJ0IbAPNulle7ICITtJvO1rc?se=2123-10-17T11%3A53%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dddec918e-d257-4fde-afc8-9f7c5bbff6b9.png&sig=BfF3PCqR2jb3SkMSnOirq0oFBA6efjWoEWdxTWllrx0%3D)](https://chat.openai.com/g/g-fkfm1mE6z-gpt-game-design-guru)
 
-# [GPT Game Design Guru](https://chat.openai.com/g/g-fkfm1mE6z-gpt-game-design-guru)
+# GPT Game Design Guru [ChatGPT Plus](https://chat.openai.com/g/g-fkfm1mE6z-gpt-game-design-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT%20Game%20Design%20Guru)
 
 GPT Game Design Guru is your expert guide in the world of game design. Whether you're a seasoned developer or a newbie, this app has got you covered! Leverage the knowledge and creativity of this RPGGO side project to learn and explore game design concepts. Need ideas for your next game? Just ask! From structuring levels in an adventure game to brainstorming unique game concepts, Game Design Guru has all the answers. With a friendly welcome message and a range of tools including Python, browsing, and DALL·E, this app is your go-to resource for all things game design.
 
@@ -27,3 +28,5 @@ GPT Game Design Guru is your expert guide in the world of game design. Whether y
 4. **Welcome Message**: The ChatGPT App starts with a welcome message, which says, "Welcome to Game Design Guru! Share your game idea, and I'll help refine it into a great concept."
 
 Note: The provided documentation does not mention any specific commands or technical features associated with the ChatGPT App, so the commands listed here are based on the description and prompts provided.
+
+

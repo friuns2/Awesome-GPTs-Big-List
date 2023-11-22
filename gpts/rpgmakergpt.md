@@ -1,6 +1,7 @@
+
 [![RPGMakerGPT](https://files.oaiusercontent.com/file-8Qixi6RUC4VWkSY3CGasYqRz?se=2123-10-16T23%3A50%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfc05a976-506a-4b85-ae86-de8167da43c2.png&sig=W7PbPgHdRjY9S2z65EWKxu9e36CP4Ux%2BK32hwOe45L8%3D)](https://chat.openai.com/g/g-bNCJO6o9I-rpgmakergpt)
 
-# [RPGMakerGPT](https://chat.openai.com/g/g-bNCJO6o9I-rpgmakergpt)
+# RPGMakerGPT [ChatGPT Plus](https://chat.openai.com/g/g-bNCJO6o9I-rpgmakergpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=RPGMakerGPT)
 
 RPGMakerGPT is an app for all aspiring RPG creators! Whether you're new to RPG Maker or a seasoned pro, this app is your ultimate guide to scripts, plugins, and assets. Need help crafting a captivating story for your RPG? Just ask! Want to learn how to use custom plugins? We've got you covered! You can even create your own unique plugin for MZ with our easy-to-use tool. And if you're wondering where to find new assets, look no further. RPGMakerGPT has all the resources you need to make your RPG dreams come true!
 
@@ -27,3 +28,5 @@ RPGMakerGPT is an app for all aspiring RPG creators! Whether you're new to RPG M
 5. **New assets**: If you are looking for new assets for your RPG Maker project, you can ask the app for recommendations. For example, you can ask "Where can I get new assets?" and the app will provide you with suggestions and sources for obtaining fresh assets.
 
 Please note that the app does not have access to external knowledge and its responses are based on its expertise in RPG Maker scripts, plugins, and assets.
+
+

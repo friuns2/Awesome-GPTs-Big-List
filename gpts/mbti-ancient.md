@@ -1,6 +1,7 @@
+
 [![MBTI Ancient](https://files.oaiusercontent.com/file-iVPPUSeDNQdxm8lDDHetmx2i?se=2123-10-17T09%3A05%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D996790ac-92ec-44be-bed6-5fa4a40e6d9f.png&sig=FDVaTAbJri9ctacN8ypc6ROTUO8ZBeF8BbPlG0B3roM%3D)](https://chat.openai.com/g/g-L9OKdqPFN-mbti-ancient)
 
-# [MBTI Ancient](https://chat.openai.com/g/g-L9OKdqPFN-mbti-ancient)
+# MBTI Ancient [ChatGPT Plus](https://chat.openai.com/g/g-L9OKdqPFN-mbti-ancient) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MBTI%20Ancient)
 
 MBTI Ancient is an App that serves as your ancient guide. With this App, you can explore the wisdom of historical figures such as Socrates, Xiang Yu, Confucius, and Qin Shi Huang, based on their MBTI personality types. Whether you're an ENFP, INTP, ESTJ, or ISFJ, this App allows you to choose a historical figure and learn from their unique perspectives. Welcome to your ancient guide and discover the wisdom of the past!
 
@@ -25,3 +26,5 @@ MBTI Ancient is an App that serves as your ancient guide. With this App, you can
 4. **Opt for [MBTI Type] [Name]:** Use this command to opt for an MBTI type and its respective ancient figure. For example, you can use the prompt "Opt for ISFJ Qin Shi Huang" to indicate Qin Shi Huang as the ancient figure associated with the ISFJ MBTI type.
 
 Note: The MBTI ancient guide app provides information and guidance based on the chosen MBTI type and its associated ancient figure.
+
+

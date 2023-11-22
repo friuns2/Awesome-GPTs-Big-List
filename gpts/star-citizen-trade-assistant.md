@@ -1,6 +1,7 @@
+
 [![Star Citizen Trade Assistant](https://files.oaiusercontent.com/file-aN60NdurVco1U67TgKBlv3Kv?se=2123-10-17T12%3A21%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DOIG.jpg&sig=zI06XLU3nghWp8FjK11O%2BtS1Ye8ZAh4HhShpXCnc%2BbA%3D)](https://chat.openai.com/g/g-PzyekkeIm-star-citizen-trade-assistant)
 
-# [Star Citizen Trade Assistant](https://chat.openai.com/g/g-PzyekkeIm-star-citizen-trade-assistant)
+# Star Citizen Trade Assistant [ChatGPT Plus](https://chat.openai.com/g/g-PzyekkeIm-star-citizen-trade-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Star%20Citizen%20Trade%20Assistant)
 
 Trade Assistant is your AI companion in Star Citizen, providing you with profitable trade routes to maximize your earnings. With Trade Assistant, you can easily plot routes for your ship, find the best trade opportunities in real-time, update your cargo plan, and discover routes from the Stanton system. Whether you're flying a Cutlass Black or any other ship, Trade Assistant has got you covered. So, strap in, Commander, and let's navigate the stars together!
 
@@ -25,3 +26,5 @@ Trade Assistant is your AI companion in Star Citizen, providing you with profita
 4. **Find routes from [location]:** This command allows you to find trade routes starting from a specific location. You need to provide the location parameter in the command. It will provide you with a list of trade routes available from the specified location.
 
 Note: The Star Citizen Trade Assistant app is designed to assist you in finding profitable trade routes in the game Star Citizen. It may require access to additional tools or resources like a browser to provide the necessary information.
+
+

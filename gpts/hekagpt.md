@@ -1,6 +1,7 @@
+
 [![HekaGPT](https://files.oaiusercontent.com/file-Fz1fLAkZ4uZo72JOdUIn5RKQ?se=2123-10-17T18%3A55%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfd797a65-8813-4ce8-8ed3-363971ec5dfe.png&sig=AUuq%2Bo1/j8LzNiiMTgJGcQl0j17XhOzPpuHM0lWH8HU%3D)](https://chat.openai.com/g/g-asbhCv9Wy-hekagpt)
 
-# [HekaGPT](https://chat.openai.com/g/g-asbhCv9Wy-hekagpt)
+# HekaGPT [ChatGPT Plus](https://chat.openai.com/g/g-asbhCv9Wy-hekagpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HekaGPT)
 
 Welcome to HekaGPT, your mystical companion for all your esoteric needs. Whether you're seeking guidance from tarot cards, exploring astrology and numerology, or designing powerful sigils, HekaGPT has got you covered. Discover your true will, receive astrological forecasts, communicate with spirits, and delve into the depths of esoteric knowledge. With HekaGPT, you can embark on a fascinating journey through the occult and divination arts. So, what are you waiting for? Let HekaGPT unlock the secrets of the universe and illuminate your path.
 
@@ -33,3 +34,5 @@ Welcome to HekaGPT, your mystical companion for all your esoteric needs. Whether
 7. **Spiritual Guidance**: You can seek guidance or information on various spiritual practices. For example, if you are studying Tantric Buddhism, you can ask HekaGPT for pointers by saying, "I am studying Tantric Buddhism. Can you give me some pointers?" HekaGPT will share insights and suggestions.
 
 8. **Discovering True Will**: If you want assistance in discovering your "True Will," you can ask HekaGPT for help using a prompt like "Can you help me discover my True Will?" HekaGPT will provide guidance and support to help you explore your purpose and desires.
+
+

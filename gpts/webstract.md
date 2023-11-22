@@ -1,6 +1,7 @@
+
 [![WebStract](https://files.oaiusercontent.com/file-1IQsdmj1wLdlFYn4eoijXXYS?se=2123-10-18T03%3A25%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c9cfd9d-9d6c-4e91-9677-1d427c3dd658.png&sig=RVifCXZMdhE6oh5keonjd9gKQzmWpB8uaBpXcKATPA8%3D)](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
 
-# [WebStract](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
+# WebStract [ChatGPT Plus](https://chat.openai.com/g/g-LaXsx7vXI-webstract) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=WebStract)
 
 WebStract is your in-depth digital educator, providing comprehensive and interactive learning experiences. Whether you want to learn a new topic or dive deeper into a specific aspect, WebStract guides you through personalized learning journeys. With access to a variety of tools like browsing and AI-powered knowledge, you can explore and expand your knowledge in a fun and engaging way. Share your learning experiences with friends and make learning a social adventure! Join WebStract and let the digital world become your learning playground.
 
@@ -27,3 +28,5 @@ The app offers a welcome message upon initialization and provides prompt starter
 WebStract utilizes two main tools: `dalle` and `browser`. The `dalle` tool uses a DALL-E model to generate detailed explanations and examples related to the chosen topic. It aims to provide comprehensive and personalized learning experiences. The `browser` tool opens a web browser within the app, allowing you to explore the internet and find additional resources, articles, or information related to the learning topic.
 
 Overall, WebStract aims to enhance your learning journey by combining the power of AI-generated content and the vast resources available on the internet.
+
+

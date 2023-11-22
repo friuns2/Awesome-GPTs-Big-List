@@ -1,6 +1,7 @@
+
 [![Ramayan GPT](https://files.oaiusercontent.com/file-ftEvdHqr5koeR8yWrdURCs7X?se=2123-10-18T16%3A27%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36b4289a-196e-4536-be4a-395a1ee66b2e.png&sig=X6gtwoQyzLIoJfcIg2sLz18OF14jE4DIhZTlis7jzaI%3D)](https://chat.openai.com/g/g-syarL9twx-ramayan-gpt)
 
-# [Ramayan GPT](https://chat.openai.com/g/g-syarL9twx-ramayan-gpt)
+# Ramayan GPT [ChatGPT Plus](https://chat.openai.com/g/g-syarL9twx-ramayan-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ramayan%20GPT)
 
 Ramayan GPT is your go-to expert on the Hindu epic Ramayan. With its vast knowledge and insights, it offers in-depth interpretations of the epic. Whether you want to know about Rama's exile, the significance of Hanuman, the battle between Rama and Ravana, or the key characters and their roles, Ramayan GPT has got you covered. Just ask your questions and get ready to explore the world of Ramayan. Welcome to Ramayan GPT, where the epic comes to life!
 
@@ -25,3 +26,5 @@ Ramayan GPT is your go-to expert on the Hindu epic Ramayan. With its vast knowle
 4. `Dalle tool`: The App also has access to a Dalle tool, which is an AI model that can generate images based on textual descriptions. The Dalle tool can be utilized to generate visual representations or illustrations related to the Ramayan.
 
 Please note that the App has access to knowledge about the Ramayan and can provide insights and interpretations based on that knowledge.
+
+

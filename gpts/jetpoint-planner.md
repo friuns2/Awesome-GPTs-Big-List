@@ -1,6 +1,7 @@
+
 [![JetPoint Planner](https://files.oaiusercontent.com/file-4qHClSlAdVlcznlRbz5BTIbs?se=2123-10-16T16%3A58%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db91b3d28-2164-4ec0-bad9-0c2bdea2efa6.png&sig=zgoH8g34Kkg8g%2BSOyNRgotubOt/xaB%2BlmPbm/DDph2s%3D)](https://chat.openai.com/g/g-sQIYI75NM-jetpoint-planner)
 
-# [JetPoint Planner](https://chat.openai.com/g/g-sQIYI75NM-jetpoint-planner)
+# JetPoint Planner [ChatGPT Plus](https://chat.openai.com/g/g-sQIYI75NM-jetpoint-planner) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=JetPoint%20Planner)
 
 JetPoint Planner is the ultimate assistant for flight rewards and planning. Whether you want to book a flight using your miles, find the best value redemption, plan a multi-city itinerary, or discover the best way to fly to Tokyo using points, this app has got you covered. With a friendly interface and powerful tools, you can easily navigate through the world of flight rewards. Get ready to jet-set with your points and explore the possibilities of maximizing your travel rewards!
 
@@ -26,3 +27,5 @@ JetPoint Planner is the ultimate assistant for flight rewards and planning. Whet
 4. **Finding the best value redemption:** If you are looking to maximize the value of your miles, you can ask the app to find the best value redemption options for you. Specify your departure location, destination, preferred dates, and the points you have available.
 
 Please note that the available features and commands may vary based on the specific tools and settings enabled for the JetPoint Planner app.
+
+

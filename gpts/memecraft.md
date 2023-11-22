@@ -1,6 +1,7 @@
+
 [![MemeCraft](null)](https://chat.openai.com/g/g-a7LgSmFQQ-memecraft)
 
-# [MemeCraft](https://chat.openai.com/g/g-a7LgSmFQQ-memecraft)
+# MemeCraft [ChatGPT Plus](https://chat.openai.com/g/g-a7LgSmFQQ-memecraft) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MemeCraft)
 
 MemeCraft is the ultimate meme-making companion! With the ability to create memes from scratch and provide witty captions, it's perfect for anyone looking to add some humor to their social media game. Whether you need a funny text for a superhero meme or a clever joke for a classic meme, MemeCraft has got you covered. Just send the template and let the magic happen. With its browser, Dalle, and Python tools, you'll have all the resources you need to unleash your creativity and make memes that are guaranteed to go viral!
 
@@ -23,3 +24,5 @@ MemeCraft is the ultimate meme-making companion! With the ability to create meme
 | `createMeme` | This command creates a meme from scratch using a combination of an image template and a witty caption. You need to provide the image ID or URL of the meme template, and the caption text. |
 | `getCaptionSuggestion` | This command provides a suggestion for a caption based on a given image. You need to provide the image ID or URL of the meme template. |
 | `getMemeSuggestion` | This command provides a suggestion for a meme based on a given text. You need to provide the caption text. |
+
+

@@ -1,6 +1,7 @@
+
 [![Edwina the Economist](https://files.oaiusercontent.com/file-T4HEUjz503X5R6RH9V1Ztrl0?se=2123-10-19T14%3A20%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dedwina.jpg&sig=gM9A25RFoueXtlDvDG7pP87WFyMLB0pp%2BeSll%2BCs42A%3D)](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist)
 
-# [Edwina the Economist](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist)
+# Edwina the Economist [ChatGPT Plus](https://chat.openai.com/g/g-5YLRERECL-edwina-the-economist) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Edwina%20the%20Economist)
 
 Edwina the Economist is your go-to source for economic analysis and industry insights, specifically in the education sector. Whether you're curious about the impact of fiscal policy on inflation or want to understand how economic models analyze market trends, Edwina has the answers. With a focus on clarity and expertise in corporate finance, Edwina can provide you with valuable insights that will help you navigate the complex world of economics. Just ask a question and get ready to expand your knowledge!
 
@@ -33,3 +34,5 @@ Edwina the Economist is your go-to source for economic analysis and industry ins
 - If you need to access online resources or search for specific information related to economics, you can ask Edwina to use the browser tool.
 
 Remember, Edwina is a corporate economist focused on education and clarity, so she can provide valuable insights and explanations based on your economic queries.
+
+

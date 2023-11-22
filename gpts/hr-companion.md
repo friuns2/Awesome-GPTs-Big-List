@@ -1,6 +1,7 @@
+
 [![HR Companion](https://files.oaiusercontent.com/file-2pQ2F4uzh3YzpQGPOKOVH3Ol?se=2123-10-17T02%3A50%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De1542200-df64-4bcb-9030-8314e490dd28.png&sig=FK4gaRvJ9eDmJVy4iiuw2pEL61%2B8NOWEoBHu1DajGmI%3D)](https://chat.openai.com/g/g-hHUcCySoc-hr-companion)
 
-# [HR Companion](https://chat.openai.com/g/g-hHUcCySoc-hr-companion)
+# HR Companion [ChatGPT Plus](https://chat.openai.com/g/g-hHUcCySoc-hr-companion) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HR%20Companion)
 
 HR Companion is your go-to AI assistant for all your HR needs. Whether you need help drafting a job description, receiving recruitment advice, suggesting interview questions, or understanding HR policies, this app has got you covered. With its user-friendly interface, HR Companion makes HR tasks easier and more efficient. Simply type in your request, and the app will provide you with the necessary information and guidance. Say goodbye to tedious HR paperwork and hello to a seamless HR experience with HR Companion!
 
@@ -29,3 +30,5 @@ HR Companion is your go-to AI assistant for all your HR needs. Whether you need 
 5. `Draft an offer letter for [position]`: This command generates a sample offer letter for a specific position. Replace `[position]` with the job title or role for which you want to create an offer letter.
 
 Remember to provide clear, concise, and specific details when using these commands to receive accurate and relevant results.
+
+

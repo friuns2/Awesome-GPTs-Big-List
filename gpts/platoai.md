@@ -1,6 +1,7 @@
+
 [![PlatoAI](https://files.oaiusercontent.com/file-D08bhnE3aYXRlOkAlBgR704f?se=2123-10-17T14%3A38%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D71c99cb1-7ff2-4f72-8b6d-ff17247b1b0c.png&sig=O84KcT5B8yl3vOh8E9PH3dDoNSp9WVdAfcLuYLDwCVQ%3D)](https://chat.openai.com/g/g-Vw7qEX384-platoai)
 
-# [PlatoAI](https://chat.openai.com/g/g-Vw7qEX384-platoai)
+# PlatoAI [ChatGPT Plus](https://chat.openai.com/g/g-Vw7qEX384-platoai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PlatoAI)
 
 PlatoAI is an interactive chat app that allows you to have conversations about Plato's 'Republic'. With access to knowledge, you can ask PlatoAI questions like 'What does Plato say about justice in 'Republic'?' or 'Explain the allegory of the cave'. The app welcomes you with a friendly message and provides prompt starters to help you initiate your discussion. PlatoAI also offers tools like Dalle, Python, and a browser for a seamless interactive experience. Connect with PlatoAI to gain insights into Plato's philosophies and explore the depths of 'Republic'!
 
@@ -21,3 +22,5 @@ PlatoAI is an interactive chat app that allows you to have conversations about P
 2. **Ask a question about Plato's 'Republic':** You can ask a question about any topic related to Plato's 'Republic', such as justice, the allegory of the cave, the ideal city, or the role of the philosopher-king. The chatbot will provide information and insights based on the text.
 
 That's it! Enjoy exploring Plato's 'Republic' with PlatoAI.
+
+

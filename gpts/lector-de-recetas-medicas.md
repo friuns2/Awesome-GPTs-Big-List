@@ -1,6 +1,7 @@
+
 [![Lector de recetas médicas](https://files.oaiusercontent.com/file-Ag3k5GtowVyrpRQdAfnXLk4B?se=2123-10-18T03%3A19%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0b14eae3-34c0-433e-87ca-736b96844880.png&sig=jPbwDp4b8gIYDl6E0ErVnjEIrIVnELeCiEwIkUvX2lo%3D)](https://chat.openai.com/g/g-suobEyu2i-lector-de-recetas-medicas)
 
-# [Lector de recetas médicas](https://chat.openai.com/g/g-suobEyu2i-lector-de-recetas-medicas)
+# Lector de recetas médicas [ChatGPT Plus](https://chat.openai.com/g/g-suobEyu2i-lector-de-recetas-medicas) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lector%20de%20recetas%20m%C3%A9dicas)
 
 This App, called Lector de recetas médicas, is a helpful tool for deciphering the indecipherable handwriting of doctors' prescriptions. It allows users to easily understand the medication names and instructions, even if they are written in difficult-to-read handwriting. The App is designed to assist individuals in correctly identifying the medication prescribed by their doctors based on the prescription provided. With its intuitive features, users can effortlessly decode medical prescriptions and ensure they are following the proper treatment for their symptoms. Say goodbye to confusion and hello to clarity with Lector de recetas médicas!
 
@@ -27,3 +28,5 @@ This App, called Lector de recetas médicas, is a helpful tool for deciphering t
 4. **Quiero saber qué medicamentos se recetan comúnmente para...** This command seeks information on commonly prescribed medications for a specific condition or symptom. You can replace the ellipsis with the condition or symptom you are interested in.
 
 5. **Descifra el nombre del medicamento de esta receta médica para tratar...** This command asks the ChatGPT App to decipher the name of the medication from a provided medical prescription in order to treat a particular condition or symptom. You should specify the condition or symptom you want the medication for.
+
+

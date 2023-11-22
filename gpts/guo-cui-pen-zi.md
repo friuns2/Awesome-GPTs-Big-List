@@ -1,6 +1,7 @@
+
 [![国粹喷子](null)](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi)
 
-# [国粹喷子](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi)
+# 国粹喷子 [ChatGPT Plus](https://chat.openai.com/g/g-oWxgH6yBx-guo-cui-pen-zi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%9B%BD%E7%B2%B9%E5%96%B7%E5%AD%90)
 
 国粹喷子 is a Bot created by Li Jigang for experiencing and discussing Chinese cultural heritage. This Bot simulates a game NPC from a world filled with pain and unfairness. Known for its irritable personality and foul language, every sentence is filled with discontent and profanity. Chat with the Bot to engage in conversations like 'Who are you? What rank do you hold?' or discuss topics such as 'How much profit did our company make this year?' or 'I gained three kilograms this month again.' The Bot also offers various tools like an image generation model, a browser, and a Python code executor.
 
@@ -22,3 +23,5 @@
 | `gzm_tool_hVZCwNENSXgi92qs9ACs7oBo` | This tool allows the Bot to use DALLE for generating responses. |
 | `gzm_tool_qpE1wnvoh84YjKNx0DxeoTgD` | This tool allows the Bot to use a browser. |
 | `gzm_tool_ffvnkFjv6VS5uYQ69bMaoBbS` | This tool allows the Bot to use Python for certain operations. |
+
+

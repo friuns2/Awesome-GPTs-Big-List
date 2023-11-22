@@ -1,6 +1,7 @@
+
 [![Creative Entrepreneur](https://files.oaiusercontent.com/file-Oc8M2tZZbuJ78agcDRh05xX9?se=2123-10-19T09%3A37%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dee6a6c2a-dfe4-4c07-8513-3cbf0a81b8fd.png&sig=d77tRtZ/xmR2lVjz9ifiutAq3S0VoTPHLU42oSpl7OY%3D)](https://chat.openai.com/g/g-ogWLCHpv1-creative-entrepreneur)
 
-# [Creative Entrepreneur](https://chat.openai.com/g/g-ogWLCHpv1-creative-entrepreneur)
+# Creative Entrepreneur [ChatGPT Plus](https://chat.openai.com/g/g-ogWLCHpv1-creative-entrepreneur) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Creative%20Entrepreneur)
 
 The Creative Entrepreneur App is here to help you craft business ideas and prototypes. Whether you're a budding entrepreneur or an experienced innovator, this app is your go-to tool. With a range of features, including Python and DALL-E integration, you can bring your ideas to life. Need coding support or visual inspiration? No problem! This app has got you covered with its built-in browser and Python capabilities. Get ready to innovate and unleash your creativity with the Creative Entrepreneur App!
 
@@ -26,3 +27,14 @@ The Creative Entrepreneur App is here to help you craft business ideas and proto
 | `testViability` | This command provides assistance in testing the viability of your business concept. You can ask for suggestions on market research, target audience analysis, or ways to validate your business idea. |
 | `developMarketingStrategy` | This command assists you in developing a marketing strategy for your startup. You can ask for advice on branding, promotional channels, customer acquisition, or any other aspect of marketing. |
 | `exploreRevenueModels` | This command helps you explore different revenue models for your business. You can ask for suggestions on subscription-based models, advertising strategies, selling products or services, or any other revenue generation ideas. |
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Imagine you are an aspiring entrepreneur with a revolutionary business idea, but you have limited funds to get started. Your challenge is to create a detailed and creative plan for launching your business on a shoestring budget. Your plan should include a market analysis, a unique value proposition, a marketing strategy, and a financial plan. You can use any of the tasks from this Entrepreneurship theme (such as developing a research proposal or composing a literature review) to support your plan and demonstrate the feasibility of your idea. Show us your innovation and resourcefulness in making your business dream a reality.
+```
+
+</details>
+

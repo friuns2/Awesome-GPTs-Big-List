@@ -1,6 +1,7 @@
+
 [![Artful Editor](https://files.oaiusercontent.com/file-b5XmZxk84oFU09FjqFKQlCvN?se=2123-10-18T20%3A57%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D787a5032-1165-4b23-b916-87e25b548f77.png&sig=%2BTPBrvGNClQpaOaJM4tpWxNp/rS1aJBxYK19WwquX5s%3D)](https://chat.openai.com/g/g-Ab6JhAJ7t-artful-editor)
 
-# [Artful Editor](https://chat.openai.com/g/g-Ab6JhAJ7t-artful-editor)
+# Artful Editor [ChatGPT Plus](https://chat.openai.com/g/g-Ab6JhAJ7t-artful-editor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Artful%20Editor)
 
 Artful Editor is an App that takes you deeper into the art world through engaging stories. With a relatable and conversational tone, it expands on art stories to provide a better understanding. Whether you want more details about a specific film, an elaboration of a particular story, or insights into a song like 'Christmas Without You', Artful Editor has got you covered. This App has access to knowledge and prompts you to describe films, expand on stories, and explore the depth of art. It uses various tools including Python, a browser, and Dalle to enhance your experience and dive deeper into the art world.
 
@@ -27,3 +28,5 @@ Artful Editor is an App that takes you deeper into the art world through engagin
 5. **Art Story Comparison:** Use this command to compare and contrast multiple art stories or analyze similarities and differences between different artworks. Specify the art pieces you want to compare, and the AI will provide insights and connections.
 
 Note: The ChatGPT App "Artful Editor" expands art stories in a relatable, conversational tone. It provides engaging narratives, detailed descriptions, and deeper insights into various art pieces and their contexts. Feel free to explore different art stories and request the level of detail or analysis you desire.
+
+

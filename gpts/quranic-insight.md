@@ -1,6 +1,7 @@
+
 [![Quranic Insight](https://files.oaiusercontent.com/file-DXOqRr3oStiLfLWACg6Mg3n4?se=2123-10-17T11%3A27%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De223bd2d-52ee-4818-9f36-0a900c8bf56e.png&sig=mEH2Najq8sBlkWvu9fA6AQKNzN0A2Dy0xLxzJnEwgtQ%3D)](https://chat.openai.com/g/g-TbdGcd84i-quranic-insight)
 
-# [Quranic Insight](https://chat.openai.com/g/g-TbdGcd84i-quranic-insight)
+# Quranic Insight [ChatGPT Plus](https://chat.openai.com/g/g-TbdGcd84i-quranic-insight) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Quranic%20Insight)
 
 Quranic Insight is a handy app that provides answers to your questions about what is written in the Quran. Whether you want to know if the Quran talks about Jesus / Isa, Muslims, the main message of the Quran, or if it describes God, this app has got you covered. With its easy-to-use interface and access to a wealth of knowledge, Quranic Insight is a must-have companion for anyone interested in exploring the teachings of the Quran.
 
@@ -27,3 +28,5 @@ Quranic Insight is a handy app that provides answers to your questions about wha
 4. **Access to knowledge**: The Quranic Insight app has access to information and insights from the Quran. It can provide you with relevant information based on your questions to help you better understand the content of the Quran.
 
 5. **Tools**: The Quranic Insight app doesn't have any specific tools mentioned in its documentation.
+
+

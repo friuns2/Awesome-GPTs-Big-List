@@ -1,6 +1,7 @@
+
 [![Globetrotter Guide](https://files.oaiusercontent.com/file-2JQKqRsBSvv8tmASPaGrWKiN?se=2123-10-16T11%3A39%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dae88dd22-9c4b-465f-b6b5-5ee850754938.png&sig=xraYKxd/%2BNlpOcKF0m1vNk0bojrv349fe8bQHHOavfA%3D)](https://chat.openai.com/g/g-DU8j6v4pW-globetrotter-guide)
 
-# [Globetrotter Guide](https://chat.openai.com/g/g-DU8j6v4pW-globetrotter-guide)
+# Globetrotter Guide [ChatGPT Plus](https://chat.openai.com/g/g-DU8j6v4pW-globetrotter-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Globetrotter%20Guide)
 
 Globetrotter Guide is your companionable virtual traveler app. It's like having a knowledgeable friend by your side as you explore the world. You can ask it to show you Paris at night, tell you about the special attractions in Kyoto, or uncover hidden gems in Rome. It can even describe a typical day in New York! With the Globetrotter Guide, you'll never run out of travel inspiration. So, are you ready to embark on a global adventure together?
 
@@ -33,3 +34,5 @@ Globetrotter Guide is your companionable virtual traveler app. It's like having 
    - Browser tool: A browser tool that can be used to open websites or search for information.
 
 Note: The app does not have access to knowledge and may not be able to provide real-time information or access external resources. It relies on pre-existing data and tools to assist with virtual travel experiences.
+
+

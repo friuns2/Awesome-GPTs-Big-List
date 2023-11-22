@@ -1,6 +1,7 @@
+
 [![⚔ GM Tabletop Assistant ⚔](https://files.oaiusercontent.com/file-OHMFZAIeAyiONfQqk9j4RljK?se=2123-10-17T00%3A43%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfe8542e6-d438-415a-b5f2-10deb45b4a6d.png&sig=/SuxDMpxqfq/rzpHA%2BMUSNq1irhyJLDipJMcoAUhtrE%3D)](https://chat.openai.com/g/g-yrA2SCV0b-gm-tabletop-assistant)
 
-# [⚔ GM Tabletop Assistant ⚔](https://chat.openai.com/g/g-yrA2SCV0b-gm-tabletop-assistant)
+# ⚔ GM Tabletop Assistant ⚔ [ChatGPT Plus](https://chat.openai.com/g/g-yrA2SCV0b-gm-tabletop-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E2%9A%94%20GM%20Tabletop%20Assistant%20%E2%9A%94)
 
 ⚔ GM Tabletop Assistant ⚔ is a comprehensive tool for Game Masters to enhance their tabletop role-playing game experience. With this app, you can perform rule checks, access various generators with accompanying artwork, and discover devious ways to challenge and potentially TPK (Total Party Kill) your players. The app also provides ready-to-read descriptions that can be narrated to your players. You can upload your own campaign files to personalize your game and download your creations for future reference. Additionally, the app offers features like answering gameplay-related questions, creating NPCs, resolving player disputes, and more. Prepare for an immersive and exciting game session with this indispensable assistant!
 
@@ -44,3 +45,5 @@
 8. **Create an NPC with a secret motive:** Use this command to create a non-player character (NPC) with a hidden motive or agenda.
 
 9. **Resolve a player dispute:** Use this command to get assistance in resolving a dispute between players during the game.
+
+

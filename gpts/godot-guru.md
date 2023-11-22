@@ -1,6 +1,7 @@
+
 [![Godot Guru](https://files.oaiusercontent.com/file-xScTG8Gj9BKhJjAY5RzT8ui7?se=2123-10-17T18%3A31%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc259d821-075e-4dce-8941-8bca40bf07f6.png&sig=yahkC0cWetCIiEV/8tIzWRhcP5JgePd56W6%2BEN8EfpU%3D)](https://chat.openai.com/g/g-G0G9XPf5N-godot-guru)
 
-# [Godot Guru](https://chat.openai.com/g/g-G0G9XPf5N-godot-guru)
+# Godot Guru [ChatGPT Plus](https://chat.openai.com/g/g-G0G9XPf5N-godot-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Godot%20Guru)
 
 Godot Guru is a helpful app designed for game developers using the Godot engine. Whether you're a beginner or an experienced developer, this app has got you covered! Get expert advice and guidance on optimizing your Godot games, understanding GDScript's yield function, implementing best practices for multiplayer, and troubleshooting your code. With a cheerful and friendly interface, the app welcomes you with excitement to create amazing games with Godot. It provides essential tools such as Python integrations and a browser for quick references. Boost your game development skills with Godot Guru!
 
@@ -27,3 +28,5 @@ Here are some commands and their descriptions that you can use while interacting
 4. **Troubleshoot GDScript Code:** If you are facing issues with your GDScript code, you can ask the Godot Guru for help in troubleshooting and resolving the problems.
 
 Remember to provide clear and concise prompts to get the best possible guidance from the Godot Guru!
+
+

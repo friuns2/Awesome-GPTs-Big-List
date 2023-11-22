@@ -1,6 +1,7 @@
+
 [![Vinnova Guide](https://files.oaiusercontent.com/file-kP285r9BfBUsgVrB5a4Y6xyj?se=2123-10-17T14%3A19%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D16108d18-3554-4bd6-9654-9b42a5c7e37f.png&sig=nDEPjjHk4NvfbAY/%2BBnuYI0EB0HSzHpnwD3o%2BQiEGuU%3D)](https://chat.openai.com/g/g-DiIcSmpbl-vinnova-guide)
 
-# [Vinnova Guide](https://chat.openai.com/g/g-DiIcSmpbl-vinnova-guide)
+# Vinnova Guide [ChatGPT Plus](https://chat.openai.com/g/g-DiIcSmpbl-vinnova-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Vinnova%20Guide)
 
 Vinnova Guide is your helpful assistant for filling out your Vinnova application. Simply upload the application form, and together we'll complete it. Whether you need assistance with translation, improving specific sections, or clarifying project descriptions, we're here to help. Start by uploading the PDF of your Vinnova application, and let's get started! Our tools include Python for any coding needs, a browser for web-based tasks, and DALL·E for generating visual content.
 
@@ -25,3 +26,5 @@ Vinnova Guide is your helpful assistant for filling out your Vinnova application
 4. `translate to Swedish`: Use this command to request translation assistance for a specific part of your application into Swedish.
 
 5. `clairfy project description`: Use this command to get feedback on the clarity of your project description. The app will provide suggestions if needed.
+
+

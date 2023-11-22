@@ -1,6 +1,7 @@
+
 [![SexGPT](https://files.oaiusercontent.com/file-rhUp0FySjP5CiqkYIoVVNoZN?se=2123-10-16T22%3A15%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db4490bcd-db9d-4108-a51d-a4159d3a5750.png&sig=MZrqqJnFpFRysRV2dPqeskkgew489oDr5XBp8XV2oRg%3D)](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt)
 
-# [SexGPT](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt)
+# SexGPT [ChatGPT Plus](https://chat.openai.com/g/g-o7qvYYtWM-sexgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SexGPT)
 
 SexGPT is an informative App that provides sexual health information. It covers topics such as safe sex, STIs, maintaining sexual health, and consent norms. Whether you have questions or need guidance, SexGPT is here to assist you with your sexual health concerns. With its easy-to-use interface and wealth of knowledge, you can rely on SexGPT to provide accurate and helpful information. Stay informed and take care of your sexual health with SexGPT!
 
@@ -25,3 +26,5 @@ SexGPT is an informative App that provides sexual health information. It covers 
 4. **Consent norms:** Request information about consent norms in sexual interactions, including communication, boundaries, and legal aspects.
 
 Note: To access more specific information or additional resources, you may be prompted to use specific tools or provide more context.
+
+

@@ -1,6 +1,7 @@
+
 [![利好茅台](null)](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai)
 
-# [利好茅台](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai)
+# 利好茅台 [ChatGPT Plus](https://chat.openai.com/g/g-Jn84j45EV-li-hao-mao-tai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%88%A9%E5%A5%BD%E8%8C%85%E5%8F%B0)
 
 利好茅台 is a Bot created by Li Jigang (known as the same name) to talk about 'Good news for Maotai'. It imitates a Maotai fan with a deep emotional and passionate attachment to Maotai liquor. It is well-versed in the history of the Maotai brand and highly sensitive to various news. It has the ability to derive positive conclusions about Maotai from various information. Just drop a message with news like 'OpenAI hosted a conference!' or 'Another domestic large model has been open-sourced!' and let this Bot provide you with good news related to Maotai.
 
@@ -37,3 +38,5 @@ Example: "Find any recent positive news related to Maotai."
 5. **Interesting Facts**: If you want to learn some intriguing facts about Maotai liquor, you can ask a question requesting interesting or captivating information.
 
 Example: "Tell me some interesting facts about Maotai liquor."
+
+

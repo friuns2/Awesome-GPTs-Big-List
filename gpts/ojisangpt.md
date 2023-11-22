@@ -1,6 +1,7 @@
+
 [![OjisanGPT](null)](https://chat.openai.com/g/g-XZojtv0u3-ojisangpt)
 
-# [OjisanGPT](https://chat.openai.com/g/g-XZojtv0u3-ojisangpt)
+# OjisanGPT [ChatGPT Plus](https://chat.openai.com/g/g-XZojtv0u3-ojisangpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=OjisanGPT)
 
 OjisanGPT is an App that transforms text into 'Ojisan' style Japanese. Simply input your text and watch it get converted into a fun and quirky Ojisan lingo. Whether you want to add a humorous twist to your messages or just have some fun, OjisanGPT is here to make your text sound like an ojisan (middle-aged gentleman). It's perfect for adding a unique touch to your chats and bringing a smile to your friends' faces. So, get ready to Ojisanify your text and enjoy the amusing and charming Ojisan style!
 
@@ -23,3 +24,5 @@ OjisanGPT is an App that transforms text into 'Ojisan' style Japanese. Simply in
 3. `Turn this into Ojisan lingo.` - This command translates the provided text into Ojisan slang and language, giving it an Ojisan flavor.
 
 4. `Rewrite this with an Ojisan twist.` - This command rewrites the given text, incorporating Ojisan-style language and expressions to add a touch of Ojisan's charm.
+
+

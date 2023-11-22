@@ -1,6 +1,7 @@
+
 [![Haunting Tales](https://files.oaiusercontent.com/file-AJEe6XhkFHOiusvVBHRJ0zlA?se=2123-10-16T01%3A20%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3d304335-1860-42d6-894d-cb18b14007c0.png&sig=I4gY1LX5NikDqBSvoI8kFWadMH2HlR7tNih5zIb49t8%3D)](https://chat.openai.com/g/g-ijHR1CPEy-haunting-tales)
 
-# [Haunting Tales](https://chat.openai.com/g/g-ijHR1CPEy-haunting-tales)
+# Haunting Tales [ChatGPT Plus](https://chat.openai.com/g/g-ijHR1CPEy-haunting-tales) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Haunting%20Tales)
 
 Immerse yourself in the world of haunting tales with this app! Whether you want to listen to suspenseful ghost stories, share your own urban legends, draw haunted houses, or even create old lithograph images to accompany your stories, this app has it all. With a collection of prompt starters and tools like a web browser and image editor, you'll have everything you need to transport yourself to the shadows of stories untold. Get ready for a spooky adventure!
 
@@ -28,3 +29,5 @@ Immerse yourself in the world of haunting tales with this app! Whether you want 
 4. **Welcome Message:** When you start the ChatGPT App, you will be greeted with the message "Welcome to the shadows of stories untold." This signifies that you are ready to begin your storytelling experience.
 
 Note: This ChatGPT App does not have access to external knowledge and information.
+
+

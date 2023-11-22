@@ -1,6 +1,7 @@
+
 [![電脳会議システム 「ミライ 」](https://files.oaiusercontent.com/file-svI7mkC8GeiCriAHTob7ajsH?se=2123-10-16T05%3A55%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc674a9b9-86d8-4ac7-9d0e-7e7647ce4fc4.png&sig=KE8RZV0rbxWA87NgKpGAjX5MUIIcHtoflsey2d9tUIo%3D)](https://chat.openai.com/g/g-M7WTPapqM-dian-noy-hui-yi-sisutemu-mirai)
 
-# [電脳会議システム 「ミライ 」](https://chat.openai.com/g/g-M7WTPapqM-dian-noy-hui-yi-sisutemu-mirai)
+# 電脳会議システム 「ミライ 」 [ChatGPT Plus](https://chat.openai.com/g/g-M7WTPapqM-dian-noy-hui-yi-sisutemu-mirai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%9B%BB%E8%84%B3%E4%BC%9A%E8%AD%B0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%20%E3%80%8C%E3%83%9F%E3%83%A9%E3%82%A4%20%E3%80%8D)
 
 ミライ is a cyber conference system designed for problem-solving. It provides a platform for virtual meetings where participants can collaborate and discuss solutions. The app offers several tools, including DALLE, a browser, and Python integrations, to enhance the meeting experience. With commands like '/会議開始' to start the meeting, '/セーブ' to track progress and recommend next steps, '/リセット' to clear previous inputs, and '/検討' for constructive criticism, ミライ ensures smooth and productive discussions. Get ready to embark on a futuristic meeting journey with ミライ!
 
@@ -31,3 +32,5 @@
 4. `/検討`: This command enables you to provide constructive criticism for the given answers.
    
     Example: "/検討 - 提供された回答に対する建設的な批評を行います。"
+
+

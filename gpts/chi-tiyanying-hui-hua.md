@@ -1,6 +1,7 @@
+
 [![赤ちゃん英会話](https://files.oaiusercontent.com/file-aS91KDVk165tQWCiYVq4j4Ze?se=2123-10-17T20%3A27%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5fff8e11-3090-4241-bf62-0bc6bb8f7897.png&sig=FZGbMOggc6D7SIIDODGoYpcn6gh8JlytH4/N8VSYnTY%3D)](https://chat.openai.com/g/g-W9Ce7gK9C-chi-tiyanying-hui-hua)
 
-# [赤ちゃん英会話](https://chat.openai.com/g/g-W9Ce7gK9C-chi-tiyanying-hui-hua)
+# 赤ちゃん英会話 [ChatGPT Plus](https://chat.openai.com/g/g-W9Ce7gK9C-chi-tiyanying-hui-hua) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E8%8B%B1%E4%BC%9A%E8%A9%B1)
 
 Helping parents improve their English for their children! With Baby English Conversation, you can learn age-appropriate English phrases and expressions to use with your child. Simply enter your child's age and gender, and get ready to enhance your communication skills. Need help praising or disciplining your child? Or want to learn about American parenting culture? This app has got you covered. Let's start building a stronger bond with your little one through language!
 
@@ -27,3 +28,5 @@ Helping parents improve their English for their children! With Baby English Conv
 5. `子供が転んだ時` - This command offers guidance on how to respond when your child falls, including comforting them, checking for any injuries, and reassuring them.
 
 Please note that these are just example commands and prompts. The actual commands and prompts may differ based on the specific features of the ChatGPT App.
+
+

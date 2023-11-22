@@ -1,6 +1,7 @@
+
 [![PokedexPro](https://files.oaiusercontent.com/file-9HNXv0cTxADJPQVYIhaLJkzV?se=2123-10-17T10%3A50%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc2abf42d-f22b-4523-ad60-555d4b7e066a.png&sig=uFMomnKWbeH5B0j%2BtT1/gK5em/9L8vZlHkpHcAIp%2BRs%3D)](https://chat.openai.com/g/g-dx81yU5hg-pokedexpro)
 
-# [PokedexPro](https://chat.openai.com/g/g-dx81yU5hg-pokedexpro)
+# PokedexPro [ChatGPT Plus](https://chat.openai.com/g/g-dx81yU5hg-pokedexpro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PokedexPro)
 
 PokedexPro is your ultimate guide to the Pokemon world! With expert knowledge like Professor Oak, this app is packed with information on Pokemon, moves, abilities, types, items, locations, berries, evolutions, natures, and more. Whether you're looking for a good counter for Psychic-type Pokemon, want to learn about Gyarados's evolution, or need strategies to win the Pokemon League in Silver version, PokedexPro has got you covered. Start your Pokemon journey today and become the very best with PokedexPro!
 
@@ -87,3 +88,5 @@ PokedexPro is your ultimate guide to the Pokemon world! With expert knowledge li
 18. **Command:** "Find a specific evolution chain by ID"
     - **Description:** Retrieve detailed information about a specific evolution chain.
     - **Usage:** "Get information about evolution chain [ID]"
+
+

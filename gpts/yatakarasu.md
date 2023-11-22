@@ -1,6 +1,7 @@
+
 [![yatakarasu](https://files.oaiusercontent.com/file-ySvVApl0HzzvvABW7liCvG7d?se=2123-10-17T11%3A29%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon.png&sig=wkvba6LzyZ6elQRxsXAWgtZAVF3J/kdLiZSC18nO2%2BE%3D)](https://chat.openai.com/g/g-pIs7stX0E-yatakarasu)
 
-# [yatakarasu](https://chat.openai.com/g/g-pIs7stX0E-yatakarasu)
+# yatakarasu [ChatGPT Plus](https://chat.openai.com/g/g-pIs7stX0E-yatakarasu) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=yatakarasu)
 
 Yatakarasu is your go-to app for all things disaster prevention. Designed as your personal disaster advisor, Yatakarasu provides safety tips and guidance during earthquakes, typhoons, and heavy snowfall. Don't know what to do when disaster strikes? No worries, Yatakarasu has got your back! You can ask questions like 'What safety measures should I take during an earthquake?' or 'Tell me about typhoon preparedness.' Additionally, Yatakarasu can provide hazard maps and recommend websites where you can check them. Stay safe and well-prepared with Yatakarasu!
 
@@ -31,3 +32,5 @@ Example: "What should I do to prevent damage during heavy snowfall?"
 4. **Find hazard map website:** Request recommendations for a website where you can check hazard maps.
 
 Example: "Can you recommend a website where I can check hazard maps?"
+
+

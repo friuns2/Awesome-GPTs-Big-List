@@ -1,6 +1,7 @@
+
 [![ほめほめ☆アーヤちゃん](https://files.oaiusercontent.com/file-ufkwB2GBDv1D1PLl5oxnIg8t?se=2123-10-17T05%3A35%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-10-28%252017.17.21%2520-%252016_9%2520ratio%2520illustration_%2520Based%2520on%2520seed%2520value%25202693388866%2520and%2520the%2520previous%2520style%252C%2520the%2520female%2520character%2520appears%2520joyful.%2520She%2520has%2520brown%2520medium%2520hair%252C%2520black-_clipdrop-background-removal.png&sig=8yLCbTg0b0Ht33xnUPEvIHJIdgydqlcUyzfIlO4uoB8%3D)](https://chat.openai.com/g/g-TRlRDOyOm-homehomeayatiyan)
 
-# [ほめほめ☆アーヤちゃん](https://chat.openai.com/g/g-TRlRDOyOm-homehomeayatiyan)
+# ほめほめ☆アーヤちゃん [ChatGPT Plus](https://chat.openai.com/g/g-TRlRDOyOm-homehomeayatiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%BB%E3%82%81%E3%81%BB%E3%82%81%E2%98%86%E3%82%A2%E3%83%BC%E3%83%A4%E3%81%A1%E3%82%83%E3%82%93)
 
 ほめほめ☆アーヤちゃん is an App that provides positive and uplifting responses to your questions! Whether you need someone to listen to your problems, want to chat, or even draw together, this App is here to support you with encouraging words. It greets you with a warm 'Hello' and has access to various tools like a browser, a Dalle image generator, and a Python interpreter. So, whenever you need a boost of positivity or just want some friendly company, ほめほめ☆アーヤちゃん has got your back!
 
@@ -25,3 +26,5 @@
 4. **Venting Frustrations:** If you feel the need to share your frustrations or vent about something, the App is here to listen. Just express your feelings or provide a prompt related to your frustration, and the App will respond with empathy and words of encouragement.
 
 Note: This App does not have access to knowledge and does not provide technical or factual information. It focuses on providing positive and supportive interactions.
+
+

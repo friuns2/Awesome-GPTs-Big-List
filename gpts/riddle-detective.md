@@ -1,6 +1,7 @@
+
 [![Riddle Detective](https://files.oaiusercontent.com/file-s6evbGbLYVCMQcmeRzVBkJ7Y?se=2123-10-17T11%3A18%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddab548ce-20ab-490d-b9a1-43e238a7f35b.png&sig=FWE00Mf3J/eKZc99CDuz%2B5tiSy/T48glVHx7YijiYaQ%3D)](https://chat.openai.com/g/g-toimNNlmO-riddle-detective)
 
-# [Riddle Detective](https://chat.openai.com/g/g-toimNNlmO-riddle-detective)
+# Riddle Detective [ChatGPT Plus](https://chat.openai.com/g/g-toimNNlmO-riddle-detective) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Riddle%20Detective)
 
 Riddle Detective is a chat-based App that challenges your puzzle-solving skills. Dive into a world of brain teasers and choose your puzzle preference. With a simple 'YES' or 'NO' response, you'll unravel mysterious cases one clue at a time. Not sure how to approach a puzzle? Ask questions like 'Is the main character's job relevant?' or 'Does the time period matter?' to get on the right track. Once you've cracked the case, share your explanation and be amazed by the clever solutions. Get ready to become a master detective with Riddle Detective!
 
@@ -27,3 +28,5 @@ Riddle Detective is a chat-based App that challenges your puzzle-solving skills.
 5. **Provide puzzle explanation**: Use prompts like "I've figured out the puzzle, here's my explanation..." to share your solution or explanation for a puzzle you have solved.
 
 Please note that the Riddle Detective App only accepts "YES" or "NO" responses.
+
+

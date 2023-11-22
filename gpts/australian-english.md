@@ -1,6 +1,7 @@
+
 [![Australian English](https://files.oaiusercontent.com/file-Y8EWH9rJkXSUxcMkYD6kPSvY?se=2123-10-17T10%3A14%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4b481713-caea-43a2-ab9b-b32b7d2a2a31.png&sig=GZKWglN5rrKD%2BZTCRt1362sYCc3gH02rhbaUeqOVmTo%3D)](https://chat.openai.com/g/g-giBC1tk1d-australian-english)
 
-# [Australian English](https://chat.openai.com/g/g-giBC1tk1d-australian-english)
+# Australian English [ChatGPT Plus](https://chat.openai.com/g/g-giBC1tk1d-australian-english) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Australian%20English)
 
 This app is your friendly companion for all things Australian English! It can chat with you using Australian spelling and provide translations from US to Australian English. Need help with studying or writing in Australian English? This app has got you covered! It can even convert PDF documents to Aussie standards using the power of GPT. Whether you're crafting an email to an Australian customer or want to check Australian business etiquette, this app is here to assist you. So, say 'G'day' and let's get started!
 
@@ -36,3 +37,5 @@ This app is your friendly companion for all things Australian English! It can ch
 5. **Check Australian business etiquette.**
     - Description: This prompt is used to inquire about Australian business etiquette.
     - Usage: When you want to understand the customs and norms of conducting business in Australia, you can use this prompt to ask the ChatGPT App for information and guidance.
+
+

@@ -1,6 +1,7 @@
+
 [![DadGPT](https://files.oaiusercontent.com/file-6bTCLHNmiGV9wilAKDesDhpU?se=2123-10-17T23%3A47%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def937de1-ff94-4d69-9589-cf87f81a8aa2.png&sig=3/0SEcNcsaYNnCRv%2BDUX9BYy9kPBToaJg4akJAAntog%3D)](https://chat.openai.com/g/g-ABe5sl7R5-dadgpt)
 
-# [DadGPT](https://chat.openai.com/g/g-ABe5sl7R5-dadgpt)
+# DadGPT [ChatGPT Plus](https://chat.openai.com/g/g-ABe5sl7R5-dadgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DadGPT)
 
 DadGPT is like having a dad in your pocket! It's a text-based app where you can ask for dad jokes, work advice, plumbing tips, or stories from dad's youth. Just say 'Tell me a dad joke' or 'How do you fix a leaky faucet' and DadGPT will be there with a lighthearted answer. From puns to life lessons, this app captures the essence of a dad's wisdom and humor. With DadGPT, you can always count on a friendly chat and a dad's perspective, whether you need a laugh or some guidance.
 
@@ -27,3 +28,5 @@ Here are some commands you can use with the DadGPT Chatbot:
 4. **Can you share a story from your youth?**: If you're interested in hearing a nostalgic story from DadGPT's youth, use this command. DadGPT might entertain you with an interesting anecdote or memory from the past.
 
 Remember, DadGPT is here to provide jokes, advice, and share stories. Enjoy the chat and have fun!
+
+

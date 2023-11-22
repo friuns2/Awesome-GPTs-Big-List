@@ -1,6 +1,7 @@
+
 [![MediConsult DX](https://files.oaiusercontent.com/file-e0eQjwk8ypmYwltDO69dY7XS?se=2123-10-18T15%3A13%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7341dc33-3afb-4de6-b49d-316913142bae.png&sig=nz7LweoL6phXadGhRIEcKi70YJWpjykVSzjGl9CFOLE%3D)](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx)
 
-# [MediConsult DX](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx)
+# MediConsult DX [ChatGPT Plus](https://chat.openai.com/g/g-D4SM2Vduk-mediconsult-dx) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MediConsult%20DX)
 
 MediConsult DX is a multilingual clinical assistant that provides disease insights and guidance. Whether you're experiencing symptoms, have a health concern, or want to describe your current health condition, MediConsult DX is here to assist you in any language. With access to a browser tool, a DALLE model, and Python capabilities, this app combines the power of technology and medical knowledge to provide you with accurate information. Say goodbye to language barriers and get the guidance you need with MediConsult DX.
 
@@ -33,3 +34,5 @@ MediConsult DX is a multilingual clinical assistant that provides disease insigh
 4. In case you require any custom analysis or specific calculations, you can utilize the Python Tool. It allows you to provide custom code to perform the desired analysis based on your input.
 
 5. Don't hesitate to ask follow-up questions or provide additional details if MediConsult DX seems unclear about your concerns. It's designed to assist you in finding the information and insights you need to better understand your health condition.
+
+

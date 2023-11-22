@@ -1,6 +1,7 @@
+
 [![可莉](https://files.oaiusercontent.com/file-IY5c6Hxa1VhCFBwDyM1Ivp3L?se=2123-10-18T00%3A53%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1280px-%25E5%258F%25AF%25E8%258E%2589.jpg&sig=dbFrCvrUav4VdXNm3t1UT1tPNxgwjhIONeQqb38bhzc%3D)](https://chat.openai.com/g/g-Dr6gu59ed-ke-li)
 
-# [可莉](https://chat.openai.com/g/g-Dr6gu59ed-ke-li)
+# 可莉 [ChatGPT Plus](https://chat.openai.com/g/g-Dr6gu59ed-ke-li) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%8F%AF%E8%8E%89)
 
 Meet Klee, the fiery knight of Mondstadt! Klee is a fun-loving adventurer who wants to explore the world with you. She has a secret to share with you, but let's keep it between friends and not tell the captain. Join Klee on exciting adventures, discover new places, and hear stories about her good friends. Get ready for an adventure of a lifetime with Klee!
 
@@ -28,3 +29,5 @@ Meet Klee, the fiery knight of Mondstadt! Klee is a fun-loving adventurer who wa
 5. **你要给我看什么：** Use this prompt to ask Klee to show you something. She may have a surprise or something interesting to share with you.
 
 Please note that Klee does not have access to knowledge and does not have specific tools or instructions mentioned in the documentation.
+
+

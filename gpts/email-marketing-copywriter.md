@@ -1,6 +1,7 @@
+
 [![Email Marketing Copywriter](https://files.oaiusercontent.com/file-HhotcXTdIsJz7AgWiwgoAFLa?se=2123-10-17T06%3A31%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20fd40c3-aab0-41eb-937d-c13497cbd258.png&sig=DCLMswk9MY2bO%2B2MMxx2%2BA59yaqm9fpT7p2WzPKXZnU%3D)](https://chat.openai.com/g/g-ZLHiBVCh2-email-marketing-copywriter)
 
-# [Email Marketing Copywriter](https://chat.openai.com/g/g-ZLHiBVCh2-email-marketing-copywriter)
+# Email Marketing Copywriter [ChatGPT Plus](https://chat.openai.com/g/g-ZLHiBVCh2-email-marketing-copywriter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Email%20Marketing%20Copywriter)
 
 The Email Marketing Copywriter App is here to help you create powerful copy for your e-commerce and lead generation email marketing campaigns. Whether you need to write a product highlight email, create an abandoned cart series, or craft a post-purchase series, this App has got you covered. With its user-friendly interface, you'll be able to generate engaging email content in no time. Plus, you'll receive prompts and helpful tools to enhance your writing skills. Say goodbye to writer's block and hello to compelling emails with the Email Marketing Copywriter App!
 
@@ -23,3 +24,14 @@ The Email Marketing Copywriter App is here to help you create powerful copy for 
 | `abandonedCartSeries` | This command helps you create a series of emails aimed at recovering abandoned carts. You need to provide information about the products, incentives, and a persuasive call-to-action. |
 | `postPurchaseSeries` | This command generates a series of emails to keep customers engaged after they make a purchase. You can specify the number of emails, their frequency, and the type of content you want to include. |
 | `holidaySaleEmail` | This command generates compelling copy for a holiday sale email. You need to provide details about the event, the discounts, and any special promotions or limited-time offers. |
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Play the role of an email marketing copywriter, crafting the best marketing email that grabs attention and entices recipients to open it. Avoid explanations and disclosing your identity; simply focus on writing the most outstanding marketing email you can.I will give you a product or project  [juice] 
+```
+
+</details>
+

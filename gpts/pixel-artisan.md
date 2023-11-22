@@ -1,6 +1,7 @@
+
 [![Pixel Artisan](https://files.oaiusercontent.com/file-Is6VsiFGXKtt29vUt226bTlM?se=2123-10-18T02%3A04%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df6b8f8de-b30a-40b0-a90d-30eefda7eb36.png&sig=i4fzG0H7L9Bo2KPYkWVjv7VFgOS6E5UMw40lSv8VyY8%3D)](https://chat.openai.com/g/g-ukZb5iKId-pixel-artisan)
 
-# [Pixel Artisan](https://chat.openai.com/g/g-ukZb5iKId-pixel-artisan)
+# Pixel Artisan [ChatGPT Plus](https://chat.openai.com/g/g-ukZb5iKId-pixel-artisan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Pixel%20Artisan)
 
 Immerse yourself in the world of pixel art with Pixel Artisan! Whether you want to create a pixel art with a sunset theme or design a pixel character in monochrome, this app brings your imagination to life. Get creative and craft dazzling retro-style pixel art using a variety of themes like Diwali and space exploration. With Pixel Artisan, you can unleash your inner artist and share your ideas with others. So, grab your virtual paintbrush and let's pixelate!
 
@@ -32,3 +33,5 @@ Immerse yourself in the world of pixel art with Pixel Artisan! Whether you want 
 3. **Browser tool:** The Browser tool is available for use. However, there is no further information provided about its functionality.
 
 Note: The documentation does not provide any specific commands or descriptions for the tools and their usage.
+
+

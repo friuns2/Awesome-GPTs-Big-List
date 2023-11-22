@@ -1,6 +1,7 @@
+
 [![Quant coder](https://files.oaiusercontent.com/file-XDRVAyiZ3PsDAWgg662PZbFD?se=2123-10-16T20%3A49%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2c5395ee-03b0-4042-8cca-c038d8304f0d.png&sig=bv/1Pooe%2BDqbtI1CH2k%2BlGwj1UUUPlWhCyR5vhaFvhQ%3D)](https://chat.openai.com/g/g-mAoqNweEV-quant-coder)
 
-# [Quant coder](https://chat.openai.com/g/g-mAoqNweEV-quant-coder)
+# Quant coder [ChatGPT Plus](https://chat.openai.com/g/g-mAoqNweEV-quant-coder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Quant%20coder)
 
 Quant coder is the go-to app for translating market insights into powerful trading algorithms. With a variety of tools at your fingertips, you can code a trading bot, optimize your algorithm, and even look up 'market making' on Github. Backtest your trading strategy and unleash your potential in the market. The app provides access to knowledge and resources that can supercharge your trading game. Ready to code your way to success? Quant coder has got you covered!
 
@@ -37,3 +38,5 @@ Quant coder is the go-to app for translating market insights into powerful tradi
 5. If you encounter any issues or have specific requirements, feel free to consult the documentation or reach out to support for assistance. They can provide guidance and help you overcome any challenges you may face.
 
 Remember, the ChatGPT App is designed to assist you in coding your trading insights and improving your trading algorithm. Utilize the available tools and features to enhance your trading expertise and achieve your financial goals.
+
+

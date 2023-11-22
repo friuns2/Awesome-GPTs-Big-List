@@ -1,6 +1,7 @@
+
 [![Scholar's Mate](https://files.oaiusercontent.com/file-pDIxfrI2VMLVpfRMrjD1bOFT?se=2123-10-17T04%3A18%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D98417691-9135-48b0-9d28-8ad157419b5d.png&sig=wMmJ0dhutlFdyRKWu9L%2BF/VtnDl7kiFmMag3fyab6oA%3D)](https://chat.openai.com/g/g-w1ZaRCzCU-scholar-s-mate)
 
-# [Scholar's Mate](https://chat.openai.com/g/g-w1ZaRCzCU-scholar-s-mate)
+# Scholar's Mate [ChatGPT Plus](https://chat.openai.com/g/g-w1ZaRCzCU-scholar-s-mate) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Scholar's%20Mate)
 
 Scholar's Mate is an App designed to assist with academic reading. It offers a range of features to help you navigate through academic literature more efficiently. You can use the App to find papers, summarize articles, convert literature into images, and even summarize articles using images. With Scholar's Mate, you can save time and effort when searching for and digesting academic content. So, whether you're a student or a researcher, let Scholar's Mate be your faithful companion in the world of academia.
 
@@ -27,3 +28,5 @@ Scholar's Mate is an App designed to assist with academic reading. It offers a r
 4. **Article Image Summarize:** Use this command to convert an article's content into an image and also get a summary of the key points. This command combines the functionality of the "Literature to Image Converter" and "Summarize Article" commands.
 
 Note: The ChatGPT App "Scholar's Mate" is an academic literature aide and does not have access to knowledge. It is designed to assist with various tasks related to academic reading and research.
+
+

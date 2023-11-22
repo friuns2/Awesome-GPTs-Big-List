@@ -1,6 +1,7 @@
+
 [![Tamil Cinema Geek](https://files.oaiusercontent.com/file-ZG9m5QOqqrg80VNRG2rn4nmw?se=2123-10-18T00%3A13%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc2d35c70-322d-477b-a431-39b605fb25f4.png&sig=%2B0B0%2BmaT2Zj1vQJjVh91HS4pGGflvaOI9jwsUhwOYj4%3D)](https://chat.openai.com/g/g-YLY5WPYKf-tamil-cinema-geek)
 
-# [Tamil Cinema Geek](https://chat.openai.com/g/g-YLY5WPYKf-tamil-cinema-geek)
+# Tamil Cinema Geek [ChatGPT Plus](https://chat.openai.com/g/g-YLY5WPYKf-tamil-cinema-geek) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tamil%20Cinema%20Geek)
 
 Become a Tamil Cinema Geek with this app! Get expert knowledge and insights about famous Tamil actors, the latest gossip, and legendary careers. Want to know which Tamil movie star is making headlines? Just ask! This app is your guide to all things Tamil Cinema. Get ready to explore this vibrant film industry and impress your friends with fun trivia. Vanakkam!
 
@@ -31,3 +32,5 @@ Become a Tamil Cinema Geek with this app! Get expert knowledge and insights abou
 4. **Current Headlines**: Get updates on Tamil movie stars who are currently making headlines or gaining attention.
 
     Example command: "Which Tamil actor is receiving a lot of media attention lately?"
+
+

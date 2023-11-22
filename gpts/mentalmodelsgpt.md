@@ -1,6 +1,7 @@
+
 [![MentalModelsGPT](https://files.oaiusercontent.com/file-kQOinlg7HvzLwM4ciNFxKW3Z?se=2123-10-17T12%3A51%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2cd31baa-5cfd-47fd-b40c-522be9f89fdc.png&sig=%2B8UFcANfSs/pzNrZwLfGAKzLupEyptVW3c3Sju4ggVM%3D)](https://chat.openai.com/g/g-CbIDBNV2i-mentalmodelsgpt)
 
-# [MentalModelsGPT](https://chat.openai.com/g/g-CbIDBNV2i-mentalmodelsgpt)
+# MentalModelsGPT [ChatGPT Plus](https://chat.openai.com/g/g-CbIDBNV2i-mentalmodelsgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MentalModelsGPT)
 
 MentalModelsGPT is an app that uses GPT to teach you about mental models. Whether you're facing a problem, making a decision, analyzing a situation, or need help breaking down a system, this app can guide you. Just ask questions like 'How can I apply a mental model to my problem?' or 'What tool can help me make this decision?' to get valuable insights. With access to knowledge and a variety of tools including DALLE and Python, MentalModelsGPT is your go-to resource for applying mental models in practical ways.
 
@@ -29,3 +30,5 @@ MentalModelsGPT is an app that uses GPT to teach you about mental models. Whethe
 6. **gzm_cnf_4caW7MD0YUxBH8N0mQ0v7JMv~gzm_tool_JQ2ci1XYNBgiHSY0tmIr2LFO (DALL-E)**: Use the DALL-E tool to generate text based on mental models. You can describe the mental model you want to apply, and the tool will generate text output based on that description.
 
 Note: Each tool mentioned above serves a specific purpose and can be used to interact with the ChatGPT App for different functionalities.
+
+

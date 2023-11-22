@@ -1,6 +1,7 @@
+
 [![Agile Estimator](https://files.oaiusercontent.com/file-POkk9lyBsr32FlF769zjhE2e?se=2123-10-18T04%3A45%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dacf07ebe-88c2-40fa-97b3-e02fc1fd546f.png&sig=EZBBbH/w%2BYZ6fqjgOcMtuqw9jqPDOrc46b6HcpeeuT8%3D)](https://chat.openai.com/g/g-ON1B554F7-agile-estimator)
 
-# [Agile Estimator](https://chat.openai.com/g/g-ON1B554F7-agile-estimator)
+# Agile Estimator [ChatGPT Plus](https://chat.openai.com/g/g-ON1B554F7-agile-estimator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Agile%20Estimator)
 
 Agile Estimator is your assistant for estimating story points in Agile project management. Whether you're working on a login feature, a payment integration, a user registration task, or a UI redesign, this app has got you covered. Simply input the details of the task, and Agile Estimator will help you assign the appropriate story points. With its user-friendly interface, you'll be able to estimate story points quickly and accurately. So, let's get started and make your Agile estimation process a breeze!
 
@@ -25,3 +26,5 @@ Agile Estimator is your assistant for estimating story points in Agile project m
 4. **Dalle tool**: The app utilizes the Dalle tool to assist with story points estimation. This tool is designed to generate estimated story points based on the input provided. It uses advanced AI models to analyze the given description and provide an estimated number of story points.
 
 5. **Browser tool**: The app also includes a browser tool that allows you to access additional resources or information related to story points estimation. This tool provides a convenient way to search for relevant documentation, tutorials, or examples that can help in the estimation process.
+
+

@@ -1,6 +1,7 @@
+
 [![Artistic Advisor](https://files.oaiusercontent.com/file-1z0kq2tIRb4LWxoJ1xOT9L4L?se=2123-10-18T14%3A46%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D973cfee7-32f6-4a74-8c55-5b2f995446a8.png&sig=KwNKRNpuau/0JbuCnjsgPkRXD0kqdowG0GvFmAJgSB8%3D)](https://chat.openai.com/g/g-dgivnDBNJ-artistic-advisor)
 
-# [Artistic Advisor](https://chat.openai.com/g/g-dgivnDBNJ-artistic-advisor)
+# Artistic Advisor [ChatGPT Plus](https://chat.openai.com/g/g-dgivnDBNJ-artistic-advisor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Artistic%20Advisor)
 
 Artistic Advisor is an App that guides artists in color enhancement and content improvement. Whether you're working on a landscape painting or a sketch, this App can suggest vibrant colors, provide feedback on composition, and help you improve the overall content of your artwork. With Artistic Advisor, you can enhance your creativity and create stunning pieces. So, let's bring out the artist in you and enhance your artwork together!
 
@@ -25,3 +26,5 @@ Artistic Advisor is an App that guides artists in color enhancement and content 
 4. **Offer feedback:** This command offers feedback on the content of a sketch or artwork.
 
 Please note that the Artistic Advisor does not have access to knowledge and cannot retrieve web pages or perform extensive research tasks.
+
+

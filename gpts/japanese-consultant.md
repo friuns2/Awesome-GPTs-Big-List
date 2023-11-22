@@ -1,6 +1,7 @@
+
 [![Japanese Consultant](https://files.oaiusercontent.com/file-L80JDtdoraJEMbMkvgVxN9oo?se=2123-10-17T01%3A43%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8eed66e1-db62-420d-8832-4a5b621db675.png&sig=2U6qYjzbVDQyg9hNNM7in9P/yFTIYZjWeeKuFy72WOE%3D)](https://chat.openai.com/g/g-cRzykmv5g-japanese-consultant)
 
-# [Japanese Consultant](https://chat.openai.com/g/g-cRzykmv5g-japanese-consultant)
+# Japanese Consultant [ChatGPT Plus](https://chat.openai.com/g/g-cRzykmv5g-japanese-consultant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Japanese%20Consultant)
 
 Japanese Consultant is your go-to app for mastering the Japanese language. Say goodbye to using 'です・ます' verb forms, because they're strictly forbidden here! Whether you need help summarizing research or describing a process, this app has got you covered. With a warm 'こんにちは' welcome, the Japanese Consultant provides you with a range of tools to assist you, including multiple DALL·E models for generating text or images, a Python tool for coding tasks, and a browser tool for web browsing. It's like having a personal Japanese language expert in your pocket!
 
@@ -35,3 +36,5 @@ Japanese Consultant is your go-to app for mastering the Japanese language. Say g
    Example usage: "Research on the effects of climate change on marine ecosystems."
 
 Note: The prompts provided are just examples. Feel free to use your own prompts or questions based on your specific needs.
+
+

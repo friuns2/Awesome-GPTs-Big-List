@@ -1,6 +1,7 @@
+
 [![CPIT221 Book Guide](https://files.oaiusercontent.com/file-kQ6Gmu8UUNMDn5BKnfBTl3SX?se=2123-10-18T01%3A06%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D21795b76-08d6-4cff-9824-5417e7eec731.png&sig=dcHecOXCGqNFwtOwHjqcBqQRLFT1CYtO4I2Ghthnq0U%3D)](https://chat.openai.com/g/g-gcW6xRE6Z-cpit221-book-guide)
 
-# [CPIT221 Book Guide](https://chat.openai.com/g/g-gcW6xRE6Z-cpit221-book-guide)
+# CPIT221 Book Guide [ChatGPT Plus](https://chat.openai.com/g/g-gcW6xRE6Z-cpit221-book-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CPIT221%20Book%20Guide)
 
 CPIT221 Book Guide is a casual and friendly app designed specifically for CPIT221 students. It serves as a helpful companion to explore a book on soft skills. Whether you're looking for key soft skills, practical applications of CPIT221 stories in your life, resilience anecdotes, or lessons on teamwork, this guide has got you covered. The app offers a welcoming message and sparkles your learning adventure from the start. With its user-friendly interface, you can easily navigate and find the information you need. Get ready to dive into the world of soft skills with CPIT221 Book Guide!
 
@@ -25,3 +26,5 @@ CPIT221 Book Guide is a casual and friendly app designed specifically for CPIT22
 4. **Learn a lesson on teamwork**: To discover a lesson on teamwork from the CPIT221 book, ask a question like "What's a lesson on teamwork in the CPIT221 book?" to gain valuable insights and techniques.
 
 Note: This guide is intended to provide general guidance for interacting with the CPIT221 Book Guide app. The prompts and commands listed here are examples, and the app may have additional capabilities not covered in this guide. Feel free to explore and experiment to make the most of your learning journey!
+
+

@@ -1,6 +1,7 @@
+
 [![Manga Concierge](https://files.oaiusercontent.com/file-9P3dzmG2EZJFcU3uiKXJGH2Y?se=2123-10-17T13%3A57%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D472a00cb-8c3e-43f9-9ebf-d4e2b6b77668.png&sig=8LTDlBC6JJknHqfJIT6%2BcA56r7zB7TjbVwuk%2B/7uqiI%3D)](https://chat.openai.com/g/g-88wYcSE5A-manga-concierge)
 
-# [Manga Concierge](https://chat.openai.com/g/g-88wYcSE5A-manga-concierge)
+# Manga Concierge [ChatGPT Plus](https://chat.openai.com/g/g-88wYcSE5A-manga-concierge) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Manga%20Concierge)
 
 Manga Concierge is here to help you find your next manga obsession! This app is like having a personal manga expert who will provide personalized recommendations based on what you want to read. Whether you're in the mood for action, romance, or something totally unique, Manga Concierge has got you covered. Simply let the app know how you're feeling, and it will curate a list of manga titles that match your preferences. Get ready to dive into a world of captivating stories and stunning artwork at your fingertips. Happy exploring!
 
@@ -29,3 +30,5 @@ Manga Concierge is here to help you find your next manga obsession! This app is 
 5. `Highly Rated Series`: Users can request recommendations for manga series that have received high ratings from other readers, ensuring a quality reading experience.
 
 Note: The app also includes browser tools, but their usage details are not provided in the documentation.
+
+

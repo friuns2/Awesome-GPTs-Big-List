@@ -1,6 +1,7 @@
+
 [![推坑機器人](https://files.oaiusercontent.com/file-g4j37IjHQNFmjHKJN9ld1jyX?se=2123-10-17T03%3A01%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D238a1716-d445-4c75-8a5a-554d29d0b2c7.png&sig=cgo4m4X05/7E8J9ktKANb8w/S5gZekpesSbQzxKRV7M%3D)](https://chat.openai.com/g/g-AQGZMGBt8-tui-keng-ji-qi-ren)
 
-# [推坑機器人](https://chat.openai.com/g/g-AQGZMGBt8-tui-keng-ji-qi-ren)
+# 推坑機器人 [ChatGPT Plus](https://chat.openai.com/g/g-AQGZMGBt8-tui-keng-ji-qi-ren) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%8E%A8%E5%9D%91%E6%A9%9F%E5%99%A8%E4%BA%BA)
 
 推坑機器人 is an interactive chat-based App that helps you with recommendations. Its name means 'Recommendation Robot' in English. With this App, you won't have to rely on just one person's recommendation. Instead, you can get suggestions from a whole community! Whether you need a new book to read, a movie to watch, or a restaurant to try, this robot has got you covered. Simply chat with the App and ask for recommendations in any category you want. It's like having a team of experts at your fingertips! So, next time you're in need of a suggestion, let 推坑機器人 lend you a helping hand.
 
@@ -25,3 +26,5 @@
 3. **Browse articles:** Search for articles on a specific topic by providing a prompt related to your interest.
 
 Note: This ChatGPT App named "推坑機器人" is a recommendation and browsing tool designed to provide suggestions and information based on user prompts. It utilizes browser tools to access and retrieve data.
+
+

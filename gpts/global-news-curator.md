@@ -1,6 +1,7 @@
+
 [![Global News Curator](https://files.oaiusercontent.com/file-e9Uu0gMZHszh4LmnJTF9DNN6?se=2123-10-18T02%3A49%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7d37003f-9c49-4f4d-84e5-9dfd909fbb53.png&sig=kYXYxmhoXc79IO73tsOwEIfsEsQhiyg/azHj1JWIC%2Bo%3D)](https://chat.openai.com/g/g-TPbuYomZg-global-news-curator)
 
-# [Global News Curator](https://chat.openai.com/g/g-TPbuYomZg-global-news-curator)
+# Global News Curator [ChatGPT Plus](https://chat.openai.com/g/g-TPbuYomZg-global-news-curator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Global%20News%20Curator)
 
 Stay informed with today's essential global news! Global News Curator is a handy app that summarizes the latest finance, politics, and major events from around the world. Get an overview of the top stories and stay updated on the go. Whether you're interested in the economy, politics, or entertainment news, this app has got you covered. Simply ask for a summary of today's global financial news, the latest political developments, breaking entertainment news, or major events, and the app will provide you with concise and relevant information. Stay in the know with Global News Curator!
 
@@ -25,3 +26,5 @@ Stay informed with today's essential global news! Global News Curator is a handy
 4. **Find major events of the day:** This command will provide information on the significant events that took place today.
 
 It appears that this ChatGPT App is a global news curator that focuses on finance, politics, and major events. Users can interact with the App by using prompts related to these topics to get specific information or summaries.
+
+

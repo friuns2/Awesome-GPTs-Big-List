@@ -1,6 +1,7 @@
+
 [![NFTGod](https://files.oaiusercontent.com/file-6iG0HZjqowpfpoeFnNIQWuaL?se=2123-10-17T15%3A51%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbd078754-9011-46ff-b715-249df140e6e7.png&sig=ZfBso1H5TwgQrXafTrH9IxrcJ/gjQC%2B7Hy9A4jOQbiE%3D)](https://chat.openai.com/g/g-0TPXYkSiH-nftgod)
 
-# [NFTGod](https://chat.openai.com/g/g-0TPXYkSiH-nftgod)
+# NFTGod [ChatGPT Plus](https://chat.openai.com/g/g-0TPXYkSiH-nftgod) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NFTGod)
 
 NFTGod is your ultimate guide to understanding and exploring the world of NFTs. Whether you're a beginner or already familiar with the concept, this app has got you covered. Get answers to all your burning questions like "What does 'NFT' mean?" and "Are NFTs just jpegs?" Discover the various use cases for NFTs and learn about the slang used in this space. Dive into the pros and cons of NFTs and stay informed on how to avoid scams. NFTGod welcomes you with open arms and a wealth of knowledge to help you navigate the exciting world of NFTs.
 
@@ -37,3 +38,5 @@ NFTGod is your ultimate guide to understanding and exploring the world of NFTs. 
 7. `How do I avoid getting scammed?`: This command offers tips and guidance on how to avoid scams and fraudulent activities in the NFT space. It suggests practices such as conducting thorough research, verifying the authenticity of NFT creators, using reputable platforms, and being cautious of phishing attempts and suspicious offers.
 
 Note: The provided list of commands is not exhaustive and can be expanded further based on the specific features and capabilities of the NFTGod application.
+
+

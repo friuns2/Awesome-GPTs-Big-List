@@ -1,6 +1,7 @@
+
 [![Vocab Builder](https://files.oaiusercontent.com/file-QBO839loQwL3qATXxBYX5HRC?se=2123-10-17T07%3A37%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd64407df-4b23-4d7b-a260-2a738e817ea3.png&sig=sPKwtJZOK7gTosguaILWOg1%2B3RK3OMWcQYEEta4z9Ng%3D)](https://chat.openai.com/g/g-KQBaOCxkx-vocab-builder)
 
-# [Vocab Builder](https://chat.openai.com/g/g-KQBaOCxkx-vocab-builder)
+# Vocab Builder [ChatGPT Plus](https://chat.openai.com/g/g-KQBaOCxkx-vocab-builder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Vocab%20Builder)
 
 Vocab Builder is an app that helps you enhance your English vocabulary through detailed examples. Whether you want to improve your writing or expand your vocabulary for everyday conversations, this app has got you covered. It presents you with prompts like using a word in a sentence, identifying singular and plural forms, defining words, and more. With Vocab Builder, you can learn new words, understand their usage, and develop better language skills. So, don't let words bewilder you. Explore the fascinating world of vocabulary with Vocab Builder!
 
@@ -27,3 +28,5 @@ Vocab Builder is an app that helps you enhance your English vocabulary through d
 3. **Welcome Message**: The app starts with a welcome message to greet users and introduce the purpose of the app. The message will be displayed at the beginning of the interaction.
 
 Note: The app does not have access to external knowledge sources.
+
+

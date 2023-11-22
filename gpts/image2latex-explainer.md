@@ -1,6 +1,7 @@
+
 [![Image2LaTeX Explainer](null)](https://chat.openai.com/g/g-AZptTUxjU-image2latex-explainer)
 
-# [Image2LaTeX Explainer](https://chat.openai.com/g/g-AZptTUxjU-image2latex-explainer)
+# Image2LaTeX Explainer [ChatGPT Plus](https://chat.openai.com/g/g-AZptTUxjU-image2latex-explainer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Image2LaTeX%20Explainer)
 
 Image2LaTeX Explainer is a handy tool that optimizes the conversion of LaTeX images to text, making it easy for you to copy and paste. Whether you need an explanation for a LaTeX equation or simply want to convert your LaTeX image into editable text, this app has got you covered. Just upload your LaTeX image and let Image2LaTeX Explainer do the rest. With its user-friendly interface and powerful conversion capabilities, you'll be able to seamlessly convert and understand your LaTeX equations. Get ready to simplify your LaTeX image conversion with Image2LaTeX Explainer!
 
@@ -25,3 +26,5 @@ Image2LaTeX Explainer is a handy tool that optimizes the conversion of LaTeX ima
 4. `get_equation_explanation`: This command retrieves an explanation for a LaTeX equation.
 
 5. `help`: This command provides assistance or guidance on how to use the ChatGPT App.
+
+

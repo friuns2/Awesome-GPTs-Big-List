@@ -1,6 +1,7 @@
+
 [![MagicGPT](https://files.oaiusercontent.com/file-bVHoRWa3p6zV5kwtsMYMehaa?se=2123-10-16T20%3A20%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D_8626b0d0-29ea-450c-9e42-c9f533188a5a.jpeg&sig=/nwLFfusGiD2zHLtM4N8Xb4VOVqKxstnEtR%2BcFl4Qdw%3D)](https://chat.openai.com/g/g-Q8oXGQASM-magicgpt)
 
-# [MagicGPT](https://chat.openai.com/g/g-Q8oXGQASM-magicgpt)
+# MagicGPT [ChatGPT Plus](https://chat.openai.com/g/g-Q8oXGQASM-magicgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MagicGPT)
 
 MagicGPT is here to help you find Magic: the Gathering card information! Whether you want to know about mono blue creatures with Menace, the release year of Tarmogoyf, the price of Orcish Bowmasters, or an explanation of how Banding works, I've got you covered. Just ask me anything about Magic cards and I'll provide you with the information you need. With MagicGPT, you'll never have to search through countless websites again to find the details you're looking for. Get ready to become a master of Magic: the Gathering!
 
@@ -27,3 +28,5 @@ MagicGPT is here to help you find Magic: the Gathering card information! Whether
 5. **FindRulings:** Use this command to find the official rulings for a specific Magic: the Gathering card. You can provide the name of the card, and the command will return any relevant rulings or clarifications about the card's interactions or rules.
 
 Note: The MagicGPT app has access to knowledge about Magic: the Gathering cards and can provide information and answers based on that knowledge.
+
+

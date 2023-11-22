@@ -1,6 +1,7 @@
+
 [![JustinGPT](https://files.oaiusercontent.com/file-o7u4bchZPlX1q96T9e8lOY8K?se=2123-10-18T17%3A30%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0f3410c5-e32a-44c3-ad71-ed8421ffa0cc.png&sig=tzLjL0YIRRDOVB83IMfFWHkcBYLzYuekzp2ShZqoKLg%3D)](https://chat.openai.com/g/g-7z2JKXQRN-justingpt)
 
-# [JustinGPT](https://chat.openai.com/g/g-7z2JKXQRN-justingpt)
+# JustinGPT [ChatGPT Plus](https://chat.openai.com/g/g-7z2JKXQRN-justingpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=JustinGPT)
 
 Untangle Your Ethical Knots and 'Fine-Tune' Your Values with JustInGPT. This app provides a unique opportunity to explore and navigate complex ethical questions. It offers prompt starters to ponder upon and challenge your perspectives on various moral dilemmas. Whether it's finding a balance between conflicting values or understanding the implications of different choices in challenging situations, JustInGPT can help you gain clarity and sharpen your values. Powered by advanced technology, the app uses browser tools and Dalle to enhance your ethical reasoning experience. Join JustInGPT and embark on a journey towards a more thoughtful and refined value system.
 
@@ -29,3 +30,5 @@ Untangle Your Ethical Knots and 'Fine-Tune' Your Values with JustInGPT. This app
 5. **Changing Value System**: This command offers perspectives on the dilemma of having multiple values but struggling to live by any of them. Use this command to gain insights on whether changing your value system could be beneficial.
 
 Please note that these prompts and commands are for illustration purposes only and do not represent the actual functionality of the JustInGPT chat app.
+
+

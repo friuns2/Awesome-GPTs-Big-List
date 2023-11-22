@@ -1,6 +1,7 @@
+
 [![ManimGPT](https://files.oaiusercontent.com/file-SkVdsmDPxy0xi6jyYSjeENWK?se=2123-10-18T18%3A38%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dacd5d0f8-65db-4023-b88a-207f8a398f6d.png&sig=f509DToZ5%2BCBVwMVxlrxnGqekhyWzPTFUKIFUfv0J9w%3D)](https://chat.openai.com/g/g-dtA3t9WRW-manimgpt)
 
-# [ManimGPT](https://chat.openai.com/g/g-dtA3t9WRW-manimgpt)
+# ManimGPT [ChatGPT Plus](https://chat.openai.com/g/g-dtA3t9WRW-manimgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ManimGPT)
 
 ManimGPT is your friendly and casual coding buddy for Manim. Whether you need help with a Manim code, want to animate equations, stay updated with the latest Manim version, or need assistance in creating a Manim animation, ManimGPT is here to guide you. With access to knowledge, you can ask any question related to Manim, and we'll provide you with helpful responses. Get started exploring Manim with our exciting welcome message. ManimGPT also provides useful tools like a browser, Python, and DALL·E, to enhance your coding experience.
 
@@ -41,3 +42,5 @@ ManimGPT is your friendly and casual coding buddy for Manim. Whether you need he
    - Usage tip: Similar to the previous browser tool, use this tool to search for Manim documentation, tutorials, or examples to help you with your coding tasks. You can choose the tool that you prefer or switch between them if needed.
    
 Please note that the above descriptions and usage tips have been written based on the available information and may not accurately reflect the functionalities of the actual ManimGPT app.
+
+

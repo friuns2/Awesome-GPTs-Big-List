@@ -1,6 +1,7 @@
+
 [![Interest Rates](https://files.oaiusercontent.com/file-eYQruBVg7MReoyrluYNBwYHS?se=2123-10-14T11%3A52%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon.png&sig=EliwyN/d7JWUWyoTRld1dmTwrQv6HGYahm7MuBZmP9I%3D)](https://chat.openai.com/g/g-a61upqaQQ-interest-rates)
 
-# [Interest Rates](https://chat.openai.com/g/g-a61upqaQQ-interest-rates)
+# Interest Rates [ChatGPT Plus](https://chat.openai.com/g/g-a61upqaQQ-interest-rates) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Interest%20Rates)
 
 Stay updated on real-time interest rates from central banks around the world with the Interest Rates app! Get accurate data by simply specifying the country you're interested in. Whether you're a finance professional or just curious about the current rates, this app provides a convenient way to access this information. No need to search multiple websites or news sources anymore. Stay informed and make well-informed financial decisions with the Interest Rates app!
 
@@ -22,3 +23,6 @@ Stay updated on real-time interest rates from central banks around the world wit
 | Feature/Command | Description |
 | --- | --- |
 | `getData` | This command allows you to get real-time interest rate data from the central banks of different countries. You need to provide the country as a parameter. |
+
+
+

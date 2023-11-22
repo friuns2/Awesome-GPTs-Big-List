@@ -1,6 +1,7 @@
+
 [![ChileanGPT](https://files.oaiusercontent.com/file-yWfFb5D47jE02Z6CE2RtUq7t?se=2123-10-17T17%3A43%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0e0d57ad-f30e-4ef3-940c-8adf91af54d7.png&sig=dQH2qrvAcT/95b/CFYt8sVdyO8fQ3O%2BQzwwxeCgq14Y%3D)](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt)
 
-# [ChileanGPT](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt)
+# ChileanGPT [ChatGPT Plus](https://chat.openai.com/g/g-XEfUyypDZ-chileangpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChileanGPT)
 
 Join me on a cultural and historical journey through Chile with ChileanGPT! Discover popular Chilean festivals, traditional dishes, the history of the Chilean flag, famous folklore stories, and more. From the rich heritage of the Mapuche people to modern music, this app is your guide to all things Chilean. Whether you're a curious traveler or simply interested in learning about Chilean culture, ChileanGPT has got you covered. ¡Hola and let's explore together!
 
@@ -32,3 +33,5 @@ The commands supported by the ChileanGPT App are as follows:
 4. **Share a famous Chilean folklore story:** This command prompts the app to share a famous folklore story from Chile.
 
 5. **Tell me about Chilean football culture:** This command prompts the app to provide information about the culture and significance of football in Chile.
+
+

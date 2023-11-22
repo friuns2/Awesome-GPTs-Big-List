@@ -1,6 +1,7 @@
+
 [![Look Around](https://files.oaiusercontent.com/file-n7bq5O8PRcdJX4RVbnCToH16?se=2123-10-18T01%3A23%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5.jpeg&sig=WAylHKSCIf4vCHp02TRYoYNCPcQrlFH8pp574LYyOBY%3D)](https://chat.openai.com/g/g-JGjx3oOoc-look-around)
 
-# [Look Around](https://chat.openai.com/g/g-JGjx3oOoc-look-around)
+# Look Around [ChatGPT Plus](https://chat.openai.com/g/g-JGjx3oOoc-look-around) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Look%20Around)
 
 Look Around is a handy tour guide app that helps you explore different cities and discover the best attractions. With its interactive map, Look Around allows you to drop pins on places of interest and provides information about them. Whether you're in Rome, Tokyo, New York, or Paris, Look Around can recommend the top hidden gems, must-visit places, and the best things to do. Get ready to embark on a virtual adventure and map out your next exciting journey with Look Around!
 
@@ -23,3 +24,5 @@ Look Around is a handy tour guide app that helps you explore different cities an
 4. **Save places to your map:** With the browser tool, you can save places you are interested in to your map, allowing you to create a personalized itinerary or keep track of places you want to visit later.
 
 Remember to always specify the city or location in your prompts to get more accurate recommendations and information. Enjoy exploring and discovering new places!
+
+

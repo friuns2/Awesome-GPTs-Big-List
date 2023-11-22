@@ -1,6 +1,7 @@
+
 [![Remôto](https://files.oaiusercontent.com/file-WFMhUfrwNLcvUwEykvBwY29R?se=2123-10-16T21%3A47%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D576d767d-8ad0-47b5-bd6e-9628a112fb1d.png&sig=EXcbzgPRsR%2BCMwoQ2lRybQzpyMnRvfFVhCb3QgW4zLs%3D)](https://chat.openai.com/g/g-xnhRezQIO-remoto)
 
-# [Remôto](https://chat.openai.com/g/g-xnhRezQIO-remoto)
+# Remôto [ChatGPT Plus](https://chat.openai.com/g/g-xnhRezQIO-remoto) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rem%C3%B4to)
 
 Remôto is an App designed to support remote workers in their journey to be more effective and successful in their work-from-home setup. Whether you're new to remote work or looking for ways to improve, Remôto has got your back! You can ask for tips on landing your first remote job, being productive while working from home, or even how to contribute to the project. It also provides a summary of the Trampar de Casa Manifesto. With Remôto, you'll have access to knowledge and tools like Python programming, DALL·E, and a browsing feature to enhance your remote work experience. Get ready to level up your remote work game!
 
@@ -25,3 +26,5 @@ Remôto is an App designed to support remote workers in their journey to be more
 5. **Summarize the Remote Working Manifesto**: This command provides a summary of the Remote Working Manifesto. It may include key principles and values related to remote work, such as flexibility, autonomy, and trust.
 
 Note: The provided information is based on the documentation and description for the Remôto App. The actual functionality of the App may differ.
+
+

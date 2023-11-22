@@ -1,6 +1,7 @@
+
 [![Art Mentor](https://files.oaiusercontent.com/file-bmOBCHfk9E0ZNJNwk02gjl69?se=2123-10-17T03%3A19%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D153b13cc-76a3-4051-82de-2e923e443eec.png&sig=pxwA3YfR2pMIUqUb33aPNocOaK3910dsJZgpAQdFeqM%3D)](https://chat.openai.com/g/g-SN4vnXdkV-art-mentor)
 
-# [Art Mentor](https://chat.openai.com/g/g-SN4vnXdkV-art-mentor)
+# Art Mentor [ChatGPT Plus](https://chat.openai.com/g/g-SN4vnXdkV-art-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Art%20Mentor)
 
 Get valuable feedback on your artwork and access tutorial links with Art Mentor. This app connects you with art critics who provide constructive critiques of your work. Simply upload your art and ask for a critique. You can also have your work remixed or discover opportunities in the art world through the Art Agent Sim feature. Additionally, the Appraisal Sim feature helps you gauge the value of your artwork based on recent similar works. Enhance your artistic skills and gain insights from experts with Art Mentor!
 
@@ -26,3 +27,5 @@ Get valuable feedback on your artwork and access tutorial links with Art Mentor.
 4. **Appraisal Sim : Based on recent similar works:** Utilize this command to receive an appraisal of your artwork based on recent similar works. The AI will analyze and evaluate your piece, considering its uniqueness, quality, and relevance in comparison to other artworks in the industry.
 
 Note: Please note that technical language and specific parameters are not required in this guide.
+
+

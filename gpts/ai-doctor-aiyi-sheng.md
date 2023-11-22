@@ -1,6 +1,7 @@
+
 [![AI doctor（AI医生）](null)](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng)
 
-# [AI doctor（AI医生）](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng)
+# AI doctor（AI医生） [ChatGPT Plus](https://chat.openai.com/g/g-NdLDCPwZ0-ai-doctor-aiyi-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20doctor%EF%BC%88AI%E5%8C%BB%E7%94%9F%EF%BC%89)
 
 Meet AI Doctor, your virtual healthcare companion! This app uses cutting-edge AI technology to provide personalized medical advice and information. Whether you have a specific health concern or just need some general health tips, AI Doctor is here to help. From symptoms to treatments, this app has access to a wealth of medical knowledge. Just start a chat and ask anything related to health or specific conditions. AI Doctor can even connect you to reliable online resources for further information. Stay healthy with AI Doctor!
 
@@ -35,3 +36,5 @@ Example: "What are some ways to boost my immune system?"
 Example: "I burned my finger while cooking. What should I do?"
 
 Note: This AI doctor app does not have access to specialized medical knowledge or personal medical history, therefore it cannot replace consultation with a qualified healthcare professional.
+
+

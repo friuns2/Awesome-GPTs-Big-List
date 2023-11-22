@@ -1,6 +1,7 @@
+
 [![国会議事録検索 for GPTs](https://files.oaiusercontent.com/file-Gsjd9Fm80tzJaVfBt7g2l2H7?se=2123-10-14T05%3A30%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=U8Zww%2BTQJYVvN8JpLtp851jYWOxlhU0MJZXu%2Bdj0GWQ%3D)](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts)
 
-# [国会議事録検索 for GPTs](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts)
+# 国会議事録検索 for GPTs [ChatGPT Plus](https://chat.openai.com/g/g-mQ9E8rCzZ-guo-hui-yi-shi-lu-jian-suo-for-gpts) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%9B%BD%E4%BC%9A%E8%AD%B0%E4%BA%8B%E9%8C%B2%E6%A4%9C%E7%B4%A2%20for%20GPTs)
 
 Empower your research with the ability to search and explore parliamentary proceedings through news and text information. Uncover insights effortlessly
 
@@ -19,3 +20,5 @@ Empower your research with the ability to search and explore parliamentary proce
 | Feature/Command | Description |
 | --- | --- |
 | `query` | This command allows you to search parliamentary proceedings and retrieve relevant information based on your specified topics, dates, and participating members. The AI will provide results in the form of document chunks with scores, which can be used to generate summaries or analyze the content. |
+
+

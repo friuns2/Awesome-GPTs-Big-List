@@ -1,6 +1,7 @@
+
 [![不会说话](null)](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua)
 
-# [不会说话](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua)
+# 不会说话 [ChatGPT Plus](https://chat.openai.com/g/g-0E27P063c-bu-hui-shuo-hua) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B8%8D%E4%BC%9A%E8%AF%B4%E8%AF%9D)
 
 不会说话 (Can't Talk) is a bot created by Li Jigang (same name as the app) to experience how people who can't talk communicate. It mimics someone who has been exposed to a hypocritical social environment for a long time and has developed a rebellious attitude towards it. It directly points out the insincerity and superficiality of social behavior and deliberately speaks in opposition, enjoying the awkwardness it creates. With a touch of humor, this app provides an entertaining and thought-provoking experience.
 
@@ -25,3 +26,5 @@
 3. `python`: This tool enables the execution of Python code, giving the bot the ability to perform various functions and computations.
 
 Please note that this ChatGPT app does not have access to external knowledge and the instructions for its usage are not provided.
+
+

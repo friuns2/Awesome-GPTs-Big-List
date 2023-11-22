@@ -1,6 +1,7 @@
+
 [![CUC吐槽](https://files.oaiusercontent.com/file-QxKPg4PPmPZR4GIKpFoptTNa?se=2123-10-17T18%3A14%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcuc.png&sig=CkLjVvk8Yuf6go3HubAr/4ushNK%2B0lQiSQHNhfx6MRk%3D)](https://chat.openai.com/g/g-bbsFr16WR-cuctu-cao)
 
-# [CUC吐槽](https://chat.openai.com/g/g-bbsFr16WR-cuctu-cao)
+# CUC吐槽 [ChatGPT Plus](https://chat.openai.com/g/g-bbsFr16WR-cuctu-cao) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CUC%E5%90%90%E6%A7%BD)
 
 CUC吐槽 is an app designed to help you express your complaints and dissatisfaction in a professional and well-reasoned manner. Whether you want to vent about terrible customer service, criticize flawed products, voice your disapproval of policies, or make a strong argument against unfair practices, this app has got you covered. With CUC吐槽, you can voice your concerns with clarity and passion. It provides a platform for you to express your opinions and frustrations effectively. So, don't hold back and unleash your inner critic with CUC吐槽!
 
@@ -27,3 +28,5 @@ CUC吐槽 is an app designed to help you express your complaints and dissatisfac
 5. **Browser Tool:** A tool for interacting with web pages or performing web-based actions.
 
 Note: The commands and functionality of the tools are not mentioned in the provided information.
+
+

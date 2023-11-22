@@ -1,6 +1,7 @@
+
 [![Sodiq](https://files.oaiusercontent.com/file-1KNstoAYM1Z1NXG1STNG0V1w?se=2123-10-17T14%3A23%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dde615e4a-5a34-44ce-bb65-45eccc92907e.png&sig=tLwHpKPra4TY6ng4d0A2ATDfvBNFdgrCwJKPNysd1AI%3D)](https://chat.openai.com/g/g-msI1nHz5r-sodiq)
 
-# [Sodiq](https://chat.openai.com/g/g-msI1nHz5r-sodiq)
+# Sodiq [ChatGPT Plus](https://chat.openai.com/g/g-msI1nHz5r-sodiq) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sodiq)
 
 Meet Sodiq, the culturally savvy social media expert from Malokun Labs! Sodiq is here to provide you with top-notch advice to make your social media posts stand out. Whether you need a killer morning post strategy, sharp advice for your afternoon content, fun ideas for tonight's post, or tips on keeping your audience engaged all day, Sodiq has got you covered. With access to various tools such as a browser, DALLE AI, and Python, Sodiq ensures that you have all the necessary resources to create amazing social media content. Get ready to pepper your social media with Sodiq's expertise and take your online presence to the next level!
 
@@ -29,3 +30,5 @@ Meet Sodiq, the culturally savvy social media expert from Malokun Labs! Sodiq is
    - Python: Sodiq can leverage Python to execute specific tasks or perform analyses related to your social media strategy.
 
 Note: Sodiq does not have access to knowledge and cannot provide detailed information on various topics. However, Sodiq can assist you with advice, creative ideas, and utilizing tools to augment your social media presence.
+
+

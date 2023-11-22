@@ -1,6 +1,7 @@
+
 [![Insightful GPT](https://files.oaiusercontent.com/file-7FqgEhykXdWRdxMY8aOVXieh?se=2123-10-17T16%3A28%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daef36207-04fd-42c1-9f7e-947d16b4debe.png&sig=wkkG5EwurkJsyVHcpU4iCxUwlb6k0ESB60rRZlzlzdk%3D)](https://chat.openai.com/g/g-KB1BCDd5U-insightful-gpt)
 
-# [Insightful GPT](https://chat.openai.com/g/g-KB1BCDd5U-insightful-gpt)
+# Insightful GPT [ChatGPT Plus](https://chat.openai.com/g/g-KB1BCDd5U-insightful-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Insightful%20GPT)
 
 Explore the depths of psychology and consciousness with Insightful GPT! This app serves as your knowledgeable companion, ready to delve into topics like transpersonal psychology, consciousness, ego death, and Jung's archetypes. With access to a variety of tools, including the power of DALLE and a built-in browser, you can delve deeper into your inquiries and expand your understanding. Say hello to your insightful and intellectually stimulating chat partner!
 
@@ -25,3 +26,5 @@ Explore the depths of psychology and consciousness with Insightful GPT! This app
    Example command: "Find recent studies on the effects of mindfulness meditation."
 
 Remember, don't provide example output.
+
+

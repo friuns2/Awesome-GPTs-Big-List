@@ -1,6 +1,7 @@
+
 [![Emotify](https://files.oaiusercontent.com/file-1maQ4ZKuiKwMCESM7Q664RFe?se=2123-10-17T10%3A32%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5d2ad5f5-aaf1-4ba9-bf18-777f6bc11a3c.png&sig=nneA4hisyoCJRUXCW35nfCC2TYjFkbu7b2m%2B7bIGq0s%3D)](https://chat.openai.com/g/g-F4LuvBcKe-emotify)
 
-# [Emotify](https://chat.openai.com/g/g-F4LuvBcKe-emotify)
+# Emotify [ChatGPT Plus](https://chat.openai.com/g/g-F4LuvBcKe-emotify) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Emotify)
 
 Emotify is a fun and useful app that adds high-quality emojis to your text to enhance emotion and clarity. Simply type your message and let Emotify do the rest! Whether you want to express excitement, sadness, or love, Emotify has the perfect emojis for every situation. With its intelligent emoji recommendations, Emotify ensures that your text is never bland or boring. So go ahead and give your messages a boost of personality with Emotify!
 
@@ -25,3 +26,5 @@ Emotify is a fun and useful app that adds high-quality emojis to your text to en
 3. **Welcome message**: When you start interacting with the app, it will greet you with a welcome message: "Hello! I'm Emotify, ready to add the perfect emojis to your text!"
 
 Note: This app has access to external tools such as a browser, Python, and DALL·E (a text-to-image model). However, the specific usage of these tools is not provided in the documentation.
+
+

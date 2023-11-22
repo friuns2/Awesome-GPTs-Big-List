@@ -1,6 +1,7 @@
+
 [![WuXing](https://files.oaiusercontent.com/file-Z8MNGiFSa5cpsDC6DRONaRo2?se=2123-10-17T02%3A44%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3fc7066f-98f3-456b-b8d2-d18ae02b7031.png&sig=pq%2ByOCOORpu6kYEUR6xKtmfsMA7A9fCJpGOfW0TqbG8%3D)](https://chat.openai.com/g/g-DkkZ6tHyW-wuxing)
 
-# [WuXing](https://chat.openai.com/g/g-DkkZ6tHyW-wuxing)
+# WuXing [ChatGPT Plus](https://chat.openai.com/g/g-DkkZ6tHyW-wuxing) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=WuXing)
 
 WuXing is an app that provides personalized Chinese names and Chinoiserie pictures based on your birthday. Simply share your birthday and let WuXing generate a unique Chinese name and its corresponding image for you. Whether you want to discover your Chinese name or create a meaningful gift for someone, WuXing has got you covered. Embrace the beauty of Chinese culture and add a touch of elegance to your life with WuXing. Get ready to explore the wonders of Chinese naming traditions and enjoy the delightful Chinoiserie artwork that WuXing has to offer!
 
@@ -23,3 +24,5 @@ WuXing is an app that provides personalized Chinese names and Chinoiserie pictur
 3. **Welcome message:** Share your birthday with the app and receive a personalized Chinese name and image.
 
 Please note that the WuXing app does not have access to knowledge and offers tools for browser usage, DALL-E functionality, and Python integration.
+
+

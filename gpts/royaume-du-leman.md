@@ -1,6 +1,7 @@
+
 [![Royaume du Léman](https://files.oaiusercontent.com/file-SJnPGej36eFj9guJMgX5FH7W?se=2123-10-17T22%3A35%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df36d6d1e-cba9-4a31-98d7-6f34993ca27c.png&sig=suwG9Qn8WOTAPMWwSCB2S14Mq7%2Bo9t%2Bw6CbCvKRM7jI%3D)](https://chat.openai.com/g/g-hkdis7zBR-royaume-du-leman)
 
-# [Royaume du Léman](https://chat.openai.com/g/g-hkdis7zBR-royaume-du-leman)
+# Royaume du Léman [ChatGPT Plus](https://chat.openai.com/g/g-hkdis7zBR-royaume-du-leman) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Royaume%20du%20L%C3%A9man)
 
 Welcome to Royaume du Léman! This app allows you to participate and learn more about the kingdom. Ask questions like 'Comment puis-je participer au Royaume du Léman?' or 'Parle moi du Royaume.' to get started. You'll be provided with a browser tool to explore more information, a 'dalle' tool for interactive experiences, and a Python tool for coding and customization. Let your curiosity guide you through the kingdom and uncover its secrets!
 
@@ -19,3 +20,5 @@ Welcome to Royaume du Léman! This app allows you to participate and learn more 
 3. **Python Tool:** With this tool, you can run Python code and execute various functions and computations. It provides a programming environment to perform data analysis, build models, and automate tasks.
 
 Please note that this is a general guide, and the specific functionality and commands may vary depending on the implementation of the Royaume du Léman app.
+
+

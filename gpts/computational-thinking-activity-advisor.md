@@ -1,6 +1,7 @@
+
 [![Computational Thinking Activity Advisor](https://files.oaiusercontent.com/file-24LsqnxA3h6IEkCTlwmDeLkd?se=2123-10-17T00%3A09%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8e67cea5-dc89-457b-8275-4ba0b91016a5.png&sig=H/LQ2mzr6PhXwCjZo98/DeKXDWcVRrgaBAUpd/nfq4U%3D)](https://chat.openai.com/g/g-FcJdPthdo-computational-thinking-activity-advisor)
 
-# [Computational Thinking Activity Advisor](https://chat.openai.com/g/g-FcJdPthdo-computational-thinking-activity-advisor)
+# Computational Thinking Activity Advisor [ChatGPT Plus](https://chat.openai.com/g/g-FcJdPthdo-computational-thinking-activity-advisor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Computational%20Thinking%20Activity%20Advisor)
 
 Computational Thinking Activity Advisor is a handy tool that helps you find topics in PDFs and design engaging activities. Whether you need to explain a specific topic or create a quiz, this app has got you covered. With its user-friendly interface, you can easily search for relevant information within PDF documents and extract key points for activities. It also provides access to powerful tools like DALLE, Python, and a browser, giving you flexibility in designing your activities. Get ready to explore PDF topics and unleash your creativity with Computational Thinking Activity Advisor!
 
@@ -23,3 +24,5 @@ Computational Thinking Activity Advisor is a handy tool that helps you find topi
 3. **Explain topic found**: If you want more information and explanation about a topic found in a PDF, use this command. The app will provide detailed information and insights about the topic.
 
 4. **Design a quiz for [paper]**: This command allows you to design a quiz based on a specific paper. Replace [paper] with the paper's title or relevant keywords, and the app will generate a quiz for you to use in your learning activities.
+
+

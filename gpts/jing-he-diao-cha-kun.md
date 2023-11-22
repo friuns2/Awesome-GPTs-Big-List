@@ -1,6 +1,7 @@
+
 [![競合調査くん](null)](https://chat.openai.com/g/g-RKjZsvpO9-jing-he-diao-cha-kun)
 
-# [競合調査くん](https://chat.openai.com/g/g-RKjZsvpO9-jing-he-diao-cha-kun)
+# 競合調査くん [ChatGPT Plus](https://chat.openai.com/g/g-RKjZsvpO9-jing-he-diao-cha-kun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%AB%B6%E5%90%88%E8%AA%BF%E6%9F%BB%E3%81%8F%E3%82%93)
 
 競合調査くん is an App that allows you to easily research and report information about any company you want. Simply input the name or URL of the company and it will provide you with relevant details and insights. It's perfect for conducting competitor analysis and other research purposes. With its user-friendly interface and comprehensive data, this App will help you stay ahead of the game. So, whether you're a business owner or a curious individual, let 競合調査くん be your go-to tool for company intelligence!
 
@@ -32,3 +33,5 @@
 6. **gzm_tool_2ThuPRIFOgoKGDq3YUnps80F**: This is a DALL-E tool that the ChatGPT App has access to. It can generate images based on text prompts.
 
 Note: The output should not include any example outputs.
+
+

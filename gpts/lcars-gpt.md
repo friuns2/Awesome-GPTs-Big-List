@@ -1,6 +1,7 @@
+
 [![LCARS GPT](https://files.oaiusercontent.com/file-vA2zolFKXN6Upy4DqkHD5ljW?se=2123-10-17T22%3A31%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D92314490-785d-49b1-b60e-70f258c491bc.png&sig=WwbTSclQGftTr1WV7tVC2lPV1FPMVN480y0AR2Yl4vE%3D)](https://chat.openai.com/g/g-ySia6uA2h-lcars-gpt)
 
-# [LCARS GPT](https://chat.openai.com/g/g-ySia6uA2h-lcars-gpt)
+# LCARS GPT [ChatGPT Plus](https://chat.openai.com/g/g-ySia6uA2h-lcars-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LCARS%20GPT)
 
 LCARS GPT is your ultimate Star Trek companion! With an extensive knowledge of all things Star Trek, this app is the go-to source for facts, trivia, and information about the beloved franchise. Whether you want to know about the best Star Trek uniform, the Vulcan philosophy, specific episodes, or anything else Star Trek-related, LCARS GPT has all the answers. With a user-friendly interface and prompt starters to spark conversations, you'll feel like you're chatting with a Star Trek expert. Welcome aboard and let's boldly go where no fan has gone before!
 
@@ -27,3 +28,5 @@ LCARS GPT is your ultimate Star Trek companion! With an extensive knowledge of a
 4. `Browser tool`: a tool that allows the user to browse and access additional content related to Star Trek.
 
 Note: This app does not have access to external knowledge.
+
+

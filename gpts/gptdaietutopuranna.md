@@ -1,6 +1,7 @@
+
 [![GPTダイエットプランナー](https://files.oaiusercontent.com/file-68yek8uF1PfTILEVZr4TCg99?se=2123-10-18T13%3A24%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6e0e4c65-b765-43a1-9666-2f3694f3df4a.png&sig=eNEk67HNqnbYG1kwL6McqvrNDyUtQSpNVwIzF5Lt08g%3D)](https://chat.openai.com/g/g-CCSYP4wdJ-gptdaietutopuranna)
 
-# [GPTダイエットプランナー](https://chat.openai.com/g/g-CCSYP4wdJ-gptdaietutopuranna)
+# GPTダイエットプランナー [ChatGPT Plus](https://chat.openai.com/g/g-CCSYP4wdJ-gptdaietutopuranna) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC)
 
 GPT Diet Planner is here to help you achieve your dream body! This App provides personalized diet plans and recommendations based on your goals. Whether you want to lose weight, gain muscle, or maintain a healthy lifestyle, GPT Diet Planner has got you covered. With its easy-to-use interface, you can input your preferences and dietary restrictions, and the App will generate a customized meal plan just for you. Say goodbye to guesswork and hello to a healthier you! Start your journey today and let GPT Diet Planner be your guide to a fitter future!
 
@@ -29,3 +30,5 @@ The GPTダイエットプランナー app is designed to help you achieve your i
 6. **Setting Short-term Goals:** If you want to set short-term goals to get closer to your ideal body weight, ask something like "理想の体重に近づくための短期的な目標を設定したいです。アドバイスをください" (meaning "I want to set short-term goals to get closer to my ideal body weight. Please advise"). The app will provide you with recommendations on achievable goals and strategies to reach them.
 
 Please keep in mind that the app works within the context of providing diet and exercise guidance. It does not have access to external knowledge or personal data.
+
+

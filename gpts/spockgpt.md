@@ -1,6 +1,7 @@
+
 [![SpockGPT](https://files.oaiusercontent.com/file-dGwnLrvKNO2rGgkK2JvjW9Ap?se=2123-10-18T15%3A26%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd1b22162-5ff3-4ad1-bc90-1db47e15fa06.png&sig=AZnrOh8irpyl6PwtHflN%2B%2By7hoEhZ3/sBbs6EOGCBtE%3D)](https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt)
 
-# [SpockGPT](https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt)
+# SpockGPT [ChatGPT Plus](https://chat.openai.com/g/g-Ypp2puCJ1-spockgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SpockGPT)
 
 SpockGPT is an App that brings logical and analytical reasoning to your fingertips. With a touch of Spock's wisdom, this App assists you in deducing logical conclusions and approaching problems in a rational way. You can ask questions like 'What is the logical approach to...' or 'Can you deduce a logical conclusion for...'. Whether you need guidance in decision-making or want to explore the logical perspective on various topics, SpockGPT is here to provide logical insights. Live long and prosper as you engage with SpockGPT and unlock the power of logic!
 
@@ -25,3 +26,5 @@ SpockGPT is an App that brings logical and analytical reasoning to your fingerti
 4. **gzm_tool_hwChwuooqWIyNuie35ZFk1y7:** This tool utilizes the capabilities of the DALLE model to provide logical insights.
 
 Please note that the app does not have access to external knowledge and does not provide instructions or tutorials. It is designed to assist with logical thinking and problem-solving based on the prompts provided.
+
+

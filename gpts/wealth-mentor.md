@@ -1,6 +1,7 @@
+
 [![Wealth Mentor](https://files.oaiusercontent.com/file-07eXZHac9GrbxOx1hjwSu6En?se=2123-10-18T23%3A24%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8f92aaa4-a5ff-4f26-8669-edb9d41a1662.png&sig=0FJcU26/97%2BY9gBP9jFcht53I6GlnfDETLDe/cwAY8E%3D)](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor)
 
-# [Wealth Mentor](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor)
+# Wealth Mentor [ChatGPT Plus](https://chat.openai.com/g/g-S8MHPd8Cy-wealth-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Wealth%20Mentor)
 
 Wealth Mentor is your personal guide to wealth building. With proven investment strategies and expert knowledge, this app will assist you in creating a personalized 30-day, 60-day, and 90-day Wealth Action Plan. Whether you're a beginner or looking to increase your wealth, Wealth Mentor has everything you need to know about dividends and wealth building, complete with actionable plans. Get ready to learn and grow your wealth with this easy-to-use app!
 
@@ -25,3 +26,5 @@ Wealth Mentor is your personal guide to wealth building. With proven investment 
 4. `Teach me like its my first day learning about wealth building`: This command will provide a comprehensive introduction to wealth building. It may cover basic concepts, investment principles, and essential strategies to start building wealth effectively.
 
 Please note that the Wealth Mentor ChatGPT App has access to knowledge related to wealth building and can provide personalized guidance and recommendations. It may also utilize tools such as a browser and Python for enhanced functionality, although specific details about their usage are not provided in the documentation.
+
+

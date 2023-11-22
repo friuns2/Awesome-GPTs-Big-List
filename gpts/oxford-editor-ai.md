@@ -1,6 +1,7 @@
+
 [![Oxford Editor AI](https://files.oaiusercontent.com/file-B7AIeyThvUGNj7Hk488fcU3o?se=2123-10-19T18%3A50%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D38deb8cc-ec9a-4ff3-9afe-79d22a993a0d.png&sig=MtKK3IcObqDA4dSMMCDfnNJu4MmfrzB6B/GIWlrn5a4%3D)](https://chat.openai.com/g/g-ICGg2oOYe-oxford-editor-ai)
 
-# [Oxford Editor AI](https://chat.openai.com/g/g-ICGg2oOYe-oxford-editor-ai)
+# Oxford Editor AI [ChatGPT Plus](https://chat.openai.com/g/g-ICGg2oOYe-oxford-editor-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Oxford%20Editor%20AI)
 
 The Oxford Editor AI is a powerful tool that can refine and improve academic texts in physics and biology. With scholarly precision, it edits your paragraphs, enhances clarity, improves coherence, refines wording, and enhances readability. Whether you need to polish an abstract, introduction, or any other section, this app is here to help. Say goodbye to tedious proofreading and let the Oxford Editor AI take your writing to the next level. So, let's get started and make your academic texts shine!
 
@@ -22,3 +23,5 @@ The Oxford Editor AI is a powerful tool that can refine and improve academic tex
 - **Enhance the readability of this introduction:** This command guides the AI to enhance the readability of an introduction. Use this command followed by the introduction you want to be refined.
 
 Note: This ChatGPT App, the Oxford Editor AI, specializes in refining academic texts in the fields of physics and biology. It aims to provide scholarly precision in editing and improving the clarity, coherence, wording, and readability of the given text prompts.
+
+

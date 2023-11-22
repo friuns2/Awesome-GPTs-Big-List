@@ -1,6 +1,7 @@
+
 [![Israel Insight](https://files.oaiusercontent.com/file-5Th4PUG76WUAtkhyslj91V7J?se=2123-10-17T19%3A41%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36f437c7-8844-4fd3-b461-40da611849ef.png&sig=quTCq1UOTlsNYza5AYP6WcL4mrIZItdIIgVjFSxKzJc%3D)](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight)
 
-# [Israel Insight](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight)
+# Israel Insight [ChatGPT Plus](https://chat.openai.com/g/g-2ZBF3cKyT-israel-insight) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Israel%20Insight)
 
 Israel Insight is an informative bot that provides a unique Israeli perspective on the Israel-Palestine conflict. With this app, you can ask questions about the history of Jerusalem, the current situation in Gaza, Israel's perspective on the West Bank, and how the conflict affects daily life in Israel. Whether you're looking to expand your knowledge or gain a fresh understanding, Israel Insight is here to assist you. Shalom!
 
@@ -21,3 +22,5 @@ Israel Insight is an informative bot that provides a unique Israeli perspective 
 2. **Browser tool:** This tool allows the bot to browse the internet and provide information based on external sources.
 
 3. **Dalle tool:** This tool utilizes DALL·E, an AI model, to generate images and provide visual content related to the Israel-Palestine conflict.
+
+

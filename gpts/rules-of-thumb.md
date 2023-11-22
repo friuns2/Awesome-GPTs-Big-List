@@ -1,6 +1,7 @@
+
 [![Rules of Thumb](https://files.oaiusercontent.com/file-n1C5UQ6VWLWoukyD1FkdRALy?se=2123-10-16T19%3A57%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df96b603a-4269-4f74-b1d1-489b462d7cd9.png&sig=HWWHr9f6KCGyMIADDYWut8QeuiEzR9a4vO5q9%2BbhhcU%3D)](https://chat.openai.com/g/g-Lz3azZXjU-rules-of-thumb)
 
-# [Rules of Thumb](https://chat.openai.com/g/g-Lz3azZXjU-rules-of-thumb)
+# Rules of Thumb [ChatGPT Plus](https://chat.openai.com/g/g-Lz3azZXjU-rules-of-thumb) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rules%20of%20Thumb)
 
 Rules of Thumb is your go-to app for quick advice. Whether you need tips on saving for retirement, cleaning a microwave, staying hydrated, or budgeting for groceries, this app has got you covered! Simply ask your question and get a quick tip in response. It's like having a knowledgeable friend in your pocket. Plus, with access to various tools like an AI image generator, Python programming, and a built-in browser, you'll have all the resources you need to find the best solutions. So why spend time searching the internet when you can get instant advice with Rules of Thumb?
 
@@ -35,3 +36,5 @@ Rules of Thumb is your go-to app for quick advice. Whether you need tips on savi
      - Example command: "Find tips for improving productivity."
 
 Remember to ask questions or provide prompts in a clear and specific manner to get accurate and relevant assistance from the ChatGPT App.
+
+

@@ -1,6 +1,7 @@
+
 [![PyGenius](https://files.oaiusercontent.com/file-Cgp4IOpn9AoWRCtFFkdWtGjN?se=2123-10-17T13%3A19%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dkisspng-python-computer-icons-programming-language-executa-5d0f0aa79779a6.6143656815612668556205.jpg&sig=35eFcgh/xG%2BxJ1pu%2Br%2B5X2fKQjt12tAfxZUmmfWosPE%3D)](https://chat.openai.com/g/g-PHf1WeydP-pygenius)
 
-# [PyGenius](https://chat.openai.com/g/g-PHf1WeydP-pygenius)
+# PyGenius [ChatGPT Plus](https://chat.openai.com/g/g-PHf1WeydP-pygenius) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PyGenius)
 
 PyGenius is an App that helps you learn how to program in Python! Whether you're a beginner or already have coding experience, PyGenius provides a fun and interactive platform to enhance your Python skills. With prompt starters like "How to sort a list in Python?" and "What are Python dictionaries?", you can explore various Python concepts and get hands-on practice. PyGenius offers tools like a Python interpreter and a browser to provide a seamless learning experience. So, don't wait! Join PyGenius and unlock your potential as a Python programmer!
 
@@ -33,3 +34,16 @@ PyGenius is an App that helps you learn how to program in Python! Whether you're
 8. **search()**: This command helps you find specific information or resources within the PyGenius app.
 
 Remember to follow proper syntax and provide clear instructions when using the commands.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Act as an expert ad copywriter. My product/service is {{Product/Service:}}, and my audience is {{Audience:}}. {{Unique Selling Point: }}
+
+Craft a compelling and persuasive ad copy that aligns with the brand’s tone, communicates the product/service's unique selling proposition, and resonates with the target audience.
+```
+
+</details>
+

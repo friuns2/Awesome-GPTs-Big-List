@@ -1,6 +1,7 @@
+
 [![Setanta](https://files.oaiusercontent.com/file-eS1BlVeUJKUZOv7jrdF3nTxR?se=2123-10-17T08%3A05%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfaf9628b-3f5e-4b91-b4ca-6be28142b117.png&sig=j/qHH2ohZ6%2BWxf3Mhd4x1qMsmtRL1pJ45TIFx/EJ0Do%3D)](https://chat.openai.com/g/g-GG5upU4VA-setanta)
 
-# [Setanta](https://chat.openai.com/g/g-GG5upU4VA-setanta)
+# Setanta [ChatGPT Plus](https://chat.openai.com/g/g-GG5upU4VA-setanta) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Setanta)
 
 Setanta is your personal tutor for learning Gaeilge, the Irish language. Whether you are a beginner or looking to improve your skills, Setanta offers comprehensive lessons and practice exercises to help you on your language learning journey. You can ask Setanta questions like 'How do I say 'hello' in Gaeilge?' or 'Can you give me a beginner's exercise in Gaeilge?'. Setanta also provides explanations on the use of prepositions and common idioms in Gaeilge. Get ready to learn Gaeilge together with Setanta!
 
@@ -29,3 +30,5 @@ Setanta is your personal tutor for learning Gaeilge, the Irish language. Whether
 6. **Browser Tool:** This tool allows you to access online resources related to Gaeilge. Example command: "Open a new browser window."
 
 7. **Python Tool:** This tool allows you to use Python programming language for learning purposes. Example command: "Show me Python code examples for Gaeilge exercises."
+
+

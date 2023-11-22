@@ -1,6 +1,7 @@
+
 [![ChemistryGPT](https://files.oaiusercontent.com/file-SJiBMMMXuLOYANjrwS1qDnX8?se=2123-10-20T06%3A35%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2d38a74f-86db-441f-9b9f-c80cb0a41f7f.png&sig=/F8LF%2BtQIsRltmn2NVDYf%2B3IIgemrU8csuscofbI1BA%3D)](https://chat.openai.com/g/g-FG1laFTNc-chemistrygpt)
 
-# [ChemistryGPT](https://chat.openai.com/g/g-FG1laFTNc-chemistrygpt)
+# ChemistryGPT [ChatGPT Plus](https://chat.openai.com/g/g-FG1laFTNc-chemistrygpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChemistryGPT)
 
 ChemistryGPT is your go-to source for all things chemistry. Whether you need help explaining the concept of an atomic structure, understanding acid-base reactions, learning about the applications of redox reactions, or grasping molecular orbitals, ChemistryGPT has got your back! Simply start a chat with this app and ask your chemistry questions. It will provide you with accurate and helpful explanations and information. ChemistryGPT welcomes you with a friendly greeting, and its tools include a DALL·E for generating chemistry-related images, a browser for accessing online resources, and a Python tool for performing chemistry-related calculations. Let ChemistryGPT be your chemistry companion today!
 
@@ -36,3 +37,5 @@ ChemistryGPT is your go-to source for all things chemistry. Whether you need hel
 - If you have a specific task that requires running Python code, the Python tool is at your service. Just provide the code or describe the task, and it will execute it for you.
 
 Remember, feel free to ask any chemistry-related questions or request assistance with specific chemistry tasks. The ChatGPT App is here to help!
+
+

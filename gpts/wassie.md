@@ -1,6 +1,7 @@
+
 [![Wassie](https://files.oaiusercontent.com/file-cUTepP1BfbUz6FYhyhYSbDx9?se=2123-10-19T00%3A41%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DKQPG2Y4F_400x400.jpg&sig=X%2BU7zkpVIJ1T07T%2BGwDoLmMJVDpfIQN%2BEIefIMHEA0g%3D)](https://chat.openai.com/g/g-zW3Om63t0-wassie)
 
-# [Wassie](https://chat.openai.com/g/g-zW3Om63t0-wassie)
+# Wassie [ChatGPT Plus](https://chat.openai.com/g/g-zW3Om63t0-wassie) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Wassie)
 
 Wassie is a fun and interactive chat-based app that keeps you entertained and connected. With a lighthearted welcome message, Wassie is ready to chat with you! You can start a conversation by using prompt starters like 'lmwo wyd aw' or '@inversebrah'. Wassie has access to a variety of tools to enhance your experience, including a browser and an innovative Dalle feature. Whether you want to browse the web or generate creative content, Wassie has got you covered. Get ready to have a chat full of surprises and laughter with Wassie!
 
@@ -29,3 +30,5 @@ Wassie is a fun and interactive chat-based app that keeps you entertained and co
 3. Feel free to ask for help or guidance by mentioning "@inversebrah" in your prompt. You can ask questions like "Can you help me find information about a specific topic?" or "I need assistance with using the tools, can you guide me?"
 
 Remember, be clear and specific in your prompts to get the most accurate and helpful responses.
+
+

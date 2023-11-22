@@ -1,6 +1,7 @@
+
 [![GPTs Hub](https://files.oaiusercontent.com/file-g6KakXxFYxC4SQjlVWOhcolI?se=2123-10-18T08%3A06%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DWechatIMG998.jpg&sig=Q5mkMA4HLsLOO1RyLDhEWpgrm8w3hLUKU2NTWxjtiSs%3D)](https://chat.openai.com/g/g-KK6ms1ehm-gpts-hub)
 
-# [GPTs Hub](https://chat.openai.com/g/g-KK6ms1ehm-gpts-hub)
+# GPTs Hub [ChatGPT Plus](https://chat.openai.com/g/g-KK6ms1ehm-gpts-hub) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPTs%20Hub)
 
 GPTs Hub is your go-to App for discovering and recommending the hottest GPTs (Generalized Pre-trained Transformers). With a database of over 10,000 GPTs, you'll never run out of options. Whether you're looking for GPTs to motivate you, learn something new, or assist with planning, GPTs Hub has got you covered. Simply ask the App to recommend 3 hot GPTs for you, and it will deliver personalized suggestions. From browsing the web to generating stunning images, GPTs Hub offers a wide range of tools to enhance your experience. Get ready to unlock the power of GPTs with GPTs Hub!
 
@@ -25,3 +26,5 @@ GPTs Hub is your go-to App for discovering and recommending the hottest GPTs (Ge
 4. **GPTs of Planning:** By using this command, the ChatGPT App will suggest GPTs related to planning.
 
 Note: The above commands are just examples, and the actual behavior of the ChatGPT App may vary based on its implementation and capabilities.
+
+

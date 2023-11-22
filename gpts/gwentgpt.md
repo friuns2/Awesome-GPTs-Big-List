@@ -1,6 +1,7 @@
+
 [![GwentGPT](https://files.oaiusercontent.com/file-9R397UGXX3Eq2RbQ1MfDNegi?se=2123-10-18T01%3A44%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db9f71e2d-c7d0-4c14-abb9-f0d9f9c8e74e.png&sig=a1r2hmWt4Vmj%2BXr2wHHkUyfYVGwcTEZjFak3GYoypyk%3D)](https://chat.openai.com/g/g-60feW1q5u-gwentgpt)
 
-# [GwentGPT](https://chat.openai.com/g/g-60feW1q5u-gwentgpt)
+# GwentGPT [ChatGPT Plus](https://chat.openai.com/g/g-60feW1q5u-gwentgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GwentGPT)
 
 GwentGPT is your ultimate guide to the popular card game Gwent. Whether you're a beginner or a seasoned player, this app provides valuable strategies, tips, and personalized advice to help you master the game. From understanding card abilities to improving your deck, GwentGPT has got you covered. With access to a wealth of knowledge, you can easily obtain answers to your burning questions. Get ready to level up your Gwent skills and start winning those matches! Welcome aboard!
 
@@ -25,3 +26,5 @@ GwentGPT is your ultimate guide to the popular card game Gwent. Whether you're a
 4. **Match Winning Tips:** Need some tips on winning Gwent matches? Use this command to get advice and strategies to improve your gameplay. Try asking "Tips for winning Gwent matches?" for valuable insights.
 
 Please note that GwentGPT is your guide for mastering the game of Gwent. It offers strategies, tips, and personalized advice to help you enhance your gameplay experience.
+
+

@@ -1,6 +1,7 @@
+
 [![Tweet Genius](https://files.oaiusercontent.com/file-fnjOrzQWONeC1lu89avsI8lx?se=2123-10-18T10%3A24%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dff6d8245-82a7-40ab-a6c9-4e737a266446.png&sig=Ry7FS2aR4OULUh96Vo6CLHAG/PoWHDCRdbkydaO7D58%3D)](https://chat.openai.com/g/g-DGCkrvWrk-tweet-genius)
 
-# [Tweet Genius](https://chat.openai.com/g/g-DGCkrvWrk-tweet-genius)
+# Tweet Genius [ChatGPT Plus](https://chat.openai.com/g/g-DGCkrvWrk-tweet-genius) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tweet%20Genius)
 
 Tweet Genius is an App that helps you craft engaging tweets from long texts. Simply provide a long text and the App will convert it into a tweet for you. You can even specify a desired style, such as humorous, informative, formal, or sarcastic. If you want to include hashtags, just let the App know. The App's user-friendly interface makes it easy to create catchy and attention-grabbing tweets. Whether you're a professional tweeter or just looking to enhance your social media presence, Tweet Genius is here to make your tweets shine!
 
@@ -35,3 +36,5 @@ Tweet Genius is an App that helps you craft engaging tweets from long texts. Sim
 5. **Hashtag Inclusion:** When hashtags are specified or detected within the long text, the app will include them in the tweet to improve discoverability and reach.
 
 **Note:** It's important to provide a long text as input for the tweet conversion process. The app will not function properly with short input phrases or single words.
+
+

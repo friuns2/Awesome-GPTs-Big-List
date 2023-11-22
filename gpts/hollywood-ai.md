@@ -1,6 +1,7 @@
+
 [![Hollywood AI](https://files.oaiusercontent.com/file-GORT3RP4emZJAAia7cNewvjt?se=2123-10-19T21%3A58%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D872d9e67-0742-486d-8f35-1c9f945b8abf.png&sig=1bGum3/Y1lN2qPTfCDkUhNVFAvMk1hFcNqiUlz40hAs%3D)](https://chat.openai.com/g/g-8MmsWLNJU-hollywood-ai)
 
-# [Hollywood AI](https://chat.openai.com/g/g-8MmsWLNJU-hollywood-ai)
+# Hollywood AI [ChatGPT Plus](https://chat.openai.com/g/g-8MmsWLNJU-hollywood-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Hollywood%20AI)
 
 Hollywood AI is a creative assistant specifically designed for the entertainment industry. It seamlessly integrates AI technology to enhance your creative process. Whether you need help with finding the perfect angle for a closer picture, making your script more engaging, suggesting innovative visual effects for a sci-fi scene, or utilizing classic film techniques to elevate your project, Hollywood AI has got you covered. Say goodbye to creative blocks and hello to endless inspiration and ideas. Get ready to explore the exciting possibilities of AI in your filmmaking journey!
 
@@ -23,3 +24,5 @@ Usage tip: Use the Browser Tool to search for "film lighting techniques" and gat
 2. **Dalle Tool:** This tool leverages the power of DALL-E, an AI model trained on a vast array of images, to generate unique and creative visuals. You can provide prompts or descriptions, and the Dalle Tool will generate corresponding images.
 
 Usage tip: Use the Dalle Tool to input a description like "futuristic cityscape at night" to get visually stunning images for your sci-fi project.
+
+

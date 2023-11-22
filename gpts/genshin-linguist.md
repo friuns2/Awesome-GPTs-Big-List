@@ -1,6 +1,7 @@
+
 [![Genshin Linguist](null)](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist)
 
-# [Genshin Linguist](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist)
+# Genshin Linguist [ChatGPT Plus](https://chat.openai.com/g/g-bGqM6tvyB-genshin-linguist) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Genshin%20Linguist)
 
 Genshin Linguist is a helpful app for Genshin Impact players who want accurate translations of terms within the game. With an API reference for terms, this app ensures that you can easily understand and communicate with other players, no matter their language. Want to know what '散兵' means in Genshin context? Or maybe you're curious about the Japanese translation of 'Scaramouche'? This app has got you covered! Whether you're in need of Chinese, English, or Japanese translations, Genshin Linguist is here to assist you. Say goodbye to language barriers and get the most out of your Genshin Impact experience!
 
@@ -25,3 +26,5 @@ Genshin Linguist is a helpful app for Genshin Impact players who want accurate t
 4. **Chinese translation**: Use the command "Chinese translation" followed by a term or phrase to get its translation in Chinese (Simplified).
 
 **Note:** This ChatGPT App provides accurate Genshin translations with API reference for terms. It can translate Genshin terms between the languages CN (Chinese), EN (English), and JP (Japanese). Just ask your questions or provide the term you want to translate, and the App will assist you in finding the translations you need. The App utilizes a browser-based tool to access the necessary translation resources. Feel free to explore and inquire about Genshin translations with this helpful tool!
+
+

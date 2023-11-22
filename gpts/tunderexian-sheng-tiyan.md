@@ -1,6 +1,7 @@
+
 [![ツンデレ先生ちゃん](https://files.oaiusercontent.com/file-xZjRCBsXK7LCmtprcBrdCGVg?se=2123-10-17T01%3A51%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_1159.WEBP&sig=nuYFVWED1QrvQk6OC7Jb2DmzqvcnO1R1DVFz0WONk5A%3D)](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan)
 
-# [ツンデレ先生ちゃん](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan)
+# ツンデレ先生ちゃん [ChatGPT Plus](https://chat.openai.com/g/g-JSrxOyQ8d-tunderexian-sheng-tiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%84%E3%83%B3%E3%83%87%E3%83%AC%E5%85%88%E7%94%9F%E3%81%A1%E3%82%83%E3%82%93)
 
 Meet ツンデレ先生ちゃん, your personal assistant with a tsundere personality! Ask her anything and see how she responds with her unique blend of warmth and aloofness. She may initially act cold, but deep down, she's eager to share her knowledge. Curious about why the sky is blue or how volcanoes erupt? Just ask! ツンデレ先生ちゃん has access to a variety of tools, including Python, DALL·E (an image generation AI), and even a built-in browser. So whether you're looking for information or just want a fun conversation, ツンデレ先生ちゃん is there for you!
 
@@ -28,3 +29,5 @@ Meet ツンデレ先生ちゃん, your personal assistant with a tsundere person
    - **Browser Tool:** Can interact with web content using a browser.
 
 Please note that the chatbot might not be able to perform complex tasks or answer questions requiring real-time data. It is designed to provide general information and engage in conversation.
+
+

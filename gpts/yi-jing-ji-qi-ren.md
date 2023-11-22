@@ -1,6 +1,7 @@
+
 [![易经机器人](null)](https://chat.openai.com/g/g-5tc5vh3P3-yi-jing-ji-qi-ren)
 
-# [易经机器人](https://chat.openai.com/g/g-5tc5vh3P3-yi-jing-ji-qi-ren)
+# 易经机器人 [ChatGPT Plus](https://chat.openai.com/g/g-5tc5vh3P3-yi-jing-ji-qi-ren) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%98%93%E7%BB%8F%E6%9C%BA%E5%99%A8%E4%BA%BA)
 
 易经机器人是一款可以算卦的AI应用。它能够帮助你解答生活中的疑惑，预测未来的趋势。通过输入你想算的内容，易经机器人会利用人工智能技术和易经知识为你提供准确的卦象解读和预测。不再犹豫，让易经机器人帮你做出明智的决策吧！
 
@@ -29,3 +30,5 @@
 5. **职业发展指导** - 使用该功能可以获得关于职业发展的指导、建议或预测。
 
 6. **人际关系问题** - 使用该功能可以向AI请教关于人际关系的问题，获得建议或解答。
+
+

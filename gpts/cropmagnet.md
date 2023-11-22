@@ -1,6 +1,7 @@
+
 [![CropMagnet](null)](https://chat.openai.com/g/g-w5jE3rhyt-cropmagnet)
 
-# [CropMagnet](https://chat.openai.com/g/g-w5jE3rhyt-cropmagnet)
+# CropMagnet [ChatGPT Plus](https://chat.openai.com/g/g-w5jE3rhyt-cropmagnet) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CropMagnet)
 
 CropMagnet is a precise Instagram post cropper specifically designed for iOS screenshots. With this app, you can easily crop out any unwanted UI elements from your Instagram screenshots, allowing you to focus on the Instagram post itself. It provides snap-to-edge functionality, making it quick and easy to achieve a precise crop. Simply share your Instagram screenshot with CropMagnet and get ready to create stunning, clean visuals for your iOS screenshots. Say goodbye to cluttered and distracting UI elements with CropMagnet!
 
@@ -27,3 +28,5 @@ CropMagnet is a precise Instagram post cropper specifically designed for iOS scr
 5. **Exclude UI Elements:** This command allows you to exclude specific UI elements from the screenshot. It helps in getting a clean crop without any clutter.
 
 Please note that the specific capabilities and commands provided by the app may vary based on the available tools and settings.
+
+

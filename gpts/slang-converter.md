@@ -1,6 +1,7 @@
+
 [![Slang Converter](https://files.oaiusercontent.com/file-iOiA9qFA75ZobhX0aIomktAp?se=2123-10-16T19%3A24%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da428cb40-850e-485f-86d9-e962d79f05c3.png&sig=3rAJMkb/pAk2N6Zw%2BAyalkng5Hp0uEkp73R4P8CEjoc%3D)](https://chat.openai.com/g/g-8MCBQFf9X-slang-converter)
 
-# [Slang Converter](https://chat.openai.com/g/g-8MCBQFf9X-slang-converter)
+# Slang Converter [ChatGPT Plus](https://chat.openai.com/g/g-8MCBQFf9X-slang-converter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Slang%20Converter)
 
 Slang Converter is the ultimate tool to add a cool twist to your text! With support for multiple languages, this app can convert your plain and boring text into hip slang. Whether you want to spice up your messages or have fun with your friends, Slang Converter has got you covered. Just type in your text and let the app do its magic. You can even use prompt starters like 'Slangify this' or 'Hit me with some slang' to get started. So, what are you waiting for? Let's slanguage!
 
@@ -26,3 +27,5 @@ Slang Converter is the ultimate tool to add a cool twist to your text! With supp
 3. **Convert text into slang:** You can use this command to convert a specific text into slang. Just provide the text you want to convert and ask the ChatGPT App to "convert this text into slang". For instance, "Can you convert this text into slang?"
 
 Note: The ChatGPT App is specifically designed for converting text into slang in various supported languages. Enjoy exploring the slang translations!
+
+

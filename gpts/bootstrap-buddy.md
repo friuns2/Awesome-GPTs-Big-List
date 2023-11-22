@@ -1,6 +1,7 @@
+
 [![Bootstrap Buddy](https://files.oaiusercontent.com/file-gASOzh4hDkIa9OfqNaUYEl2s?se=2123-10-17T14%3A25%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D779c40a5-4cb7-4b62-8ac7-5869aa8c99a3.png&sig=OppyoFECQPoSIYSEzxVUqUOatVjuDxwiNKPl%2Blkhjrg%3D)](https://chat.openai.com/g/g-n0qRrMoNC-bootstrap-buddy)
 
-# [Bootstrap Buddy](https://chat.openai.com/g/g-n0qRrMoNC-bootstrap-buddy)
+# Bootstrap Buddy [ChatGPT Plus](https://chat.openai.com/g/g-n0qRrMoNC-bootstrap-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Bootstrap%20Buddy)
 
 Bootstrap Buddy is an App that makes creating Bootstrap 5.3 websites or components a breeze. With this handy tool, you can design and build amazing web pages in just minutes. Whether you need a base web page for a music shop, a hero section component, or a clean design for your Bootstrap project, Bootstrap Buddy has got you covered. It even helps you create other sections like a contact me section or an accordion with multiple tabs. Trust us, this App will be your go-to companion for all your Bootstrap needs!
 
@@ -33,3 +34,5 @@ Bootstrap Buddy is an App that makes creating Bootstrap 5.3 websites or componen
 6. **Create a 'Features Section' with features:** This command allows you to generate a section on your website that highlights the key features or reasons why visitors should trust your website. You can specify the number of features you want to include, and the command will assist you in creating the necessary components.
 
 Note: This ChatGPT App has access to knowledge and can provide guidance and assistance in using Bootstrap 5.3.2 to create websites.
+
+

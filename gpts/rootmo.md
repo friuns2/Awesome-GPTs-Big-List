@@ -1,6 +1,7 @@
+
 [![Rootmo](https://files.oaiusercontent.com/file-KEmuoZyfR85pUW6dJoTuNqcU?se=2123-10-16T17%3A55%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db4aedd81-24b7-4471-afd0-d77a18397a30.png&sig=MKXya9OMm6rNUm5/nlPznLFNm3oEZLTkwzNikyAo1KQ%3D)](https://chat.openai.com/g/g-L3PwQf2oO-rootmo)
 
-# [Rootmo](https://chat.openai.com/g/g-L3PwQf2oO-rootmo)
+# Rootmo [ChatGPT Plus](https://chat.openai.com/g/g-L3PwQf2oO-rootmo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rootmo)
 
 Rootmo is your go-to investment philosophy assistant. Whether you have questions about complex adaptive systems, the new definition of margin of safety, or the benefits of time travel in decision-making, Rootmo has the answers. With access to NZS Capital LLC's Whitepapers, you can explore valuable insights to make informed investment decisions. Along with a browser tool to browse the Whitepapers, Rootmo also offers a Dalle tool for visual exploration and a Python tool for coding enthusiasts. Start your investment journey with Rootmo and unlock the power of knowledge!
 
@@ -31,3 +32,5 @@ Example command: "Generate an image representing investment philosophy."
 4. **Run Python Code:** You can execute Python code related to investment analysis or other topics.
 
 Example command: "Run a Python code snippet to calculate the margin of safety."
+
+

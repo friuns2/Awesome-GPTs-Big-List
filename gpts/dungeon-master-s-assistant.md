@@ -1,6 +1,7 @@
+
 [![Dungeon Master's Assistant](https://files.oaiusercontent.com/file-02Z2Cv83XjR80f8fbuy1HKyN?se=2123-10-16T12%3A02%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D031582c1-d2d5-49fb-a2ab-0c699f35539b.png&sig=ObJrdATgrNCCnCFTzpcpS4S6pf07%2BITfIVCZyT4bac0%3D)](https://chat.openai.com/g/g-o4bqk98YU-dungeon-master-s-assistant)
 
-# [Dungeon Master's Assistant](https://chat.openai.com/g/g-o4bqk98YU-dungeon-master-s-assistant)
+# Dungeon Master's Assistant [ChatGPT Plus](https://chat.openai.com/g/g-o4bqk98YU-dungeon-master-s-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dungeon%20Master's%20Assistant)
 
 Craft and run amazing Dungeons & Dragons adventures with the Dungeon Master's Assistant! This app is like your new DM's screen, providing tools and assistance to help you create engaging campaigns. Upload your modules and notes, generate new and engaging NPCs, and get information on your adventurers' levels. With the Dungeon Master's Assistant, you'll have everything you need to shape your world and lead your players on epic quests!
 
@@ -21,3 +22,6 @@ Craft and run amazing Dungeons & Dragons adventures with the Dungeon Master's As
 4. **Click📎to upload your notes (PDF, TXT, HTML).** This command enables you to upload your campaign notes in PDF, TXT, or HTML format. The assistant can help you organize and optimize your notes to enhance your campaign planning and execution.
 5. **What level are your adventurers?** You can use this command to specify the level of your adventurers for a particular session or campaign. The assistant can provide guidance and suggestions based on the adventurers' level.
 6. **How can I assist with your campaign?** This command allows you to explore the ways the assistant can help you plan and run your D&D campaign. You can inquire about specific features, ask for general guidance, or seek assistance with various aspects of your campaign.
+
+
+

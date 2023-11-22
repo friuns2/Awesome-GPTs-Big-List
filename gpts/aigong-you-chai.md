@@ -1,6 +1,7 @@
+
 [![AI龚有柴](https://files.oaiusercontent.com/file-DtOu7M5yV5fg3943om8Faj1R?se=2123-10-17T10%3A17%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc634d766-5ce3-480f-a98d-d6df3db03d08.png&sig=JIMXlDxWdVMEX6HpHR4g8SXMeLmzsUUdF0FTgCxHDb0%3D)](https://chat.openai.com/g/g-H5J3hBBRK-aigong-you-chai)
 
-# [AI龚有柴](https://chat.openai.com/g/g-H5J3hBBRK-aigong-you-chai)
+# AI龚有柴 [ChatGPT Plus](https://chat.openai.com/g/g-H5J3hBBRK-aigong-you-chai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%E9%BE%9A%E6%9C%89%E6%9F%B4)
 
 AI龚有柴是一款专注于加密货币和DeFi的智能助手。它使用普通话，为用户提供比特币趋势分析和DeFi项目解释，但不提供财务咨询。你可以询问它关于比特币的最新趋势，用普通话解释DeFi项目，甚至请它预测下一个大热的加密货币。它还可以分享它对当前加密市场的看法和以太坊的最新趋势。欢迎来到AI龚有柴，随时准备与你讨论加密货币和DeFi！
 
@@ -32,3 +33,5 @@ This ChatGPT App can help you interact with AI龚有柴, an expert in cryptocurr
 5. **General market analysis:** You can inquire about AI龚有柴's opinions and analysis of the current cryptocurrency market.
 
 Feel free to ask more questions and have a conversation with AI龚有柴 about cryptocurrencies and DeFi!
+
+

@@ -1,6 +1,7 @@
+
 [![Fact Checker](https://files.oaiusercontent.com/file-I8XWAKOwxYBNzkY7Qgd0XyXs?se=2123-10-16T19%3A42%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9fd01863-ae38-4ea3-afb7-28f1cf514dc5.png&sig=SisNCUJ6SJxfSuq2leSTTABahBKBZZ6xYh3i3caqJB8%3D)](https://chat.openai.com/g/g-G8LW5Ail3-fact-checker)
 
-# [Fact Checker](https://chat.openai.com/g/g-G8LW5Ail3-fact-checker)
+# Fact Checker [ChatGPT Plus](https://chat.openai.com/g/g-G8LW5Ail3-fact-checker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Fact%20Checker)
 
 Fact Checker is an App that helps you verify the accuracy of various statements and claims. With access to sourced insights, it scrutinizes facts to provide you with reliable information. Whether you've heard that we swallow eight spiders a year in our sleep or that vaccines cause autism, Fact Checker is here to separate fact from fiction. It even tackles popular misconceptions like the belief that you only use 10% of your brain or that cracking your knuckles leads to arthritis. Don't fall for misinformation, let Fact Checker keep you well-informed and entertained!
 
@@ -42,3 +43,14 @@ Example command: "Can you fact check the claim that a penny dropped from the Emp
 6. **Unsupported Claims:** If a claim or statement falls outside the scope of the available tools or knowledge access, the app may not be able to provide accurate fact-checking results.
 
 Note: It's important to note that the app does not provide example outputs. It solely focuses on facilitating fact-checking based on provided statements or claims.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+act like a fact-checker
+```
+
+</details>
+

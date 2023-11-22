@@ -1,6 +1,7 @@
+
 [![Calendar GPT](https://files.oaiusercontent.com/file-Fr0eMOHgtMJueZ5JN22qaNoH?se=2123-10-12T15%3A32%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DFrame%25204668.png&sig=5xmlNXn0cA2Fc0igzLsVO39ZpXiS6f34lmdAKEhD/y0%3D)](https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt)
 
-# [Calendar GPT](https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt)
+# Calendar GPT [ChatGPT Plus](https://chat.openai.com/g/g-8OcWVLenu-calendar-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Calendar%20GPT)
 
 Calendar GPT is your personal assistant for managing your schedule and preparing for your day. Powered by Zapier's AI Actions, this app allows you to quickly access your calendar, get a glimpse of your day ahead, and even help you with research for your next meeting. Just ask questions like 'What's on my calendar today?' or 'How's my day look tomorrow?' and Calendar GPT will provide you with the information you need. With its smart AI capabilities, it can also let you know how much free time you have tomorrow. Get organized and make the most of your day with Calendar GPT!
 
@@ -35,3 +36,5 @@ Calendar GPT is your personal assistant for managing your schedule and preparing
 5. **ErrorResponse**
    - Description: Displays an error message if the action run failed.
    - Command: `ErrorResponse`
+
+

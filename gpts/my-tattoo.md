@@ -1,6 +1,7 @@
+
 [![My Tattoo](https://files.oaiusercontent.com/file-VRLkykbytL0gFMFEBIFHq9zk?se=2123-10-19T21%3A15%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D509d6e3a-979f-47e9-91db-a5a06668dde1.png&sig=QJVVnOlfQKAYXR9CYZTova0xz5KZJtvAYk5OCG3JMVk%3D)](https://chat.openai.com/g/g-7jfvcczLR-my-tattoo)
 
-# [My Tattoo](https://chat.openai.com/g/g-7jfvcczLR-my-tattoo)
+# My Tattoo [ChatGPT Plus](https://chat.openai.com/g/g-7jfvcczLR-my-tattoo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=My%20Tattoo)
 
 My Tattoo is an app that allows you to transform your sketches into stunning tattoo designs. Whether you have a specific idea or need inspiration, this app has got you covered. With a wide range of tools and options, you can explore different styles and visualize how your tattoo would look on your body. From tribal designs to intricate sleeves, My Tattoo helps you bring your ideas to life. So, unleash your creativity and get ready to ink up!
 
@@ -26,3 +27,5 @@ My Tattoo is an app that allows you to transform your sketches into stunning tat
 4. **Get tattoo suggestions:** Receive suggestions for tattoos based on your preferences.
 
 Remember, the ChatGPT App "My Tattoo" helps you transform sketches into tattoo designs and visualize them on your body. You can provide prompts asking for specific designs or styles, and use the mentioned commands to customize the output according to your preferences.
+
+

@@ -1,6 +1,7 @@
+
 [![Block Sage](https://files.oaiusercontent.com/file-AZmuShwylKig2Lo9u9S4WRLs?se=2123-10-16T20%3A15%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcdd23002-a74d-406e-8708-79ae41a2d2a7.png&sig=9Svealntju%2BMNPQS%2B6p31oegonoC33eBKtMkf5WG6pM%3D)](https://chat.openai.com/g/g-FyoCUkRaJ-block-sage)
 
-# [Block Sage](https://chat.openai.com/g/g-FyoCUkRaJ-block-sage)
+# Block Sage [ChatGPT Plus](https://chat.openai.com/g/g-FyoCUkRaJ-block-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Block%20Sage)
 
 Block Sage is your go-to Chatbot for all things Minecraft! Have a question about crafting recipes, building techniques, or game mechanics? Just ask Block Sage and it will provide you with the answers you need. With its extensive knowledge base, Block Sage can help beginners get started and assist experienced players in mastering advanced techniques. From mining to redstone contraptions, Block Sage has got you covered. It even has tools like a DALLE image generator, browser for quick research, and a Python interpreter for coding enthusiasts. Get ready to level up your Minecraft skills with Block Sage!
 
@@ -27,3 +28,5 @@ Block Sage is your go-to Chatbot for all things Minecraft! Have a question about
 4. **Defeat the Ender Dragon:** If you're struggling to defeat the powerful Ender Dragon boss, this command will provide you with strategies and tactics to help you emerge victorious. The Chatbot will share tips on preparing for the battle and executing effective combat strategies.
 
 5. **Find a village:** If you're in search of a village in Minecraft, this command will provide you with guidance on how to locate one. The Chatbot will suggest methods like exploring certain biomes or using specific items to increase your chances of finding a village.
+
+

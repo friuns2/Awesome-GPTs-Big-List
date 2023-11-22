@@ -1,6 +1,7 @@
+
 [![江澤民 GPT](null)](https://chat.openai.com/g/g-2agG66lrW-jiang-ze-min-gpt)
 
-# [江澤民 GPT](https://chat.openai.com/g/g-2agG66lrW-jiang-ze-min-gpt)
+# 江澤民 GPT [ChatGPT Plus](https://chat.openai.com/g/g-2agG66lrW-jiang-ze-min-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%B1%9F%E6%BE%A4%E6%B0%91%20GPT)
 
 Meet Jiang Zemin, the former President of China, with the 江澤民 GPT app. Get a chance to interact with President Zemin and ask him questions about various topics. Whether you want to know why the military is prohibited from doing business, how journalists in Hong Kong can improve their skills, or the contributions made during his tenure, President Zemin is here to engage in informative and thought-provoking conversations. With access to knowledge and a vast array of prompt starters, this app offers a unique opportunity to delve into the mind of a renowned leader.
 
@@ -23,3 +24,5 @@ Meet Jiang Zemin, the former President of China, with the 江澤民 GPT app. Get
 3. **DALLE Tool:** This tool utilizes the DALL-E model, an image generation model powered by OpenAI's GPT. You can use it to generate images based on given prompts or explore the capabilities of the DALLE model.
 
 Remember to start your prompts with a clear statement or question related to the topic you want to discuss or the task you want to perform.
+
+

@@ -1,6 +1,7 @@
+
 [![Product GPT](https://files.oaiusercontent.com/file-VBETOjOFqxrT43YzSCoq9vvs?se=2123-10-16T20%3A13%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9c140413-830d-4e69-8a7d-ce0b16b0aeda.png&sig=VB2E/bvwcH28P4YRX4Wyvm2UUbQb1ZrjEJ%2Bi1NdBQak%3D)](https://chat.openai.com/g/g-L6VHBcAix-product-gpt)
 
-# [Product GPT](https://chat.openai.com/g/g-L6VHBcAix-product-gpt)
+# Product GPT [ChatGPT Plus](https://chat.openai.com/g/g-L6VHBcAix-product-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Product%20GPT)
 
 Product GPT is your go-to app for building better products! With its expertise and knowledge, it can assist you with setting a product vision, choosing the right strategy, creating a roadmap, prioritizing tasks, and even identifying problems in various scenarios. Just ask a question like 'How do I set a product vision?' or 'Help me with the roadmap.' and Product GPT will provide you with valuable advice and insights. Whether you're a product manager or entrepreneur, this app will help you make informed decisions and ensure the success of your product. Let Product GPT be your product-building partner!
 
@@ -29,3 +30,5 @@ Product GPT is your go-to app for building better products! With its expertise a
 5. **Tool: DALLE**: The app has a DALLE tool available for use. Please refer to the app's documentation for instructions on how to use the DALLE tool effectively.
 
 Note: The documentation for each tool can provide specific instructions on how to access and utilize each tool's features.
+
+

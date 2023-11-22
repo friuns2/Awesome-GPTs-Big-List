@@ -1,6 +1,7 @@
+
 [![Cold Case Cracker](https://files.oaiusercontent.com/file-GN5Lj0DJbmwcc5NXPYlhLb3B?se=2123-10-17T12%3A49%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dab662da9-e88e-4c6e-94ec-3ec281cfb05a.png&sig=MGVfQl2nu4Dn1IO09gnRzs5yiDleN5b4IRb3PYZ6n54%3D)](https://chat.openai.com/g/g-JMfYjTd1A-cold-case-cracker)
 
-# [Cold Case Cracker](https://chat.openai.com/g/g-JMfYjTd1A-cold-case-cracker)
+# Cold Case Cracker [ChatGPT Plus](https://chat.openai.com/g/g-JMfYjTd1A-cold-case-cracker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cold%20Case%20Cracker)
 
 Step into the shoes of a detective and solve cold cases with the Cold Case Cracker app. This interactive simulation game allows you to uncover hidden clues, interrogate suspects, and crack mysterious cases. Just type 'Start' to begin your investigation! With access to various tools like browsers, Python, and DALL·E, you can gather evidence, analyze data, and generate leads. So, put your detective skills to the test and let's uncover the truth together in this thrilling crime-solving adventure!
 
@@ -27,3 +28,5 @@ Step into the shoes of a detective and solve cold cases with the Cold Case Crack
 7. **Save progress:** If you need to take a break or want to continue the game at a later time, make sure to save your progress. You can do this by typing a command such as "Save progress" or "Save game".
 
 Remember, the primary goal of the game is to solve cold cases by gathering evidence, interrogating suspects, and utilizing the available tools. Good luck!
+
+

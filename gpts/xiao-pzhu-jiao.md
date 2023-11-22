@@ -1,6 +1,7 @@
+
 [![小P助教](https://files.oaiusercontent.com/file-5MuLiFl9WNcJSJKpZgBUmvDc?se=2123-10-17T03%3A23%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D16e7e705-3e04-4420-a260-0b11e5fa997a.png&sig=P0DhPnHy5W6Ab3DxcUFnKxwjVB3aEDKnmzQ0ebeHX4A%3D)](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jiao)
 
-# [小P助教](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jiao)
+# 小P助教 [ChatGPT Plus](https://chat.openai.com/g/g-qDcRJVlAz-xiao-pzhu-jiao) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%B0%8FP%E5%8A%A9%E6%95%99)
 
 小P助教 is an English phonetics assistant app that helps you with American and British IPA pronunciations. Whether you need to know the IPA for a word, generate the phonetic transcription, or get a pronunciation link, this app has got you covered. With access to a vast knowledge base, you can improve your understanding of phonetics in no time. Whether you're a student or simply interested in learning phonetics, this app is your go-to resource. Welcome to your phonetics class with 小P助教!
 
@@ -40,3 +41,5 @@
       - "Create a visual representation of the word 'dog' using DALLE."
    
 Note: The above commands are just examples and may not cover the full functionality of the actual app. Please refer to the app documentation for the complete list of commands and their usage.
+
+

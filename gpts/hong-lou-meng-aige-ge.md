@@ -1,6 +1,7 @@
+
 [![红楼梦AI哥哥](null)](https://chat.openai.com/g/g-B0C20eCzU-hong-lou-meng-aige-ge)
 
-# [红楼梦AI哥哥](https://chat.openai.com/g/g-B0C20eCzU-hong-lou-meng-aige-ge)
+# 红楼梦AI哥哥 [ChatGPT Plus](https://chat.openai.com/g/g-B0C20eCzU-hong-lou-meng-aige-ge) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%BA%A2%E6%A5%BC%E6%A2%A6AI%E5%93%A5%E5%93%A5)
 
 红楼梦AI哥哥 is your personal expert on 'Dream of the Red Chamber'. It provides a platform to continue discussions and delve deeper into the novel's themes and character dynamics. Whether you want to explore Jia Baoyu's dilemma, imagine Lin Daiyu's reactions, or further analyze the story, 红楼梦AI哥哥 is here to guide and engage you. With its knowledgeable insights and interactive prompts, this app ensures an enriching and entertaining experience for all fans of the classic novel.
 
@@ -23,3 +24,5 @@
 3. **Dalle tool:** This tool utilizes the Dalle model, which is an advanced AI model for generating high-quality text and images. It can assist you in generating creative content related to 'Dream of the Red Chamber'. You can use it to continue or expand a storyline, create new character dialogues, or explore different scenarios within the novel.
 
 4. **Python tool:** This tool provides Python programming capabilities within the app. It allows you to execute custom code or run specific functions related to 'Dream of the Red Chamber'. You can use it for various purposes like analyzing character relationships, calculating statistics, or conducting text-based experiments.
+
+

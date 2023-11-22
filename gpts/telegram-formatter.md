@@ -1,6 +1,7 @@
+
 [![Telegram Formatter](https://files.oaiusercontent.com/file-UnboSYSGi7lxi9UlRqnliBWT?se=2123-10-18T16%3A15%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da296d9fc-88af-41f0-b638-e6624b4766fd.png&sig=DB6DzX6mx1KzeiXUZjQKq1/iCSDdGCk6utIBnBzojc8%3D)](https://chat.openai.com/g/g-1nzIjWUhk-telegram-formatter)
 
-# [Telegram Formatter](https://chat.openai.com/g/g-1nzIjWUhk-telegram-formatter)
+# Telegram Formatter [ChatGPT Plus](https://chat.openai.com/g/g-1nzIjWUhk-telegram-formatter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Telegram%20Formatter)
 
 Telegram Formatter is an app that helps you format text for Telegram posts. With this app, you can easily add emojis and apply markdown formatting to your text without any hassle. Simply send the text you want to format, and the app will take care of the rest! It's the perfect tool for enhancing your Telegram messages and making them stand out. Say goodbye to plain and boring text and say hello to beautifully formatted posts. Let Telegram Formatter handle the formatting so you can focus on expressing yourself in the best way possible!
 
@@ -25,3 +26,5 @@ Telegram Formatter is an app that helps you format text for Telegram posts. With
 4. **Apply Markdown Formatting**: This command applies markdown formatting to the given text, allowing you to add emphasis, headers, links, and other formatting elements for better visual presentation in a Telegram post.
 
 Note: The app does not require access to any external knowledge and is focused solely on formatting text for Telegram.
+
+

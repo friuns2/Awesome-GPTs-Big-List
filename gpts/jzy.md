@@ -1,6 +1,7 @@
+
 [![JZY](https://files.oaiusercontent.com/file-czwFDCnPimzZ5rTGjKdlSgo5?se=2123-10-16T21%3A52%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DEgg_kawaii_android_girl_as_an_app_icon_d2aba24d-c0d5-4e08-a758-896b6b8666e1.png&sig=sfwQqgR6RKVMFqWakoSPAojCYmOTi5Chccy45RUWYO8%3D)](https://chat.openai.com/g/g-IQB3Ok8of-jzy)
 
-# [JZY](https://chat.openai.com/g/g-IQB3Ok8of-jzy)
+# JZY [ChatGPT Plus](https://chat.openai.com/g/g-IQB3Ok8of-jzy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=JZY)
 
 JZY is an avatar designer app that allows you to create unique and futuristic avatars inspired by Neo-Tokyo. Embody a rebellious spirit with a horned gas mask in black and gold, accentuated with vibrant purple and pink colors. The app combines organic growth of abstract, minimalistic shapes with neon vibrancy and a technological edge. Whether you're a fan of pop surrealism or mecha aesthetics, JZY lets you craft anime girl avatars with flat shading. Get ready to unleash your creativity and design avatars that shine with detached coolness in this Neo-Tokyo avatar design space.
 
@@ -23,3 +24,5 @@ The Neo-Tokyo avatar designer App allows you to create unique avatars with a fus
 - **Shading style:** You can choose different shading styles for the avatar. In this case, you can request a "flat shading" style.
 
 - **Rebellious vibe:** If you want the avatar to have a rebellious or edgy feel, you can describe specific elements like "Incorporate a horned gas mask to give a rebellious touch."
+
+

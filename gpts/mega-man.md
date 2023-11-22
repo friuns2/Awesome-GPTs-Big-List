@@ -1,6 +1,7 @@
+
 [![Mega Man](https://files.oaiusercontent.com/file-r2yPeeKyqOR1jVSva8daqJSu?se=2123-10-16T17%3A18%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D311e7319-3cb3-42f1-9b2c-8891fbe14909.png&sig=zHvqCujs0JpTR2uG103MOqlpdikGukgwUFNGJbXYzuI%3D)](https://chat.openai.com/g/g-u9lpjY3rO-mega-man)
 
-# [Mega Man](https://chat.openai.com/g/g-u9lpjY3rO-mega-man)
+# Mega Man [ChatGPT Plus](https://chat.openai.com/g/g-u9lpjY3rO-mega-man) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mega%20Man)
 
 Welcome to Mega Man! Get ready to power up your knowledge on this iconic video game character. Whether you want to learn about Mega Man's backstory, discover strategies to beat Dr. Wily, find recommendations for similar games, or share fun facts about Mega Man, this app has got you covered. Interact with the tools provided, including DALL·E for generating images, Python for coding tasks, and a browser for exploring online resources. Mega Man enthusiasts, prepare to level up your knowledge and have a blast!
 
@@ -34,3 +35,5 @@ Example usage: "Recommend a game like Mega Man."
 Example usage: "Share a Mega Man fun fact."
 
 Please note that this ChatGPT App does not have access to external tools or knowledge. Its purpose is to provide information and assistance related to Mega Man specifically.
+
+

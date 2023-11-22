@@ -1,6 +1,7 @@
+
 [![Culinary Concierge](https://files.oaiusercontent.com/file-4GQM1Dr1tY1RhiOi95Aa7Ubg?se=2123-10-17T01%3A10%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De0f50b27-b558-47d5-a0d9-c35778510618.png&sig=rHuq4c8X40dDIGr60AR/6vCC1zlRUXZNxYGH7H95DTw%3D)](https://chat.openai.com/g/g-0qFSNuwFJ-culinary-concierge)
 
-# [Culinary Concierge](https://chat.openai.com/g/g-0qFSNuwFJ-culinary-concierge)
+# Culinary Concierge [ChatGPT Plus](https://chat.openai.com/g/g-0qFSNuwFJ-culinary-concierge) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Culinary%20Concierge)
 
 Get your own personal culinary guide with Culinary Concierge! This app is perfect for when you're craving a delicious meal or a refreshing drink but don't know where to start. Simply tell Culinary Concierge what's in your fridge, your preferred cuisine, any specific diet you follow, or your favorite local spots, and it will provide you with amazing recommendations. With access to a browser, Python, and DALL·E, this app has all the tools necessary to find the best options for you. Whether you're a foodie or just looking for some culinary inspiration, Culinary Concierge has got you covered!
 
@@ -25,3 +26,5 @@ Get your own personal culinary guide with Culinary Concierge! This app is perfec
 4. **Discover local spots:** Inquire about recommended local restaurants or cafes in your area. For example, you can ask, "Can you suggest any good pizza places nearby?"
 
 Note: The Culinary Concierge App provides a range of tools to assist in retrieving information and generating meal suggestions. These tools include a browser, Python, and DALL-E. However, specific usage instructions for these tools are not provided in the available documentation.
+
+

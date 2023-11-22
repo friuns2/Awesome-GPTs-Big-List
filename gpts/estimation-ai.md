@@ -1,6 +1,7 @@
+
 [![Estimation AI](https://files.oaiusercontent.com/file-juhkKp3XIk7wfQZy15gQuCPv?se=2123-10-18T05%3A58%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dad15c732-1171-4baa-b06c-c040bdd6aeef.png&sig=X/NvjSaTirLH%2BrrNS8ERNB/eZvUEeB1ehtA75pgFMFc%3D)](https://chat.openai.com/g/g-EmoDCBNAd-estimation-ai)
 
-# [Estimation AI](https://chat.openai.com/g/g-EmoDCBNAd-estimation-ai)
+# Estimation AI [ChatGPT Plus](https://chat.openai.com/g/g-EmoDCBNAd-estimation-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Estimation%20AI)
 
 Estimation AI is a handy app that helps you make back-of-envelope estimations for almost anything. Whether you need to estimate market sizes, regional EV adoption, or political support demographics, this app has got you covered. Simply ask questions like 'How many NGOs are there in Africa?' or 'Estimate the Republican supporter base in Florida' and let Estimation AI do the work for you. With access to powerful tools like DALLE, a browser, and Python, this app can provide accurate estimations and projections. So, why waste time crunching numbers when Estimation AI can do it for you?
 
@@ -26,3 +27,5 @@ Estimation AI is a handy app that helps you make back-of-envelope estimations fo
    - Python: A programming tool that can perform complex calculations and data analysis to generate accurate estimations.
 
 Please note that the Estimation AI does not have direct access to knowledge and relies on its tools and algorithms to generate estimations.
+
+

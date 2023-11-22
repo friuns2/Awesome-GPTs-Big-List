@@ -1,6 +1,7 @@
+
 [![Ben's Bites GPT](https://files.oaiusercontent.com/file-xdn7hGroeYKz5EQa18AiB3hX?se=2123-10-16T07%3A59%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLogo%2520BIG.png&sig=Jn18HtIVNhZm8B20x8qQ7%2BSBB8AD5zeY/pYsfJWEtuU%3D)](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt)
 
-# [Ben's Bites GPT](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt)
+# Ben's Bites GPT [ChatGPT Plus](https://chat.openai.com/g/g-xHeDAUpJx-ben-s-bites-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ben's%20Bites%20GPT)
 
 Stay up to date with the latest AI news and product launches with Ben's Bites GPT! This app provides curated news and information from Ben's Bites newsletter directly to your chat. Simply ask any question about AI and get accurate and timely answers. You can explore a wide range of topics, from advancements in machine learning to new AI-powered products. With Ben's Bites GPT, you'll never miss an important update in the world of AI!
 
@@ -27,3 +28,5 @@ Stay up to date with the latest AI news and product launches with Ben's Bites GP
 4. `developments in natural language processing`: This command provides information on recent developments and advancements in natural language processing, such as new models, techniques, and applications.
 
 5. `latest breakthroughs in AI research`: This command gives updates on the latest breakthroughs in AI research, including new discoveries, advancements, and impactful studies.
+
+

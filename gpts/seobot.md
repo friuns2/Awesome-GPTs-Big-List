@@ -1,6 +1,7 @@
+
 [![SEObot](https://files.oaiusercontent.com/file-JAURp3qdmwm9FH7h3tQie4Tj?se=2123-10-18T10%3A21%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dseobot-fav.jpg&sig=akhXyjWeDRct4ChjWMbrNGNBCwyDdJr1sfWO1UbSCsg%3D)](https://chat.openai.com/g/g-BfmuJziwz-seobot)
 
-# [SEObot](https://chat.openai.com/g/g-BfmuJziwz-seobot)
+# SEObot [ChatGPT Plus](https://chat.openai.com/g/g-BfmuJziwz-seobot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SEObot)
 
 SEObot is a fully autonomous "SEO Robot" app with AI agents designed specifically for Busy Founders. It helps users manage their blogs, pages, and directories effortlessly. With SEObot, you can create blogs for your website, generate catchy headlines, write articles, create outlines, and even find images for your articles. SEObot's AI agents take care of all your SEO needs, saving you time and effort. It's like having a personal SEO assistant in your pocket! Get started by providing your website URL and email. SEObot is here to make SEO easy and fun!
 
@@ -28,3 +29,5 @@ SEObot is a fully autonomous "SEO Robot" app with AI agents designed specificall
 | `Picture for Article` | This command helps you find a suitable picture for your blog post. You can specify the topic or provide additional details for the desired image. |
 
 Note: The above commands are based on the assumption of the app's functionality. The actual commands may vary based on the implementation of the SEObot app.
+
+

@@ -1,6 +1,7 @@
+
 [![Gantt Chart GPT](https://files.oaiusercontent.com/file-jMLKJbC0GYKOo5sPxZNrndYe?se=2123-10-21T04%3A23%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgantt%2520chart%2520gpt.png&sig=JnTv/jcKBIenlIjz/QMhMXq6bXafrMi%2BGEMslwb7lbo%3D)](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt)
 
-# [Gantt Chart GPT](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt)
+# Gantt Chart GPT [ChatGPT Plus](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Gantt%20Chart%20GPT)
 
 Gantt Chart GPT is a project management assistant that can automatically generate an editable Gantt chart from various project files such as Word, Excel, PowerPoint, PDF, CSV, and more. With this app, you can easily visualize your project timeline, track progress, and manage tasks efficiently. Whether you're a project manager or a team member, Gantt Chart GPT makes project planning and organization a breeze. Say goodbye to manual chart creation and let this app do the work for you!
 
@@ -25,3 +26,5 @@ Gantt Chart GPT is a project management assistant that can automatically generat
 3. **Supported file formats:** The app supports a wide range of file formats, including Word, Excel, PowerPoint, PDF, and CSV. You can upload any of these file types to generate a Gantt chart.
 
 Please note that the app does not have access to external knowledge or provide specific instructions. It focuses on generating Gantt charts and providing assistance with their creation.
+
+

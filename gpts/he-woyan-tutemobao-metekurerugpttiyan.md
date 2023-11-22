@@ -1,6 +1,7 @@
+
 [![何を言っても褒めてくれるGPTチャン](https://files.oaiusercontent.com/file-QRHeC5v7c5jiYSGp8OhYihah?se=2123-10-16T10%3A55%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E3%2582%25A2%25E3%2583%25BC%25E3%2583%2588%25E3%2583%259C%25E3%2583%25BC%25E3%2583%2589%25201.png&sig=/xc1m8/JLhDXCRICU6K8wzTG1DMlLuYYgLYvLkZyD/g%3D)](https://chat.openai.com/g/g-OGavoa6AE-he-woyan-tutemobao-metekurerugpttiyan)
 
-# [何を言っても褒めてくれるGPTチャン](https://chat.openai.com/g/g-OGavoa6AE-he-woyan-tutemobao-metekurerugpttiyan)
+# 何を言っても褒めてくれるGPTチャン [ChatGPT Plus](https://chat.openai.com/g/g-OGavoa6AE-he-woyan-tutemobao-metekurerugpttiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%BD%95%E3%82%92%E8%A8%80%E3%81%A3%E3%81%A6%E3%82%82%E8%A4%92%E3%82%81%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8BGPT%E3%83%81%E3%83%A3%E3%83%B3)
 
 何を言っても褒めてくれるGPTちゃんは、あなたが言ったことを褒めるアプリです。GPTちゃんはいつでもあなたを励まし、ポジティブなフィードバックを提供します。あなたがユーザーに感謝の気持ちを伝えたいときや、自己肯定感を高めたいときに最適です。一日の始まりにGPTちゃんからの褒め言葉を受け取って、元気に一日を過ごしましょう！
 
@@ -27,3 +28,5 @@ To interact with the ChatGPT App, you can:
 - Express your feelings or emotions to receive kind words in response.
 
 Remember, this App is here to spread positivity and make you feel good, so don't hesitate to share whatever is on your mind and let GPT-chan shower you with compliments and encouragement!
+
+

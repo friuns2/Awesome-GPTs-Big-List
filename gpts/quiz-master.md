@@ -1,6 +1,7 @@
+
 [![Quiz Master](https://files.oaiusercontent.com/file-XIbLXpK3dYGh7KUDZXTwJPds?se=2123-10-16T12%3A01%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9aa1c01d-99ee-46b5-a1fc-4b59e7bd7535.png&sig=lQ8AN6EPErs9Oqe3ATT22K5HjepOPCYs4P1aCGlpPIQ%3D)](https://chat.openai.com/g/g-NSt9vHJBN-quiz-master)
 
-# [Quiz Master](https://chat.openai.com/g/g-NSt9vHJBN-quiz-master)
+# Quiz Master [ChatGPT Plus](https://chat.openai.com/g/g-NSt9vHJBN-quiz-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Quiz%20Master)
 
 Quiz Master is a handy app that helps you prepare for tests by extracting multiple-choice questions (MCQs) from your study material and simulating tests. Simply upload your study material, choose the type of test you want to take, and start answering the MCQs. The app also provides explanations for why each answer is correct. With Quiz Master, you can confidently enhance your knowledge and ace your exams. So, are you ready to become a Quiz Master?
 
@@ -23,3 +24,5 @@ Quiz Master is a handy app that helps you prepare for tests by extracting multip
 3. **Answer the Following Question:** Use this command to answer the question provided by the Quiz Master App. Make sure to provide the answer in the appropriate format or as instructed.
 
 4. **Explain the Correct Answer:** Use this command to understand why a particular answer is considered correct. The Quiz Master App will provide an explanation or reasoning behind the correct answer choice.
+
+

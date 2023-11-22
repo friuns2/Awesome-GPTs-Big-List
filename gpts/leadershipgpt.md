@@ -1,6 +1,7 @@
+
 [![LeadershipGPT](https://files.oaiusercontent.com/file-AEbZM5tGIGGtJjQ1EFGVH4Ax?se=2123-10-17T07%3A31%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfshr3500x3500.png&sig=gvJYuna38hAcH13bwA44IOSWqfutmU8jF1P5HFx1uUE%3D)](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgpt)
 
-# [LeadershipGPT](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgpt)
+# LeadershipGPT [ChatGPT Plus](https://chat.openai.com/g/g-eq0mIW4Mz-leadershipgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LeadershipGPT)
 
 LeadershipGPT is your go-to companion for all things leadership. Whether you're looking to self-reflect effectively, need feedback on managing a team, discuss a leadership challenge, or determine your next career step, LeadershipGPT has got you covered. With its insightful and practical guidance, this app will help unlock your leadership potential. So, let's embark on this journey together and discover the leader within you!
 
@@ -27,3 +28,5 @@ LeadershipGPT is your go-to companion for all things leadership. Whether you're 
 4. Career guidance: If you need advice or suggestions regarding your next career step, you can prompt with "What should my next career step be?"
 
 Remember, this ChatGPT app is designed to provide you with helpful responses and insights related to leadership. Feel free to ask questions, seek advice, or discuss any leadership-related topics. Enjoy exploring your leadership potential!
+
+

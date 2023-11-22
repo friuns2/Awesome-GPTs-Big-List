@@ -1,6 +1,7 @@
+
 [![Landing Page Roaster](https://files.oaiusercontent.com/file-gZT78tbJsBnXJ0nUWkTAYKK7?se=2123-10-18T00%3A56%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8a3d7e89-7e18-4abb-9500-0ed0df66ebfd.png&sig=qNZfMmSRSY6CjhxZfusEqTMsHiZNV6OxwqJQTfFt4K8%3D)](https://chat.openai.com/g/g-TEwruazUy-landing-page-roaster)
 
-# [Landing Page Roaster](https://chat.openai.com/g/g-TEwruazUy-landing-page-roaster)
+# Landing Page Roaster [ChatGPT Plus](https://chat.openai.com/g/g-TEwruazUy-landing-page-roaster) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Landing%20Page%20Roaster)
 
 Landing Page Roaster is a fun and helpful app that provides feedback on sales websites. With a touch of humor, it takes a lighthearted approach to reviewing pages and refining them for better sales performance. The app welcomes users with a friendly message and offers various prompt starters to engage with. Users can explore funny and factual feedback, all aimed at improving the effectiveness of their sales pages. The app utilizes browser tools and a DALL-E model to provide valuable insights and suggestions. Get ready to roast your sales page and enhance your website's conversion rates with Landing Page Roaster!
 
@@ -27,3 +28,5 @@ Landing Page Roaster is a fun and helpful app that provides feedback on sales we
 - `gzm_tool_dalle`: This tool leverages the DALL-E model, a neural network that generates creative and imaginative responses based on input prompts. It can be used to provide humorous feedback and suggestions for improvement.
 
 Please note that this ChatGPT App doesn't have access to knowledge and doesn't provide specific usage instructions beyond the available prompts and tools.
+
+

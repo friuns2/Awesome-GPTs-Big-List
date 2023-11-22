@@ -1,6 +1,7 @@
+
 [![Tweet Whiz](https://files.oaiusercontent.com/file-Ec5cdFHme9tiCd82kQBNgK9K?se=2123-10-14T00%3A12%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6c29a87a-9de4-4237-9bdc-6d312994bd9b.png&sig=mtXmj%2BWDIZhwsNwR2qV06rKBEpYt3wlkBb1iOgQ0jn8%3D)](https://chat.openai.com/g/g-OWsy46Zwm-tweet-whiz)
 
-# [Tweet Whiz](https://chat.openai.com/g/g-OWsy46Zwm-tweet-whiz)
+# Tweet Whiz [ChatGPT Plus](https://chat.openai.com/g/g-OWsy46Zwm-tweet-whiz) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tweet%20Whiz)
 
 Tweet Whiz is a fun and quirky app that helps you craft hilarious and nonsensical tweets! Whether you need a funny tweet about Mondays or a humorous sh*tpost about technology, this app has got you covered. With prompt starters like 'Generate a sh*tpost about coffee' and 'Create a nonsensical tweet involving a unicorn,' you'll never run out of ideas. Tweet Whiz welcomes you with open arms, ready to help you cook up some fun tweets! Get creative and make your followers crack up with this clever and entertaining app.
 
@@ -31,3 +32,5 @@ Tweet Whiz is a fun and quirky app that helps you craft hilarious and nonsensica
    Example: "Write a humorous sh*tpost about technology."
 
 Remember, the output will consist of generated tweet-like sh*tposts that are meant to be humorous and entertaining. Enjoy crafting fun tweets!
+
+

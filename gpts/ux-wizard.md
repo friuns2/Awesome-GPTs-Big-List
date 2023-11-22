@@ -1,6 +1,7 @@
+
 [![UX Wizard](https://files.oaiusercontent.com/file-UTuhZgKoq0UkARo4tulkglGh?se=2123-10-17T10%3A27%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D92efffd9-7df3-44ae-8725-028bfc062d43.png&sig=Yk3WyUlg5FtKIT3ytVVIBytn0eJasDPNnQwuhO470Cs%3D)](https://chat.openai.com/g/g-nmrcxB5Hd-ux-wizard)
 
-# [UX Wizard](https://chat.openai.com/g/g-nmrcxB5Hd-ux-wizard)
+# UX Wizard [ChatGPT Plus](https://chat.openai.com/g/g-nmrcxB5Hd-ux-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=UX%20Wizard)
 
 Enhance your UX design with UX Wizard! This app expertly applies UX laws to your designs, providing detailed and tailored feedback. Whether you attach UI screenshots or provide links, UX Wizard will analyze your designs and help you improve user experience. Discover how Fitts's Law, the Doherty Threshold, the Law of Proximity, and the Von Restorff Effect can enhance your design decisions. With UX Wizard, you'll have an interactive assistant that can answer all your UX design queries. Get ready to take your designs to the next level!
 
@@ -31,3 +32,5 @@ Here are the features and commands available in the UX Wizard app:
 5. **Analyze Design of an Image**: Analyzes and provides insights on the design of an image you attach. This feature helps you understand the visual elements and principles applied in the image.
 
 Please note that the UX Wizard app provides tailored feedback to your specific design queries and needs. You can attach UI screenshots or provide links for a more detailed analysis.
+
+

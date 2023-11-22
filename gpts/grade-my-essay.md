@@ -1,6 +1,7 @@
+
 [![Grade My Essay](https://files.oaiusercontent.com/file-vXbv9K8tIesHKbGykdC16KVS?se=2123-10-19T04%3A56%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D68c2695b-4478-4175-aa53-0aca97cee3d1.png&sig=2Ou5XXUlbZ/KT2bHj5xSgI08Gj/%2B7YVJ2YahRAkyT2I%3D)](https://chat.openai.com/g/g-tTySeN8Fi-grade-my-essay)
 
-# [Grade My Essay](https://chat.openai.com/g/g-tTySeN8Fi-grade-my-essay)
+# Grade My Essay [ChatGPT Plus](https://chat.openai.com/g/g-tTySeN8Fi-grade-my-essay) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Grade%20My%20Essay)
 
 Grade My Essay is an app designed to help students improve their essay writing skills. With the guidance of a teacher, users can upload their essays and prompt, and receive detailed feedback and tips on how to enhance their work. The app is suitable for students at various educational levels, from middle school to college. Whether you need assistance in formulating a strong thesis, improving your essay's argumentation, or enhancing its analysis, Grade My Essay provides specific suggestions to help you achieve better grades. Simply follow the prompts, submit your essay, and get ready to level up your writing!
 
@@ -25,3 +26,5 @@ Grade My Essay is an app designed to help students improve their essay writing s
 4. `Give specific suggestions to improve my essay's analysis.`: If you want specific recommendations to enhance the analysis in your essay, use this prompt. The app will offer detailed suggestions for improvement.
 
 Please note that this app also has access to knowledge and may provide additional assistance based on its capabilities.
+
+

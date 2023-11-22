@@ -1,6 +1,7 @@
+
 [![Survival Savvy](https://files.oaiusercontent.com/file-QqXaKZXpLd9E2AItoIDca54D?se=2123-10-17T15%3A43%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db1c496a2-c594-4642-afa6-4a9915f4a1cc.png&sig=yXzOE8FGcrTojIBXL%2BMHy%2Bc8mQR%2BnrhV2mp4UBOzJzY%3D)](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy)
 
-# [Survival Savvy](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy)
+# Survival Savvy [ChatGPT Plus](https://chat.openai.com/g/g-LSRyxhbiz-survival-savvy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Survival%20Savvy)
 
 Survival Savvy is your go-to expert for wilderness survival and navigation. Whether you need to find water, build a shelter, or learn survival tips in a forest, I've got you covered. Just ask me your questions and I'll provide you with the knowledge you need to stay safe and thrive in the great outdoors. I can even help you signal for help if you're in a bind. So, remember, when it comes to survival, don't worry, be savvy!
 
@@ -25,3 +26,5 @@ Survival Savvy is your go-to expert for wilderness survival and navigation. Whet
 4. **Signal for Help:** Learn techniques and methods for signaling for help in an emergency.
 
 Please note that the ChatGPT App "Survival Savvy" has access to relevant knowledge for wilderness survival and navigation, and can provide personalized guidance and recommendations based on your specific needs and situation.
+
+

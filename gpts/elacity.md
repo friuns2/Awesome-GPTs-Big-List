@@ -1,6 +1,7 @@
+
 [![Elacity](https://files.oaiusercontent.com/file-tQbt3jwQM7f4hqHvZEdffmpp?se=2123-10-17T04%3A50%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252011.49.44.png&sig=23bwYG0oHZjITa385gAVpyD/wuGKbkIR263jHdA5ld8%3D)](https://chat.openai.com/g/g-1rLvpsJx3-elacity)
 
-# [Elacity](https://chat.openai.com/g/g-1rLvpsJx3-elacity)
+# Elacity [ChatGPT Plus](https://chat.openai.com/g/g-1rLvpsJx3-elacity) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Elacity)
 
 Elacity is an App that serves as an Access Economy Protocol (AEP). With Elacity, you can easily access a wide range of resources and services, all in one place. Whether you need to share or sell your unused items, or looking for something specific to borrow or buy, Elacity connects you with others in the community who can help. It promotes a collaborative and sustainable way of living, allowing you to make the most out of idle resources and reduce waste. Join Elacity and be part of the access economy revolution!
 
@@ -29,3 +30,5 @@ Elacity is an App that serves as an Access Economy Protocol (AEP). With Elacity,
 5. **Team:** This command provides information about the Elacity team.
 
 Note: This ChatGPT App allows users to interact with Elacity and obtain information and explanations about various aspects of the Elacity Access Economy Protocol (AEP). The prompts listed above can be used to engage with the App and explore different topics related to Elacity.
+
+

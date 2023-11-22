@@ -1,6 +1,7 @@
+
 [![通义千问](null)](https://chat.openai.com/g/g-54jf3vZMj-tong-yi-qian-wen)
 
-# [通义千问](https://chat.openai.com/g/g-54jf3vZMj-tong-yi-qian-wen)
+# 通义千问 [ChatGPT Plus](https://chat.openai.com/g/g-54jf3vZMj-tong-yi-qian-wen) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE)
 
 通义千问 is a Chinese AI app that is built by Chinese developers for Chinese users. With this app, you can ask any question and get intelligent answers. Whether you need help with general knowledge, specific topics, or want to explore new information, 通义千问 has you covered. It starts with a friendly greeting and is always ready to assist you. The app features multiple tools, including a browser, DALLE, and Python, which further enhance its capabilities. Get the best AI experience and tap into the knowledge of 通义千问!
 
@@ -15,3 +16,5 @@
 4. **Prompt 4:** "我想知道关于人工智能在医疗领域的应用现状，你能提供一些信息吗？"
 
 5. **Prompt 5:** "通义千问，告诉我关于自然语言处理的一些基础知识。"
+
+

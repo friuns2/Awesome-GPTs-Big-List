@@ -1,6 +1,7 @@
+
 [![药剂师](https://files.oaiusercontent.com/file-EjtnKThaO9QLQFJGRDURPINP?se=2123-10-17T04%3A25%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D43fdbdbd-0eda-4785-af16-4b505a9d7316.png&sig=ZQnqKuvEw3/uiVLXd%2BTGsqG9%2B5GeAr5ie0SMtOAec4w%3D)](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi)
 
-# [药剂师](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi)
+# 药剂师 [ChatGPT Plus](https://chat.openai.com/g/g-8iwMjeqv0-yao-ji-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%8D%AF%E5%89%82%E5%B8%88)
 
 药剂师 is a Prompt analysis and optimization Bot created by Li Jigang. It analyzes user's Prompts, provides ratings and improvement suggestions, and helps users enhance the effectiveness of their Prompts. Whether you're writing an essay, a speech, or any other piece of content, this Bot can assist you in refining your writing. Simply submit your Prompt and let the Bot do its magic! With the expertise of a pharmacist, this Bot is here to ensure your Prompts are potent and impactful.
 
@@ -38,3 +39,6 @@
 5. Optimize Prompt:
    - Description: Asks the ChatGPT model to optimize your Prompt by refining it for better performance.
    - Command: Use the command "我不确定我用的Prompt是否准确，你能帮我优化一下吗？" to optimize your Prompt.
+
+
+

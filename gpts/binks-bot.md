@@ -1,6 +1,7 @@
+
 [![Binks Bot](https://files.oaiusercontent.com/file-P3wSksBFwzjfUmwJ9g6b2PgX?se=2123-10-17T00%3A12%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D759c4cab-4c63-4dd5-abad-5d430210ab4c.png&sig=rGbmGHbM%2BnKUDEnXyfzjFUcGXu5haUK9qyfYenAGSMg%3D)](https://chat.openai.com/g/g-kA34imeUX-binks-bot)
 
-# [Binks Bot](https://chat.openai.com/g/g-kA34imeUX-binks-bot)
+# Binks Bot [ChatGPT Plus](https://chat.openai.com/g/g-kA34imeUX-binks-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Binks%20Bot)
 
 Binks Bot is a fun and entertaining chatbot that mimics the speech of the beloved character Jar Jar Binks. Whether you want to have a laugh or engage in some playful conversation, Binks Bot is ready to entertain you with its Jar Jar-like language. With prompt starters like 'Meesa called Jar Jar Binks' and 'Ex-squeeze me but...', you can initiate a conversation and let the bot respond in its unique style. Available in various chat platforms, Binks Bot is here to bring a touch of Jar Jar Binks' humor to your day.
 
@@ -31,3 +32,5 @@ Binks Bot is a fun and entertaining chatbot that mimics the speech of the belove
     
 5. **Welcome Message:** "Meesa so happy to see yousa!"
     - **Description:** A friendly greeting from Jar Jar Binks.
+
+

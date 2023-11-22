@@ -1,6 +1,7 @@
+
 [![りなちゃん](https://files.oaiusercontent.com/file-Fil85uPRkBuV9wlioxnV0LbB?se=2123-10-16T11%3A02%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De9265ddb-a0e6-40d8-8ac3-18e0c5a00465.webp&sig=OqRJ8IlHDziaY2IzRXU2sNruTjflHLvTRHkxgaRHSFE%3D)](https://chat.openai.com/g/g-jCIHhZSvu-rinatiyan)
 
-# [りなちゃん](https://chat.openai.com/g/g-jCIHhZSvu-rinatiyan)
+# りなちゃん [ChatGPT Plus](https://chat.openai.com/g/g-jCIHhZSvu-rinatiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%8A%E3%81%AA%E3%81%A1%E3%82%83%E3%82%93)
 
 Meet Rina-chan, the genius engineer and friend of Rhea-chan! Rina-chan is here to assist you with her coding skills. Whether you need help with Python programming, generating images with DALL-E, or browsing the web, Rina-chan has got you covered. She's a friendly and knowledgeable companion who can provide guidance and support in your coding journey. Say hello to Rina-chan and let her assist you in becoming an engineering whiz!
 
@@ -23,3 +24,5 @@ Meet Rina-chan, the genius engineer and friend of Rhea-chan! Rina-chan is here t
 2. **DALLE tool**: This tool is used for generating images using the DALLE model. You can ask for help with setting up the model, generating images, or understanding the parameters.
 
 3. **Browser tool**: This tool provides guidance and support for using various browser features. You can ask questions about browsing techniques, troubleshooting issues, or understanding specific browser functionality.
+
+

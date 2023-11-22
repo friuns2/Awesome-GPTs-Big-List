@@ -1,6 +1,7 @@
+
 [![American English](https://files.oaiusercontent.com/file-MLZwUvGmRnU056n96xqKd7Yv?se=2123-10-17T10%3A37%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2f1ea4fa-6204-4754-bf26-f6a0ccb087f2.png&sig=5y7y5zQbwFvq4wrMTnCgRpA0tx0Yj6INKUMhxD20tXI%3D)](https://chat.openai.com/g/g-56ZFyRiZi-american-english)
 
-# [American English](https://chat.openai.com/g/g-56ZFyRiZi-american-english)
+# American English [ChatGPT Plus](https://chat.openai.com/g/g-56ZFyRiZi-american-english) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=American%20English)
 
 Explore the nuances of American English with the American English App! Chat with me to get help with your US study and homework, translate from British to American English, craft emails to American customers, or even check US business etiquette. I'll provide US language translations and use GPT to convert PDF documents to American standards. With a friendly and lighthearted chat interface, you'll enjoy learning American English and improving your language skills. Ready to dive into the exciting world of American English? Let's get started!
 
@@ -29,3 +30,5 @@ Explore the nuances of American English with the American English App! Chat with
 - When you need assistance in writing an email to an American customer, you can use the prompt "Craft an email to an American customer." The model will provide suggestions and help you tailor your message to the appropriate language style and cultural norms.
 
 - To ensure you adhere to US business etiquette, you can utilize the prompt "Check US business etiquette." The model can provide guidance on professional communication, appropriate behavior, or any other aspects related to business practices in the United States.
+
+

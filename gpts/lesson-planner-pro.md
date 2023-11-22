@@ -1,6 +1,7 @@
+
 [![Lesson Planner Pro](https://files.oaiusercontent.com/file-tfR7eeVpbv6dprOOAwMFfSfJ?se=2123-10-16T21%3A14%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D11627664-8afa-45f6-b9a0-012baa4c3e96.png&sig=MOggz9DlechNY20UeZTTcDs492uLE30Vvy64/EmjCnI%3D)](https://chat.openai.com/g/g-ZCVKAghF6-lesson-planner-pro)
 
-# [Lesson Planner Pro](https://chat.openai.com/g/g-ZCVKAghF6-lesson-planner-pro)
+# Lesson Planner Pro [ChatGPT Plus](https://chat.openai.com/g/g-ZCVKAghF6-lesson-planner-pro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lesson%20Planner%20Pro)
 
 Lesson Planner Pro is the ultimate assistant for primary school teachers. With this app, you can easily create detailed and engaging lesson plans tailored to your students' needs. Whether you're teaching about sea-based animals, mathematics for 6-year-olds, Roman history for 9-year-olds, or the Norman Conquest and the Battle of Hastings, Lesson Planner Pro has got you covered. The app provides handy prompt starters to inspire your lesson plan ideas. Plus, it offers tools like a browser for research, Python for coding activities, and Dalle for creating stunning visuals. Get ready to craft your best lesson plans yet!
 
@@ -29,3 +30,5 @@ Lesson Planner Pro is the ultimate assistant for primary school teachers. With t
 5. **Welcome message:** The app will greet you with a welcome message when you start interacting with it.
 
 Note: The app also has access to various tools such as a browser, Python, and DALL·E, but their specific usage is not mentioned in the provided information.
+
+

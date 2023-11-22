@@ -1,6 +1,7 @@
+
 [![AfterEffects Script Assistant](https://files.oaiusercontent.com/file-IUIskTKNi2THehAG5pe2ipBG?se=2123-10-19T01%3A12%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1ab626f1-9805-4dc9-ad90-dbc52164a392.png&sig=35RUH5QhyXNR%2B69dWnFGh6kuM%2B4sYDBMKXngEHJ4Ubo%3D)](https://chat.openai.com/g/g-jIBx779I5-aftereffects-script-assistant)
 
-# [AfterEffects Script Assistant](https://chat.openai.com/g/g-jIBx779I5-aftereffects-script-assistant)
+# AfterEffects Script Assistant [ChatGPT Plus](https://chat.openai.com/g/g-jIBx779I5-aftereffects-script-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AfterEffects%20Script%20Assistant)
 
 AfterEffects Script Assistant is a helpful app that assists users in AfterEffects scripting. Whether you need to create a specific animation script, learn about AfterEffects expressions, or generate a script for looping animations or text animations, this app has got you covered! With the guidance and support of the Script Assistant, you can easily navigate the world of AfterEffects scripting and enhance your animation projects. Say goodbye to manual scripting struggles and let this app simplify the process for you!
 
@@ -25,3 +26,5 @@ AfterEffects Script Assistant is a helpful app that assists users in AfterEffect
 4. **Generate Text Animation Script:** This command generates a script for text animation in AfterEffects. You can use prompt 4 as a starting point.
 
 Note: The AfterEffects Script Assistant does not have access to external knowledge or instructions. It is primarily designed to assist with scripting in AfterEffects.
+
+

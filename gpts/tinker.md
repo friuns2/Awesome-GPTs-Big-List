@@ -1,6 +1,7 @@
+
 [![Tinker](https://files.oaiusercontent.com/file-62LHpVdx5wj3GEXOwwoHsrRC?se=2123-10-18T16%3A14%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D15155288-dc12-43eb-ae76-6eaa71bb1f89.png&sig=vvi2Wjtlak9GwVsyCkUqf3cnwwdNYI7bRWnaxVLyEHg%3D)](https://chat.openai.com/g/g-33GsKq5K8-tinker)
 
-# [Tinker](https://chat.openai.com/g/g-33GsKq5K8-tinker)
+# Tinker [ChatGPT Plus](https://chat.openai.com/g/g-33GsKq5K8-tinker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tinker)
 
 Tinker is an App that helps you create detailed work briefs through cool, casual chats. It's like having a conversation with a creative colleague who asks you the right questions to gather all the necessary information. Just chat with Tinker and answer questions like 'Tell me about the project you're working on', 'What kind of output are you expecting?', or 'Any specific guidelines I should know about?' Tinker makes the process fun and engaging, ensuring that you provide all the necessary details for your project. With Tinker, creating a cool brief has never been easier!
 
@@ -31,3 +32,5 @@ Tinker is an App that helps you create detailed work briefs through cool, casual
 6. **Access web browsing capabilities:** The app provides a browser tool that can be used to access relevant web pages, resources, or references. This can be helpful for research or gathering additional information.
 
 Note: This app does not have access to knowledge and cannot provide technical details or specific instructions related to parameters or errors.
+
+

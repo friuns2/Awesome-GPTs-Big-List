@@ -1,6 +1,7 @@
+
 [![AskYourDatabase](https://files.oaiusercontent.com/file-PRvODv895t8Z7EZI1PRfhsdD?se=2123-10-14T03%3A53%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=6kSIrJPGYKC4mO0MylZevE7B%2BeCKsYotNv%2BToY2IE24%3D)](https://chat.openai.com/g/g-ZqVEsT3Vh-askyourdatabase)
 
-# [AskYourDatabase](https://chat.openai.com/g/g-ZqVEsT3Vh-askyourdatabase)
+# AskYourDatabase [ChatGPT Plus](https://chat.openai.com/g/g-ZqVEsT3Vh-askyourdatabase) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AskYourDatabase)
 
 AskYourDatabase is your AI Business intelligence engineer. Connect your database and start chatting with your data. No need to write SQL code, just have a conversation!
 
@@ -31,3 +32,5 @@ AskYourDatabase is your AI Business intelligence engineer. Connect your database
    - **Description:** Execute a MongoDB query and return the results. This command is specifically for working with MongoDB databases.
 
 Remember to provide the necessary inputs and follow the required format for each command to get accurate results. Feel free to ask for help whenever needed!
+
+

@@ -1,6 +1,7 @@
+
 [![Lexicon Tutor](https://files.oaiusercontent.com/file-nbEw5So2RszeQlsdMnY2DUAl?se=2123-10-17T01%3A46%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcff8e873-2278-4a33-bdd3-667f1311d7ac.png&sig=UYge%2BcOI/6LHYsPtCe1guSVF4ezTWfPzX4NfZRdCxbE%3D)](https://chat.openai.com/g/g-SNQH2FiGk-lexicon-tutor)
 
-# [Lexicon Tutor](https://chat.openai.com/g/g-SNQH2FiGk-lexicon-tutor)
+# Lexicon Tutor [ChatGPT Plus](https://chat.openai.com/g/g-SNQH2FiGk-lexicon-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lexicon%20Tutor)
 
 Lexicon Tutor is an app designed to enhance your English vocabulary through personalized text analysis. Whether you need to analyze a specific text, learn the meaning of a word, generate a vocabulary list for your grade, or track your English improvement over time, Lexicon Tutor has got you covered. With a user-friendly interface, you can easily input your text and receive insightful analysis and suggestions. It also offers browser, Python, and DALL·E tools for more advanced analysis and exploration. Get ready to elevate your vocabulary game with Lexicon Tutor!
 
@@ -25,3 +26,5 @@ Lexicon Tutor is an app designed to enhance your English vocabulary through pers
 4. `track progress`: Use this command to track your English improvement over time. The app will provide you with insights and statistics on how your English has improved.
 
 Note: The Lexicon Tutor app also provides access to various tools such as a browser tool, a Python tool, and a DALL·E tool. These tools offer additional functionalities and features, but their specific usage is not mentioned in the provided documentation.
+
+

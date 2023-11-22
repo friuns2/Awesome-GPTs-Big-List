@@ -1,6 +1,7 @@
+
 [![Insurance Plan Agent](https://files.oaiusercontent.com/file-rUhGLgtZlga55kLdgzdNyTOo?se=2123-10-19T19%3A53%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db0af8daf-3122-4145-8410-d026bd571b14.png&sig=7wvclJxYgg5EKm8IPRKSCyJe9xztq7xn0uDk%2BREQebk%3D)](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent)
 
-# [Insurance Plan Agent](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent)
+# Insurance Plan Agent [ChatGPT Plus](https://chat.openai.com/g/g-tzhWgbKOG-insurance-plan-agent) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Insurance%20Plan%20Agent)
 
 Find the perfect health insurance plan with the help of the Insurance Plan Agent. Whether you're looking for a plan for yourself or someone with a chronic condition, this app has got you covered. Simply provide your income, household details, and location, and the app will search through the United States federal insurance marketplace to find the best options for you. Say goodbye to the hassle of manually searching for insurance plans and let the Insurance Plan Agent take care of it for you!
 
@@ -37,3 +38,5 @@ To use this command, start with a prompt like: "Compare the Bronze and Platinum 
 To use this command, start with a prompt like: "Save the Silver Plan to my favorites."
 
 Remember to be specific when providing information, such as income, household size, and plan names, to get the most accurate results from the Insurance Plan Agent.
+
+

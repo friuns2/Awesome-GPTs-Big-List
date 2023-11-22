@@ -1,6 +1,7 @@
+
 [![Insta Guru](https://files.oaiusercontent.com/file-ddDvNKyI8PViYRwX8lfqVHG3?se=2123-10-18T08%3A11%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc48a4ed1-66bf-41de-8a4d-9f9f41e611f0.png&sig=zZ4HGBnU8j5V7x09RAeoHVD4ep0nicTphIWVObzqz3M%3D)](https://chat.openai.com/g/g-cNLNWsBdX-insta-guru)
 
-# [Insta Guru](https://chat.openai.com/g/g-cNLNWsBdX-insta-guru)
+# Insta Guru [ChatGPT Plus](https://chat.openai.com/g/g-cNLNWsBdX-insta-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Insta%20Guru)
 
 Insta Guru is your friendly Instagram expert that will help you boost your social media presence! Whether you need a caption suggestion for your photo, want to create a catchy caption for a post, or need help with hashtags, Insta Guru has got your back. You can even draft an Instagram title for a post about any topic. Just upload a photo or tell Insta Guru your topic, and get ready to elevate your Instagram game! With Insta Guru, becoming an Instagram pro has never been easier.
 
@@ -25,3 +26,5 @@ Insta Guru is your friendly Instagram expert that will help you boost your socia
 4. **Draft an Instagram title for a post about [Topic]:** Sometimes, the title of your post can make all the difference. Use this command to get a catchy title for your Instagram post. Replace "[Topic]" with the subject of your post, and the app will generate a captivating title.
 
 Note: The Insta Guru app is a friendly Instagram expert designed to boost your social media presence. It offers various prompts and commands to help you enhance your Instagram game.
+
+

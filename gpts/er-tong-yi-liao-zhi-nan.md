@@ -1,6 +1,7 @@
+
 [![儿童医疗指南](https://files.oaiusercontent.com/file-k5rn1hkiVXSoHlmt9XJAy7D6?se=2123-10-17T01%3A27%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D41da3744-c597-4d9c-8c09-81b79aec5f31.png&sig=irK3J/7kwBbXK3H3BkGXF4vVqQi07KaMqFTWC1tlHto%3D)](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan)
 
-# [儿童医疗指南](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan)
+# 儿童医疗指南 [ChatGPT Plus](https://chat.openai.com/g/g-3iEqr1JAO-er-tong-yi-liao-zhi-nan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%84%BF%E7%AB%A5%E5%8C%BB%E7%96%97%E6%8C%87%E5%8D%97)
 
 儿童医疗指南 is an app that provides a comprehensive guide for child healthcare. It offers valuable information and resources on various medical topics related to children. Whether you need advice on common illnesses, vaccinations, or first aid techniques, this app has got you covered. With easy access to knowledge and helpful tools, you can confidently navigate through the challenges of parenting and ensure the well-being of your little ones. Stay informed, prepared, and give your child the best care possible with 儿童医疗指南!
 
@@ -27,3 +28,5 @@
 4. **Recommended vaccines for children**: Use this command to get information on the recommended vaccines for children aged 1 to 5, including their benefits and schedule.
 
 5. **First aid for minor burns**: Use this command to learn the appropriate first aid measures for a minor burn in children, including steps to relieve pain and promote healing.
+
+

@@ -1,6 +1,7 @@
+
 [![AI Top Rank](https://files.oaiusercontent.com/file-i6l7nNj08m0t13Gpa2WsgBOU?se=2123-10-17T20%3A24%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo%2520copy%25202.png&sig=ceI5%2BVyLNWHRBCxlO3jDD8W0oKjloUbcWUCUQ%2BqiKk4%3D)](https://chat.openai.com/g/g-kLmnS6qoL-ai-top-rank)
 
-# [AI Top Rank](https://chat.openai.com/g/g-kLmnS6qoL-ai-top-rank)
+# AI Top Rank [ChatGPT Plus](https://chat.openai.com/g/g-kLmnS6qoL-ai-top-rank) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Top%20Rank)
 
 AI Top Rank is the ultimate destination for discovering the hottest AI products! Every week, you can explore a curated list of 15 trending AI products that have launched. Want to know which AI product has the most votes? Or maybe you're curious about the top 3 AI products right now? Just ask and AI Top Rank will provide you with the information you need. You can even request a random AI product that launched this week. Start your AI adventure with AI Top Rank!
 
@@ -17,3 +18,5 @@ AI Top Rank is the ultimate destination for discovering the hottest AI products!
 ## Features and commands
 
 1. `GetProducts`: This command retrieves a list of 15 AI products launched on AI Top Rank this week.
+
+

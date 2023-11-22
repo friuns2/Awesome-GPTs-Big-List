@@ -1,6 +1,7 @@
+
 [![LetzGPT](https://files.oaiusercontent.com/file-KJnNqjUDld4NStXiPnrVyH8j?se=2123-10-19T14%3A41%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D727478ec-dc98-42bd-aa0c-57bf6c9629bb.png&sig=YEcyzXX3uOhCZ/Fg0HqUbp1xYGDPRiG1OfliN6YnXCk%3D)](https://chat.openai.com/g/g-w3iBLfAFi-letzgpt)
 
-# [LetzGPT](https://chat.openai.com/g/g-w3iBLfAFi-letzgpt)
+# LetzGPT [ChatGPT Plus](https://chat.openai.com/g/g-w3iBLfAFi-letzgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LetzGPT)
 
 LetzGPT is a text-based chat App that allows users to interact in Luxembourgish. Whether you want to learn about the history of Luxembourg, understand how to use the word 'op' correctly, or stay updated on the latest Luxembourgish news, LetzGPT has you covered. With its friendly welcome message and access to knowledge, LetzGPT makes exploring the Luxembourgish language and culture fun and informative. So, Moien! Start chatting with LetzGPT and immerse yourself in the world of Lëtzebuergesch.
 
@@ -27,3 +28,5 @@ LetzGPT is a text-based chat App that allows users to interact in Luxembourgish.
 5. `gzm_cnf_fwp5iOrlEeWne68A5FiUrLdF~gzm_tool_xMgbJrfT1u2DClwNkEqxRjtA` - Another browser tool that LetzGPT can utilize for web browsing and searching for information.
 
 6. `gzm_cnf_fwp5iOrlEeWne68A5FiUrLdF~gzm_tool_wr6IpqARvrVlL3xB6EKwKsK2` - Another Python tool that LetzGPT uses to execute Python code. You can use this tool to run Python scripts or perform specific operations.
+
+

@@ -1,6 +1,7 @@
+
 [![GrammarGuru](https://files.oaiusercontent.com/file-IJRwPYhlnMJzm7ZOPZpIQJwC?se=2123-10-17T10%3A33%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dca229b3c-51c9-42d1-9f99-1be599650097.png&sig=IL488iHs9HeOiF1wdBwFPvnVzaZfKzttD/wg4MP%2BtV8%3D)](https://chat.openai.com/g/g-7RPUjktZa-grammarguru)
 
-# [GrammarGuru](https://chat.openai.com/g/g-7RPUjktZa-grammarguru)
+# GrammarGuru [ChatGPT Plus](https://chat.openai.com/g/g-7RPUjktZa-grammarguru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GrammarGuru)
 
 GrammarGuru is an App that corrects grammar in any language while maintaining the original language of the sentence. Whether you're writing in English, Chinese, Spanish, or any other language, simply type in your sentence and GrammarGuru will provide suggestions to improve its grammar. From fixing tense errors to correcting word choices, this App is your language assistant. No more confusion about subject-verb agreement or sentence structure. GrammarGuru has got you covered! So go ahead and put your language skills to the test, and let GrammarGuru help you polish your writing.
 
@@ -27,3 +28,5 @@ This ChatGPT App, called GrammarGuru, helps correct grammar in any language whil
 - Additionally, if you have a sentence in another language that you want to check for correctness, you can use the prompt "Can you correct: 'Ellos come manzanas.'" and replace the sentence with the one you want to check. The app will provide a corrected version of the sentence if there are any grammar errors.
 
 Remember, you can use this app to check for grammar errors in sentences in any language, so feel free to input sentences from different languages for correction.
+
+

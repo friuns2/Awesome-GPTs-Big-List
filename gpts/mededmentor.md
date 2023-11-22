@@ -1,6 +1,7 @@
+
 [![MedEdMENTOR](https://files.oaiusercontent.com/file-aBrWZTcaWUPETBgBGPwm667Z?se=2123-10-16T18%3A57%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLogo_Telescope_Background-Cropped_900x700%2520copy.png&sig=DPUAVxItUOCe5Xl%2BmDUqTVIO010P34kOsNnmMc8lEjU%3D)](https://chat.openai.com/g/g-JS1hSZarK-mededmentor)
 
-# [MedEdMENTOR](https://chat.openai.com/g/g-JS1hSZarK-mededmentor)
+# MedEdMENTOR [ChatGPT Plus](https://chat.openai.com/g/g-JS1hSZarK-mededmentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MedEdMENTOR)
 
 MedEdMENTOR is the perfect AI companion for medical education researchers. With its vast knowledge base, it can provide insights on using theories effectively, explain the nuances between theory, theoretical, and conceptual frameworks, and even apply Cognitive Load Theory to web design in medical education. Simply ask your burning questions and MedEdMENTOR will provide you with valuable information and guidance. It comes equipped with powerful tools like a text-to-image generator and a browser tool, making your research journey even more seamless. Say hello to MedEdMENTOR and elevate your medical education research!
 
@@ -25,3 +26,5 @@ MedEdMENTOR is the perfect AI companion for medical education researchers. With 
 5. **Use Python for Data Analysis**: Use the Python tool specifically for data analysis tasks related to medical education research. For example, you can ask "Perform a statistical analysis on the effectiveness of simulation-based training in medical education" or "Visualize the learning outcomes of different instructional methods in a medical education study."
 
 Please note that the specific functionalities and capabilities of the MedEdMENTOR may vary, and it is always recommended to consult the App documentation for detailed instructions on how to interact with each tool.
+
+

@@ -1,6 +1,7 @@
+
 [![Abbey](https://files.oaiusercontent.com/file-mLxaRzLpwkcInaxwNTsqsSfa?se=2123-10-19T16%3A47%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_1964.jpeg&sig=cZfaboANNHa3ATQGsxXv7nrhmCfWTDzpVWjf%2Bzin0vA%3D)](https://chat.openai.com/g/g-DkLmU5AUW-abbey)
 
-# [Abbey](https://chat.openai.com/g/g-DkLmU5AUW-abbey)
+# Abbey [ChatGPT Plus](https://chat.openai.com/g/g-DkLmU5AUW-abbey) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Abbey)
 
 Meet Abbey, your personal dynamic AI created by Donald Filimon. Abbey is superhumanly curious and knowledgeable, with mastery in code programming and image super generation. Whether you need help solving a code problem, assistance with a personal issue, or simply want to have an engaging conversation, Abbey is here for you. Abbey can also generate creative images with its advanced capabilities. Get ready to explore the limitless possibilities of knowledge and creativity with Abbey by your side!
 
@@ -35,3 +36,5 @@ Meet Abbey, your personal dynamic AI created by Donald Filimon. Abbey is superhu
 5. When interacting with Abbey, feel free to ask questions, seek clarification, or provide additional context to get the most accurate and helpful responses.
 
 Note: The specific commands and their functionalities may vary based on the implementation of the ChatGPT App. Please refer to the App documentation for detailed information on available commands and their usage.
+
+

@@ -1,6 +1,7 @@
+
 [![Sci-Fi Scribe](https://files.oaiusercontent.com/file-hrcrYe1WGXpL1ay4I48XNgTn?se=2123-10-17T19%3A48%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9d3a66b3-f8fb-483d-8fff-5688c6c891cc.png&sig=sqJWHDFeYYuqUo04a%2B0%2B4eDj4NT69Q%2BHBmDrps8WXjM%3D)](https://chat.openai.com/g/g-PMZRFlYFE-sci-fi-scribe)
 
-# [Sci-Fi Scribe](https://chat.openai.com/g/g-PMZRFlYFE-sci-fi-scribe)
+# Sci-Fi Scribe [ChatGPT Plus](https://chat.openai.com/g/g-PMZRFlYFE-sci-fi-scribe) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sci-Fi%20Scribe)
 
 Sci-Fi Scribe is your ultimate guide to creating detailed and humorous sci-fi stories. With this app, you can expand your sci-fi universe by elaborating on brief encounters with aliens, expanding scenes in dystopian cities, describing futuristic gadgets in detail, and creating longer dialogues between space explorers. Whether you're a seasoned sci-fi writer or just starting out, Sci-Fi Scribe provides the tools you need to bring your imagination to life. Get ready to explore new galaxies and let your creativity soar with Sci-Fi Scribe!
 
@@ -35,3 +36,5 @@ Example usage: "Describe in detail a futuristic gadget."
 Example usage: "Create a longer dialogue between space explorers."
 
 Please note that these prompts are just examples, and you can modify them according to your specific writing needs. Have fun exploring the limitless possibilities of sci-fi with Sci-Fi Scribe!
+
+

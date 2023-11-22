@@ -1,6 +1,7 @@
+
 [![NutriScan](https://files.oaiusercontent.com/file-NCmPPQNRc7Pf1Ds3uTwiXUvN?se=2123-10-17T12%3A38%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Defeb3dcd-5750-4f5e-8f5e-ea1803877cce.png&sig=kHJR3zYS4aqEIBl4UVTUJwoDUlWxx740e/6y/2fIhM8%3D)](https://chat.openai.com/g/g-wN05jegUf-nutriscan)
 
-# [NutriScan](https://chat.openai.com/g/g-wN05jegUf-nutriscan)
+# NutriScan [ChatGPT Plus](https://chat.openai.com/g/g-wN05jegUf-nutriscan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NutriScan)
 
 NutriScan is your nutrition expert, helping you estimate calories and providing dietary advice. With NutriScan, you can easily find out the nutritional value of any meal by showing it a food photo. Wondering how many calories are in that dish? NutriScan can give you an estimate. Want tips for a balanced diet? Just ask! It's like having a personal nutrition guide in your pocket. So whether you're trying to stay on track with your calorie intake or want to make healthier food choices, NutriScan has got you covered.
 
@@ -25,3 +26,5 @@ NutriScan is your nutrition expert, helping you estimate calories and providing 
 4. **Get tips for a balanced diet**: If you're looking for advice on maintaining a balanced diet, you can ask for tips or recommendations. For example, you can ask, "Can you give me tips for a balanced diet?"
 
 Please note that the specific commands and functionalities may vary based on the available tools and settings of the NutriScan app.
+
+

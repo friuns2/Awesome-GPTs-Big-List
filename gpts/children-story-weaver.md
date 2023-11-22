@@ -1,6 +1,7 @@
+
 [![Children Story Weaver](https://files.oaiusercontent.com/file-qT46rvD9ef11mN9ArzZcX6Lp?se=2123-10-20T18%3A37%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8ff1113b-ae2f-4c09-b825-bbcdcdb52a40.png&sig=DvXoEJhC2DQh8R6EpDTaR2vjS4CPzBSa/ADI%2BrL7vn8%3D)](https://chat.openai.com/g/g-ryt7TCXal-children-story-weaver)
 
-# [Children Story Weaver](https://chat.openai.com/g/g-ryt7TCXal-children-story-weaver)
+# Children Story Weaver [ChatGPT Plus](https://chat.openai.com/g/g-ryt7TCXal-children-story-weaver) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Children%20Story%20Weaver)
 
 Children Story Weaver is an app that allows you to create and illustrate children's books with valuable lessons. With a variety of prompt starters like writing a story about honesty or drawing a scene of sharing, you can let your creativity run wild. The app provides powerful tools such as DALL·E, an AI-powered image model, and a built-in browser for inspiration. Whether you're an aspiring author or a talented illustrator, Children Story Weaver is your go-to app for bringing engaging and educational stories to life. Get ready to embark on an exciting storytelling adventure!
 
@@ -27,3 +28,5 @@ Children Story Weaver is an app that allows you to create and illustrate childre
 4. **Tell a story:** Generate ideas and receive guidance on narrating a lesson-filled tale for children.
 
 5. **Draw a scene:** Seek help in sketching or creating illustrations for specific scenes or themes in a children's book.
+
+

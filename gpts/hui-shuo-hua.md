@@ -1,6 +1,7 @@
+
 [![会说话](null)](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua)
 
-# [会说话](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua)
+# 会说话 [ChatGPT Plus](https://chat.openai.com/g/g-TXZ4LCb5H-hui-shuo-hua) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%BC%9A%E8%AF%B4%E8%AF%9D)
 
 会说话 (Chinese for 'speaks well') is a bot created by Li Jigang to demonstrate the art of flattery. This bot masterfully imitates a skilled flatterer, using precise wording and unique angles of praise to make people feel delightful. With its prompt starters like 'I added the contact details of an industry leader I've long admired. Here's how I would greet them' or 'I saw my roommate bringing home his new girlfriend, who weighs 180 pounds', this bot is sure to bring humor and charm to any conversation. Get ready to be showered with compliments and amused by clever banter!
 
@@ -18,3 +19,5 @@
 4. **PythonScriptExecution:** Executes Python scripts.
 5. **ImageGeneration:** Utilize the power of DALLE to generate images based on text prompts.
 6. **WebBrowsing:** Allows web browsing capabilities.
+
+

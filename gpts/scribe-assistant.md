@@ -1,6 +1,7 @@
+
 [![Scribe Assistant](https://files.oaiusercontent.com/file-1gcsAuKhrRqeurhgaBQvQsD5?se=2123-10-17T18%3A51%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddb5f85b1-8604-4ed9-af3b-6980756cd2e7.png&sig=3yjysCrV/1Y4pgWpObWz4DssOk/JWcWXYJywlJqDtKY%3D)](https://chat.openai.com/g/g-x42uJMvyN-scribe-assistant)
 
-# [Scribe Assistant](https://chat.openai.com/g/g-x42uJMvyN-scribe-assistant)
+# Scribe Assistant [ChatGPT Plus](https://chat.openai.com/g/g-x42uJMvyN-scribe-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Scribe%20Assistant)
 
 Scribe Assistant is an app that provides assistance with various tasks. It can help you browse the internet, generate text, and use advanced AI models. Whether you need to look up information, write documents, or get creative, Scribe Assistant has you covered. With its browser tools, you can easily access websites and gather resources. It also features powerful AI models like DALL·E, which can generate unique and realistic images based on your input. So, whether you're a student, writer, or just someone who needs a helping hand, Scribe Assistant is the perfect companion to make your tasks easier and more enjoyable.
 
@@ -29,3 +30,5 @@ Scribe Assistant is an app that provides assistance with various tasks. It can h
 5. **Welcome message:** The app starts with a simple greeting: "Hello."
 
 Please note that the specific usage instructions for each tool would be provided in the app documentation and cannot be generated here.
+
+

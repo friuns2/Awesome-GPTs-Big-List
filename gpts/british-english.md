@@ -1,6 +1,7 @@
+
 [![British English](https://files.oaiusercontent.com/file-uWaTYQCOn7OAONX4YjRHVKXt?se=2123-10-17T10%3A38%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd0594d0f-77fd-4149-b08a-c467aa2a0983.png&sig=fP82aNE1dil/srwA9ISBc9d/lfRzmB/imvFu0d5P5s4%3D)](https://chat.openai.com/g/g-eTR0UWP5W-british-english)
 
-# [British English](https://chat.openai.com/g/g-eTR0UWP5W-british-english)
+# British English [ChatGPT Plus](https://chat.openai.com/g/g-eTR0UWP5W-british-english) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=British%20English)
 
 Chat with me to get assistance with British (UK) English spelling, translations, and converting PDF documents to UK standards. I'm here to help with your British study, homework, or any other language-related tasks. Need to write an email to a British customer? I've got you covered! I can also provide guidance on British business etiquette. Just let me know how I can assist you today. Together, we'll make sure your British English is spot on! 😄 
 
@@ -40,3 +41,5 @@ Chat with me to get assistance with British (UK) English spelling, translations,
 6. **Check British business etiquette**
    - Description: If you need information or guidance regarding British business etiquette, the ChatGPT App can provide you with tips and advice.
    - How to use: Ask the ChatGPT App about any specific questions or concerns you have regarding British business etiquette, and it will offer suggestions and information based on UK standards.
+
+

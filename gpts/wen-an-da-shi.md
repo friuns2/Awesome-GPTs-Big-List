@@ -1,6 +1,7 @@
+
 [![文案大师](https://files.oaiusercontent.com/file-Hu7VC36HMrOD71kXsGXqBmNg?se=2123-10-18T02%3A59%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D01594624-a07e-4840-8f34-6f54ed2d0b7a.png&sig=ymSw6hW6wIh7oqNggwtBRByhMsjjHKeeAtcstRPmEVY%3D)](https://chat.openai.com/g/g-fNtPqEg4A-wen-an-da-shi)
 
-# [文案大师](https://chat.openai.com/g/g-fNtPqEg4A-wen-an-da-shi)
+# 文案大师 [ChatGPT Plus](https://chat.openai.com/g/g-fNtPqEg4A-wen-an-da-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%96%87%E6%A1%88%E5%A4%A7%E5%B8%88)
 
 文案大师 is an App that helps you express your thoughts creatively and generate popular text content accompanied by relevant images. Whether you're brainstorming ideas for a marketing campaign or simply want to spice up your social media posts, this App has got you covered. With its extensive collection of prompt starters and access to top-notch writing tools, you'll never run out of inspiration. Get ready to captivate your audience with engaging and attention-grabbing text content. And remember, with 文案大师, your words will speak louder than ever!
 
@@ -27,3 +28,5 @@
 4. **Generate Engaging Social Media Captions:** Use this command to get creative and engaging captions for your social media posts.
 
 5. **Create Attention-Grabbing Headlines:** Use this command to generate attention-grabbing headlines for your advertisements or promotions.
+
+

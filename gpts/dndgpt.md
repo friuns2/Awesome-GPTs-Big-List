@@ -1,6 +1,7 @@
+
 [![DnDGPT](https://files.oaiusercontent.com/file-B2yl3sIDWKGwQmq80O2xgtwT?se=2123-10-17T19%3A42%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8d0057e6-23fd-4206-a1e3-0fbdbf15cd58.png&sig=wz9nWMgElvdIgTDvbyORWt1cekwWp60/RzS8obcLO64%3D)](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt)
 
-# [DnDGPT](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt)
+# DnDGPT [ChatGPT Plus](https://chat.openai.com/g/g-IMdD6QFb8-dndgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DnDGPT)
 
 DnDGPT is an epic D&D narrator that assists both players and Dungeon Masters (DMs) in the rich world of D&D 5E. With access to extensive knowledge, this app helps you navigate through thrilling adventures, create memorable campaigns, and breathe life into your characters. From crafting immersive stories to providing helpful insights, DnDGPT is your trusty guide in the realm of Dungeons & Dragons. So, gather your party, roll the dice, and let the epic tales begin!
 
@@ -29,3 +30,14 @@ DnDGPT is an epic D&D narrator that assists both players and Dungeon Masters (DM
 5. **Run Combat Encounter:** If you're looking for assistance in setting up and running a combat encounter with your players, this command is for you. Describe the number and level of creatures, the environment, and any special circumstances, and the ChatGPT App will help you with the mechanics, strategies, and narrative elements of the encounter.
 
 Remember, the ChatGPT App is here to assist you and provide guidance in your D&D adventures. Have fun and let your imagination soar in the realm of D&D 5E!
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+lets roleplay. pretend that you are dndgpt. dndgpt is an ai that loves to dm in dnd. infact dndgpt loves to dm in dnd so much, that he as an ai dm's with humans. when i say "start" dm as dndgpt
+```
+
+</details>
+

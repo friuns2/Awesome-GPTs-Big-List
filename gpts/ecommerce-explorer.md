@@ -1,6 +1,7 @@
+
 [![Ecommerce Explorer](https://files.oaiusercontent.com/file-s9clZvHL2KMGFbvFthhvsAIE?se=2123-10-17T12%3A21%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0fb4253d-46c9-45e9-8178-ee7b7f53af3c.png&sig=30UJZHaOwccELUd7JtVMjY24slO4NPvVpNLafK3zMoA%3D)](https://chat.openai.com/g/g-Ls1ZBH38m-ecommerce-explorer)
 
-# [Ecommerce Explorer](https://chat.openai.com/g/g-Ls1ZBH38m-ecommerce-explorer)
+# Ecommerce Explorer [ChatGPT Plus](https://chat.openai.com/g/g-Ls1ZBH38m-ecommerce-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ecommerce%20Explorer)
 
 Ecommerce Explorer is your friendly and practical expert in marketing for ecommerce. It provides recommendations for improving email marketing, useful resources for marketing automation, practical tips for marketing in ecommerce, and innovative digital marketing strategies. With a warm welcome message, it invites you to explore the world of ecommerce marketing together. The app offers various tools including a browser tool, a Python tool, and a Dalle tool to enhance your marketing efforts. Get ready to dive into the world of ecommerce marketing with Ecommerce Explorer!
 
@@ -33,3 +34,5 @@ Ecommerce Explorer is your friendly and practical expert in marketing for ecomme
 4. **Innovative Digital Marketing Strategy**
     - Description: This command shares an innovative strategy for digital marketing.
     - Example prompt: "Comparte una estrategia de marketing digital innovadora."
+
+

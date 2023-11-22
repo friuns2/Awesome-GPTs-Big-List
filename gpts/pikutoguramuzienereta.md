@@ -1,6 +1,7 @@
+
 [![ピクトグラム・ジェネレーター](https://files.oaiusercontent.com/file-M1UoAw9byQT35RRttPw5fF45?se=2123-10-18T04%3A24%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deea02121-2550-46de-8d9a-cbc3e95eab3a.png&sig=X0rpf8zID%2BpeD69JJaFpN4g9U6jAaUE2cj7oexkaH7U%3D)](https://chat.openai.com/g/g-dgxaOFzdv-pikutoguramuzienereta)
 
-# [ピクトグラム・ジェネレーター](https://chat.openai.com/g/g-dgxaOFzdv-pikutoguramuzienereta)
+# ピクトグラム・ジェネレーター [ChatGPT Plus](https://chat.openai.com/g/g-dgxaOFzdv-pikutoguramuzienereta) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%94%E3%82%AF%E3%83%88%E3%82%B0%E3%83%A9%E3%83%A0%E3%83%BB%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)
 
 Create your own unique pictograms with Pictogram Generator! This app allows you to design original pictograms for various purposes, such as illustrations for blogs, diagrams for presentations, or symbols representing teamwork. Let your creativity flow as you generate custom pictograms tailored to your needs. Get started with the easy-to-use tools provided, including a Dalle generator for artistic designs and a browser tool for extra resources. Express your ideas visually and make your content stand out with Pictogram Generator!
 
@@ -25,3 +26,5 @@ Create your own unique pictograms with Pictogram Generator! This app allows you 
 4. **Teamwork pictogram:** If you want to create a pictogram that represents teamwork, simply use a prompt like "I want to create a pictogram that represents teamwork, can you assist me?" to receive suggestions and ideas for teamwork-related pictograms.
 
 Please note that this is a general guide and the ChatGPT App may have additional features and commands not listed here. Refer to the App documentation for more information.
+
+

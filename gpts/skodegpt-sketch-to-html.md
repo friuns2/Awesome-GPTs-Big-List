@@ -1,6 +1,7 @@
+
 [![SkodeGPT - Sketch to HTML](https://files.oaiusercontent.com/file-S9dQ0VffQNvhWVc47cvmByHr?se=2123-10-17T01%3A23%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df3e13f61-b167-4517-adde-b9f2d6609345.png&sig=k3zfqYXP4VIduWyvElcMuHk/YTOb690CHSKIhVYq%2BDM%3D)](https://chat.openai.com/g/g-lyZm7Ef5l-skodegpt-sketch-to-html)
 
-# [SkodeGPT - Sketch to HTML](https://chat.openai.com/g/g-lyZm7Ef5l-skodegpt-sketch-to-html)
+# SkodeGPT - Sketch to HTML [ChatGPT Plus](https://chat.openai.com/g/g-lyZm7Ef5l-skodegpt-sketch-to-html) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SkodeGPT%20-%20Sketch%20to%20HTML)
 
 SkodeGPT is an amazing app that can convert any image into HTML code! Whether it's a sketch, a logo, or a design, simply upload the image and let SkodeGPT do the coding for you. With SkodeGPT, you can easily bring your visual ideas to life on the web without the need for manual coding. Say goodbye to the hassle of manually converting images into HTML code and let SkodeGPT handle it for you. It's like having a personal HTML coder at your fingertips!
 
@@ -28,3 +29,5 @@ SkodeGPT is an amazing app that can convert any image into HTML code! Whether it
 4. **Translate sketch into HTML code**: Use this command to convert a sketch or image of a webpage design into HTML code.
 
 5. **Help with coding sketch into HTML**: Instruct the app to assist in converting a sketch or image of a webpage design into HTML code.
+
+

@@ -1,6 +1,7 @@
+
 [![Patent Pro](https://files.oaiusercontent.com/file-XiuVOnkdnFyeP7L9o5Vsve7c?se=2123-10-17T19%3A01%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dpatent%2520pro.png&sig=w5RRv5kBxWV3z30v4/Z9gkiKigj1k4Es8x2Hkgc2NYM%3D)](https://chat.openai.com/g/g-m61KgofCL-patent-pro)
 
-# [Patent Pro](https://chat.openai.com/g/g-m61KgofCL-patent-pro)
+# Patent Pro [ChatGPT Plus](https://chat.openai.com/g/g-m61KgofCL-patent-pro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Patent%20Pro)
 
 Patent Pro is an App that simplifies the patent and trademark application process. Whether you need assistance with drafting, filing, or conducting a patent search, this App has got you covered. With its helpful guidance, you can easily navigate the complexities of patent and trademark applications. Just describe your invention in detail or ask about conducting a patent search, and Patent Pro will provide you with the necessary tools and information. Say goodbye to confusion and hello to a smoother patent and trademark application process with Patent Pro!
 
@@ -25,3 +26,5 @@ Patent Pro is an App that simplifies the patent and trademark application proces
 4. **Navigating the patent filing process:** This command provides step-by-step guidance on navigating the patent filing process. It can help you understand the necessary documentation, deadlines, and requirements for filing a patent application.
 
 Please note that the Patent Pro app does not have access to external knowledge and it provides tools such as the DALL·E image generation tool, Python code execution, and a browser tool to assist with patent and trademark applications. However, specific instructions on using these tools are not provided in the documentation.
+
+

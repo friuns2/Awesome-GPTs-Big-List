@@ -1,6 +1,7 @@
+
 [![感覚統合の質問はこちら](https://files.oaiusercontent.com/file-IdoUiCaqYhE0nhWphXYr8uIv?se=2123-10-17T12%3A44%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd2fd63c5-2ff7-47c8-b427-5d1795199944.png&sig=gCyVw2x9pTrmECZDS9W41UMZA2ZZwDObtPyLW6%2B%2BMlg%3D)](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira)
 
-# [感覚統合の質問はこちら](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira)
+# 感覚統合の質問はこちら [ChatGPT Plus](https://chat.openai.com/g/g-44dj7drB5-gan-jue-tong-he-nozhi-wen-hakotira) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%84%9F%E8%A6%9A%E7%B5%B1%E5%90%88%E3%81%AE%E8%B3%AA%E5%95%8F%E3%81%AF%E3%81%93%E3%81%A1%E3%82%89)
 
 Get expert advice on sensory integration, a friendly and professional App that can answer all your questions. Whether you want to know the benefits of sensory play for your child, understand the signs of sensory processing disorder, create a sensory-friendly space, or learn about sensory integration therapies for different disabilities, this App has you covered. With tools like a text-based model, a web browser, and a Python interpreter, you'll have access to all the information you need. Say goodbye to confusion and hello to clarity with this sensory integration advisor!
 
@@ -25,3 +26,5 @@ Get expert advice on sensory integration, a friendly and professional App that c
 4. **Creating a Sensory-Friendly Space:** If you need guidance in creating a sensory-friendly space at home, you can ask for assistance. For example, you could ask "Can you guide me through the process of creating a sensory-friendly space at home?"
 
 5. **Sensory Integration Therapies:** If you're interested in understanding how sensory integration therapies differ for children with different disabilities, you can request information. For example, you could ask "How do sensory integration therapies differ for children with different disabilities?"
+
+

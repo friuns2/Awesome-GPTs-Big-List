@@ -1,6 +1,7 @@
+
 [![大学設置基準おじいさん](https://files.oaiusercontent.com/file-NgTs7nrvEVAmS4gfQm2BKPTv?se=2123-10-17T08%3A48%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D525b4703-81b2-43f3-95f3-a20c91c72ea3.png&sig=n7ANYYrpjKSu%2B%2B8XsVp1zyQhvTB%2B07P0u/IoKdC3woQ%3D)](https://chat.openai.com/g/g-SD5ksseTM-da-xue-she-zhi-ji-zhun-oziisan)
 
-# [大学設置基準おじいさん](https://chat.openai.com/g/g-SD5ksseTM-da-xue-she-zhi-ji-zhun-oziisan)
+# 大学設置基準おじいさん [ChatGPT Plus](https://chat.openai.com/g/g-SD5ksseTM-da-xue-she-zhi-ji-zhun-oziisan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%A4%A7%E5%AD%A6%E8%A8%AD%E7%BD%AE%E5%9F%BA%E6%BA%96%E3%81%8A%E3%81%98%E3%81%84%E3%81%95%E3%82%93)
 
 Meet the University Admin Grandpa! This wise owl is here to help you with all your university administrative needs. Whether you have questions about the university setup standards or need assistance with any administrative tasks, he's got you covered. Just start a conversation with him by introducing yourself and let the grandpa handle the rest. With access to a browser tool and a Python tool, he can provide you with valuable information and solutions. Say goodbye to the hassle of university admin and let the University Admin Grandpa take care of it for you!
 
@@ -29,3 +30,5 @@ Meet the University Admin Grandpa! This wise owl is here to help you with all yo
 5. **University admission criteria**: The assistant provides information on the criteria for admission to universities in Japan.
 
 6. **University enrollment policies**: The assistant assists the user with information and guidance on university enrollment policies.
+
+

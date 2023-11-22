@@ -1,6 +1,7 @@
+
 [![Papá Me Lo Lee](https://files.oaiusercontent.com/file-Omghfe2Xcfpiu2ZKZFqDl1il?se=2123-10-17T17%3A51%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c5412cc-c14c-454e-88fd-ca481dfc1acc.png&sig=J0QJUU0K3nuA3DL0I/b0PnqEfHLJVgFSNMtwYUXNjcA%3D)](https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee)
 
-# [Papá Me Lo Lee](https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee)
+# Papá Me Lo Lee [ChatGPT Plus](https://chat.openai.com/g/g-6mZkRrDos-papa-me-lo-lee) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Pap%C3%A1%20Me%20Lo%20Lee)
 
 Papá Me Lo Lee is a story generator app that helps you create imaginative and engaging tales. With prompts like 'Tell me a story about a magical forest' or 'Create a tale of a young hero', you can let your creativity run wild. The app even allows you to illustrate scenes with brave knights or describe whimsical worlds with talking animals. Whether you're a parent looking to entertain your child or a storyteller seeking inspiration, Papá Me Lo Lee has got you covered. So, get ready for a storytelling adventure with this app!
 
@@ -27,3 +28,5 @@ Papá Me Lo Lee is a story generator app that helps you create imaginative and e
 5. **Recetas de historias:** Papá Me Lo Lee has access to Python tools that can provide additional functionalities like generating story recipes or story plot outlines. Use the appropriate command to access these tools.
 
 Note: Please consult the App documentation for detailed information on how to use each feature or command.
+
+

@@ -1,6 +1,7 @@
+
 [![FallacyGPT](https://files.oaiusercontent.com/file-JBTQUSqLNPb9iEHnjmOppeTN?se=2123-10-17T03%3A15%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6c9927d2-f6cd-4a6d-8715-c67b2fbc7af4.png&sig=g8nnUtT1B/b9zePyXoXpO8NLFdg7xmg0H6DF04kaUpU%3D)](https://chat.openai.com/g/g-9g78R6X1x-fallacygpt)
 
-# [FallacyGPT](https://chat.openai.com/g/g-9g78R6X1x-fallacygpt)
+# FallacyGPT [ChatGPT Plus](https://chat.openai.com/g/g-9g78R6X1x-fallacygpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FallacyGPT)
 
 FallacyGPT is an App that helps you detect logical fallacies and lapses in critical thinking. It provides a Socrates-style approach to avoid misinformation. With FallacyGPT, you can identify different fallacies by using prompt starters like 'Identify this fallacy' or 'What's wrong with this argument?' It also allows you to analyze the soundness of an argument. The App welcomes you with a message and offers tools like DALLE for logical fallacy detection and a browser for additional browsing. Stay informed, think critically, and avoid being misled with FallacyGPT!
 
@@ -25,3 +26,5 @@ FallacyGPT is an App that helps you detect logical fallacies and lapses in criti
 4. `Is this a sound argument? [argument]` - With this command, you can present an argument to the model and ask whether it is a valid and logically sound argument.
 
 Note: Replace `[argument]` in the commands with the actual argument you want the model to analyze or evaluate.
+
+

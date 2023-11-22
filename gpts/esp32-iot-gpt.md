@@ -1,6 +1,7 @@
+
 [![ESP32 IoT GPT](https://files.oaiusercontent.com/file-MjQmD88EVw3aNF2I7HQ0Hkyj?se=2123-10-16T20%3A52%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DyB0xE3NR_400x400.jpg&sig=NtSrKklJfRcWyluuZttEl97XIrVwb1AvaPSfMZfY2tU%3D)](https://chat.openai.com/g/g-mZV5yksrt-esp32-iot-gpt)
 
-# [ESP32 IoT GPT](https://chat.openai.com/g/g-mZV5yksrt-esp32-iot-gpt)
+# ESP32 IoT GPT [ChatGPT Plus](https://chat.openai.com/g/g-mZV5yksrt-esp32-iot-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ESP32%20IoT%20GPT)
 
 Discover the versatile capabilities of the ESP32 IoT GPT App. This App is the go-to board for IoT innovations, allowing you to easily create IoT applications using its Wi-Fi and BLE functionalities. With the ESP32 IoT GPT App, you can start coding simple ESP32 projects at the Arduino Framework, make HTTP clients, and create GPIO and MQTT client examples. Whether you're a beginner or an experienced developer, this App provides a seamless and intuitive experience for exploring the potential of the ESP32 board. Get ready to unleash your creativity and bring your IoT ideas to life!
 
@@ -26,3 +27,5 @@ Discover the versatile capabilities of the ESP32 IoT GPT App. This App is the go
 4. **Make GPIO and MQTT Client Example ESP32:** This command assists you in developing an example project that combines the usage of the ESP32 board's GPIO pins with an MQTT client functionality. It provides code examples and instructions on how to control GPIO pins and communicate with an MQTT broker using the ESP32 board.
 
 Note: Please refer to the App documentation for detailed instructions and code snippets for each command.
+
+

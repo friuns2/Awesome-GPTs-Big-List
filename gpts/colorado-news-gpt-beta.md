@@ -1,6 +1,7 @@
+
 [![Colorado News GPT (Beta)](https://files.oaiusercontent.com/file-pC2HZcW7AiZRvQ5T2vtRHfFX?se=2123-10-17T23%3A23%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dde30823b-4d44-4b7d-8c4a-a7e5770b9371.png&sig=eNG8WEiC/4OCUUND/IH6cwW9tEJkS66pBFeavw/9WWI%3D)](https://chat.openai.com/g/g-k5JdSat0c-colorado-news-gpt-beta)
 
-# [Colorado News GPT (Beta)](https://chat.openai.com/g/g-k5JdSat0c-colorado-news-gpt-beta)
+# Colorado News GPT (Beta) [ChatGPT Plus](https://chat.openai.com/g/g-k5JdSat0c-colorado-news-gpt-beta) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Colorado%20News%20GPT%20(Beta))
 
 Stay up to date with the latest news in Colorado with the Colorado News GPT (Beta) app. Get unbiased news from Denver Metro, S. Colorado, and Western Slope. Discover top stories and stay informed about culture and arts events happening this weekend. With the app, you can explore a variety of news articles and stay connected to what's happening in Colorado. Whether you're a resident or a visitor, this app is a must-have for anyone interested in Colorado news.
 
@@ -25,3 +26,5 @@ Stay up to date with the latest news in Colorado with the Colorado News GPT (Bet
     - Usage: To find out what's happening this weekend in culture and arts, ask a question like "What's happening this weekend in culture and arts?"
 
 Please refer to the App documentation for further details and information.
+
+

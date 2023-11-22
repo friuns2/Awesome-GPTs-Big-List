@@ -1,6 +1,7 @@
+
 [![PodGPT](https://files.oaiusercontent.com/file-qBwuMyLd2ss419bO4PImEWHs?se=2123-10-20T05%3A58%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dapp-icon.png&sig=kaSvr0tvmkiJvMnyCq8Vn0/ynJiEa3O0Ps4o0XD3HGw%3D)](https://chat.openai.com/g/g-XGYO3mnRt-podgpt)
 
-# [PodGPT](https://chat.openai.com/g/g-XGYO3mnRt-podgpt)
+# PodGPT [ChatGPT Plus](https://chat.openai.com/g/g-XGYO3mnRt-podgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PodGPT)
 
 PodGPT is an interactive chat app that helps you summarize or ask questions about any podcast episode. Simply paste the URL of the episode you want to analyze, and PodGPT will provide you with a transcript of the podcast. Whether you want to quickly catch up on a podcast or dive deep into its content, PodGPT streamlines the process and saves you time. Say goodbye to endless scrolling and start getting the most out of your favorite podcasts with PodGPT!
 
@@ -37,3 +38,5 @@ PodGPT is an interactive chat app that helps you summarize or ask questions abou
 5. `insights`: Use this command followed by the URL of a podcast episode to get insights about it.
     
     Example: `insights [podcast episode URL]`
+
+

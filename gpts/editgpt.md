@@ -1,6 +1,7 @@
+
 [![editGPT](https://files.oaiusercontent.com/file-rtnaGVkL7cbKKvFKj4W3IIma?se=2123-10-19T16%3A47%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dandroid-chrome-192x192.png&sig=8IBMna9myk44fzf873z/OFp9oS8kflbVjN9T/xwRvw8%3D)](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
-# [editGPT](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
+# editGPT [ChatGPT Plus](https://chat.openai.com/g/g-zpuYfzV7k-editgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=editGPT)
 
 editGPT is an App that allows you to proofread, edit, and track changes to your content. With the editGPT browser extension, you can seamlessly integrate it into your workflow. Whether you want to fix grammar, improve clarity and flow, or just trim the fat in your text, editGPT has you covered. It provides precision and accuracy, ensuring that your documents are error-free and polished. Say goodbye to awkward parts and hello to professional writing!
 
@@ -30,3 +31,5 @@ editGPT is an App that allows you to proofread, edit, and track changes to your 
 5. **Trim the fat**: This command focuses on removing unnecessary or redundant parts of a text to make it more concise and to the point. You can use the prompt "Trim the fat in this text" followed by the text you want to proofread.
 
 Note: The exact functionality and available commands may vary depending on the specific features and capabilities of the editGPT App. Please refer to the App documentation for more detailed instructions and usage tips.
+
+

@@ -1,6 +1,7 @@
+
 [![MS SSRS Guide](https://files.oaiusercontent.com/file-JxTv2mQOZf6o8RLAAS3mCR6o?se=2123-10-18T22%3A42%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8fd99e6a-95ab-452a-9427-4355fc49f909.png&sig=hs2mhtgeBKTR/OZ03S%2BhaDWoiO%2BwSHHmoZk/B/ENiI0%3D)](https://chat.openai.com/g/g-Pn4OvAr44-ms-ssrs-guide)
 
-# [MS SSRS Guide](https://chat.openai.com/g/g-Pn4OvAr44-ms-ssrs-guide)
+# MS SSRS Guide [ChatGPT Plus](https://chat.openai.com/g/g-Pn4OvAr44-ms-ssrs-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MS%20SSRS%20Guide)
 
 Get expert guidance on creating and managing reports in SSRS (SQL Server Reporting Services). The MS SSRS Guide is a friendly and encouraging app that provides tailored assistance for all your SSRS needs. Whether you're wondering about the steps to deploy a report or looking for best practices in report design, this app has got you covered. Simply ask your question and receive helpful advice to enhance your SSRS experience. With the MS SSRS Guide, you'll never feel lost or overwhelmed with your reporting tasks!
 
@@ -29,3 +30,5 @@ Here are the main features and their commands that you can use with this App:
 4. **Best practices for SSRS report design:** If you are looking for best practices when it comes to SSRS report design, you can ask questions like "What are some best practices for SSRS report design?" and the App will provide you with helpful tips and recommendations.
 
 Please note that this App does not have access to external knowledge or specific instructions. It aims to provide friendly guidance based on its pre-existing knowledge and expertise related to SSRS.
+
+

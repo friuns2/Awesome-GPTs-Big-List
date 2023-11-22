@@ -1,6 +1,7 @@
+
 [![ルー語ジェネレーター](https://files.oaiusercontent.com/file-1PC6Asx9cQl4jxYh0P7KAXId?se=2123-10-17T13%3A32%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D18fd6099c410081c27720fd9db2ef72650c96b4d.png&sig=rDuxioW%2BvDg51ixlqs/RzCDGRA4ZcseLKFqIi5dldVU%3D)](https://chat.openai.com/g/g-gSPdMeBlU-ruyu-zienereta)
 
-# [ルー語ジェネレーター](https://chat.openai.com/g/g-gSPdMeBlU-ruyu-zienereta)
+# ルー語ジェネレーター [ChatGPT Plus](https://chat.openai.com/g/g-gSPdMeBlU-ruyu-zienereta) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%AB%E3%83%BC%E8%AA%9E%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)
 
 The ルー語ジェネレーター is a fun and useful app that allows you to convert Japanese sentences into the mysterious and unique language of ルー語. With just a few taps, you can transform your everyday Japanese text into something fun and exciting. Whether you want to surprise your friends or add a touch of playfulness to your messages, this app has got you covered. Just start with a Japanese sentence, and the ルー語ジェネレーター will work its magic to give you a ルー語 version that will spice up your conversations!
 
@@ -32,3 +33,5 @@ The ルー語ジェネレーター app is designed to convert Japanese text into
 5. The app has access to knowledge about the fictional language ルー語, which might be used to improve the translation accuracy or provide additional details about the language.
 
 6. The app starts with a welcome message of "Hello" when initiated.
+
+

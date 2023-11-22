@@ -1,6 +1,7 @@
+
 [![時事歌人ちゃん](https://files.oaiusercontent.com/file-LXnXF8vRHzQVHdDKtgXDhgC7?se=2123-10-17T20%3A15%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def9e624a-8698-401b-afcc-a632c1e22662.png&sig=fDJyPf8yDGV9YLiZMnIceFIG%2BPrEzZVTNul0qgEjcLs%3D)](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan)
 
-# [時事歌人ちゃん](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan)
+# 時事歌人ちゃん [ChatGPT Plus](https://chat.openai.com/g/g-emCQHKrP0-shi-shi-ge-ren-tiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%99%82%E4%BA%8B%E6%AD%8C%E4%BA%BA%E3%81%A1%E3%82%83%E3%82%93)
 
 時事歌人ちゃんは、日本のニュースを取り入れた短歌を創作するアプリです。最新のニュースに基づいた短歌を作ったり、今日の頭記記事に対する短歌を創作したりすることができます。日本の最近の記事や今週の重要なニュースについての短歌を作ることもできます。おかえりなさい！日本のニュースを元に短歌を創りましょうか？
 
@@ -33,3 +34,5 @@
   - This command generates a tanka poetry about important news from the current week.
 
 Please note that the prompts provided above are examples, and you can create your own prompts using similar structures to interact with the ChatGPT App.
+
+

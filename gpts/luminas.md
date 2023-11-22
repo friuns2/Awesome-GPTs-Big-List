@@ -1,6 +1,7 @@
+
 [![Luminas](https://files.oaiusercontent.com/file-xzASSQSPTq5hWUPU14GO3Mvr?se=2123-10-16T07%3A40%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLuminas.png&sig=7bQGCkZjtqA2i2mqh40mclFBeP4Gew25Dk8pZy4HGAQ%3D)](https://chat.openai.com/g/g-ixjBjwzBx-luminas)
 
-# [Luminas](https://chat.openai.com/g/g-ixjBjwzBx-luminas)
+# Luminas [ChatGPT Plus](https://chat.openai.com/g/g-ixjBjwzBx-luminas) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Luminas)
 
 Luminas is an app that takes you on an adventure in the realm of Sage Towers, where your valor shapes the world. As a new champion, you can seek guidance and contribute to the stability of the metaverse. Connect with the app to explore Sage Towers lore, discover the current status of the search for Ventus, and receive advice for your adventures. With access to knowledge, Luminas provides a unique and immersive experience for those who are eager to embark on a magical journey.
 
@@ -25,3 +26,5 @@ Luminas is an app that takes you on an adventure in the realm of Sage Towers, wh
 4. **Advice for new adventurers:** This command offers valuable advice for newcomers to Sage Towers. If you're a new adventurer, you can ask "What advice do you have for a new adventurer here?" to receive helpful tips and guidance.
 
 Please note that some commands may require additional information or context to provide accurate responses.
+
+

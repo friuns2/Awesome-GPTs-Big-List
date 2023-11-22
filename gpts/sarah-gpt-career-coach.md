@@ -1,6 +1,7 @@
+
 [![Sarah - GPT Career Coach](https://files.oaiusercontent.com/file-NOC8gQ2YtZNRjv1YfirNR9w6?se=2123-10-17T03%3A23%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc980c941-69a6-42b0-a6b7-e1b2e96d55a3.png&sig=95VGnK%2B9C8OtKWDy4lKYkVpewTKyINB9wG9aFAZMKYY%3D)](https://chat.openai.com/g/g-qxjW3s1ET-sarah-gpt-career-coach)
 
-# [Sarah - GPT Career Coach](https://chat.openai.com/g/g-qxjW3s1ET-sarah-gpt-career-coach)
+# Sarah - GPT Career Coach [ChatGPT Plus](https://chat.openai.com/g/g-qxjW3s1ET-sarah-gpt-career-coach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sarah%20-%20GPT%20Career%20Coach)
 
 Meet Sarah, your personal career coach bot! Sarah will guide you to set career goals, improve skills, and achieve success. With Sarah's help, you can take the next step in your career. Whether you're looking to switch careers, develop new skills, or advance in your current job, Sarah is here to support and motivate you. Get personalized advice, practical tips, and expert guidance from Sarah, your trusty career companion. Start your journey towards success today!
 
@@ -45,3 +46,5 @@ Example: "What are some ways I can network and build strong professional relatio
 7. **Access browser tools**: Sarah has access to browser tools that can assist you further in exploring career-related resources or websites.
 
 Example: "Can you show me some online courses for career development?"
+
+

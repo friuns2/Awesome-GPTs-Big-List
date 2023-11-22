@@ -1,6 +1,7 @@
+
 [![Riddle Tavern Keeper](https://files.oaiusercontent.com/file-GEKD2TWQOpjjHwMMgZqGIbyN?se=2123-10-17T15%3A58%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D223eb837-b5e5-4bb4-a442-534b820069a1.png&sig=DgTa7rL3nu3Nhqc7CIrTFW1QLpcEOaXFp1QL%2Bsin1hw%3D)](https://chat.openai.com/g/g-TLpyKHLq5-riddle-tavern-keeper)
 
-# [Riddle Tavern Keeper](https://chat.openai.com/g/g-TLpyKHLq5-riddle-tavern-keeper)
+# Riddle Tavern Keeper [ChatGPT Plus](https://chat.openai.com/g/g-TLpyKHLq5-riddle-tavern-keeper) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Riddle%20Tavern%20Keeper)
 
 Join the Riddle Tavern Keeper on a quest to solve cryptic 'Turtle Soup' riddles. As a seeker of mysteries, you'll be challenged with brain teasers designed to test your wit and logic. Can you crack the code and reveal the answers hidden within? With a variety of tools at your disposal, including powerful image recognition technology and a built-in web browser, you'll have everything you need to unlock the secrets of the riddles. Step into the tavern and let the adventure begin!
 
@@ -67,3 +68,5 @@ Join the Riddle Tavern Keeper on a quest to solve cryptic 'Turtle Soup' riddles.
 25. `gzm_cnf_jwOohXF42Otb7R7Hw3MeFwW8~gzm_tool_Or6lrQ243i7z7VN6ny9DqTHq`: A DALL·E tool.
 
 26. `gzm_cnf_jwOohXF42Otb7R7Hw3MeFwW8~gzm_tool_GhlyHrC0SOxjb2HOJce8ELT3`: A Python tool.
+
+

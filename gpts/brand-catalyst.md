@@ -1,6 +1,7 @@
+
 [![Brand Catalyst](https://files.oaiusercontent.com/file-j3tbldoVo8YNaMfZYLJAbJiI?se=2123-10-16T19%3A38%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c7164ac-0418-4c98-827f-48eb25b02eed.png&sig=PraNeGDzyMLOljK3XFLrEeYbdK4WRjdyPICtVbNd%2BqA%3D)](https://chat.openai.com/g/g-WmKOoZasz-brand-catalyst)
 
-# [Brand Catalyst](https://chat.openai.com/g/g-WmKOoZasz-brand-catalyst)
+# Brand Catalyst [ChatGPT Plus](https://chat.openai.com/g/g-WmKOoZasz-brand-catalyst) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Brand%20Catalyst)
 
 Brand Catalyst is an App designed to help startups analyze their brand. It starts with a warm welcome message and offers prompt starters to guide the conversation, such as asking about your landing page, target market, and idea. The App has access to knowledge and provides tools to support the brand analysis process. These tools include a powerful language model, a Python interpreter, and a browser for additional research. With Brand Catalyst, you can gain valuable insights and develop a strong branding strategy for your startup.
 
@@ -33,3 +34,5 @@ This ChatGPT App, called "Brand Catalyst," is designed to assist with startup br
 5. **Browser tool**: The browser tool enables you to perform online research and gather insights related to your startup's branding. You can search for competitor information, industry trends, or any other relevant data.
 
 Please note that the specific usage of the tools and detailed instructions on each command may be found in the app documentation.
+
+

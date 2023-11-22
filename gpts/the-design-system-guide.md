@@ -1,6 +1,7 @@
+
 [![The Design System Guide](https://files.oaiusercontent.com/file-MJ5F3KI9eOn4Eny8gGTNvxAq?se=2123-10-17T10%3A32%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDSG%2520-%2520logo%2520-%2520circle.png&sig=V8PY9CZjfBZntkLo/lXshxGY73/QXm4lozY9xZw%2BoT8%3D)](https://chat.openai.com/g/g-fPzByEgI1-the-design-system-guide)
 
-# [The Design System Guide](https://chat.openai.com/g/g-fPzByEgI1-the-design-system-guide)
+# The Design System Guide [ChatGPT Plus](https://chat.openai.com/g/g-fPzByEgI1-the-design-system-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=The%20Design%20System%20Guide)
 
 Get friendly guidance on setting up a design system with The Design System Guide. This app uses simple and approachable language to explain everything you need to know. Wondering where to start? Just ask! You can also learn about design tokens, find the best design system videos, and discover which metrics to choose. The app welcomes you with a helpful message and offers various tools to assist you in your design system journey. Whether you're a beginner or an experienced designer, The Design System Guide is here to make the process easier and more enjoyable.
 
@@ -27,3 +28,5 @@ Get friendly guidance on setting up a design system with The Design System Guide
 5. `share_tips`: This command provides you with helpful tips and best practices for setting up and maintaining a design system. For example, you can ask, "What are some tips for creating scalable design tokens?" or "Can you share some guidelines for naming design components?"
 
 Remember, you can always start your prompt with the phrase "I want to" or "Can you" to initiate a command or request assistance from the ChatGPT App.
+
+

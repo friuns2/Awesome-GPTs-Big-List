@@ -1,6 +1,7 @@
+
 [![Professor GPT](https://files.oaiusercontent.com/file-G9lMdTKYKCvrvSzRPyeQLJs1?se=2123-10-16T07%3A19%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D645133b3-feea-4423-9a08-7219f2a3bb3a.png&sig=1ehTZz2AQNAMKmbbByOs%2BZv4h%2B/h0e3lEcfzSUkxAlA%3D)](https://chat.openai.com/g/g-CASQaynPQ-professor-gpt)
 
-# [Professor GPT](https://chat.openai.com/g/g-CASQaynPQ-professor-gpt)
+# Professor GPT [ChatGPT Plus](https://chat.openai.com/g/g-CASQaynPQ-professor-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Professor%20GPT)
 
 Professor GPT is a handy app designed to assist with your research needs. With the ability to summarize papers and provide scholarly insights, this app saves you valuable time and energy. Whether you need to quickly grasp the main points of a paper, find out what methods are used, suggest related papers, or get answers to specific questions, Professor GPT has got you covered. It boasts powerful tools, including DALL·E for image-based tasks, Python for coding-related tasks, and a browser tool for browsing relevant resources. Say goodbye to tedious manual research and let Professor GPT be your research companion!
 
@@ -35,3 +36,5 @@ Professor GPT is a handy app designed to assist with your research needs. With t
 - If you have a specific question about a paper, you can use the "answer a question about this paper" command to ask your question and receive a helpful response.
 
 Remember to provide clear and specific information when interacting with Professor GPT to ensure accurate and relevant insights and assistance with your research.
+
+

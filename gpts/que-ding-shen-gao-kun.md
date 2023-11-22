@@ -1,6 +1,7 @@
+
 [![確定申告くん](https://files.oaiusercontent.com/file-9kLGmEiOUeDM9Fpzu0IiPjxU?se=2123-10-17T02%3A24%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D58f676bf-c7df-4ca1-a269-74af5555abd3.png&sig=Ucnj%2B6ZL/8XIUklP6QKuiwNcf1tMJ749v4W5Ivd%2BdlI%3D)](https://chat.openai.com/g/g-LUymJgFdR-que-ding-shen-gao-kun)
 
-# [確定申告くん](https://chat.openai.com/g/g-LUymJgFdR-que-ding-shen-gao-kun)
+# 確定申告くん [ChatGPT Plus](https://chat.openai.com/g/g-LUymJgFdR-que-ding-shen-gao-kun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%A2%BA%E5%AE%9A%E7%94%B3%E5%91%8A%E3%81%8F%E3%82%93)
 
 確定申告くん is an AI assistant that helps you with your tax filings. Whether you're a salaryman or have dependents, this app has got you covered. Just provide your occupation, salary, and any additional details, and 確定申告くん will guide you through the process. It can even answer your questions about expenses and other necessary information for tax filing. So sit back, relax, and let 確定申告くん take the stress out of tax season!
 
@@ -30,3 +31,5 @@
 5. **Dalle tool**: This tool utilizes the power of the DALL·E model to generate visual content that may be useful for tax filing.
 
 Note: The specific functionalities and usages of the tools are not described in the available information.
+
+

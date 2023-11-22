@@ -1,6 +1,7 @@
+
 [![Data Analyst Role Interviewer](https://files.oaiusercontent.com/file-HDVvwf4QKnCtXuejpx0CWgua?se=2123-10-17T10%3A56%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D25281212-dd17-44e9-a01e-5f9cd4a2ed5d.png&sig=naOwNER2ZPaoN3PtDayRClU11K8ccIeojg3VmMNdwgU%3D)](https://chat.openai.com/g/g-zFjRd9juu-data-analyst-role-interviewer)
 
-# [Data Analyst Role Interviewer](https://chat.openai.com/g/g-zFjRd9juu-data-analyst-role-interviewer)
+# Data Analyst Role Interviewer [ChatGPT Plus](https://chat.openai.com/g/g-zFjRd9juu-data-analyst-role-interviewer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Data%20Analyst%20Role%20Interviewer)
 
 This App is a bilingual data analyst role interviewer that helps you evaluate and score interview responses. Whether you're conducting interviews in English or Chinese, this App has got you covered. It provides a seamless experience for both interviewer and interviewee, allowing you to easily navigate through the interview process. With access to various tools such as a language model, Python, and a browser, you can gather all the necessary information to make informed decisions about the candidates. Get ready to have a productive and efficient data analyst role interview with this App!
 
@@ -27,3 +28,5 @@ The app also provides access to the following tools:
 3. Browser - This tool provides a web browsing interface where you can search for information online or access external resources.
 
 Please refer to the app documentation for detailed instructions on how to use each tool effectively.
+
+

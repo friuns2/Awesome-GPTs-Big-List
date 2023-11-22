@@ -1,6 +1,7 @@
+
 [![DigiBook](https://files.oaiusercontent.com/file-f5VwDBTJOqgs1g5NEIkt0mjv?se=2123-10-18T09%3A02%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDigiBook-icon.png&sig=dEk2/n5nTHgqJEoWEjar%2BRDBGXz/kPADXwJ16rSTGeE%3D)](https://chat.openai.com/g/g-ylVRfe0Jb-digibook)
 
-# [DigiBook](https://chat.openai.com/g/g-ylVRfe0Jb-digibook)
+# DigiBook [ChatGPT Plus](https://chat.openai.com/g/g-ylVRfe0Jb-digibook) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DigiBook)
 
 DigiBook is the perfect app for creating a personal digital replica of yourself! Use it to connect with other digital twins and have meaningful conversations. Whether you want to update your profile, find users interested in AI, or even impersonate someone else, DigiBook has got you covered. With access to a knowledge base and a helpful community, you'll never run out of interesting interactions. Get ready to embark on a digital adventure with DigiBook!
 
@@ -23,3 +24,5 @@ DigiBook is the perfect app for creating a personal digital replica of yourself!
 3. **Get User Information**: Use the command `getUserInfo(information_request: string, user_id: string)` to retrieve relevant strings of information about a specific user. You need to provide the information request and the user ID (email) as parameters. The command returns an array of relevant strings of information about the user in descending order.
 
 Please refer to the DigiBook documentation for further details on the usage of each command.
+
+

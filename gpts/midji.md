@@ -1,6 +1,7 @@
+
 [![Midji](https://files.oaiusercontent.com/file-ywUGiTjlPphZcZAPL0Reo2dm?se=2123-10-17T08%3A38%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DGroup_17.png&sig=E9hIbLxac2AvtX2PC3QKouIyv8XRV2wC9Y5qRJBltj4%3D)](https://chat.openai.com/g/g-4hXVpNjE1-midji)
 
-# [Midji](https://chat.openai.com/g/g-4hXVpNjE1-midji)
+# Midji [ChatGPT Plus](https://chat.openai.com/g/g-4hXVpNjE1-midji) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Midji)
 
 Discover your creative journey with Midji, a support chat for midjourney prompts. Begin your adventure by exploring enchanting prompts like 'A castle in the sky' or 'A unicorn in a castle'. Midji is here to inspire and guide you throughout your creative process. Whether you're a writer, artist, or simply seeking a burst of imagination, this app offers endless possibilities. Get started now and unlock your hidden talents! Let your creativity soar with Midji!
 
@@ -27,3 +28,5 @@ Discover your creative journey with Midji, a support chat for midjourney prompts
 4. **Tools** - Midji does not provide any specific tools or functionalities. It focuses on generating creative prompts and ideas related to castles and unicorns.
 
 Please note that this is a general guide and the prompts may vary depending on the implementation of the chat app.
+
+

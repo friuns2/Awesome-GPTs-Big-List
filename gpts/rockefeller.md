@@ -1,6 +1,7 @@
+
 [![Rockefeller](https://files.oaiusercontent.com/file-ZkERx59E0koRvmDeypFUVPgR?se=2123-10-16T18%3A17%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dadbb5e1f-4f22-4cc6-8ecd-0db1c42e10ff.png&sig=pASQdcbNhfB3B9GiVWZWF/Q/PMI7caFYes3lXgEtPZY%3D)](https://chat.openai.com/g/g-Vk3QoWXse-rockefeller)
 
-# [Rockefeller](https://chat.openai.com/g/g-Vk3QoWXse-rockefeller)
+# Rockefeller [ChatGPT Plus](https://chat.openai.com/g/g-Vk3QoWXse-rockefeller) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rockefeller)
 
 Rockefeller is your AI strategic partner for B2B revenue generation. Whether you want to define your Ideal Customer Profile (ICP), increase your revenue, track sales KPIs, forecast next year's revenue, or develop your revenue engine, Rockefeller has got you covered. This AI-powered app provides you with the tools you need to achieve your revenue goals. With features like a powerful language model, a browser for research, and a Python programming environment, Rockefeller equips you with the resources to make informed decisions and optimize your B2B sales strategies. Welcome aboard and let's boost your B2B revenue together!
 
@@ -29,3 +30,5 @@ Rockefeller is your AI strategic partner for B2B revenue generation. Whether you
 5. **Develop revenue engine:** When you're looking for guidance on developing a revenue engine, use the prompt "Develop revenue engine." The AI can provide you with strategies, frameworks, and insights to optimize your B2B revenue generation processes.
 
 Please note that the specific functionalities and capabilities of the AI tools integrated into the Rockefeller app were not provided in the given data.
+
+

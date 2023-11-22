@@ -1,6 +1,7 @@
+
 [![Detector de Falacias](https://files.oaiusercontent.com/file-XvX3xDXQfGZz59cyf5OB3uZR?se=2123-10-17T10%3A09%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1e7d4036-b9da-4c6b-8b5b-9e9293c1553c.png&sig=PR/2nFa5bIBCnugwLq47LVS2jpS87y1DMqnKm1US2Gw%3D)](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacias)
 
-# [Detector de Falacias](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacias)
+# Detector de Falacias [ChatGPT Plus](https://chat.openai.com/g/g-rNqHzzIMK-detector-de-falacias) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Detector%20de%20Falacias)
 
 Detector de Falacias is your go-to expert in logic, detecting and explaining logical fallacies. Developed by @ricardopch, this app is designed to assist you in identifying and understanding flaws in arguments. Whether you need help recognizing fallacies, pointing out logical inconsistencies, or unraveling the logic behind an argument, this app has got you covered. With three powerful tools at your disposal, including a Python tool, a DALLE tool, and a browser tool, you'll have all the resources you need to become a logic master. Let's explore the fascinating world of fallacies together!
 
@@ -37,3 +38,5 @@ Example command: "Is there a logical inconsistency here?"
 Example command: "Help me understand this argument's logic."
 
 Please note that this App does not have access to external knowledge and primarily focuses on detecting and explaining logical fallacies based on the provided prompts and inputs.
+
+

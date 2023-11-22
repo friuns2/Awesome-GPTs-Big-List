@@ -1,6 +1,7 @@
+
 [![Photo-to-Recipe - レシピの王様！](https://files.oaiusercontent.com/file-Mchi8lZO3i88cjXXY2ULBiDl?se=2123-10-18T06%3A43%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2bf7dfcf-7282-4357-a7c3-b390a595890b.png&sig=fMSe808%2BySSBptNjP0dcl2JwKmWb7wVP3j0dvRdVo64%3D)](https://chat.openai.com/g/g-40EiRTtxp-photo-to-recipe-resipinowang-yang)
 
-# [Photo-to-Recipe - レシピの王様！](https://chat.openai.com/g/g-40EiRTtxp-photo-to-recipe-resipinowang-yang)
+# Photo-to-Recipe - レシピの王様！ [ChatGPT Plus](https://chat.openai.com/g/g-40EiRTtxp-photo-to-recipe-resipinowang-yang) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Photo-to-Recipe%20-%20%E3%83%AC%E3%82%B7%E3%83%94%E3%81%AE%E7%8E%8B%E6%A7%98%EF%BC%81)
 
 Find new recipes by simply entering the ingredients you have or uploading an image. Photo-to-Recipe generates quick and easy recipes based on the ingredients you provide. Whether you want to whip up a meal with what you have in your pantry or get inspired by a dish you see in a picture, this app has got you covered. Say goodbye to the old 'what should I cook tonight' dilemma and let Photo-to-Recipe be your culinary companion!
 
@@ -29,3 +30,5 @@ Find new recipes by simply entering the ingredients you have or uploading an ima
 5. **Get recipe for specific ingredients**: You can provide a list of ingredients and ask for the recipe for those ingredients.
 
 Note: The app uses browser tools and a deep learning model called DALL·E to generate recipes and process images.
+
+

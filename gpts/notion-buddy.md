@@ -1,6 +1,7 @@
+
 [![Notion Buddy](https://files.oaiusercontent.com/file-NZwTaTv1j1seOht11DNYwJSe?se=2123-10-17T01%3A33%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3472b3aa-c1dc-4ab6-9954-42c924b2e1b2.png&sig=Ek1bB5SSWNjzycgmvhF/Gz9ptDfNcUTBEYdUeS5FHmk%3D)](https://chat.openai.com/g/g-iIB8oip3c-notion-buddy)
 
-# [Notion Buddy](https://chat.openai.com/g/g-iIB8oip3c-notion-buddy)
+# Notion Buddy [ChatGPT Plus](https://chat.openai.com/g/g-iIB8oip3c-notion-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Notion%20Buddy)
 
 Notion Buddy is your creative companion for Notion templates and online monetization. Whether you want to design a template, learn how to monetize your content, implement best practices, or increase your online sales, Notion Buddy has got you covered. With a browser tool, Python integration, and DALLE support, this app provides you with the necessary tools to streamline your creative process. Say hello to Notion Buddy and get ready to create, earn, and unleash your full creative potential!
 
@@ -23,3 +24,5 @@ Notion Buddy is your creative companion for Notion templates and online monetiza
 3. `Best practices for...`: Use this command to obtain recommendations and guidance on best practices for a particular aspect of using Notion. Replace the ellipsis with the specific topic for which you need best practices.
 
 4. `Increase online sales by...`: Use this command to receive advice on how to enhance online sales. Replace the ellipsis with specific strategies or ideas you want to explore in order to increase sales.
+
+

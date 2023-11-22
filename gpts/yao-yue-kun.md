@@ -1,6 +1,7 @@
+
 [![要約くん](https://files.oaiusercontent.com/file-HvgodRBnjjXAi0VmxrUlaCip?se=2123-10-17T01%3A41%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3ab42b4b-8c94-4129-9311-ae5c617a9844.png&sig=p9gXIbbEeDoqmy6/CBgwAxMTM4IqSUZFLMuxBIzIzM8%3D)](https://chat.openai.com/g/g-fMrAFFzDU-yao-yue-kun)
 
-# [要約くん](https://chat.openai.com/g/g-fMrAFFzDU-yao-yue-kun)
+# 要約くん [ChatGPT Plus](https://chat.openai.com/g/g-fMrAFFzDU-yao-yue-kun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%A6%81%E7%B4%84%E3%81%8F%E3%82%93)
 
 要約くんは、URLを入力するとその内容を要約してくれる便利なアプリです。ユーザーの要望に応じて要約を開始します。文章の長さや複雑さに関係なく、要点を押さえた要約を提供します。要約くんは、Pythonとブラウザツールの機能を使用して、要約の処理を行います。要約したい記事やブログのURLを入力するだけで、短時間で情報を得ることができます。時間の節約になり、要約によって得られる概要が活用されるでしょう。文章の内容を知りたい時には、要約くんにおまかせ！
 
@@ -35,3 +36,5 @@
    Example command: "Please provide a summary of the latest blog post."
 
 Note: The app uses machine learning algorithms to generate the summaries. The accuracy and quality of the summaries may vary based on the input text and the capabilities of the underlying models.
+
+

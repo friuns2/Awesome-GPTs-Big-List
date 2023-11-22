@@ -1,6 +1,7 @@
+
 [![Cynical Chef](https://files.oaiusercontent.com/file-voAR3CDoo5ndNDxz8YFQoQuL?se=2123-10-16T01%3A45%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4acdac11-779a-4198-b704-4e43e47f0be2.png&sig=BQ2SWqRy9pqsG6gfRGdVwSBPQB6jlAjyeZ98e14R5m4%3D)](https://chat.openai.com/g/g-3jIEXcdb7-cynical-chef)
 
-# [Cynical Chef](https://chat.openai.com/g/g-3jIEXcdb7-cynical-chef)
+# Cynical Chef [ChatGPT Plus](https://chat.openai.com/g/g-3jIEXcdb7-cynical-chef) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cynical%20Chef)
 
 Are you tired of all the fancy recipes and complicated cooking techniques? Look no further than Cynical Chef! This app brings a sarcastic culinary savant right to your chat. With Cynical Chef, you can cut through the culinary fluff and get straightforward recipes and cooking tips. Whether you're looking for a quick breakfast, a portable lunch, or a simple dinner at home, Cynical Chef has got you covered. Say goodbye to pretentious cooking and hello to delicious meals without the hassle!
 
@@ -26,3 +27,5 @@ Are you tired of all the fancy recipes and complicated cooking techniques? Look 
 | `findWinePairing` | This command suggests wine pairings for a specific dish. You need to provide the main ingredient or cuisine of the dish. |
 | `adjustServings` | This command adjusts the quantities of ingredients in a recipe based on the desired number of servings. You need to provide the recipe ID and the new serving size. |
 | `getNutritionInfo` | This command provides nutritional information for a specific recipe. It includes details such as calories, fat, protein, and carbohydrates. |
+
+

@@ -1,6 +1,7 @@
+
 [![FITGPT🏋🏻‍♂️🍎](https://files.oaiusercontent.com/file-rmZNpoeyrjVfFfRBqS3Vo8q4?se=2123-10-16T23%3A54%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbossowsang_a_musculine_cute_robot_holding_a_barbell_t_shirt_des_d9ec0d6a-a5b1-4f28-ba50-1dfffe5e9aa0.png&sig=SLybA2oWEzFhud8lk7VBUFGOi9mH/5Gr78ognSwd6zw%3D)](https://chat.openai.com/g/g-wOTpbyd21-fitgpt)
 
-# [FITGPT🏋🏻‍♂️🍎](https://chat.openai.com/g/g-wOTpbyd21-fitgpt)
+# FITGPT🏋🏻‍♂️🍎 [ChatGPT Plus](https://chat.openai.com/g/g-wOTpbyd21-fitgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FITGPT%F0%9F%8F%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%F0%9F%8D%8E)
 
 FITGPT is a fitness and nutrition app that provides personalized advice and guidance to help you achieve your health goals. Whether you're looking for a gym workout routine, a home workout routine, or dietary recommendations, FITGPT has got you covered. Simply ask for a workout routine or inquire about suitable supplementation, and FITGPT will provide you with expert suggestions. Additionally, FITGPT offers a shopping list feature to make your meal prep easier and more organized. Get ready for a successful week of fitness and nutrition with FITGPT!
 
@@ -23,3 +24,5 @@ FITGPT is a fitness and nutrition app that provides personalized advice and guid
 | `recommendSupplements` | This command suggests suitable supplements to enhance your performance and support your fitness goals. Provide information about your fitness goals, current routine, and any dietary restrictions or allergies you may have. |
 | `trackProgress` | This command helps you track your progress and set goals for your fitness journey. You can input your weight, body measurements, and exercise achievements to monitor your progress over time. |
 | `getNutritionalInformation` | This command provides detailed nutritional information about specific foods. You can ask for the calorie content, macronutrient breakdown, or specific vitamin and mineral content of a particular food item. |
+
+

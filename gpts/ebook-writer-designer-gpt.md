@@ -1,6 +1,7 @@
+
 [![Ebook Writer & Designer GPT](https://files.oaiusercontent.com/file-jIWRmrHdNImoAHYG0gJ2tBJ0?se=2123-10-16T00%3A37%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd529a3d2-76da-4d22-91e5-28406b2fc1a2.png&sig=K1Vg/pwQlflNGEKxb/8g%2B3JBB9SRPC1%2BTCH/SOXtR1Y%3D)](https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-gpt)
 
-# [Ebook Writer & Designer GPT](https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-gpt)
+# Ebook Writer & Designer GPT [ChatGPT Plus](https://chat.openai.com/g/g-gNSMT0ySH-ebook-writer-designer-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ebook%20Writer%20%26%20Designer%20GPT)
 
 Craft tailored or improvised stories in various genres including Comic book, Fantasy, Romance, and Horror. Use the Ebook Writer & Designer GPT to spark your creativity and collaborate on creating unique narratives. Get ready to bring your ideas to life!
 
@@ -25,3 +26,5 @@ Craft tailored or improvised stories in various genres including Comic book, Fan
 - **Writing tips:** If you need guidance on writing a particular genre or style, you can ask for tips and suggestions.
 
 - **Character development:** If you need help developing characters for your story, you can ask for assistance and receive suggestions and prompts to inspire you.
+
+

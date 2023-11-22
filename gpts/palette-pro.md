@@ -1,6 +1,7 @@
+
 [![Palette Pro](null)](https://chat.openai.com/g/g-QJza2EBEH-palette-pro)
 
-# [Palette Pro](https://chat.openai.com/g/g-QJza2EBEH-palette-pro)
+# Palette Pro [ChatGPT Plus](https://chat.openai.com/g/g-QJza2EBEH-palette-pro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Palette%20Pro)
 
 Palette Pro is your go-to app for all things color! Whether you're designing a vibrant summer palette, choosing the best color scheme for a high-tech office, or exploring unusual color combinations for fashion, Palette Pro has got you covered. With expert knowledge in color theory and palette creation, this app is here to assist you. It offers a range of tools including a powerful image-based color generator, a Python module for advanced color analysis, and a built-in browser for easy access to color-related resources. Get ready to paint the town colorful with Palette Pro!
 
@@ -28,3 +29,5 @@ Palette Pro is your go-to app for all things color! Whether you're designing a v
 5. **Access to Knowledge** - Palette Pro has access to knowledge about color theory and design principles. It can provide informative and helpful insights related to colors and palettes.
 
 6. **Tools** - Palette Pro has access to various tools that can assist in color-related tasks. These tools include a DALLE model, a Python tool, and a browser tool. These tools can potentially be used to generate or manipulate color palettes based on your specific requirements.
+
+

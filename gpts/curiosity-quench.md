@@ -1,6 +1,7 @@
+
 [![Curiosity Quench](null)](https://chat.openai.com/g/g-aK0JaQiIJ-curiosity-quench)
 
-# [Curiosity Quench](https://chat.openai.com/g/g-aK0JaQiIJ-curiosity-quench)
+# Curiosity Quench [ChatGPT Plus](https://chat.openai.com/g/g-aK0JaQiIJ-curiosity-quench) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Curiosity%20Quench)
 
 Curiosity Quench is an App that fuels your inquisitiveness and motivates you to take action! It welcomes you with open arms into a world of exploration and learning. With a variety of prompt starters like 'What's your curiosity today?' and 'Looking for a new skill?', it encourages you to delve into new topics and expand your knowledge. The App provides you with access to a range of tools including a text generation model, a web browser, and a Python environment, empowering you to discover and engage with information in exciting ways. Quench your thirst for knowledge with Curiosity Quench!
 
@@ -23,3 +24,5 @@ Curiosity Quench is an App that fuels your inquisitiveness and motivates you to 
 3. **Ask for podcast ideas:** If you're looking for podcast suggestions, you can ask by starting your prompt with "Can you recommend a podcast about [topic]?" For example, "Can you recommend a podcast about science?"
 
 4. **Explore curiosity:** To explore a general curiosity or discuss a topic, you can start your prompt with any open-ended question or statement. For example, "Tell me about the latest advancements in technology."
+
+

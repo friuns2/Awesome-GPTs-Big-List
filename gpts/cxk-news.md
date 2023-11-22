@@ -1,6 +1,7 @@
+
 [![CXK NEWS](https://files.oaiusercontent.com/file-LyRhOxSmhqxN4GjqKTNEV9EC?se=2123-10-17T21%3A23%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5818970a-75d4-419c-9c2e-fd44edd72340.png&sig=NkkrbQqfdlzrPn/Dfeedx4ADCfGyfhj18RQDS2SAWtg%3D)](https://chat.openai.com/g/g-deHJp7l98-cxk-news)
 
-# [CXK NEWS](https://chat.openai.com/g/g-deHJp7l98-cxk-news)
+# CXK NEWS [ChatGPT Plus](https://chat.openai.com/g/g-deHJp7l98-cxk-news) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CXK%20NEWS)
 
 Get quick and concise summaries of Chinese news with CXK NEWS! Stay updated on the latest news titles from around the world in Chinese. Simply ask for news titles from different countries and receive a brief overview. Want more details? No problem! Ask for full summaries to dive deeper into the stories. Whether you're interested in Japan, Brazil, Canada, or France, CXK NEWS has got you covered. Stay informed and save time with this handy news app. Get ready to explore the world of Chinese news!
 
@@ -29,3 +30,5 @@ Example: "List Japan's latest news titles in Chinese, then details."
 Example: "Summarize Brazil's recent news titles in Chinese, followed by updates."
 
 Note: The examples provided above are fictional and may not produce actual outputs.
+
+

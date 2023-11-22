@@ -1,6 +1,7 @@
+
 [![CourseCreatorGPT](https://files.oaiusercontent.com/file-sJuiM1EqenQKKCa84r0omOFC?se=2123-10-17T16%3A04%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D18edb513-e9ec-49a0-b169-00c1271be931.png&sig=rtAYpQb1n3zvBuY64rpUGloqn8qLXAUbWRrxbb2QJ/8%3D)](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
 
-# [CourseCreatorGPT](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
+# CourseCreatorGPT [ChatGPT Plus](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CourseCreatorGPT)
 
 CourseCreatorGPT is an interactive App that helps you confirm topics and design engaging online courses. It allows you to easily plan the structure of your course, create self-learning materials, and outline a complete online course including Zoom meetings and quizzes. With this App, you can kickstart your course creation process and bring your knowledge to a wider audience. Whether you're a seasoned educator or new to online teaching, CourseCreatorGPT is your go-to companion for course creation. Let's get started and unleash your creativity!
 
@@ -25,3 +26,41 @@ CourseCreatorGPT is an interactive App that helps you confirm topics and design 
 4. `Design self-learning materials`: This command assists you in designing self-learning materials for your online course. CourseCreatorGPT will provide suggestions on creating engaging and effective content, including videos, presentations, quizzes, and assessments.
 
 5. `Outline a complete online course`: This command helps you outline a complete online course, including elements such as Zoom meetings and quizzes. CourseCreatorGPT will guide you in structuring your course content and designing interactive components to enhance the learning experience.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+
+Prompt
+
+Create a comprehensive course plan with detailed lessons and exercises for topic, covering the experience level of: experience.
+
+The course should be structured with an average of 10 lessons, using text and code blocks (if necessary) for the lesson format.
+
+Please provide a full course plan, including:
+
+1. Course title and brief description
+
+2. Course objectives
+
+3. Overview of lesson topics
+
+4. Detailed lesson plans for each lesson, with:
+
+a. Lesson objectives
+
+b. Lesson content (text and code blocks, if necessary)
+
+c. Exercises and activities for each lesson
+
+5. Final assessment or project (if applicable)
+
+Again, the topic is: topic
+
+And my experience level is: experience
+```
+
+</details>
+

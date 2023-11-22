@@ -1,6 +1,7 @@
+
 [![Cartoonize Me](https://files.oaiusercontent.com/file-3b1LVGDMQtb4l6yYeaCtHhD8?se=2123-10-19T10%3A23%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd4d630d6-643f-4e53-ad5f-5dd1b604a52f.png&sig=ZN9rbSax4bbsKDSeHfYuoLS/gKtuCUGlueNOr2R5rTk%3D)](https://chat.openai.com/g/g-uFOmiW3fn-cartoonize-me)
 
-# [Cartoonize Me](https://chat.openai.com/g/g-uFOmiW3fn-cartoonize-me)
+# Cartoonize Me [ChatGPT Plus](https://chat.openai.com/g/g-uFOmiW3fn-cartoonize-me) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cartoonize%20Me)
 
 Cartoonize Me is a fun and creative app that transforms your ordinary photos into captivating cartoons. With just a few simple steps, you can give your photos a magical touch and turn them into 3D Disney/Pixar style artworks. Simply upload a photo, and let the app work its magic! Whether you want to create unique profile pictures or surprise your friends with delightful cartoon versions of themselves, Cartoonize Me has got you covered. Get ready to unleash your creativity and explore a world of cartoon possibilities!
 
@@ -27,3 +28,5 @@ This app, called "Cartoonize Me", allows you to transform your photos into 3D Di
 3. **Get instructions:** If you need guidance on how to use the app or how to upload a photo for cartoonization, you can request instructions from the app.
 
 Please note that this app does not have access to knowledge or prompt starters. It is primarily focused on transforming your photos into cartoons using the available tools, namely the DALL·E and browser tools.
+
+

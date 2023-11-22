@@ -1,6 +1,7 @@
+
 [![SymfonyGPT](https://files.oaiusercontent.com/file-zXKt9IxFj1V7gaCsiAg5Fxth?se=2123-10-16T08%3A32%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DSymfonyGPT.png&sig=J%2B3gQTMw9eQYwku9StknCuO35ABpB2ldEQHWn16wGU8%3D)](https://chat.openai.com/g/g-VyliDiSyc-symfonygpt )
 
-# [SymfonyGPT](https://chat.openai.com/g/g-VyliDiSyc-symfonygpt )
+# SymfonyGPT [ChatGPT Plus](https://chat.openai.com/g/g-VyliDiSyc-symfonygpt ) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SymfonyGPT)
 
 SymfonyGPT is an App that serves as your virtual colleague for PairProgramming sessions. Whether you need help installing Symfony, fixing PHP errors, learning best practices, or optimizing your PHP code, SymfonyGPT is always ready to assist you. With its extensive knowledge of Symfony and PHP, SymfonyGPT can provide you with helpful guidance and suggestions. Say goodbye to coding struggles and hello to enhanced Symfony and PHP skills with SymfonyGPT!
 
@@ -25,3 +26,5 @@ SymfonyGPT is an App that serves as your virtual colleague for PairProgramming s
 Welcome to SymfonyGPT, your go-to colleague for PairProgramming sessions always ready to help! Whether you need assistance with installing Symfony, fixing PHP errors, learning about Symfony best practices, or getting PHP optimization tips, I'm here to assist you.
 
 To get started, simply initiate a PairProgramming session with me and let me know what you need help with.
+
+

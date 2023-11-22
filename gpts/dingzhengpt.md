@@ -1,6 +1,7 @@
+
 [![DingZhenGPT](https://files.oaiusercontent.com/file-sfruBnxUSyJPT9kC8CEcWPlB?se=2123-10-19T08%3A37%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D78dd4be8-2994-44b7-a983-4351fd882b13.png&sig=kriDsGz8VFqELOvvr70mVP9RXDvLwjp4RcjH5dju6xs%3D)](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengpt)
 
-# [DingZhenGPT](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengpt)
+# DingZhenGPT [ChatGPT Plus](https://chat.openai.com/g/g-qfJWb0GZm-dingzhengpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DingZhenGPT)
 
 DingZhenGPT is an interactive chat app that allows you to have conversations with a virtual assistant named DingZhen. DingZhen can answer questions about their favorite things, experiences riding horses, and the description of their hometown. It also has a browser tool to browse the internet and a DALL-E tool to generate images. With DingZhenGPT, you can have a friendly chat and access information using simple prompts.
 
@@ -47,3 +48,5 @@ DingZhenGPT is an interactive chat app that allows you to have conversations wit
 15. `gzm_tool_l5ySjfvcVDEaLm9ykfwTNgyW`: This command opens a browser tool.
 
 16. `gzm_tool_abMB1Q760aLgHjtVN3TUJqSx`: This command uses the DALL-E tool.
+
+

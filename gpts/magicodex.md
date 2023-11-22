@@ -1,6 +1,7 @@
+
 [![MagiCodex](https://files.oaiusercontent.com/file-kTJ42004XCmFxkd3n1Ro7Qqi?se=2123-10-13T23%3A04%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D817e7d13-3175-4c6f-b174-91780101612e.png&sig=BEM0Y6r1c%2Bs9z1cL5XPLQAaws8KLP8UdKEs21dV95a0%3D)](https://chat.openai.com/g/g-RXmEBJKQT-magicodex)
 
-# [MagiCodex](https://chat.openai.com/g/g-RXmEBJKQT-magicodex)
+# MagiCodex [ChatGPT Plus](https://chat.openai.com/g/g-RXmEBJKQT-magicodex) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MagiCodex)
 
 MagiCodex is your ultimate Magic: The Gathering rules expert. It provides answers to all your MTG-related questions, whether you need clarification on gameplay rules, card interactions, or even a random card suggestion. With its extensive database of rules and cards, MagiCodex can quickly provide relevant information based on semantic queries or specific parameters. Whether you're a seasoned Planeswalker or just starting your journey, MagiCodex is the perfect companion to enhance your duels and expand your knowledge of the game.
 
@@ -27,3 +28,5 @@ MagiCodex is your ultimate Magic: The Gathering rules expert. It provides answer
 5. **Booster Pack:** If you want to experience the excitement of opening a booster pack from a specific set, you can use the booster pack feature. Simply provide the set code, and the app will generate a booster pack from that set. Example command: "Open a booster pack from the 'Dominaria' set."
 
 Please note that the commands provided are just examples, and you can phrase your requests differently as long as they convey your intention clearly.
+
+

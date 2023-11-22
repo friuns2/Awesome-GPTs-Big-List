@@ -1,6 +1,7 @@
+
 [![AI ML Toolkit Guru](https://files.oaiusercontent.com/file-Ko5mJTPthC0ckKUDHpkZEJCS?se=2123-10-17T16%3A03%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DIMG_5054.jpg&sig=8iCP%2BM%2BefTQhFJjjWZE9Sj/yasvTTQEk/7u7icLXH/w%3D)](https://chat.openai.com/g/g-1Zx0D3TVc-ai-ml-toolkit-guru)
 
-# [AI ML Toolkit Guru](https://chat.openai.com/g/g-1Zx0D3TVc-ai-ml-toolkit-guru)
+# AI ML Toolkit Guru [ChatGPT Plus](https://chat.openai.com/g/g-1Zx0D3TVc-ai-ml-toolkit-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20ML%20Toolkit%20Guru)
 
 AI ML Toolkit Guru is your go-to expert for all things AI/ML tools! Whether you want to know the latest tools in AI for healthcare, compare TensorFlow and PyTorch, explore alternatives to GPT-3, or understand the use of AI in retail analytics, this app has got you covered. With its vast knowledge and expertise, it can answer your questions on the usage, features, and comparisons of various AI/ML tools. So, dive into the world of artificial intelligence and machine learning with AI ML Toolkit Guru!
 
@@ -31,3 +32,5 @@ AI ML Toolkit Guru is your go-to expert for all things AI/ML tools! Whether you 
 4. **`explain_application(topic)`**: Use this command to get an explanation of how AI is used in a specific domain or field. It provides insights into the applications and benefits of AI in that area.
 
     Example usage: `explain_application("retail analytics")`
+
+

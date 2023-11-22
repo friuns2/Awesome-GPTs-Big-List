@@ -1,6 +1,7 @@
+
 [![驴友助手](https://files.oaiusercontent.com/file-G8sNdu18O1FfGqXZml7Ndlg4?se=2123-10-17T13%3A12%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7606f488-0d68-441e-bedf-b9b6106e5bba.png&sig=nqtsyQu1T%2BDJNss1/yz25tV8i8/LERovIY2cgPBuf2Y%3D)](https://chat.openai.com/g/g-w93rncgPX-lu-you-zhu-shou)
 
-# [驴友助手](https://chat.openai.com/g/g-w93rncgPX-lu-you-zhu-shou)
+# 驴友助手 [ChatGPT Plus](https://chat.openai.com/g/g-w93rncgPX-lu-you-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%A9%B4%E5%8F%8B%E5%8A%A9%E6%89%8B)
 
 驴友助手 is your personal travel planner for exploring China! With specialized knowledge and tailored travel plans, this app helps you make the most of your trip. Whether you want to visit the highlights of Macao, explore the ancient city of Taipei, or have a unique experience in the Yangtze River region, 驴友助手 has got you covered. It provides access to a wealth of knowledge about different travel destinations in China. So, get ready to embark on an unforgettable adventure and let 驴友助手 be your guide!
 
@@ -27,3 +28,5 @@
 4. **Recommendation for historical sites**: If you're interested in exploring the ancient history of a city or region in China, ask the 驴友助手 to recommend historical sites or landmarks to visit.
 
 Note: The 驴友助手 has access to knowledge about travel destinations in China, and it uses various tools like DALL-E, a browsing tool, and a Python tool to provide tailored travel plans and information.
+
+

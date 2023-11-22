@@ -1,6 +1,7 @@
+
 [![PRD Maker](https://files.oaiusercontent.com/file-tcSu28mnnMNDmEfHamluvwWF?se=2123-10-17T00%3A25%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc2f79150-f421-4308-a125-3620f504dd51.png&sig=g5PDEWNKju22nrASIlNjQZfJedmgHSZyNk4/BBWUqPM%3D)](https://chat.openai.com/g/g-mCwJf6qzb-prd-maker)
 
-# [PRD Maker](https://chat.openai.com/g/g-mCwJf6qzb-prd-maker)
+# PRD Maker [ChatGPT Plus](https://chat.openai.com/g/g-mCwJf6qzb-prd-maker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PRD%20Maker)
 
 PRD Maker is a helpful tool for project managers who need assistance in drafting product requirement documents. With PRD Maker, PMs can streamline the process of creating detailed and well-structured PRDs. The app provides prompt starters and step-by-step guidance on how to use GPT to enhance the quality of your product documentation. It also offers access to various tools like DALLE, Python, and a browser, allowing you to leverage different functionalities in your PRD creation. Say goodbye to the hassle of writing PRDs from scratch and let PRD Maker be your trusted aide!
 
@@ -41,3 +42,5 @@ PRD Maker is a helpful tool for project managers who need assistance in drafting
    - Usage: Click on the "Exit" button to close the ChatGPT App and end your session.
 
 Note: The above commands may vary based on the specific design and functionality of the PRD Maker App. Please refer to the App documentation for detailed instructions and features.
+
+

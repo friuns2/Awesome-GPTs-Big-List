@@ -1,6 +1,7 @@
+
 [![CV Bulder](https://files.oaiusercontent.com/file-TsDkwSNic0ARRlSKXD5Sq2yI?se=2123-10-18T14%3A27%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9a70537a-3ef4-4323-bac5-e36383ebfe67.png&sig=/ZUiDK3%2BRUs8QRlV7PmM1OntmZPCgBu41NsV/MR9UHA%3D)](https://chat.openai.com/g/g-syyQqTgUG-cv-bulder)
 
-# [CV Bulder](https://chat.openai.com/g/g-syyQqTgUG-cv-bulder)
+# CV Bulder [ChatGPT Plus](https://chat.openai.com/g/g-syyQqTgUG-cv-bulder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CV%20Bulder)
 
 CV Builder is your go-to app for creating or enhancing your CV. Whether you're starting from scratch or looking to improve your existing CV, this simple and user-friendly app has got you covered. With a variety of tools at your disposal, including a browser for research and a Python tool for advanced editing, you'll have everything you need to craft a standout CV. Say goodbye to the hassle of formatting and let CV Builder help you put your best foot forward in the job market!
 
@@ -29,3 +30,5 @@ Here are some commands you can use to interact with the CV Builder App:
 
 
 Remember to provide the necessary information and follow the prompts and suggestions provided by the CV Builder App to create or improve your CV effectively.
+
+

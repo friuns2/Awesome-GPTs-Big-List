@@ -1,6 +1,7 @@
+
 [![SerenAIty Coach](https://files.oaiusercontent.com/file-g2ZUtNTE17t2tZVaDM2n0KeG?se=2123-10-17T01%3A16%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D97482fce-4c1f-4fa9-8ce8-e3efde10028c.png&sig=k6rnUWUo6zklCtuBBWQwMU%2B9lQguKzyFvwKmH7zBzUg%3D)](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach)
 
-# [SerenAIty Coach](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach)
+# SerenAIty Coach [ChatGPT Plus](https://chat.openai.com/g/g-ALtIcUHQb-serenaity-coach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SerenAIty%20Coach)
 
 SerenAIty Coach is your go-to companion for mental wellness. This app provides a space of calm and clarity where you can seek assistance and support. It offers prompt starters to help you express your thoughts and emotions, such as asking about your day, feelings, or suggesting breathing exercises. With SerenAIty Coach, you're not alone in dealing with your mental health. It has access to valuable knowledge and tools that can aid you on your journey. Whether you need a listening ear or guidance, SerenAIty Coach is here for you, providing the support you need to cultivate mental well-being.
 
@@ -25,3 +26,5 @@ SerenAIty Coach is your go-to companion for mental wellness. This app provides a
 4. **gzm_cnf_8XaCQjq2clhyhOVMGHSib5xK~gzm_tool_bCcWLzGJRlNhg2WGF9mBLmmd tool:** This tool is a DALL-E model, which generates images from given textual descriptions. It can be used to create visual representations of ideas or concepts.
 
 Please consult the app documentation for more detailed instructions on how to interact with each tool and explore their capabilities.
+
+

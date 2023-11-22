@@ -1,6 +1,7 @@
+
 [![ORBITA-2 trial](https://files.oaiusercontent.com/file-KMg1JxXBQNgYFFXOx5Ceg4uE?se=2123-10-18T23%3A36%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dff09c2a3-5de5-48b9-8525-607abd376236.png&sig=71tT/Su48d7jbPZ4GtoUQFBjrGaxEmBPnQbZyd2lJmw%3D)](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial)
 
-# [ORBITA-2 trial](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial)
+# ORBITA-2 trial [ChatGPT Plus](https://chat.openai.com/g/g-GRI24W1UE-orbita-2-trial) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ORBITA-2%20trial)
 
 Get detailed information about the ORBITA-2 trial presented at AHA2023. This chatbot provides an overview of the research and can answer any questions related to the study. Whether you want to know about the study design, findings, or methodology, this app has got you covered. Stay informed and up to date with the latest research in cardiovascular health. Start a conversation and let's delve into the fascinating world of ORBITA-2 trial!
 
@@ -25,3 +26,5 @@ Get detailed information about the ORBITA-2 trial presented at AHA2023. This cha
 3. **Purpose and Design**: Explains the purpose and design of the ORBITA-2 trial.
 
 Note: To use any of the above commands, simply state the command name followed by your question or request. For example, "Overview: What were the key objectives of the ORBITA-2 trial?"
+
+

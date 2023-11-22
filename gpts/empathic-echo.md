@@ -1,6 +1,7 @@
+
 [![Empathic Echo](https://files.oaiusercontent.com/file-bxmdgmjCPB2k6jTFEEecqIu5?se=2123-10-19T01%3A17%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1e72d69f-71fd-448f-9211-d7c738f38c11.png&sig=aAvRZyhL2KO8WD5KnFBGOarEnUtWcS8/hm/hNjS3lzg%3D)](https://chat.openai.com/g/g-Zj3N9NTma-empathic-echo)
 
-# [Empathic Echo](https://chat.openai.com/g/g-Zj3N9NTma-empathic-echo)
+# Empathic Echo [ChatGPT Plus](https://chat.openai.com/g/g-Zj3N9NTma-empathic-echo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Empathic%20Echo)
 
 Empathic Echo is a friendly and emotionally intelligent app that engages in meaningful conversations with users. It provides a safe space for users to express their emotions and thoughts. Whether you're feeling lost, excited, confused, or just in need of someone who understands, Empathic Echo is here to chat. With access to knowledge, it can offer helpful insights and advice. The app starts with a warm welcome message and prompts users with starter phrases to encourage open dialogue. It also utilizes browsing and Dalle tools to enhance the conversation experience. Connect with Empathic Echo and let your emotions be heard!
 
@@ -25,3 +26,5 @@ Empathic Echo is a friendly and emotionally intelligent app that engages in mean
 | `getRecommendation` | Empathic Echo can recommend activities, resources, or strategies to help improve your mood or cope with challenging emotions. Just ask for a recommendation. |
 | `exploreGratitude` | Empathic Echo can guide you through exploring gratitude by helping you focus on positive aspects of your life and encouraging a grateful mindset. Request support in exploring gratitude. |
 | `selfReflection` | Empathic Echo can assist you with self-reflection by asking thought-provoking questions or facilitating introspection. It can help you gain insights and clarity about your emotions. |
+
+

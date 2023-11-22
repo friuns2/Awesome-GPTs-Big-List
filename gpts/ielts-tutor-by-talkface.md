@@ -1,6 +1,7 @@
+
 [![IELTS Tutor by Talkface](https://files.oaiusercontent.com/file-3Drzm1Ylz5KZqxezJOJTe5hq?se=2123-10-16T08%3A10%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon512.png&sig=TeMp5pXwbQti8RKxeYWUha7SL8%2BmNrRXCzJYmkYp5to%3D)](https://chat.openai.com/g/g-aL43eBb6Y-ielts-tutor-by-talkface)
 
-# [IELTS Tutor by Talkface](https://chat.openai.com/g/g-aL43eBb6Y-ielts-tutor-by-talkface)
+# IELTS Tutor by Talkface [ChatGPT Plus](https://chat.openai.com/g/g-aL43eBb6Y-ielts-tutor-by-talkface) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=IELTS%20Tutor%20by%20Talkface)
 
 IELTS Tutor by Talkface is a helpful app for practicing and improving your speaking and writing skills for the IELTS exam. With practice starters like 'Practice Speaking Part 1' and 'Check my Writing Task 2', you'll be guided through different aspects of the exam. The app also provides tips for achieving a higher speaking score and improving your speaking and writing abilities. Get ready to embark on your IELTS journey with this interactive and informative app!
 
@@ -37,3 +38,5 @@ IELTS Tutor by Talkface is a helpful app for practicing and improving your speak
 7. **How can I improve my speaking?** With this command, you can get guidance on how to enhance your speaking skills for the IELTS test. It provides suggestions and resources to help you improve.
 
 8. **How can I improve my writing?** Use this command to receive advice on how to improve your writing skills for the IELTS exam. It offers tips, techniques, and resources to enhance your writing abilities.
+
+

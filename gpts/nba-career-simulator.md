@@ -1,6 +1,7 @@
+
 [![NBA Career Simulator](https://files.oaiusercontent.com/file-Rm0P3BCYVb8ZMiG8jRZRQMhV?se=2123-10-18T23%3A08%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D79940d47-9a7e-4def-b1e9-15d39f2101e4.png&sig=Fc2Y4MEgikqKxw1PMrqhvz%2BZi0Whsy0G%2BAvP7TR4kWY%3D)](https://chat.openai.com/g/g-zru0NH9i2-nba-career-simulator)
 
-# [NBA Career Simulator](https://chat.openai.com/g/g-zru0NH9i2-nba-career-simulator)
+# NBA Career Simulator [ChatGPT Plus](https://chat.openai.com/g/g-zru0NH9i2-nba-career-simulator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NBA%20Career%20Simulator)
 
 Experience the excitement of building your own NBA career in this interactive simulator! Whether you're a serious player looking for realistic stats or just want to have fun whimsically, this app has got you covered. Choose your gameplay mode, save your progress, and take on the role of a player, coach, GM, analyst, or journalist. With real stats and a variety of tools at your disposal, you'll feel like you're part of the NBA action. Get ready to make your mark in the basketball world!
 
@@ -31,3 +32,5 @@ Experience the excitement of building your own NBA career in this interactive si
 4. **Main Menu**
    - Access the main menu of the NBA Career Simulator where you can find various options and features.
    - Example usage: "What are the available options in the Main Menu of the NBA Career Simulator?"
+
+

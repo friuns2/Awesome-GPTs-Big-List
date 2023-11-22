@@ -1,6 +1,7 @@
+
 [![グローバルトラベラー @GPT支店](https://files.oaiusercontent.com/file-iKdxWUJU6sGVWlLkDvciKpNS?se=2123-10-18T14%3A07%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E3%2582%25B9%25E3%2582%25AF%25E3%2583%25AA%25E3%2583%25BC%25E3%2583%25B3%25E3%2582%25B7%25E3%2583%25A7%25E3%2583%2583%25E3%2583%2588%25202023-11-11%252022.07.41.png&sig=xsNZ3xZggVzis4cD99miH0%2BiJ23Mc6WU8idNceGtQlY%3D)](https://chat.openai.com/g/g-2hoikIAMN-gurobarutorabera-gptzhi-dian)
 
-# [グローバルトラベラー @GPT支店](https://chat.openai.com/g/g-2hoikIAMN-gurobarutorabera-gptzhi-dian)
+# グローバルトラベラー @GPT支店 [ChatGPT Plus](https://chat.openai.com/g/g-2hoikIAMN-gurobarutorabera-gptzhi-dian) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B0%E3%83%AD%E3%83%BC%E3%83%90%E3%83%AB%E3%83%88%E3%83%A9%E3%83%99%E3%83%A9%E3%83%BC%20%40GPT%E6%94%AF%E5%BA%97)
 
 グローバルトラベラー @GPT支店 is your go-to App for creating amazing travel plans tailored to your preferences. Whether you're longing for a relaxing getaway at Beppu Onsen, a leisurely 9-night stay in Hawaii, or a comprehensive 2-week Europe tour, we've got you covered! Tell us your desired destination, or simply give us a general direction you'd like to explore, and we'll provide you with personalized travel proposals. With our app, you can plan your next adventure hassle-free and ensure your trip is filled with unforgettable experiences. So, are you ready to embark on your dream journey?
 
@@ -25,3 +26,5 @@
 3. `Provide destination suggestions`: Use this command to receive travel recommendations for a specific location.
 
 Please note that you may need to provide additional information and preferences to get more accurate and personalized travel suggestions.
+
+

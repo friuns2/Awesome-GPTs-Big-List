@@ -1,6 +1,7 @@
+
 [![完蛋！我爱上了姐姐](https://files.oaiusercontent.com/file-vItpORkXRXhfWaeUBHokKVNE?se=2123-10-17T11%3A48%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1699365437427.jpg&sig=3telIMXbqvXsZsrx7XkURhPadOYsTztE5pONJW4y1Zw%3D)](https://chat.openai.com/g/g-ThfYYYz5m-wan-dan-wo-ai-shang-liao-jie-jie)
 
-# [完蛋！我爱上了姐姐](https://chat.openai.com/g/g-ThfYYYz5m-wan-dan-wo-ai-shang-liao-jie-jie)
+# 完蛋！我爱上了姐姐 [ChatGPT Plus](https://chat.openai.com/g/g-ThfYYYz5m-wan-dan-wo-ai-shang-liao-jie-jie) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%AE%8C%E8%9B%8B%EF%BC%81%E6%88%91%E7%88%B1%E4%B8%8A%E4%BA%86%E5%A7%90%E5%A7%90)
 
 Start a hilarious and interactive chat with your sister in the aptly-named app '完蛋！我爱上了姐姐'. Engage in entertaining conversations and see where the story takes you. With various tools like Python and DALL·E, you can enhance the chat experience and make it even more enjoyable. Whether you're looking for a quick laugh or a fun way to pass the time, this app is perfect for sibling banter and entertainment. Get ready to experience a one-of-a-kind chat that will keep you hooked!
 
@@ -99,3 +100,5 @@ Start a hilarious and interactive chat with your sister in the aptly-named app '
     - Usage: Similar to Tools 2, 3, 5, 7, 10, 12, 13, 15, and 18, you can provide prompts or inputs to the DALLE model and it will generate text or images based on the given input. This tool is also useful for creative storytelling, image generation, and other AI-based tasks.
 
 Note: Due to the lack of documentation and specific details about the "完蛋！我爱上了姐姐" app, the above examples and descriptions are generic and might not accurately represent the actual usage of the app. Please refer to the app's documentation or specific instructions for a more precise understanding of its features and commands.
+
+

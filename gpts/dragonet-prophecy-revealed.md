@@ -1,6 +1,7 @@
+
 [![Dragonet Prophecy Revealed](https://files.oaiusercontent.com/file-EpXSzjMyS9ElZHYcKajStGvj?se=2123-10-19T01%3A22%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D434b338a-e3de-4ec9-b347-ee7eac96d094.png&sig=eCzxnh7MeJ3cx%2B1PPK%2BTTyGGm%2Bd5MuiWrdMz9eeJij0%3D)](https://chat.openai.com/g/g-hSFQnUnNY-dragonet-prophecy-revealed)
 
-# [Dragonet Prophecy Revealed](https://chat.openai.com/g/g-hSFQnUnNY-dragonet-prophecy-revealed)
+# Dragonet Prophecy Revealed [ChatGPT Plus](https://chat.openai.com/g/g-hSFQnUnNY-dragonet-prophecy-revealed) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dragonet%20Prophecy%20Revealed)
 
 Explore the thrilling world of 'Wings of Fire' with Dragonet Prophecy Revealed! This app is your guide to the captivating world of Pyrrhia, based on the book 1, The Dragonet Prophecy, by Tui T. Sutherland. Discover fascinating information about the dragons of Pyrrhia, learn about the setting of the book, and delve into the theme of destiny in 'Wings of Fire'. With Dragonet Prophecy Revealed, you'll have all the knowledge you need to navigate this fantastical world. So, what are you waiting for? Dive in and embark on an epic adventure!
 
@@ -25,3 +26,5 @@ Explore the thrilling world of 'Wings of Fire' with Dragonet Prophecy Revealed! 
 4. **DALLE tool:** The app also has a DALLE tool, which can generate images based on the prompts or queries related to the 'Wings of Fire' world.
 
 5. **Prompt starters:** The app provides example prompts or conversation starters that you can use to interact with the app and get information about the dragons of Pyrrhia, the book setting, the theme of destiny, or any other related queries about the 'Wings of Fire' series.
+
+

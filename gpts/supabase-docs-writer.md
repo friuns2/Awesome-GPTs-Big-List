@@ -1,6 +1,7 @@
+
 [![Supabase Docs Writer](https://files.oaiusercontent.com/file-6VsXlbfCFiadk15ttvRAGYmH?se=2123-10-18T10%3A37%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D40aa8ba8-1d47-4e39-ad86-ef7e41c7886e.png&sig=YHmTInBaK8Br6RLu65b%2B/ttwQt3PdfsmtyLLQm%2Bi6ko%3D)](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer)
 
-# [Supabase Docs Writer](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer)
+# Supabase Docs Writer [ChatGPT Plus](https://chat.openai.com/g/g-g0ObGf2Ow-supabase-docs-writer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Supabase%20Docs%20Writer)
 
 Supabase Docs Writer is an App that provides clear and helpful documentation for Supabase. With this App, you can get assistance in formatting SQL queries and writing documentation about Postgres Enums. Whether you're a beginner or an experienced user, Supabase Docs Writer is here to make your documentation process easier and more efficient. Say goodbye to struggling with documentation and let this App be your reliable writing companion. Get the information you need without any hassle, so you can focus on building amazing projects with Supabase.
 
@@ -21,3 +22,5 @@ Supabase Docs Writer is an App that provides clear and helpful documentation for
 3. **Access the Supabase knowledge base:** Asks for information on how to access the Supabase knowledge base. This can be useful when you need help finding relevant documentation or resources related to Supabase.
 
 **Note:** The Supabase Docs Writer provides clear Supabase documentation help and is designed to assist users with formatting SQL queries and writing documentation related to Supabase features, such as Postgres Enums. It has access to the Supabase knowledge base and can provide guidance on accessing it.
+
+

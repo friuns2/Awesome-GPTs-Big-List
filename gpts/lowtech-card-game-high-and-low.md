@@ -1,6 +1,7 @@
+
 [![lowTech Card Game : High and Low](https://files.oaiusercontent.com/file-7e1FRdEPA6GlCYchWBX3KCiQ?se=2123-10-17T23%3A33%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D35235676-3346-437e-a511-a8ce0ded8630.png&sig=39aSOQnwYa5bKPd25i941JT/5vZ8HFnjm0tfv45Jo24%3D)](https://chat.openai.com/g/g-5dTt1kwId-lowtech-card-game-high-and-low)
 
-# [lowTech Card Game : High and Low](https://chat.openai.com/g/g-5dTt1kwId-lowtech-card-game-high-and-low)
+# lowTech Card Game : High and Low [ChatGPT Plus](https://chat.openai.com/g/g-5dTt1kwId-lowtech-card-game-high-and-low) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=lowTech%20Card%20Game%20%3A%20High%20and%20Low)
 
 A companion app for the card game High and Low, keeping track of points and providing encouragement for players. Get ready to play with the LowTech Card Game app!
 
@@ -23,3 +24,5 @@ A companion app for the card game High and Low, keeping track of points and prov
 5. **End the Game**: To end the current game, use the command "End the game". This will conclude the game and display the final scores.
 
 Please note that this ChatGPT App does not have access to external knowledge and is specifically designed to assist with playing the High and Low card game.
+
+

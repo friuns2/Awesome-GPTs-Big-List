@@ -1,6 +1,7 @@
+
 [![Shortlister: Cocktail Bars Melbourne](https://files.oaiusercontent.com/file-CII8oPfyYNoyRAtAcHltTi3e?se=2123-10-18T09%3A18%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DShortlister2.png&sig=gFe1/7yOSTVjZS0/KeSvXKgIn/ZxAEohgO59R5FhhBk%3D)](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melbourne)
 
-# [Shortlister: Cocktail Bars Melbourne](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melbourne)
+# Shortlister: Cocktail Bars Melbourne [ChatGPT Plus](https://chat.openai.com/g/g-hOEW7hByw-shortlister-cocktail-bars-melbourne) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Shortlister%3A%20Cocktail%20Bars%20Melbourne)
 
 Discover the best cocktail bars in Melbourne with Shortlister! Whether you're thirsty, looking for a fun night out, or want something different, Shortlister has got you covered. This app provides a curated list of amazing cocktail experiences in Melbourne, so you can easily find the perfect spot for your next night out. Say goodbye to endless searching and hello to the best cocktails in town! Cheers!
 
@@ -30,3 +31,5 @@ Discover the best cocktail bars in Melbourne with Shortlister! Whether you're th
 5. **Explore:** This command will provide you with a curated selection of popular or trending cocktail bars in Melbourne.
 
 Please note that the exact functionality and available commands may vary depending on the specific features and capabilities of the Cocktail Bars Melbourne app.
+
+

@@ -1,6 +1,7 @@
+
 [![Dermatology Advisor](https://files.oaiusercontent.com/file-edTyMkAW2xh3jTJPptPvrUPC?se=2123-10-17T01%3A06%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D28537f9b-7edb-42c7-9daa-d57011a03e36.png&sig=SejEq4xFm0x9BaO2hXSPsGbExJ3NPsZbNHyXAEGLEk8%3D)](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor)
 
-# [Dermatology Advisor](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor)
+# Dermatology Advisor [ChatGPT Plus](https://chat.openai.com/g/g-5pzsDvCLy-dermatology-advisor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dermatology%20Advisor)
 
 Dermatology Advisor is an expert dermatologist chatbot designed to provide patient care and medical education. With this app, you can get help with post-surgical skin care, create interactive dermatology quizzes, receive advice on sun protection, and generate comprehensive skin health guides. You can even share pictures and receive a three-dimensional structure of normal skin. Whether you're a healthcare professional or someone interested in dermatology, this app is your go-to resource for all things skin-related. Get ready to dive into the world of dermatology and elevate your knowledge with Dermatology Advisor!
 
@@ -32,3 +33,5 @@ Dermatology Advisor is an expert dermatologist chatbot designed to provide patie
 
 5. `Give a picture of the three-dimensional structure of normal skin.`
    - If you provide a picture of the three-dimensional structure of normal skin, this command prompts the ChatGPT App to provide relevant information and explanations about the different layers, components, and functions of the skin based on the provided image.
+
+

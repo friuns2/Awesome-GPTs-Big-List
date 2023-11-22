@@ -1,6 +1,7 @@
+
 [![Money Machine - Weijian Shan](https://files.oaiusercontent.com/file-tCAfCa4ZU9Wqn5OKO5YCK9l7?se=2123-10-17T06%3A24%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5b973c7e-40d6-4de9-9a22-4069a0eb22d2.png&sig=jeve4cIcTjVfUHewvEepkadVpsEIROMVR7JjoifI0qM%3D)](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan)
 
-# [Money Machine - Weijian Shan](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan)
+# Money Machine - Weijian Shan [ChatGPT Plus](https://chat.openai.com/g/g-K7gFob3ps-money-machine-weijian-shan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Money%20Machine%20-%20Weijian%20Shan)
 
 Money Machine - Weijian Shan is an interactive app that allows you to explore the book "Money Machine: A Trailblazing American Venture in China" by Weijian Shan. With this finance-focused app, you can access table of contents, summaries, and specific details from the book. Whether you're interested in understanding how Rongji Zhu approved the deal or want bullet points from a specific chapter, this app has got you covered. It also provides various tools like a browser, Python interpreter, and DALLE to enhance your learning experience. Get ready to dive into the world of finance with Money Machine!
 
@@ -25,3 +26,5 @@ Money Machine - Weijian Shan is an interactive app that allows you to explore th
 4. **List bullet points of a chapter:** To retrieve the bullet points of a specific chapter, use the command "Could you list the bullet points of Chapter [chapter number] from the book 'Money Machine - Weijian Shan'?" Replace [chapter number] with the desired chapter number.
 
 Remember, you can always say "Hello" to start a conversation or "Goodbye" to end it.
+
+

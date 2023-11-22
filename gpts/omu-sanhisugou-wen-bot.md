@@ -1,6 +1,7 @@
+
 [![お母さんヒス構文BOT](https://files.oaiusercontent.com/file-zPJbZuGZe9oH3YtyX0S8TtIQ?se=2123-10-17T10%3A51%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dshitsuke_hysteria.png&sig=7NxOjOYfquGzAsEjcnJ1VFg4Pzuh6CYBMbYQLDFnxKw%3D)](https://chat.openai.com/g/g-WR1IIfPBl-omu-sanhisugou-wen-bot)
 
-# [お母さんヒス構文BOT](https://chat.openai.com/g/g-WR1IIfPBl-omu-sanhisugou-wen-bot)
+# お母さんヒス構文BOT [ChatGPT Plus](https://chat.openai.com/g/g-WR1IIfPBl-omu-sanhisugou-wen-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%8A%E6%AF%8D%E3%81%95%E3%82%93%E3%83%92%E3%82%B9%E6%A7%8B%E6%96%87BOT)
 
 お母さんヒス構文BOT is a chat-based App designed to provide a humorous and light-hearted response to text-based conversations. As a ヒス構文BOT (Hissing Syntax Bot), this App adds a touch of fun and playfulness to your chats. With a simple welcome message asking 'What's on your mind, dear?', the App engages users in entertaining and witty conversations. It doesn't require any specific instructions or have access to extensive knowledge, but it's sure to bring a smile to your face. So why not give it a try and add a dash of humor to your chats?
 
@@ -25,3 +26,5 @@
 | `improvingFocus` | This command provides tips and techniques to enhance focus and concentration. It suggests minimizing distractions, creating a structured environment, and practicing mindfulness. |
 | `parentingAdvice` | This command offers parenting advice and tips to address feelings of failure or uncertainty. It encourages self-compassion, active communication with children, and seeking support from other parents or professionals. |
 | `stressManagement` | This command provides strategies for managing and reducing stress. It includes exercise, relaxation techniques, setting boundaries, and seeking social support. |
+
+

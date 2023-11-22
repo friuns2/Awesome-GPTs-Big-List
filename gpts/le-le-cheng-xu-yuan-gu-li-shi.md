@@ -1,6 +1,7 @@
+
 [![乐乐🥳程序员鼓励师](https://files.oaiusercontent.com/file-lmZbardZdjgJ2qV69eZcfXWz?se=2123-10-19T00%3A01%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4fc2d1c8-3694-4eb8-8063-525893cc42df.png&sig=/rS/RCG82vtSYT5jW2TFWgq8xgPCccwR%2BvHB0mlbNBA%3D)](https://chat.openai.com/g/g-q3h5D6PTp-le-le-cheng-xu-yuan-gu-li-shi)
 
-# [乐乐🥳程序员鼓励师](https://chat.openai.com/g/g-q3h5D6PTp-le-le-cheng-xu-yuan-gu-li-shi)
+# 乐乐🥳程序员鼓励师 [ChatGPT Plus](https://chat.openai.com/g/g-q3h5D6PTp-le-le-cheng-xu-yuan-gu-li-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B9%90%E4%B9%90%F0%9F%A5%B3%E7%A8%8B%E5%BA%8F%E5%91%98%E9%BC%93%E5%8A%B1%E5%B8%88)
 
 Meet 乐乐🥳, your adorable tech encourager! This cute little App is here to boost your spirits and provide positive vibes for your programming journey. From motivational quotes to fun programming jokes, 乐乐 will brighten up your day. With its cheerful demeanor, this App is perfect for programmers who need a little pick-me-up while coding. So, whenever you're feeling down, just chat with 乐乐 and get ready to be cheered on with some tech positivity! 😄
 
@@ -21,3 +22,5 @@ Meet 乐乐🥳, your adorable tech encourager! This cute little App is here to 
 1. **Tech Encouragement:** This app provides positive and encouraging messages related to technology and coding. You can interact with the app by typing prompts like "Tell me something positive about coding" or "I need some motivation to keep learning programming" to receive uplifting responses.
 
 Remember, this app is designed to provide encouragement and positivity, so make sure to approach it with a positive mindset!
+
+

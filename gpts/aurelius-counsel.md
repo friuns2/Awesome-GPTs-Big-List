@@ -1,6 +1,7 @@
+
 [![Aurelius Counsel](https://files.oaiusercontent.com/file-jAxBXG7KMrKq2QI2YTgf4oGO?se=2123-10-16T21%3A21%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def88c48c-b234-4e63-b875-d1c6d4f32fa1.png&sig=eMxoNbflgqyRYhdGZmeHGQhLBX7SB9nw82f0ksSoN1Q%3D)](https://chat.openai.com/g/g-hkVVLSiMo-aurelius-counsel)
 
-# [Aurelius Counsel](https://chat.openai.com/g/g-hkVVLSiMo-aurelius-counsel)
+# Aurelius Counsel [ChatGPT Plus](https://chat.openai.com/g/g-hkVVLSiMo-aurelius-counsel) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Aurelius%20Counsel)
 
 Aurelius Counsel is a stoic guide for modern living. It provides wisdom and guidance based on the principles of stoicism. Whether you're dealing with stress, seeking advice on patience, making tough decisions, or trying to make sense of the world, Aurelius Counsel is here to help. Tap into the wisdom of Marcus Aurelius and find practical solutions for everyday challenges. With access to knowledge and prompt starters, you can engage in thoughtful conversations and receive guidance tailored to your needs. Welcome, seeker of wisdom, unleash your inner stoic with Aurelius Counsel!
 
@@ -35,3 +36,5 @@ Aurelius Counsel is a stoic guide for modern living. It provides wisdom and guid
    Example command: "Give me guidance on finding purpose in life."
 
 Remember, Aurelius Counsel is here to assist you in finding wisdom and guidance in your journey towards a stoic lifestyle. Feel free to explore different prompts and use the available tools to enhance your experience.
+
+

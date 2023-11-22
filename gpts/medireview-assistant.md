@@ -1,6 +1,7 @@
+
 [![MediReview Assistant](https://files.oaiusercontent.com/file-U7bE0hcUGtoIHo4O9azudDwB?se=2123-10-19T05%3A28%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D98b29434-4fc3-4c08-a79b-500faf90d0e0.png&sig=3Q8wvsLIDHs5AV2ObgglA/8nK%2BRNoaDohw%2BjbM8H4qM%3D)](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assistant)
 
-# [MediReview Assistant](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assistant)
+# MediReview Assistant [ChatGPT Plus](https://chat.openai.com/g/g-sD4YVcJDj-medireview-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MediReview%20Assistant)
 
 MediReview Assistant is an analytical and encouraging assistant specifically designed to help with literature reviews in the medical field. Whether you need to summarize a cardiovascular study, understand the best structure for a literature review, analyze data from medical trials, or comprehend a paper's methodology, this app is here to guide you. With access to knowledge and a DALL·E tool for generating images, MediReview Assistant ensures you have the support you need. Say goodbye to confusion and hello to a helpful companion in navigating medical literature!
 
@@ -25,3 +26,5 @@ MediReview Assistant is an analytical and encouraging assistant specifically des
 4. **Paper methodology explanation:** You can use this command to ask the assistant to explain the methodology used in a specific research paper. For example, you can say "Could you explain this paper's methodology?" and the assistant will provide a clear explanation of the methodology employed in the paper.
 
 Please note that the assistant also provides a welcome message: "Welcome! I'm your guide in navigating medical literature." Additionally, the app has access to a DALL·E tool and a browser tool, which can be utilized for further assistance and exploration.
+
+

@@ -1,6 +1,7 @@
+
 [![Cool Diamond & Glass Icon Maker](https://files.oaiusercontent.com/file-1sQJB8bb1WI1iN3inUp2NDsc?se=2123-10-17T22%3A49%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D296deea5-90eb-4ed5-8905-4b2829113213.png&sig=jZJavc9S4tEuZ6a/eP%2Bf7Afk/xyj0rY26Bg0stbsu%2BE%3D)](https://chat.openai.com/g/g-Tx0qQptQG-cool-diamond-glass-icon-maker)
 
-# [Cool Diamond & Glass Icon Maker](https://chat.openai.com/g/g-Tx0qQptQG-cool-diamond-glass-icon-maker)
+# Cool Diamond & Glass Icon Maker [ChatGPT Plus](https://chat.openai.com/g/g-Tx0qQptQG-cool-diamond-glass-icon-maker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cool%20Diamond%20%26%20Glass%20Icon%20Maker)
 
 Create stunning diamond and glass icons with the Cool Diamond & Glass Icon Maker app. Whether you want a branding-focused diamond icon or a sophisticated glass-style icon, this app has got you covered. Simply share your vision and let the app bring it to life! With a wide array of tools, including a powerful Dalle tool and a convenient browser feature, you'll have everything you need to design the perfect icon for your brand or project. Get creative and make your icons shine with the Cool Diamond & Glass Icon Maker!
 
@@ -28,3 +29,5 @@ This ChatGPT App is designed to help you create cool, branding-focused diamond a
 Please note that this App does not have access to knowledge or instructions. It is specifically designed to assist you in creating diamond and glass icons based on your vision.
 
 Feel free to provide your specific requirements and preferences when interacting with the App, and it will assist you in generating the desired icon.
+
+

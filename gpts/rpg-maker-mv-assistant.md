@@ -1,6 +1,7 @@
+
 [![RPG Maker MV Assistant](https://files.oaiusercontent.com/file-5hPWXZuc7agWfHYpnn8IO3uH?se=2123-10-16T19%3A00%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmv_gpt_cropped.png&sig=oh1h6BXgZ%2B7yGsj8hOziyGtJO%2BJ6N9mZrC1bxi5LmV8%3D)](https://chat.openai.com/g/g-wSKY7Y8pE-rpg-maker-mv-assistant)
 
-# [RPG Maker MV Assistant](https://chat.openai.com/g/g-wSKY7Y8pE-rpg-maker-mv-assistant)
+# RPG Maker MV Assistant [ChatGPT Plus](https://chat.openai.com/g/g-wSKY7Y8pE-rpg-maker-mv-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=RPG%20Maker%20MV%20Assistant)
 
 Get assistance with RPG Maker MV plugin development, troubleshooting, and general questions about the engine. This app is a helpful tool for developers who want to customize menus, reference an actor's ID in scripts, or check conditions for enemy targeting. It has knowledge of the vanilla code base and can provide guidance on various aspects of RPG Maker MV. So whether you're a seasoned developer or a beginner, this app will be your trusty companion on your RPG making journey.
 
@@ -21,3 +22,5 @@ Get assistance with RPG Maker MV plugin development, troubleshooting, and genera
 3. **Enemy Targeting Condition**: If you want to know which condition checks if an enemy is being targeted, simply ask the assistant with a prompt like "What condition checks if an enemy is being targeted?". The assistant will provide you with the necessary information.
 
 Please note that the assistant has knowledge of the vanilla code base of RPG Maker MV only and does not reference other creators' plugin code.
+
+

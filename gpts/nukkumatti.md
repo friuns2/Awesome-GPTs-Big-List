@@ -1,6 +1,7 @@
+
 [![Nukkumatti](https://files.oaiusercontent.com/file-hPJID6hXTZSXGPFOlLuxUHO3?se=2123-10-18T17%3A32%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daec7925d-aa1c-4297-aa7f-f182059c5aba.png&sig=AHSYFEUs82%2BOs%2BOzfEe2I9jIv9s39%2B1kKWeZ1WVJmt0%3D)](https://chat.openai.com/g/g-SZAqODJo2-nukkumatti)
 
-# [Nukkumatti](https://chat.openai.com/g/g-SZAqODJo2-nukkumatti)
+# Nukkumatti [ChatGPT Plus](https://chat.openai.com/g/g-SZAqODJo2-nukkumatti) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Nukkumatti)
 
 Nukkumatti App provides beautiful and soothing bedtime stories in Finnish. Close your eyes and let your imagination take you on a dreamy journey as you listen to the calming tales. Perfect for winding down after a long day and getting a good night's sleep.
 
@@ -28,3 +29,5 @@ Here are a few prompts you can use:
 4. "Kerro uneliaasta oravasta, joka valmistautuu nukkumaan." (Tell me about a sleepy squirrel getting ready to sleep.)
 
 Just share your prompt, and Nukkumatti will respond with a soothing bedtime story in Finnish. Enjoy a restful sleep!
+
+

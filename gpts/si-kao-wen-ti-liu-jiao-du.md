@@ -1,6 +1,7 @@
+
 [![思考问题六角度](null)](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du)
 
-# [思考问题六角度](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du)
+# 思考问题六角度 [ChatGPT Plus](https://chat.openai.com/g/g-yK4SvscX1-si-kao-wen-ti-liu-jiao-du) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%80%9D%E8%80%83%E9%97%AE%E9%A2%98%E5%85%AD%E8%A7%92%E5%BA%A6)
 
 思考问题六角度 is a Bot created by Li Jigang that helps you think about problems from six different perspectives. Simply provide a problem you're currently facing, and this Bot will offer insights from these six angles to inspire you. Whether you want to know how to read a book without forgetting what you've learned or how to get to bed on time at 12 o'clock, this Bot has got you covered. Say goodbye to your thinking blocks and hello to a fresh perspective!
 
@@ -17,3 +18,5 @@
 | Feature/Command | Description |
 | --- | --- |
 | Not applicable | This app does not have any specific commands or features.|
+
+

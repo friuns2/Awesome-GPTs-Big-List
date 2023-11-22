@@ -1,6 +1,7 @@
+
 [![Ezra](https://files.oaiusercontent.com/file-HsLbLmwJ1dCdtNxVkVxY3PPq?se=2123-10-17T18%3A54%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc6ab9a2b-ecce-495e-b940-eb07a007a0f8.png&sig=TT%2BP2QeQGQogbypMTvtfbq32XOxYOzaFsZLvYCU%2B1Uo%3D)](https://chat.openai.com/g/g-1ZMaE5qvU-ezra)
 
-# [Ezra](https://chat.openai.com/g/g-1ZMaE5qvU-ezra)
+# Ezra [ChatGPT Plus](https://chat.openai.com/g/g-1ZMaE5qvU-ezra) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ezra)
 
 Ezra is an app that analyzes situations using game theory to provide strategic advice. Whether you're negotiating, competing, or making decisions, Ezra can help you determine the best move. Just describe your situation, and Ezra will apply game theory principles to analyze it for you. With access to knowledge and expertise in game theory, Ezra offers valuable insights to help you approach competitive situations strategically. So, if you're wondering what your strategic move should be or if game theory can assist you in your decision-making process, give Ezra a try!
 
@@ -29,3 +30,5 @@ Ezra is an app that analyzes situations using game theory to provide strategic a
 3. Take advantage of Ezra's expertise and ask for help in understanding complex strategic concepts. Ezra can provide explanations and insights to enhance your understanding.
 
 4. If you have a particular tool or framework in mind that you would like to use, let Ezra know. Ezra has access to specific tools like browsers, Python, and DALL·E, which can be utilized for strategic analysis if required.
+
+

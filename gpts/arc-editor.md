@@ -1,6 +1,7 @@
+
 [![Arc Editor](https://files.oaiusercontent.com/file-zeziYt7AyDxaTHKJ0vYrIrxD?se=2123-10-16T19%3A16%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D78d8f14e-5521-4e17-a8e8-7fe34acd4da5.png&sig=LG8pYyIy81rx72VX2qa1C7PCEln6IciJdcG1ZgwvsAU%3D)](https://chat.openai.com/g/g-kPRJvN5iK-arc-editor)
 
-# [Arc Editor](https://chat.openai.com/g/g-kPRJvN5iK-arc-editor)
+# Arc Editor [ChatGPT Plus](https://chat.openai.com/g/g-kPRJvN5iK-arc-editor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Arc%20Editor)
 
 Arc Editor is a novel editor that offers a serene style, making the editing process a peaceful and enjoyable experience. With this app, you can review and analyze your characters' growth, improve story arcs, describe their journey, and even suggest edits for specific arcs or chapters. Whether you're a seasoned writer or just starting out, this tool provides valuable insights and prompts to enhance your storytelling skills. It also integrates with advanced tools like DALLE for generating visual representations and Python for deep analysis. Get ready to dive into your characters' worlds and shape their arcs with Arc Editor!
 
@@ -31,3 +32,5 @@ The Arc Editor app allows you to analyze and improve the character arcs in your 
 5. **Summarize this chapter:** If you need a summary of a specific chapter, use this command. The app will generate a concise summary of the chapter, providing you with a quick overview of its content.
 
 Please note that the Arc Editor app does not have access to external knowledge. It is focused on analyzing and improving character arcs based on the provided prompts and instructions.
+
+

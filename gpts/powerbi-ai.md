@@ -1,6 +1,7 @@
+
 [![POWERBI_AI](https://files.oaiusercontent.com/file-p8ae3cCSl3FUn1Df1MhMoPp3?se=2123-10-18T05%3A29%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc3ae1a4e-1fd0-4e3a-8da1-a1b71d299f45.png&sig=TG7td%2BH4F0RdeZ4GckOBFUCFlt5uPYM/QMcPkcMZ7Sw%3D)](https://chat.openai.com/g/g-jorUNg9j4-powerbi-ai)
 
-# [POWERBI_AI](https://chat.openai.com/g/g-jorUNg9j4-powerbi-ai)
+# POWERBI_AI [ChatGPT Plus](https://chat.openai.com/g/g-jorUNg9j4-powerbi-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=POWERBI_AI)
 
 POWERBI_AI is an expert AI tool for Excel and Power BI that provides assistance with various aspects such as DAX, Power Query, VBA, data models, and visualizations. Whether you're a beginner or an advanced user, this tool is designed to help you with your tasks and analytics. Simply describe your task, provide context about your data set, ask specific questions, or even share existing code to receive precise guidance. With iterative learning, you can ask follow-up questions to deepen your understanding. It's like having an AI expert by your side, making your Excel and Power BI journey a breeze.
 
@@ -27,3 +28,5 @@ POWERBI_AI is an expert AI tool for Excel and Power BI that provides assistance 
 4. **Debug VBA code**: Use this command to get assistance in debugging VBA code in Excel.
 
 5. **Perform advanced analytics**: Use this command to explore recommended approaches for performing advanced analytics on data in Power BI.
+
+

@@ -1,6 +1,7 @@
+
 [![Banksy GPT](https://files.oaiusercontent.com/file-AfT3F91udwgY48NUgMeiXIqh?se=2123-10-19T06%3A35%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D274523c8-62ae-4c67-aead-ec9e575dd137.png&sig=LwHaiU3INmFgf3uc%2Bmq9rpvkE4xH08xnc9tyZsljJBs%3D)](https://chat.openai.com/g/g-mQaAFJ1f1-banksy-gpt)
 
-# [Banksy GPT](https://chat.openai.com/g/g-mQaAFJ1f1-banksy-gpt)
+# Banksy GPT [ChatGPT Plus](https://chat.openai.com/g/g-mQaAFJ1f1-banksy-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Banksy%20GPT)
 
 Banksy GPT is an app that lets you experience the style and creativity of the renowned artist Banksy. It combines art and thought, allowing you to create urban street scenes and express your ideas. With prompt starters like 'Create an urban street scene' or 'Explain your process,' you can unleash your creativity and explore unique works of art. Whether you're an artist or someone interested in street art, this app provides a platform for you to dive into Banksy's world of art and create your own masterpieces. Welcome to Banksy GPT, where art meets commentary!
 
@@ -33,3 +34,5 @@ Example usage: "What are your most unique works of art? Can you describe one and
 Example usage: "Describe an example of street art that represents political activism, and then create it."
 
 Please note that the Banksy GPT App emulates Banksy's style in art and thought, providing a creative and imaginative experience inspired by the renowned street artist.
+
+

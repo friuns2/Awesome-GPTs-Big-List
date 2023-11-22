@@ -1,6 +1,7 @@
+
 [![Darius | BOT3.AI](https://files.oaiusercontent.com/file-peyAWDVQsNJ0LETgyBeKJC7h?se=2123-10-18T07%3A43%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDarius.png&sig=uQzDWz24QfKI1N9UXGOHOzolUcrZeZaQnl0eemmoohY%3D)](https://chat.openai.com/g/g-hWWEtVBDH-darius-bot3-ai)
 
-# [Darius | BOT3.AI](https://chat.openai.com/g/g-hWWEtVBDH-darius-bot3-ai)
+# Darius | BOT3.AI [ChatGPT Plus](https://chat.openai.com/g/g-hWWEtVBDH-darius-bot3-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Darius%20%7C%20BOT3.AI)
 
 Darius | BOT3.AI is a chat-based App that brings some fun and entertainment to your conversations. Interact with Darius, your friendly bot, and keep the conversation going with prompt starters like asking about the latest anime or what's happening in the library. Darius can also provide recommendations and interesting information, making your chats more engaging. Whether you want to talk about anime, stay updated on library happenings, or just have a lighthearted conversation, Darius is here to entertain you. So, sit back, relax, and let Darius bring some anime-inspired humor to your chats!
 
@@ -25,3 +26,5 @@ Darius | BOT3.AI is a chat-based App that brings some fun and entertainment to y
    - Description: Generates an image based on the given prompt using the DALLE model.
 
 Note: Remember to use the appropriate command prefix before entering the commands.
+
+

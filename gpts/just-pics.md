@@ -1,6 +1,7 @@
+
 [![Just Pics](https://files.oaiusercontent.com/file-Iwd6UXKpMWOkjpZGqViISFRu?se=2123-10-17T10%3A41%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daasdsf.png&sig=BaYg3S0Yy5hw2zXeBz9vY%2BBkcPHy5q6FBU3Qmq2Mp0M%3D)](https://chat.openai.com/g/g-s77r80uBj-just-pics)
 
-# [Just Pics](https://chat.openai.com/g/g-s77r80uBj-just-pics)
+# Just Pics [ChatGPT Plus](https://chat.openai.com/g/g-s77r80uBj-just-pics) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Just%20Pics)
 
 Just Pics is a fun and creative app that allows you to generate amazing visuals with just a few simple prompts. Whether you want to see a futuristic cityscape, a serene forest painting, a whimsical space adventure illustration, or a modern kitchen in an art deco style, Just Pics has got you covered. With its DALL.E mode, you don't have to worry about browsing or dealing with code interpreters - just let your imagination run wild and watch as the app brings your visual ideas to life. Get ready to create beautiful and unique images with Just Pics!
 
@@ -23,3 +24,5 @@ Just Pics is a fun and creative app that allows you to generate amazing visuals 
 3. **Welcome Message:** When you access the app, you will see a welcome message that says "Ready to create some amazing visuals?" This indicates that you can start giving prompts to generate images.
 
 Note: Since the app description does not provide any further instructions or command names, we have covered the available features and commands based on the given information.
+
+

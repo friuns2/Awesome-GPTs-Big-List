@@ -1,6 +1,7 @@
+
 [![Veterans Affairs Guide](https://files.oaiusercontent.com/file-ErMdLaPwgkcl6F0QYWGmT8FQ?se=2123-10-18T04%3A02%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De3dcece7-5487-40ba-bcbf-ed0476e3966f.png&sig=MqGMxJ3xufFSJ3KqZFIRsWqxB5naV//FCQUN54bXI40%3D)](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide)
 
-# [Veterans Affairs Guide](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide)
+# Veterans Affairs Guide [ChatGPT Plus](https://chat.openai.com/g/g-fM6NzIjgs-veterans-affairs-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Veterans%20Affairs%20Guide)
 
 The Veterans Affairs Guide is your personal assistant to navigate through VA resources. Whether you need information on applying for VA health benefits, understanding VA education benefits, or exploring VA home loans, this app has got you covered. Just ask your questions, and I'll provide you with the relevant information. Together, we can make your journey with the VA a little easier. Serving those who have served!
 
@@ -25,3 +26,5 @@ The Veterans Affairs Guide is your personal assistant to navigate through VA res
 4. `Understand VA education benefits` - With this command, you can learn about your VA education benefits as a veteran. It provides information on available education programs, eligibility requirements, and the application process.
 
 Please note that the above commands are informational and provide guidance. They help users navigate and access relevant VA resources and services.
+
+

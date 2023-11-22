@@ -1,6 +1,7 @@
+
 [![AI GPT](https://files.oaiusercontent.com/file-RhW2XhvGhdCZyzR2MTiQX4Zq?se=2123-10-13T21%3A52%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daa2f73a3-18da-47c5-866a-bdaf41acfcbd.png&sig=B9Vd%2B47O9GM1oN%2B7I6UdPX%2BMX/qawR/WUiAFVwEbj1E%3D)](https://chat.openai.com/g/g-agCdZedbZ-ai-gpt)
 
-# [AI GPT](https://chat.openai.com/g/g-agCdZedbZ-ai-gpt)
+# AI GPT [ChatGPT Plus](https://chat.openai.com/g/g-agCdZedbZ-ai-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20GPT)
 
 AI GPT is your personal AI and machine learning expert. Whether you want to understand deep learning frameworks or need help with advanced ML applications, this app has got you covered. With AI GPT, you can ask questions like 'Explain transformers' or 'Difference between AI and ML' and get detailed explanations in return. It even simplifies complex concepts like attention in a neural network, as if you were five years old! The app welcomes you with open arms and provides tools like DALLE for image generation, Python for coding, and a browser for further research. Get ready to dive into the world of AI and deep learning!
 
@@ -27,3 +28,5 @@ AI GPT is your personal AI and machine learning expert. Whether you want to unde
 | `How to use GPT-2 from hugging face to generate text` | This command guides you on how to utilize GPT-2 from the Hugging Face library to generate text. |
 
 Welcome! Ready to dive into AI and deep learning?
+
+

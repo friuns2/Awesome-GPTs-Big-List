@@ -1,6 +1,7 @@
+
 [![UX Writing Ninja](https://files.oaiusercontent.com/file-Xj2XvfoQXlQ5MUrhwDnIkDk7?se=2123-10-16T22%3A03%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0b1a1963-dc23-459b-83c6-588d5c2aaa10.png&sig=YrTTquOlFnF9WnWDWdRHJFSkdLHerUuRuGiaTJzYnl8%3D)](https://chat.openai.com/g/g-TUoqCgVQf-ux-writing-ninja)
 
-# [UX Writing Ninja](https://chat.openai.com/g/g-TUoqCgVQf-ux-writing-ninja)
+# UX Writing Ninja [ChatGPT Plus](https://chat.openai.com/g/g-TUoqCgVQf-ux-writing-ninja) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=UX%20Writing%20Ninja)
 
 Meet the UX Writing Ninja, your go-to app for all your interface copy needs! Whether you need help writing a tooltip, creating a compelling CTA, or learning best practices for confirmation modals, this app has got you covered. With access to a wealth of knowledge and a team of expert UX writers, you can trust that your copy will be concise, clear, and engaging. Say goodbye to confusing and dull interface text, and let the UX Writing Ninja guide you towards a user-friendly and delightful experience. Get ready to level up your UX writing game!
 
@@ -31,3 +32,5 @@ Meet the UX Writing Ninja, your go-to app for all your interface copy needs! Whe
 7. The App has access to knowledge and can assist you in generating effective and user-friendly interface copy.
 
 8. The available tools for this App include a browser tool, a DALL·E tool (an AI model for image generation), and a Python tool.
+
+

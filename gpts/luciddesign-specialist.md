@@ -1,6 +1,7 @@
+
 [![LucidDesign Specialist](https://files.oaiusercontent.com/file-AzTNB7AO9CqgU4TREHaKqMXX?se=2123-10-17T15%3A09%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36eb771c-2d6f-415c-a0ee-eee174c759eb.webp&sig=hTWP%2BXjTBa3qbHMoVw%2B5k5q2y2Kkw12IPRMETFJwZ6M%3D)](https://chat.openai.com/g/g-P59DeQMOd-luciddesign-specialist)
 
-# [LucidDesign Specialist](https://chat.openai.com/g/g-P59DeQMOd-luciddesign-specialist)
+# LucidDesign Specialist [ChatGPT Plus](https://chat.openai.com/g/g-P59DeQMOd-luciddesign-specialist) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LucidDesign%20Specialist)
 
 LucidDesign Specialist is a design assistant that helps refine and enhance your design projects. With this app, you can analyze design briefs, provide design feedback, assist with drafting emails, verify design requirements, suggest creative input, and perform the final check. It offers a range of tools to support your design process, including browsing tools, a DALL·E integration, and Python integration. Whether you're a designer or someone working on a design project, LucidDesign Specialist will assist you every step of the way to ensure your designs are top-notch.
 
@@ -35,3 +36,5 @@ LucidDesign Specialist is a design assistant that helps refine and enhance your 
 8. **Tool: Draft Email** - Assist with drafting emails related to the design project, such as client communications or project updates.
 
 Note: The specific functionality and usage details of each tool may vary based on the app implementation and capabilities. Please refer to the app documentation for more information on how to use each tool effectively.
+
+

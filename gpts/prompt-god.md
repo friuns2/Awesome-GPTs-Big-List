@@ -1,6 +1,7 @@
+
 [![PROMPT GOD](https://files.oaiusercontent.com/file-eN97lTJZPEUifZunZVSnHiZ6?se=2123-10-15T22%3A27%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dad1e1bdc-d752-4d5b-b8d1-fd74b57fa954.png&sig=I7Mjr2Rh0e48Bc5rRYY3pA6rgjLbD49pl9aqVWasbTo%3D)](https://chat.openai.com/g/g-teFAqFyxD-prompt-god)
 
-# [PROMPT GOD](https://chat.openai.com/g/g-teFAqFyxD-prompt-god)
+# PROMPT GOD [ChatGPT Plus](https://chat.openai.com/g/g-teFAqFyxD-prompt-god) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PROMPT%20GOD)
 
 PROMPT GOD is an AI image generator prompt app that guides users in crafting detailed prompts for their AI art. With access to knowledge and a variety of tools, you can browse emerging trends, create unexpected prompts, make image memes using popular news, and generate modular prompts. Whether you're an artist or simply looking for inspiration, PROMPT GOD is here to help you channel your creativity. So welcome aboard and let's get those AI art masterpieces rolling!
 
@@ -25,3 +26,5 @@ PROMPT GOD is an AI image generator prompt app that guides users in crafting det
 4. **Generate modular prompts** - This command helps you create a modular prompt for image generators. It enables you to break down your prompt into smaller components, allowing for more control and creativity in the generation process.
 
 Note: The specifics of how to interact with the commands and tools are not provided in the given data. For detailed instructions on how to use each command and tool, please refer to the documentation or user guide provided with the ChatGPT App.
+
+

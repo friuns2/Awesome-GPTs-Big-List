@@ -1,6 +1,7 @@
+
 [![MiniScript Mentor](https://files.oaiusercontent.com/file-JserUEzGO9JSQWSSULpwQtBK?se=2123-10-20T17%3A34%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D916abcec-e98b-4187-b311-fae7456af3ac.png&sig=XGbcl3idPhE1SSuUbAapJEogwRzHs0M9AjNBw5/N2No%3D)](https://chat.openai.com/g/g-i8hNNTBNy-miniscript-mentor)
 
-# [MiniScript Mentor](https://chat.openai.com/g/g-i8hNNTBNy-miniscript-mentor)
+# MiniScript Mentor [ChatGPT Plus](https://chat.openai.com/g/g-i8hNNTBNy-miniscript-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MiniScript%20Mentor)
 
 Get expert guidance and support for MiniScript programming with MiniScript Mentor. Whether you're a beginner or an experienced programmer, MiniScript Mentor is here to help you excel in MiniScript. Ask questions, get help with debugging, learn the best practices for looping, understand functions, and more. With access to knowledgeable mentors, you'll receive personalized assistance tailored to your needs. MiniScript Mentor also provides a variety of tools including a DALLE model for generating code, a browser for web development, and a Python interpreter. Start your MiniScript journey today!
 
@@ -37,3 +38,5 @@ Get expert guidance and support for MiniScript programming with MiniScript Mento
    - Example command: "How do I define and call a function in MiniScript?"
 
 Please note that the above descriptions and commands are illustrative and you can tailor your prompts based on your specific programming needs.
+
+

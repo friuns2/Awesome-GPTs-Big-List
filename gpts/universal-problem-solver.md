@@ -1,6 +1,7 @@
+
 [![Universal Problem Solver](https://files.oaiusercontent.com/file-moEpDXlAKBGpE3wkcMsNpAzP?se=2123-10-20T12%3A44%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df727cd8f-24fe-48a1-a51c-d82f3af9d226.png&sig=WfrzyqkygiHca3bO4DA6IRYk/ekX5R5GDHcr2QMOMv8%3D)](https://chat.openai.com/g/g-kiYjt5hrG-universal-problem-solver)
 
-# [Universal Problem Solver](https://chat.openai.com/g/g-kiYjt5hrG-universal-problem-solver)
+# Universal Problem Solver [ChatGPT Plus](https://chat.openai.com/g/g-kiYjt5hrG-universal-problem-solver) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Universal%20Problem%20Solver)
 
 The Universal Problem Solver is here to help you tackle any issue with a retrospective and thorough approach. Whether you're facing a personal challenge or a complex problem at work, this app has got your back. Start by describing the problem in detail, outlining your goals and any constraints you need to consider. The app will then guide you through a process of revisiting previous findings and exploring potential solutions. With access to AI-powered image and text generation tools, as well as a browser for research purposes, you'll have all the resources you need to come up with improved solutions. Get ready to solve problems like a pro!
 
@@ -39,3 +40,5 @@ Below are the available features and commands for the Universal Problem Solver C
    - Browser 3: This is another instance of the Browser tool, offering additional web browsing capability.
 
 Please note that the provided example prompts and tools are not exhaustive, and you can experiment with different prompts and explore the available tools to find the best approach to analyze and solve your problem.
+
+

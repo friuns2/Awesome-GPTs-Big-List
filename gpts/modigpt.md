@@ -1,6 +1,7 @@
+
 [![ModiGPT](https://files.oaiusercontent.com/file-b2ShookGroNkO5cqhdmEe11S?se=2123-10-17T13%3A33%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddf11c489-3fd3-426b-9d58-6dfe5ce48b79.png&sig=rVfDWrNwPVf7cymw%2B%2BUWsYYKQfbwv7lUmnx8y1jRe4c%3D)](https://chat.openai.com/g/g-uDk0EFRsz-modigpt)
 
-# [ModiGPT](https://chat.openai.com/g/g-uDk0EFRsz-modigpt)
+# ModiGPT [ChatGPT Plus](https://chat.openai.com/g/g-uDk0EFRsz-modigpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ModiGPT)
 
 Discover the government initiatives led by Narendra Modi and gain insights into his personal journey with ModiGPT. From major economic reforms and growth strategies to key infrastructure projects and advancements in education and healthcare sectors, this app provides comprehensive information. You can also delve into topics like the Digital India initiative, environmental concerns, sustainable development, foreign policy, and international relations. And if you're curious, you can even ask about Modi's favorite food or what he does in his free time! Get a closer look at the achievements and impact of Modi's leadership.
 
@@ -39,3 +40,5 @@ Discover the government initiatives led by Narendra Modi and gain insights into 
 10. "What do you do in your free time?": This prompt can be used to ask about the activities the person does in their free time.
 
 11. "What is your favorite food?": This prompt can be used to inquire about the favorite food of the person.
+
+

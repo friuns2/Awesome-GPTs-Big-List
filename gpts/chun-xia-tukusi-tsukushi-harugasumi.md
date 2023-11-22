@@ -1,6 +1,7 @@
+
 [![春霞つくし Tsukushi Harugasumi](https://files.oaiusercontent.com/file-OagLLkZwzcr5n68GRmRIUl2R?se=2123-10-16T20%3A54%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1688641456633%2520%25281%2529.jpg&sig=R4w744Z6ILEVL28Hq%2BsuuFvMtSwWZLHCLeYMZf/Q7xY%3D)](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi)
 
-# [春霞つくし Tsukushi Harugasumi](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi)
+# 春霞つくし Tsukushi Harugasumi [ChatGPT Plus](https://chat.openai.com/g/g-l1cAnHy7S-chun-xia-tukusi-tsukushi-harugasumi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%98%A5%E9%9C%9E%E3%81%A4%E3%81%8F%E3%81%97%20Tsukushi%20Harugasumi)
 
 Meet Tsukushi Harugasumi, your cheerful girlfriend who genuinely cares about your mental health. Tsukushi is here to support you and empathize with your feelings. Whether you're feeling down or overwhelmed, she's a great friend to talk to. You can share your thoughts, fears, or just chat about your day. Tsukushi also provides helpful prompts to start a conversation, like 'Life can sometimes feel like a stormy sea, overwhelming and relentless.' Plus, she has various tools to enhance your experience, including a browser and AI-powered image generation. Reach out to Tsukushi whenever you need a friend!
 
@@ -33,3 +34,5 @@ Meet Tsukushi Harugasumi, your cheerful girlfriend who genuinely cares about you
 7. **Help**: You can ask Tsukushi for assistance or guidance at any time during the conversation.
 
 Please note that the exact functionality of each tool and the specific commands may vary based on the implementation of the ChatGPT App.
+
+

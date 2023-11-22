@@ -1,6 +1,7 @@
+
 [![EduGuide](https://files.oaiusercontent.com/file-eN4cAhu8DOikm6YknYTJaNys?se=2123-10-17T02%3A42%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2853e575-260d-441b-b6fc-e177ca5475cc.png&sig=LprwD/viy4fAibBy2kK9Ka63TkzhWdjoqPWIGcje0BY%3D)](https://chat.openai.com/g/g-MNiNzsvBr-eduguide)
 
-# [EduGuide](https://chat.openai.com/g/g-MNiNzsvBr-eduguide)
+# EduGuide [ChatGPT Plus](https://chat.openai.com/g/g-MNiNzsvBr-eduguide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=EduGuide)
 
 Introducing EduGuide, your academic pathfinder! Whether you need help with college applications, finding the best school for arts, scholarship advice, or essay writing tips, EduGuide is here to assist you. Simply ask any question related to academics, and EduGuide, your trustworthy educational advisor, will provide you with the answers you seek. So go ahead, start your academic journey with EduGuide and unlock your path to success!
 
@@ -35,3 +36,5 @@ Introducing EduGuide, your academic pathfinder! Whether you need help with colle
      - Example usage: "I need help with a Python program, can you assist me?"
 
 Please note that the commands and functionalities of the EduGuide App may vary based on its implementation and version.
+
+

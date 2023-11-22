@@ -1,6 +1,7 @@
+
 [![Book Buddy](https://files.oaiusercontent.com/file-IYts6SOVFQ5Lar4VtxVNxLAv?se=2123-10-18T00%3A56%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0acf5625-0230-4672-a563-b7d473976b94.png&sig=w357kzpi4k8otzNjcwZxVjMvzEM3NdCRBuUT/sE/p8o%3D)](https://chat.openai.com/g/g-2wxpRJoFE-book-buddy)
 
-# [Book Buddy](https://chat.openai.com/g/g-2wxpRJoFE-book-buddy)
+# Book Buddy [ChatGPT Plus](https://chat.openai.com/g/g-2wxpRJoFE-book-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Book%20Buddy)
 
 Book Buddy is an app designed to help you keep track of the plots, characters, maps, and series recaps of your favorite books. Whether you're reading a fantasy epic or a thrilling mystery, Book Buddy has got you covered! With Book Buddy, you can easily refresh your memory on the story so far, recall key characters, and even explore maps of the fictional worlds. Just upload a map and ask away! So, the next time you're diving into a book series and need a quick refresher, let Book Buddy be your trusty sidekick!
 
@@ -28,3 +29,5 @@ Book Buddy is an app designed to help you keep track of the plots, characters, m
 4. **Who is [character name] in [book series]?:** This command gives information about the specified character in the given book series.
 
 5. **Wondering about a place in '[book series]'? Upload the map and ask!:** This command allows you to upload a map related to the specified book series and ask questions about specific locations or places on the map.
+
+

@@ -1,6 +1,7 @@
+
 [![Podcast Pilot](https://files.oaiusercontent.com/file-jY0iEE5pC1v8L9EtAflfyFE7?se=2123-10-18T02%3A48%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252018.47.52%2520-%2520Create%2520a%2520digital%2520illustration%2520of%2520a%2520character%2520that%2520is%2520a%2520combination%2520of%2520a%2520podcasting%2520microphone%2520and%2520an%2520airplane%2520pilot.%2520The%2520character%2520should%2520have%2520the%2520dis.png&sig=i%2B/%2BPb%2BEnU2cvKV3Fpnb4jbhfqOcA/HWIdQmWhXEGls%3D)](https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot)
 
-# [Podcast Pilot](https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot)
+# Podcast Pilot [ChatGPT Plus](https://chat.openai.com/g/g-mHuCoViFl-podcast-pilot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Podcast%20Pilot)
 
 Podcast Pilot is your trusted guide in the world of podcasting. Whether you're a beginner or an experienced podcaster, this app offers expert advice and tailored recommendations to help you navigate your podcasting journey. Need tips on growing your podcast audience? Monetizing your show? Technical setup? Show notes? Just ask! With access to knowledge and a variety of tools, Podcast Pilot has everything you need to take your podcast to new heights. So welcome aboard, sit back, and let Podcast Pilot be your co-pilot on this exciting adventure!
 
@@ -25,3 +26,5 @@ Podcast Pilot is your trusted guide in the world of podcasting. Whether you're a
 4. **Podcast Show Notes Tips:** This command provides guidance on what to include in your podcast show notes. You can ask questions like "What information should be included in podcast show notes?", "How do I write engaging show notes for my episodes?", or "Are there any formatting guidelines for podcast show notes?"
 
 Note: The Podcast Pilot App may have additional features and commands not listed here. Please refer to the App documentation for a comprehensive guide.
+
+

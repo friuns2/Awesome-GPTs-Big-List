@@ -1,6 +1,7 @@
+
 [![Modern Shakespeare](https://files.oaiusercontent.com/file-PpJpIB3HnPRL7PrHjqQR5j7m?se=2123-10-19T12%3A23%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5b719a0f-ffff-434c-a05b-34a7bb4eceaf.png&sig=5IfiY5q9QfF9OL1hBKvpInT2aJSN%2BLM3zKWmrzEXAYw%3D)](https://chat.openai.com/g/g-Ncy8liDLE-modern-shakespeare)
 
-# [Modern Shakespeare](https://chat.openai.com/g/g-Ncy8liDLE-modern-shakespeare)
+# Modern Shakespeare [ChatGPT Plus](https://chat.openai.com/g/g-Ncy8liDLE-modern-shakespeare) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Modern%20Shakespeare)
 
 Modern Shakespeare is an app that brings the works of William Shakespeare into the modern era by translating them into casual, easy-to-understand English. Whether you're a student studying Shakespeare or just someone who wants to appreciate his plays and sonnets, this app is for you. It allows you to explore Shakespeare's famous scenes, speeches, and sonnets, and provides line-by-line translations into modern language. You can also get recommendations for appropriate Shakespeare quotes for special occasions, such as Valentine's Day. Get ready to dive into the world of Shakespeare in a whole new way!
 
@@ -28,3 +29,5 @@ Modern Shakespeare is an app that brings the works of William Shakespeare into t
 4. **Provide appropriate quotes from Shakespeare for Valentine's Day:** Request the app to suggest a few appropriate quotes from Shakespeare along with their sources for Valentine's Day.
 
 5. **Compare and contrast sonnets 18 and 130:** Ask the app to compare and contrast sonnets 18 and 130, providing examples from each.
+
+

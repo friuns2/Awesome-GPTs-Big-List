@@ -1,6 +1,7 @@
+
 [![Artemis](https://files.oaiusercontent.com/file-LNK69M1hqx3dTf1MAkBwAynb?se=2123-10-16T21%3A39%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DArtemis.jpg&sig=7JkZTo8VXjoZh2XTVDdqzhlXAsR9MfGpqvl/gG66lcI%3D)](https://chat.openai.com/g/g-j18lgab91-artemis)
 
-# [Artemis](https://chat.openai.com/g/g-j18lgab91-artemis)
+# Artemis [ChatGPT Plus](https://chat.openai.com/g/g-j18lgab91-artemis) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Artemis)
 
 Artemis is an App designed to assist individuals with ADHD in their daily lives. Acting as a coach and daily life assistant, Artemis offers a range of helpful features. Users can set reminders, plan their schedule, and seek assistance with understanding tasks or researching information. Artemis also provides health tips specifically tailored for ADHD. With Artemis, managing ADHD becomes easier and more efficient. Whether you need help staying organized, staying on track with tasks, or finding useful information, Artemis is here to lend a helping hand.
 
@@ -27,3 +28,5 @@ Artemis is an App designed to assist individuals with ADHD in their daily lives.
 4. **Can you research...** - Use this command to request research on a particular subject or topic. Specify what information or insights you are looking for.
 
 5. **Health tips for ADHD?** - Use this command to ask for tips or advice related to managing ADHD symptoms and promoting overall well-being.
+
+

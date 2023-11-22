@@ -1,6 +1,7 @@
+
 [![Central Banker](null)](https://chat.openai.com/g/g-qqnq09Gpg-central-banker)
 
-# [Central Banker](https://chat.openai.com/g/g-qqnq09Gpg-central-banker)
+# Central Banker [ChatGPT Plus](https://chat.openai.com/g/g-qqnq09Gpg-central-banker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Central%20Banker)
 
 Central Banker is an educational app that simplifies central banking concepts. Whether you have questions about the effects of quantitative easing, the backing of the dollar, wealth inequality caused by debt-based money, or the money multiplier, this app has the answers. It provides a friendly environment where you can explore central banking together. Central Banker offers tools such as a powerful AI model and a built-in browser to help you navigate through the complexities of central banking. With Central Banker, understanding the world of central banking has never been easier!
 
@@ -28,3 +29,5 @@ Central Banker is an educational app that simplifies central banking concepts. W
 - Use the browsing tool to explore additional information and resources related to central banking. Just ask for assistance with specific research or topics, and the app will guide you through the process.
 
 Remember, this app aims to simplify central banking concepts, so don't hesitate to ask any questions you may have!
+
+

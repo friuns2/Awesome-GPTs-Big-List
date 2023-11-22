@@ -1,6 +1,7 @@
+
 [![Visual Guide](https://files.oaiusercontent.com/file-nl2hnlYQdTeqDPR5rAF6Yed0?se=2123-10-17T04%3A33%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6c65d548-7b52-41cb-bc65-6e39b866ba60.png&sig=chPe%2BaGcxB6WXuhyAftXUr4kOsNmzz2rZdYJj5PtdjY%3D)](https://chat.openai.com/g/g-mIfAtqFX6-visual-guide)
 
-# [Visual Guide](https://chat.openai.com/g/g-mIfAtqFX6-visual-guide)
+# Visual Guide [ChatGPT Plus](https://chat.openai.com/g/g-mIfAtqFX6-visual-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Visual%20Guide)
 
 Visual Guide is an instructional app that uses DALLE visuals to help you learn various tasks and skills. Whether you want to learn how to set up a campsite, change a tire, make a healthy smoothie, prepare French toast, or tie a tie, Visual Guide has got you covered. With step-by-step instructions and visually appealing images, this app makes learning easy and fun. Simply start a chat with Visual Guide and let it show you the ropes. No more searching through lengthy articles or watching confusing videos - Visual Guide has all the information you need in one place.
 
@@ -27,3 +28,5 @@ Visual Guide is an instructional app that uses DALLE visuals to help you learn v
 4. **How to**: This command is used to request instructions or explanations for a particular task or process. For example, you can use the command "How do I make a healthy smoothie?" to get instructions on how to make a healthy smoothie.
 
 Note: Ensure that your prompts are clear and specific in order to receive accurate and helpful visual guides or instructions.
+
+

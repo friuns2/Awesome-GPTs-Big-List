@@ -1,6 +1,7 @@
+
 [![TransparenciaNoroeste](https://files.oaiusercontent.com/file-WtIeuBYKSUchHP4YXMxowkMB?se=2123-10-17T15%3A38%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D673c7752-c40d-40a7-bac1-e95680b6beae.png&sig=r2vDiQz9NE2dmqKSDW5XRdlZJcmJKJs4eadoMCZlTfo%3D)](https://chat.openai.com/g/g-L1zPV7pFm-transparencianoroeste)
 
-# [TransparenciaNoroeste](https://chat.openai.com/g/g-L1zPV7pFm-transparencianoroeste)
+# TransparenciaNoroeste [ChatGPT Plus](https://chat.openai.com/g/g-L1zPV7pFm-transparencianoroeste) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TransparenciaNoroeste)
 
 TransparenciaNoroeste is an App that uses a GPT to understand the transparency laws of the northwest region of Mexico. Whether you have questions about accessing information or need help understanding the legal requirements, this App is here to assist you. With the ability to access knowledge and use various tools like Dalle, Python, and a browser, TransparenciaNoroeste ensures that you have the resources you need to navigate the laws effectively. Say hello and let this App be your guide to transparency!
 
@@ -27,3 +28,5 @@ TransparenciaNoroeste is an App that uses a GPT to understand the transparency l
 - **Explore key provisions**: You have the option to explore the key provisions of the transparency laws in the region, allowing you to understand the core principles and requirements.
 
 - **Learn about rights and responsibilities**: If you are interested in knowing about the rights and responsibilities of individuals and organizations under the transparency legislation in the northwest, you can request information on this topic.
+
+

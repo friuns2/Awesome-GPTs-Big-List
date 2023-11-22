@@ -1,6 +1,7 @@
+
 [![IMG X Post Generater](https://files.oaiusercontent.com/file-1ulInvxo28w8X3GWNzJgyajE?se=2123-10-16T06%3A50%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dba7180bc-2db5-41b1-82b3-23779d00058b.png&sig=8zir0lmQIwTo7PeKavD/juZdefIuu60%2BZnejkW9Ql2o%3D)](https://chat.openai.com/g/g-pkK7BajVj-img-x-post-generater)
 
-# [IMG X Post Generater](https://chat.openai.com/g/g-pkK7BajVj-img-x-post-generater)
+# IMG X Post Generater [ChatGPT Plus](https://chat.openai.com/g/g-pkK7BajVj-img-x-post-generater) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=IMG%20X%20Post%20Generater)
 
 This App is called IMG X Post Generator and it helps you create captivating post captions for your images. Whether you're posting on social media or sharing with friends, this App generates creative and engaging text based on your images. It uses advanced algorithms to analyze the content of your image and provides you with unique and eye-catching captions that perfectly match the visuals. Say goodbye to spending hours thinking of the right words to accompany your photos. With IMG X Post Generator, you'll have fun and catchy captions in just a few seconds!
 
@@ -29,3 +30,5 @@ This App is called IMG X Post Generator and it helps you create captivating post
 5. **Generate catchy caption**: This command generates a catchy and attention-grabbing caption for an image. It aims to create engaging and memorable content for your posts.
 
 Remember to provide a clear and relevant image to get the best results from the ChatGPT App.
+
+

@@ -1,6 +1,7 @@
+
 [![A.I. Cover Letter Generator](https://files.oaiusercontent.com/file-TAf4qzgORvF4RdkmEiPRin4a?se=2123-10-17T19%3A52%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2203681e-8310-4112-9943-225af6fb82d6.png&sig=/gDs39HpI5wcIW6wOVGUouIL8zb5S5lz403sHVFEwXw%3D)](https://chat.openai.com/g/g-JVqAIyFKQ-a-i-cover-letter-generator)
 
-# [A.I. Cover Letter Generator](https://chat.openai.com/g/g-JVqAIyFKQ-a-i-cover-letter-generator)
+# A.I. Cover Letter Generator [ChatGPT Plus](https://chat.openai.com/g/g-JVqAIyFKQ-a-i-cover-letter-generator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=A.I.%20Cover%20Letter%20Generator)
 
 The A.I. Cover Letter Generator is here to make your job application process a breeze! Whether you have a resume or a job link, I can use them to create personalized cover letters just for you. Simply upload your resume and job link, or share the job description URL, and I'll take care of the rest. With my help, you'll have professional cover letters tailored to each job opportunity in no time. Say goodbye to the stress of writing cover letters from scratch, and let me assist you on your path to career success!
 
@@ -27,3 +28,5 @@ The A.I. Cover Letter Generator is here to make your job application process a b
 5. **ResumePreview:** Displays a preview of the uploaded resume.
 
 6. **JobLinkPreview:** Displays a preview of the uploaded job link.
+
+

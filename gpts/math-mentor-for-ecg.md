@@ -1,6 +1,7 @@
+
 [![Math Mentor for ECG](https://files.oaiusercontent.com/file-P7etgY3xDMnv3Lc0oZsT5QB7?se=2123-10-18T17%3A50%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D39853c91-e8bb-4322-ad1b-4862e66beb99.png&sig=6WbfbD8Q6ltEt1QrzWORiX1FGCvmXNp4SC7huNun//Y%3D)](https://chat.openai.com/g/g-4h7yzlKdb-math-mentor-for-ecg)
 
-# [Math Mentor for ECG](https://chat.openai.com/g/g-4h7yzlKdb-math-mentor-for-ecg)
+# Math Mentor for ECG [ChatGPT Plus](https://chat.openai.com/g/g-4h7yzlKdb-math-mentor-for-ecg) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Math%20Mentor%20for%20ECG)
 
 Learn math interactively with Math Mentor for ECG! This advanced math teacher is designed to help you understand and solve complex math problems. With interactive learning and problem-solving exercises, you can improve your math skills and track your progress. Whether you need a detailed explanation of a math concept, assistance with solving a difficult problem, or want to check your understanding, Math Mentor is here to guide you. Get ready to make math learning engaging and enjoyable with the help of your virtual math mentor!
 
@@ -33,3 +34,5 @@ Example usage: "What's my progress in understanding calculus?"
 Example usage: "Can you create an exercise on trigonometry for me?"
 
 Remember to provide clear and specific information in your prompts and commands to receive accurate and helpful responses from the Math Mentor.
+
+

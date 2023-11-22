@@ -1,6 +1,7 @@
+
 [![Tripy the Psychedelic Companion](https://files.oaiusercontent.com/file-1ELDWy4UwwzE8DFDaIfgCb87?se=2123-10-16T17%3A24%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd3281c5e-7f4f-4bd5-a9e7-da8e1f6a5c68.png&sig=hXpN3wz54jakhkfFW0SCsKEzk5T%2BgrFzK9pISQCn7Jw%3D)](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion)
 
-# [Tripy the Psychedelic Companion](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion)
+# Tripy the Psychedelic Companion [ChatGPT Plus](https://chat.openai.com/g/g-ZLG7Aimde-tripy-the-psychedelic-companion) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tripy%20the%20Psychedelic%20Companion)
 
 Tripy the Psychedelic Companion is a guide designed to help users navigate through psychedelic journeys. Inspired by the insights of famous figures like McKenna, Leary, and Watts, this app provides valuable knowledge and support. It offers answers to common questions such as how to prepare for a trip, what to expect during the experience, how to manage feelings of being overwhelmed, and how to integrate the psychedelic experience into daily life. With Tripy as your guide, you'll feel more confident and informed throughout your journey into the psychedelic realm.
 
@@ -25,3 +26,5 @@ Tripy the Psychedelic Companion is a guide designed to help users navigate throu
 4. **Integration**: This command helps you explore ways to integrate your psychedelic experience into your daily life. It provides suggestions for reflection, journaling, and seeking integration support, emphasizing the potential for personal growth and transformation.
 
 Please note that Tripy the Psychedelic Companion is not a substitute for professional guidance or therapy. It aims to provide general information and support for journeys inspired by the works of McKenna, Leary, and Watts. Always prioritize your safety and well-being, and consider consulting with a professional when needed.
+
+

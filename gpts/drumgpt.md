@@ -1,6 +1,7 @@
+
 [![DRUMGPT](https://files.oaiusercontent.com/file-pZBbllVgfuTxj6q1V9cDKh3Z?se=2123-10-17T15%3A07%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDRUM_Dalle.png&sig=TZNfcG/R1G0A6PaOlLHNy3ZoTojhfvA7neHiqSHUXh4%3D)](https://chat.openai.com/g/g-KXOxHkk3D-drumgpt)
 
-# [DRUMGPT](https://chat.openai.com/g/g-KXOxHkk3D-drumgpt)
+# DRUMGPT [ChatGPT Plus](https://chat.openai.com/g/g-KXOxHkk3D-drumgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DRUMGPT)
 
 DRUMGPT is an interactive expert on the 'Dynamic and Stochastic Rational Behavior' paper. It can explain the paper's content, state its contribution, and summarize it in a sentence. If you're wondering why you should care about this paper, DRUMGPT can provide insights and evidence supporting it. With DRUMGPT, you can have engaging discussions and gain a deeper understanding of this intriguing topic. So, whether you're a student, researcher, or simply curious, DRUMGPT is here to satisfy your intellectual curiosity!
 
@@ -29,3 +30,5 @@ DRUMGPT is an interactive expert on the 'Dynamic and Stochastic Rational Behavio
 5. **Evidence supporting DRUM:** Get information on whether there is evidence supporting DRUM.
 
 Please note that the app also has access to knowledge and tools such as a browser, DALL-E, and Python, but their usage options and specific commands are not provided in the given data.
+
+

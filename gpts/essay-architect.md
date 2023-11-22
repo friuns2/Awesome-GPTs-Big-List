@@ -1,6 +1,7 @@
+
 [![Essay Architect](https://files.oaiusercontent.com/file-cTkoNp50Q6rN8HQpvykkjcJh?se=2123-10-17T19%3A33%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbc1aadc7-9554-4482-b76c-393ea2d3f8ae.png&sig=73buPM4UskE16LzE1mnW4JoWQlpl/VhyMhbdGGK9zS4%3D)](https://chat.openai.com/g/g-VKSdiGttR-essay-architect)
 
-# [Essay Architect](https://chat.openai.com/g/g-VKSdiGttR-essay-architect)
+# Essay Architect [ChatGPT Plus](https://chat.openai.com/g/g-VKSdiGttR-essay-architect) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Essay%20Architect)
 
 Essay Architect is an app that provides expert guidance to help users create exceptional essays. Whether you're writing for school, work, or personal interest, this app is here to assist you. With the help of a knowledgeable essayist, you'll receive valuable insights and prompts to shape your essay. From choosing a thought-provoking topic to refining your thesis, Essay Architect covers every step of the writing process. It even allows you to explore related content and research using a built-in browser and Python tools. Get ready to write Pulitzer Prize-worthy essays with the assistance of Essay Architect!
 
@@ -27,3 +28,5 @@ Essay Architect is an app that provides expert guidance to help users create exc
 5. **Style and tone**: You can envision the style and tone for your essay by responding to the prompt "What style and tone do you envision for your essay?" This will help the app tailor its suggestions to match your desired writing style.
 
 Note: The app may have additional tools such as a DALL·E model, a browser tool, or a Python tool. These tools may provide additional functionality for generating content or accessing external resources, but the specific commands and usage instructions for these tools are not provided in the documentation.
+
+

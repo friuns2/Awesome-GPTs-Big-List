@@ -1,6 +1,7 @@
+
 [![Easy PFC Calculation from Recipes](https://files.oaiusercontent.com/file-1qDF91O1EqZFvFUjoZaDc9Pj?se=2123-10-17T10%3A39%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3b34d3a6-3fa7-44fd-aa40-b58254d6c374.png&sig=sJdLxsfHzcfaZZW226EPjnNPNMVQBzdnPVTX0CmTMSo%3D)](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes)
 
-# [Easy PFC Calculation from Recipes](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes)
+# Easy PFC Calculation from Recipes [ChatGPT Plus](https://chat.openai.com/g/g-EljgsXiLW-easy-pfc-calculation-from-recipes) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Easy%20PFC%20Calculation%20from%20Recipes)
 
 This App is a bilingual recipe calculator that allows you to easily calculate the calories and PFC (Protein, Fat, Carbohydrates) of your favorite recipes. Whether you're looking to analyze the nutrition in your meals or track your macros, this App has got you covered! Simply input the recipe and let the App do the calculations for you. With language support and a user-friendly interface, you'll be able to calculate the nutritional value of your dishes in a breeze. Say goodbye to complex calculations and hello to simplified nutrition analysis!
 
@@ -27,3 +28,5 @@ This App is a bilingual recipe calculator that allows you to easily calculate th
 4. **Get protein content in a recipe:** You can ask the app to provide the protein content in a recipe.
 
 Note: The app supports multiple languages and provides a welcome message in Japanese: "こんにちは！言語対応でレシピの栄養を簡潔に計算します。" (Hello! I can help you calculate the nutrition of a recipe in multiple languages.)
+
+

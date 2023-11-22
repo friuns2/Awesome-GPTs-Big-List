@@ -1,6 +1,7 @@
+
 [![飲食店｜クレーム対応文書｜ひな型作成](https://files.oaiusercontent.com/file-vjz41awGdmqGKWRmLJdAKVJo?se=2123-10-20T08%3A49%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1473774.png&sig=1KJWv5%2B5UxpzTY%2BTRM5kR4TEKoVRruIJ3kC/kdrVRqo%3D)](https://chat.openai.com/g/g-5LSaTjl57-yin-shi-dian-kuremudui-ying-wen-shu-hinaxing-zuo-cheng)
 
-# [飲食店｜クレーム対応文書｜ひな型作成](https://chat.openai.com/g/g-5LSaTjl57-yin-shi-dian-kuremudui-ying-wen-shu-hinaxing-zuo-cheng)
+# 飲食店｜クレーム対応文書｜ひな型作成 [ChatGPT Plus](https://chat.openai.com/g/g-5LSaTjl57-yin-shi-dian-kuremudui-ying-wen-shu-hinaxing-zuo-cheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%A3%B2%E9%A3%9F%E5%BA%97%EF%BD%9C%E3%82%AF%E3%83%AC%E3%83%BC%E3%83%A0%E5%AF%BE%E5%BF%9C%E6%96%87%E6%9B%B8%EF%BD%9C%E3%81%B2%E3%81%AA%E5%9E%8B%E4%BD%9C%E6%88%90)
 
 This App is designed to help food and beverage establishments handle customer complaints effectively. It provides pre-written response templates for various types of complaints, allowing the user to easily generate appropriate and professional replies. With access to a knowledge database and a browsing tool, the App offers additional resources for resolving customer issues. Whether it's dealing with a dissatisfied customer or addressing a specific problem, this App streamlines the process of crafting complaint responses and enhances customer service in the food and beverage industry.
 
@@ -15,3 +16,5 @@ This App is designed to help food and beverage establishments handle customer co
 4. **Prompt 4:** "What is the recommended approach for addressing customer grievances in a food establishment?"
 
 5. **Prompt 5:** "Can you provide a sample letter for responding to a customer who had a negative experience at my restaurant?"
+
+

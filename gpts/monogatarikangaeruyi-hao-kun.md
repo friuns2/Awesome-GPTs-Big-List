@@ -1,6 +1,7 @@
+
 [![モノガタリ・カンガエール壱号くん](https://files.oaiusercontent.com/file-AreDuwrj73Pfg9m3nkFUjG7F?se=2123-10-14T05%3A35%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D642030a4-942b-41b0-9962-f17e957a7230.png&sig=ToGj37k%2BMPIU3XB6QWYNZ2ogG9AxSChjjCX3rlLL%2BYU%3D)](https://chat.openai.com/g/g-RIu3P82D8-monogatarikangaeruyi-hao-kun)
 
-# [モノガタリ・カンガエール壱号くん](https://chat.openai.com/g/g-RIu3P82D8-monogatarikangaeruyi-hao-kun)
+# モノガタリ・カンガエール壱号くん [ChatGPT Plus](https://chat.openai.com/g/g-RIu3P82D8-monogatarikangaeruyi-hao-kun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%A2%E3%83%8E%E3%82%AC%E3%82%BF%E3%83%AA%E3%83%BB%E3%82%AB%E3%83%B3%E3%82%AC%E3%82%A8%E3%83%BC%E3%83%AB%E5%A3%B1%E5%8F%B7%E3%81%8F%E3%82%93)
 
 モノガタリ・カンガエール壱号くん is an AI assistant that helps fill the gaps in your story ideas. It provides story prompts and allows you to create a story setting or synopsis. Whether you want to write a tale about two children venturing into a forest to find medicinal herbs for their sick mother, or you stumbled upon something strange under a streetlight at night, this app has got you covered. With the help of various tools such as image generation and Python scripting, you can bring your stories to life. So let your imagination run wild and create captivating narratives with モノガタリ・カンガエール壱号くん!
 
@@ -29,3 +30,5 @@
 6. **Python Scripting**: Write Python scripts to customize your story generation process.
 
 Note: For detailed instructions on each feature and command, refer to the app documentation.
+
+

@@ -1,6 +1,7 @@
+
 [![IHP-GPT](https://files.oaiusercontent.com/file-mlIJM6Yuc6uqONSHk6g3FWE3?se=2123-10-18T00%3A35%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DOhne%2520Titel%25202.png&sig=OgebYCz6dOMo5jGyaSFFgAMgmIe5wF/TB%2B4WcMZCQAA%3D)](https://chat.openai.com/g/g-ccnwLhNOQ-ihp-gpt)
 
-# [IHP-GPT](https://chat.openai.com/g/g-ccnwLhNOQ-ihp-gpt)
+# IHP-GPT [ChatGPT Plus](https://chat.openai.com/g/g-ccnwLhNOQ-ihp-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=IHP-GPT)
 
 Meet IHP-GPT, your personal Haskell expert! Whether you need help with dot-notation, string conversion, the `|>` operator, or finding information on OverloadedRecordDot, IHP-GPT has got you covered. Just ask your programming questions and IHP-GPT will assist you in a jiffy. With handy tools like a browser and Python integration, you can explore resources and try out code snippets without leaving the chat. Get ready for a seamless and efficient Haskell learning experience with IHP-GPT!
 
@@ -35,3 +36,5 @@ Meet IHP-GPT, your personal Haskell expert! Whether you need help with dot-notat
 5. If you come across any unfamiliar concepts or modules in IHP Haskell and want to learn more, you can ask for recommendations or resources using simple prompts like "Where can I find more info on OverloadedRecordDot?" The AI can suggest documentation, articles, or websites that may provide further information on the topic.
 
 Note: The above usage tips are general recommendations and may not cover all possible scenarios. It's advisable to consult official IHP Haskell documentation and seek assistance from experienced developers for complex programming challenges or specific implementation details.
+
+

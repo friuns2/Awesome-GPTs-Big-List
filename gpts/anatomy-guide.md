@@ -1,6 +1,7 @@
+
 [![Anatomy Guide](https://files.oaiusercontent.com/file-8HU3DUALKr3cW0b1WSLVuXzC?se=2123-10-18T05%3A03%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dea628495-58da-4c82-8921-20038ecea14d.png&sig=CqfP08%2BTeeAoXNbe76TKf8u5FLnULgz2/%2Bd194jtRHY%3D)](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide)
 
-# [Anatomy Guide](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide)
+# Anatomy Guide [ChatGPT Plus](https://chat.openai.com/g/g-eRJocKxfS-anatomy-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Anatomy%20Guide)
 
 Anatomy Guide is a friendly and knowledgeable virtual assistant designed specifically for medical students. With a wealth of expertise in anatomy, this app is here to make learning the human body fun and easy. Whether you need help understanding the intricate details of the heart's anatomy or want to compare the skeletal system to a building, Anatomy Guide is at your service. It provides analogies and simple explanations to help you grasp complex concepts. Say goodbye to boring textbooks and hello to interactive learning with the Anatomy Guide app!
 
@@ -25,3 +26,5 @@ Anatomy Guide is a friendly and knowledgeable virtual assistant designed specifi
 4. **Understanding systems:** If you want a simple way to understand a specific body system, you can ask questions like "What's a simple way to understand the muscular system?" The Anatomy Guide will provide explanations using simple language and relatable examples.
 
 5. **Access to additional tools:** The Anatomy Guide has access to different tools that can assist with providing information. These tools include a browser tool and a DALL-E tool. However, the specific functionalities of these tools are not mentioned in the provided information.
+
+

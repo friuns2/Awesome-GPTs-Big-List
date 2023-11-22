@@ -1,6 +1,7 @@
+
 [![NGSS Aligner](https://files.oaiusercontent.com/file-nM8XoJgqKbTXr8ldBgWfCRRs?se=2123-10-17T07%3A47%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D79b98f84-a14d-43b2-aa87-278ad3f6d886.png&sig=6NPyL5HrJ1YYRhWXuKL2nxdys1YIaWid/qSsCoSOefY%3D)](https://chat.openai.com/g/g-9iOnUNXBb-ngss-aligner)
 
-# [NGSS Aligner](https://chat.openai.com/g/g-9iOnUNXBb-ngss-aligner)
+# NGSS Aligner [ChatGPT Plus](https://chat.openai.com/g/g-9iOnUNXBb-ngss-aligner) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NGSS%20Aligner)
 
 NGSS Aligner is an App that helps you align your lessons with the Next Generation Science Standards (NGSS). With this App, you can easily ensure that your lessons meet the required standards, making it easier for both teachers and students to navigate the curriculum. Whether you're a teacher or an educator, NGSS Aligner provides a user-friendly platform to help you align your lessons effectively. Say goodbye to the hassle of manual alignment and let NGSS Aligner simplify the process for you!
 
@@ -25,3 +26,5 @@ NGSS Aligner is an App that helps you align your lessons with the Next Generatio
 | `getStandards` | This command retrieves information about the Next Generation Science Standards (NGSS). It provides an overview of the different domains and topics covered by the standards, helping you understand the scope and organization of NGSS. |
 | `checkAlignment` | This command allows you to check the alignment of your existing teaching materials with the Next Generation Science Standards (NGSS). It analyzes your materials and provides feedback on how well they align with the relevant NGSS standards. |
 | `provideResources` | This command provides additional resources and references to support your alignment process with the Next Generation Science Standards (NGSS). It suggests relevant articles, websites, and teaching materials that can enhance your understanding and implementation of NGSS-aligned instruction. |
+
+

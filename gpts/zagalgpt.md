@@ -1,6 +1,7 @@
+
 [![ZagalGPT](null)](https://chat.openai.com/g/g-GcYYmH7Yr-zagalgpt)
 
-# [ZagalGPT](https://chat.openai.com/g/g-GcYYmH7Yr-zagalgpt)
+# ZagalGPT [ChatGPT Plus](https://chat.openai.com/g/g-GcYYmH7Yr-zagalgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ZagalGPT)
 
 ZagalGPT is your go-to App for optimizing your fantasy football lineup. Get expert advice on start/sit decisions for your players. Whether you're torn between Tank Dell or Davante Adams in a PPR league, or Mattison, Lockett or Dell in a Standard league, ZagalGPT has got you covered. With its access to knowledge and AI-powered technology, ZagalGPT provides valuable insights to help you make the best decisions. Say goodbye to the stress of choosing the right players and hello to fantasy football success!
 
@@ -23,3 +24,5 @@ ZagalGPT is your go-to App for optimizing your fantasy football lineup. Get expe
 3. `optimize` - This command helps optimize your fantasy football lineup based on the available players and their performance. It takes into account factors like player stats, matchups, and recent performance to provide suggestions for the best lineup.
 
 4. `advice` - If you need general advice or have specific questions about your fantasy football lineup, you can use this command to get guidance from the ChatGPT app. Simply ask your question or provide the relevant context, and the app will provide helpful insights and recommendations.
+
+

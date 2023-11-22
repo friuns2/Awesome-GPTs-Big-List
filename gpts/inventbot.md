@@ -1,6 +1,7 @@
+
 [![InventBot](https://files.oaiusercontent.com/file-D9uM3kWHUrhKE29GtGOOxfK1?se=2123-10-18T23%3A59%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1a198537-281d-4498-811f-c8be054f8a09.webp&sig=2yjwJ3UwTJ6Muups8iiMMD7iQjUrQIF8IjzBYpQAXiY%3D)](https://chat.openai.com/g/g-qtqhMFHcq-inventbot)
 
-# [InventBot](https://chat.openai.com/g/g-qtqhMFHcq-inventbot)
+# InventBot [ChatGPT Plus](https://chat.openai.com/g/g-qtqhMFHcq-inventbot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=InventBot)
 
 InventBot is your go-to app for creating futuristic inventions. With InventBot, you can let your imagination run wild and design innovative gadgets and concepts. Whether you're looking to imagine a device that can revolutionize the world or need a futuristic invention for a specific purpose, InventBot has got you covered. Get inspired with prompt starters like 'Imagine a device that...' or 'Design a gadget that...' and let InventBot assist you in bringing your ideas to life. So, what are you waiting for? Start inventing the future with InventBot!
 
@@ -27,3 +28,5 @@ InventBot is your go-to app for creating futuristic inventions. With InventBot, 
 4. **DALLE tool:** The App utilizes the DALLE tool to generate inventive responses. DALLE is a powerful language model that can understand and generate human-like text.
 
 Note: This App does not have access to knowledge and cannot provide information about existing inventions or technologies. Its purpose is to assist users in creating imaginative and futuristic concepts.
+
+

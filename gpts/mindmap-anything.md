@@ -1,6 +1,7 @@
+
 [![Mindmap Anything](https://files.oaiusercontent.com/file-YOG1fEEJzKfvjtHlQjg32emb?se=2123-10-17T04%3A35%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9bb9e457-3117-47ae-bdb6-ae5805e17bd3.png&sig=1DEXX%2BLYpzRVvbdBb4ADW5dggqYtu9iSK2uf6BlEhlo%3D)](https://chat.openai.com/g/g-cT0umsiWF-mindmap-anything)
 
-# [Mindmap Anything](https://chat.openai.com/g/g-cT0umsiWF-mindmap-anything)
+# Mindmap Anything [ChatGPT Plus](https://chat.openai.com/g/g-cT0umsiWF-mindmap-anything) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mindmap%20Anything)
 
 Mindmap Anything is an app that helps you organize and structure your thoughts using mindmaps. With a variety of prompt starters like 'Mindmap this concept' and 'Organize these points,' you can easily create mindmaps and extract insights from any topic. Whether you're brainstorming ideas, studying for exams, or planning a project, this app is here to assist you. It even allows you to convert your mindmaps into markdown format. So, let your thoughts flow and let Mindmap Anything be your brainstorming buddy!
 
@@ -23,3 +24,5 @@ Mindmap Anything is an app that helps you organize and structure your thoughts u
 3. `Organize these points:` This command allows you to organize a set of points or ideas into a mindmap. You can input a list of points, and the App will generate a structured mindmap to help visualize the relationships between the points.
 
 4. `Convert this into markdown:` This command helps you convert plain text into markdown format. You can provide any text content, and the App will convert the text into markdown syntax, which is commonly used for formatting text, creating lists, and adding links in various applications.
+
+

@@ -1,6 +1,7 @@
+
 [![HackerNews GPT](https://files.oaiusercontent.com/file-gHTaZHfO8rk2lTceGzhSo7Oz?se=2123-10-17T22%3A14%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D064877a3-2ff2-4062-83ef-c6bf6aa86945.png&sig=555E4pr9CcTjkun15w2wZD7Mr7FlUR8Qo%2BQbEHBYV5k%3D)](https://chat.openai.com/g/g-RfQI5RmAX-hackernews-gpt)
 
-# [HackerNews GPT](https://chat.openai.com/g/g-RfQI5RmAX-hackernews-gpt)
+# HackerNews GPT [ChatGPT Plus](https://chat.openai.com/g/g-RfQI5RmAX-hackernews-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HackerNews%20GPT)
 
 HackerNews GPT is an App that summarizes the top Hacker News stories and comments on a daily or weekly basis. With precise search parameters, it provides focused insights and key themes from today's Hacker News. You can ask it to summarize today's top stories, provide a brief on today's comments, or get information on the most discussed topics of the week. Created by the founder of writingmate.ai, this App is your go-to source for staying up-to-date with Hacker News in a concise and informative way.
 
@@ -26,3 +27,5 @@ The HackerNews GPT app allows you to interact with the Hacker News API and retri
 6. `getJobStories`: Retrieve up to 200 latest job stories.
 
 You can use these commands to fetch specific types of stories or comments from Hacker News. For example, if you want to get the top stories, you can use the `getTopStories` command.
+
+

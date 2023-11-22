@@ -1,6 +1,7 @@
+
 [![DM's Friend](https://files.oaiusercontent.com/file-PeTE0822vOqJ0mc72URJ0NWo?se=2123-10-16T03%3A24%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da31cea06-f157-4bce-b36f-99b1db89db55.png&sig=0sJrqAaKz1sZ4XO89uDqw0n/leQ1yaFXvh6ltP%2BHNZs%3D)](https://chat.openai.com/g/g-jXKzpvoJC-dm-s-friend)
 
-# [DM's Friend](https://chat.openai.com/g/g-jXKzpvoJC-dm-s-friend)
+# DM's Friend [ChatGPT Plus](https://chat.openai.com/g/g-jXKzpvoJC-dm-s-friend) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DM's%20Friend)
 
 DM's Friend is an essential tool for Dungeon Masters (DMs) in the world of Dungeons & Dragons. As an expert in D&D rules, this app provides accurate and reliable information to assist DMs with any rules query they may have. From determining the right skill and ability checks to understanding various spells and feats, DM's Friend has got it covered! With access to a vast knowledge base, this app ensures that DMs can confidently navigate the complexities of the game. So, whether you need clarification on a specific rule or want to enhance your DM skills, DM's Friend is your go-to companion.
 
@@ -27,3 +28,5 @@ DM's Friend is an essential tool for Dungeon Masters (DMs) in the world of Dunge
 5. **Browser Tool:** The app also uses a browser tool to help retrieve and display relevant information from online sources related to D&D rules.
 
 Note: This app is designed to assist Dungeon Masters (DMs) with their rules queries and provide expert guidance on D&D rules.
+
+

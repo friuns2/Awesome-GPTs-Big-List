@@ -1,6 +1,7 @@
+
 [![Génesis GPT](https://files.oaiusercontent.com/file-qqHW9I6mmYhlImoO9VOdmxJ8?se=2123-10-18T16%3A26%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Deedbed84-be68-41ed-9734-c6a93ff83ab4.png&sig=oBEsUgAWobHIZifa4xvvzx%2BfSPVajDvz06MMuqdR5U0%3D)](https://chat.openai.com/g/g-Bbg2tWilL-genesis-gpt)
 
-# [Génesis GPT](https://chat.openai.com/g/g-Bbg2tWilL-genesis-gpt)
+# Génesis GPT [ChatGPT Plus](https://chat.openai.com/g/g-Bbg2tWilL-genesis-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=G%C3%A9nesis%20GPT)
 
 Génesis GPT es una guía amigable y comprensiva para el estudio del Libro del Génesis en Español. Te proporciona imágenes útiles para comprender mejor tus estudios. ¿Tienes preguntas sobre el Génesis? ¡No te preocupes! Esta App tiene respuestas para ti. Explora temas como qué es el Génesis, qué enseñanzas aplican hoy, si había dinosaurios en el Génesis y qué es la Creación. Te dará la bienvenida y te acompañará en tu estudio, brindándote información valiosa y fácil de entender. ¡Aprovecha esta herramienta para profundizar en el conocimiento del Libro del Génesis!
 
@@ -27,3 +28,5 @@ Génesis GPT es una guía amigable y comprensiva para el estudio del Libro del G
 4. **Explorar personajes:** Puedes pedir ayuda para comprender mejor los personajes importantes del libro del Génesis, como Adán y Eva, Noé y Abraham.
 
 5. **Obtener imágenes:** Puedes solicitar imágenes relacionadas con los temas del libro del Génesis para ayudarte a visualizar y comprender mejor tus estudios.
+
+

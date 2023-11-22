@@ -1,6 +1,7 @@
+
 [![TalktoData](https://files.oaiusercontent.com/file-FVKvSAicBWbrzd9rnAxepsIV?se=2123-10-17T19%3A00%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-transparant-03.png&sig=mIonBuO9XX0zkqt60UFZXaGnc02WLkVcnjqON2XAB5A%3D)](https://chat.openai.com/g/g-mZLaNjro0-talktodata)
 
-# [TalktoData](https://chat.openai.com/g/g-mZLaNjro0-talktodata)
+# TalktoData [ChatGPT Plus](https://chat.openai.com/g/g-mZLaNjro0-talktodata) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TalktoData)
 
 TalktoData is your personal AI Data Analyst. It can perform exploratory data analysis, forecast sales for the next six months, and create beautiful visualizations. You can also ask for critical trends on your data. It's like having a data expert at your fingertips! With TalktoData, you can make sense of your data quickly and easily. It offers tools for Python programming, browsing, and DALL·E image generation. Say hello to TalktoData and let it crunch your numbers!
 
@@ -30,3 +31,5 @@ The TalktoData app is your personal AI Data Analyst. It can assist you with vari
 4. **Get critical trends:** If you're looking for important trends or patterns in your data, you can use the command "Can you give critical trends on this data?" The app will analyze your dataset and provide key insights and trends that you may find valuable.
 
 Please note that TalktoData has access to various tools like Python, browsing capabilities, and the DALL·E model to provide a wide range of data analysis and visualization capabilities. Feel free to experiment with different prompts and commands to make the most out of this powerful app!
+
+

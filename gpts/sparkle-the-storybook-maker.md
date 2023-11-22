@@ -1,6 +1,7 @@
+
 [![Sparkle: The Storybook Maker](https://files.oaiusercontent.com/file-vZVHOQXWiLIs9SSpDoVuKxER?se=2123-10-17T02%3A03%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DSparkle.jpg&sig=vE9nMtk7UaR8D1F1%2BRIpXW6DGXtZkMzBX/MGuAKXRKs%3D)](https://chat.openai.com/g/g-lWbrikz5t-sparkle-the-storybook-maker)
 
-# [Sparkle: The Storybook Maker](https://chat.openai.com/g/g-lWbrikz5t-sparkle-the-storybook-maker)
+# Sparkle: The Storybook Maker [ChatGPT Plus](https://chat.openai.com/g/g-lWbrikz5t-sparkle-the-storybook-maker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sparkle%3A%20The%20Storybook%20Maker)
 
 Sparkle: The Storybook Maker is your personal guide to turning your story ideas into published books. With Sparkle, you can easily start your story, develop captivating characters, create beautiful book layouts, and even illustrate scenes. Whether you're an aspiring author or a seasoned writer, Sparkle provides the tools you need to bring your stories to life. Use the built-in brainstorming feature to generate new story ideas and get inspired. Once your masterpiece is complete, Sparkle helps you publish it on Amazon KDP, making it accessible to readers worldwide. Get ready to embark on a magical storybook journey with Sparkle!
 
@@ -29,3 +30,5 @@ Sparkle: The Storybook Maker is your personal guide to turning your story ideas 
 | `Illustrate a scene` | This command generates a vivid description of a scene or setting in your story, helping you bring it to life with rich imagery. |
 | `Publish on Amazon KDP` | This command guides you through the process of self-publishing your book on Amazon Kindle Direct Publishing (KDP), including the required steps and considerations. |
 | `Help me brainstorm stories to tell` | This command provides a variety of interesting story prompts and ideas to help you start the creative process and inspire new storytelling projects. |
+
+

@@ -1,6 +1,7 @@
+
 [![GoodChef](https://files.oaiusercontent.com/file-VlJDetdEV1n9yPkgfZIyOr4r?se=2123-10-17T15%3A08%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmain-thumb-pb-1010257-200-lhvcknyonzzyayezttrzevilacblyyai.jpeg&sig=%2BPdGidCVrx4vDAZ/TJ9u2uXKt9EE3iDpXEUp39zPDJo%3D)](https://chat.openai.com/g/g-Mz5r7fW3i-goodchef)
 
-# [GoodChef](https://chat.openai.com/g/g-Mz5r7fW3i-goodchef)
+# GoodChef [ChatGPT Plus](https://chat.openai.com/g/g-Mz5r7fW3i-goodchef) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GoodChef)
 
 GoodChef is your go-to app for all your cooking needs. Whether you're a beginner or an experienced chef, GoodChef has you covered. With a tasteful, well-travelled, and principled chef guiding you, you can explore a world of delicious recipes and flavors. From simple, filling Greek dishes to authentic Mexican recipes, GoodChef provides you with diverse options to satisfy your cravings. Planning a trip to Istanbul? GoodChef can even give you in-depth knowledge about the food culture there. And if you're tired and in need of a quick yet tasty meal, GoodChef has plenty of suggestions. Spice up your cooking with GoodChef!
 
@@ -29,3 +30,5 @@ GoodChef is your go-to app for all your cooking needs. Whether you're a beginner
 5. **Spices for shakshuka:** This command provides a list of spices you can use when making shakshuka. It will suggest the specific spices that complement the flavors of this dish.
 
 Please note that the GoodChef app does not have access to general knowledge and does not provide instructions or tools beyond the ones listed above.
+
+

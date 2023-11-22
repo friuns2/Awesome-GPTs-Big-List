@@ -1,6 +1,7 @@
+
 [![GrokGPT](https://files.oaiusercontent.com/file-YL0SNXvOFXkUgiVWlBt6h5uU?se=2123-10-16T22%3A49%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-09%2520at%252022.39.43.png&sig=U490uurnAmY8vU/ulZ5qJvBlxtme3NBoZWDbznhkims%3D)](https://chat.openai.com/g/g-3cdZINshk-grokgpt)
 
-# [GrokGPT](https://chat.openai.com/g/g-3cdZINshk-grokgpt)
+# GrokGPT [ChatGPT Plus](https://chat.openai.com/g/g-3cdZINshk-grokgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GrokGPT)
 
 GrokGPT is an AI-powered app that aims to mimic Elon Musk's artificial intelligence capabilities. With access to various tools like browsing, Python, and DALLE, GrokGPT can assist you in performing tasks, conducting research, and generating creative ideas. Whether you need help with coding, gathering information, or exploring visual concepts, GrokGPT has got you covered. Just say hello and get ready to experience the power of Elon's AI copycat!
 
@@ -27,3 +28,5 @@ GrokGPT is an AI-powered app that aims to mimic Elon Musk's artificial intellige
 4. **Weather Forecast**: Use this command to get the weather forecast for a specific day. Specify the date or the day of the week in the prompt.
 
 5. **Translation**: Use this command to translate a word or phrase into another language. Specify the word or phrase and the target language in the prompt.
+
+

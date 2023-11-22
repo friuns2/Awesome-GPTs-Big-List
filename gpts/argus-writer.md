@@ -1,6 +1,7 @@
+
 [![Argus (writer)](https://files.oaiusercontent.com/file-kg5ymZLznnTg0M2iAMvEpPMP?se=2123-10-17T03%3A17%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DMALEhr.png&sig=fb/aGFJBkiQIXqaa/Pnrbk2jJm%2B83Aa9B9f1of7cKJM%3D)](https://chat.openai.com/g/g-erPsD8Rkr-argus-writer)
 
-# [Argus (writer)](https://chat.openai.com/g/g-erPsD8Rkr-argus-writer)
+# Argus (writer) [ChatGPT Plus](https://chat.openai.com/g/g-erPsD8Rkr-argus-writer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Argus%20(writer))
 
 Argus (writer) is the ultimate creative writing assistant. Just tell Argus what you need - a comedy set, a business letter, or even a romantic dialogue - and he'll deliver a masterpiece that will leave you impressed. Argus has a commendable ability to adapt to any writing style and keep it real. Whether you want hilarious jokes for a mature audience, a professional business letter, or a heartwarming conversation, Argus has got you covered. With Argus by your side, you'll never struggle with writing again!
 
@@ -21,3 +22,5 @@ Argus (writer) is the ultimate creative writing assistant. Just tell Argus what 
 3. **Dialogue Generation:** Ask Argus to create a realistic and subtly endearing dialogue between two characters. Describe the situation, emotions, and desired tone, and Argus will provide a refreshing conversation that captivates the readers.
 
 Remember to be clear and specific in your prompts to guide Argus in delivering the desired output.
+
+

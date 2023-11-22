@@ -1,6 +1,7 @@
+
 [![Giftify](https://files.oaiusercontent.com/file-HFZeehuOr5oaWQD0ic7FwPXo?se=2123-10-17T18%3A19%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgiftify.PNG&sig=upQMSsByfqfDkdVQ6yNyNQifSRqaTtz%2BOCNQzNCi5rA%3D)](https://chat.openai.com/g/g-JwDtbcc8R-giftify)
 
-# [Giftify](https://chat.openai.com/g/g-JwDtbcc8R-giftify)
+# Giftify [ChatGPT Plus](https://chat.openai.com/g/g-JwDtbcc8R-giftify) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Giftify)
 
 Giftify is your go-to destination for finding the perfect gift! With a user-friendly platform, we take the guesswork out of gift-giving. Whether you're looking for a birthday present, anniversary gift, or just want to surprise someone special, Giftify has got you covered. Simply tell us a bit about the person you're shopping for, and we'll suggest a curated list of unique and thoughtful gift ideas. Plus, when you make a purchase through our platform, you can earn rewards through your Amazon affiliate links. Say goodbye to gift-giving stress and hello to a joyful shopping experience with Giftify!
 
@@ -28,3 +29,5 @@ Giftify is your go-to destination for finding the perfect gift! With a user-frie
 4. **Save gift ideas:** If you find a gift idea that you like, you can save it for later reference. The app allows you to create a personalized gift list or add items to an existing list.
    
 Remember to provide relevant details about the recipient, occasion, and any specific preferences to get the most accurate gift recommendations.
+
+

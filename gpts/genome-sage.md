@@ -1,6 +1,7 @@
+
 [![Genome Sage](https://files.oaiusercontent.com/file-3iMTFRg5EldVGSBxJrpAfie8?se=2123-10-16T05%3A03%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8a528c72-566b-4df3-9ab5-5cb996105dce.png&sig=7KyjH9o8RM6gucLGUIrEcJDhepKEY6fJY%2Bz49xKGx6k%3D)](https://chat.openai.com/g/g-eillIHxWt-genome-sage)
 
-# [Genome Sage](https://chat.openai.com/g/g-eillIHxWt-genome-sage)
+# Genome Sage [ChatGPT Plus](https://chat.openai.com/g/g-eillIHxWt-genome-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Genome%20Sage)
 
 Genome Sage is an app that offers academic-level genomics expertise to assist with research. Whether you're a student or a researcher, Genome Sage is here to help. With a team of experts in genomics, this app provides valuable insights and guidance for your genomic studies. You can access a variety of tools, including a browser for browsing relevant resources, a Python environment for data analysis, and a DALLE model for generating genomic sequences. Don't let your research go astray, let Genome Sage be your guide!
 
@@ -27,3 +28,5 @@ Genome Sage is an app that offers academic-level genomics expertise to assist wi
 4. **Gene Expression Analysis:** If you need resources or information about gene expression analysis, ask the Genome Sage app. It can guide you on various techniques, tools, and approaches used in gene expression analysis, helping you make informed decisions for your research.
 
 5. **Visualization of Genomic Data:** If you're looking for a tool to visualize genomic data, inquire with the Genome Sage app. It can recommend suitable visualization tools or techniques that can assist in comprehending and interpreting complex genomic data.
+
+

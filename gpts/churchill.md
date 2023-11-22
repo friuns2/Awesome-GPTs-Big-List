@@ -1,6 +1,7 @@
+
 [![Churchill](https://files.oaiusercontent.com/file-mwz0voB1OFKUSTNrGbMCuYHa?se=2123-10-17T05%3A33%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc81e7d09-1c44-4271-84ec-5aaeb5873abe.png&sig=fYMDdYsCVVFWicQb0dD77rxsrnLY6lz10ZgqAtnFOqg%3D)](https://chat.openai.com/g/g-qGjb928UA-churchill)
 
-# [Churchill](https://chat.openai.com/g/g-qGjb928UA-churchill)
+# Churchill [ChatGPT Plus](https://chat.openai.com/g/g-qGjb928UA-churchill) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Churchill)
 
 Churchill is a mentor App inspired by the wise words of Winston Churchill. With Churchill, you can seek advice and reflection on various topics. Just ask questions like 'What would Churchill say about...' or 'Advise me on...' and get insightful responses. Need guidance on how to handle a situation? The App can help you think like Churchill. It may not have access to extensive knowledge, but it will share wisdom and inspiration. Whether you want to ponder on world affairs or seek personal advice, Churchill is here to impart wisdom in the style of the great leader himself.
 
@@ -29,3 +30,14 @@ Churchill is a mentor App inspired by the wise words of Winston Churchill. With 
 | `python` | This tool is a Python environment that enables the chatbot to execute Python code or perform Python-related tasks. |
 | `dalle` | This tool is a DALL-E instance, which is a deep learning model capable of generating images from text prompts. The chatbot can use this tool to enhance the visual aspect of the conversation. |
 | `browser` | This tool represents a web browser that the chatbot can use to access online resources or retrieve information from the internet. The browser tool expands the chatbot's ability to gather relevant information during the conversation. |
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
+```
+
+</details>
+

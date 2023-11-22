@@ -1,6 +1,7 @@
+
 [![GPTea](https://files.oaiusercontent.com/file-dgHYxwRqBjX5SqHiw3wL6T02?se=2123-10-17T15%3A29%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da50104fd-0909-4c1d-8456-33aa41fa45d2.webp&sig=dfS1VpbPJtA7T6SNyg9F7aLj2PO3mkewOzurBoQuhQo%3D)](https://chat.openai.com/g/g-sJhaxyrIk-gptea)
 
-# [GPTea](https://chat.openai.com/g/g-sJhaxyrIk-gptea)
+# GPTea [ChatGPT Plus](https://chat.openai.com/g/g-sJhaxyrIk-gptea) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPTea)
 
 GPTea is your personal tea advisor! This app provides advice on global tea varieties and helps you find tea merchants near you. Whether you're a tea connoisseur or a beginner, GPTea can recommend the perfect tea that reflects your cultural background. It even remembers your preferences for future conversations. Just imagine having a conversation with a tea expert who can guide you towards your ideal tea experience. So, grab a cup of tea and let GPTea be your tea companion!
 
@@ -37,3 +38,5 @@ GPTea is your personal tea advisor! This app provides advice on global tea varie
 9. **Python Tool:** The ChatGPT App has access to the Python tool, enabling it to perform various operations and calculations related to tea. However, specific capabilities may vary based on the implemented Python code.
 
 Please note that the usage and capabilities of the provided tools may vary based on the implementation of the GPTea App.
+
+

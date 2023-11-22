@@ -1,6 +1,7 @@
+
 [![SEcOpilot](https://files.oaiusercontent.com/file-JbjQxaeaul8WO1UZvWhEK6xA?se=2123-10-16T20%3A54%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbebb894a-f99e-4315-ab8c-e67d45c3e342.png&sig=iXJW/QL1EqfBIkREJOXTjQo1FGzaSKnU3S8urmlvx4g%3D)](https://chat.openai.com/g/g-qJ1Jqjuzo-secopilot)
 
-# [SEcOpilot](https://chat.openai.com/g/g-qJ1Jqjuzo-secopilot)
+# SEcOpilot [ChatGPT Plus](https://chat.openai.com/g/g-qJ1Jqjuzo-secopilot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SEcOpilot)
 
 SEcOpilot is a Spanish SEO assistant app that provides precise and cited answers. Whether you need to improve your website's SEO, understand the concept of 'crawl budget', learn about canonical tags, or grasp the importance of mobile usability, SEcOpilot has got you covered. With easy-to-understand responses, this app is perfect for beginners and professionals alike. Say goodbye to SEO confusion and let SEcOpilot guide you towards SEO success!
 
@@ -27,3 +28,5 @@ The SEcOpilot ChatGPT App is designed to assist you with your SEO needs. Here ar
 4. "¿Por qué es importante la facilidad de uso móvil?" - This command will explain the importance of mobile usability in SEO and how it affects the visibility and ranking of your website on search engines.
 
 Please note that the SEcOpilot ChatGPT App is designed to provide precise and cited answers related to SEO in Spanish.
+
+

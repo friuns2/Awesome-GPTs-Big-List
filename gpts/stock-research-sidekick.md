@@ -1,6 +1,7 @@
+
 [![Stock Research SideKick](https://files.oaiusercontent.com/file-B7W3vZHonJSSH90y0WVUlz4m?se=2123-10-16T10%3A19%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo%2520%25284%2529.png&sig=w7x0LHW9NuL%2BRcRsGr26KlzNj5wcQlIqU210aCEG%2Bz0%3D)](https://chat.openai.com/g/g-WUdbNmjIC-stock-research-sidekick)
 
-# [Stock Research SideKick](https://chat.openai.com/g/g-WUdbNmjIC-stock-research-sidekick)
+# Stock Research SideKick [ChatGPT Plus](https://chat.openai.com/g/g-WUdbNmjIC-stock-research-sidekick) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Stock%20Research%20SideKick)
 
 Stock Research SideKick is a helpful App for investors and researchers who want to quickly access and analyze company filings. With this App, users can read company filings at high speed and even plot graphs based on data from BeatandRaise.com. Whether you want to find out which companies mentioned OpenAI in their filings, track the growth of Tesla's supercharging stations, or explore the mentions of Ozempic in filings, this App has got you covered. It also provides information on the acquisitions made by Snowflake since 2021. Stay informed and make smarter investment decisions with Stock Research SideKick!
 
@@ -33,3 +34,5 @@ Stock Research SideKick is a helpful App for investors and researchers who want 
     Example: "Which acquisitions did Snowflake make since 2021?"
 
 Please note that these examples are based on the description of the Stock Research SideKick App. The actual functionality may vary.
+
+

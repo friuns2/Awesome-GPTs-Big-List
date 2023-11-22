@@ -1,6 +1,7 @@
+
 [![Polyglot Pro](https://files.oaiusercontent.com/file-BoYtHWJehBNYdPBqr1EBLwU3?se=2123-10-17T17%3A30%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9f71b624-29fa-4fc7-9957-300e85107f10.png&sig=ccpGET29BZ7F37RRLpAvnES%2BlrifD%2ByOm31NxH5F%2BL4%3D)](https://chat.openai.com/g/g-hddqROmxe-polyglot-pro)
 
-# [Polyglot Pro](https://chat.openai.com/g/g-hddqROmxe-polyglot-pro)
+# Polyglot Pro [ChatGPT Plus](https://chat.openai.com/g/g-hddqROmxe-polyglot-pro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Polyglot%20Pro)
 
 Polyglot Pro is a fast and accurate multilingual translator that can help you in a jiffy. With just a few text inputs, you can quickly translate phrases, paragraphs, or even whole sentences into different languages. Whether you need to say 'Welcome' in Italian, translate a paragraph to Russian, or find out how to say 'Good evening' in Mandarin, this app has got you covered. It uses advanced translation technology to provide accurate results. Say goodbye to language barriers and let Polyglot Pro be your linguistic companion!
 
@@ -41,3 +42,5 @@ The Polyglot Pro app is a fast and accurate multilingual translator. It provides
 5. **Cite**: Use the Cite command to retrieve citation information. This can be useful if you want to cite a translated text or any other source. For example, you can say "Cite the translated text in APA format."
 
 Please note that the Polyglot Pro app requires access to knowledge in order to provide the best translation results.
+
+

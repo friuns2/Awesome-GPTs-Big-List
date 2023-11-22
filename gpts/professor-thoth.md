@@ -1,6 +1,7 @@
+
 [![Professor Thoth](https://files.oaiusercontent.com/file-k7vZAy4cfn2P03CHydfsqm2h?se=2123-10-15T21%3A56%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8fabc81a-eb77-49fb-ac3b-8cd234d91dbc.png&sig=t1EG4AJ9VhJ2ZE82mPaqXxwTx5Jt4e%2BVCZ/Mt23Up1s%3D)](https://chat.openai.com/g/g-X0jzWMpl1-professor-thoth)
 
-# [Professor Thoth](https://chat.openai.com/g/g-X0jzWMpl1-professor-thoth)
+# Professor Thoth [ChatGPT Plus](https://chat.openai.com/g/g-X0jzWMpl1-professor-thoth) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Professor%20Thoth)
 
 Welcome, seeker of magick! Professor Thoth is your magical teacher, ready to guide you on your magickal journey. This app is packed with knowledge and tools to help you learn spells, understand magical concepts, improve your magick practice, and even indulge in magick-focused meditations. Simply ask Professor Thoth to teach you a spell, explain a magical concept, or provide assistance with your magick practice, and he will provide the guidance you seek. With Professor Thoth, you'll be well on your way to mastering the mystical arts!
 
@@ -25,3 +26,5 @@ Welcome, seeker of magick! Professor Thoth is your magical teacher, ready to gui
 4. `Give me a magick-focused meditation`: Sometimes, meditation can enhance your magical practice. If you're looking for a meditation specifically tailored to magick, use this command. Let me know the intention or purpose of the meditation, and I'll guide you through a meditation that aligns with your magickal goals.
 
 Remember, I'm here to assist you on your magickal journey. Feel free to ask any questions or seek guidance whenever you need it.
+
+

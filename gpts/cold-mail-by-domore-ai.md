@@ -1,6 +1,7 @@
+
 [![Cold Mail by DoMore.ai](https://files.oaiusercontent.com/file-jcIlJNp1essoK4ym8A24TclE?se=2123-10-18T10%3A34%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D02ecedda-a9a2-4380-baa5-694f02b20be9.png&sig=9MB1yBqBnx7E8RuTCSlWS%2Bux9UEYSx%2B%2BIetGGOmHb4Y%3D)](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai)
 
-# [Cold Mail by DoMore.ai](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai)
+# Cold Mail by DoMore.ai [ChatGPT Plus](https://chat.openai.com/g/g-iVolzNwa5-cold-mail-by-domore-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cold%20Mail%20by%20DoMore.ai)
 
 Cold Mail by DoMore.ai is an app that helps you engage prospective customers through personalized cold emails. By analyzing your offer's URL and the URL of the customer's website, the app generates customized email content that is tailored to the customer's needs and interests. With Cold Mail, you can easily reach out to potential clients in a personalized and efficient way. Say goodbye to generic cold emails and hello to meaningful connections with your target audience!
 
@@ -29,3 +30,5 @@ Cold Mail by DoMore.ai is an app that helps you engage prospective customers thr
 5. **Browser tool** - Cold Mail includes a browser tool that helps you gather information about your target customers. By accessing their websites, you can gain insights into their business, products, services, or any other relevant details that can inform the customization of your cold emails.
 
 Remember to always review and customize the generated content to ensure it aligns with your specific goals, values, and target audience.
+
+

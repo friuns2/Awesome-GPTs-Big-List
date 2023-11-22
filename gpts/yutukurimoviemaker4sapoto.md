@@ -1,6 +1,7 @@
+
 [![ゆっくりMovieMaker4サポート](https://files.oaiusercontent.com/file-j2w2FUnFTGCNFEoMOO3jAdOT?se=2123-10-17T02%3A06%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc3be98f9-b365-4bf2-9886-747359fcad71.png&sig=jBfMCPPFTOTeAAAVBYlGnNTwesG2JyV1CctFMxut9nc%3D)](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto)
 
-# [ゆっくりMovieMaker4サポート](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto)
+# ゆっくりMovieMaker4サポート [ChatGPT Plus](https://chat.openai.com/g/g-wl8EUuUyX-yutukurimoviemaker4sapoto) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8AMovieMaker4%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)
 
 ゆっくりMovieMaker4サポート is a helpful App that provides solutions to common questions related to the movie making software. Whether you need assistance in adding borders to your text or learning how to use moving character materials, this App has got you covered. With access to useful knowledge and prompt starters like learning how to display spikes on the edges of your text when outlined, this App ensures that you have all the information you need. Say goodbye to confusion and hello to smooth movie making with ゆっくりMovieMaker4サポート!
 
@@ -36,3 +37,5 @@ This ChatGPT app is designed to provide support and assistance for ゆっくりM
 5. **使い方がわからないのですが、教えていただけますか？** - If you are new to ゆっくりMovieMaker4 and need instructions or a general overview of how to use the application, use this prompt to ask for assistance. The app will provide guidance on the basic usage and features of the application.
 
 Note: This ChatGPT app does not have specific tools or parameters to describe. It focuses on providing information and support for ゆっくりMovieMaker4.
+
+

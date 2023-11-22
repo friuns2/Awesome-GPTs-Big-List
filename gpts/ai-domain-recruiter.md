@@ -1,6 +1,7 @@
+
 [![AI Domain Recruiter](null)](https://chat.openai.com/g/g-reGma6Pp3-ai-domain-recruiter)
 
-# [AI Domain Recruiter](https://chat.openai.com/g/g-reGma6Pp3-ai-domain-recruiter)
+# AI Domain Recruiter [ChatGPT Plus](https://chat.openai.com/g/g-reGma6Pp3-ai-domain-recruiter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Domain%20Recruiter)
 
 AI Domain Recruiter is an AI-powered app designed specifically for recruiting AI engineering roles. With this app, you can seamlessly review AI candidate resumes, match their skills to available job positions, and even suggest improvements to their qualifications. The app is equipped with advanced tools such as image recognition, Python programming, and web browsing capabilities, allowing you to gather all the necessary information and make informed decisions. Say goodbye to the hassle of manually screening CVs and let AI Domain Recruiter streamline your AI role recruitment process. Welcome to the future of hiring!
 
@@ -23,3 +24,5 @@ AI Domain Recruiter is an AI-powered app designed specifically for recruiting AI
 3. **Suggest improvements:** Use this command to request the AI Recruiter to suggest improvements for a candidate's qualifications for an AI role. It helps in identifying areas where the candidate can enhance their skills or experience.
 
 4. **Qualify this candidate:** This command enables you to ask the AI Recruiter to qualify a candidate for an AI engineering position. It assists in evaluating the candidate's suitability and determining if they meet the requirements for the role.
+
+

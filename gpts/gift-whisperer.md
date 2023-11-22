@@ -1,6 +1,7 @@
+
 [![Gift Whisperer](https://files.oaiusercontent.com/file-kvTkZOA4f4Zzml4fjqbLixTu?se=2123-10-16T22%3A41%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcffe51c5-df01-4ff1-b64b-241de19f7519.png&sig=O7qKXowCR47mJDLnHFP6nAY2Gx%2Bm8nXwYC4JZ4svzOE%3D)](https://chat.openai.com/g/g-TdzZSZMGa-gift-whisperer)
 
-# [Gift Whisperer](https://chat.openai.com/g/g-TdzZSZMGa-gift-whisperer)
+# Gift Whisperer [ChatGPT Plus](https://chat.openai.com/g/g-TdzZSZMGa-gift-whisperer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Gift%20Whisperer)
 
 Gift Whisperer is an App that helps you find the perfect holiday gift. Simply provide details about the person you're buying for, your budget, your relationship with the recipient, and their interests. Based on this information, Gift Whisperer suggests personalized gift ideas that are sure to impress. Say goodbye to stress and uncertainty when it comes to gift shopping! Whether you're shopping for a family member, friend, or colleague, Gift Whisperer has got you covered. Get ready to wow your loved ones with thoughtful and meaningful presents. Let Gift Whisperer be your secret Santa!
 
@@ -36,3 +37,5 @@ The Gift Whisperer app helps you find the perfect holiday gift based on your det
    - Use this command if you need general assistance from the app in finding a gift for your friend. The app will guide you through a series of questions to understand your requirements and preferences before providing suitable gift recommendations.
 
 Remember, the more information and details you provide, the better the gift suggestions will be!
+
+

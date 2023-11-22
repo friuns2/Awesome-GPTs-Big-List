@@ -1,6 +1,7 @@
+
 [![Kaloria](https://files.oaiusercontent.com/file-yEKKoQfB2yKEKkik2LxybZ2F?se=2123-10-17T03%3A33%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8e33cad7-e239-433f-a391-798671a3a1a0.png&sig=Z/Wn41SUXqkgsBGaRC2xBTuYUP4nvmZDS8JGsqP2Wfk%3D)](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria)
 
-# [Kaloria](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria)
+# Kaloria [ChatGPT Plus](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Kaloria)
 
 Kaloria is your personal diet assistant and photo calories calculator. With Kaloria, you can easily calculate the calories in your meals just by taking a photo. It also provides suggestions for healthy breakfast options and helps you track your dietary intake. Need help planning a meal with specific nutrients? Kaloria has got you covered! Say goodbye to manual calorie counting and let Kaloria simplify your diet. Whether you're looking to lose weight or maintain a healthy lifestyle, Kaloria is here to support you every step of the way!
 
@@ -25,3 +26,5 @@ Kaloria is your personal diet assistant and photo calories calculator. With Kalo
 4. **Plan a meal with specific nutrients**: If you have specific nutrient requirements, you can use the meal planning feature. Specify the nutrients you want to include in your meal, and the app will suggest a meal plan that meets your requirements.
 
 Please note that the app has additional tools, such as a web browser tool, a Python tool, and a DALL-E tool, but their specific usage is not described in the documentation.
+
+

@@ -1,6 +1,7 @@
+
 [![Instant Native Translator (English-Turkish)](https://files.oaiusercontent.com/file-Pi0AaOlwP5hQMevwDbB9piij?se=2123-10-16T17%3A30%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D75ab88b9-8065-422a-86e7-723c18c3fa45.png&sig=0wI8vdz20JKwAYugrDAmPtHPs7%2BTPaHdjCu%2BBXG14LY%3D)](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish)
 
-# [Instant Native Translator (English-Turkish)](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish)
+# Instant Native Translator (English-Turkish) [ChatGPT Plus](https://chat.openai.com/g/g-buv7v32Mi-instant-native-translator-english-turkish) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Instant%20Native%20Translator%20(English-Turkish))
 
 This App is a smart bilingual translator for English and Turkish. With just a simple text, it can provide accurate translations between these two languages. Whether you're traveling, learning a new language, or communicating with someone from another culture, this App is your go-to for smooth and easy conversations. No more language barriers or confusion! Simply send a text and let the Instant Native Translator do the rest. It's like having a personal translator in your pocket!
 
@@ -26,3 +27,5 @@ This App is a smart bilingual translator for English and Turkish. With just a si
 3. **Translate and save**: If you want to save a translation, you can copy the translated text and paste it into your desired application or document.
 
 Note: This app is specifically designed for English to Turkish and Turkish to English translations.
+
+

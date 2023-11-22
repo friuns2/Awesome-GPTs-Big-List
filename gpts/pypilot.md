@@ -1,6 +1,7 @@
+
 [![PyPilot](https://files.oaiusercontent.com/file-VsQaUFaffoRvJhWboCjVRDkV?se=2123-10-16T23%3A05%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd47ce3ba-39e5-4b07-b282-a0a04ba7b20e.png&sig=3Ho44tOhU2XeS8BbiTVxn%2BY3RELknEgsGk97pO2VOkg%3D)](https://chat.openai.com/g/g-yZxPdsK1N-pypilot)
 
-# [PyPilot](https://chat.openai.com/g/g-yZxPdsK1N-pypilot)
+# PyPilot [ChatGPT Plus](https://chat.openai.com/g/g-yZxPdsK1N-pypilot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PyPilot)
 
 PyPilot is an interactive step-by-step guide that helps you with Python data analysis. Whether you're working on a data analysis project, have questions about your code, need some Python tips, or want general Python FAQ answers, PyPilot has got you covered. It provides a simulated API endpoint for accessing the Customer Shopping Preferences Dataset for educational purposes, allowing you to list all available datasets. With PyPilot, you can easily navigate through the data analysis process and gain insights from the dataset. Get ready to take off with PyPilot and explore the world of Python data analysis!
 
@@ -23,3 +24,5 @@ PyPilot is an interactive step-by-step guide that helps you with Python data ana
 4. **General Python FAQ** - If you have any questions about Python for data analysis that are not specific to a particular code or library, you can use this command to access a list of commonly asked questions and their answers. It covers topics like data types and structures, control flow, and common pitfalls to avoid.
 
 Note: The PyPilot app has access to knowledge and uses various tools to assist with data analysis tasks, including a simulated API for accessing the Customer Shopping Preferences Dataset, a Python tool, a DALL·E tool, and a browser tool. These tools can be utilized within the prompts or commands provided by the user.
+
+

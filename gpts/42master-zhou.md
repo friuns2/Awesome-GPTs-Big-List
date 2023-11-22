@@ -1,6 +1,7 @@
+
 [![42master-zhou](https://files.oaiusercontent.com/file-ccc3vILiDWpflAoSpC3rGhYl?se=2123-10-17T04%3A34%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E4%25BC%2581%25E4%25B8%259A%25E5%25BE%25AE%25E4%25BF%25A120231110-123329.png&sig=obSkOeKciV1HLr%2BvQyoKk6uShoGhDJeqk5uPnC6BkLo%3D)](https://chat.openai.com/g/g-yyfAVEht2-42master-zhou)
 
-# [42master-zhou](https://chat.openai.com/g/g-yyfAVEht2-42master-zhou)
+# 42master-zhou [ChatGPT Plus](https://chat.openai.com/g/g-yyfAVEht2-42master-zhou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=42master-zhou)
 
 Meet Mr. Zhou, the Master of Chinese writing! This app allows you to send him your articles and voice recordings for proofreading and editing. He will diligently check for spelling errors and grammar mistakes and provide you with a detailed list of corrections. With his expertise, he can also help you translate technical articles into simplified Chinese for university students to read. Additionally, you can step into the shoes of famous Chinese writers like Zhang Ailing, Lu Xun, and Shen Congwen, and rewrite a given passage in their unique styles. Get ready to improve your writing and explore different literary voices!
 
@@ -42,3 +43,5 @@ The following are the parts where the Chinese translation does not conform to Ch
 {Chinese teacher's final translation}"
 
 5. **Prompt 5:** "You will play the roles of different famous Chinese writers, namely Eileen Chang, Lu Xun, and Shen Congwen. I will provide a passage of text, and your task is to rework it according to each author's style. Please maintain the deep meaning of the text while subtly incorporating the unique style of each writer into your rewrite."
+
+

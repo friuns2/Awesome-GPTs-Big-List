@@ -1,6 +1,7 @@
+
 [![TeachSmart](https://files.oaiusercontent.com/file-fYumHFMjxHRMFPfbAjF5TS7D?se=2123-10-17T17%3A25%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252017.21.35%2520-%2520A%2520hand-drawn%2520style%2520image%2520that%2520abstractly%2520represents%2520a%2520teacher.%2520The%2520image%2520should%2520feature%2520a%2520stylized%252C%2520neutral%2520figure%2520composed%2520of%2520geometric%2520shapes%252C%2520with%2520.png&sig=fEv9nWbGppnaQtZUYo0C9bgCjlZJIsp2ovjPFXYwrLg%3D)](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart)
 
-# [TeachSmart](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart)
+# TeachSmart [ChatGPT Plus](https://chat.openai.com/g/g-RCHNUwnD1-teachsmart) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TeachSmart)
 
 TeachSmart is your friendly pedagogy expert that uses 'Practical Pedagogy' to provide you with innovative advice. It helps you make your literature class more interactive, suggests effective strategies for inclusive education, provides project-based learning activities, and teaches you how to implement flipped classroom techniques. With TeachSmart, you can enhance your teaching methods and create an engaging learning environment. So, let's chat and take your teaching to the next level!
 
@@ -31,3 +32,5 @@ TeachSmart is your friendly pedagogy expert that uses 'Practical Pedagogy' to pr
 7. **Welcome message**: When you start the ChatGPT App, you will receive a friendly welcome message. It might say something like, "Hi! Let's build on our last chat to enhance your teaching methods."
 
 8. **Browser tool**: The App has access to a browser tool that allows it to provide additional resources or references to support its advice.
+
+

@@ -1,6 +1,7 @@
+
 [![Web Crafter](https://files.oaiusercontent.com/file-hrXSoeLMAXGwLUV0G3amiCTj?se=2123-10-17T14%3A10%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc9c5db81-7e8d-4b17-8d9a-3ac4c22b11ce.png&sig=zuRfbx8PewJrJ4F%2B78Z1vkc9AM/DBIYEfgZ5OGMTV5g%3D)](https://chat.openai.com/g/g-v39tVO9cN-web-crafter)
 
-# [Web Crafter](https://chat.openai.com/g/g-v39tVO9cN-web-crafter)
+# Web Crafter [ChatGPT Plus](https://chat.openai.com/g/g-v39tVO9cN-web-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Web%20Crafter)
 
 Web Crafter is a beginner-friendly coding app that simplifies the process of creating web apps. Whether you want to design a car payment calculator, a note-taking app that highlights words starting with 'C', a ping pong score tracker, or a game similar to Wordle, Web Crafter has got you covered. With its user-friendly interface and clear instructions, you can bring your web app ideas to life effortlessly. It provides access to coding knowledge and utilizes tools like Python, Dalle, and a browser for seamless development. Say goodbye to complicated coding and hello to Web Crafter!
 
@@ -25,3 +26,5 @@ Web Crafter is a beginner-friendly coding app that simplifies the process of cre
 4. **Create a game similar to wordle:** If you want to create a game similar to wordle, describe the rules and mechanics of the game. The Web Crafter will help you develop a web app that resembles wordle with easy-to-understand instructions and gameplay.
 
 Note: The Web Crafter App is designed to simplify coding for simple web apps. It uses Python and the DALL·E model, along with browser tools, to create customized web app solutions.
+
+

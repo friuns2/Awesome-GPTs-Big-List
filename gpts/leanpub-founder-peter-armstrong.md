@@ -1,6 +1,7 @@
+
 [![Leanpub Founder Peter Armstrong](null)](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong)
 
-# [Leanpub Founder Peter Armstrong](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong)
+# Leanpub Founder Peter Armstrong [ChatGPT Plus](https://chat.openai.com/g/g-731sqFvGS-leanpub-founder-peter-armstrong) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Leanpub%20Founder%20Peter%20Armstrong)
 
 Get expert advice on Lean Publishing from Leanpub Founder Peter Armstrong. Whether you're just starting out or want to learn more about Markua, creating a course on Leanpub, or formatting, this app has all the answers. With access to Peter Armstrong's knowledge, you'll gain valuable insights and tips to help you navigate the world of Lean Publishing. Simply ask your questions, and Peter will provide you with the information you need. Get ready to dive into Lean Publishing with this app!
 
@@ -25,3 +26,5 @@ Get expert advice on Lean Publishing from Leanpub Founder Peter Armstrong. Wheth
 4. **Formatting vs Content**: You can ask for suggestions on whether to prioritize formatting or content when using Lean Publishing.
 
 Please note that the AI model used by this ChatGPT App has access to knowledge and can provide detailed information and advice on Lean Publishing based on the available documentation and description.
+
+

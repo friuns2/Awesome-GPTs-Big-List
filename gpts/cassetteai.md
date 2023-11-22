@@ -1,6 +1,7 @@
+
 [![CassetteAI](https://files.oaiusercontent.com/file-Sr1xIPmoNVxkEXt5vdffdnY5?se=2123-10-16T20%3A50%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1024.png&sig=xTvw5kRVS%2BIl8dHb5M40FhT055iiPgicEv9M%2BOj71sk%3D)](https://chat.openai.com/g/g-kD2LQB0RB-cassetteai)
 
-# [CassetteAI](https://chat.openai.com/g/g-kD2LQB0RB-cassetteai)
+# CassetteAI [ChatGPT Plus](https://chat.openai.com/g/g-kD2LQB0RB-cassetteai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CassetteAI)
 
 CassetteAI is an app that converts text prompts into music. Just give it a prompt and it will create a unique beat or instrumental music based on your text. You can turn any idea into music and get creative with different vibes. The app allows you to specify the duration, random seed, topk, topp, dimensions, cfg_coef, overlap, and even your email if you'd like. So, are you ready to make some beats and compose music? Start creating your own tunes with CassetteAI today!
 
@@ -25,3 +26,5 @@ CassetteAI is an app that converts text prompts into music. Just give it a promp
 - `overlap`: A parameter that determines how closely the generated music matches the input prompt.
 
 **Note:** Make sure to check your created music at [CassetteAI dashboard](https://cassetteai.com/dashboard?ref=chatgpt).
+
+

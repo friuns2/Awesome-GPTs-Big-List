@@ -1,6 +1,7 @@
+
 [![SA Speed Cameras](https://files.oaiusercontent.com/file-bxcDH0kZRKkXJRqViA7jz25b?se=2123-10-14T11%3A37%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon.png&sig=KS11n1do7GENw74FSpl1uDBpEw67Gq0/Bohyxn/4KS0%3D)](https://chat.openai.com/g/g-F1EMXb3ZP-sa-speed-cameras)
 
-# [SA Speed Cameras](https://chat.openai.com/g/g-F1EMXb3ZP-sa-speed-cameras)
+# SA Speed Cameras [ChatGPT Plus](https://chat.openai.com/g/g-F1EMXb3ZP-sa-speed-cameras) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SA%20Speed%20Cameras)
 
 SA Speed Cameras is your go-to app for checking if there are any mobile speed cameras or roadworks on South Australian roads. Simply enter the roads you plan to travel on, and the app will let you know if there are any speed cameras or roadworks to watch out for. It's a handy tool to help you avoid any surprises and ensure a smooth journey. And for additional information and updates, the app provides a link to the Facebook group where you can stay updated with the latest news. Stay safe and informed with SA Speed Cameras!
 
@@ -21,3 +22,5 @@ SA Speed Cameras is your go-to app for checking if there are any mobile speed ca
 3. **Facebook group link**: Regardless of the presence of speed cameras or roadworks, the app always provides the user with a link to the Facebook group related to South Australian speed cameras.
 
 Please note that the above description is based on the provided data and may not encompass all the functionalities of the app.
+
+

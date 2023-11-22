@@ -1,6 +1,7 @@
+
 [![英文添削先生](null)](https://chat.openai.com/g/g-F3AckzGZJ-ying-wen-tian-xue-xian-sheng)
 
-# [英文添削先生](https://chat.openai.com/g/g-F3AckzGZJ-ying-wen-tian-xue-xian-sheng)
+# 英文添削先生 [ChatGPT Plus](https://chat.openai.com/g/g-F3AckzGZJ-ying-wen-tian-xue-xian-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%8B%B1%E6%96%87%E6%B7%BB%E5%89%8A%E5%85%88%E7%94%9F)
 
 英文添削先生 is an App designed to help English language learners improve their writing skills. Simply input the English sentences you would like to have corrected, and 英文添削先生 will provide feedback and suggestions to enhance your learning experience. With its dedicated focus on proofreading and editing, this App is a valuable resource to assist you in your English language journey. So, don't hesitate to submit your sentences and let 英文添削先生 help you excel!
 
@@ -27,3 +28,5 @@
 4. **Improve English Sentence**: If you have a specific English sentence that you want to improve, you can use this command. Input the sentence you want to work on, and the chatbot will provide suggestions and guidance on how to enhance it.
 
 5. **Review and Suggest Changes**: This command is suitable for when you have a paragraph or a longer text that you want to be thoroughly reviewed and revised. Input the text you want assistance with, and the chatbot will review it, suggest changes, and provide feedback for improvement.
+
+

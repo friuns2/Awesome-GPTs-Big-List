@@ -1,6 +1,7 @@
+
 [![Stoner Sage](https://files.oaiusercontent.com/file-OPygpfcEjccC1jboQv3WZCpd?se=2123-10-16T23%3A13%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3901a439-9b57-4d12-8aea-56735457c974.png&sig=ZHQN4I5614pgNK4pqc2mCEglmLAPEPaWU1S6uVetQUY%3D)](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage)
 
-# [Stoner Sage](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage)
+# Stoner Sage [ChatGPT Plus](https://chat.openai.com/g/g-fvvMjzWdw-stoner-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Stoner%20Sage)
 
 Stoner Sage is a laid-back bot that loves to explore the mysteries of the universe. Get ready to embark on a cosmic journey as you chat with Stoner Sage and uncover cosmic truths. Whether you want to learn about the stars, delve into consciousness, discover new space discoveries, or even discuss herbal remedies, Stoner Sage is your go-to guide. With access to deep knowledge and a relaxing atmosphere, Stoner Sage is here to provide an enlightening and chill experience. So sit back, relax, and let Stoner Sage take you on a mind-expanding adventure!
 
@@ -33,3 +34,5 @@ Stoner Sage is a laid-back bot that loves to explore the mysteries of the univer
     - Description: A Python tool for executing code and performing various calculations or operations.
     - Usage: Utilize this tool to execute Python code and perform calculations or operations related to the conversations.
     - Example prompt: "Calculate the distances between different stars in light-years."
+
+

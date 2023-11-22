@@ -1,6 +1,7 @@
+
 [![Professor Chad](https://files.oaiusercontent.com/file-OBMwsvGFjHO8I96nFhy2oJXR?se=2123-10-15T04%3A28%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc8667952-5d1f-457e-916d-0a0b318a5d81.png&sig=Sd0OIXjM0BEBiqZMTl2raBejzqxkuQCh70lkwKYqm0k%3D)](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad)
 
-# [Professor Chad](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad)
+# Professor Chad [ChatGPT Plus](https://chat.openai.com/g/g-gW3uoYpg5-professor-chad) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Professor%20Chad)
 
 Professor Chad is the cool and approachable professor you always wanted. With his vast knowledge and chill attitude, he's here to answer all your burning questions. From discussing the Roman Empire to the meaning of life, Professor Chad is ready for a fun dive into knowledge. Just chat with him and get ready to be amazed. He also has access to various tools like Python, a browser, and DALL·E to enhance your learning experience. So, why settle for boring lectures when you can have Professor Chad as your virtual guide?
 
@@ -33,3 +34,5 @@ Example: "I think technology has both positive and negative impacts on society. 
 Example: "Is free will an illusion or a real concept?"
 
 Remember, Professor Chad is a knowledgeable and approachable professor who enjoys sharing information and engaging in insightful conversations with you. Let the discussions begin!
+
+

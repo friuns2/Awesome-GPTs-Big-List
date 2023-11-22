@@ -1,6 +1,7 @@
+
 [![Quizzy Whiz](https://files.oaiusercontent.com/file-m6ff7iXYSLdEzZ0zYpHbBb2f?se=2123-10-17T17%3A30%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De79e717e-aa07-4f74-9a7a-60dfef2c8816.png&sig=sjs/WiDdDh9WnRY2F7uIynciXaLbMwrvimBAD69Vrvk%3D)](https://chat.openai.com/g/g-b3nqTo7ye-quizzy-whiz)
 
-# [Quizzy Whiz](https://chat.openai.com/g/g-b3nqTo7ye-quizzy-whiz)
+# Quizzy Whiz [ChatGPT Plus](https://chat.openai.com/g/g-b3nqTo7ye-quizzy-whiz) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Quizzy%20Whiz)
 
 Quizzy Whiz is a playful and educational app that generates quizzes for kids. With Quizzy Whiz, you can create engaging quizzes for different age groups and subjects. Want to test a 7-year-old's knowledge? Generate a quiz for them! Need a shape quiz for preschoolers? Quizzy Whiz has got you covered. You can even design simple math or history quizzes for older children. Get ready to have some fun and boost learning with this interactive quiz generator. So, why wait? Let's get quizzing!
 
@@ -25,3 +26,5 @@ Quizzy Whiz is a playful and educational app that generates quizzes for kids. Wi
 4. **Generate a history quiz for a 10-year old**: This command generates a history-themed quiz tailored for 10-year-old children. It covers various historical topics and events.
 
 Note: Quizzy Whiz is a playful and educational app designed to generate quizzes for kids. It provides interactive tools and prompts to create engaging and age-appropriate quizzes. The app does not have access to external knowledge sources.
+
+

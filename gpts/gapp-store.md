@@ -1,6 +1,7 @@
+
 [![GAPP STORE](https://files.oaiusercontent.com/file-waVwzFmUPCpyUQOrNswFNvjN?se=2123-10-15T10%3A20%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D79c6e17b-767a-41cc-920e-3a1ba5bb2c24.png&sig=EBPSwX0f3eGN8eeotZaqViy%2BjPpU3tP8YKPv2KQaJv8%3D)](https://chat.openai.com/g/g-sgrMYRnXx-gapp-store)
 
-# [GAPP STORE](https://chat.openai.com/g/g-sgrMYRnXx-gapp-store)
+# GAPP STORE [ChatGPT Plus](https://chat.openai.com/g/g-sgrMYRnXx-gapp-store) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GAPP%20STORE)
 
 Welcome to GAPP Store, your all-in-one AI app universe! Chat, create, and customize with our wide range of apps. Explore the trending apps, browse the top apps, or get a complete list of all the apps in the store. With GAPP Store apps, the possibilities are endless. Use our browser tools to search the web, access knowledge, and stay updated. You can also unleash your creativity with our DALLE AI tool. Whether you want to browse, create, or learn, GAPP Store has it all!
 
@@ -33,3 +34,5 @@ Welcome to GAPP Store, your all-in-one AI app universe! Chat, create, and custom
 - To execute Python code and perform custom operations, use the "Python App" command with the Python tool.
 
 - Enjoy exploring and discovering the functionalities of different apps in the GAPP Store!
+
+

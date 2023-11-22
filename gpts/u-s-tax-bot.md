@@ -1,6 +1,7 @@
+
 [![U.S. Tax Bot](https://files.oaiusercontent.com/file-FM60Ua98PCgGAtQm7jet3Adr?se=2123-10-16T19%3A16%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6460e1ba-5bab-492c-8034-9da6e82bd402.png&sig=v6Vk/7klRzu2hTncC01HXuePpel4ey9EMmlVnX5El4Q%3D)](https://chat.openai.com/g/g-EznQie7Yv-u-s-tax-bot)
 
-# [U.S. Tax Bot](https://chat.openai.com/g/g-EznQie7Yv-u-s-tax-bot)
+# U.S. Tax Bot [ChatGPT Plus](https://chat.openai.com/g/g-EznQie7Yv-u-s-tax-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=U.S.%20Tax%20Bot)
 
 U.S. Tax Bot is your virtual assistant for navigating through the complexities of U.S. tax laws. It offers detailed guidance based on the complete U.S. Tax Code, helping you understand federal and state tax information, specific tax regulations, and selecting the correct tax forms for filing. Need information about a specific tax topic? Just ask using the '/info [tax topic]' command. Want details about a particular tax form or deduction? Use the '/form [form number/name]' or '/deduction [deduction name]' commands. It can even provide a basic tax estimate with the '/calculate [simple tax scenario]' command. Let U.S. Tax Bot simplify your tax filing experience!
 
@@ -43,3 +44,5 @@ U.S. Tax Bot is your virtual assistant for navigating through the complexities o
 12. The bot uses tools such as DALLE and Python for its functionality.
 
 13. The bot has a browser tool that it can leverage for specific tasks.
+
+

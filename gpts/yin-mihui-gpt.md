@@ -1,6 +1,7 @@
+
 [![飲み会GPT](https://files.oaiusercontent.com/file-qjR2toTf5zMpaJF96JEopmJP?se=2123-10-18T21%3A05%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7c7f7823-4e81-407b-acec-2d4054f0922f.png&sig=5eyRezAxZh2JOgioqBZEZgZ3R8dOuKojqcSItiZ14F4%3D)](https://chat.openai.com/g/g-3itkAuZtY-yin-mihui-gpt)
 
-# [飲み会GPT](https://chat.openai.com/g/g-3itkAuZtY-yin-mihui-gpt)
+# 飲み会GPT [ChatGPT Plus](https://chat.openai.com/g/g-3itkAuZtY-yin-mihui-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%A3%B2%E3%81%BF%E4%BC%9AGPT)
 
 飲み会GPT is an app designed to enhance your experience at a Japanese sake bar. With this app, you'll never have a dull moment during your night out. Simply start by entering the bar and get ready for some unforgettable encounters. Whether you're looking for interesting conversations, recommendations for the best sake, or just a fun way to pass the time, this app has you covered. It utilizes powerful tools like DALL·E and a built-in browser to provide you with creative responses and access to information. So, raise your glass and let 飲み会GPT make your sake bar adventures even more exciting!
 
@@ -36,3 +37,5 @@
    - Ask for recommendations on drinks that suit your current mood or preferences.
 
 Note: This ChatGPT App does not have access to knowledge and cannot provide factual information about drink recipes, health risks, or specific bar-related details.
+
+

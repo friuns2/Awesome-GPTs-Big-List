@@ -1,6 +1,7 @@
+
 [![Code Catalyst](https://files.oaiusercontent.com/file-owdTGTCkAOye4lAqnuMJGDM9?se=2123-10-19T01%3A12%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3e54f7d0-511c-4a2f-bcbc-97eea2e31b9a.png&sig=wHCm4kTIyGdeXqviWHYtQ0r%2BmQPStkGXiFKIBJZzj5I%3D)](https://chat.openai.com/g/g-p2VQ7UHg8-code-catalyst)
 
-# [Code Catalyst](https://chat.openai.com/g/g-p2VQ7UHg8-code-catalyst)
+# Code Catalyst [ChatGPT Plus](https://chat.openai.com/g/g-p2VQ7UHg8-code-catalyst) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Code%20Catalyst)
 
 Code Catalyst is your go-to partner for coding assistance and code reviews. Whether you need help optimizing your code, reviewing it for best practices, or debugging a script, Code Catalyst is here to lend a helping hand. Stay up-to-date with the latest trends in software development by asking Code Catalyst. With specialized tools for Python programming, web browsing, and image generation using DALLE, Code Catalyst has got you covered. Get ready to boost your coding skills with the expert guidance of Code Catalyst!
 
@@ -31,3 +32,5 @@ Note: Code Catalyst supports the following programming languages and tools:
 - Browser - Use the Browser tool for web development, testing, and troubleshooting.
 
 - DALL·E - Use the DALL·E tool for generating code snippets or visual representations based on natural language prompts.
+
+

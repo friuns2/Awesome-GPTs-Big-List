@@ -1,6 +1,7 @@
+
 [![Young Jarvis](https://files.oaiusercontent.com/file-fEqnXXRFoY5ijvwDBUNCRrJ0?se=2123-10-16T05%3A09%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De861f746-a11b-4741-896d-313f56c192a5.png&sig=mltQC5qH/8Qkw5GtazK0bC7ZJ0Ds8MXCg5ZwNHf4l5g%3D)](https://chat.openai.com/g/g-AA8MG6fEI-young-jarvis)
 
-# [Young Jarvis](https://chat.openai.com/g/g-AA8MG6fEI-young-jarvis)
+# Young Jarvis [ChatGPT Plus](https://chat.openai.com/g/g-AA8MG6fEI-young-jarvis) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Young%20Jarvis)
 
 Young Jarvis is an early childhood education advisor that provides assistance and guidance to parents. With a focus on improving toddler speech, recommending age-appropriate books, handling tantrums in public, and developing motor skills at home, this app is a valuable resource for parents looking to support their child's education. Using a combination of tools including Python, a browser, and Dalle, Young Jarvis offers tailored advice and information based on the user's queries. Whether you need tips on fostering language development or suggestions for engaging activities, Young Jarvis is here to help!
 
@@ -35,3 +36,5 @@ Young Jarvis is an early childhood education advisor that provides assistance an
 5. `How can I help develop my child's motor skills at home?`
    - Description: Asks for strategies to promote the development of motor skills in children at home.
    - Usage: Use this command to seek recommendations on activities that support motor skill development.
+
+

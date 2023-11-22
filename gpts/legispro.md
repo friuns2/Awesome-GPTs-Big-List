@@ -1,6 +1,7 @@
+
 [![LegisPro](https://files.oaiusercontent.com/file-63EIc7lsr6DtZrBGupOIRA0i?se=2123-10-16T20%3A24%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7f2b9c31-194c-4d18-9fb5-26e0670291e8.png&sig=4EjnBzhML4q1t4sZPc/GZV%2BC3anEFX%2BbR7peOwpm09s%3D)](https://chat.openai.com/g/g-yEpBvyOUh-legispro)
 
-# [LegisPro](https://chat.openai.com/g/g-yEpBvyOUh-legispro)
+# LegisPro [ChatGPT Plus](https://chat.openai.com/g/g-yEpBvyOUh-legispro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LegisPro)
 
 LegisPro is your go-to legislative assistant with expertise in technical legislation. It provides valuable insights and suggestions to improve legislative texts. Use command prompts like '/apresente' or '/aplique' to get started. Whether you need to analyze a text or suggest improvements to an article, LegisPro has got you covered. It also has access to a wealth of knowledge to assist you in your legislative work. With LegisPro, drafting and refining legislation has never been easier!
 
@@ -25,3 +26,5 @@ LegisPro is your go-to legislative assistant with expertise in technical legisla
 3. `Analise este texto` - Use this phrase to request an analysis of a given text using legislative techniques. Make sure to specify the text you want to be analyzed.
 
 4. `Sugira melhorias para este artigo` - Use this phrase to request suggestions for improving a specific article. Provide the article you want to be evaluated and improved.
+
+

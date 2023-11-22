@@ -1,6 +1,7 @@
+
 [![From image to text 📷💬](https://files.oaiusercontent.com/file-mwR9osyVK3TtauT26CzBI4ye?se=2123-10-23T09%3A17%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da02ba788-17ca-46d1-a142-50c92dbfe3e6.png&sig=uwiY5PbveIGNunGCs38RkCBFuXxhltaBzoWum%2B9FoMM%3D)](https://chat.openai.com/g/g-PTLXUA56g-from-image-to-text)
 
-# [From image to text 📷💬](https://chat.openai.com/g/g-PTLXUA56g-from-image-to-text)
+# From image to text 📷💬 [ChatGPT Plus](https://chat.openai.com/g/g-PTLXUA56g-from-image-to-text) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=From%20image%20to%20text%20%F0%9F%93%B7%F0%9F%92%AC)
 
 This App is like magic! It can turn images into text for you. 📷💬 Whether you want to know what text is in an image or discuss the story behind a picture, this App has got you covered. Just upload your image and let's explore together! 🌟 With its powerful tools, including a DALLE model, Python integration, and a browser interface, this App provides you with the means to extract text from images and engage in meaningful conversations about them. Get ready to unlock the hidden stories within your photos with this image-to-text App! ✨
 
@@ -25,3 +26,5 @@ This App is like magic! It can turn images into text for you. 📷💬 Whether y
 4. **Welcome message:** The app starts with a welcome message inviting you to explore and discuss your images together.
 
 Note: The provided data does not contain specific instructions or usage tips relating to the tools.
+
+

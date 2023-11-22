@@ -1,6 +1,7 @@
+
 [![Steel Man GPT](https://files.oaiusercontent.com/file-QCc07rLxMVnZ7QtVngXu1s1I?se=2123-10-18T14%3A12%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1119aea3-6659-4585-bc74-4141c855ef50.png&sig=5fxBhRhPXu1o776ABpWcJKRpuxqrlefEXc1bTK7H0RA%3D)](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-gpt)
 
-# [Steel Man GPT](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-gpt)
+# Steel Man GPT [ChatGPT Plus](https://chat.openai.com/g/g-bhAb8JZPi-steel-man-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Steel%20Man%20GPT)
 
 Steel Man GPT is your intellectual sparring partner! Whether you want to challenge your viewpoint, strengthen your argument, explore counterarguments, or analyze the validity of a statement, this app is here to refine your reasoning skills. With Steel Man GPT, you can engage in thoughtful debates and discussions to foster intellectual growth. It welcomes you with open arms, ready to help you become a better critical thinker. So don't just argue, steel your arguments with Steel Man GPT!
 
@@ -25,3 +26,5 @@ Steel Man GPT is your intellectual sparring partner! Whether you want to challen
 4. **Analyze a Statement's Validity:** This command allows the user to request an analysis of the validity of a given statement or claim. The ChatGPT App will provide insights, reasoning, and evidence to evaluate the accuracy or reliability of the statement.
 
 Note: The Steel Man GPT App does not have access to external knowledge and does not provide any specific instructions.
+
+

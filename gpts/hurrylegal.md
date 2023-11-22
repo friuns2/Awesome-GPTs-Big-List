@@ -1,6 +1,7 @@
+
 [![HurryLegal](https://files.oaiusercontent.com/file-3gQurxLYPHDMx0EGQfznIGrm?se=2123-10-17T04%3A29%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DFrame%252014.png&sig=e5TiFwvNAekCx%2Be1hozMZJjJeks0hgn99o9cYL5yg%2Bw%3D)](https://chat.openai.com/g/g-eshec5CPp-hurrylegal)
 
-# [HurryLegal](https://chat.openai.com/g/g-eshec5CPp-hurrylegal)
+# HurryLegal [ChatGPT Plus](https://chat.openai.com/g/g-eshec5CPp-hurrylegal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HurryLegal)
 
 HurryLegal is the go-to App for all your legal needs. With its fast and reliable information, you can quickly find answers to your legal queries. Need help reviewing a contract? Not a problem! HurryLegal can assist you in understanding the fine print. Worried about finding the right lawyer? HurryLegal has got you covered! It can match you with the perfect lawyer for your case. And if you need assistance estimating lawyer fees, HurryLegal can help with that too. Don't stress about legal matters, let HurryLegal handle it!
 
@@ -33,3 +34,5 @@ Example: "I need a lawyer for my divorce case. Can you help me find one?"
 Example: "I need to know how much a lawyer would charge for handling a personal injury case."
 
 Please note that the specific functionality of each command may vary based on the capabilities of the app's tools.
+
+

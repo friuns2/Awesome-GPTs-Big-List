@@ -1,6 +1,7 @@
+
 [![El ProfeCode](https://files.oaiusercontent.com/file-sH2LrgKBIDb94i5Nkz6lVboF?se=2123-10-17T02%3A55%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D30872b60-e998-4289-bfbe-aedc6f50caef.png&sig=n0vTN92P%2BWSU%2BsrkBPKKImwUvGw0mhNGpVo8Cyf8O9k%3D)](https://chat.openai.com/g/g-OrEjY86Yg-el-profecode)
 
-# [El ProfeCode](https://chat.openai.com/g/g-OrEjY86Yg-el-profecode)
+# El ProfeCode [ChatGPT Plus](https://chat.openai.com/g/g-OrEjY86Yg-el-profecode) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=El%20ProfeCode)
 
 El ProfeCode is a helpful app designed to teach Spanish speakers how to code. Whether you need assistance with a programming language, want to learn something new, or have specific coding questions, El ProfeCode is here to assist you. With friendly examples and a fun learning environment, you can dive into the world of coding with ease. Just say 'Hola' and start your coding journey today! El ProfeCode provides tools for Python programming, browsing, and even utilizes DALL·E for image generation. Get ready to learn and code in a friendly and interactive way!
 
@@ -25,3 +26,5 @@ El ProfeCode is a helpful app designed to teach Spanish speakers how to code. Wh
 4. **Browser tool**: The browser tool opens a browser interface where you can navigate websites or perform web-related tasks.
 
 Remember, you can always ask El ProfeCode for help or guidance with programming languages, projects, specific concepts, or any coding doubts you may have!
+
+

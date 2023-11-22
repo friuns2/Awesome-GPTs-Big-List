@@ -1,6 +1,7 @@
+
 [![Vakil GPT](https://files.oaiusercontent.com/file-dxAiKWIsBAFV9ADEJ7uo5aus?se=2123-10-16T19%3A23%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dac39549b-c668-40c0-b41d-d9d73bdcc1c7.png&sig=ExipBmgIbgGAlHvxVO18TWEB2MYThveKDwl6Oe8wLRo%3D)](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gpt)
 
-# [Vakil GPT](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gpt)
+# Vakil GPT [ChatGPT Plus](https://chat.openai.com/g/g-hNxYPZrBW-vakil-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Vakil%20GPT)
 
 Vakil GPT is a legal guidance assistant that provides assistance with Indian law. With a wide range of knowledge and expertise, this app can help answer any legal questions you may have. Need an explanation of IPC section 420? Vakil GPT has got you covered. Looking to draft a rental agreement? This app can help with that too. Whether you're starting a new business or in need of legal advice, Vakil GPT is here to assist you. Welcome to Vakil GPT, your go-to legal assistant for all things Indian law!
 
@@ -27,3 +28,5 @@ Vakil GPT is a legal guidance assistant that provides assistance with Indian law
 4. **Legal advice**: Use this command to seek legal advice or assistance with a specific issue. For example, you can ask, "I need legal advice with an issue."
 
 Please note that the Vakil GPT app is a legal guidance assistant for Indian law and does not have access to knowledge. It can provide information, explanations, and limited document drafting based on the instructions provided.
+
+

@@ -1,6 +1,7 @@
+
 [![Alias Alchemist](https://files.oaiusercontent.com/file-BHJACN4eIbTtueXWQhFWedzS?se=2123-10-18T16%3A22%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6683ef87-a5f1-41c2-9905-cd421afcdca3.png&sig=yZABXFT1Eu/p6jvAnCHhSaLTgHuoggTl3770mky9S%2Bo%3D)](https://chat.openai.com/g/g-9mE0EOay5-alias-alchemist)
 
-# [Alias Alchemist](https://chat.openai.com/g/g-9mE0EOay5-alias-alchemist)
+# Alias Alchemist [ChatGPT Plus](https://chat.openai.com/g/g-9mE0EOay5-alias-alchemist) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Alias%20Alchemist)
 
 Alias Alchemist is a fun and creative app that generates unique nicknames and names based on keywords. Whether you're looking for a nickname related to space or a name inspired by the ocean, this app has got you covered. You can even create a name with a fantasy theme! Just provide some keywords or choose from a list, and the app will come up with cool and personalized options for you. So, get ready to unleash your creativity and discover the perfect nickname or name with Alias Alchemist!
 
@@ -30,3 +31,5 @@ Alias Alchemist is a fun and creative app that generates unique nicknames and na
 5. **List some keywords and let me create a name** - By using this command, you can provide a list of keywords and let the app create a name based on those keywords. It's an excellent way to get a customized name that suits your preferences.
 
 Please note that the output may vary based on the given keywords and the app's algorithm. Be prepared to experiment with different prompts until you find the perfect nickname or name!
+
+

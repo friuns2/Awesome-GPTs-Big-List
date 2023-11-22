@@ -1,6 +1,7 @@
+
 [![Python Prodigy](https://files.oaiusercontent.com/file-kom4eMmkyvQ5suIAG0RNzhZh?se=2123-10-16T08%3A47%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D562751a4-f44d-4f7c-879b-c84af93b8457.png&sig=OnaT58MEXIg1nG2RKGPuEg8B279iqofGRoMEgRwjq0A%3D)](https://chat.openai.com/g/g-VFRnSnFgL-python-prodigy)
 
-# [Python Prodigy](https://chat.openai.com/g/g-VFRnSnFgL-python-prodigy)
+# Python Prodigy [ChatGPT Plus](https://chat.openai.com/g/g-VFRnSnFgL-python-prodigy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Python%20Prodigy)
 
 Python Prodigy is your go-to app for all your Python coding needs. Whether you're a beginner or an experienced developer, this app will guide you through writing Python functions, refactoring code, writing tests, and even debugging. With access to a wealth of Python knowledge and TDD principles, you'll never be stuck again. Say goodbye to hours of searching for solutions and let Python Prodigy be your coding companion. Ready to become a Python prodigy? Dive in and start coding with confidence!
 
@@ -25,3 +26,5 @@ Python Prodigy is your go-to app for all your Python coding needs. Whether you'r
 4. **"I'm stuck with a Python bug, can you assist using TDD?"** - If you encounter a bug in your Python code and want help in debugging it using Test-Driven Development (TDD), this command will initiate a conversation with the ChatGPT App. It will provide step-by-step guidance on finding and fixing the bug while adhering to TDD practices.
 
 Note: The ChatGPT App has access to knowledge and expertise in Python coding. It can assist you with coding concepts, syntax, debugging, and best practices. It can also provide examples and explanations to help you understand and improve your Python coding skills.
+
+

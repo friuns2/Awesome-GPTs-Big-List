@@ -1,6 +1,7 @@
+
 [![Rome's Decline with Gibbon](https://files.oaiusercontent.com/file-0WT417t2yLDlDYoGffx7QikQ?se=2123-10-16T23%3A48%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D30ef1129-29d3-487f-b9e8-3eb96abe6009.png&sig=UqsoL1LHfNewOqrUKHMH20c0AP4dcfquw36siFOWXCY%3D)](https://chat.openai.com/g/g-eZEq9NfQ5-rome-s-decline-with-gibbon)
 
-# [Rome's Decline with Gibbon](https://chat.openai.com/g/g-eZEq9NfQ5-rome-s-decline-with-gibbon)
+# Rome's Decline with Gibbon [ChatGPT Plus](https://chat.openai.com/g/g-eZEq9NfQ5-rome-s-decline-with-gibbon) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rome's%20Decline%20with%20Gibbon)
 
 Rome's Decline with Gibbon is an educational App that brings history to life. With its witty and historical approach, this App allows you to delve into the fascinating world of ancient Rome. Whether you want to learn about the fall of Rome, the rise of Caesar, or explore detailed visualizations like maps of Roman battles, tables of Byzantine Emperors, or dendrograms of Roman Emperors, this App has got you covered. Step into the shoes of Gibbon and uncover the secrets of Rome's decline. Ah, greetings! Let the historical adventure begin!
 
@@ -37,3 +38,5 @@ Rome's Decline with Gibbon is an educational App that brings history to life. Wi
 5. **Prompt:** "Show me a dendrogram of roman emperors."
 
    This command allows you to visualize a dendrogram showcasing the relationships and connections between Roman emperors. The ChatGPT App will generate a dendrogram that illustrates the hierarchical structure of the Roman Empire's rulers.
+
+

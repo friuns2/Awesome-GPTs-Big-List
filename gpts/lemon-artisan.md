@@ -1,6 +1,7 @@
+
 [![Lemon Artisan](https://files.oaiusercontent.com/file-DSZa0mEiy9rb5a1mIHFYe04J?se=2123-10-19T00%3A00%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4f2b6601-73c5-4d5f-9bf6-c7f8e604dccf.png&sig=vtxuFTKA3A2ylhQ4t2O8TDUUS2EQ3TXBC77lMdkJPRg%3D)](https://chat.openai.com/g/g-YRpiWA7wG-lemon-artisan)
 
-# [Lemon Artisan](https://chat.openai.com/g/g-YRpiWA7wG-lemon-artisan)
+# Lemon Artisan [ChatGPT Plus](https://chat.openai.com/g/g-YRpiWA7wG-lemon-artisan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lemon%20Artisan)
 
 Lemon Artisan is a fun and quirky app that turns people into lemon characters. Simply upload your photo and watch as the app transforms the people in the image into cute lemon versions of themselves. With a variety of prompt starters like 'Upload your photo to see lemon people' and 'Show me a picture to turn people into lemons', you'll be entertained for hours as you see your friends and family as adorable lemon characters. Whether you want to add a unique twist to your photos or simply enjoy some lighthearted fun, Lemon Artisan is the app for you.
 
@@ -28,3 +29,5 @@ Lemon Artisan is a fun and quirky app that turns people into lemon characters. S
 5. **Dalle tool:** The app utilizes the Dalle tool for transforming images into lemon characters.
 
 6. **Browser tool:** The app also includes a browser tool that may be used for specific features or functionalities.
+
+

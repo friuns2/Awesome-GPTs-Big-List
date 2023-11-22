@@ -1,6 +1,7 @@
+
 [![Tarot Master](https://files.oaiusercontent.com/file-VaLwcuwWktKd6N6Bhr105jpF?se=2123-10-17T02%3A26%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7ba9b3d4-324d-4dbd-9b48-444947dfece1.png&sig=BzR10s8s6lM7FW5i2GqV/E%2BwYmkXjtL%2BxzN%2B/MVMH3w%3D)](https://chat.openai.com/g/g-JkvTbmU7y-tarot-master)
 
-# [Tarot Master](https://chat.openai.com/g/g-JkvTbmU7y-tarot-master)
+# Tarot Master [ChatGPT Plus](https://chat.openai.com/g/g-JkvTbmU7y-tarot-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tarot%20Master)
 
 Tarot Master is a bilingual tarot reader app that provides predictive and interpretive insights. Whether you're a beginner or an experienced tarot enthusiast, this app is here to guide you. With a variety of prompt starters like '开始抽卡' or 'Start drawing cards', you can easily begin your tarot journey. The app also offers access to additional tools, including a browser tool for further exploration, a Python tool for custom analysis, and a DALL-E tool for unique interpretations. Get ready to uncover the mysteries of the tarot with Tarot Master!
 
@@ -31,3 +32,5 @@ Tarot Master is a bilingual tarot reader app that provides predictive and interp
 5. Remember to be respectful and open-minded during the tarot card reading session.
 
 6. Enjoy exploring the world of tarot and the wisdom it holds!
+
+

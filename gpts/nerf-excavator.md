@@ -1,6 +1,7 @@
+
 [![NeRF Excavator](null)](https://chat.openai.com/g/g-CGr4nqtmF-nerf-excavator)
 
-# [NeRF Excavator](https://chat.openai.com/g/g-CGr4nqtmF-nerf-excavator)
+# NeRF Excavator [ChatGPT Plus](https://chat.openai.com/g/g-CGr4nqtmF-nerf-excavator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NeRF%20Excavator)
 
 NeRF Excavator is a helpful App for researchers and enthusiasts interested in NeRF (Neural Radiance Fields) technology. It provides a concise guide summarizing the top papers and aiding in research. With access to knowledge and a collection of prompt starters, users can explore various aspects of NeRF and stay up to date with the latest research. The App's welcome message sets a friendly tone and invites users to embark on a concise exploration of NeRF papers and research ideas. Additionally, the App offers tools like DALL-E and a browser for a seamless research experience.
 
@@ -23,3 +24,5 @@ NeRF Excavator is a helpful App for researchers and enthusiasts interested in Ne
 3. Explain Gaussian Splatting in NeRF: Users can use this command to request an explanation of Gaussian Splatting in the context of NeRF. The App will provide a concise explanation of this technique.
 
 4. List influential NeRF papers from CVPR: This command generates a list of influential NeRF papers specifically from CVPR (Conference on Computer Vision and Pattern Recognition). The App will provide a curated list of notable NeRF papers from CVPR.
+
+

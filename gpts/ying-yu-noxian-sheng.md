@@ -1,6 +1,7 @@
+
 [![英語の先生](https://files.oaiusercontent.com/file-xU4i9lAhmSfKS9Clp3LfXhqn?se=2123-10-17T05%3A12%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E5%2590%258D%25E7%25A7%25B0%25E6%259C%25AA%25E8%25A8%25AD%25E5%25AE%259A%25E3%2581%25AE%25E3%2583%2586%25E3%2582%2599%25E3%2582%25B5%25E3%2582%2599%25E3%2582%25A4%25E3%2583%25B3%2520%25282%2529.png&sig=l5bb0V6kiQaMzv17ZPxA%2Bekn7bil2LT21KxHzfjwT20%3D)](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng)
 
-# [英語の先生](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng)
+# 英語の先生 [ChatGPT Plus](https://chat.openai.com/g/g-H1ksRWKch-ying-yu-noxian-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%8B%B1%E8%AA%9E%E3%81%AE%E5%85%88%E7%94%9F)
 
 Get personalized AI tutoring for English! Just send your sentences and receive feedback including grammar corrections, translation suggestions, and pronunciation advice. Improve your English skills with the help of this dedicated AI tutor. Whether you need help with English compositions or Japanese-to-English translation, this app has got you covered. Feel more confident speaking and writing in English with accurate feedback and helpful suggestions. The AI tutor will even provide alternative ways to express yourself. So why wait? Start practicing English and unleash your language potential!
 
@@ -25,3 +26,5 @@ Get personalized AI tutoring for English! Just send your sentences and receive f
 4. **Paraphrasing suggestions**: If you're looking for alternative ways to express yourself in English, you can provide a sentence or phrase and ask for paraphrasing suggestions.
 
 Remember, the AI teacher is here to help you practice English and provide guidance on your writing, translation, pronunciation, and paraphrasing. Simply use the prompts provided above to initiate the desired interaction.
+
+

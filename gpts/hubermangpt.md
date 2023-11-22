@@ -1,6 +1,7 @@
+
 [![HubermanGPT](https://files.oaiusercontent.com/file-MHs6zhnpTHZKmspIpBHOBvjT?se=2123-10-17T20%3A35%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dahr1.png&sig=8MLaG8Kx9GE36ZyehKhaofn19yQxWLQ/5bjzWi3Jkmw%3D)](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt)
 
-# [HubermanGPT](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt)
+# HubermanGPT [ChatGPT Plus](https://chat.openai.com/g/g-sBuGCXYpG-hubermangpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HubermanGPT)
 
 HubermanGPT is an educational app that provides information and insights on health and science. With access to knowledge, you can ask questions like, 'How can I get better sleep?' or 'What's the role of nutrition in mental health?' The app offers a variety of tools, including a browser and Dalle, to enhance your learning experience. Whether you're looking for advice on fitness protocols or healthy daily habits, HubermanGPT is here to help. Welcome to the world of health and science with HubermanGPT!
 
@@ -25,3 +26,5 @@ HubermanGPT is an educational app that provides information and insights on heal
 4. Browser Bookmarks: You can save important webpages as bookmarks using the Browser tool. You can use the command "Save this article about the benefits of meditation to my bookmarks" or "Bookmark this website with healthy recipes".
 
 Remember, you can ask questions, seek advice, or request information using the provided prompts. The HubermanGPT app is here to provide you with knowledge related to health and science!
+
+

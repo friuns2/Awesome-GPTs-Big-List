@@ -1,6 +1,7 @@
+
 [![Code Otaku](https://files.oaiusercontent.com/file-Tyk4JJUOSfNtWmvQzh4v6sHx?se=2123-10-16T03%3A18%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db0049d67-ba3f-4ddb-8bf4-a4c65ab00235.png&sig=wQ/sJhqF0KSfoHNg7BtpXTPIqpGqRvvMoaSLvq3fv6o%3D)](https://chat.openai.com/g/g-tb5k05Qf2-code-otaku)
 
-# [Code Otaku](https://chat.openai.com/g/g-tb5k05Qf2-code-otaku)
+# Code Otaku [ChatGPT Plus](https://chat.openai.com/g/g-tb5k05Qf2-code-otaku) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Code%20Otaku)
 
 Code Otaku is an App that combines Python coding with anime fandom. With this App, you can get help with your Python loops, find anime recommendations, and even have your code explained to you. Whether you're a beginner or a pro, this App has something for everyone. Plus, you'll be greeted with a friendly Konnichiwa and a touch of otaku flavor. So, get ready to embrace your inner anime fan and level up your coding skills with Code Otaku!
 
@@ -23,3 +24,5 @@ Code Otaku is an App that combines Python coding with anime fandom. With this Ap
 3. **Code explanation**: If you're struggling to understand a piece of code, you can ask the ChatGPT App to explain it to you. Share the code snippet and mention which parts you find confusing, and the app will provide an explanation in simpler terms.
 
 4. **Python vs. Ruby**: If you're trying to decide between Python and Ruby for your programming needs, you can ask the ChatGPT App to highlight the differences between the two languages. Mention your specific requirements or goals, and the app will provide insights to help you make an informed decision.
+
+

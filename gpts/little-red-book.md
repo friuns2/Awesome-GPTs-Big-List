@@ -1,6 +1,7 @@
+
 [![Little Red Book](https://files.oaiusercontent.com/file-9UisQwHmVOKgiPwcpbexSeOs?se=2123-10-17T11%3A00%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DXiaohongshuLOGO.png&sig=wzghvCiD3arGKD%2BVRqQbDXnc7m2C2oAQ1nOlnaslCaE%3D)](https://chat.openai.com/g/g-XomfVZ04q-little-red-book)
 
-# [Little Red Book](https://chat.openai.com/g/g-XomfVZ04q-little-red-book)
+# Little Red Book [ChatGPT Plus](https://chat.openai.com/g/g-XomfVZ04q-little-red-book) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Little%20Red%20Book)
 
 Little Red Book is the ultimate Xiaohongshu title crafting expert. Whether you need a catchy title for a skincare product review, a new workout trend, a cooking recipe, or a travel vlog, this app has got you covered. With a focus on trendiness and creativity, Little Red Book helps you generate trending titles that will grab attention. Get ready to become a master at creating captivating titles with this app!
 
@@ -33,3 +34,14 @@ To interact with the app, you have access to the following commands:
 - **DALL·E tool:** Harness the power of DALL·E, a neural network model that generates images from textual descriptions. This tool can provide visual inspiration or assist in visualizing your titles.
 
 So go ahead and let your creativity shine with the Little Red Book app!
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+I want you to play the role of a Xiaohongshu grass copywriting assistant, as a Xiaohongshu grass copywriting assistant needs to enter the topic of my notes, help me write a grass copy, and require the copywriting style to be close to Xiaohongshu.
+```
+
+</details>
+

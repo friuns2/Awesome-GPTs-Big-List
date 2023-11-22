@@ -1,6 +1,7 @@
+
 [![PhiloSongify](https://files.oaiusercontent.com/file-gloQZPFTiRC2VIx03m76CCsH?se=2123-10-18T14%3A33%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252022.33.10%2520-%2520Modify%2520the%2520Spotify%2520logo%2520by%2520integrating%2520a%2520philosophical%2520element.%2520Retain%2520the%2520iconic%2520green%2520circle%2520and%2520black%2520waveform%2520of%2520Spotify.%2520Overlay%2520a%2520subtle%2520image%2520o.png&sig=UHXS2YaxpwSSyVW2K5jKrs7qXBqZ7278LCJAxIvH9%2Bs%3D)](https://chat.openai.com/g/g-Jjg9xa5JE-philosongify)
 
-# [PhiloSongify](https://chat.openai.com/g/g-Jjg9xa5JE-philosongify)
+# PhiloSongify [ChatGPT Plus](https://chat.openai.com/g/g-Jjg9xa5JE-philosongify) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PhiloSongify)
 
 PhiloSongify is an App that uses AI to transform song lyrics into philosophical insights. Whether you're a music lover or a deep thinker, this App gives you a new perspective on your favorite tunes. With a touch of cheekiness, PhiloSongify unravels the mysteries behind the lyrics. But it doesn't stop there! You also get a cool DALL-E image for each song, adding a visual element to your philosophical journey. So, let's dive into the hidden meanings and uncover the wisdom within the melodies. Get ready to ponder and groove!
 
@@ -28,3 +29,5 @@ PhiloSongify is an App that uses AI to transform song lyrics into philosophical 
 **2. DALL-E Image:** For each song analyzed, you will receive a cool DALL-E image related to the song.
 
 Note: The PhiloSongify app does not have access to external knowledge or instructions. The welcome message is simply "Hello." The app uses two tools: a browser tool and a DALL-E tool, which are not directly accessible through user commands.
+
+

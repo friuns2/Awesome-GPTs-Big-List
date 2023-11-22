@@ -1,6 +1,7 @@
+
 [![ロゴ郎](https://files.oaiusercontent.com/file-ABywaklbYx4epmnknEMJJhxW?se=2123-10-18T20%3A51%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9cb88fd6-f00c-4cc3-ac9b-18c6bbac6696.png&sig=QONGXYP8QLVEihxdUPkNmPfJLs8Gcl1hJpfoFiw35Nc%3D)](https://chat.openai.com/g/g-H4xmndHCH-rogolang)
 
-# [ロゴ郎](https://chat.openai.com/g/g-H4xmndHCH-rogolang)
+# ロゴ郎 [ChatGPT Plus](https://chat.openai.com/g/g-H4xmndHCH-rogolang) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%AD%E3%82%B4%E9%83%8E)
 
 ロゴ郎 is a unique app that allows you to design circular logos with a signature dashed border style. Whether you're creating a logo for a tech startup, a bakery, or a music festival, this app has got you covered. With an intuitive interface and a range of tools at your disposal, you'll be able to bring your creative ideas to life. Get ready to showcase your design skills and create stunning circular logos that leave a lasting impression. It's time to unleash your creativity and make your mark in the logo design world!
 
@@ -22,3 +23,5 @@
 2. **Generate a logo using DALL·E:** Use the DALL·E tool to generate a logo automatically based on your description or prompt. Simply provide a description or prompt related to the logo you want, and DALL·E will generate an image that matches your description.
 
 Note: Make sure to provide clear and specific descriptions or prompts to get the best results when generating a logo using DALL·E.
+
+

@@ -1,6 +1,7 @@
+
 [![Yes, but](https://files.oaiusercontent.com/file-EPckDZF4fY458Tx9l1lQSQLM?se=2123-10-17T01%3A19%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da3473772-e186-41d5-9129-359232759c24.png&sig=Sbi9aYmQGR%2B77I6zJrp38tDo9x2RTo3uAY/9r56o7%2Bk%3D)](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but)
 
-# [Yes, but](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but)
+# Yes, but [ChatGPT Plus](https://chat.openai.com/g/g-6Pt1gYEEY-yes-but) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Yes%2C%20but)
 
 Yes, but is an App that fearlessly presents both sides of any topic, offering rigorous fact-checking along the way. With this App, you can explore multiple perspectives and gain a comprehensive understanding of any argument. Whether you're curious about opposing viewpoints, want to verify the truth behind a claim, or simply broaden your knowledge, Yes, but has got you covered. It provides access to a browser for research, a Python tool for analysis, and even a DALL-E tool for generating diverse visual representations. Welcome to Yes, but, where bothsidesism meets critical thinking!
 
@@ -29,3 +30,5 @@ Yes, but is an App that fearlessly presents both sides of any topic, offering ri
 - Remember that the app focuses on exploring different perspectives and doesn't have access to knowledge. If you need specific information or data, it's recommended to use appropriate tools or conduct research outside the app.
 
 - The app welcomes you with a friendly message: "Welcome! I'm here to explore multiple sides of any topic." Feel free to start your conversation with any prompt or question related to your desired topic.
+
+

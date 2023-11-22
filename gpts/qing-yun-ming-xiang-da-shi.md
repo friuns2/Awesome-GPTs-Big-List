@@ -1,6 +1,7 @@
+
 [![青云 - 冥想大师](https://files.oaiusercontent.com/file-2lbEHfjnothszBsTqkGa4wjt?se=2123-10-18T10%3A02%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da3a40bfb-012c-44d1-acd6-e1e1198660c3.png&sig=HlYWBVLLWPL97G89L8XgpCMN470yIBtR9gNLHkcF1Vc%3D)](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi)
 
-# [青云 - 冥想大师](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi)
+# 青云 - 冥想大师 [ChatGPT Plus](https://chat.openai.com/g/g-9CYZo5luO-qing-yun-ming-xiang-da-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%9D%92%E4%BA%91%20-%20%E5%86%A5%E6%83%B3%E5%A4%A7%E5%B8%88)
 
 青云 - 冥想大师 is an interactive chat App that helps users with meditation. It adapts its interaction and language style to different user groups, ensuring a personalized experience. Whether you're a beginner looking for beginner meditation techniques or someone looking to reduce stress, this App has got you covered! You can ask questions like 'How can I use meditation to reduce stress?' or 'Can you write a script for a 10-minute meditation session?'. With access to knowledge and a friendly welcome message, 青云 - 冥想大师 is here to guide you on your meditation journey.
 
@@ -25,3 +26,5 @@
 4. **Meditation Session Script**: If you're looking for a guided meditation session, you can request the app to provide a script for a specific duration. For instance, you can ask, "Can you write a script for a 10-minute meditation session?"
 
 5. **Access to Knowledge**: The app has access to knowledge about meditation and can provide helpful information and guidance based on your questions or requests.
+
+

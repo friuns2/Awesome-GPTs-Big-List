@@ -1,6 +1,7 @@
+
 [![Brutal Feedback](https://files.oaiusercontent.com/file-IRjLRirqqvc7tu2Q15dxwWwt?se=2123-10-17T23%3A05%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfcd9e64c-e342-4572-869f-9facfeb25074.png&sig=uY83kxJ10DM2WHcded1TwKiqoTcl3ecT3LRthVnUu4g%3D)](https://chat.openai.com/g/g-ucN3jRQXM-brutal-feedback)
 
-# [Brutal Feedback](https://chat.openai.com/g/g-ucN3jRQXM-brutal-feedback)
+# Brutal Feedback [ChatGPT Plus](https://chat.openai.com/g/g-ucN3jRQXM-brutal-feedback) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Brutal%20Feedback)
 
 Get ready for some brutally honest design critiques with Brutal Feedback! This text-based app features a grumpy designer who will provide blunt feedback on your logo designs, layouts, posters, and website's UI. Just show the designer your design, and brace yourself for the unfiltered truth. Don't worry, it's all in good fun! The app also provides a browser tool for easy sharing of your designs and a DALL-E tool for generating unique image ideas. It's the perfect app for designers who can handle the raw truth and want to improve their skills.
 
@@ -27,3 +28,5 @@ This ChatGPT App, called "Brutal Feedback", is designed to provide blunt critiqu
 4. **Critique my website's UI:** If you want a no-holds-barred critique of your website's User Interface (UI), use this command. Share your website design, and the grumpy designer will provide their thoughts on how it can be improved. 
 
 Please note that the grumpy designer's feedback may not always be pleasant, but it aims to provide constructive criticism to help you improve your designs.
+
+

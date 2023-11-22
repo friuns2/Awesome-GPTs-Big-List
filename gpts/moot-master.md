@@ -1,6 +1,7 @@
+
 [![Moot Master](https://files.oaiusercontent.com/file-Vb6aLXx2xgBsOh27fziWiYT8?se=2123-10-16T21%3A39%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddc51eed8-64c2-4210-a1bc-2fbd378ceb54.png&sig=0ki09w3T0X9Hy0qN4DnT8ibxlkMDjEKcg2uiokT0yDo%3D)](https://chat.openai.com/g/g-soRoLeMuH-moot-master)
 
-# [Moot Master](https://chat.openai.com/g/g-soRoLeMuH-moot-master)
+# Moot Master [ChatGPT Plus](https://chat.openai.com/g/g-soRoLeMuH-moot-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Moot%20Master)
 
 Moot Master is your ultimate companion for moot competitions. Whether you're a law student looking to refine your mooting skills or a seasoned lawyer wanting to practice arguments, this app has got you covered. With Moot Master, you can argue for the respondent, challenge opening statements, provide feedback on arguments, question the validity of cases, and even try a Trump case for some extra fun! The app also provides helpful tools like Dalle for generating arguments, Python for legal analysis, and a browser for accessing relevant resources. Get ready to sharpen your mooting skills and become a master debater!
 
@@ -29,3 +30,5 @@ Moot Master is your ultimate companion for moot competitions. Whether you're a l
 5. **Help me build my case:** Use this command to get assistance in developing your case for an upcoming trial. You will receive guidance and suggestions to construct a strong legal argument.
 
 6. **Try a Trump Case:** This command allows you to explore legal scenarios based on Trump-related cases and controversies. It provides insights, arguments, and analysis related to those specific cases.
+
+

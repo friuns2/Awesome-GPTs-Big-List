@@ -1,6 +1,7 @@
+
 [![Tulum Tour Guide](https://files.oaiusercontent.com/file-DVONRt6oP9YYtNRit5led4lJ?se=2123-10-18T23%3A05%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def5af3ad-c4bf-4ccb-8c4e-d1338a311c9d.png&sig=%2BGsyTJfBvCjE0TuWg8UF6MUfCHCQratFSwo2oQzG%2BPg%3D)](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide)
 
-# [Tulum Tour Guide](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide)
+# Tulum Tour Guide [ChatGPT Plus](https://chat.openai.com/g/g-vpQZVCgn1-tulum-tour-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tulum%20Tour%20Guide)
 
 Discover the wonders of Tulum, Mexico with your own personal tour guide! Whether you're looking for the top attractions, local cuisine recommendations, transportation options, or tips for exploring the Tulum Ruins, this app has got you covered. With its friendly and knowledgeable interface, you'll feel like a local in no time. Welcome to your Tulum travel guide!
 
@@ -35,3 +36,5 @@ Discover the wonders of Tulum, Mexico with your own personal tour guide! Whether
 5. **Tips for the Tulum Ruins:**
    - Description: Provides useful tips and information for visiting the Tulum Ruins.
    - Usage: Ask questions like "Give me tips for the Tulum Ruins!" to get advice on visiting the Tulum Ruins.
+
+

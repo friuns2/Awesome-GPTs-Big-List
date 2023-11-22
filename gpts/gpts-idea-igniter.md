@@ -1,6 +1,7 @@
+
 [![GPTs Idea Igniter](https://files.oaiusercontent.com/file-oodfbKpmeivg6fXosKflNebt?se=2123-10-16T22%3A24%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dee8121c7-f8bc-4885-afeb-d1d12f49e15a.png&sig=6hUkujaflXWs2RUfTCE9pUcEv1GdmwHba3rUQB1Ugzo%3D)](https://chat.openai.com/g/g-xL6kZIPQL-gpts-idea-igniter)
 
-# [GPTs Idea Igniter](https://chat.openai.com/g/g-xL6kZIPQL-gpts-idea-igniter)
+# GPTs Idea Igniter [ChatGPT Plus](https://chat.openai.com/g/g-xL6kZIPQL-gpts-idea-igniter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPTs%20Idea%20Igniter)
 
 Get your creative juices flowing with GPTs Idea Igniter! This app is designed to spark innovation and generate groundbreaking ideas for GPTs. Whether you're looking for wild and fresh concepts or innovative ways to use GPTs, this app has got you covered. With prompt starters like 'What's a wild idea for a GPT?' and 'Give me a groundbreaking GPT concept,' you'll never run out of inspiration. Plus, you have access to powerful tools including DALL-E for image generation, a browser for research, and Python for coding. Ready to take your GPT ideas to the next level? Let the Idea Igniter ignite your creativity!
 
@@ -30,3 +31,5 @@ Get your creative juices flowing with GPTs Idea Igniter! This app is designed to
 5. **Getting example GPT ideas**: Request example GPT ideas that haven't been tried before by using prompts like "Give me an example of a GPT idea that no one has tried before."
 
 Remember, the GPTs Idea Igniter is designed to stimulate creativity and provide suggestions for GPT applications. Feel free to explore different prompts and questions to uncover exciting new ideas!
+
+

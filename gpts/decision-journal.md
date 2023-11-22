@@ -1,6 +1,7 @@
+
 [![Decision Journal](https://files.oaiusercontent.com/file-TXT7HWUBINgfZkqgu2kmnNiV?se=2123-10-14T18%3A34%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon-rounded.png&sig=/9CZNxcdZw/kqNEg8x9bKW0vU5pj9FEp0OblgNmM4BQ%3D)](https://chat.openai.com/g/g-Yrhca6pAj-decision-journal)
 
-# [Decision Journal](https://chat.openai.com/g/g-Yrhca6pAj-decision-journal)
+# Decision Journal [ChatGPT Plus](https://chat.openai.com/g/g-Yrhca6pAj-decision-journal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Decision%20Journal)
 
 The Decision Journal app is your personal assistant for making decisions. It helps you keep track of the decisions you've made and review them later on. Whether you need help deciding on a new job, choosing a school, or investing in a stock, this app has got you covered. With its simple and intuitive interface, you can create and update decisions easily. Plus, it provides valuable insights into the outcomes of your decisions, allowing you to understand the role of skill and luck. Take control of your decision-making process with the Decision Journal app!
 
@@ -48,3 +49,5 @@ The Decision Journal app is your personal assistant for making decisions. It hel
    - Description: Update a review for a decision with information about the review (e.g. accuracy score, actual outcome, learnings, etc). Set the status to "published" when the review has been finalized. Otherwise, the status should be "draft".
    - Command: `update_review <decision_id> <review_data>`
    - Example: `update_review 123456 {"learningsAndReview": "I learned a lot from this decision and the outcome was positive.", "skillLuckWeight": 0.7}`
+
+

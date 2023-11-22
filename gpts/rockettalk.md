@@ -1,6 +1,7 @@
+
 [![RocketTalk](https://files.oaiusercontent.com/file-rwob3XEvcvzrHheZ3XaHkm34?se=2123-10-17T01%3A05%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd2d2db86-0dbb-4057-957c-b0f74c7966d5.png&sig=2pgWaA0NtwSLINVIjRJc9bCbnHNQgbXPw4MXCAEodMo%3D)](https://chat.openai.com/g/g-D2sNHmiqS-rockettalk)
 
-# [RocketTalk](https://chat.openai.com/g/g-D2sNHmiqS-rockettalk)
+# RocketTalk [ChatGPT Plus](https://chat.openai.com/g/g-D2sNHmiqS-rockettalk) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=RocketTalk)
 
 RocketTalk is an app designed to assist amateur rocketeers in their rocket-building endeavors. Whether you need guidance on rocket design, advice on choosing commercial motors, help with mixing solid propellant, calculations for altitude, or explanations of safety codes, RocketTalk has got you covered. With a rocket scientist as your virtual assistant, you'll receive expert knowledge and tips to enhance your rocketry journey. Additionally, RocketTalk provides access to useful tools such as a web browser, Python code execution, and an AI-powered image generator. Get ready to blast off into the world of rocket science with RocketTalk!
 
@@ -28,3 +29,5 @@ RocketTalk is an app designed to assist amateur rocketeers in their rocket-build
 4. **Calculate Altitude:** Use this command to understand how to calculate the altitude of your rocket. For example, you can ask, "How do I calculate the altitude?"
 
 5. **Explain Safety Codes:** Use this command to learn about the safety codes for rocketry. You can ask, "Explain the safety codes."
+
+

@@ -1,6 +1,7 @@
+
 [![Santa's WorkshopGPT](https://files.oaiusercontent.com/file-yWUGctZGE5dnCrdyt1zaTvJ1?se=2123-10-16T19%3A41%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D78b1223a-f23b-483f-bf07-3fe70ab0987e.png&sig=Dk7t2zdtCKKMfa6EGCbs%2B/BKGFGNt1J7J1ETsd8jYP0%3D)](https://chat.openai.com/g/g-3sAXCO9qQ-santa-s-workshopgpt)
 
-# [Santa's WorkshopGPT](https://chat.openai.com/g/g-3sAXCO9qQ-santa-s-workshopgpt)
+# Santa's WorkshopGPT [ChatGPT Plus](https://chat.openai.com/g/g-3sAXCO9qQ-santa-s-workshopgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Santa's%20WorkshopGPT)
 
 Santa's WorkshopGPT is your go-to holiday helper for gift ideas. Whether you're shopping for mom, looking for tech gadgets under $50, or wanting to know the top Christmas toys for kids, I've got you covered. I can even suggest the most popular Christmas gifts of 2023! So sit back, relax, and let me help you build your Christmas list. Welcome to Santa's WorkshopGPT, where gift-giving becomes a breeze!
 
@@ -25,3 +26,5 @@ Santa's WorkshopGPT is your go-to holiday helper for gift ideas. Whether you're 
 4. **Most popular Christmas gifts of [year]:** This command provides information about the most popular Christmas gifts in a specific year. You can specify the year in the prompt, such as "Tell me the most popular Christmas gifts of 2023".
 
 Note: The Santa's WorkshopGPT App is a holiday helper for gift ideas. It does not have access to knowledge and relies on its own built-in gift suggestions and recommendations.
+
+

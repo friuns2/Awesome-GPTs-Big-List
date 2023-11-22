@@ -1,6 +1,7 @@
+
 [![Poe Bot Creator](https://files.oaiusercontent.com/file-sOQQeiL08WIZJdzgNjb9hH0J?se=2123-10-19T05%3A22%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D_7d7bc0cd-7835-42c0-866c-baa2ab2d7bf0.jpg&sig=2rS1kPlcf7pEI9CDpNiEbJakAINmEUDmePVhO0TDyjk%3D)](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator)
 
-# [Poe Bot Creator](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator)
+# Poe Bot Creator [ChatGPT Plus](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Poe%20Bot%20Creator)
 
 Poe Bot Creator is a handy app that utilizes GPT technology to assist you in designing and creating your own chatbot at Poe.com. Whether you need a Spanish tutoring chatbot, a creative and random bot idea, an effective kanji teaching bot, or even a witty girl roleplaying bot, Poe Bot Creator has got you covered. With its intuitive tools powered by DALLE, you can easily develop unique and engaging chatbot personalities. Say goodbye to boring conversations and hello to interactive and dynamic interactions with your very own personalized chatbot!
 
@@ -25,3 +26,5 @@ Poe Bot Creator is a handy app that utilizes GPT technology to assist you in des
 4. **Create a roleplaying chatbot as a witty girl:** This command helps you create a chatbot that can engage in roleplay as a witty girl. You can specify the personality traits, conversation topics, or even provide sample dialogues for the chatbot to use.
 
 Note: The Poe Bot Creator app does not have access to external knowledge.
+
+

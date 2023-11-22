@@ -1,6 +1,7 @@
+
 [![日記から英文の絵日記をつくってくれるやつ](https://files.oaiusercontent.com/file-SmgjoYoD4y0GAlSGowIJuxWy?se=2123-10-17T03%3A07%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddbbce42e-9ad6-4854-8439-a5558b09ce94.png&sig=VVrd2es2rkZdX4KeNxQpHPiNx1bSHLKSwnOkr008SJc%3D)](https://chat.openai.com/g/g-33k1QzM7c-ri-ji-karaying-wen-nohui-ri-ji-wotukututekureruyatu)
 
-# [日記から英文の絵日記をつくってくれるやつ](https://chat.openai.com/g/g-33k1QzM7c-ri-ji-karaying-wen-nohui-ri-ji-wotukututekureruyatu)
+# 日記から英文の絵日記をつくってくれるやつ [ChatGPT Plus](https://chat.openai.com/g/g-33k1QzM7c-ri-ji-karaying-wen-nohui-ri-ji-wotukututekureruyatu) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%97%A5%E8%A8%98%E3%81%8B%E3%82%89%E8%8B%B1%E6%96%87%E3%81%AE%E7%B5%B5%E6%97%A5%E8%A8%98%E3%82%92%E3%81%A4%E3%81%8F%E3%81%A3%E3%81%A6%E3%81%8F%E3%82%8C%E3%82%8B%E3%82%84%E3%81%A4)
 
 Translate your Japanese diary into English and create a picture. This app helps you express yourself in both languages by providing a platform to convert your thoughts from Japanese to English. With the option to attach a self-portrait, you can also make your diary entries more personal and visually appealing. Whether you want to practice your English skills or share your experiences with a global audience, this app makes it easy and fun to create bilingual, illustrated journal entries.
 
@@ -17,3 +18,5 @@ Translate your Japanese diary into English and create a picture. This app helps 
 1. **Translate Diary:** Submit a Japanese diary entry and the app will translate it into English.
 2. **Create Picture Diary:** Attach a self-portrait and write a diary entry in Japanese to have it translated into English and transformed into an illustration.
 3. **Usage Information:** Ask for assistance and instructions on how to use the app.
+
+

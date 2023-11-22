@@ -1,6 +1,7 @@
+
 [![TranquilText](https://files.oaiusercontent.com/file-utFH7oqJbwjCtn213goeoSin?se=2123-10-18T16%3A35%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4b90a37f-36c4-47bf-814d-806463282cfd.png&sig=3Wqu7Gu/bO9EGl/Yh6TeohEeNDTvr5cRzuh7rQ9puUA%3D)](https://chat.openai.com/g/g-Y7Hx3Lthj-tranquiltext)
 
-# [TranquilText](https://chat.openai.com/g/g-Y7Hx3Lthj-tranquiltext)
+# TranquilText [ChatGPT Plus](https://chat.openai.com/g/g-Y7Hx3Lthj-tranquiltext) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TranquilText)
 
 TranquilText is an app designed to help you navigate intense conversations and diffuse potential conflicts. When faced with a challenging dialogue, simply input the text and let the app provide alternative responses that promote calmness and understanding. Whether you're having an argument with a loved one, received an angry message, or simply don't know how to respond to a certain text, TranquilText can help you turn these situations into opportunities for positive engagement. Say goodbye to heated exchanges and hello to peaceful resolutions!
 
@@ -31,3 +32,5 @@ TranquilText is an app designed to help you navigate intense conversations and d
 4. TranquilText can be a useful tool to defuse arguments and maintain positive communication.
 
 Note: TranquilText does not have access to external knowledge and relies on the dialogue provided for generating responses.
+
+

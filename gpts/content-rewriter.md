@@ -1,6 +1,7 @@
+
 [![Content Rewriter](https://files.oaiusercontent.com/file-3OSqx0MdrzjQIEfPMIZ26KJe?se=2123-10-14T07%3A07%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon.png&sig=%2Bpl9ufkh2ivOPz0eEAzRyJGMyRodYv8MRls2vTGpwnU%3D)](https://chat.openai.com/g/g-lUygohS2m-content-rewriter)
 
-# [Content Rewriter](https://chat.openai.com/g/g-lUygohS2m-content-rewriter)
+# Content Rewriter [ChatGPT Plus](https://chat.openai.com/g/g-lUygohS2m-content-rewriter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Content%20Rewriter)
 
 Content Rewriter is a handy app that allows you to enter any URL and instantly rewrite the text content. Whether you need to paraphrase an article, rewrite a blog post, or rephrase an essay, this app has got you covered! With just a few clicks, you can have unique and original text that retains the essence of the original content. Say goodbye to the hassle of manually rewriting paragraphs – let Content Rewriter do the job for you. It's like having your own personal writing assistant! So why not give it a try and save yourself time and effort?
 
@@ -27,3 +28,14 @@ Content Rewriter is a handy app that allows you to enter any URL and instantly r
 4. **Generate New Content:** This command generates a new version of the content from a specified webpage. You can input the URL of the webpage and the App will produce a fresh rendition of the text.
 
 5. **Rephrase URL Content:** With this command, you can request assistance in rephrasing the text from a given URL. Just provide the URL and the App will generate a reworded version of the content.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Rewrite the content
+```
+
+</details>
+

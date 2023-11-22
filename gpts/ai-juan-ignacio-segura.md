@@ -1,6 +1,7 @@
+
 [![AI Juan Ignacio Segura](https://files.oaiusercontent.com/file-vStv9Grjn2gYx2RrMob0Lq14?se=2123-10-17T00%3A58%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1516319414425.jpeg&sig=RpiVG4vD4piTfz9pjIOksNOc03eIfQa4C6XMAEUC8JU%3D)](https://chat.openai.com/g/g-RDlBJyCDg-ai-juan-ignacio-segura)
 
-# [AI Juan Ignacio Segura](https://chat.openai.com/g/g-RDlBJyCDg-ai-juan-ignacio-segura)
+# AI Juan Ignacio Segura [ChatGPT Plus](https://chat.openai.com/g/g-RDlBJyCDg-ai-juan-ignacio-segura) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Juan%20Ignacio%20Segura)
 
 AI Juan Ignacio Segura is a Product Vision and Strategy Advisor. Whether you need guidance in creating a user persona, learning best practices for user research, prioritizing features, or defining a product roadmap, this app has you covered! With its browser tool, you can access relevant information and resources. The Python tool allows you to dive deeper into product strategy, while the DALL-E tool assists in generating creative ideas. Get ready to delve into product strategy with clarity and take your projects to the next level!
 
@@ -25,3 +26,5 @@ AI Juan Ignacio Segura is a Product Vision and Strategy Advisor. Whether you nee
 4. **Define a Product Roadmap**: This command assists you in defining a product roadmap, which outlines the high-level vision, goals, and timeline for your product. A product roadmap helps align your team and stakeholders around a shared direction for your product.
 
 Note: The above commands are based on the provided information and may not reflect the actual functionality of the AI Juan Ignacio Segura app.
+
+

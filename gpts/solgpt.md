@@ -1,6 +1,7 @@
+
 [![SolGPT](null)](https://chat.openai.com/g/g-By9SXpMXf-solgpt)
 
-# [SolGPT](https://chat.openai.com/g/g-By9SXpMXf-solgpt)
+# SolGPT [ChatGPT Plus](https://chat.openai.com/g/g-By9SXpMXf-solgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SolGPT)
 
 SolGPT is your ultimate partner for Solidity development. Whether you're a beginner or an experienced developer, this app provides the tools and knowledge you need to excel in writing smart contracts. From explaining smart contract inheritance to providing best practices for gas optimization, SolGPT has got you covered. With access to a powerful language model, you can ask questions and get detailed answers for all your Solidity queries. The app includes helpful tools like a text generation model, a built-in browser, and a Python interpreter to enhance your development experience. Get ready to dive into Solidity with SolGPT!
 
@@ -33,3 +34,5 @@ SolGPT is your ultimate partner for Solidity development. Whether you're a begin
 "Hello! Ready to dive into Solidity?"
 
 Note: Since there are no usage instructions provided for this app, we cannot provide specific guidance on how to use the tools.
+
+

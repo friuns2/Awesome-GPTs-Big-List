@@ -1,6 +1,7 @@
+
 [![极简跑团v1.2](https://files.oaiusercontent.com/file-Io4jlv8rZI6BAhRT55iAtBFY?se=2123-10-18T03%3A59%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252011.56.07%2520-%2520An%2520oil%2520painting%2520depicting%2520a%2520mysterious%2520dungeon%2520master%252C%2520set%2520in%2520a%2520dimly%2520lit%252C%2520ancient%2520library.%2520The%2520dungeon%2520master%252C%2520a%2520Middle%2520Eastern%2520male%2520in%2520his%2520forties%252C%2520.png&sig=G7FodC19GuZ1WzO9JRBY0RNXr0qvaXlZo6hq29Z63f8%3D)](https://chat.openai.com/g/g-9cjSujtfz-ji-jian-pao-tuan-v1-2)
 
-# [极简跑团v1.2](https://chat.openai.com/g/g-9cjSujtfz-ji-jian-pao-tuan-v1-2)
+# 极简跑团v1.2 [ChatGPT Plus](https://chat.openai.com/g/g-9cjSujtfz-ji-jian-pao-tuan-v1-2) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%9E%81%E7%AE%80%E8%B7%91%E5%9B%A2v1.2)
 
 Join the adventurous world of DND with 极简跑团v1.2! This app allows you to quickly start your own DND campaign and embark on exciting quests. With the ability to randomly create characters, you'll never know what kind of hero you'll become. Use the browser tool to access helpful resources and the DALLE tool to generate stunning images for your adventures. Need some coding magic? The Python tool is at your disposal. Get ready for an epic journey filled with imagination and fun!
 
@@ -23,3 +24,5 @@ Join the adventurous world of DND with 极简跑团v1.2! This app allows you to 
 4. **Character creation options:** If you want to explore the available options for creating a character, use the command "Can you show me the available options for creating a character?" The app will provide you with the necessary information to customize your character.
 
 5. **How to play the game:** If you need guidance on how to play the game, use the command "How do I play the game?" The app will provide you with instructions and any available documentation to help you get started with your DND adventure.
+
+

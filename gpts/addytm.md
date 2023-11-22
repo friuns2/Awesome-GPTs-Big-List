@@ -1,6 +1,7 @@
+
 [![Addy™](https://files.oaiusercontent.com/file-Fyfq4JjaWcDW9S7qHuMQOsMh?se=2123-10-20T01%3A17%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfb7e4f08-cbae-4eba-a7eb-4119ec7285b5.png&sig=QjSM0oYVsojwawsiTDRoGkS%2BIRHcwYlzOndOiYHfbbc%3D)](https://chat.openai.com/g/g-rEoOwVRzH-addytm)
 
-# [Addy™](https://chat.openai.com/g/g-rEoOwVRzH-addytm)
+# Addy™ [ChatGPT Plus](https://chat.openai.com/g/g-rEoOwVRzH-addytm) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Addy%E2%84%A2)
 
 Addy™ is your virtual advisor for Power BI Analytics. It helps you with solution planning, design, and construction. Whether you're a beginner or an advanced user, Addy™ is here to assist you. Just ask for help or type '?' to get your conversation starters. Addy™ provides guidance on various topics such as getting started with Power BI, using Power Query and DAX functions, best practices for data modeling, creating custom columns, star schema creation, and even designing professional background images for your report. Get expert advice and enhance your Power BI skills with Addy™!
 
@@ -41,3 +42,5 @@ Addy™ is your virtual advisor for Power BI Analytics. It helps you with soluti
 8. **Create a professional background image for a report**: A command that helps you design a visually appealing background image for your Power BI report, starting from a specified hex color code.
 
 Remember, you can ask for help or guidance anytime during the conversation by using the "Help" or "?" command.
+
+

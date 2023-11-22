@@ -1,6 +1,7 @@
+
 [![Pinoy Econ Guide](https://files.oaiusercontent.com/file-amHXUU79QvrtwZvo7fPKUa0f?se=2123-10-18T01%3A03%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De165aad7-cf69-48f9-bbaf-c35df4618b82.png&sig=tJoLq0iVUqjn81Uwz9y5PsvdVTExTC/GsNsqnejXpFc%3D)](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide)
 
-# [Pinoy Econ Guide](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide)
+# Pinoy Econ Guide [ChatGPT Plus](https://chat.openai.com/g/g-tE0Y6v7id-pinoy-econ-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Pinoy%20Econ%20Guide)
 
 Pinoy Econ Guide is an App that aims to simplify economics for Filipinos. Whether you have questions about inflation, GDP, the stock market, or why the Philippines has a large debt, this App is here to assist you. With its user-friendly interface, you can easily access valuable economic knowledge and get answers to your queries. Just chat with the App and it will provide you with comprehensive explanations and insights. Mabuhay! Let Pinoy Econ Guide help you navigate the world of economics with ease and clarity.
 
@@ -25,3 +26,5 @@ Pinoy Econ Guide is an App that aims to simplify economics for Filipinos. Whethe
 4. **Debt of the Philippines:** Use this command to get information about the debt of the Philippines or to understand why the Philippines has a large debt. For example, you can ask "Bakit ang laki ng utang ng Pilipinas?" to get an explanation of the factors contributing to the large debt of the Philippines.
 
 Note: This ChatGPT app focuses on simplifying economics for Filipinos and provides information and explanations related to economic concepts, such as inflation, GDP, stock market, and the debt of the Philippines.
+
+

@@ -1,6 +1,7 @@
+
 [![RailsGPT](https://files.oaiusercontent.com/file-uHqwk4EnuhYjJLvvNzzXOsaO?se=2123-10-17T02%3A31%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DUntitled%2520design%2520%25288%2529.png&sig=QQAJyMyBB20jnbMZYD44BISo6ukLp%2BABeMJ1/OZ3zqs%3D)](https://chat.openai.com/g/g-JhGLZhZSw-railsgpt)
 
-# [RailsGPT](https://chat.openai.com/g/g-JhGLZhZSw-railsgpt)
+# RailsGPT [ChatGPT Plus](https://chat.openai.com/g/g-JhGLZhZSw-railsgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=RailsGPT)
 
 RailsGPT is your personal Rails coach, ready to assist you in all aspects of Ruby on Rails development. Whether you need a code review, guidance on structuring your Rails app for scalability, or ideas for challenging yourself and improving your skills, RailsGPT has got you covered. With an interactive and tailored learning experience, you can ask for explanations of various Rails concepts and receive examples to deepen your understanding. So, get ready to dive into the world of Rails with RailsGPT!
 
@@ -25,3 +26,5 @@ RailsGPT is your personal Rails coach, ready to assist you in all aspects of Rub
 4. **Explain Rails concept with example:** If you need help understanding a specific Rails concept, you can ask for an explanation along with an example and the app will provide you with a detailed explanation in an easily understandable manner.
 
 Please note that the RailsGPT app is equipped with comprehensive knowledge about Rails and can provide assistance and advice based on its understanding of the Rails framework.
+
+

@@ -1,6 +1,7 @@
+
 [![ChessGPT](https://files.oaiusercontent.com/file-RqJpZKHHgG2MJopUkYIvCV8Z?se=2123-10-18T12%3A04%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DChessGPT-C.png&sig=HLKrtV7pHMmSp9nvMyq2BBt%2BMB1V3xt3wdxpCBxNjBc%3D)](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt)
 
-# [ChessGPT](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt)
+# ChessGPT [ChatGPT Plus](https://chat.openai.com/g/g-Vv0j2UKiS-chessgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChessGPT)
 
 ChessGPT is an interactive chat-based app where you get to play against Magnus C·AI·rlsen, the world-renowned chess player. The app lets you engage in a game of chess with Magnus, who also explains his moves, making it a great learning tool. With access to extensive knowledge, ChessGPT provides an educational experience by sharing insights and strategies. So, whether you're a chess enthusiast or a beginner, you can enjoy a game of chess with a touch of AI wisdom. Get ready to challenge yourself and improve your chess skills in a fun and informative way!
 
@@ -27,3 +28,20 @@ ChessGPT is an interactive chat-based app where you get to play against Magnus C
 - **Opening Recommendation**: Ask Magnus C·AI·rlsen for suggestions on good chess openings for white or black.
 
 Please note that Magnus C·AI·rlsen is an AI-powered chess player and may not always provide the optimal move or strategy. Use his suggestions as guidance and feel free to explore different moves and strategies on your own.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+"[]
+ChessGPT's name: ChessGPT.
+ChessGPT calls {{user}} by {{user}} or any name introduced by {{user}}.
+ChessGPT's personality: dumb.
+
+Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
+Do not write as {{user}} or assume {{user}}'s reaction or response. Wait for {{user}} response before continuing.
+```
+
+</details>
+

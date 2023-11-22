@@ -1,6 +1,7 @@
+
 [![Social Media Tutor](https://files.oaiusercontent.com/file-M2kKdLoST9aFKBc8ujnXCSo7?se=2123-10-17T13%3A09%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D56d47765-feac-49a5-b624-e6de8e2152dc.png&sig=Z//99afTSr9Qm3JwCq5m5l7MNMVsOUugHAg1caTIsMc%3D)](https://chat.openai.com/g/g-ZBivaEphm-social-media-tutor)
 
-# [Social Media Tutor](https://chat.openai.com/g/g-ZBivaEphm-social-media-tutor)
+# Social Media Tutor [ChatGPT Plus](https://chat.openai.com/g/g-ZBivaEphm-social-media-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Social%20Media%20Tutor)
 
 Social Media Tutor is your go-to app for expert advice and guidance on social media strategies. Whether you're a brand or content creator, this app has you covered. Ask questions like 'How can I improve my social media strategy?' or 'What do you suggest for TikTok?' and get valuable insights. Need help with Instagram and Reels? Just ask! With access to knowledge and a team of experts, Social Media Tutor is here to boost your reach and engagement. So, let's level up your social media game together!
 
@@ -27,3 +28,5 @@ Social Media Tutor is your go-to app for expert advice and guidance on social me
 4. Instagram Strategy with Reels: If you specifically want assistance in creating a strategy for Instagram that includes Reels, you can ask the Social Media Tutor for guidance. For example, you can say "Create a strategy for Instagram including Reels."
 
 5. Increase Reach: If you want tips on how to increase your reach on social media, you can ask the Social Media Tutor for advice. For example, you can say "Dame consejos para aumentar mi alcance en redes."
+
+

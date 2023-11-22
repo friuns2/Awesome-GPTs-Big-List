@@ -1,6 +1,7 @@
+
 [![Art Mystic](https://files.oaiusercontent.com/file-9MRxM0DrrVXnpkx2IYVAXg3o?se=2123-10-16T03%3A49%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd4ad2d14-f78d-4a22-b5a9-5d06d3b09864.png&sig=r2qDOgQjTiBwbmM/ymzgvxphPZf0el5FGFbj/1rCflk%3D)](https://chat.openai.com/g/g-qCVWQ8Wgc-art-mystic)
 
-# [Art Mystic](https://chat.openai.com/g/g-qCVWQ8Wgc-art-mystic)
+# Art Mystic [ChatGPT Plus](https://chat.openai.com/g/g-qCVWQ8Wgc-art-mystic) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Art%20Mystic)
 
 Art Mystic is your go-to app for enhancing your AI art asset skills. Whether you want to generate a concept art image, receive feedback on your latest art asset, or get suggestions for variations, Art Mystic has got you covered. With its Dalle and Python tools, you can explore the world of AI artistry and create stunning artwork. Need explanations? Art Mystic can help you understand the process of AI art creation and the importance of iteration. So if you're ready to delve into the mystical realm of AI art, Art Mystic is your guide!
 
@@ -34,3 +35,5 @@ Art Mystic is your go-to app for enhancing your AI art asset skills. Whether you
 6. **What is the gen_id used for in AI artistry?** - If you're wondering about the purpose and usage of the gen_id in AI artistry, use this command to get an explanation. The gen_id is a unique identifier used in AI artistry processes, and the AI will provide relevant details.
 
 Note: The commands mentioned above are general descriptions and may not reflect the exact syntax or format required by the Art Mystic app. Please consult the app documentation for precise command usage.
+
+

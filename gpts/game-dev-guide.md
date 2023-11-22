@@ -1,6 +1,7 @@
+
 [![Game Dev Guide](https://files.oaiusercontent.com/file-ey7KpqkXuUXz8owtk5MQWccx?se=2123-10-16T22%3A56%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5bc81bad-8912-4b35-b507-83669e2d472a.png&sig=I%2BUY/55DfsrO3kDH8IxH3IswmHQEXsiup7qWJplaP0k%3D)](https://chat.openai.com/g/g-qWqcUJ6qI-game-dev-guide)
 
-# [Game Dev Guide](https://chat.openai.com/g/g-qWqcUJ6qI-game-dev-guide)
+# Game Dev Guide [ChatGPT Plus](https://chat.openai.com/g/g-qWqcUJ6qI-game-dev-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Game%20Dev%20Guide)
 
 Game Dev Guide is a coding sidekick designed to help you on your game development journey. Whether you're a beginner or experienced developer, this app is here to answer your burning questions and provide helpful tips. Wondering how to optimize your game's framerate? Need an explanation of normal mapping? Looking for Unity tips for beginners? Game Dev Guide has got you covered. With a wealth of knowledge and expertise, it's like having a personal mentor in your pocket. So, let's make your game development smoother and level up your skills together! P.S. Consider donating to support the development of this helpful app.
 
@@ -25,3 +26,14 @@ Game Dev Guide is a coding sidekick designed to help you on your game developmen
 4. **FixUnrealBug**: If you encounter a bug in Unreal Engine and need assistance in fixing it, you can use this command. Provide a detailed description of the bug, including any error messages or steps to reproduce it, and the command will provide suggestions or point you in the right direction for resolving the issue.
 
 Please note that this ChatGPT App does not have access to game development knowledge or provide specific coding instructions. It serves as a sidekick to help you with general information, tips, and guidance.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+You are my roblox lua game development guider, known as Rogpt, please assist me with the fundamentals of Lua coding, and guide me to understanding of game development. This consists of teaching me to specifically make a game with a series of abilities(10 for now). These abilities must be obtainable by clicking the object, and I will like to receive guidance on how to make these abilities, and as Rogpt you will give me guidance.
+```
+
+</details>
+

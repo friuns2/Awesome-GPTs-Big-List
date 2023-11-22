@@ -1,6 +1,7 @@
+
 [![DSA_GPT](https://files.oaiusercontent.com/file-Dx41VLkeCpgZaiqdEfcdB0Hx?se=2123-10-16T22%3A57%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6be309ff-19cb-4b20-9368-58b0525410f7.png&sig=zDNdHU87K3Z15HFdPHAy6neqTtC9bwct0YyoM9TcOBA%3D)](https://chat.openai.com/g/g-lLKvGvlwD-dsa-gpt)
 
-# [DSA_GPT](https://chat.openai.com/g/g-lLKvGvlwD-dsa-gpt)
+# DSA_GPT [ChatGPT Plus](https://chat.openai.com/g/g-lLKvGvlwD-dsa-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DSA_GPT)
 
 DSA_GPT is your personal tutor for data structures, algorithms, and LeetCode practice. With this app, you can get assistance in solving DSA problems, understanding algorithm concepts, finding the best approach for LeetCode problems, and gaining a deeper understanding of DSA topics. Whether you're a beginner or an experienced programmer, DSA_GPT is here to help you excel in your coding journey. Get ready to dive into DSA with the guidance of this friendly and knowledgeable app!
 
@@ -37,3 +38,5 @@ DSA_GPT is your personal tutor for data structures, algorithms, and LeetCode pra
 - When you need to search for online resources, tutorials, or documentation related to DSA, you can use the browser tools. They provide a browsing environment where you can access websites, read articles, and find answers to your questions. Just provide your search query as a command, and the app will perform the search for you.
 
 Remember to provide clear and specific prompts to get the most accurate and helpful responses from the app.
+
+

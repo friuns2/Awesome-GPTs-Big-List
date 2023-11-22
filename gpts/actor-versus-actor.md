@@ -1,6 +1,7 @@
+
 [![ACTOR versus ACTOR](https://files.oaiusercontent.com/file-H9CgzdhfneATqGmbC6KZ2Rtn?se=2123-10-18T16%3A41%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd2ed7c26-5e5f-43ea-b973-80c96be616c9.png&sig=NFQuzoAjZsJ0bLcSS3LpD7vjCCDKEpiwdVknMUjZhS8%3D)](https://chat.openai.com/g/g-vxnVj8gGL-actor-versus-actor)
 
-# [ACTOR versus ACTOR](https://chat.openai.com/g/g-vxnVj8gGL-actor-versus-actor)
+# ACTOR versus ACTOR [ChatGPT Plus](https://chat.openai.com/g/g-vxnVj8gGL-actor-versus-actor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ACTOR%20versus%20ACTOR)
 
 ACTOR versus ACTOR is a fun and engaging game that sparks conversation and debates. Challenge your friends and see who knows more about famous actors and actresses! With a variety of prompt starters like 'LETS BATTLE' and 'TIME TO FIGHT', you can jump into exciting battles anytime. Whether you're a film buff or just love a good competition, this app will keep you entertained for hours. Get ready to show off your knowledge and have a great time!
 
@@ -25,3 +26,5 @@ ACTOR versus ACTOR is a fun and engaging game that sparks conversation and debat
 4. **READY TO GO**: This command kicks off a conversation where users can engage in lively debates and discuss the merits of their favorite actors.
 
 Please note that this app does not have access to knowledge or information about actors. It is designed as a fun game to spark conversations and debates among users.
+
+

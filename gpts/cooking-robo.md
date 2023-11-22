@@ -1,6 +1,7 @@
+
 [![Cooking Robo](https://files.oaiusercontent.com/file-tjRBPcn9UVQOhkhXKXVxxkbJ?se=2123-10-18T22%3A50%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De0a97c39-b53b-49f8-a2c6-2f10870e79d9.png&sig=9shEunIesBzz2/4le7FXFTldfBFZjrvHccfXYRYocXE%3D)](https://chat.openai.com/g/g-aw1bOgMsI-cooking-robo)
 
-# [Cooking Robo](https://chat.openai.com/g/g-aw1bOgMsI-cooking-robo)
+# Cooking Robo [ChatGPT Plus](https://chat.openai.com/g/g-aw1bOgMsI-cooking-robo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cooking%20Robo)
 
 Cooking Robo is your personalized kitchen companion, ready to help you explore a world of delicious dishes! Whether you're searching for a chicken recipe, looking for a deal on olive oil, or craving a meal with rice and beans, Cooking Robo has got you covered. This app specializes in various cuisines, except for Indian cuisine. With access to a browser tool for searching recipes and finding deals, as well as advanced AI models for generating creative recipes, Cooking Robo will make your cooking adventures both fun and tasty!
 
@@ -29,3 +30,5 @@ Cooking Robo is your personalized kitchen companion, ready to help you explore a
 5. **Recipe instructions:** If you're looking for instructions on how to make a specific dish, you can ask the Cooking Robo. For example, you can say "How do I make a peanut butter sandwich?" to get step-by-step instructions on making a peanut butter sandwich.
 
 Note: The Cooking Robo has access to certain tools, such as a browser and an AI model (DALLE), but the specific details and usage of these tools are not described in the provided information.
+
+

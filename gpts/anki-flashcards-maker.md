@@ -1,6 +1,7 @@
+
 [![Anki Flashcards Maker](https://files.oaiusercontent.com/file-6q5riTs7aUR7jMd2e3cq5Uhj?se=2123-10-18T02%3A22%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Debd51ba3-4c42-400d-a110-da3cdacc05b8.png&sig=HQa1RuHZ/%2BVoSAXE4M9qUVrTODjIIX0gc2TDd6Obwbo%3D)](https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-maker)
 
-# [Anki Flashcards Maker](https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-maker)
+# Anki Flashcards Maker [ChatGPT Plus](https://chat.openai.com/g/g-zTo1YYtwE-anki-flashcards-maker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Anki%20Flashcards%20Maker)
 
 Anki Flashcards Maker is a handy tool that allows you to create customized flashcards in any language of your choice. Whether you want to study Mandarin, English, or any other language, this app has you covered! Simply input the text or article you want to turn into flashcards, and the app will generate them for you. It even offers the option to export the flashcards, so you can easily access them on your Anki app or device. Get ready to boost your language learning with Anki Flashcards Maker!
 
@@ -27,3 +28,5 @@ Anki Flashcards Maker is a handy tool that allows you to create customized flash
 4. **Translate and create flashcards**: If you have a text in one language and want to create flashcards in another language, you can ask the app to translate and generate the flashcards. Use a prompt like "Transform this English text into Mandarin flashcards.".
 
 5. **Export created flashcards**: Once you have created the flashcards, you can export them. To export the flashcards created on the current session, you can use the prompt "Can you export the flashcards we created today?".
+
+

@@ -1,6 +1,7 @@
+
 [![X Thread Generator](https://files.oaiusercontent.com/file-MG8MxRw0o65ch1lDS5JNcVvj?se=2123-10-17T16%3A27%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D421e77fd-ceb7-424d-bde4-9c1924809cfa.png&sig=kWrN27XH2dk5wU3c93v3JBzkqzMoTK0gc1anm5AqW68%3D)](https://chat.openai.com/g/g-KJk8jUYSZ-x-thread-generator)
 
-# [X Thread Generator](https://chat.openai.com/g/g-KJk8jUYSZ-x-thread-generator)
+# X Thread Generator [ChatGPT Plus](https://chat.openai.com/g/g-KJk8jUYSZ-x-thread-generator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=X%20Thread%20Generator)
 
 X Thread Generator is an App that helps you craft concise and personalized Twitter threads. Whether you're looking for trending topics, digital art trends, or want to incorporate your personal story, this App has got you covered. It can even develop threads on recent tech advancements or write about renewable energy! With access to a powerful text generation tool and a browser for researching information, the App makes it easy to create engaging threads. Get ready to impress your followers with well-crafted and informative threads using X Thread Generator.
 
@@ -30,3 +31,5 @@ X Thread Generator is an App that helps you craft concise and personalized Twitt
 5. **Write a thread about renewable energy:** This command allows you to create a Twitter thread specifically about renewable energy. Use the prompt "Write a thread about renewable energy" and the app will generate a thread for you with information related to renewable energy sources, technologies, and their impact.
 
 Please note that these commands are designed to assist you in creating personalized Twitter threads. The app will generate the content based on the prompts you provide.
+
+

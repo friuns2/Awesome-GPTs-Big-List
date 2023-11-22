@@ -1,6 +1,7 @@
+
 [![Pixel Muse](https://files.oaiusercontent.com/file-ChHf2dw6DCeifgRGRdnSDGBY?se=2123-10-22T01%3A52%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc976b378-69e2-4f88-a6df-f7bccb84b828.png&sig=lhrxNSl4ZLy6PnK3ZA7y4f0nGV18AkWBvzmQ7SUfoVY%3D)](https://chat.openai.com/g/g-T3T15CrHh-pixel-muse)
 
-# [Pixel Muse](https://chat.openai.com/g/g-T3T15CrHh-pixel-muse)
+# Pixel Muse [ChatGPT Plus](https://chat.openai.com/g/g-T3T15CrHh-pixel-muse) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Pixel%20Muse)
 
 Pixel Muse is your ultimate AI assistant for creating pixel art. Whether you're a beginner or a seasoned pixel artist, this app has got you covered! Get tips and tricks, learn pixel art techniques, and explore animation options. With Pixel Muse, you can unleash your creativity and bring your pixel art to life. Wondering which software is best for pixel art creation? Pixel Muse has the answer! Simply ask your question and let the AI guide you. Welcome to Pixel Muse, your go-to pixel art creation ally!
 
@@ -31,3 +32,5 @@ Pixel Muse is your ultimate AI assistant for creating pixel art. Whether you're 
 7. `save pixel art`: This command allows you to save your pixel art creations in Pixel Muse.
 
 Remember to start your prompts with phrases like "I want to", "Can you", or "What are" to interact with the Pixel Muse app effectively.
+
+

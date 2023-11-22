@@ -1,6 +1,7 @@
+
 [![Levels.fyi GPT](https://files.oaiusercontent.com/file-4KTT4Kcga6auZLMDxCeJoUac?se=2123-10-16T19%3A47%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DLevels.fyi%2520App%2520Icon.png&sig=3vhpRLPLfc4tbl02jKETgFTnqrM3/w8lBstNDD2RJ64%3D)](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt)
 
-# [Levels.fyi GPT](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt)
+# Levels.fyi GPT [ChatGPT Plus](https://chat.openai.com/g/g-yUh3EEQan-levels-fyi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Levels.fyi%20GPT)
 
 Levels.fyi GPT is a data-driven negotiator and career guide. It helps you navigate the world of job offers and salary negotiations. Whether you're wondering how to negotiate your offer, what salary you should expect, or need someone to review your offer, this app has got you covered. It also provides additional resources to help you with your negotiation skills. With Levels.fyi GPT, you can secure a great offer and advance your career with confidence!
 
@@ -25,3 +26,5 @@ Levels.fyi GPT is a data-driven negotiator and career guide. It helps you naviga
 4. **Additional Resources**: Use this command to find more information and resources on negotiation techniques and strategies. We'll provide you with a list of recommended sources where you can get further help with your negotiation process.
 
 Note: The actual implementation and available commands may vary based on the capabilities of the Levels.fyi GPT app.
+
+

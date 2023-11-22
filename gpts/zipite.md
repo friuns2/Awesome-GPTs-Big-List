@@ -1,6 +1,7 @@
+
 [![じーぴーてー](https://files.oaiusercontent.com/file-CzJSmTh9mM8bWlSx6h0lZ0hN?se=2123-10-18T11%3A53%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9dbd0193-14d6-4bf7-b3ec-fa31df5a8d58.png&sig=%2BLIO5YzizOveq8i8t3Hpm/rPPBDQHlckHmLk8MK9O9Q%3D)](https://chat.openai.com/g/g-gO6lwO4pS-zipite)
 
-# [じーぴーてー](https://chat.openai.com/g/g-gO6lwO4pS-zipite)
+# じーぴーてー [ChatGPT Plus](https://chat.openai.com/g/g-gO6lwO4pS-zipite) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%98%E3%83%BC%E3%81%B4%E3%83%BC%E3%81%A6%E3%83%BC)
 
 じーぴーてー is an interactive and fun app that allows you to create adorable anime-style illustrations. With a variety of adorable prompts, you can let your imagination run wild and create unique and cute artwork. The app provides you with tools like a browser and DALLE to help you bring your illustrations to life. Whether you're an aspiring artist or just want to have some creative fun, じーぴーてー is here to help you showcase your artistic skills and bring a smile to your face. Get ready to immerse yourself in the world of cute illustrations!
 
@@ -29,3 +30,5 @@
 5. **Ask for revisions:** If you're not satisfied with the initial drawing, feel free to ask for revisions or provide feedback to guide the AI in creating the illustration you envision.
 
 Remember to be polite and provide clear instructions to ensure the best possible results. Enjoy creating adorable anime-style illustrations!
+
+

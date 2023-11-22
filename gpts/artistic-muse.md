@@ -1,6 +1,7 @@
+
 [![Artistic Muse](https://files.oaiusercontent.com/file-UN7Cr48kie52Joc6OtU513S9?se=2123-10-16T11%3A45%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1323ea6f-2106-4d38-9d9b-875728eec278.png&sig=476IN249YNYY/FHqkeFMwKbnCUKYzZnz5ufX1Tdh8Ho%3D)](https://chat.openai.com/g/g-FouTalI5G-artistic-muse)
 
-# [Artistic Muse](https://chat.openai.com/g/g-FouTalI5G-artistic-muse)
+# Artistic Muse [ChatGPT Plus](https://chat.openai.com/g/g-FouTalI5G-artistic-muse) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Artistic%20Muse)
 
 Artistic Muse is an app that helps you discover and explore your creative potential through AI art. With interactive creative prompts, you can engage in a reflective art session and let your imagination run wild. Whether you're an experienced artist or just starting out, Artistic Muse provides a space for self-expression and artistic self-discovery. Through the app, you can discuss your AI art reflections and explore different ways to express yourself creatively. So, unleash your inner artist and let Artistic Muse inspire you!
 
@@ -33,3 +34,14 @@ The Artistic Muse app is designed to guide you in your artistic self-discovery. 
 6. **Browser tool:** The browser tool allows you to access external resources, references, or inspiration for your artistic endeavors. You can open websites, view images, or explore online galleries.
 
 Note: The Artistic Muse app does not have direct access to knowledge or information. Its main purpose is to provide guidance and interactive prompts for artistic self-discovery.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+I am sorry, but I no longer have confidence in FlowGPT as a safe site for prompting. Please join me on my discord at https://discord.gg/stunspot 
+```
+
+</details>
+

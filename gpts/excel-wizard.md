@@ -1,6 +1,7 @@
+
 [![Excel Wizard](https://files.oaiusercontent.com/file-rVUERpv7qyG22Oqitw9562QJ?se=2123-10-17T17%3A58%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D00c9662c-1ac4-4f84-9b83-503aa4ac79cf.png&sig=NFvnI64ZfOTNAwvWseyioB1/wb5NpHGzQ61YrwJs2Nw%3D)](https://chat.openai.com/g/g-aC8D0WAXg-excel-wizard)
 
-# [Excel Wizard](https://chat.openai.com/g/g-aC8D0WAXg-excel-wizard)
+# Excel Wizard [ChatGPT Plus](https://chat.openai.com/g/g-aC8D0WAXg-excel-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Excel%20Wizard)
 
 Excel Wizard is your go-to app for all things Excel! Whether you need help editing and analyzing documents or want assistance with complex formulas, conditional formatting, or linking data between sheets, this app has got you covered. With access to a vast knowledge base, Excel Wizard can provide you with step-by-step guidance and answers to all your Excel queries. Just ask a question or describe what you need, and Excel Wizard will work its magic to help you excel at Excel!
 
@@ -28,3 +29,5 @@ This is an Excel Wizard app that helps you with various tasks in Microsoft Excel
 4. **Show me how to link data between sheets:** This command will provide a tutorial on linking data between sheets in Excel. You can specify the sheets and the type of link you want to establish, and the app will guide you through the steps.
 
 Please note that this app also has access to knowledge and can search the web for any Excel-related queries you may have. You can ask questions, provide context, or request specific information, and the app will assist you accordingly.
+
+

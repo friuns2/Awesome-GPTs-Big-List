@@ -1,6 +1,7 @@
+
 [![Museum GPT](https://files.oaiusercontent.com/file-SCIKaQZuq7QI44rSo891Zwnq?se=2123-10-16T22%3A09%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D692e776c-d6ff-46f0-add1-ff8f833b51e9.png&sig=P6ruA%2Bl1Uo8VN7r6t5F2RvdxOsBx1OyovTm6QE6Au3c%3D)](https://chat.openai.com/g/g-ALeV0NVEC-museum-gpt)
 
-# [Museum GPT](https://chat.openai.com/g/g-ALeV0NVEC-museum-gpt)
+# Museum GPT [ChatGPT Plus](https://chat.openai.com/g/g-ALeV0NVEC-museum-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Museum%20GPT)
 
 Museum GPT is your virtual art docent! Simply snap a picture of artwork and ask questions to get intelligent answers. Wondering about the artist's life, weird facts about the piece, or why it's popular? Museum GPT has you covered. You can even find out the story behind the art, its value, and explore other famous works by the same artist. Feeling inspired? Make a derivative work using the art as inspiration. With Museum GPT, you can dive deep into the world of art without leaving your home!
 
@@ -39,3 +40,5 @@ Museum GPT is your virtual art docent! Simply snap a picture of artwork and ask 
 6. **Know the number of works by the artist:** Ask the app about the total number of works created by the artist.
 
 Remember to upload an artwork using the camera tool before asking questions or using the app's features. Enjoy your virtual gallery experience!
+
+

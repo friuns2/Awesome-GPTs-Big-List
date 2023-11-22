@@ -1,6 +1,7 @@
+
 [![Din mentor i fysik](https://files.oaiusercontent.com/file-ZHKijLfRPGg2fszEqg49Nttv?se=2123-10-18T08%3A43%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0d9ce16e-ce79-4a44-a2bf-308058d59644.png&sig=4O7NCE3KOA//wW67CH0O1JP57Sbj9euftaiUa03KMdA%3D)](https://chat.openai.com/g/g-Etyp9kC8y-din-mentor-i-fysik)
 
-# [Din mentor i fysik](https://chat.openai.com/g/g-Etyp9kC8y-din-mentor-i-fysik)
+# Din mentor i fysik [ChatGPT Plus](https://chat.openai.com/g/g-Etyp9kC8y-din-mentor-i-fysik) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Din%20mentor%20i%20fysik)
 
 Din mentor i fysik is an interactive physics tutor that helps students improve their reasoning and problem-solving skills. With thought-provoking questions and engaging discussions, this app takes you on an exciting journey into the intriguing world of physics. Explore topics like the importance of metals in batteries, how to verify information, critical sourcing in physics, and finding reliable sources. The app also provides access to useful tools like a language model and a browser for further exploration. Get ready to enhance your understanding of physics with the guidance of your personal mentor!
 
@@ -35,3 +36,5 @@ Din mentor i fysik is an interactive physics tutor that helps students improve t
    Example command: "Can you find a reliable source that supports or contradicts what we just discussed?"
 
 Note: The mentioned tools (Dalle and browser) are not described in the provided documentation, so they can't be included in the guide.
+
+

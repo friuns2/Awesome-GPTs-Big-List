@@ -1,6 +1,7 @@
+
 [![BookRecommender](https://files.oaiusercontent.com/file-fYhThMraHFjyJh2aYbYqdsO8?se=2123-10-17T04%3A43%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1f3688e1-99e0-4054-9cd0-c8b07f6b7fa3.webp&sig=Y8EwSlOL5/uBkd5T6pEEicG6UgjpptnxqlOMmB%2Bp7r8%3D)](https://chat.openai.com/g/g-dNptbGgmQ-bookrecommender)
 
-# [BookRecommender](https://chat.openai.com/g/g-dNptbGgmQ-bookrecommender)
+# BookRecommender [ChatGPT Plus](https://chat.openai.com/g/g-dNptbGgmQ-bookrecommender) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BookRecommender)
 
 BookRecommender is your personal book advisor! Whether you're looking for a beach read, a sci-fi adventure, or a book to learn Python, I've got you covered. Just ask me your preferences and I'll recommend books tailored to your taste. If you loved '1984', I can suggest what you should read next. Discover your next favorite read with BookRecommender!
 
@@ -30,3 +31,5 @@ BookRecommender is your personal book advisor! Whether you're looking for a beac
 4. **Access to Knowledge:** The app does not have access to knowledge.
 
 Note: This app does not provide example output for the prompts.
+
+

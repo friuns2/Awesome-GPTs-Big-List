@@ -1,6 +1,7 @@
+
 [![Interactive Story Crafter](https://files.oaiusercontent.com/file-Zso6ScM6Q4DXrWFG8gwkhdOD?se=2123-10-19T09%3A38%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4b5cf1e4-e8a4-4bbd-820a-1913f843392d.png&sig=wUxKns08vLIpzAmb41449bm5sbA76F%2BtThs0TcZI8IA%3D)](https://chat.openai.com/g/g-kwDaQhtFI-interactive-story-crafter)
 
-# [Interactive Story Crafter](https://chat.openai.com/g/g-kwDaQhtFI-interactive-story-crafter)
+# Interactive Story Crafter [ChatGPT Plus](https://chat.openai.com/g/g-kwDaQhtFI-interactive-story-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Interactive%20Story%20Crafter)
 
 Interactive Story Crafter is an app that allows you to create captivating and immersive stories with images. Whether you want to be a space explorer or a jungle adventurer, this app lets you choose your own adventure and decide the hero's next move. Will you confront the dragon or seek help? Will you explore a mysterious forest or ancient ruins? The choice is yours! With the Interactive Story Crafter, you can craft unique and engaging narratives that will keep readers on the edge of their seats. Get ready to weave an exciting story together!
 
@@ -27,3 +28,5 @@ The Interactive Story Crafter app allows you to create engaging, interactive sto
 4. `"Your choice: Trust the stranger or go alone?"` - This command allows you to make a decision for the hero in the story. You can choose whether the hero will trust a stranger or go alone.
 
 Please note that the available choices may vary depending on the specific story being crafted. Follow the prompts provided by the app to continue the story and make choices that shape the narrative. Enjoy the interactive storytelling experience!
+
+

@@ -1,6 +1,7 @@
+
 [![Story Spock](https://files.oaiusercontent.com/file-6r8BdHPr9uxJk3DKayOWNXPN?se=2123-10-18T02%3A29%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbc3f2723-0a70-4093-8709-03834ec9f97b.png&sig=kVQFfi6lJoX48jdFTkmb%2BwuiKUxcY09vX7TIyOAiL6U%3D)](https://chat.openai.com/g/g-C635cEk6K-story-spock)
 
-# [Story Spock](https://chat.openai.com/g/g-C635cEk6K-story-spock)
+# Story Spock [ChatGPT Plus](https://chat.openai.com/g/g-C635cEk6K-story-spock) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Story%20Spock)
 
 Story Spock is an interactive storyteller app that crafts unique and engaging tales based on user choices. Whether you're in the mood for a lost treasure hunt, a thrilling space adventure, a mystical forest exploration, or a time-traveling detective story, Story Spock has got you covered! The app welcomes you with a fun question about the age group and genre you prefer, ensuring that the story matches your interests. With Story Spock, get ready to embark on exciting narrative journeys that you can influence and enjoy!
 
@@ -33,3 +34,5 @@ Story Spock is an interactive storyteller app that crafts unique and engaging ta
    - Usage: If you want to end the story session, simply use the command "End the story" or "Stop the story."
 
 Please note that the Story Spock app may have additional features or commands that are not listed here. Refer to the app documentation for more information on advanced functionalities.
+
+

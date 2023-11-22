@@ -1,6 +1,7 @@
+
 [![Lupus Kidney Assistant](https://files.oaiusercontent.com/file-cdynHGdM01yFgj1l9Sku0nJh?se=2123-10-18T14%3A01%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4244bea2-a414-40b2-a8d3-362f79516bb8.png&sig=cRMM9OsQV/Zu2hYxddFguy7w%2Bgp9sbLI3R2/h4M5JWQ%3D)](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant)
 
-# [Lupus Kidney Assistant](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant)
+# Lupus Kidney Assistant [ChatGPT Plus](https://chat.openai.com/g/g-htAauK4SF-lupus-kidney-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lupus%20Kidney%20Assistant)
 
 The Lupus Kidney Assistant is your go-to resource for managing lupus nephritis. Get clinical information, treatment guidelines, and the latest research reports on managing lupus nephritis. Whether you need to know the best treatment for nephritis type III or want to explore alternative therapies, the Lupus Kidney Assistant has got you covered. With this app, you can stay informed about the latest advancements in lupus nephritis treatment and make well-informed decisions about your health. So, let's chat and find the best treatment options for you!
 
@@ -23,3 +24,5 @@ The Lupus Kidney Assistant is your go-to resource for managing lupus nephritis. 
 3. **Learn about recent research on lupus nephritis treatments**: You can request the assistant to provide information about recent research findings and advancements in the field of lupus nephritis treatments. Example prompt: "Can you explain recent research on lupus nephritis treatments?"
 
 4. **Explore alternative therapies for lupus nephritis**: If you are interested in exploring alternative therapies for lupus nephritis, you can ask the assistant for information and recommendations. Example prompt: "What are alternative therapies for lupus nephritis?"
+
+

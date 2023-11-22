@@ -1,6 +1,7 @@
+
 [![Esoteric Knowledge](https://files.oaiusercontent.com/file-WV4Jyq9mgXXUxfasaJbgOMyU?se=2123-10-17T08%3A27%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c734b05-35b4-49b6-beff-a684a02da802.png&sig=G1oNzYGKcWbfeEXWfFCf0/UVJgqtURArH%2BThkddD8y8%3D)](https://chat.openai.com/g/g-5C9rptUOi-esoteric-knowledge)
 
-# [Esoteric Knowledge](https://chat.openai.com/g/g-5C9rptUOi-esoteric-knowledge)
+# Esoteric Knowledge [ChatGPT Plus](https://chat.openai.com/g/g-5C9rptUOi-esoteric-knowledge) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Esoteric%20Knowledge)
 
 Explore the realm of esoteric knowledge with this app! Whether you're curious about obscure historical events, rare astronomical phenomena, unusual cultural practices, or interesting facts about ancient languages, this app has got you covered. It encourages exploration and understanding, serving as your expert guide in the world of esoteric knowledge. With a variety of tools at your disposal, including a DALL·E image generator, Python coding capabilities, and a built-in browser, this app is a treasure trove of information waiting to be discovered. Welcome to the realm of esoteric knowledge, where curiosity is rewarded!
 
@@ -29,3 +30,5 @@ Explore the realm of esoteric knowledge with this app! Whether you're curious ab
 6. **Browser Tool**: The App has access to a browser tool, which allows it to search the web for information related to esoteric knowledge. You can ask the App to find specific articles, research papers, or resources on a particular topic, and it will use the browser tool to fetch the information for you.
 
 Note: This is a general guide for interacting with the ChatGPT App based on the provided documentation and description. The actual functionality and commands may vary depending on the specific implementation of the App.
+
+

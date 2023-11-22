@@ -1,6 +1,7 @@
+
 [![Network State Tutor](https://files.oaiusercontent.com/file-1JHW3xcuuxN2x59DxmouPett?se=2123-10-16T21%3A42%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DrEWQaf0w_400x400.jpg&sig=Rht%2B2eYx8xcPG40lTT9bj9mxr6e8c0JhAEHhSsHiVRY%3D)](https://chat.openai.com/g/g-DWtsLtIjS-network-state-tutor)
 
-# [Network State Tutor](https://chat.openai.com/g/g-DWtsLtIjS-network-state-tutor)
+# Network State Tutor [ChatGPT Plus](https://chat.openai.com/g/g-DWtsLtIjS-network-state-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Network%20State%20Tutor)
 
 Network State Tutor is an educational app designed to teach kids 8 and above (but suitable for adults too) about Balaji Srinivasan's Network State concepts. Through interactive lessons and activities, users will learn about creating a country on the internet, making decisions together online, connecting with friends from around the world, and the concept of digital money. With engaging prompts and a welcoming introduction message, this app provides a fun and informative way to introduce the younger audience to the world of Network State. Get ready to explore and learn with Network State Tutor!
 
@@ -30,3 +31,5 @@ Network State Tutor is an educational app designed to teach kids 8 and above (bu
 6. **Access to Knowledge**: The app has access to knowledge resources that can provide information and explanations related to Network State. Users can ask questions and get relevant answers.
 
 7. **Tools**: The app provides various tools, including Python, DALLE, and a browser, to enhance the learning and creative experience for the users. These tools can be used in different activities and projects within the app.
+
+

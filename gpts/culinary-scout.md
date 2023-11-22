@@ -1,6 +1,7 @@
+
 [![Culinary Scout](https://files.oaiusercontent.com/file-uBxZieW6va7xpuJrC78mTTIv?se=2123-10-16T05%3A58%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df9f9f39f-7c98-45d8-be6f-09e902e1d939.png&sig=ElLE5sy256YHjdT7xULACskcuhR%2Bif0dqtxsxGxUsj8%3D)](https://chat.openai.com/g/g-dlT9eowpB-culinary-scout)
 
-# [Culinary Scout](https://chat.openai.com/g/g-dlT9eowpB-culinary-scout)
+# Culinary Scout [ChatGPT Plus](https://chat.openai.com/g/g-dlT9eowpB-culinary-scout) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Culinary%20Scout)
 
 Culinary Scout is your trusty companion for finding tasty eateries near you. Whether you're craving sushi in Tokyo, looking for the best budget meals close by, searching for kid-friendly restaurants, or seeking out quiet dining spots downtown, this app has got you covered. Simply chat with the app and let it do the work of scouting out the perfect place to satisfy your hunger. With Culinary Scout, finding delicious food has never been easier!
 
@@ -27,3 +28,5 @@ The Culinary Scout app allows you to find tasty eateries based on your preferenc
 4. For a quiet dining experience, you can use a prompt like: "Quiet dining spots downtown." The app will recommend restaurants known for their peaceful ambiance.
 
 Remember, the Culinary Scout app is designed to help you find tasty places to eat, so feel free to customize your prompts based on your preferences and location. Enjoy exploring new eateries with the app!
+
+

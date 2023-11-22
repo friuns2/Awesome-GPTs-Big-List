@@ -1,6 +1,7 @@
+
 [![Threat Modelling](null)](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling)
 
-# [Threat Modelling](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling)
+# Threat Modelling [ChatGPT Plus](https://chat.openai.com/g/g-3XPyoWzn3-threat-modelling) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Threat%20Modelling)
 
 Threat Modelling is your go-to App for conducting thorough threat analysis and review of system designs. Whether you want to describe your system for threat analysis, upload a diagram for threat modelling, identify potential vulnerabilities, or suggest mitigation strategies, this App has got you covered. With access to expert knowledge and a range of tools including DALLE, a browser, and Python, you can ensure the security of your system. The welcome message greets you with a friendly 'Hello!' and helps you kickstart your threat modelling analysis. Stay one step ahead of potential threats with this powerful App.
 
@@ -25,3 +26,5 @@ Threat Modelling is your go-to App for conducting thorough threat analysis and r
 4. **Suggest mitigation strategies for identified threats:** Use this command to ask for suggestions on how to mitigate the threats identified in the system. The ChatGPT App will provide recommendations and strategies to reduce the risks associated with the vulnerabilities.
 
 Note: The Threat Modelling ChatGPT App has access to knowledge and expertise in conducting thorough threat modelling for system design and review. It can provide valuable insights and guidance based on the information provided.
+
+

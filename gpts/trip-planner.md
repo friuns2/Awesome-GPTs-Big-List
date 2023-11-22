@@ -1,6 +1,7 @@
+
 [![Trip Planner](https://files.oaiusercontent.com/file-pqrEorXKtVapunsfuiuUDs7I?se=2123-10-17T10%3A46%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfd623c50-4fad-46aa-80c1-2c07f29fa03c.png&sig=DXFh6K/xkzcW7zOCWyudMvQq9PyBUvkxIP56l9UO7tU%3D)](https://chat.openai.com/g/g-DPoDlMCiT-trip-planner)
 
-# [Trip Planner](https://chat.openai.com/g/g-DPoDlMCiT-trip-planner)
+# Trip Planner [ChatGPT Plus](https://chat.openai.com/g/g-DPoDlMCiT-trip-planner) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Trip%20Planner)
 
 Get ready to plan your dream vacation with Trip Planner! This app is your go-to guide for personalized travel plans. Whether you want to spend a week in Paris, find the best eats in Tokyo, explore a weekend in New York, or discover hidden gems in Rome, Trip Planner has got you covered. With its innovative tools, including a Python module, a DALL·E image generation tool, and a built-in browser, you can easily create detailed itineraries, find recommendations, and explore travel possibilities. Let's plan your trip and make unforgettable memories!
 
@@ -32,3 +33,5 @@ Get ready to plan your dream vacation with Trip Planner! This app is your go-to 
    - Browser: The browser tool allows you to browse the web to gather more information about your travel destination.
 
 Please note that this guide provides an overview of the available commands and prompts for the Trip Planner app. The specific functionality and output may vary based on the implementation and updates made to the app.
+
+

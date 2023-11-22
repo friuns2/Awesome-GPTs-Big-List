@@ -1,6 +1,7 @@
+
 [![Restaurant GPT](https://files.oaiusercontent.com/file-s2f6VsNtJU2rLhCX12XPq2Ql?se=2123-10-17T05%3A02%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da7e75c9e-773f-471f-a1f7-f91c89fa5805.png&sig=WHK9z9bEymyEDxxXp%2Bttb/GfPGEsEu6rF23OmSiuobE%3D)](https://chat.openai.com/g/g-v1EJ7XqUw-restaurant-gpt)
 
-# [Restaurant GPT](https://chat.openai.com/g/g-v1EJ7XqUw-restaurant-gpt)
+# Restaurant GPT [ChatGPT Plus](https://chat.openai.com/g/g-v1EJ7XqUw-restaurant-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Restaurant%20GPT)
 
 Restaurant GPT is your personal Restaurant General Manager powered by AI. This app dives into the data to cook up insights for your restaurant. Wondering what menu updates to recommend in 2024? Or what customer reviews suggest? This app has got you covered! It can even create a training guide for your staff and help you manage reservations. With tools like DALL·E, a browser, and Python, Restaurant GPT provides the AI-powered expertise you need to make your restaurant the best it can be. So let's dive into the data and start cooking up some success!
 
@@ -33,3 +34,5 @@ Example command: "Can you create a training guide for my staff?"
 Example command: "What's the best way to manage reservations?"
 
 Note: The app has access to additional tools such as DALL-E, a browser, and Python, but their specific functionalities and usage are not described in the provided information.
+
+

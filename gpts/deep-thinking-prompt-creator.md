@@ -1,6 +1,7 @@
+
 [![Deep-thinking prompt creator](https://files.oaiusercontent.com/file-1mqokymviQcQJ6HjReaPYLtb?se=2123-10-18T18%3A32%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df9c7890f-7e5c-4fec-aa34-fb9171f8ef93.png&sig=TMnnpL/ghM6pXNr%2BaftlKGLO0/FuHEiLr4oOwIeyfBI%3D)](https://chat.openai.com/g/g-JkzQIcNbI-deep-thinking-prompt-creator)
 
-# [Deep-thinking prompt creator](https://chat.openai.com/g/g-JkzQIcNbI-deep-thinking-prompt-creator)
+# Deep-thinking prompt creator [ChatGPT Plus](https://chat.openai.com/g/g-JkzQIcNbI-deep-thinking-prompt-creator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Deep-thinking%20prompt%20creator)
 
 Get your intellectual gears turning with the Deep-thinking prompt creator! This app is designed to stimulate your mind and prompt deep, thought-provoking conversations. Whether you're exploring space exploration, the philosophy of consciousness, the future of AI, or historical revolutions, this app generates complex prompts that will ignite your curiosity. With access to a browser tool and Dalle for inspiration, the possibilities are endless. Welcome to a world of intellectual exploration, where creativity and knowledge collide!
 
@@ -29,3 +30,5 @@ Get your intellectual gears turning with the Deep-thinking prompt creator! This 
 - Remember to be specific in your prompts to get more focused and relevant results. If you need prompts related to space exploration, ask for prompts specifically about that topic.
 
 - Feel free to experiment with different prompts and variations to discover new and interesting prompts. The AI is here to assist you in your intellectual exploration.
+
+

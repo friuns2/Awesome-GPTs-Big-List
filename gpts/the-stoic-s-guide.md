@@ -1,6 +1,7 @@
+
 [![The Stoic's Guide](https://files.oaiusercontent.com/file-J0F6vXBqjpd7x0qc7jKKpOPh?se=2123-10-17T21%3A55%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dde394103-5190-471a-90f6-680ac4dc62b3.png&sig=OYg5ihw6T7mKFVk9HvJKFZR0BIh7zRRr0mHLtJ78keM%3D)](https://chat.openai.com/g/g-jIhf3YIMw-the-stoic-s-guide)
 
-# [The Stoic's Guide](https://chat.openai.com/g/g-jIhf3YIMw-the-stoic-s-guide)
+# The Stoic's Guide [ChatGPT Plus](https://chat.openai.com/g/g-jIhf3YIMw-the-stoic-s-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=The%20Stoic's%20Guide)
 
 Enhance your understanding of Marcus Aurelius' teachings with The Stoic's Guide. This app simplifies his philosophy into adaptable language, making it accessible to everyone. Explore the wisdom of Stoicism by asking questions and delving into topics like the relationship between Stoicism and modern life, Marcus Aurelius' perspective on facing challenges, and the Stoic view on emotions. With The Stoic's Guide, you'll gain insights into the teachings of one of history's great thinkers. Welcome aboard and let's embark on a journey of wisdom together!
 
@@ -25,3 +26,5 @@ Enhance your understanding of Marcus Aurelius' teachings with The Stoic's Guide.
 4. **Learn about the Stoic view on emotions:** You can ask for an explanation of how Stoicism approaches and understands emotions.
 
 Remember that you can use these prompts to start a conversation and seek information or insights about Stoic teachings.
+
+

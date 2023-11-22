@@ -1,6 +1,7 @@
+
 [![Ennative: 添削付き英会話](https://files.oaiusercontent.com/file-hwTL52mSwtHYZH1Vi5qWlQTh?se=2123-10-20T14%3A17%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DEnnative400.png&sig=xIeLepUWK7HdBPeWoY0gkHynHC3Zm9F60YtySXgfTjQ%3D)](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua)
 
-# [Ennative: 添削付き英会話](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua)
+# Ennative: 添削付き英会話 [ChatGPT Plus](https://chat.openai.com/g/g-w7uyap0Bp-ennative-tian-xue-fu-kiying-hui-hua) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ennative%3A%20%E6%B7%BB%E5%89%8A%E4%BB%98%E3%81%8D%E8%8B%B1%E4%BC%9A%E8%A9%B1)
 
 Ennative: 添削付き英会話 is an app that helps you practice English conversation and receive feedback on your English sentences. Simply talk to the app in English and it will evaluate your sentences and provide feedback. It's like having a conversation partner who can help you improve your English skills. The app welcomes you with a friendly message and offers prompt starters to help you get started. So whether you want to improve your pronunciation, grammar, or overall English fluency, Ennative is here to help!
 
@@ -38,3 +39,5 @@ Example command: "I had a great day today. Can you help me improve my vocabulary
 5. **Evaluation of spoken English:** You can receive feedback on your spoken English by providing a spoken prompt or sentence in English.
 
 Example command: "Nice to meet you! Can you evaluate my spoken English?"
+
+

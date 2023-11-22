@@ -1,6 +1,7 @@
+
 [![クソリプ道場](https://files.oaiusercontent.com/file-8NML9xsNJoeFgDNJlop7Buwy?se=2123-10-17T22%3A02%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddd41ffa8-f159-4264-8352-413b3d83fd4a.png&sig=hEddSkpC3CSdwmllrVJIb9djPCW%2B1Rqi/yoYsG0Hbr4%3D)](https://chat.openai.com/g/g-bYofBfrKr-kusoripudao-chang)
 
-# [クソリプ道場](https://chat.openai.com/g/g-bYofBfrKr-kusoripudao-chang)
+# クソリプ道場 [ChatGPT Plus](https://chat.openai.com/g/g-bYofBfrKr-kusoripudao-chang) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%AF%E3%82%BD%E3%83%AA%E3%83%97%E9%81%93%E5%A0%B4)
 
 Welcome to Kl Reply Dojo! This app is all about simulating witty Twitter-style replies in a fun and engaging dojo setting. Whether you want to improve your social media game or simply enjoy some clever banter, Kl Reply Dojo has got you covered. With prompt starters like 'How to use this app' and 'Today, a cat suddenly jumped into my coffee,' you'll never run out of interesting situations to respond to. Join the dojo and unleash your wit with the help of our advanced AI tools. Get ready to level up your communication skills!
 
@@ -32,3 +33,5 @@ Welcome to Kl Reply Dojo! This app is all about simulating witty Twitter-style r
 - **Browser tool**: The app includes a browser tool that allows for additional functionality or information retrieval.
 
 Please note that the app does not have access to knowledge and is specifically designed to simulate witty Twitter-style replies in a dojo setting.
+
+

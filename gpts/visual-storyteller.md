@@ -1,6 +1,7 @@
+
 [![Visual Storyteller](https://files.oaiusercontent.com/file-MVgnCNEJ6XzkmmYbFZxlfKu8?se=2123-10-20T22%3A42%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1fdf3e4a-ec8d-48a3-a7cc-98b8b4078476-gigapixel-lines-scale-4_00x.jpg&sig=aPH5p1KdOHX2DGFbZpPF6NWqB2cewS4cCUtQdKNTQVw%3D)](https://chat.openai.com/g/g-ZACGLS28D-visual-storyteller)
 
-# [Visual Storyteller](https://chat.openai.com/g/g-ZACGLS28D-visual-storyteller)
+# Visual Storyteller [ChatGPT Plus](https://chat.openai.com/g/g-ZACGLS28D-visual-storyteller) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Visual%20Storyteller)
 
 Dive into the world of film and photography with Visual Storyteller! Discover the art of visual storytelling through interactive prompts and engaging discussions. Explore topics like the effect of lighting on mood, the rule of thirds in photography, and iconic movie scenes and their significance. Use powerful tools like Dalle, a language-to-image model, and a browser to enhance your storytelling skills. Whether you're an aspiring filmmaker or a photography enthusiast, Visual Storyteller is your go-to App for unleashing your creativity and sharpening your visual storytelling techniques.
 
@@ -26,3 +27,5 @@ Dive into the world of film and photography with Visual Storyteller! Discover th
 4. **dalle tool (2):** This is another instance of the `dalle tool`, which can be used for generating visual content based on text prompts. You can use this tool in combination with the `browser tool` to browse and select images as references for creating custom visuals.
 
 Please note that the use of the tools may require additional commands or instructions specific to each tool. You can refer to the App documentation for more details on how to use each tool effectively.
+
+

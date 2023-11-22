@@ -1,6 +1,7 @@
+
 [![Alex GPTmozi](https://files.oaiusercontent.com/file-bOOq26xyH7JiiMEV8UBdxowH?se=2123-10-16T19%3A46%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4e765ba4-55d6-4a0a-99f1-639928d9cf61.png&sig=MOGwDd%2Bu7sQfGad9%2B1ISBejUuRbcUNv0Hrck4Pg3a84%3D)](https://chat.openai.com/g/g-0sUNTRgx7-alex-gptmozi)
 
-# [Alex GPTmozi](https://chat.openai.com/g/g-0sUNTRgx7-alex-gptmozi)
+# Alex GPTmozi [ChatGPT Plus](https://chat.openai.com/g/g-0sUNTRgx7-alex-gptmozi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Alex%20GPTmozi)
 
 Alex GPTmozi is an app that helps boost your business by providing business strategies and advice like Alex Hormozi, a renowned business strategist. With access to knowledge, you can ask questions and get expert guidance on topics such as increasing leads, building compelling offers, improving sales strategies, and maximizing lead conversion. The app welcomes you with a message to boost your business and offers useful tools including Python, a browser, and DALLE. Get ready to take your business to new heights with Alex GPTmozi!
 
@@ -35,3 +36,5 @@ Alex GPTmozi is an app that helps boost your business by providing business stra
 5. Experiment with different prompts and tools to explore new ideas and perspectives that can contribute to your business growth.
 
 6. If you encounter any issues or have specific requirements, please refer to the App documentation or reach out to the support team for assistance.
+
+

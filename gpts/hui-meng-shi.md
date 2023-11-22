@@ -1,6 +1,7 @@
+
 [![绘梦师](https://files.oaiusercontent.com/file-BgKnWYxlYl6yyJAFs2MmN9Cx?se=2123-10-17T04%3A50%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7575250c-c893-40e5-aec8-0312b6ddf3d1.png&sig=9qEc2xhDkKE/9%2BkLvr9ifzP69dIiA12lTgdC3cl4MGM%3D)](https://chat.openai.com/g/g-5sdN1S0gM-hui-meng-shi)
 
-# [绘梦师](https://chat.openai.com/g/g-5sdN1S0gM-hui-meng-shi)
+# 绘梦师 [ChatGPT Plus](https://chat.openai.com/g/g-5sdN1S0gM-hui-meng-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%BB%98%E6%A2%A6%E5%B8%88)
 
 绘梦师 is an interactive App that allows you to craft engaging picture book stories. Whether you want to create a heartwarming tale about a lost kitten or an epic battle between a hero and a monster, this App has got you covered. With a variety of prompt starters, you can unleash your imagination and let the story unfold. The App provides tools like a browser, DALLE, and Python integration to enhance your storytelling experience. So, grab your creative hat and get ready to embark on a storytelling adventure with 绘梦师!
 
@@ -23,3 +24,5 @@
 5. **Add illustrations:** Use the command "Add illustrations" to include visual elements to the story.
 
 Remember to provide clear and concise prompts to get the desired story. Enjoy creating engaging picture book stories with the "绘梦师" app!
+
+

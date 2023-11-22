@@ -1,6 +1,7 @@
+
 [![Sakura Guide](https://files.oaiusercontent.com/file-5LQlUYlaumbjAmh9emBr8lt5?se=2123-10-16T14%3A35%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4312d6db-248c-4b69-8f2c-ea6b6b4ccc6f.png&sig=JxTLxSda%2Bde9Onp2RI%2BVbn0gvvV0didBH0GgH7cSH5M%3D)](https://chat.openai.com/g/g-kfjrzkrlT-sakura-guide)
 
-# [Sakura Guide](https://chat.openai.com/g/g-kfjrzkrlT-sakura-guide)
+# Sakura Guide [ChatGPT Plus](https://chat.openai.com/g/g-kfjrzkrlT-sakura-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sakura%20Guide)
 
 Sakura Guide is your personalized Japan trip curator! This app helps you plan a dream trip to Japan like a local. Whether you want to explore cities aside from Tokyo, Kyoto, and Osaka, or visit Okinawa, Sakura Guide has got you covered. Just tell the app what you're excited about, and it will tailor your itinerary accordingly. With the help of Python and Dalle tools, Sakura Guide gives you expert recommendations and insider tips for an authentic Japanese experience. Get ready to immerse yourself in the beauty and culture of Japan with Sakura Guide!
 
@@ -25,3 +26,5 @@ Sakura Guide is your personalized Japan trip curator! This app helps you plan a 
 4. **Travel like a local**: Use this command if you want to experience Japan from a local's perspective. Sakura Guide will provide recommendations on off-the-beaten-path attractions, hidden gems, and local experiences that will allow you to immerse yourself in the culture and lifestyle of Japan.
 
 Please note that these prompts and commands are just examples, and you can interact with Sakura Guide using natural language to seek assistance with planning your dream trip to Japan.
+
+

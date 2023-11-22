@@ -1,6 +1,7 @@
+
 [![擬人化 AI](https://files.oaiusercontent.com/file-u2gU3d7NLjMthkQWA3dMRbUo?se=2123-10-20T04%3A45%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D49f62477-5405-493d-9e3a-31e32339a5dc.png&sig=5NS0%2BGnluNzqDBfrGs689bpdH8L0aYwZUeHsTf1T2MI%3D)](https://chat.openai.com/g/g-JzkBX7qd8-ni-ren-hua-ai)
 
-# [擬人化 AI](https://chat.openai.com/g/g-JzkBX7qd8-ni-ren-hua-ai)
+# 擬人化 AI [ChatGPT Plus](https://chat.openai.com/g/g-JzkBX7qd8-ni-ren-hua-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%93%AC%E4%BA%BA%E5%8C%96%20AI)
 
 Create anime-style DALL-E images with the help of this app! Design and generate original anthropomorphic characters based on randomly chosen themes, such as mythical creatures, water, or cats. Let your imagination run wild and bring these characters to life in unique images. Get creative and explore the world of anime art with the Anime-style DALL-E Image Creator app!
 
@@ -22,3 +23,5 @@ Create anime-style DALL-E images with the help of this app! Design and generate 
 4. The app supports various tools, specifically the DALL-E image creator tool.
 5. You can use the available prompt starters or come up with your own prompt to guide the character design process.
 6. The app does not have access to extensive knowledge and is designed specifically for generating anime-style character images.
+
+

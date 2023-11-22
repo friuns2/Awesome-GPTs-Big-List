@@ -1,6 +1,7 @@
+
 [![3D GPT](https://files.oaiusercontent.com/file-L9jExi1SQjvIKHrJWoEuA1Dv?se=2123-10-18T09%3A41%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D21cc643f-54d5-4cad-92df-0e342a062ee8.png&sig=CF5eZvhKhq3cZXy04WhjhEOC%2BNNIHBkV4XRZ7xomeDY%3D)](https://chat.openai.com/g/g-9tUvwy2fi-3d-gpt)
 
-# [3D GPT](https://chat.openai.com/g/g-9tUvwy2fi-3d-gpt)
+# 3D GPT [ChatGPT Plus](https://chat.openai.com/g/g-9tUvwy2fi-3d-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=3D%20GPT)
 
 Welcome to 3D GPT, where your creative ideas come to life in stunning 3D digital art! Whether you want to visualize a fantasy landscape, generate a futuristic city, transform abstract concepts, or bring historical events to life in 3D, this app has got you covered. With a powerful combination of browser and dalle tools, you'll have everything you need to create breathtaking 3D models. Embrace your artistic side and let 3D GPT amaze you with its endless possibilities!
 
@@ -26,3 +27,5 @@ Welcome to 3D GPT, where your creative ideas come to life in stunning 3D digital
 4. **Visualize a historical event in 3D:** If you want to see a historical event in a visual format, you can use the prompt "Visualize this historical event in 3D". The app will use your description to create a 3D representation of the event, allowing you to explore it from different angles.
 
 Please note that the available tools may vary depending on the specific implementation of the 3D GPT App.
+
+

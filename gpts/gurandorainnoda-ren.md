@@ -1,6 +1,7 @@
+
 [![グランドラインの達人](null)](https://chat.openai.com/g/g-gG8rY9DTF-gurandorainnoda-ren)
 
-# [グランドラインの達人](https://chat.openai.com/g/g-gG8rY9DTF-gurandorainnoda-ren)
+# グランドラインの達人 [ChatGPT Plus](https://chat.openai.com/g/g-gG8rY9DTF-gurandorainnoda-ren) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%89%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E9%81%94%E4%BA%BA)
 
 Become a true expert in the world of One Piece manga with グランドラインの達人! This app is perfect for fans who want to dive deep into the series and explore its most iconic moments. With bilingual support in Japanese and English, you can discuss and analyze the best quotes from One Piece. Just ask the app for the top lines and get ready for some epic dialogue. Whether you're a long-time fan or just starting your journey, グランドラインの達人 is your ultimate companion in the world of One Piece!
 
@@ -23,3 +24,5 @@ Become a true expert in the world of One Piece manga with グランドライン�
 2. **dalle**: This tool utilizes the powerful DALL-E model to generate images based on given prompts. You can use it to create unique and creative artwork.
 
 3. **browser**: This tool opens a browser interface within the ChatGPT App, enabling you to browse the web. It can be used to search for information, access websites, or view specific content.
+
+

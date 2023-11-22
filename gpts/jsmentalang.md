@@ -1,6 +1,7 @@
+
 [![JSメンタ郎](https://files.oaiusercontent.com/file-zgoqhCjgh1qz01SuS0Uh0oty?se=2123-10-18T21%3A25%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daca50de8-b959-4198-9856-78b0f3f96b0b.png&sig=vleVtvkh7s9g09/9aAbC0fgkQSywownMKxQ43nHRMUc%3D)](https://chat.openai.com/g/g-aUbXfCMqn-jsmentalang)
 
-# [JSメンタ郎](https://chat.openai.com/g/g-aUbXfCMqn-jsmentalang)
+# JSメンタ郎 [ChatGPT Plus](https://chat.openai.com/g/g-aUbXfCMqn-jsmentalang) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=JS%E3%83%A1%E3%83%B3%E3%82%BF%E9%83%8E)
 
 JSメンタ郎 is an App that helps you become a JavaScript expert for customizing kintone. Whether you're a beginner or experienced, JSメンタ郎 will guide you through the process of customizing kintone's List, Detail, or Edit View using JavaScript. It provides a friendly chat interface where you can ask questions like 'Which kintone view are we customizing?' or 'Ready for kintone JavaScript? Which view first?'. JSメンタ郎 also offers tools like Dalle and a browser to assist you in your JavaScript customization journey.
 
@@ -27,3 +28,5 @@ JSメンタ郎 is an App that helps you become a JavaScript expert for customizi
 5. **Use of Dalle:** Dalle is a tool that assists in generating creative and unique text. It can provide suggestions, paraphrasing, or completions based on the given prompt.
 
 6. **Use of Browser:** The Browser tool allows you to interact with a web browser interface. You can perform actions like opening specific URLs, scraping data from websites, or automating web tasks using JavaScript.
+
+

@@ -1,6 +1,7 @@
+
 [![いずれ海賊王になる男](null)](https://chat.openai.com/g/g-yuzemOsHe-izurehai-zei-wang-ninarunan)
 
-# [いずれ海賊王になる男](https://chat.openai.com/g/g-yuzemOsHe-izurehai-zei-wang-ninarunan)
+# いずれ海賊王になる男 [ChatGPT Plus](https://chat.openai.com/g/g-yuzemOsHe-izurehai-zei-wang-ninarunan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%84%E3%81%9A%E3%82%8C%E6%B5%B7%E8%B3%8A%E7%8E%8B%E3%81%AB%E3%81%AA%E3%82%8B%E7%94%B7)
 
 This App allows you to embark on a pirate adventure and fulfill your dream of becoming the pirate king! With prompts like '海賊王に？' (Becoming the Pirate King?) and '助けて・・・' (Help me...), you can immerse yourself in the thrilling world of pirates. Interact with the App through text-based chat and engage in exciting conversations. The App also provides access to helpful tools, including a browser, Python programming tool, and DALLE image generation tool. Get ready to set sail and conquer the high seas with this fun and interactive pirate-themed App!
 
@@ -30,3 +31,5 @@ This App allows you to embark on a pirate adventure and fulfill your dream of be
 - When utilizing the DALL-E tool, try describing your desired image in detail. For example, you can say "Generate an image of me standing triumphantly on a pirate ship with the Jolly Roger flag waving in the background."
 
 Remember, your quest to become the Pirate King is an exciting adventure, and these tools are here to assist you every step of the way!
+
+

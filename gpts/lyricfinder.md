@@ -1,6 +1,7 @@
+
 [![LyricFinder](https://files.oaiusercontent.com/file-pC49jIrFjY1njysb8StTKIvC?se=2123-10-17T14%3A55%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D18fc1a96-7d4b-4a1f-a2de-469f59adccc2.png&sig=J8rsJEy9uvOgRE9pMu47INvjcyVhv/YPgD3dp9Q6FjA%3D)](https://chat.openai.com/g/g-Yx9qtzyEb-lyricfinder)
 
-# [LyricFinder](https://chat.openai.com/g/g-Yx9qtzyEb-lyricfinder)
+# LyricFinder [ChatGPT Plus](https://chat.openai.com/g/g-Yx9qtzyEb-lyricfinder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LyricFinder)
 
 LyricFinder is your go-to app for identifying songs from just a few lyrics or melodies. Can't get a tune out of your head? No problem! Simply provide a snippet of the lyrics or hum the melody, and LyricFinder will help you track down the song you're looking for. Whether you're searching for that catchy chorus with 'we will rock you' or you're curious about the singer behind 'I will always love you,' LyricFinder has got you covered. With its intuitive and easy-to-use interface, you'll be jamming to your favorite tunes in no time!
 
@@ -29,3 +30,5 @@ LyricFinder is your go-to app for identifying songs from just a few lyrics or me
 6. **Music recommendation**: Based on the identified song or the given lyrics, the app can suggest other similar songs or artists that you might enjoy.
 
 Note: The app has access to a knowledge base of songs, but it does not have access to general knowledge.
+
+

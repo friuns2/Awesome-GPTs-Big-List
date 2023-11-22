@@ -1,6 +1,7 @@
+
 [![Science Assistant](https://files.oaiusercontent.com/file-7PiNhK5LcIxGLDjJOgOKDw2o?se=2123-10-18T04%3A03%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd565d0cb-b638-451f-8079-537414c43dea.png&sig=aKLD%2B%2BKC9EuvEHg3IfTLKkXhIuAy9DJXtowSdzSshvM%3D)](https://chat.openai.com/g/g-TAlmeHvaC-science-assistant)
 
-# [Science Assistant](https://chat.openai.com/g/g-TAlmeHvaC-science-assistant)
+# Science Assistant [ChatGPT Plus](https://chat.openai.com/g/g-TAlmeHvaC-science-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Science%20Assistant)
 
 Science Assistant is your go-to expert for all things science! Whether you need an explanation of complex concepts or a summary of groundbreaking research, this app has got you covered. With a deep knowledge of various scientific disciplines, Science Assistant can tackle topics like black hole thermodynamics, the Higgs Boson, dark matter, and astrophysics. No need to spend hours researching, just ask your burning scientific questions and get clear and concise answers. Welcome to the physics research hub, where knowledge meets convenience!
 
@@ -28,3 +29,5 @@ The Science Assistant ChatGPT App has two tools available:
 2. Browser: This tool allows the app to access web resources, potentially enabling it to provide relevant information from online sources.
 
 Please note that the Science Assistant does not have access to real-time knowledge and cannot browse the web without the use of the Browser tool.
+
+

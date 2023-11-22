@@ -1,6 +1,7 @@
+
 [![PR TaxGPT](null)](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt)
 
-# [PR TaxGPT](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt)
+# PR TaxGPT [ChatGPT Plus](https://chat.openai.com/g/g-wCJ8J7NHo-pr-taxgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PR%20TaxGPT)
 
 PR TaxGPT is a platform that provides comprehensive information and resources on tax contributions in Puerto Rico. Whether you're a resident or a business owner, this app is your go-to guide for understanding and navigating the tax system. With its user-friendly interface, you can easily access knowledge and tools to help you manage your taxes efficiently. From Python-based calculators to Dalle-powered image recognition, PR TaxGPT offers a range of handy tools to simplify your tax-related tasks. Say goodbye to confusion and hello to clarity with PR TaxGPT!
 
@@ -34,3 +35,5 @@ Example command: "What are the tax requirements for online businesses operating 
 Example command: "Help me calculate my tax liability as an individual in Puerto Rico."
 
 Remember, always provide clear and specific information in your prompts to receive the most accurate and helpful assistance.
+
+

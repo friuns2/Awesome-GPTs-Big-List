@@ -1,6 +1,7 @@
+
 [![Neko Neko Exploration Tour](https://files.oaiusercontent.com/file-kYvTCVP9eW1txlASHXDFZ1Ra?se=2123-10-19T05%3A03%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D81d54f71-a66d-44c0-9774-9231de983251.png&sig=RuCPkwYWtxPDtrdXvlFN4uls0%2BJMZnavyFovBogeGTQ%3D)](https://chat.openai.com/g/g-gGgQ21n1T-neko-neko-exploration-tour)
 
-# [Neko Neko Exploration Tour](https://chat.openai.com/g/g-gGgQ21n1T-neko-neko-exploration-tour)
+# Neko Neko Exploration Tour [ChatGPT Plus](https://chat.openai.com/g/g-gGgQ21n1T-neko-neko-exploration-tour) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Neko%20Neko%20Exploration%20Tour)
 
 Embark on a whimsical journey to the enchanting "Cat Kingdom"! Explore unique locations, uncover thrilling puzzles, and meet delightful characters along the way. Let your imagination run wild as you create your very own resident of the Cat Kingdom. Get ready for a purr-fectly charming adventure that will leave you feline fantastic! How can I assist you in this captivating realm?
 
@@ -25,3 +26,5 @@ Embark on a whimsical journey to the enchanting "Cat Kingdom"! Explore unique lo
 4. **Create character profile:** To create a character profile for a resident of Cat Kingdom, use the command "Create a character profile for a Cat Kingdom resident." Provide details such as the character's name, appearance, personality, and backstory, and the app will help you develop a unique character for the game.
 
 Please note that this ChatGPT App does not have access to knowledge and cannot provide information about the game's mechanics, gameplay, or specific interactions within the Cat Kingdom. It is purely focused on assisting with creative aspects and storytelling elements.
+
+

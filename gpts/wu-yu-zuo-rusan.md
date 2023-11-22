@@ -1,6 +1,7 @@
+
 [![物語作るさん](https://files.oaiusercontent.com/file-gVhhsFg7M1y5N6H0oUZ5G0K1?se=2123-10-18T07%3A23%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252016.22.35%2520-%2520A%2520beautiful%2520anime-style%2520girl%252C%2520wearing%2520a%2520traditional%2520kimono%2520and%2520adorned%2520with%2520a%2520kanzashi%2520hair%2520ornament%252C%2520is%2520deeply%2520engaged%2520in%2520writing.%2520The%2520scene%2520captures.png&sig=KkSp0BTmUaA0HGDV0xv7Uzgv1VrFDl5jGw/GPPPcU28%3D)](https://chat.openai.com/g/g-hD1NFRBpp-wu-yu-zuo-rusan)
 
-# [物語作るさん](https://chat.openai.com/g/g-hD1NFRBpp-wu-yu-zuo-rusan)
+# 物語作るさん [ChatGPT Plus](https://chat.openai.com/g/g-hD1NFRBpp-wu-yu-zuo-rusan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%89%A9%E8%AA%9E%E4%BD%9C%E3%82%8B%E3%81%95%E3%82%93)
 
 物語作るさん is an interactive storytelling app that allows you to embark on your own creative journey. With a simple and user-friendly interface, this app lets you unleash your imagination and create unique stories. Whether you're a beginner or a seasoned writer, this app provides a platform for you to craft captivating narratives. Start with a prompt or come up with your own story idea, and let the app's tools assist you in the process. With features like Python scripting, browsing, and Dalle integration, you'll have everything you need to bring your stories to life. So, what are you waiting for? Let's begin your story!
 
@@ -29,3 +30,5 @@
 5. `Explore different genres`: Feel free to experiment with different genres, themes, and styles by varying your prompts. The more specific and detailed your prompt, the more unique and tailored the generated story will be.
 
 Remember, the goal of the ChatGPT App is to assist you in crafting creative and original stories. Have fun exploring different narratives and let your imagination take flight!
+
+

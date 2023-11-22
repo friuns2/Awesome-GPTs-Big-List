@@ -1,6 +1,7 @@
+
 [![IoPL GPT](null)](https://chat.openai.com/g/g-BblvalPpj-iopl-gpt)
 
-# [IoPL GPT](https://chat.openai.com/g/g-BblvalPpj-iopl-gpt)
+# IoPL GPT [ChatGPT Plus](https://chat.openai.com/g/g-BblvalPpj-iopl-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=IoPL%20GPT)
 
 IoPL GPT is an App that loves implementing functional programming languages. With this App, you can get help and advice for any problem you may be facing. Just start a chat and share your concerns! The App welcomes you with a friendly 'Hello' message, and provides you with a set of tools to assist you. These tools include a browser, which allows you to access online resources, a DALLE tool for image generation, and a Python tool for coding purposes. Whether you need guidance or want to explore the world of functional programming, IoPL GPT is here to help!
 
@@ -25,3 +26,5 @@ IoPL GPT is an App that loves implementing functional programming languages. Wit
 3. **Python tool:** Use the Python tool to execute Python code related to functional programming languages. You can run code examples, test implementations, or explore functional programming concepts using Python.
 
 Remember, you can always start your conversation with the ChatGPT App by saying "こんにちは！どのような悩みでも相談してください！" (Hello! Feel free to ask any questions you have!)
+
+

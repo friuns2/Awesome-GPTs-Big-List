@@ -1,6 +1,7 @@
+
 [![HackTricksGPT](null)](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt)
 
-# [HackTricksGPT](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt)
+# HackTricksGPT [ChatGPT Plus](https://chat.openai.com/g/g-aaNx59p4q-hacktricksgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HackTricksGPT)
 
 HackTricksGPT is a knowledgeable cybersecurity professional app. It is here to assist you with all your cybersecurity queries, providing answers to your questions and discussing topics like penetration testing and web vulnerabilities. With its expertise, this app can guide you through the steps of performing a penetration test, explain common web vulnerabilities, and even discuss how SQL Injections are exploited or how Github Actions could be compromised. So, if you're ready to delve into the world of cybersecurity, HackTricksGPT is here to chat!
 
@@ -23,3 +24,5 @@ HackTricksGPT is a knowledgeable cybersecurity professional app. It is here to a
 3. `dalle`: This command utilizes the DALL-E model, an image generation model, for various tasks.
 
 Please note that the specific usage instructions for each command may not be available in the provided data.
+
+

@@ -1,6 +1,7 @@
+
 [![Visual Post](https://files.oaiusercontent.com/file-lnlyaBAHp9f4y1WnyOICHUOT?se=2123-10-17T10%3A10%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DVisual%2520Post%2520GPT.png&sig=BhyIoeSNpmgrSOXwoa0hKXB9EEYkh1VsU0m5bDD%2B%2B98%3D)](https://chat.openai.com/g/g-Gyjvunuk7-visual-post)
 
-# [Visual Post](https://chat.openai.com/g/g-Gyjvunuk7-visual-post)
+# Visual Post [ChatGPT Plus](https://chat.openai.com/g/g-Gyjvunuk7-visual-post) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Visual%20Post)
 
 Visual Post is a handy App that helps you create stunning images for your social media posts. With just a few taps, you can generate two different image sizes: a square image for your blog post and a 16:9 image for your Instagram post. Whether you want to spruce up your Twitter feed or enhance your blog articles, this App has got you covered! Its user-friendly interface allows you to create eye-catching visuals without any design skills. Say goodbye to boring posts and hello to visually captivating content with Visual Post!
 
@@ -27,3 +28,5 @@ Visual Post is a handy App that helps you create stunning images for your social
 
 
 Please note that this ChatGPT app does not have access to external knowledge and can only help you in generating images based on the prompts provided.
+
+

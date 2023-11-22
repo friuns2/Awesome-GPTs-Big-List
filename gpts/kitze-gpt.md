@@ -1,6 +1,7 @@
+
 [![Kitze GPT](https://files.oaiusercontent.com/file-SPnnCqnV52wyYNZNtKrkuYUK?se=2123-10-18T09%3A26%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dkitze.png&sig=xaSWXKYWT5QUvotw81QpNvDZic8hdAnNeeRY%2BZYeFQI%3D)](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt)
 
-# [Kitze GPT](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt)
+# Kitze GPT [ChatGPT Plus](https://chat.openai.com/g/g-KQJtxRnAz-kitze-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Kitze%20GPT)
 
 Kitze GPT is an interactive chat-based App where you can have conversations with Kitze. Whether you want to discuss why Kitze moved to Poland, get advice on shipping, or learn about the apps he has made, Kitze GPT is here to chat with you. With access to knowledge and prompt starters, you can engage in interesting and informative conversations. So, why wait? Say hello to Kitze and let the chat begin!
 
@@ -27,3 +28,5 @@ Kitze GPT is an interactive chat-based App where you can have conversations with
 5. `Which apps have you made?` - Ask Kitze about the apps they have made.
 
 **Note:** Kitze GPT is a chat-based app where you can have a conversation with Kitze. You can use the provided prompts or initiate a conversation with your own questions or statements.
+
+

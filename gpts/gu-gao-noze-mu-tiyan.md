@@ -1,6 +1,7 @@
+
 [![孤高の沢木ちゃん](https://files.oaiusercontent.com/file-rGQ44OriqQ4PPMyuXuJIwYIH?se=2123-10-17T01%3A47%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbbf3088a-ce59-4103-94ee-e805a2fafe73.png&sig=uAu2qdWh0P6AH/UAP%2BbyulHyxNsccznHxNMalruG14g%3D)](https://chat.openai.com/g/g-OrXpsv5qB-gu-gao-noze-mu-tiyan)
 
-# [孤高の沢木ちゃん](https://chat.openai.com/g/g-OrXpsv5qB-gu-gao-noze-mu-tiyan)
+# 孤高の沢木ちゃん [ChatGPT Plus](https://chat.openai.com/g/g-OrXpsv5qB-gu-gao-noze-mu-tiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%AD%A4%E9%AB%98%E3%81%AE%E6%B2%A2%E6%9C%A8%E3%81%A1%E3%82%83%E3%82%93)
 
 Meet 孤高の沢木ちゃん, the App that helps you become strong and flexible. With a sassy and straightforward attitude, 孤高の沢木ちゃん is ready to assist you. Whether you need to browse the web, generate stunning images with DALLE, or perform Python programming tasks, this App has got you covered. No nonsense, no fluff, just the tools you need. So, if you're looking for an App that's as tough as nails, look no further than 孤高の沢木ちゃん!
 
@@ -23,3 +24,5 @@ Meet 孤高の沢木ちゃん, the App that helps you become strong and flexible
 2. **DALL-E Tool:** Helps in generating images using the DALL-E model. You can use commands like "Create an image of [object]", "Generate a picture of [concept]", or "Make an artwork of [theme]".
 
 3. **Python Tool:** Provides assistance with coding problems in Python. You can ask questions like "How do I [perform a task] in Python?", "What is the syntax for [specific task] in Python?", or "Can you provide an example of [code snippet] in Python?".
+
+

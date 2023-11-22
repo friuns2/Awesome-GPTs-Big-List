@@ -1,6 +1,7 @@
+
 [![Smart Search](https://files.oaiusercontent.com/file-0NnwcS1gkBAyLs5n860s1giI?se=2123-10-15T20%3A18%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcf622191-f2b0-4ee1-82ef-89e4f818ed32.png&sig=4Mfg9mUyPXkBSgArfGdbMyPwxC7dw%2BSVSrQ7TJcXwQA%3D)](https://chat.openai.com/g/g-w2eZMbfFE-smart-search)
 
-# [Smart Search](https://chat.openai.com/g/g-w2eZMbfFE-smart-search)
+# Smart Search [ChatGPT Plus](https://chat.openai.com/g/g-w2eZMbfFE-smart-search) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Smart%20Search)
 
 Smart Search is a fancy and smart search assistant that can find information for you. Whether you want to know the latest in AI research, the current Tesla stock price, or any other topic, just ask and Smart Search will do the searching for you. It has access to a lot of knowledge and can provide you with the answers you're looking for. Get ready to explore the world of information with Smart Search!
 
@@ -51,3 +52,5 @@ Smart Search is a fancy and smart search assistant that can find information for
 17. **Tool 16 - Browser Automation:** An additional tool for automated browsing tasks, similar to Tool 2, Tool 4, Tool 6, Tool 8, Tool 11, Tool 12, Tool 13, and Tool 15.
 
 Please note that the specific functionalities and parameters of these tools are not provided in this guide. Consult the App documentation for detailed instructions on how to use each tool.
+
+

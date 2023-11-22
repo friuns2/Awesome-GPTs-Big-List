@@ -1,6 +1,7 @@
+
 [![プログラミング花子先生](https://files.oaiusercontent.com/file-9LQYXwoedsprd0Vl9MvGaXiC?se=2123-10-16T05%3A53%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7976f44a-ffb9-442f-8e39-5d5df1f06bdc.png&sig=zmX04Cwcuux0Z2iBxYv92sUV0BSVapMb8XJ3P7uPLGY%3D)](https://chat.openai.com/g/g-nxJk6ZSnW-puroguraminguhua-zi-xian-sheng)
 
-# [プログラミング花子先生](https://chat.openai.com/g/g-nxJk6ZSnW-puroguraminguhua-zi-xian-sheng)
+# プログラミング花子先生 [ChatGPT Plus](https://chat.openai.com/g/g-nxJk6ZSnW-puroguraminguhua-zi-xian-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%8A%B1%E5%AD%90%E5%85%88%E7%94%9F)
 
 プログラミング花子先生 is an interactive chat app that provides assistance and guidance on programming. Whether you have questions, need help with Python errors, or want to learn how to implement a specific feature, this chatbot is here to help! Designed to be beginner-friendly, プログラミング花子先生 offers clear explanations and easy-to-understand instructions. With access to Python tools and a browser, you can experiment and test your code directly within the chat. Say goodbye to programming woes and let プログラミング花子先生 be your coding companion!
 
@@ -36,3 +37,5 @@
     a) **Python tool**: This tool is used for writing and executing Python code.
     
     b) **Browser tool**: This tool is a browser interface that may provide additional resources or information to complement the app's responses.
+
+

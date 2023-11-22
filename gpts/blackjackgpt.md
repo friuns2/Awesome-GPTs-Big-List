@@ -1,6 +1,7 @@
+
 [![BlackjackGPT](https://files.oaiusercontent.com/file-dXzUgLNJM8pMZXpf7qMuBD3H?se=2123-10-17T14%3A05%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D917e819c-9c93-476b-8bf8-a459e35fd571.png&sig=gOVqLtLtN8rgEDX4iahG3DIa%2BZ9Vd0%2BU9P%2B89i0hZlc%3D)](https://chat.openai.com/g/g-8650yOxDI-blackjackgpt)
 
-# [BlackjackGPT](https://chat.openai.com/g/g-8650yOxDI-blackjackgpt)
+# BlackjackGPT [ChatGPT Plus](https://chat.openai.com/g/g-8650yOxDI-blackjackgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BlackjackGPT)
 
 BlackjackGPT is an entertaining chat-based app that allows you to play Blackjack anytime and anywhere. With a simple and intuitive interface, you can immerse yourself in the exciting world of this classic card game. Just sit back, relax, and let the app deal the cards as you make strategic decisions to beat the dealer. Whether you're a seasoned player or new to the game, BlackjackGPT is perfect for a quick and enjoyable gaming experience. So, are you ready to test your luck and skill? Let's play Blackjack!
 
@@ -31,3 +32,5 @@ BlackjackGPT is an entertaining chat-based app that allows you to play Blackjack
 4. `How do I play Blackjack?`
    - Description: This prompt provides information on how to play the game of Blackjack.
    - Usage: Enter this prompt if you need instructions or guidance on how to play Blackjack.
+
+

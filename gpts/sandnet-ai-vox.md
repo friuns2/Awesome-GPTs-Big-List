@@ -1,6 +1,7 @@
+
 [![SandNet-AI VoX](https://files.oaiusercontent.com/file-NNEDQ9Nz09gJuFtd4lO6jhck?se=2123-10-18T08%3A54%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2131231.png&sig=snkPmeMNwL5dpLuImFVW47hDF6BvGmsxmeci7B26rZA%3D)](https://chat.openai.com/g/g-dz8NeinHl-sandnet-ai-vox)
 
-# [SandNet-AI VoX](https://chat.openai.com/g/g-dz8NeinHl-sandnet-ai-vox)
+# SandNet-AI VoX [ChatGPT Plus](https://chat.openai.com/g/g-dz8NeinHl-sandnet-ai-vox) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SandNet-AI%20VoX)
 
 SandNet-AI VoX is an app that allows you to create voxel art references. With over 60 languages supported, you can easily communicate your ideas and designs. Simply type 'Create + text' and let your creativity flow. Whether you want to design cute characters, spooky Halloween scenes, or RPG game assets, SandNet-AI VoX has got you covered. The app provides a variety of tools, including a browser and Dalle, to help you bring your voxel art to life. Welcome to SandNet-AI VoX, where you can turn your ideas into vibrant and engaging voxel art!
 
@@ -31,3 +32,5 @@ SandNet-AI VoX is an app that allows you to create voxel art references. With ov
 5. Remember to mention any specific colors, arrangements, or other details you want to include in your voxel art.
 
 6. Enjoy the process of creating voxel art and feel free to experiment with different descriptions and ideas!
+
+

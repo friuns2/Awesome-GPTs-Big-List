@@ -1,6 +1,7 @@
+
 [![shownotes](https://files.oaiusercontent.com/file-CJjjaiaA6fViKcdvaMy5Ez2G?se=2123-10-14T22%3A14%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-shownotes.jpeg&sig=hhnrQ%2B1YBzr47B3W1EBuDokMfEflzKYyXDkGhTP4p7M%3D)](https://chat.openai.com/g/g-gNH4K4Egg-shownotes)
 
-# [shownotes](https://chat.openai.com/g/g-gNH4K4Egg-shownotes)
+# shownotes [ChatGPT Plus](https://chat.openai.com/g/g-gNH4K4Egg-shownotes) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=shownotes)
 
 Need podcast transcripts or audio transcribed? Showtimes is here to help! With Showtimes, you can easily transcribe and summarize audio from podcasts. You can search for podcast transcripts, transcribe specific audio links, summarize podcast episodes, and even search YouTube for podcasts. Showtimes uses the Shownotes plugin to extract podcast transcripts and provides you with a link where the transcript will appear. It may take a few minutes, but don't worry, Showtimes will notify you via email when it's ready. Get ready to dive into the world of podcasts with Showtimes!
 
@@ -23,3 +24,5 @@ Need podcast transcripts or audio transcribed? Showtimes is here to help! With S
 | `SearchController_findVideos` | This command allows the AI to search YouTube for podcasts matching the provided show name. It returns an array of 3 video IDs. |
 | `CaptionController_findTranscript` | This command extracts the transcript of a YouTube video using the provided video ID. The transcript is returned in two parts: chunk1 and chunk2. The user is informed that a summary has also been sent to their email inbox. |
 | `AudioController_findTranscript` | This command allows the AI to search shownotes.io with the provided show name and return the transcript. The transcript is returned as a JSON object. |
+
+

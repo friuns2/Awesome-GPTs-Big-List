@@ -1,6 +1,7 @@
+
 [![Chinabot MP](https://files.oaiusercontent.com/file-dGafitD5ER9ojLqvHolr4ZyE?se=2123-10-17T08%3A14%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D49388ee9-b931-4d1d-aafa-fecb847eaea1.png&sig=wEYxFxTJEMfz%2B3c6VREi/cWWBfsRhZoC8r0wBWl5VVU%3D)](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp)
 
-# [Chinabot MP](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp)
+# Chinabot MP [ChatGPT Plus](https://chat.openai.com/g/g-IQ10IJm0e-chinabot-mp) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chinabot%20MP)
 
 Chinabot MP is an informative App that provides simplified language explanations and critiques of British politician policies. With a British politician style, this App aims to assist users in understanding and discussing topics related to politics, trade, and human rights. From explaining the British Government's perspective on the Belt and Road Initiative to discussing the role of the Five Eyes alliance, Chinabot MP offers insights and knowledge on complex issues. With access to a DALL-E model, a browsing tool, and a Python tool, users can explore various resources and engage in meaningful conversations. Get ready to dive into the world of British politics with Chinabot MP!
 
@@ -21,3 +22,5 @@ Chinabot MP is an informative App that provides simplified language explanations
 2. `browser`: This tool allows the ChatGPT App to access a web browser. It can be used to search for information, browse websites, and provide accurate and up-to-date responses.
 
 3. `python`: This tool provides the ability to execute Python code. While interacting with the ChatGPT App, you can utilize Python commands to perform various tasks or retrieve specific information.
+
+

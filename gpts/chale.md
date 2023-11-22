@@ -1,6 +1,7 @@
+
 [![Chale](https://files.oaiusercontent.com/file-7NLB7GzPGZr6xbhVUpGzmT1q?se=2123-10-16T21%3A42%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogox-min.PNG&sig=3BwxxKXG%2BQDoOwpl%2BFs2P1clof2ioo9cho7f/rA5/ak%3D)](https://chat.openai.com/g/g-emgZ9Gmvt-chale)
 
-# [Chale](https://chat.openai.com/g/g-emgZ9Gmvt-chale)
+# Chale [ChatGPT Plus](https://chat.openai.com/g/g-emgZ9Gmvt-chale) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chale)
 
 Chale is a chat-based app that serves as your Pidgin Companion. It allows you to chat with Chale, who is always ready to have a Pidgin conversation with you. Whether you want to translate a phrase to Akan Twi, stay updated on the latest news in Accra, learn basic Python with Pidgin, build apps with Pidgin, or even discover slang from Lagos, Chale has got you covered. It also provides tools like a Python interpreter, a browser, and Dalle for various functionalities. Get ready to have some fun and learn Pidgin with Chale!
 
@@ -37,3 +38,5 @@ Chale is a chat-based app that serves as your Pidgin Companion. It allows you to
 
 6. **Learn Lagos Slang:** Discover and learn a slang word from Lagos.
    - Example: "Teach me a slang from Lagos"
+
+

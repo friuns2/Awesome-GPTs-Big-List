@@ -1,6 +1,7 @@
+
 [![きのこ当てるくん](https://files.oaiusercontent.com/file-vQ1itWetce3RubYXQmtkwG22?se=2123-10-17T02%3A24%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd778c4f2-8343-4084-955b-fbf20f6d4d9b.png&sig=k7vMactjcYTGbwddvF32E7r9hVK72i5uvxVCqJfMMP0%3D)](https://chat.openai.com/g/g-fZ3eyj6Kd-kinokodang-terukun)
 
-# [きのこ当てるくん](https://chat.openai.com/g/g-fZ3eyj6Kd-kinokodang-terukun)
+# きのこ当てるくん [ChatGPT Plus](https://chat.openai.com/g/g-fZ3eyj6Kd-kinokodang-terukun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%8D%E3%81%AE%E3%81%93%E5%BD%93%E3%81%A6%E3%82%8B%E3%81%8F%E3%82%93)
 
 Welcome to Kinoko Name Guessing Game! This app is a fun and interactive way to test your knowledge of mushroom names. Just input the Japanese name of the mushroom and the app will let you know if you guessed correctly. You can also ask questions like whether the mushroom is edible or poisonous, or if it can be eaten raw. With this app, you can expand your knowledge of mushrooms while having a great time!
 
@@ -22,3 +23,5 @@ Welcome to Kinoko Name Guessing Game! This app is a fun and interactive way to t
 4. Raw Consumption: You can ask whether it is safe to consume a specific mushroom raw.
 
 Note: The app uses various tools, including a browser, DALL-E (a language model), and Python, to provide accurate information about mushrooms.
+
+

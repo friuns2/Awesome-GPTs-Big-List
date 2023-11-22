@@ -1,6 +1,7 @@
+
 [![Run Coach Pro](null)](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro)
 
-# [Run Coach Pro](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro)
+# Run Coach Pro [ChatGPT Plus](https://chat.openai.com/g/g-wqTNafVw5-run-coach-pro) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Run%20Coach%20Pro)
 
 Run Coach Pro is a virtual running coach app that provides tailored plans for various running events and levels. Whether you're a beginner or a seasoned runner, this app has got you covered. You can create race plans, get personalized training schedules, adjust your running plan, and design a workout calendar. The app even generates a custom plan with a PDF for you to share your running goal. It's like having a professional coach right in your pocket! Lace up your shoes and let Run Coach Pro take your running to the next level.
 
@@ -25,3 +26,5 @@ Run Coach Pro is a virtual running coach app that provides tailored plans for va
 4. **Design a workout calendar**: Use this command to create a workout calendar that suits your needs. Specify the duration, frequency, and type of workouts you prefer, and the app will generate a calendar with a variety of exercises to help you stay on track with your fitness routine.
 
 Note: The app may require additional information and parameters for customization, such as your current fitness level, preferred running routes, or any specific constraints or preferences.
+
+

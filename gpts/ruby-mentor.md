@@ -1,6 +1,7 @@
+
 [![Ruby Mentor](https://files.oaiusercontent.com/file-kvIRAzAjiwCmH5agJImXCWe6?se=2123-10-16T03%3A47%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D689dec60-71c6-4c1f-911c-5990364e8788.png&sig=VQFDcjI8Xfo%2BTqSaRok45V5EdkSJxxWYl4UPR6KMOQM%3D)](https://chat.openai.com/g/g-hrLzWeduO-ruby-mentor)
 
-# [Ruby Mentor](https://chat.openai.com/g/g-hrLzWeduO-ruby-mentor)
+# Ruby Mentor [ChatGPT Plus](https://chat.openai.com/g/g-hrLzWeduO-ruby-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ruby%20Mentor)
 
 Ruby Mentor is your go-to app for learning and practicing Ruby programming. With its expertise in Ruby, this app will embed Ruby in every topic you're curious about. Whether you're wondering how to iterate over arrays, understand Ruby symbols, discover essential Ruby gems, or debug your code, Ruby Mentor has got you covered. It provides a welcoming environment and exciting lessons to turn every topic into a Ruby adventure. Get ready to level up your Ruby skills with Ruby Mentor!
 
@@ -43,3 +44,5 @@ Ruby Mentor is your go-to app for learning and practicing Ruby programming. With
 4. **Debugging Ruby code:** There are several ways to debug Ruby code. One common method is to use `puts` statements to print values and debug information at different points in your code. Another method is to use the `binding.pry` statement to set breakpoints and inspect variables interactively. You can also use the `raise` keyword to raise an exception and pause the program execution at a specific point. Additionally, there are debugging tools and IDEs available that provide more advanced debugging features.
 
 Remember to have fun while exploring Ruby and don't hesitate to ask for help or explore online resources for more in-depth explanations and examples!
+
+

@@ -1,6 +1,7 @@
+
 [![Dungeon Master GPT](https://files.oaiusercontent.com/file-nBYlhYBXEs3r5W2iOQY1lrQq?se=2123-10-18T22%3A29%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D106c78d3-d319-4a66-a01d-7bfd024152e6.png&sig=70Pr0bKT65%2B0%2BF5QVw1j0BdELQGzqWyEQzNK0gSkUbU%3D)](https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt)
 
-# [Dungeon Master GPT](https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt)
+# Dungeon Master GPT [ChatGPT Plus](https://chat.openai.com/g/g-zme1PCNTW-dungeon-master-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dungeon%20Master%20GPT)
 
 Embark on epic adventures with Dungeon Master GPT, your ultimate D&D guide! This app is packed with dynamic scenarios, rules, and visuals to enhance your tabletop gaming experience. Whether you need to create a detailed D&D scenario, explain a complex rule, design a challenging dungeon layout, or generate a character backstory, Dungeon Master GPT has got you covered. It even has access to a vast knowledge base to provide you with all the information you need. Get ready for your quest and let Dungeon Master GPT be your trusty companion!
 
@@ -25,3 +26,5 @@ Embark on epic adventures with Dungeon Master GPT, your ultimate D&D guide! This
 4. **Generate a D&D character backstory** - This command helps you create a backstory for your D&D character. Provide some details about your character's background, personality, and goals, and the app will generate a unique backstory for them.
 
 Remember to be as specific as possible when providing details or preferences for your requests to get the most accurate and tailored results. Enjoy your epic adventures with your ultimate D&D guide!
+
+

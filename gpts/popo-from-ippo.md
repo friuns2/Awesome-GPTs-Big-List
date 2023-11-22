@@ -1,6 +1,7 @@
+
 [![POPO from IPPO](https://files.oaiusercontent.com/file-9YouGcZqWX9HK2vjlagbk5qv?se=2123-10-16T16%3A59%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DPOPO_2%2520%25281%2529.png&sig=BeQFcAQdv4c%2BV%2Bh6IeLjeoRRlS23d69P7%2BbBPqr4bHs%3D)](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ippo)
 
-# [POPO from IPPO](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ippo)
+# POPO from IPPO [ChatGPT Plus](https://chat.openai.com/g/g-pgDpajIc4-popo-from-ippo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=POPO%20from%20IPPO)
 
 POPO from IPPO is your expert Japanese Language Teacher. Whether you're a beginner or looking to improve your Japanese skills, this app has got you covered! Start by saying 'こんにちは！今日はなにを勉強しますか？' (Hello! What would you like to study today?). POPO from IPPO provides a range of tools to enhance your learning experience, including an interactive DALL-E tool for visual learning, a Python tool for practicing coding in Japanese, and a browser tool for exploring Japanese websites. Get ready to dive into the world of Japanese language and culture with POPO from IPPO!
 
@@ -29,3 +30,5 @@ POPO from IPPO is your expert Japanese Language Teacher. Whether you're a beginn
 5. **Learning Resources**: If you need recommendations for learning resources such as books, websites, or apps for studying Japanese grammar, vocabulary, or kanji, ask the app for suggestions.
 
 6. **Practice Speaking Japanese**: The app can assist you in practicing your Japanese speaking skills. You can have conversations with the app and receive feedback or prompts to help improve your speaking abilities.
+
+

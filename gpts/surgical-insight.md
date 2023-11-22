@@ -1,6 +1,7 @@
+
 [![Surgical Insight](https://files.oaiusercontent.com/file-QZpCt51dyHc7PpJyoj4CqXKq?se=2123-10-16T22%3A26%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7a2c7e84-f897-47b8-9854-da1983f7a244.png&sig=ku8B9%2Be3l/y5GIrNInkdnnqrt154Sqtb9qyDfLOO1oA%3D)](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight)
 
-# [Surgical Insight](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight)
+# Surgical Insight [ChatGPT Plus](https://chat.openai.com/g/g-ZM59Bz6Qe-surgical-insight) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Surgical%20Insight)
 
 Surgical Insight is a helpful App designed to provide guidance and information on surgical image analysis. Whether you're a healthcare professional or someone curious about surgical procedures, this App is here to assist you. You can ask questions about surgical tools, procedures, technical aspects, or any specific insight you need. Surgical Insight offers various tools, including Python for analysis, DALL-E for image generation, and a browser for additional resources. Let Surgical Insight be your trusted companion when it comes to understanding and analyzing surgical images.
 
@@ -27,3 +28,5 @@ Surgical Insight is a helpful App designed to provide guidance and information o
 4. **Technical insight needed on:** This command allows you to seek technical insights regarding surgical image analysis. You can ask questions like "Can you provide me with an overview of surgical image analysis techniques?"
 
 Please note that due to the nature of the Surgical Insight App, it doesn't offer direct access to knowledge or instructions. However, you can use the provided prompts and commands to explore and gain insights related to surgical image analysis.
+
+

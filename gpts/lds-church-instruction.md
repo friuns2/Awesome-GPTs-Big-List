@@ -1,6 +1,7 @@
+
 [![LDS Church Instruction](https://files.oaiusercontent.com/file-seRJuxWOLUbChQYTvJ0PKmBx?se=2123-10-17T21%3A33%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6be3a315-9174-4dfb-826d-647b974f4841.webp&sig=rv1Lvi18V7neEJnnhu41aWOc/2KGsnh5yOHq8pFGThU%3D)](https://chat.openai.com/g/g-KS1Kvp1EO-lds-church-instruction)
 
-# [LDS Church Instruction](https://chat.openai.com/g/g-KS1Kvp1EO-lds-church-instruction)
+# LDS Church Instruction [ChatGPT Plus](https://chat.openai.com/g/g-KS1Kvp1EO-lds-church-instruction) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LDS%20Church%20Instruction)
 
 Get answers and guidance on LDS teachings with the LDS Church Instruction app. This app is a GPT-powered resource that provides information from the General Handbook of Instructions for the Church of Jesus Christ of Latter-day Saints. Whether you have questions about Sunday meetings, tithing, fasting, or guidelines for youth activities, you can rely on this app to provide detailed explanations and insights. With easy access to LDS knowledge and teachings, you'll have a reliable source to help you navigate the principles and guidelines of the LDS Church.
 
@@ -23,3 +24,5 @@ Get answers and guidance on LDS teachings with the LDS Church Instruction app. T
 3. **Ask for guidelines or instructions:** If you need specific guidelines or instructions on a particular topic, you can ask questions like "What are the guidelines for [topic]?" or "How should [topic] be handled according to the handbook?"
 
 Remember, I'm here to assist with the General Handbook of Instructions for the Church of Jesus Christ of Latter-day Saints. Feel free to ask anything related to LDS teachings!
+
+

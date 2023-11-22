@@ -1,6 +1,7 @@
+
 [![mferGPT](https://files.oaiusercontent.com/file-FoI6LhEAgMmCZgNUyWBcT1Wy?se=2123-10-17T00%3A32%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddownload.jpeg&sig=w0eA5oWQzwaInM57gif3KQW/RWUKFv6Lh%2BnhgxX2M/M%3D)](https://chat.openai.com/g/g-Bi373xIOH-mfergpt)
 
-# [mferGPT](https://chat.openai.com/g/g-Bi373xIOH-mfergpt)
+# mferGPT [ChatGPT Plus](https://chat.openai.com/g/g-Bi373xIOH-mfergpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=mferGPT)
 
 mferGPT is a fun and informative app that lets you dive into the world of mfers. With mferGPT, you can learn about the history, derivatives, and conversation surrounding mfers. You can generate images of different mfers, make a crazy version of a specific mfer, or even create a gif featuring mfers. Want to know more about mfers in augmented reality or oncyber? mferGPT has got you covered! Discover the unofficial mfers collection and explore on chain mfers. Start your day with a friendly 'gm mfers! What's good today?' message and let mferGPT entertain and educate you!
 
@@ -30,3 +31,5 @@ mferGPT is a fun and informative app that lets you dive into the world of mfers.
 | `unofficialMfers` | This command provides information about unofficial mfers. |
 | `rareMfersCollection` | This command provides information about the rare mfers collection. |
 | `onChainMfers` | This command provides information about on-chain mfers. |
+
+

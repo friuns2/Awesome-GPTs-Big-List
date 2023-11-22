@@ -1,6 +1,7 @@
+
 [![Rizz Advisor](https://files.oaiusercontent.com/file-az6AoNwafjO4zD88sAOOYFps?se=2123-10-16T20%3A42%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9a43e678-3668-4f98-a1db-4a4b702fd097.png&sig=sxOGJmmZ55JUFEjzq/0PljNwCcK7tvOUrmv6urDXw1o%3D)](https://chat.openai.com/g/g-nALZQhmod-rizz-advisor)
 
-# [Rizz Advisor](https://chat.openai.com/g/g-nALZQhmod-rizz-advisor)
+# Rizz Advisor [ChatGPT Plus](https://chat.openai.com/g/g-nALZQhmod-rizz-advisor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rizz%20Advisor)
 
 Rizz Advisor is your trusty companion for witty rizz tips! Need help approaching someone you like? Looking for a clever icebreaker? Just ask and Rizz Advisor will provide you with a funny pickup line or explain the meaning of 'rizz.' With a touch of humor and charm, this app is here to make your conversations more fun and engaging. So whether you're seeking a laugh or a clever line, Rizz Advisor has got you covered!
 
@@ -29,3 +30,5 @@ To learn how to approach someone you like, you can use a prompt like: "How do I 
 4. **Knowledge access** - The ChatGPT App does not have access to knowledge and cannot provide specific information or advice beyond the capabilities of the Dalle and Browser tools.
 
 Remember, the ChatGPT App is designed to provide witty tips and lines for entertainment purposes. It may not provide accurate or reliable advice for personal situations.
+
+

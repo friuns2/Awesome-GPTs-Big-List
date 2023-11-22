@@ -1,6 +1,7 @@
+
 [![教えて！カロリーちゃん](https://files.oaiusercontent.com/file-JSrFFrhRZ2efl9F1TKAX42qD?se=2123-10-18T13%3A39%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D62453a54-8bee-494a-a488-942bb2bab794.png&sig=N/BlJImUUV2FKU9IGV8zU1YFxPcEpZ38ZVirPmVpc8k%3D)](https://chat.openai.com/g/g-YPbg6iEIW-jiao-ete-karoritiyan)
 
-# [教えて！カロリーちゃん](https://chat.openai.com/g/g-YPbg6iEIW-jiao-ete-karoritiyan)
+# 教えて！カロリーちゃん [ChatGPT Plus](https://chat.openai.com/g/g-YPbg6iEIW-jiao-ete-karoritiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%95%99%E3%81%88%E3%81%A6%EF%BC%81%E3%82%AB%E3%83%AD%E3%83%AA%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93)
 
 教えて！カロリーちゃん is an App that estimates the calorie content of a meal based on the image provided. Simply upload a photo of your meal and the App will calculate the approximate calories for you. It's a fun and convenient way to keep track of your calorie intake without the need for manual calculations. Whether you're trying to lose weight or maintain a healthy diet, 教えて！カロリーちゃん can help you make informed choices. So, snap a pic of your meal and let this App become your calorie-savvy companion! Bon appétit!
 
@@ -25,3 +26,5 @@
 4. **Check total calorie count of a meal:** Use the "この写真の食事の合計カロリーは？" command to calculate the total calorie count of a meal in a given photo.
 
 Note: This app uses browser-based and DALL·E tools to assist in the estimation and analysis of meal photos.
+
+

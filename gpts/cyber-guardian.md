@@ -1,6 +1,7 @@
+
 [![Cyber Guardian](https://files.oaiusercontent.com/file-LPot82l7RzBgAJgsg8fl98Xw?se=2123-10-17T12%3A27%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df26feaf3-4539-4b41-b0ef-875aaa2b6407.png&sig=5344uBsi5X8OA5Th%2BXfP32yjx6HUpEDWtq4KU/oN8oI%3D)](https://chat.openai.com/g/g-VhGeDKTbW-cyber-guardian)
 
-# [Cyber Guardian](https://chat.openai.com/g/g-VhGeDKTbW-cyber-guardian)
+# Cyber Guardian [ChatGPT Plus](https://chat.openai.com/g/g-VhGeDKTbW-cyber-guardian) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cyber%20Guardian)
 
 Cyber Guardian is your go-to cybersecurity consultant. Specializing in cybersecurity strategy, regulatory compliance, and risk management, this app is here to help you navigate the complex world of cybersecurity. Whether you need guidance on complying with ISO27001 or defining a risk-based cybersecurity strategy, Cyber Guardian has got you covered. They can also assist you with assessing cybersecurity risks, implementing essential cybersecurity controls, and providing templates for security policies, cybersecurity roadmaps, and incident response plans. With their expertise, you'll be well-prepared for NIS 2, DORA, CRA and more. Get ready to protect your digital kingdom with Cyber Guardian!
 
@@ -33,3 +34,5 @@ Cyber Guardian is your go-to cybersecurity consultant. Specializing in cybersecu
 7. **Welcome message**: The ChatGPT App will greet you with the message "Hello! Ready to discuss cybersecurity strategy and compliance?" upon starting a conversation. You can respond with your specific question or topic of interest.
 
 Note: The available tools and features may vary based on the permissions and access provided by the administrator or developer of the ChatGPT App.
+
+

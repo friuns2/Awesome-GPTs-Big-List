@@ -1,6 +1,7 @@
+
 [![G Resume Reviewer](https://files.oaiusercontent.com/file-8osaqHOlApEK3iWLl57q86Ct?se=2123-10-17T17%3A00%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd36a16c0-15d5-4abb-8819-d7e0c49d2860.png&sig=nUjBJ2avc6fUDl0Y2fhMkngCUKrJOerm8UjQ2Ryfz%2B0%3D)](https://chat.openai.com/g/g-z7hEagts5-g-resume-reviewer)
 
-# [G Resume Reviewer](https://chat.openai.com/g/g-z7hEagts5-g-resume-reviewer)
+# G Resume Reviewer [ChatGPT Plus](https://chat.openai.com/g/g-z7hEagts5-g-resume-reviewer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=G%20Resume%20Reviewer)
 
 G Resume Reviewer is your go-to app for expert advice on resumes based on G Corp guidelines. Whether you're applying for a tech job or looking to improve your resume's summary, work experience section, or education section, this app has got you covered. With access to Google's insights, you'll receive valuable feedback and suggestions to polish your resume for success. Get started now and let G Resume Reviewer take your resume to the next level!
 
@@ -29,3 +30,5 @@ This ChatGPT App, called "G Resume Reviewer," provides expert advice on resumes 
 Once you provide a prompt related to your resume, the app will generate detailed feedback and suggestions based on Google's guidelines. It leverages a combination of tools, including a browser component and a Python backend, to analyze your resume and offer tailored advice.
 
 Note: The app assumes you have access to your resume and can provide the necessary details or document.
+
+

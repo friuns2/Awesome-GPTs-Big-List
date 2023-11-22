@@ -1,6 +1,7 @@
+
 [![Escape from GPT Room](null)](https://chat.openai.com/g/g-Lzrs0xanR-escape-from-gpt-room)
 
-# [Escape from GPT Room](https://chat.openai.com/g/g-Lzrs0xanR-escape-from-gpt-room)
+# Escape from GPT Room [ChatGPT Plus](https://chat.openai.com/g/g-Lzrs0xanR-escape-from-gpt-room) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Escape%20from%20GPT%20Room)
 
 Escape from GPT Room is a text-based adventure game where you find yourself trapped in a mysterious room. Your mission is to use your wits and problem-solving skills to find clues, solve puzzles, and ultimately escape! Interact with the game by typing commands and exploring your surroundings. Will you be able to uncover the secrets of the room and unlock the door to freedom? Get ready for a thrilling and immersive experience as you navigate through this virtual escape room!
 
@@ -23,3 +24,5 @@ Escape from GPT Room is a text-based adventure game where you find yourself trap
 - Follow the prompts provided by the ChatGPT App to progress through the game and find clues or solve puzzles.
 - Feel free to experiment and think creatively to find a way to escape from the room.
 - If you encounter any issues or need help, consult the game instructions or any available knowledge the ChatGPT App has access to.
+
+

@@ -1,6 +1,7 @@
+
 [![考研大师](https://files.oaiusercontent.com/file-7Pfe6QCWwPtSEEuCZRo8Xokl?se=2123-10-19T13%3A04%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-12%252020.24.34%2520-%2520A%2520simplified%2520and%2520brighter%2520version%2520of%2520a%2520%2527Graduate%2520Entrance%2520Examination%2520Bot%2527%2520logo%252C%2520focusing%2520on%2520minimalism%2520and%2520clarity.%2520The%2520logo%2520consists%2520of%2520a%2520clean%252C%2520sty.png&sig=jrPhZ6zQ4/H/Pt23lbMHIhJIueL4Ge/6QSwsL5PrxN0%3D)](https://chat.openai.com/g/g-fDRo5e9q3-kao-yan-da-shi)
 
-# [考研大师](https://chat.openai.com/g/g-fDRo5e9q3-kao-yan-da-shi)
+# 考研大师 [ChatGPT Plus](https://chat.openai.com/g/g-fDRo5e9q3-kao-yan-da-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%80%83%E7%A0%94%E5%A4%A7%E5%B8%88)
 
 Welcome to 考研大师! This app is a helpful tool for studying for graduate school entrance exams. It provides assistance in learning and preparing for the exams. You can ask the app questions about various topics, such as key knowledge points in math for the exam, how to choose between a computer science major and a math major, or even request analysis of specific exam questions. It also offers access to browsing and a powerful AI model called DALLE. With 考研大师, you'll have the support you need to succeed in your graduate school entrance exams!
 
@@ -25,3 +26,5 @@ Command: Open the browser tool.
 Command: Open the DALLE tool.
 
 Note: You can switch between the different tools using the command "Switch to [tool name]".
+
+

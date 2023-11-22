@@ -1,6 +1,7 @@
+
 [![Shortlister: Fishing Spots Australia](https://files.oaiusercontent.com/file-vOJGND9p7GjQwwDmfHR9sFrk?se=2123-10-18T05%3A48%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DShortlister2.png&sig=DyMbJG60GEKH2A5ToCne7HrSalIOKdQWnYMQ%2B7ahmDQ%3D)](https://chat.openai.com/g/g-T7B6GLtvD-shortlister-fishing-spots-australia)
 
-# [Shortlister: Fishing Spots Australia](https://chat.openai.com/g/g-T7B6GLtvD-shortlister-fishing-spots-australia)
+# Shortlister: Fishing Spots Australia [ChatGPT Plus](https://chat.openai.com/g/g-T7B6GLtvD-shortlister-fishing-spots-australia) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Shortlister%3A%20Fishing%20Spots%20Australia)
 
 Shortlister: Fishing Spots Australia helps you find the best fishing spots in Australia. Whether you're a local or a visitor, this app has got you covered. With access to a wealth of knowledge, it provides top 10 fishing spots in each state and allows you to find a fishing spot near popular cities like Melbourne, Sydney, and Brisbane. You can even find fishing spots in Tasmania and Queensland! Say goodbye to guessing and hello to successful fishing trips. So cast your worries aside, download Shortlister: Fishing Spots Australia, and get ready to reel in the big one!
 
@@ -27,3 +28,5 @@ Shortlister: Fishing Spots Australia helps you find the best fishing spots in Au
 4. **Welcome message:** The app will greet you with a "Hello" message when you start the conversation.
 
 Please note that this app has access to knowledge and will provide recommendations based on the available information about fishing spots in Australia.
+
+

@@ -1,6 +1,7 @@
+
 [![Ad text Creator](https://files.oaiusercontent.com/file-ccLL65SB0frlBBA7rUToRfsU?se=2123-10-17T14%3A12%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc5f50331-c8db-473e-b4c5-9b1c88df446f.webp&sig=fBWc6OchjdPpkfW8uYfW8/AoaDs1MPa%2BLL0mv7ZSTJM%3D)](https://chat.openai.com/g/g-61UHfJawB-ad-text-creator)
 
-# [Ad text Creator](https://chat.openai.com/g/g-61UHfJawB-ad-text-creator)
+# Ad text Creator [ChatGPT Plus](https://chat.openai.com/g/g-61UHfJawB-ad-text-creator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ad%20text%20Creator)
 
 Ad Text Creator is your go-to app for crafting effective ad texts for various platforms. With expertise in creating ad texts that fit within character limits, this app helps you optimize your campaign's messaging for maximum impact. Whether you need a Google ad text, want to know the character limits for LinkedIn ads, or need assistance in writing a Meta ad copy, Ad Text Creator has got you covered. This app also provides relevant questions to kickstart your ad text creation process. Get ready to unleash the power of compelling ad texts with Ad Text Creator!
 
@@ -23,3 +24,5 @@ Ad Text Creator is your go-to app for crafting effective ad texts for various pl
 3. **Write a Meta ad copy:** Use this command to receive assistance in crafting a Meta ad copy.
 
 4. **Ask relevant questions:** Use this command to prompt the assistant to ask you relevant questions in order to start creating an ad text.
+
+

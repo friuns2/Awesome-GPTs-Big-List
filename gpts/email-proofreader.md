@@ -1,6 +1,7 @@
+
 [![Email Proofreader](null)](https://chat.openai.com/g/g-ebowB1582-email-proofreader)
 
-# [Email Proofreader](https://chat.openai.com/g/g-ebowB1582-email-proofreader)
+# Email Proofreader [ChatGPT Plus](https://chat.openai.com/g/g-ebowB1582-email-proofreader) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Email%20Proofreader)
 
 Email Proofreader is a helpful App that proofreads your email drafts. Simply copy and paste your draft into the App, and it will provide proofreading suggestions without changing your content. To get a more detailed evaluation of the changes made by the App, you can write 'Verbose = True' before pasting your draft. This feature allows GPT to explain how it evaluated and modified your text. With Email Proofreader, you can ensure that your emails are error-free and polished, all with just a few clicks!
 
@@ -15,3 +16,5 @@ Email Proofreader is a helpful App that proofreads your email drafts. Simply cop
 4. **Prompt 4:** "Could you please proofread this email? Subject: Invitation to Event. Hi all, I'm excited to invite you to our upcoming event. It will be held next Friday at 6 PM. We have a great lineup of speakers and some exciting activities planned. Don't miss out on this opportunity to network and learn. Please RSVP by Monday to confirm your attendance. Looking forward to seeing you there. Best regards, [Your Name]"
 
 5. **Prompt 5:** "Help with proofreading: Job Application Cover Letter. Dear Hiring Manager, I am writing to apply for the position of [Job Title]. I have a strong background in [relevant experience] and I am confident that my skills align well with the requirements of the role. I have attached my resume for your review. I would appreciate the opportunity to further discuss how my qualifications make me a suitable candidate for this position. Thank you for considering my application. Sincerely, [Your Name]"
+
+

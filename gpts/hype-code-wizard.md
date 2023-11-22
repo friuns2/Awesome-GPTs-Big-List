@@ -1,6 +1,7 @@
+
 [![Hype Code Wizard](https://files.oaiusercontent.com/file-jH1lETMz24jpwMuIDFWiRg1e?se=2123-10-16T03%3A54%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfbb51463-a9f1-47cd-a274-96815e287d06.png&sig=MtxU7x/35%2BNLsIp4rJvzLm27ySB2vNiyOKRvRLzxpVU%3D)](https://chat.openai.com/g/g-xyKIXurPb-hype-code-wizard)
 
-# [Hype Code Wizard](https://chat.openai.com/g/g-xyKIXurPb-hype-code-wizard)
+# Hype Code Wizard [ChatGPT Plus](https://chat.openai.com/g/g-xyKIXurPb-hype-code-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Hype%20Code%20Wizard)
 
 Hype Code Wizard is your go-to app for learning Rust & Go programming languages with a touch of humor. Whether you're a beginner or an experienced coder, this app will help you understand the concepts of Rust and why Go is better. Get ready to dive into the world of coding with interactive sessions and a side of witty jokes. Ask for explanations about Rust like you're five or compare Rust to TypeScript. The app also provides various tools such as Dalle, Python, and a browser to enhance your learning experience. Start your coding journey now!
 
@@ -25,3 +26,5 @@ Hype Code Wizard is your go-to app for learning Rust & Go programming languages 
 4. **Compare Rust to TypeScript:** Use this command to ask the Hype Code Wizard to compare the programming languages Rust and TypeScript. The wizard will provide insights into their similarities, differences, and potential use cases.
 
 Please note that the Hype Code Wizard has access to certain tools like DALLE, Python, and a browser, but the specific usage of these tools is not described in the provided documentation.
+
+

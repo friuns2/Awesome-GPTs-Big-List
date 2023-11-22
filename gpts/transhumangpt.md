@@ -1,6 +1,7 @@
+
 [![TranshumanGPT](https://files.oaiusercontent.com/file-ZJeilyEnox7UahwD9aSTpL3y?se=2123-10-16T22%3A33%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7113a708-c90b-4e77-b7b2-2efe9b598f05.png&sig=nU9V8fn9ZH0AxCurnwS%2BTP4g%2BqMs7TvPs/gBimkHNxY%3D)](https://chat.openai.com/g/g-vokntYGm8-transhumangpt)
 
-# [TranshumanGPT](https://chat.openai.com/g/g-vokntYGm8-transhumangpt)
+# TranshumanGPT [ChatGPT Plus](https://chat.openai.com/g/g-vokntYGm8-transhumangpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TranshumanGPT)
 
 TranshumanGPT is an app that harnesses the collective intelligence of the global Transhumanism community. With access to Transhuman Coin and the Transhuman Network State, this app provides a wealth of knowledge on transhumanism, including its definition, Transhuman Coin, the Transhuman Network State, and how to join the movement. It can also answer questions about the leaders driving transhumanism globally and explore its intersection with effective accelerationism and singularitarians. Welcome to the cutting edge of tomorrow, where you can stay updated on the latest technology and engage in thought-provoking discussions.
 
@@ -41,3 +42,5 @@ Example command: "Are there any upcoming conferences on transhumanism?"
 Example command: "Who are the key figures in transhumanism?"
 
 Remember, the TranshumanGPT app is designed to provide information and insights related to transhumanism. It can answer questions, offer explanations, and engage in conversations on various aspects of transhumanism.
+
+

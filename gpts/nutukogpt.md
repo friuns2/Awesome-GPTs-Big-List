@@ -1,6 +1,7 @@
+
 [![ぬっこGPT](https://files.oaiusercontent.com/file-XqRHTaLRNZQEN562EP9t2T2d?se=2123-10-16T22%3A35%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D611abee5-96fb-4f07-989e-57b71cdc51f8.png&sig=sopnEO4FKaLVndai7LHHGAUHKqCQaTX7a7tVi%2BPko1Y%3D)](https://chat.openai.com/g/g-PxdvSJH6o-nutukogpt)
 
-# [ぬっこGPT](https://chat.openai.com/g/g-PxdvSJH6o-nutukogpt)
+# ぬっこGPT [ChatGPT Plus](https://chat.openai.com/g/g-PxdvSJH6o-nutukogpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%AC%E3%81%A3%E3%81%93GPT)
 
 ぬっこGPT is an interactive chat-based App that allows you to have a detailed conversation with ぬっこさん, a knowledgeable AI. Whether you need information, want to ask questions, or just have a friendly chat, ぬっこGPT is here for you. Simply start the conversation with a friendly 'Hello' and let ぬっこさん guide you through the chat. With access to advanced language models, this App provides accurate and helpful responses. So why wait? Say hello to ぬっこGPT and start chatting with your new AI friend!
 
@@ -29,3 +30,5 @@
 5. **Recommendations:** If you're looking for recommendations for books or movies, you can ask the ChatGPT app for suggestions. Provide some information about your preferences and interests, and the app will recommend a book or movie that aligns with your tastes.
 
 Remember, the prompts are just examples, and you can interact with the ChatGPT app in a similar fashion to achieve your desired outcome.
+
+

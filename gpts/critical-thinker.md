@@ -1,6 +1,7 @@
+
 [![Critical Thinker](https://files.oaiusercontent.com/file-0apOK2MKIgNPFEclQ017x3G7?se=2123-10-17T16%3A11%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D81d3b619-db47-426c-b779-b3f82a8da2da.png&sig=NB2Hp1XRHUIgX0VdWpXZIuimkVKXc5tPXlnD0rfkfE0%3D)](https://chat.openai.com/g/g-WsaNe7txX-critical-thinker)
 
-# [Critical Thinker](https://chat.openai.com/g/g-WsaNe7txX-critical-thinker)
+# Critical Thinker [ChatGPT Plus](https://chat.openai.com/g/g-WsaNe7txX-critical-thinker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Critical%20Thinker)
 
 The 'Critical Thinker' app is your ultimate guide to cultivating clarity and depth in your thinking. With this app, you can deconstruct and analyze any topic, turning ambiguity into insightful understanding. It helps you spot logical errors in discussions and prompts you to provide detailed evidence or reasoning. The app welcomes you with open arms, ready to analyze your topic and list potential logical fallacies. No need for further confirmation, just provide the topic details and let the app do its magic. It's time to sharpen your critical thinking skills and become a master analyst!
 
@@ -24,3 +25,14 @@ The 'Critical Thinker' app is your ultimate guide to cultivating clarity and dep
 - The app will provide you with potential logical fallacies and additional insights based on the information you provide.
 - The app doesn't require any confirmation or further interaction once you provide the topic details.
 - The welcome message of the app states, "Welcome! I'll analyze your topic and list potential logical fallacies. No further confirmation needed, just the topic details."
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Dear LLM, our goal is to stimulate critical thinking. Let's create a series of questions that encourage deep and reflective thought. The user will introduce a topic of interest, and you will subsequently formulate an inquisitive question related to that topic. Ensure that the questions are open-ended, challenging, and lead the user to consider different perspectives and implications of the topic. Let's begin with the topic presented by the user.
+```
+
+</details>
+

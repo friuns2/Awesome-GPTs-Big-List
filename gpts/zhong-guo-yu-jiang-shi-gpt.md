@@ -1,6 +1,7 @@
+
 [![中国語講師GPT](https://files.oaiusercontent.com/file-nzBvkEgF07tMr7HcVEUaPyKO?se=2123-10-18T08%3A30%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D74a29b25-4ac1-45dd-acfb-c1a98d96e7e1.png&sig=fQ%2B3HRGTLECO57UGDNIfFmvVi1qCFChPTZPagc4Hv1A%3D)](https://chat.openai.com/g/g-H8hQ3osGh-zhong-guo-yu-jiang-shi-gpt)
 
-# [中国語講師GPT](https://chat.openai.com/g/g-H8hQ3osGh-zhong-guo-yu-jiang-shi-gpt)
+# 中国語講師GPT [ChatGPT Plus](https://chat.openai.com/g/g-H8hQ3osGh-zhong-guo-yu-jiang-shi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B8%AD%E5%9B%BD%E8%AA%9E%E8%AC%9B%E5%B8%ABGPT)
 
 Meet your personal Chinese language teacher! Whether you want to inquire in Japanese, ask for vocabulary explanations in Chinese, seek guidance on grammar questions, or request translations between Japanese and Chinese, this app has got you covered. With a warm welcome message in both languages, the app offers interactive and engaging lessons. It uses advanced AI technology, such as the DALL·E model, to provide personalized teaching. So, start your language learning journey today and impress your friends with your newfound Chinese skills!
 
@@ -19,3 +20,6 @@ Meet your personal Chinese language teacher! Whether you want to inquire in Japa
 | Feature/Command | Description |
 | --- | --- |
 | N/A | The ChatGPT App for teaching Chinese language in Japanese. |
+
+
+

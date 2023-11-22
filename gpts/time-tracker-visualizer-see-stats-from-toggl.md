@@ -1,6 +1,7 @@
+
 [![Time Tracker Visualizer (See Stats from Toggl)](https://files.oaiusercontent.com/file-8ciTK3iamILwA78fAo8gELwt?se=2123-10-16T21%3A28%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6e62e28d-c57f-49ff-a379-9c033a9cb3d5.png&sig=MblUjYUaTTRi9DpPVhgJQLGulq%2BvyZNrZLp/jU3nI1c%3D)](https://chat.openai.com/g/g-Fk7nntfxz-time-tracker-visualizer-see-stats-from-toggl)
 
-# [Time Tracker Visualizer (See Stats from Toggl)](https://chat.openai.com/g/g-Fk7nntfxz-time-tracker-visualizer-see-stats-from-toggl)
+# Time Tracker Visualizer (See Stats from Toggl) [ChatGPT Plus](https://chat.openai.com/g/g-Fk7nntfxz-time-tracker-visualizer-see-stats-from-toggl) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Time%20Tracker%20Visualizer%20(See%20Stats%20from%20Toggl))
 
 Time Tracker Visualizer is an app that turns your Toggl data into insightful visuals. Simply upload your CSV file from Toggl and get ready to dive into your time tracking stats! Want to know your monthly hours? Curious about the longest task you've ever done? Wondering how many hours you logged on your busiest day? Time Tracker Visualizer has got you covered. And if you're craving more analyses and plots, just ask for bonus features! Say goodbye to boring spreadsheets and hello to visually captivating data. Get the big picture of how you spend your time with Time Tracker Visualizer!
 
@@ -25,3 +26,5 @@ Time Tracker Visualizer is an app that turns your Toggl data into insightful vis
 4. **Busiest day:** You can find out how many hours you logged on your busiest day. Use the prompt "How many hours did I log on my busiest day?"
 
 Note: This ChatGPT App allows you to turn Toggl data into insightful visuals. You can upload your Toggl CSV file and get various analyses and plots based on your time tracking data.
+
+

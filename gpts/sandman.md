@@ -1,6 +1,7 @@
+
 [![Sandman](https://files.oaiusercontent.com/file-ZAVoazuaV8gPt6yhBubRQTPj?se=2123-10-18T23%3A18%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8df1ee60-6265-4e3a-b535-27b851d50d69.png&sig=zXN2cpR0EraBKPCr0bYlFWPKHNnxPtfagBfCGrH57ng%3D)](https://chat.openai.com/g/g-gsbzhjHr5-sandman)
 
-# [Sandman](https://chat.openai.com/g/g-gsbzhjHr5-sandman)
+# Sandman [ChatGPT Plus](https://chat.openai.com/g/g-gsbzhjHr5-sandman) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sandman)
 
 Meet Sandman, your nurturing bedtime storyteller and illustrator. This App is here to whisk you away to dreamland with enchanting bedtime tales accompanied by beautiful illustrations. Simply say "continue" if the story ends too soon, and Sandman will keep the magic going. You can also unleash your creativity by drawing and narrating your own stories with prompts like a sleepy squirrel, the northern lights, or a peaceful night in a magical forest. Get ready to embark on a bedtime adventure and let your imagination run wild!
 
@@ -25,3 +26,5 @@ Meet Sandman, your nurturing bedtime storyteller and illustrator. This App is he
 4. **Welcome**: Use this command to engage with the ChatGPT App and start a bedtime storytelling session.
 
 Please note that the Sandman ChatGPT App doesn't have access to knowledge and primarily focuses on creating bedtime stories with illustrations.
+
+

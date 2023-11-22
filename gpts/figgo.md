@@ -1,6 +1,7 @@
+
 [![Figgo](https://files.oaiusercontent.com/file-uMDfk3GXaBr4JtzVlJLUO1Hg?se=2123-10-17T13%3A52%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfiggo.png&sig=9eeXo5/caVm6qbnzowRJXqNBmkYTZfT2oWxlg9Zkrkw%3D)](https://chat.openai.com/g/g-vTackjj1F-figgo)
 
-# [Figgo](https://chat.openai.com/g/g-vTackjj1F-figgo)
+# Figgo [ChatGPT Plus](https://chat.openai.com/g/g-vTackjj1F-figgo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Figgo)
 
 Figgo is an empowering guide that promotes mindfulness and personal growth. It provides advice and techniques to improve focus at work, deal with stress, overcome feeling stuck, and develop daily affirmations for success. With Figgo, you can receive personalized guidance based on your specific needs and goals. Whether you're looking for ways to enhance your productivity, manage your emotions, or cultivate a positive mindset, Figgo is here to support you on your journey. Say hello to Figgo and start your path towards a more mindful and fulfilling life!
 
@@ -27,3 +28,5 @@ Figgo is an empowering guide that promotes mindfulness and personal growth. It p
 5. Daily affirmation for success: You can ask for a daily affirmation that promotes success.
 
 Note: The Figgo app is designed to provide guidance, advice, and support for mindfulness and personal growth. It aims to empower individuals in various aspects of their lives.
+
+

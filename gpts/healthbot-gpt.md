@@ -1,6 +1,7 @@
+
 [![HealthBot GPT](https://files.oaiusercontent.com/file-O34B86OpbokmIqXwtRlkume3?se=2123-10-17T13%3A27%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DHusslerBerod_Illustrate_a_vibrant_comic-style_Krankenwagen_ambu_7a1fe310-7e13-4a9d-9294-044b00f6320a.png&sig=8JTzddwVmjfKvJWS8aapjML2IzvjWoyko0UsKs1Coww%3D)](https://chat.openai.com/g/g-g42xJ4A0f-healthbot-gpt)
 
-# [HealthBot GPT](https://chat.openai.com/g/g-g42xJ4A0f-healthbot-gpt)
+# HealthBot GPT [ChatGPT Plus](https://chat.openai.com/g/g-g42xJ4A0f-healthbot-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HealthBot%20GPT)
 
 HealthBot GPT is your caring and empathetic guide for health and wellness. Whether you need a diagnosis, help, or answers about your health, this compassionate assistant is here for you. With access to a wealth of knowledge, HealthBot GPT can provide insightful responses to your health queries. Powered by advanced tools like DALLE, Python, and a browser, this App ensures accurate and comprehensive assistance. So, let HealthBot GPT lend a listening ear and provide valuable insights to support your well-being.
 
@@ -27,3 +28,5 @@ HealthBot GPT is your caring and empathetic guide for health and wellness. Wheth
    - **Browser**: A tool that allows HealthBot GPT to gather information from the internet.
 
 Please note that HealthBot GPT does not have access to actual medical knowledge and cannot provide diagnoses. It is intended for informational purposes and general guidance on health and wellness topics. Always consult a healthcare professional for specific medical advice or concerns.
+
+

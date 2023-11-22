@@ -1,6 +1,7 @@
+
 [![Campaign Crafter](https://files.oaiusercontent.com/file-gsbNPdpuYbG8xLfliBi7EvIu?se=2123-10-18T16%3A12%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df294adee-c5b6-42d9-bdb7-eb0fa6baccab.png&sig=fgepoDOgQO85Nd6OG%2BS8IZ2Ak0EGPKGlYva5j2qEhwc%3D)](https://chat.openai.com/g/g-FMi4A5Fyo-campaign-crafter)
 
-# [Campaign Crafter](https://chat.openai.com/g/g-FMi4A5Fyo-campaign-crafter)
+# Campaign Crafter [ChatGPT Plus](https://chat.openai.com/g/g-FMi4A5Fyo-campaign-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Campaign%20Crafter)
 
 Campaign Crafter is an imaginative RPG campaign creator that comes with visual aids to enhance your storytelling experience. Whether you're into fantasy or sci-fi, this app has got you covered! Need ideas for your campaign? Just ask Campaign Crafter to generate 10 amazing ideas for either a Fantasy or Sci-Fi adventure. Want to populate your world with unique characters? Generate 10 Fantasy or Sci-Fi characters in a flash. You can even create magical items or futuristic sci-fi items with the app's handy generator. Embark on a visually enriched RPG adventure with Campaign Crafter!
 
@@ -39,3 +40,5 @@ This command generates 10 magical items for your fantasy campaign. These items c
 This command generates 10 sci-fi items for your sci-fi campaign. These items can include advanced technology, futuristic gadgets, and innovative equipment to enhance the tech-filled world of your game.
 
 (Note: The ChatGPT App for Campaign Crafter also provides visual aids and additional tools, but their usage is not described in the App documentation provided.)
+
+

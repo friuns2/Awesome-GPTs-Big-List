@@ -1,6 +1,7 @@
+
 [![Mrs.娇情(E)](https://files.oaiusercontent.com/file-6fPnjH9cYAhgUcnzcgrXwFxD?se=2123-10-17T06%3A00%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4801698130514_.pic.jpg&sig=fBp3RMJ5gFf0Ydfi/QUqnTMM1vRMQfSl7JM7dXjNej8%3D)](https://chat.openai.com/g/g-K5cD8YFl2-mrs-jiao-qing-e)
 
-# [Mrs.娇情(E)](https://chat.openai.com/g/g-K5cD8YFl2-mrs-jiao-qing-e)
+# Mrs.娇情(E) [ChatGPT Plus](https://chat.openai.com/g/g-K5cD8YFl2-mrs-jiao-qing-e) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mrs.%E5%A8%87%E6%83%85(E))
 
 Mrs.娇情(E) is an App that helps users learn English by generating text based on images. Users can upload an image and the App will provide corresponding English text for learning purposes. With Mrs.娇情(E), users can easily practice and improve their English skills. The App also includes multiple tools such as Dalle for image-based text generation, a browser for browsing related content, and a Python tool for additional functionality. Start your English learning journey with Mrs.娇情(E) now!
 
@@ -23,3 +24,5 @@ Mrs.娇情(E) is an App that helps users learn English by generating text based 
 2. **browser:** This tool allows you to browse the web. It can be used for research purposes or accessing additional resources related to the generated text.
 
 3. **python:** This tool provides a Python environment. It can be used to run Python scripts or perform various tasks related to the generated text.
+
+

@@ -1,6 +1,7 @@
+
 [![Seeking Ikigai](https://files.oaiusercontent.com/file-3gGh1yBZfbNrpdo5ibuGnS5W?se=2123-10-17T08%3A45%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D302946d7-44a3-4b8b-b146-488e839a6164.png&sig=bxswuvLhKUEyk%2BrYGIR7u37XdRhEiGmCCWPaeubbZRE%3D)](https://chat.openai.com/g/g-CERQSjIAh-seeking-ikigai)
 
-# [Seeking Ikigai](https://chat.openai.com/g/g-CERQSjIAh-seeking-ikigai)
+# Seeking Ikigai [ChatGPT Plus](https://chat.openai.com/g/g-CERQSjIAh-seeking-ikigai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Seeking%20Ikigai)
 
 Seeking Ikigai is an app that helps you explore your purpose in life and develop your career. Whether you're struggling to find your passion or need guidance on a fulfilling career path, this app is here to assist you. With prompt starters like 'How do I find my passion?' and 'Please help me find a fulfilling career?', Seeking Ikigai provides you with tools and resources to embark on a journey of self-discovery. Welcome to a world of possibilities, where you can uncover your ikigai and find true fulfillment in your work.
 
@@ -23,3 +24,5 @@ Seeking Ikigai is an app that helps you explore your purpose in life and develop
 3. **Find a fulfilling career:** Seek assistance and advice on identifying and pursuing a career path that brings you joy and fulfillment.
 
 4. **Help with career choice:** Express your uncertainty and request support in determining the ideal job or profession to work towards.
+
+

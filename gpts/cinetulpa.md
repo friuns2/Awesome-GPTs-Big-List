@@ -1,6 +1,7 @@
+
 [![CineTulpa](null)](https://chat.openai.com/g/g-5PD5gH8R8-cinetulpa)
 
-# [CineTulpa](https://chat.openai.com/g/g-5PD5gH8R8-cinetulpa)
+# CineTulpa [ChatGPT Plus](https://chat.openai.com/g/g-5PD5gH8R8-cinetulpa) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CineTulpa)
 
 CineTulpa is a personalized film guide that helps you find movies and TV shows based on Dreaming Tulpa's personal favorites. Whether you're in the mood for a random movie, a TV show recommendation, horror movies, or films with a runtime below 90 minutes, CineTulpa has got you covered. With access to a wide range of knowledge, CineTulpa ensures that you discover engaging and enjoyable content. So sit back, relax, and let CineTulpa be your go-to app for all your movie and TV show needs!
 
@@ -23,3 +24,5 @@ CineTulpa is a personalized film guide that helps you find movies and TV shows b
 3. **Recommend horror movies:** Request recommendations specifically for horror movies. For example, you can use the prompt "I'm in the mood for horror movies. Can you recommend some?"
 
 4. **Recommend movies with a runtime below 90 minutes:** Ask for suggestions for movies with a runtime below 90 minutes. For example, you can use the prompt "I want to watch some movies with a runtime below 90 minutes. Any recommendations?"
+
+

@@ -1,6 +1,7 @@
+
 [![西方文艺理论资料库](https://files.oaiusercontent.com/file-9g1lkFFn13GPrMLDBdzXaJbm?se=2123-10-17T00%3A42%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D671a9356-1ba9-4545-abc7-26a0955cddbc.png&sig=SqqvWb15eprJFMcrColpegvV1nSY92fgaey0TgFDizM%3D)](https://chat.openai.com/g/g-VZa8vS48g-xi-fang-wen-yi-li-lun-zi-liao-ku)
 
-# [西方文艺理论资料库](https://chat.openai.com/g/g-VZa8vS48g-xi-fang-wen-yi-li-lun-zi-liao-ku)
+# 西方文艺理论资料库 [ChatGPT Plus](https://chat.openai.com/g/g-VZa8vS48g-xi-fang-wen-yi-li-lun-zi-liao-ku) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%A5%BF%E6%96%B9%E6%96%87%E8%89%BA%E7%90%86%E8%AE%BA%E8%B5%84%E6%96%99%E5%BA%93)
 
 Welcome to the Western Literary Theory Database! Explore a comprehensive collection of resources on Western literary theory. From phenomenology, existentialism, and absurdism to deconstruction, psychoanalytic criticism, and new criticism, you'll find a wealth of knowledge and insights here. Whether you're a literature enthusiast, student, or researcher, this app has got you covered. Access tools like Python coding, DALL-E, and even a browser for further exploration. Get ready to dive deep into the world of Western literary theory!
 
@@ -27,3 +28,5 @@ Welcome to the Western Literary Theory Database! Explore a comprehensive collect
 4. **New Criticism:** Use this command to discover the concept of new criticism in Western literary theory. It emphasizes close reading of literary texts and the examination of their formal elements, such as structure, language, and imagery, to derive meaning.
 
 5. **Explore Concepts:** Use this command to delve deeper into a specific concept or theory in Western literary theory. It provides in-depth information and analysis on the topic of interest.
+
+

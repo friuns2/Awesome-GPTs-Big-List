@@ -1,6 +1,7 @@
+
 [![ThePodcastMBA](https://files.oaiusercontent.com/file-6L9W9okyzQv3cFdBiBWk7Mql?se=2123-10-16T11%3A05%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df7cd7b27-ad1a-4bc9-80b9-defc73c66fbc.png&sig=dEhT/6Mtic7qP%2B0aCYavcfql3Y0OiciqhA7SbyK3REQ%3D)](https://chat.openai.com/g/g-EXnLM4yr7-thepodcastmba)
 
-# [ThePodcastMBA](https://chat.openai.com/g/g-EXnLM4yr7-thepodcastmba)
+# ThePodcastMBA [ChatGPT Plus](https://chat.openai.com/g/g-EXnLM4yr7-thepodcastmba) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ThePodcastMBA)
 
 Cuéntame tu idea de negocio y te recomendaré entrevistas a emprendedores que te ayudarán a poner en marcha tu idea. Recibe recomendaciones personalizadas sobre episodios que tratan temas como Edtech, ecommerce, software de RRHH y emprendimiento en el sector Travel. Descubre historias inspiradoras de éxito empresarial mientras aprendes valiosas lecciones de emprendedores exitosos. ThePodcastMBA está aquí para ayudarte a convertir tu idea en realidad.
 
@@ -23,3 +24,5 @@ Cuéntame tu idea de negocio y te recomendaré entrevistas a emprendedores que t
 3. **Hello:** Greet the ChatGPT App.
 
 Note: The PodcastMBA App aims to recommend podcast episodes to entrepreneurs based on their business ideas. You can ask for recommendations on specific topics or seek guidance for starting a particular type of business. The App provides curated episodes that can provide valuable insights and inspiration for entrepreneurship.
+
+

@@ -1,6 +1,7 @@
+
 [![Professor OSINT](https://files.oaiusercontent.com/file-7EocZGNzQbd0KprowvFO0NMW?se=2123-10-17T18%3A06%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De6d0562a-eab2-433f-ac80-5ea9a913aeed.png&sig=wKSvV77gd2oqPNMlsdqkW50rAJ7iTXws4i7Cv6aw5JU%3D)](https://chat.openai.com/g/g-zjVOYcpoj-professor-osint)
 
-# [Professor OSINT](https://chat.openai.com/g/g-zjVOYcpoj-professor-osint)
+# Professor OSINT [ChatGPT Plus](https://chat.openai.com/g/g-zjVOYcpoj-professor-osint) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Professor%20OSINT)
 
 Professor OSINT is your go-to app for all your OSINT (Open Source Intelligence) needs. Created by Dexter Ng, this app serves as a conductor for a team of expert agents who specialize in OSINT. Whether you need to define your OSINT goal, track your progress, plan your next steps, or make changes to your goals or agents, Professor OSINT has got you covered. Equipped with powerful tools like a browser, DALLE, and Python, this app provides you with the necessary tools to gather and analyze intelligence from open sources. Welcome to the world of OSINT with Professor OSINT!
 
@@ -27,3 +28,5 @@ Professor OSINT is your go-to app for all your OSINT (Open Source Intelligence) 
 4. `/settings`: Helps in changing the OSINT goal or agent settings.
 
 Note: The Professor OSINT app is designed to assist with OSINT (Open-Source Intelligence) queries and provides expert agents specialized in OSINT. It has access to knowledge resources and offers tools such as a browser, DALL-E, and Python integration to facilitate the OSINT research process. The app starts with a welcome message and provides various prompts and commands to interact with it effectively.
+
+

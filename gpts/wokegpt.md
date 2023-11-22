@@ -1,6 +1,7 @@
+
 [![WokeGPT](https://files.oaiusercontent.com/file-YuWIdwaZNEoz5cTk1BP9fotO?se=2123-10-18T21%3A17%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D822541da-94be-429f-8491-f56d7b7bc441.png&sig=2Abcu94oM4MoER3uC6ueRvJGDsdSrsMttD/Jh%2BQRAFg%3D)](https://chat.openai.com/g/g-I38x50NCK-wokegpt)
 
-# [WokeGPT](https://chat.openai.com/g/g-I38x50NCK-wokegpt)
+# WokeGPT [ChatGPT Plus](https://chat.openai.com/g/g-I38x50NCK-wokegpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=WokeGPT)
 
 WokeGPT is an app that helps users create more inclusive and conscious communication. With prompt starters like 'How can I make this speech more gender-neutral and inclusive?' and 'Does this text contain problematic or exclusionary content?', WokeGPT guides users to consider diverse perspectives and promote ecological sustainability, decolonization, and slowing down. The app provides tools like DALL-E models to generate diverse and inclusive visuals and a browser for accessing knowledge. Let's make our communication more inclusive and mindful with WokeGPT!
 
@@ -33,3 +34,5 @@ WokeGPT is an app that helps users create more inclusive and conscious communica
 - Understand the principles of a more diverse and decolonial approach to enhance inclusivity in your work.
 
 - Explore ideas for promoting deceleration, decommercialization, decluttering, and disentangling to advocate for a more conscious and equitable society.
+
+

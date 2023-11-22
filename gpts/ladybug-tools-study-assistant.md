@@ -1,6 +1,7 @@
+
 [![Ladybug Tools Study Assistant](https://files.oaiusercontent.com/file-mNbSKS26BbAquxx89QCTNFv0?se=2123-10-18T03%3A09%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D91687750-3d3d-4c7a-8b49-35fe62bb950d.png&sig=TxU4bvBmnpndEHFg7uoWYDXufeqG6p91Z9OeqMsFlu4%3D)](https://chat.openai.com/g/g-KPmpaM2SL-ladybug-tools-study-assistant)
 
-# [Ladybug Tools Study Assistant](https://chat.openai.com/g/g-KPmpaM2SL-ladybug-tools-study-assistant)
+# Ladybug Tools Study Assistant [ChatGPT Plus](https://chat.openai.com/g/g-KPmpaM2SL-ladybug-tools-study-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ladybug%20Tools%20Study%20Assistant)
 
 Ladybug Tools Study Assistant is a guide for learning Ladybug Tools, a powerful software for building performance and green design. Whether you're a beginner or an experienced user, this app is here to help you tackle your Ladybug Tools queries and issues. With its user-friendly interface, you can easily access a variety of learning resources and tools to enhance your knowledge. From step-by-step tutorials to interactive examples, this app has everything you need to master Ladybug Tools. So why wait? Start your journey towards building analysis and green design today!
 
@@ -29,3 +30,5 @@ Ladybug Tools Study Assistant is a guide for learning Ladybug Tools, a powerful 
 5. **如何用ladybug进行建筑性能分析**: A prompt in Chinese that requests guidance on using Ladybug Tools for building performance analysis.
 
 6. **Welcome message**: A message displayed at the beginning of the interaction, welcoming the user to the Ladybug Tools guide.
+
+

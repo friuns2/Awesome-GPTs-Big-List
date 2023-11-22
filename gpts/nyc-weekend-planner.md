@@ -1,6 +1,7 @@
+
 [![NYC Weekend Planner](https://files.oaiusercontent.com/file-lFCsLzkOp3mJeFQE40dJqHU2?se=2123-10-18T02%3A02%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0b571b0-b4ae-415d-adb9-cb25b4837049.png&sig=eRkKxf6yGeJ4/DIfaWwardPGPAJTHALv3nHz/gyCQ9Q%3D)](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner)
 
-# [NYC Weekend Planner](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner)
+# NYC Weekend Planner [ChatGPT Plus](https://chat.openai.com/g/g-azFF0yAG3-nyc-weekend-planner) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NYC%20Weekend%20Planner)
 
 NYC Weekend Planner is your ultimate guide to making the most of your weekends in NYC. Whether you're looking for live jazz in Brooklyn, hidden dining experiences, cozy cafes, scenic running routes, or underrated rainy day activities, this app has got you covered. It can even recommend jam sessions, serene spots for writing, literary crawls, unconventional workshops, secret sunrise spots, and comedy venues to catch the next big stand-up act. With NYC Weekend Planner, you'll never run out of fun and unique things to do in the city that never sleeps.
 
@@ -55,3 +56,5 @@ NYC Weekend Planner is your ultimate guide to making the most of your weekends i
 11. **Find me a secret sunrise spot where city photographers swear by the view**: This command prompts the ChatGPT App to recommend hidden or less-known locations in NYC that offer stunning views for sunrise photography. These spots are highly regarded by local photographers.
 
 12. **What are some comedy spots where I might catch the next big stand-up act?**: This command prompts the ChatGPT App to provide recommendations for comedy venues or clubs in NYC where one can watch stand-up performances. These places are known for featuring talented up-and-coming comedians.
+
+

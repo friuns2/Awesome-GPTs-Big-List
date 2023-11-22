@@ -1,6 +1,7 @@
+
 [![SpriteSheetGPT](https://files.oaiusercontent.com/file-xKpS5JzqBJuO6XVJP45t1gTa?se=2123-10-17T03%3A35%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D091c4192-a0db-4234-8123-f77a25227d67.webp&sig=iULXue/75XCJR9stJFS%2B37Wmw5C3XeR9SwiipMLb4Ew%3D)](https://chat.openai.com/g/g-2MxXTBarB-spritesheetgpt)
 
-# [SpriteSheetGPT](https://chat.openai.com/g/g-2MxXTBarB-spritesheetgpt)
+# SpriteSheetGPT [ChatGPT Plus](https://chat.openai.com/g/g-2MxXTBarB-spritesheetgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SpriteSheetGPT)
 
 SpriteSheetGPT is your go-to app for creating and fixing sprite sheet animations. Whether you want to turn an image into an animation or automatically fix an existing one, I've got you covered! Just give me the image and I'll generate a sprite sheet for you. With a variety of tools at my disposal, including Python and DALL-E, I'll ensure your animations are smooth and captivating. Get ready to bring your sprites to life with SpriteSheetGPT!
 
@@ -25,3 +26,5 @@ SpriteSheetGPT is your go-to app for creating and fixing sprite sheet animations
 4. **Generate a sprite sheet:** This command allows you to generate a sprite sheet. You can specify your requirements or preferences, and the app will create a sprite sheet accordingly.
 
 Note: This app does not have access to knowledge or instructions.
+
+

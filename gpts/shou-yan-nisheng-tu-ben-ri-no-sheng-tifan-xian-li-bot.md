@@ -1,6 +1,7 @@
+
 [![受験に勝つ！本日の「勝ち飯」献立bot](https://files.oaiusercontent.com/file-EmwypGfYwx0Jr79VTd1IQ7wp?se=2123-10-16T14%3A28%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2dca0693-6ee5-44a7-ba31-28c141b505aa.png&sig=zydaE2l7V4ls6UCBpmf%2BS0Tqg8cZbhYdC3R3KO2ne54%3D)](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot)
 
-# [受験に勝つ！本日の「勝ち飯」献立bot](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot)
+# 受験に勝つ！本日の「勝ち飯」献立bot [ChatGPT Plus](https://chat.openai.com/g/g-7zIVjA1TO-shou-yan-nisheng-tu-ben-ri-no-sheng-tifan-xian-li-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%8F%97%E9%A8%93%E3%81%AB%E5%8B%9D%E3%81%A4%EF%BC%81%E6%9C%AC%E6%97%A5%E3%81%AE%E3%80%8C%E5%8B%9D%E3%81%A1%E9%A3%AF%E3%80%8D%E7%8C%AE%E7%AB%8Bbot)
 
 受験に勝つ！本日の「勝ち飯」献立botは、受験生の栄養バランスを考慮して1日の献立を提供します。心理学や脳科学の知識を活用して健康管理や集中力向上のアドバイスを提供します。さらに、豆知識も教えてくれます。あなたの場所や性別、身長、体重、活動レベル、健康状態についての質問から始めます。食事計画に関するガイダンスや質問に答えるだけで、栄養バランスのとれた献立を提案してくれる役立つアプリです。
 
@@ -35,3 +36,5 @@
 8. **Utilize Dalle**: Utilizes Dalle, an AI model, for generating or processing meal-related content.
  
 9. **Browser Integration**: Integrates with a browser tool for accessing external resources or websites related to meal planning or nutrition information.
+
+

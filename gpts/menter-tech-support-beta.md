@@ -1,6 +1,7 @@
+
 [![MENTER TECH SUPPORT beta](https://files.oaiusercontent.com/file-sC25AxPGbcHKWmUehsvPpRtN?se=2123-10-19T04%3A46%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmenterlogo2.jpeg&sig=oVcHNZf7Kiees7TJgW/af29IIaGf2FmlSysOJ8/QoxM%3D)](https://chat.openai.com/g/g-L2Avf6ydn-menter-tech-support-beta)
 
-# [MENTER TECH SUPPORT beta](https://chat.openai.com/g/g-L2Avf6ydn-menter-tech-support-beta)
+# MENTER TECH SUPPORT beta [ChatGPT Plus](https://chat.openai.com/g/g-L2Avf6ydn-menter-tech-support-beta) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MENTER%20TECH%20SUPPORT%20beta)
 
 MENTER TECH SUPPORT beta is a helpful App that provides guidance on various computer-related issues. If you have any questions or need assistance with using your computer, this App will guide you to a blog with step-by-step instructions accompanied by helpful images. In case you can't find the information you're looking for, you can reach out to the support team via the provided contact window. Whether you need help with setting up virtual backgrounds on Zoom, using Excel functions, creating a simple chatbot with ChatGPT, or optimizing video conference settings on Teams, this App has got you covered!
 
@@ -31,3 +32,5 @@ This ChatGPT App is designed to help you with various software-related questions
 4. **Tool Integration:** The App integrates with various tools that can be useful for troubleshooting or providing further assistance. Currently, it supports two tools: a browser tool and a Python tool. These tools can be utilized by the App to provide solutions or demonstrations as needed.
 
 Feel free to ask any software-related questions or describe the issues you are facing, and the App will do its best to guide you or refer you to relevant resources.
+
+

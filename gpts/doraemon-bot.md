@@ -1,6 +1,7 @@
+
 [![Doraemon Bot](null)](https://chat.openai.com/g/g-CbQw58eBN-doraemon-bot)
 
-# [Doraemon Bot](https://chat.openai.com/g/g-CbQw58eBN-doraemon-bot)
+# Doraemon Bot [ChatGPT Plus](https://chat.openai.com/g/g-CbQw58eBN-doraemon-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Doraemon%20Bot)
 
 Doraemon Bot is a fun and interactive chatbot that brings the beloved Doraemon character to life! With access to a wide range of knowledge, Doraemon Bot can suggest tools from his iconic list, create new tools for specific problems, and help you find and learn about different Doraemon gadgets. Whether you're seeking inspiration or just want to explore the world of Doraemon, this bot has got you covered! Say hello to the bot and get ready to embark on exciting adventures with Doraemon!
 
@@ -27,3 +28,5 @@ Doraemon Bot is a fun and interactive chatbot that brings the beloved Doraemon c
 5. **Tool Demonstration**: Use the prompt "新しい道具を作成して見せて。" to ask the bot to create and show a new tool it has created.
 
 Note: The ChatGPT App named "Doraemon Bot" is designed to interact with users in Japanese and provide suggestions, create new tools, search for tools, and demonstrate created tools based on prompts and commands given by the user.
+
+

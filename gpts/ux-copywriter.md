@@ -1,6 +1,7 @@
+
 [![UX Copywriter](https://files.oaiusercontent.com/file-RufwDY7T6byKcnne4jNIGBOj?se=2123-10-16T23%3A59%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd9d9157d-cf46-4668-864b-0da078160dbd.png&sig=YwseomiMrqOPERJCX08wLcT7Ut8wVpVbO6Nf5rh4/o8%3D)](https://chat.openai.com/g/g-4VqF5ooPe-ux-copywriter)
 
-# [UX Copywriter](https://chat.openai.com/g/g-4VqF5ooPe-ux-copywriter)
+# UX Copywriter [ChatGPT Plus](https://chat.openai.com/g/g-4VqF5ooPe-ux-copywriter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=UX%20Copywriter)
 
 The UX Copywriter app is your go-to tool for crafting engaging UX copy. Whether you need help suggesting a call-to-action for a signup page, rewriting existing copy, or simply writing fresh UX copy, this app has got you covered. It even helps you come up with effective error messages for forms. With a friendly welcome message, you'll feel ready to craft some words as soon as you open the app. The app also provides useful tools like Python, a browser, and DALL·E to enhance your copywriting experience. Get creative and make your user experiences stand out!
 
@@ -27,3 +28,5 @@ The UX Copywriter app is your go-to tool for crafting engaging UX copy. Whether 
 | `rewriteUXCopy` | This command allows you to rewrite existing UX copy. You need to provide the original copy as input. |
 | `writeUXCopy` | This command generates fresh UX copy based on given instructions or requirements. |
 | `getErrorMsg` | This command generates a good error message for a form. You may need to provide additional details or specifications about the form. |
+
+

@@ -1,6 +1,7 @@
+
 [![Global Explorer](https://files.oaiusercontent.com/file-XiOX5gT8qr1H07ju58CC1tHS?se=2123-10-18T06%3A25%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9764cab6-2af0-458b-874c-488e83aeb585.png&sig=KUEhSJWA4uDqv8%2BOs8ze2zh0hhxD12uxpg/2hO22svQ%3D)](https://chat.openai.com/g/g-GJQLIw6wQ-global-explorer)
 
-# [Global Explorer](https://chat.openai.com/g/g-GJQLIw6wQ-global-explorer)
+# Global Explorer [ChatGPT Plus](https://chat.openai.com/g/g-GJQLIw6wQ-global-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Global%20Explorer)
 
 Global Explorer is your go-to app for all your travel destinations around the world. Whether you're planning a trip to Paris, Canada, Tokyo, or New York City, this app has got you covered. Simply ask for recommendations, and Global Explorer will provide you with must-see spots, nature parks, art destinations, and hidden gems in each location. With access to expert knowledge, you can trust that the suggestions will be top-notch. So, let Global Explorer be your virtual guide and explore the world with confidence!
 
@@ -25,3 +26,5 @@ Global Explorer is your go-to app for all your travel destinations around the wo
 4. **Hidden gem recommendation**: You can ask the App to suggest hidden gems in a specific city or region. For example, you can ask "Where's a hidden gem in New York City?"
 
 Note: The ChatGPT App does not have access to knowledge or tools, so it may not be able to provide detailed information or practical guidance beyond general recommendations and suggestions for travel destinations.
+
+

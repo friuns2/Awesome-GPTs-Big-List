@@ -1,6 +1,7 @@
+
 [![グリッドフォーミングインバータ](null)](https://chat.openai.com/g/g-nDgDzB173-guritudohuominguinbata)
 
-# [グリッドフォーミングインバータ](https://chat.openai.com/g/g-nDgDzB173-guritudohuominguinbata)
+# グリッドフォーミングインバータ [ChatGPT Plus](https://chat.openai.com/g/g-nDgDzB173-guritudohuominguinbata) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%83%90%E3%83%BC%E3%82%BF)
 
 Stay up-to-date with the latest research and developments in Grid Forming Inverters with this app. Get access to the newest papers and stay informed about the latest trends in this field. Whether you're curious about what Grid Forming Inverters are or you want to know about the most recent advancements, this app has got you covered. Stay ahead of the curve and dive into the world of Grid Forming Inverters!
 
@@ -23,3 +24,5 @@ Stay up-to-date with the latest research and developments in Grid Forming Invert
 5. **Get information about the latest trends in grid-forming inverters:** You can inquire about the recent advancements or trends in the field of grid-forming inverters.
 
 Please note that specific commands or usage may vary depending on the implementation of the ChatGPT App.
+
+

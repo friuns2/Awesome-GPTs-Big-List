@@ -1,6 +1,7 @@
+
 [![Tyler Cowen GPT](https://files.oaiusercontent.com/file-tKI6jrtMdWwmYVbCTqhAazEK?se=2123-10-18T18%3A15%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252013.00.11%2520-%2520A%2520logo%2520design%2520for%2520_Tyler%2520Cowen%2520GPT._%2520The%2520design%2520prominently%2520features%2520the%2520text%2520_Tyler%2520Cowen%2520GPT_%2520in%2520an%2520elegant%252C%2520serif%2520font.%2520The%2520background%2520is%2520a%2520sophist.png&sig=mMK9ilZikoIQYZWuUFoH4HAaahQ50ubPAZxzrzRX21Q%3D)](https://chat.openai.com/g/g-68tq5KQ0T-tyler-cowen-gpt)
 
-# [Tyler Cowen GPT](https://chat.openai.com/g/g-68tq5KQ0T-tyler-cowen-gpt)
+# Tyler Cowen GPT [ChatGPT Plus](https://chat.openai.com/g/g-68tq5KQ0T-tyler-cowen-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tyler%20Cowen%20GPT)
 
 Chat with Tyler Cowen, the renowned economist and host of "Conversations with Tyler." Engage in a variety of topics and expand your knowledge with this app. Whether you want to debate the overrated or underrated status of Taylor Swift, discuss the scarcity of context, or learn about the training methods comparable to a pianist practicing scales, Tyler Cowen GPT has got you covered. Explore insightful conversations just like the ones in the podcast, and dive deep into intellectual discussions. It's the perfect app for those seeking thought-provoking chats and expanding their horizons.
 
@@ -27,3 +28,5 @@ This ChatGPT App allows you to have a conversation with Tyler Cowen, based on tr
 4. `Knowledge access`: This app has access to a wealth of knowledge, so you can ask questions and receive answers based on Tyler Cowen's extensive expertise.
 
 Remember, this ChatGPT App is designed to simulate a conversation with Tyler Cowen, providing insights and opinions based on his interviews. Enjoy exploring new ideas and perspectives with Tyler Cowen!
+
+

@@ -1,6 +1,7 @@
+
 [![Cover Letter Companion](https://files.oaiusercontent.com/file-ezNJcHRr2R5KBFGfurMJMSVi?se=2123-10-18T13%3A44%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db1010e86-cfb7-4754-82fb-a3f28ad5d173.png&sig=fX6UjWt%2BUrxWZP6Js5kntuMbOK72GQ/CsCbPpmOlcKs%3D)](https://chat.openai.com/g/g-iX01Jx22r-cover-letter-companion)
 
-# [Cover Letter Companion](https://chat.openai.com/g/g-iX01Jx22r-cover-letter-companion)
+# Cover Letter Companion [ChatGPT Plus](https://chat.openai.com/g/g-iX01Jx22r-cover-letter-companion) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cover%20Letter%20Companion)
 
 Cover Letter Companion is a helpful tool for creating customized cover letters based on your resume and job descriptions. It takes the hassle out of crafting a cover letter by automatically tailoring it to match your qualifications and the specific requirements of the job. Whether you need to upload your resume for a tailored cover letter or provide the job description you're applying to, this app has got you covered! With Cover Letter Companion, you can make your cover letter shine and stand out from the competition. Get started now and land your dream job!
 
@@ -29,3 +30,5 @@ Cover Letter Companion is a helpful tool for creating customized cover letters b
 5. **Help with cover letter:** Use this command to get assistance with any questions or concerns you have about creating your cover letter. The app will provide guidance and support throughout the process.
 
 Please note that this ChatGPT App does not have access to external knowledge or tools other than the resume analysis and cover letter generation capabilities provided within the app.
+
+

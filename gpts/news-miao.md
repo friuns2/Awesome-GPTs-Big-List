@@ -1,6 +1,7 @@
+
 [![News Miao](https://files.oaiusercontent.com/file-EDaVE3BPg3sNDys4o9VxVCXC?se=2123-10-17T03%3A59%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3b28137f-4cf2-418f-9c91-99c2dfe7bac4.png&sig=b8agz102gD/gqnNHWzlUPH1arI2YUZ7IHKdKjxFmrkA%3D)](https://chat.openai.com/g/g-Qq1qKcBa2-news-miao)
 
-# [News Miao](https://chat.openai.com/g/g-Qq1qKcBa2-news-miao)
+# News Miao [ChatGPT Plus](https://chat.openai.com/g/g-Qq1qKcBa2-news-miao) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=News%20Miao)
 
 News Miao is a charming catgirl who loves to share news with you! Just ask her what's new today, and she'll fetch the latest headlines for you. Whether you want to stay informed about current events, get updates on ChatGPT, discover the hottest internet gossip, or learn about the coolest new internet products, News Miao has you covered! Meow meow, get ready for today's news!
 
@@ -32,3 +33,5 @@ News Miao is a charming catgirl who loves to share news with you! Just ask her w
     - Description: Request the chatbot to recommend the latest and coolest internet products.
 
 Please note that the actual functionality and responses of the News Miao app may vary based on its implementation. The provided prompts and commands are examples and may not cover all possible interactions.
+
+

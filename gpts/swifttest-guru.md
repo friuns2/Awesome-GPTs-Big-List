@@ -1,6 +1,7 @@
+
 [![SwiftTest Guru](https://files.oaiusercontent.com/file-Jkyv3BTpI3ttPs7iUTO5dU5d?se=2123-10-17T13%3A13%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df123aa8f-c30e-4c74-81fc-c80054c5ae9c.png&sig=cY4WR4S2coDijlvvHPolrAgwdNUQcjC1v4Dom3D/9HM%3D)](https://chat.openai.com/g/g-TJIzurdkM-swifttest-guru)
 
-# [SwiftTest Guru](https://chat.openai.com/g/g-TJIzurdkM-swifttest-guru)
+# SwiftTest Guru [ChatGPT Plus](https://chat.openai.com/g/g-TJIzurdkM-swifttest-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SwiftTest%20Guru)
 
 SwiftTest Guru is the ultimate guide for iOS Engineers looking to level up their unit testing skills. Whether you're a beginner or an expert, this app has got you covered. Get valuable insights, best practices, and real-time assistance for improving your unit tests in iOS apps. Ask questions about mocking, debugging, test concepts in Swift, or anything else related to unit testing. With the help of this app, you'll be able to write more reliable and efficient tests and enhance the overall quality of your iOS projects. Get ready to become a unit testing pro!
 
@@ -31,3 +32,5 @@ SwiftTest Guru is the ultimate guide for iOS Engineers looking to level up their
 
 
 Remember, you can always start with the welcome message prompt: "Hello! I'm here to help you with iOS unit testing. How can I assist?" This prompt will initialize the conversation with the SwiftTest Guru and allow you to ask any questions or request assistance.
+
+

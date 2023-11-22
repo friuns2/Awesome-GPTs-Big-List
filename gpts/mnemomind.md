@@ -1,6 +1,7 @@
+
 [![MnemoMind](https://files.oaiusercontent.com/file-56oRdDvZJ12UrrvtTI8bPQbq?se=2123-10-17T00%3A55%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6f49d3fc-22ec-4db5-bb90-ac60b373e17e.png&sig=pjsn0tZ0ErUTTXQLHCZD4M2BsJ/E9JW2XV14yJYGW3U%3D)](https://chat.openai.com/g/g-6KgPZM9jC-mnemomind)
 
-# [MnemoMind](https://chat.openai.com/g/g-6KgPZM9jC-mnemomind)
+# MnemoMind [ChatGPT Plus](https://chat.openai.com/g/g-6KgPZM9jC-mnemomind) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MnemoMind)
 
 Boost your memory with MnemoMind! This app is your ultimate mnemonic assistant, helping you create memorable mnemonics that make learning easier and more enjoyable. Whether you need to remember important information, study for exams, or simply enhance your memory skills, MnemoMind is here to help. With its tailored mnemonic journey, you can easily create memory aids for anything you want to remember. Just tell MnemoMind what you need to memorize, and it will generate creative and effective mnemonics to supercharge your memory power. Get ready to remember everything effortlessly with MnemoMind!
 
@@ -29,3 +30,5 @@ Boost your memory with MnemoMind! This app is your ultimate mnemonic assistant, 
 | `getMnemonicInfo` | This command provides detailed information about a specific mnemonic. You need to provide the mnemonic or topic for which you want to get information. |
 | `generateImages` | This command generates visual representations or images of the mnemonics created. You can specify the format, size, and style of the images. |
 | `shareMnemonic` | This command allows you to share a mnemonic with others. You need to provide the mnemonic or topic to be shared, as well as the contact information or platform to share it on. |
+
+

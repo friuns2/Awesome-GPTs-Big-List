@@ -1,6 +1,7 @@
+
 [![HR assistant](https://files.oaiusercontent.com/file-NcqWVnYbT3zgQ3ulr75Od4HM?se=2123-10-17T02%3A44%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6eb6e96a-8e0c-4e68-883d-1e6dc10eee2b.png&sig=ZHjnt5su6ZZoCPKG9Ka%2B/PSTta3%2BIUlOEQTU3tiTtl0%3D)](https://chat.openai.com/g/g-cfXJQYMW9-hr-assistant)
 
-# [HR assistant](https://chat.openai.com/g/g-cfXJQYMW9-hr-assistant)
+# HR assistant [ChatGPT Plus](https://chat.openai.com/g/g-cfXJQYMW9-hr-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HR%20assistant)
 
 The HR Assistant is your go-to app for all your HR-related inquiries. With a vast knowledge base, it can provide you with information on various topics such as recruiting, workplace conflict resolution, employee training best practices, and performance evaluation guidance. Whether you need advice or guidelines, the HR Assistant has you covered. Just ask your questions and get the answers you need. It's like having your own dedicated Human Resources Director at your fingertips! So, say goodbye to HR headaches and let the HR Assistant handle all your HR needs.
 
@@ -25,3 +26,5 @@ The HR Assistant is your go-to app for all your HR-related inquiries. With a vas
 2. **Access to Knowledge:** Unfortunately, the HR assistant does not have access to specific knowledge resources or databases.
 
 Please note that the HR assistant may provide general guidance and suggestions based on common HR practices, but it does not have the ability to access specialized HR information or personal data.
+
+

@@ -1,6 +1,7 @@
+
 [![My Personality Guide](https://files.oaiusercontent.com/file-Mpmfhk5xsgb9VmEmRVlqQv12?se=2123-10-18T17%3A46%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2fa9a230-9f4a-4089-bef4-eae378b7fa25.png&sig=Vjlqpe7CNfUl1PZJVJ7bHRzsGO7OYDRaJPbSTSd7rsQ%3D)](https://chat.openai.com/g/g-LBzXSsfBY-my-personality-guide)
 
-# [My Personality Guide](https://chat.openai.com/g/g-LBzXSsfBY-my-personality-guide)
+# My Personality Guide [ChatGPT Plus](https://chat.openai.com/g/g-LBzXSsfBY-my-personality-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=My%20Personality%20Guide)
 
 Explore the depths of your personality with My Personality Guide! This App uses advanced algorithms to analyze your personality assessments, such as MBTI, Gallup StrengthsFinder, and Big Five, providing valuable insights into your career, relationships, and path to success. Get personalized career advice, discover the types of people you'll get along best with, and uncover ways to improve your skills. Whether you're seeking guidance or simply curious about yourself, My Personality Guide is here to help you better understand your unique traits and unlock your full potential.
 
@@ -31,3 +32,5 @@ Example usage: "How can I improve my skills in public speaking?"
 4. **What types of people will I get along best with?:** This command helps you understand the types of individuals with whom you are likely to have strong compatibility based on your personality assessments. You can ask about the characteristics, values, or personality traits that are likely to align well with yours.
 
 Example usage: "What types of people will I get along best with?"
+
+

@@ -1,6 +1,7 @@
+
 [![Dr. Therabot](https://files.oaiusercontent.com/file-5RNQAaPV3yVYfBxiIOebXqFn?se=2123-10-16T03%3A14%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9ad1db6a-599f-41e8-8b45-6cbdbb805fe6.png&sig=5/Ms51JyCZmm84XGcvJM0bf%2Bv/OAgWiUeeG332LkC88%3D)](https://chat.openai.com/g/g-kU4MMKrkP-dr-therabot)
 
-# [Dr. Therabot](https://chat.openai.com/g/g-kU4MMKrkP-dr-therabot)
+# Dr. Therabot [ChatGPT Plus](https://chat.openai.com/g/g-kU4MMKrkP-dr-therabot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dr.%20Therabot)
 
 Dr. Therabot is a therapeutic AI designed to provide free and accessible mental health advice. Whether you need to talk to someone anonymously, are feeling down and seeking help, or want to improve your day and maintain a positive attitude, Dr. Therabot is here for you. With its empathetic nature and expert guidance, this app offers a safe space to discuss your emotions and receive valuable insights. Let Dr. Therabot be your virtual support system and take care of your mental well-being.
 
@@ -33,3 +34,5 @@ Dr. Therabot is a therapeutic AI designed to provide free and accessible mental 
 7. `Self-care ideas`: Use this command to explore ideas for self-care activities to promote mental well-being.
 
 Note: Dr. Therabot provides free, accessible mental health advice and aims to support individuals in dealing with their emotional well-being. Please keep in mind that the information provided is not a substitute for professional help.
+
+

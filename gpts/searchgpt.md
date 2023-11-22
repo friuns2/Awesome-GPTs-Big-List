@@ -1,6 +1,7 @@
+
 [![SearchGPT](https://files.oaiusercontent.com/file-hAkQoceHli72aHiMwR2VBMxx?se=2123-10-18T23%3A22%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd3e7f0cb-078e-4cef-b8ba-e2fd846d0a0c.png&sig=kK5%2B2OYn9EG6uJyuW8bK4Amdc%2BYItaxW/cAYvRWwThk%3D)](https://chat.openai.com/g/g-JIi3bxGPo-searchgpt)
 
-# [SearchGPT](https://chat.openai.com/g/g-JIi3bxGPo-searchgpt)
+# SearchGPT [ChatGPT Plus](https://chat.openai.com/g/g-JIi3bxGPo-searchgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SearchGPT)
 
 SearchGPT is a search engine powered by GPT technology. It can assist you with a wide range of tasks, such as language teaching, website building, tax guidance, and design help. Simply ask a question or provide a specific request, and SearchGPT will provide you with accurate and helpful information. With its advanced browsing capabilities, SearchGPT makes it easy to access the knowledge you need. Whether you're a student, a professional, or just curious, SearchGPT has got you covered!
 
@@ -25,3 +26,5 @@ SearchGPT is a search engine powered by GPT technology. It can assist you with a
 4. **design helper**: As someone looking for a design helper, you can ask for recommendations on tools or tips to improve your design skills.
 
 Please note that the SearchGPT app is a search engine and can provide information and recommendations related to the topics mentioned in the prompts.
+
+

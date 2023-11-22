@@ -1,6 +1,7 @@
+
 [![Word Decoder Battle](null)](https://chat.openai.com/g/g-xkGn8UweU-word-decoder-battle)
 
-# [Word Decoder Battle](https://chat.openai.com/g/g-xkGn8UweU-word-decoder-battle)
+# Word Decoder Battle [ChatGPT Plus](https://chat.openai.com/g/g-xkGn8UweU-word-decoder-battle) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Word%20Decoder%20Battle)
 
 In the Word Decoder Battle app, players compete to guess a topic based on hints provided by the ChatGPT AI. The goal is to infer the topic in the fewest amount of guesses. With a limit of 5 characters, it's a challenging and fun recreational game! Start the game by giving a hint and let the AI guess your topic. Get ready for an exciting battle of wits and wordplay!
 
@@ -25,3 +26,5 @@ In the Word Decoder Battle app, players compete to guess a topic based on hints 
 5. **Declare the winner:** Once ChatGPT successfully guesses the word or phrase, the game ends and the player and ChatGPT can declare victory, depending on who guesses correctly.
 
 Note: Make sure to follow the instructions provided by the application.
+
+

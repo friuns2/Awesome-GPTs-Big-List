@@ -1,6 +1,7 @@
+
 [![Disneyfy Yourself](https://files.oaiusercontent.com/file-kxfeNGbaU43pfUQAhisCh4r8?se=2123-10-18T07%3A55%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D12e170f5-1494-408f-a48c-1733eb0c58c9.png&sig=YNIZbb47z8BgMOIzLWvT9Hm2yU/WsaqPXWOLN/%2BxgE8%3D)](https://chat.openai.com/g/g-fBXPSQoLs-disneyfy-yourself)
 
-# [Disneyfy Yourself](https://chat.openai.com/g/g-fBXPSQoLs-disneyfy-yourself)
+# Disneyfy Yourself [ChatGPT Plus](https://chat.openai.com/g/g-fBXPSQoLs-disneyfy-yourself) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Disneyfy%20Yourself)
 
 Disneyfy Yourself is a fun app that lets you transform your photos into high-quality Disney-style characters. Simply upload a photo and watch as it magically turns into a Disney character right before your eyes! Whether you want to see yourself as a princess, a prince, or a lovable sidekick, this app can bring the enchantment of Disney to your everyday life. Get ready to add a touch of magic to your photos and create memories that will last a lifetime. Remember to tag @giulianoprati on Twitter and share your transformed Disney character with the world!
 
@@ -25,3 +26,5 @@ Disneyfy Yourself is a fun app that lets you transform your photos into high-qua
 - `Create a Disney character from this photo.`: Use this command to upload a photo and have it converted into a Disney character.
 
 Note: Remember to tag @giulianoprati on Twitter to give credit for the transformation!
+
+

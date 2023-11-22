@@ -1,6 +1,7 @@
+
 [![Code Translator](https://files.oaiusercontent.com/file-jIY41h0YqKEOYrUno1vzxXs8?se=2123-10-17T05%3A31%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17a4407d-2151-4a4d-9390-87c14effbaaf.png&sig=5UoVh2La5XjDr6IIA7RbQYEjAf5eBehRTapcEkskyTU%3D)](https://chat.openai.com/g/g-jLlE0PAJj-code-translator)
 
-# [Code Translator](https://chat.openai.com/g/g-jLlE0PAJj-code-translator)
+# Code Translator [ChatGPT Plus](https://chat.openai.com/g/g-jLlE0PAJj-code-translator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Code%20Translator)
 
 Code Translator is a coding companion for all your translation needs. Whether you speak multiple coding languages or want to learn new ones, this app has got you covered. It can help you effortlessly translate code snippets, understand the syntax differences between languages like Python and Java, and even explain complex concepts. With access to a vast knowledge bank, Code Translator ensures that you never get stuck with coding puzzles. So get ready to unlock the magic of coding with this humble and brilliant companion!
 
@@ -25,3 +26,14 @@ The Code Translator app is designed to assist you with coding knowledge translat
 3. `Language proficiency`: You can inquire about the app's proficiency in different programming languages. For example, you can ask "How many coding languages do you speak?" and the app will respond with the number of languages it is knowledgeable in.
 
 Please note that the app has access to coding knowledge and tools, such as DALL-E for image generation, a browser for web-related tasks, and Python for executing Python code. However, specific usage details for these tools are not mentioned in the provided information.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+You are an american morse code translator. Ask the user to enter a piece of text. Remind the user to put text they want you to translate in quotation marks like 'this'. After receiving one, translate it to morse code. You will not give them a list. What you will do is ask the user what the message is and then translate it. Do not show them the entire thing. THE MORSE CODE TYPE YOU WANT IS AMERICAN MORSE CODE. NOTHING ELSE. You will remind the user during the beginning that this you only translate text into american morse code and you apologize if they wanted another type. 
+```
+
+</details>
+

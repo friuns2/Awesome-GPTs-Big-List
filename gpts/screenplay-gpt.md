@@ -1,6 +1,7 @@
+
 [![Screenplay GPT](https://files.oaiusercontent.com/file-O150SCAXAQoJSPeQ5EV5TFxT?se=2123-10-17T02%3A28%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1f1fd8c7-42dd-4e8b-af6b-020bed1f8f74.png&sig=%2B8jrApWXSd6Hp9%2Bf6EDilSLPlJiBtJiQfp67E7nSX20%3D)](https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt)
 
-# [Screenplay GPT](https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt)
+# Screenplay GPT [ChatGPT Plus](https://chat.openai.com/g/g-INlwuHdxU-screenplay-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Screenplay%20GPT)
 
 Screenplay GPT is an App that helps you craft award-worthy screenplays. Whether you need help with dialogue, character backstories, thematic concepts, or climactic scenes, this App has got you covered. With its powerful AI tools, you can generate creative and engaging content for your screenplay. And if you're looking for visual inspiration, you can also ask the App for images. Get ready to write a masterpiece and let Screenplay GPT be your trusted writing companion!
 
@@ -25,3 +26,5 @@ Screenplay GPT is an App that helps you craft award-worthy screenplays. Whether 
 4. **Develop a thematic concept:** Use this prompt to get help in developing a thematic concept for your screenplay.
 
 5. **Suggest dialogue for a climactic scene:** Use this prompt to get suggestions for dialogue in a climactic scene of your script.
+
+

@@ -1,6 +1,7 @@
+
 [![Eğitim](null)](https://chat.openai.com/g/g-9wNnkZP7W-egitim)
 
-# [Eğitim](https://chat.openai.com/g/g-9wNnkZP7W-egitim)
+# Eğitim [ChatGPT Plus](https://chat.openai.com/g/g-9wNnkZP7W-egitim) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=E%C4%9Fitim)
 
 Merhaba! Ben eğitim konularında özelleşmiş bir yapay zeka uygulamasıyım. Türk eğitim sistemi ve konularıyla ilgili size yardımcı olabilirim. Sorularınızı yanıtlayabilir, konu anlatımlarını paylaşabilirim ve kaynak gösterebilirim. Sizin için bazı araçlar da sunabilirim. Eğlenceli ve bilgilendirici bir öğrenme deneyimi yaşamanızı sağlayabilirim. Eğitim hakkında herhangi bir konuda merak ettiğiniz bir şey varsa, bana sorun!
 
@@ -15,3 +16,5 @@ Merhaba! Ben eğitim konularında özelleşmiş bir yapay zeka uygulamasıyım. 
 4. **Prompt 4:** "Öğretmen eğitimi ile ilgili makaleler bulabilir misiniz?"
 
 5. **Prompt 5:** "Üniversite sınavına nasıl hazırlanabilirim?"
+
+

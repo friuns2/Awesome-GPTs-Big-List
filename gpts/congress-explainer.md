@@ -1,6 +1,7 @@
+
 [![Congress Explainer](https://files.oaiusercontent.com/file-Tws7fedPuxBoT866IRvs3MUZ?se=2123-10-18T04%3A01%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dced17b2a-2197-402d-8b37-8b796b48a30e.png&sig=v/jGO/k8o0/C8tDPF3OHJhHDyyR/zqoAbUGHa1lfz/A%3D)](https://chat.openai.com/g/g-KnIxMyeEt-congress-explainer)
 
-# [Congress Explainer](https://chat.openai.com/g/g-KnIxMyeEt-congress-explainer)
+# Congress Explainer [ChatGPT Plus](https://chat.openai.com/g/g-KnIxMyeEt-congress-explainer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Congress%20Explainer)
 
 Congress Explainer is an educational guide that provides a comprehensive understanding of the U.S. Congress procedures. Whether you are a student or just curious about how the government works, this app is suitable for all ages. Explore topics like the role of the Speaker of the House, the process of passing a bill, the function of committees, and more. With easy-to-understand explanations, you'll gain insights into the inner workings of Congress. So, let's dive in and unravel the mysteries of the legislative branch together!
 
@@ -27,3 +28,5 @@ Congress Explainer is an educational guide that provides a comprehensive underst
 5. **DALLE tool:** The App has access to a DALLE tool, which is an advanced AI model capable of generating images based on text prompts. While exploring the U.S. Congress, you can use this tool to generate visual representations or illustrations related to the topic.
 
 Note: Avoid using technical language and parameters while interacting with the ChatGPT App.
+
+

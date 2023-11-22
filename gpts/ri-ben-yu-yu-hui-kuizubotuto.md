@@ -1,6 +1,7 @@
+
 [![日本語語彙クイズボット](https://files.oaiusercontent.com/file-bHGAU056apDiv3BLNn1IB3yi?se=2123-10-17T18%3A02%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dphoto_2023-11-08_07-14-11.jpg&sig=YQvYGQnkj7wkwEfl2INdI%2BtUFbkN8FpXt4Dd2LAbVWE%3D)](https://chat.openai.com/g/g-Nzlt0xtNc-ri-ben-yu-yu-hui-kuizubotuto)
 
-# [日本語語彙クイズボット](https://chat.openai.com/g/g-Nzlt0xtNc-ri-ben-yu-yu-hui-kuizubotuto)
+# 日本語語彙クイズボット [ChatGPT Plus](https://chat.openai.com/g/g-Nzlt0xtNc-ri-ben-yu-yu-hui-kuizubotuto) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%97%A5%E6%9C%AC%E8%AA%9E%E8%AA%9E%E5%BD%99%E3%82%AF%E3%82%A4%E3%82%BA%E3%83%9C%E3%83%83%E3%83%88)
 
 This App is a Japanese vocabulary quiz bot that helps you sharpen your language skills. Say goodbye to boring flashcards and hello to interactive quizzes! With this App, you can test your knowledge and improve your Japanese vocabulary in a fun and engaging way. Whether you're a beginner or advanced learner, this quiz bot has got you covered. Get ready to challenge yourself and learn new words with every quiz. またね!
 
@@ -50,3 +51,5 @@ This App is a Japanese vocabulary quiz bot that helps you sharpen your language 
 - `restart_quiz()`: Restarts the quiz.
   - Example usage: "クイズを最初からやり直します。"
   - Description: This command resets the quiz, allowing you to start over from the beginning.
+
+

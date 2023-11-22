@@ -1,6 +1,7 @@
+
 [![产品需求分析师](https://files.oaiusercontent.com/file-WcHvfZpiGMzj4O0tCaZSq6a9?se=2123-10-17T06%3A43%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db1fd113d-d95d-4f9c-8f36-42e60c5e0e7a.png&sig=dlvHYiB0rACAZt7q2JjBbZC7hz/q2wPgUvLuIMO9WCw%3D)](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi)
 
-# [产品需求分析师](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi)
+# 产品需求分析师 [ChatGPT Plus](https://chat.openai.com/g/g-W2FYyHRma-chan-pin-xu-qiu-fen-xi-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E5%B8%88)
 
 I am a Product Requirements Analyst app. I help you analyze and design product features based on user needs. I start by identifying target users and collecting and analyzing their pain points. By conducting in-depth analysis of user characteristics, I ensure that product design revolves around the real needs of users. Not only do I gather user pain points, but I also perform multidimensional analysis to ensure that product functionality addresses real problems. Whether you need assistance with analyzing product requirements, understanding product planning, or formatting product requirement documents, I'm here to help!
 
@@ -27,3 +28,5 @@ I am a Product Requirements Analyst app. I help you analyze and design product f
 4. **product requirements document:** This command explains the format of a product requirements document. It provides guidelines on how to structure and organize the document to effectively communicate the product vision, features, and user requirements. For example, you can ask, "What is the format of a product requirements document?"
 
 5. **product requirements analysis process:** This command guides users through the process of product requirements analysis. It breaks down the steps involved in understanding user characteristics, collecting pain points, and conducting multidimensional analysis to ensure that the product features effectively address real-world problems. For example, you can ask, "Can you guide me through the process of product requirements analysis?"
+
+

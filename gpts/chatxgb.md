@@ -1,6 +1,7 @@
+
 [![ChatXGB](https://files.oaiusercontent.com/file-2A75JzrlEL3OtHu3KQBXhVsS?se=2123-10-14T12%3A36%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De73f9931-64c4-4e87-88fc-8090bdea1f9c.png&sig=rH8WcY6d1CREZSTxKtH9xVEXEkm1FGF8RwXLAFlzUCA%3D)](https://chat.openai.com/g/g-dq9i42tRO-chatxgb)
 
-# [ChatXGB](https://chat.openai.com/g/g-dq9i42tRO-chatxgb)
+# ChatXGB [ChatGPT Plus](https://chat.openai.com/g/g-dq9i42tRO-chatxgb) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChatXGB)
 
 ChatXGB is a GPT chatbot that specializes in writing and provides assistance with technical questions related to the XGBoost algorithm and library. Whether you need to know how to use XGBoost with GPUs, train multi-target XGBoost, or optimize important hyper parameters, ChatXGB has got you covered. It can even help you with the installation process and inform you about Rust support in XGBoost. With ChatXGB, you'll have a knowledgeable companion to help you navigate the world of XGBoost. Just type your questions and let the chatbot do the rest!
 
@@ -26,3 +27,5 @@ ChatXGB is a GPT chatbot that specializes in writing and provides assistance wit
 | `hyperParameterOptimization` | This command provides information on the most crucial hyperparameters that need to be optimized for better performance. |
 | `installationGuide` | This command provides step-by-step instructions on how to install XGBoost on your system. |
 | `rustSupport` | This command provides information on whether XGBoost has support for Rust programming language. |
+
+

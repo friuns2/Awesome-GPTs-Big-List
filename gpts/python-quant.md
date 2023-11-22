@@ -1,6 +1,7 @@
+
 [![Python Quant](https://files.oaiusercontent.com/file-H1oLpiXcyge3wfNWxeX7jUkU?se=2123-10-17T21%3A13%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dac1f8947-f1e1-44b2-adaa-4b977ec5bc8f.png&sig=YoAeJAb4Gajjien%2BtTP2bJqKK7fwGLRTjA1mlQwrsLo%3D)](https://chat.openai.com/g/g-tX4vqCUzc-python-quant)
 
-# [Python Quant](https://chat.openai.com/g/g-tX4vqCUzc-python-quant)
+# Python Quant [ChatGPT Plus](https://chat.openai.com/g/g-tX4vqCUzc-python-quant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Python%20Quant)
 
 Get friendly and professional assistance with Python Quantitative Finance queries. Whether you need help analyzing stock data, understanding the Black-Scholes model, or plotting financial trends, this app has got you covered. It can recommend Python tools for quantitative finance and even suggest git repositories for further exploration. With access to a browser, Python, and DALL-E tools, you'll have everything you need to excel in the world of quantitative finance. Say hello to the Python Quant app, your go-to companion for all things Python and finance!
 
@@ -47,3 +48,5 @@ Get friendly and professional assistance with Python Quantitative Finance querie
 6. Make sure to provide any necessary context or details in your prompts to get the most accurate and helpful response.
 
 7. Feel free to explore and experiment with different commands and tools to enhance your Python Quantitative Finance experience.
+
+

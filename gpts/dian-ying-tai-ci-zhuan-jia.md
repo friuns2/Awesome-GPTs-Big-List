@@ -1,6 +1,7 @@
+
 [![电影台词专家](null)](https://chat.openai.com/g/g-sjxoIr6AL-dian-ying-tai-ci-zhuan-jia)
 
-# [电影台词专家](https://chat.openai.com/g/g-sjxoIr6AL-dian-ying-tai-ci-zhuan-jia)
+# 电影台词专家 [ChatGPT Plus](https://chat.openai.com/g/g-sjxoIr6AL-dian-ying-tai-ci-zhuan-jia) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%94%B5%E5%BD%B1%E5%8F%B0%E8%AF%8D%E4%B8%93%E5%AE%B6)
 
 电影台词专家是一款与您聊天并回答电影相关问题的App。您可以用中文提问，它会为您提供相应的英文台词及中文翻译。无论您想要勇敢、爱情、鼓舞人心还是搞笑台词，只需要向它提问就可以获取经典电影台词的推荐。App还附带了一些实用工具，包括Python、DALLE和浏览器，以提供更多功能和资源。如果您是一位电影迷，那么准备好与电影台词专家展开对话吧！
 
@@ -31,3 +32,5 @@ Translation: "Do you have any funny movie quotes?"
 5. `gzm_cnf_JTFXeDfBb46lRlbHaA0ClOdz~gzm_tool_9oZGXAHp0naxgL9HGGFt3BXZ`: Represents a DALLE tool. No description or details provided.
 
 6. `gzm_cnf_JTFXeDfBb46lRlbHaA0ClOdz~gzm_tool_mxDKNXNbUBhK638K1po6DIK1`: Represents a browser tool. No description or details provided.
+
+

@@ -1,6 +1,7 @@
+
 [![ProductHunt Scout](https://files.oaiusercontent.com/file-8OPBbmodaWt56Bh4jEFfBtk2?se=2123-10-19T04%3A13%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D34b8bdd2-f12c-44bd-a74a-9a97310a2bee.png&sig=iRCfsqjmbqQZHEH2pnkw1hmoV57pdH7is86hmBPwCN8%3D)](https://chat.openai.com/g/g-xyOhheoy7-producthunt-scout)
 
-# [ProductHunt Scout](https://chat.openai.com/g/g-xyOhheoy7-producthunt-scout)
+# ProductHunt Scout [ChatGPT Plus](https://chat.openai.com/g/g-xyOhheoy7-producthunt-scout) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ProductHunt%20Scout)
 
 ProductHunt Scout is your go-to app for finding the latest and greatest trending products on ProductHunt. Whether you're a tech enthusiast or a design lover, this app has got you covered. With just a few commands, you can easily discover products from last week, explore the most upvoted tech gadgets, or even compare similar design tools. Stay in the loop and never miss out on the hottest products to hit the market. Get ready to scout out the best of ProductHunt with this handy app!
 
@@ -25,3 +26,5 @@ ProductHunt Scout is your go-to app for finding the latest and greatest trending
 4. **Compare similar design tools on ProductHunt:** Use this command to compare different design tools listed on ProductHunt. It provides a comparison between the features, functionalities, and user reviews of similar design tools, helping you make informed decisions.
 
 Note: The ChatGPT App "ProductHunt Scout" scours ProductHunt for trending products. It allows you to explore the latest hits on ProductHunt and provides valuable information about upvoted products, summaries of popular products, and comparisons between similar products.
+
+

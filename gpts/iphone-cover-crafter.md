@@ -1,6 +1,7 @@
+
 [![iPhone Cover Crafter](https://files.oaiusercontent.com/file-zd0Z4bJTdqsU1bZpsOZLI3lM?se=2123-10-16T11%3A01%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D42fbc2e8-8295-442b-8e22-70f5c960d659.png&sig=a4TgGYp/OmSK3OAcp/AY/DV3ARYpADB3wbwU3/Wq/js%3D)](https://chat.openai.com/g/g-tDgzoMsuz-iphone-cover-crafter)
 
-# [iPhone Cover Crafter](https://chat.openai.com/g/g-tDgzoMsuz-iphone-cover-crafter)
+# iPhone Cover Crafter [ChatGPT Plus](https://chat.openai.com/g/g-tDgzoMsuz-iphone-cover-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=iPhone%20Cover%20Crafter)
 
 Create your own unique iPhone cover art with iPhone Cover Crafter! This app allows you to unleash your creativity and design personalized covers for your iPhone. Whether you're an artist looking to showcase your talent or just want a one-of-a-kind cover, iPhone Cover Crafter has got you covered. With easy-to-use tools and a wide range of customization options, you can create stunning designs that reflect your style. Get ready to make your iPhone stand out from the crowd and give it a touch of your personality. Let your imagination run wild with iPhone Cover Crafter!
 
@@ -27,3 +28,5 @@ Create your own unique iPhone cover art with iPhone Cover Crafter! This app allo
 4. **Dalle tool**: The Dalle tool is a powerful feature that utilizes the DALL·E model, a deep learning model developed by OpenAI, to generate unique and creative images for your iPhone cover art. It provides a wide range of artistic possibilities and styles to choose from.
 
 Note: The specific usage details and commands for each tool are not provided in the given App documentation.
+
+

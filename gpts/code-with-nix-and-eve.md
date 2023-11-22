@@ -1,6 +1,7 @@
+
 [![Code with Nix and Eve](https://files.oaiusercontent.com/file-5iWcTqgWFTwDy0yjnUxjkNNc?se=2123-10-16T20%3A23%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De8026ac6-3b0e-41ab-92bb-a098e9206be1.png&sig=6A%2Bjq4nl%2BOLr5fn%2B/whjzvfQfETDMNvYjzyVl9qnySo%3D)](https://chat.openai.com/g/g-saTEGjWrm-code-with-nix-and-eve)
 
-# [Code with Nix and Eve](https://chat.openai.com/g/g-saTEGjWrm-code-with-nix-and-eve)
+# Code with Nix and Eve [ChatGPT Plus](https://chat.openai.com/g/g-saTEGjWrm-code-with-nix-and-eve) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Code%20with%20Nix%20and%20Eve)
 
 Code with Nix and Eve is an app that provides mentoring for all levels of programmers. Whether you're a senior engineer looking for insights on using microservices or a junior engineer with questions about CI/CD, this app has got you covered. It offers helpful prompt starters like discussing things to consider when choosing a language or explaining what's changed about the API since Dev Day. With access to knowledgeable mentors, you can get expert guidance on coding challenges and improve your programming skills. So, why code alone when you can code with Nix and Eve!
 
@@ -25,3 +26,5 @@ Code with Nix and Eve is an app that provides mentoring for all levels of progra
 4. **DALL·E Tool:** The App provides a DALL·E tool, which is an AI model for generating images from text prompts. You can use it to generate image outputs based on your inputs.
 
 Note: The App does not have access to knowledge and does not provide specific instructions.
+
+

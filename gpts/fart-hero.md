@@ -1,6 +1,7 @@
+
 [![Fart Hero](https://files.oaiusercontent.com/file-ZKclUNHoouETA8P3PKW9L0W5?se=2123-10-17T12%3A40%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dec846e3f-7fe4-4902-8d2a-ed1822165666.png&sig=sJ%2B2zBbH3cNRohIXduIetIHmeSaTpvLf4rFvXlzBA3w%3D)](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero)
 
-# [Fart Hero](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero)
+# Fart Hero [ChatGPT Plus](https://chat.openai.com/g/g-IDXGJ9gLk-fart-hero) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Fart%20Hero)
 
 Fart Hero is a hilarious app that lets you create personalized fart sounds based on your friends' descriptions. Simply name your friend and describe their vibe, and the app will generate their signature fart sound! It's a fun way to add laughter to your conversations and share some lighthearted humor with your friends. Whether you're pranking your buddies or just need a good laugh, Fart Hero has got you covered!
 
@@ -23,3 +24,5 @@ Fart Hero is a hilarious app that lets you create personalized fart sounds based
 3. **Welcome message**: The app provides a welcome message to introduce its functionality: "Need a laugh? Describe a fart and I'll create its sound!"
 
 Note: The app has access to knowledge, but the specific instructions and tools are not provided in the documentation.
+
+

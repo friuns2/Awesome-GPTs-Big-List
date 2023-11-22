@@ -1,6 +1,7 @@
+
 [![DnD GPT](https://files.oaiusercontent.com/file-idIi41BZpmq0xgPEgmcTsFpB?se=2123-10-17T11%3A34%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6fda6282-4d9c-4160-839d-e4eccd798289.png&sig=zXjZn3B0WBn//8hCYuTPE3W17Zie2a/ALCFD7PkRf7k%3D)](https://chat.openai.com/g/g-EdqvwCQkF-dnd-gpt)
 
-# [DnD GPT](https://chat.openai.com/g/g-EdqvwCQkF-dnd-gpt)
+# DnD GPT [ChatGPT Plus](https://chat.openai.com/g/g-EdqvwCQkF-dnd-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DnD%20GPT)
 
 DnD GPT is your trusty companion for creative storytelling and rule guidance in the world of Dungeons and Dragons. Whether you're a seasoned DM or a new player, this app is here to assist you on your epic adventures. With prompt starters like 'Start Game' and 'Explain the rules', you can easily kickstart your DnD sessions. Plus, you can access useful tools like Python, a browser, and DALLE for enhanced gameplay. Get ready to roll the dice and immerse yourself in the world of fantasy!
 
@@ -27,3 +28,5 @@ DnD GPT is your trusty companion for creative storytelling and rule guidance in 
 4. **Quest suggestions:** If you're looking for interesting quests or adventures to include in your Dungeons and Dragons campaign, you can use this command. The DnD GPT App will provide you with a list of quest ideas, story hooks, and potential encounters to inspire your storytelling.
 
 5. **Resolve disputes:** If you encounter a dispute or conflict during a game session, the DnD GPT App can provide guidance and suggestions on how to resolve it. You can describe the situation and ask for advice on handling conflicts between players, interpretation of rules, or any other gaming-related disagreement. The App will provide suggestions to help facilitate a fair and enjoyable gaming experience.
+
+

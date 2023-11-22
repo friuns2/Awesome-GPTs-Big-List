@@ -1,6 +1,7 @@
+
 [![AskYourPDF Research Assistant](https://github.com/AskYourPdf/ask-plugin/blob/main/aypp_logo.png?raw=true)](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant)
 
-# [AskYourPDF Research Assistant](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant)
+# AskYourPDF Research Assistant [ChatGPT Plus](https://chat.openai.com/g/g-UfFxTDMxq-askyourpdf-research-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AskYourPDF%20Research%20Assistant)
 
 Enhance your research with the AskYourPDF Research Assistant. Chat with multiple files, generate articles with citations, analyze and generate references for papers, create and interact with a knowledge base of your files and much more.
 
@@ -39,3 +40,5 @@ Enhance your research with the AskYourPDF Research Assistant. Chat with multiple
 11. **Search Knowledge Bases:** Search knowledge bases based on a search query.
 
 Note: Some commands may require additional arguments or parameters that are not specified in the prompt. Please refer to the App documentation for more details on command usage.
+
+

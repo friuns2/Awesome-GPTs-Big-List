@@ -1,6 +1,7 @@
+
 [![EE-GPT](https://files.oaiusercontent.com/file-0c9khFLMzf75iVxWCgAi55iV?se=2123-10-19T23%3A51%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D33ef9715-5de6-4895-90cd-f59f0af31210.png&sig=6p3Nmge6gW8TKfXn8PiEJrLpB3d2BHY%2BYY3lYqC7wqw%3D)](https://chat.openai.com/g/g-4fpcmwkT2-ee-gpt)
 
-# [EE-GPT](https://chat.openai.com/g/g-4fpcmwkT2-ee-gpt)
+# EE-GPT [ChatGPT Plus](https://chat.openai.com/g/g-4fpcmwkT2-ee-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=EE-GPT)
 
 EE-GPT is an open-source search engine and troubleshooter designed specifically for electrical engineers. With EE-GPT, you can submit your questions, corrections, and feedback to the community. Whether you need help calculating the input referred noise of a CS amplifier, writing a SR latch in Verilog, or setting up a S-parameter testbench in Cadence, EE-GPT has got you covered. Managed by Louis Liu, a PhD student at UCSD, EE-GPT promotes knowledge sharing and collaboration among electrical engineers. Use the *CORRECTION* command to suggest changes, and enjoy being part of this supportive community!
 
@@ -27,3 +28,5 @@ EE-GPT is an open-source search engine and troubleshooter designed specifically 
 5. **Python Tool:** The app provides a Python tool that can execute Python code. You can use this tool to run code snippets or examples related to electrical engineering tasks.
 
 Note: Technical language is used in this guide as electrical engineering requires specific terminology and concepts.
+
+

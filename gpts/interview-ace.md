@@ -1,6 +1,7 @@
+
 [![Interview Ace](https://files.oaiusercontent.com/file-lwaG8JeVmCurksCm8QlHpv8w?se=2123-10-17T16%3A46%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D85627a46-5909-424f-8804-90dce3ac4e88.png&sig=ZZqZNGyCnJF2vJuIEe%2BS%2BRGMTO8NcLqIILmySIpsOUI%3D)](https://chat.openai.com/g/g-qMYgDRXZU-interview-ace)
 
-# [Interview Ace](https://chat.openai.com/g/g-qMYgDRXZU-interview-ace)
+# Interview Ace [ChatGPT Plus](https://chat.openai.com/g/g-qMYgDRXZU-interview-ace) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Interview%20Ace)
 
 Interview Ace is a handy app that helps you excel in your job interviews and land your dream job. With the option to upload your redacted resume for a personalized experience, and the ability to enable voice, this app guides you through the interview process with ease. Simply upload your CV, share your name, job/course, and country, and let Interview Ace do the rest. It provides valuable tips and insights to help you navigate tricky interview questions and make a lasting impression. Don't let nerves get the best of you, let Interview Ace be your secret weapon to interview success!
 
@@ -27,3 +28,5 @@ Interview Ace is a handy app that helps you excel in your job interviews and lan
 4. **Welcome message**: The app greets you and prompts you to upload your CV, share your name, job/course, and country to personalize the experience.
 
 Note: Since there are no specific instructions or prompt starters mentioned in the provided data, the prompts are more general in nature.
+
+

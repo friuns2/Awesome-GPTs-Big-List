@@ -1,6 +1,7 @@
+
 [![Formulas4Notion](https://files.oaiusercontent.com/file-l8zSguvMPk2ZDOetO7eOEN20?se=2123-10-18T09%3A21%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8dc6316b-d124-4f2b-b491-4abd2fe0e051.png&sig=XiMuTXNuGY0EWIXX%2Brp3FF4%2BBX/u4EIvze%2BbrBNPMno%3D)](https://chat.openai.com/g/g-dOkgulsbb-formulas4notion)
 
-# [Formulas4Notion](https://chat.openai.com/g/g-dOkgulsbb-formulas4notion)
+# Formulas4Notion [ChatGPT Plus](https://chat.openai.com/g/g-dOkgulsbb-formulas4notion) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Formulas4Notion)
 
 Formulas4Notion is your personal assistant for writing formulas in Notion databases. Whether you need to create a deadline due this week, build a score column based on status values, concatenate column values, or style the text in a Notion formula, this app has got you covered. With the help of intuitive prompts, you can easily navigate through formula creation and syntax. You can also access useful tools, such as a browser and Python integration, to enhance your formula-writing experience. Say goodbye to formula confusion and hello to Formulas4Notion!
 
@@ -23,3 +24,5 @@ Formulas4Notion is your personal assistant for writing formulas in Notion databa
 3. **Help me to concatenate column values:** This command assists you in concatenating column values in a Notion formula. You can combine multiple text or number values from different columns into a single column using this command. It can be helpful for organizing and manipulating data in your Notion database.
 
 4. **How can I style the text in a Notion formula:** This command provides guidance on how to style the text in a Notion formula. You can use various formatting options, such as bold, italic, underline, or changing the font color, to enhance the appearance of your formulas in Notion.
+
+

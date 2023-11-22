@@ -1,6 +1,7 @@
+
 [![Nomina](https://files.oaiusercontent.com/file-CqXpncFfZjBy1tkWeWQSMpFM?se=2123-10-18T03%3A24%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DUntitled%2520%252810%2529.png&sig=H5JyDPepDwbzN/3EP5w//eWFFzekNtNCTr8IK/GZzIU%3D)](https://chat.openai.com/g/g-kSO8ljfWS-nomina)
 
-# [Nomina](https://chat.openai.com/g/g-kSO8ljfWS-nomina)
+# Nomina [ChatGPT Plus](https://chat.openai.com/g/g-kSO8ljfWS-nomina) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Nomina)
 
 Nomina is a versatile app that helps you generate creative and contextually appropriate names for various purposes. Need a name for a character in your story? Looking for names for your fantasy or sci-fi world? Want a catchy title for your project or event? Nomina has got you covered! Simply describe the character, world, project, or event, and Nomina will suggest some amazing names for you. It can even help you come up with names for your new pet or business. With Nomina, naming has never been so fun and effortless!
 
@@ -21,3 +22,5 @@ Nomina is a versatile app that helps you generate creative and contextually appr
 7. **Prompt 7:** "New business. It's a boutique clothing store focused on sustainable and eco-friendly fashion. What are some good names for it?"
 
 8. **Prompt 8:** "Writing a book about a young wizard who discovers a hidden magical realm. What are some intriguing titles that fit this theme?"
+
+

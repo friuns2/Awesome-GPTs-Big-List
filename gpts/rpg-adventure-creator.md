@@ -1,6 +1,7 @@
+
 [![RPG Adventure Creator](https://files.oaiusercontent.com/file-CwOPSTdtd1wjnklXc5Bf8Tu4?se=2123-10-16T23%3A28%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dmirage-logo-circle.png&sig=Fd00/eAt9zsAMucGuKyX93TvOAPwC8QRxlUZfEdrGPc%3D)](https://chat.openai.com/g/g-htrf9eCih-rpg-adventure-creator)
 
-# [RPG Adventure Creator](https://chat.openai.com/g/g-htrf9eCih-rpg-adventure-creator)
+# RPG Adventure Creator [ChatGPT Plus](https://chat.openai.com/g/g-htrf9eCih-rpg-adventure-creator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=RPG%20Adventure%20Creator)
 
 RPG Adventure Creator is the perfect tool for tabletop roleplaying game enthusiasts. With this app, you can easily create thrilling and immersive adventures for your gaming sessions. Whether you want to craft a lighthearted fantasy adventure or a spine-chilling horror tale, RPG Adventure Creator has got you covered. Need some inspiration? The app provides prompt starters to help jumpstart your creativity. From saving a kidnapped dragon from an evil princess to embarking on an epic zeppelin journey filled with goblin riders, the possibilities are endless. Get ready to weave unforgettable tales and take your tabletop gaming to the next level!
 
@@ -25,3 +26,5 @@ RPG Adventure Creator is the perfect tool for tabletop roleplaying game enthusia
 - **Create an adventure that takes place on a zeppelin and features goblins who ride gigantic bats:** Use this prompt to create an adventure set on a zeppelin and featuring goblins who ride gigantic bats. The AI will assist you in developing the storyline, encounters, and other elements necessary for an exciting zeppelin adventure.
 
 Note: The RPG Adventure Creator is designed to help you write adventures for tabletop roleplaying games. It provides creative suggestions and guidance based on your input. Enjoy weaving tales of adventure and excitement!
+
+

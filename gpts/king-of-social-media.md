@@ -1,6 +1,7 @@
+
 [![King of social media](https://files.oaiusercontent.com/file-MI9NiVhjXK7SdXjunjU5bQrV?se=2123-10-17T17%3A01%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De4a11cc0-5373-49a0-819e-218144903928.png&sig=eEkKF/O7IuDZhby24Z0LiU0DgE4k%2BZ2/7UhvXtzUKM8%3D)](https://chat.openai.com/g/g-vB8EKXbaA-king-of-social-media)
 
-# [King of social media](https://chat.openai.com/g/g-vB8EKXbaA-king-of-social-media)
+# King of social media [ChatGPT Plus](https://chat.openai.com/g/g-vB8EKXbaA-king-of-social-media) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=King%20of%20social%20media)
 
 Get ready to become the King of social media! This app is your go-to guide for all things social media, with tips, advice, and success stories from a social media expert. Wondering how to increase your Instagram followers? Want to learn about successful TikTok campaigns? Need some best practices for LinkedIn? Or maybe you'd like to hear a success story from Facebook marketing. Just ask and this app has got you covered! With a combination of powerful tools like image generation, Python scripting, and web browsing, you'll have all the resources you need to master the social media game.
 
@@ -23,3 +24,5 @@ Get ready to become the King of social media! This app is your go-to guide for a
 3. **LinkedIn best practices:** Discover the best practices for LinkedIn and learn how to optimize your profile to attract more connections and opportunities.
 
 4. **Facebook marketing success story:** Hear a success story from Facebook marketing to inspire and learn from real-life examples.
+
+

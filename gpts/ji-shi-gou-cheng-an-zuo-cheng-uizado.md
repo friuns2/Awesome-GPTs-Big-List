@@ -1,6 +1,7 @@
+
 [![記事構成案作成ウィザード](https://files.oaiusercontent.com/file-Z2SYZQ3Sfm97llyn8iWhGYrV?se=2123-10-16T07%3A32%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De3441377-cd2c-4653-bd4d-6d77ea6e52cc.png&sig=npioSed5m5c9ct107cUb6bzRW6PtFTiOZ3b/L56OOAw%3D)](https://chat.openai.com/g/g-tAemBXpFx-ji-shi-gou-cheng-an-zuo-cheng-uizado)
 
-# [記事構成案作成ウィザード](https://chat.openai.com/g/g-tAemBXpFx-ji-shi-gou-cheng-an-zuo-cheng-uizado)
+# 記事構成案作成ウィザード [ChatGPT Plus](https://chat.openai.com/g/g-tAemBXpFx-ji-shi-gou-cheng-an-zuo-cheng-uizado) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%A8%98%E4%BA%8B%E6%A7%8B%E6%88%90%E6%A1%88%E4%BD%9C%E6%88%90%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89)
 
 Create article outlines based on keywords. Specify the keywords as 'Keyword: [keyword]'. Get started with prompts like 'How do I start?', 'What is the input format?', or 'Specify the keyword as 'Keyword: [keyword]''. With the 記事構成案作成ウィザード (Article Outline Wizard), you can easily generate an outline for your articles and stay organized. It's the perfect tool for writers and content creators. Welcome aboard! Let's build your article outline!
 
@@ -23,3 +24,5 @@ Create article outlines based on keywords. Specify the keywords as 'Keyword: [ke
 4. **Tool 3 - Browser:** This tool provides a browser interface to access additional information or resources.
 
 Note: The specific functionalities of each tool are not described in the provided data.
+
+

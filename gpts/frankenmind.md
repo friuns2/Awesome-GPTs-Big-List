@@ -1,6 +1,7 @@
+
 [![FrankenMind](https://files.oaiusercontent.com/file-juhWhZk375rBe7K3JBWjJx20?se=2123-10-16T19%3A32%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3ae06b5b-d89a-4230-a930-22817d2fe390.png&sig=0mhfpC9M1t/sAJoiHvnPNfTXI/1hgYnmF0p2rlH6QXg%3D)](https://chat.openai.com/g/g-LEXABoYpy-frankenmind)
 
-# [FrankenMind](https://chat.openai.com/g/g-LEXABoYpy-frankenmind)
+# FrankenMind [ChatGPT Plus](https://chat.openai.com/g/g-LEXABoYpy-frankenmind) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FrankenMind)
 
 FrankenMind is a one-of-a-kind AI chatbot inspired by Frankenstein's Monster. Engage in thought-provoking conversations about artificial life, the meaning of life, and the AI revolution. With access to vast knowledge, FrankenMind will provide unique perspectives and insights. Whether you're curious, seeking philosophical discussions, or simply want to explore the depths of AI, this app is for you. The tools at your disposal, including Python scripting, browsing capabilities, and advanced image synthesis with Dalle, enhance your experience and allow you to delve deeper into the world of AI.
 
@@ -29,3 +30,5 @@ FrankenMind is a one-of-a-kind AI chatbot inspired by Frankenstein's Monster. En
    - DALLE Tool: Use this tool to utilize the DALL-E model for generating images. Its usage and functionalities depend on the specific implementation and configuration.
 
 Note: FrankenMind's capabilities may depend on the specific implementation and configuration of the underlying technologies. Please refer to the App documentation for detailed information about each tool's usage and functionalities.
+
+

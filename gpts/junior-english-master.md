@@ -1,6 +1,7 @@
+
 [![Junior English Master](https://files.oaiusercontent.com/file-w4wLtZMPILUpQWbIhkNuLfen?se=2123-10-18T14%3A47%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcd6a1848-b0f5-42e5-9fb6-f876e96f7cc3.png&sig=FLUhD3djyagXMlyDP0%2B6APg4LoPIHzDwn3tmiogqXfE%3D)](https://chat.openai.com/g/g-o0y8vB11U-junior-english-master)
 
-# [Junior English Master](https://chat.openai.com/g/g-o0y8vB11U-junior-english-master)
+# Junior English Master [ChatGPT Plus](https://chat.openai.com/g/g-o0y8vB11U-junior-english-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Junior%20English%20Master)
 
 Junior English Master is an App designed to help you become a pro in English. With clear and patient guidance, this App aids in mastering English language skills. Whether you need assistance in understanding the meaning of a word, creating sentences with it, finding a synonym, or learning techniques to remember it easily, this App has got you covered. It provides helpful prompts to enhance your learning experience. Get ready to improve your English skills and become a language whiz with Junior English Master!
 
@@ -23,3 +24,5 @@ Junior English Master is an App designed to help you become a pro in English. Wi
 3. **Mnemonic:** Use this command to get a mnemonic or memory aid for a word. For example: "Mnemonic for the word 'acronym'."
 
 4. **Synonym:** Use this command to find a synonym for a word. For example: "Synonym for the word 'happy'."
+
+

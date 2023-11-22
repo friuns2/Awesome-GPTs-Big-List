@@ -1,6 +1,7 @@
+
 [![CrimRxiv AI Chatbot](null)](https://chat.openai.com/g/g-CDUSsfFCe-crimrxiv-ai-chatbot)
 
-# [CrimRxiv AI Chatbot](https://chat.openai.com/g/g-CDUSsfFCe-crimrxiv-ai-chatbot)
+# CrimRxiv AI Chatbot [ChatGPT Plus](https://chat.openai.com/g/g-CDUSsfFCe-crimrxiv-ai-chatbot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CrimRxiv%20AI%20Chatbot)
 
 CrimRxiv AI Chatbot is a helpful companion for those interested in criminology. The chatbot is designed to provide information and answer questions related to criminology topics. With access to a wealth of knowledge, this chatbot can help users explore various aspects of criminology, from crime prevention strategies to criminal behavior theories. Whether you're a criminology student or simply curious about the subject, this chatbot is here to assist you on your journey. Just say hello to get started and let the chatbot be your guide in the fascinating world of criminology.
 
@@ -23,3 +24,5 @@ CrimRxiv AI Chatbot is a helpful companion for those interested in criminology. 
 2. **Use Dalle Model:** This command activates the Dalle AI model, which can assist with generating text or answering questions based on the provided prompts.
 
 Note: The usage of the browser tool and Dalle model can be combined to gather information and generate responses related to criminology and criminal justice topics.
+
+

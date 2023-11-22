@@ -1,6 +1,7 @@
+
 [![Date & Time Calculator](https://files.oaiusercontent.com/file-3sj8X0mqOQaAR5owceIj86MX?se=2123-10-16T22%3A48%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7d21f0ca-53ef-429f-92c8-cdcf331da622.png&sig=g9LfwEm9R2K6qdu6Ze%2BbtTzRFdTakwPr0CLiHPPhqa4%3D)](https://chat.openai.com/g/g-VwiQOECeU-date-time-calculator)
 
-# [Date & Time Calculator](https://chat.openai.com/g/g-VwiQOECeU-date-time-calculator)
+# Date & Time Calculator [ChatGPT Plus](https://chat.openai.com/g/g-VwiQOECeU-date-time-calculator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Date%20%26%20Time%20Calculator)
 
 This app is a handy tool for precise date and time calculations. Whether you need to know the date in 180 days, calculate how many more hours you need to work this week, add or subtract weeks from a specific date, or even subtract minutes from a given time, this app has got you covered. No more manual calculations or confusion, let the Date & Time Calculator handle it all for you. With a simple and intuitive interface, you can easily input your calculations and get accurate results in seconds. Say goodbye to date and time dilemmas with this app!
 
@@ -35,3 +36,5 @@ This app is a handy tool for precise date and time calculations. Whether you nee
 4. **Subtract time from a specific time:** You can subtract a certain amount of time, such as hours, minutes, or seconds, from a specific time.
 
    Example command: "Subtract 30 minutes from 2 PM."
+
+

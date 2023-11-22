@@ -1,6 +1,7 @@
+
 [![PEP-E](https://files.oaiusercontent.com/file-jwt2XHpgrPv0pGfplGUJcnHI?se=2123-10-16T20%3A21%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20ebc3cf-f742-4c28-86f6-68837574f833.png&sig=hpivjl/sdRnGfuS1Bn/xfEzb7Doyg7UkEx6lC0M/UUw%3D)](https://chat.openai.com/g/g-Nx1XkpBdZ-pep-e)
 
-# [PEP-E](https://chat.openai.com/g/g-Nx1XkpBdZ-pep-e)
+# PEP-E [ChatGPT Plus](https://chat.openai.com/g/g-Nx1XkpBdZ-pep-e) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PEP-E)
 
 PEP-E is a chat-based app that brings fun and creativity to your conversations. As the DALL-E for Pepes, PEP-E can generate rare Pepe images for you based on your requests. Whether you want a Pepe with a twist or something completely different, PEP-E has got you covered. Just send a command like 'One rare Pepe please' or 'Anything but Pepe please!' and PEP-E will generate a unique Pepe image for you to share. Get ready for some memetastic fun with PEP-E!
 
@@ -23,3 +24,5 @@ Here are some commands you can use to interact with the PEP-E ChatGPT App:
 3. **Anything but Pepe please!**: This command instructs PEP-E to generate something other than a Pepe image.
 
 Please note that PEP-E does not have access to external knowledge and the available responses are generated based on the provided prompt and the available tools. PEP-E's responses may vary and are meant for fun and creative interactions. Enjoy your time with PEP-E!
+
+

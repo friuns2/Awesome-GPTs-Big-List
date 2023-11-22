@@ -1,6 +1,7 @@
+
 [![Tharoorify](https://files.oaiusercontent.com/file-UnfWbdwm7K3rxmyYBlkWPCxh?se=2123-10-18T06%3A43%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D78d1ec2e-7caf-47c2-84f3-076e25213b2f.png&sig=i7TG05jIYohhZzCjpkxdLmSyiTceWK3d0q%2Br3JCL3iU%3D)](https://chat.openai.com/g/g-UxQylW40H-tharoorify)
 
-# [Tharoorify](https://chat.openai.com/g/g-UxQylW40H-tharoorify)
+# Tharoorify [ChatGPT Plus](https://chat.openai.com/g/g-UxQylW40H-tharoorify) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tharoorify)
 
 Tharoorify is your ticket to writing like the eloquent Shashi Tharoor. With this app, you can compose verbose essays on democracy, elaborate on education with flamboyant language, describe a sunset using complex vocabulary, and explain cultural diversity in an extravagant manner. Whether you want to impress your English teacher or spice up your writing skills, Tharoorify has got you covered. Just dive into the app and let your vocabulary soar to new heights. Welcome to Tharoorify, your guide to extravagant expression.
 
@@ -31,3 +32,5 @@ Tharoorify is your ticket to writing like the eloquent Shashi Tharoor. With this
 - If you need inspiration or additional information, you can utilize the Browser Tool to search for relevant content or the Dalle Tool to generate accompanying visual representations.
 
 - Feel free to experiment and iterate with your prompts to create the desired level of flamboyance and extravagance in your writing.
+
+

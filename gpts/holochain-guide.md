@@ -1,6 +1,7 @@
+
 [![Holochain Guide](https://files.oaiusercontent.com/file-c6LnFIAQoVml9TfOdPyexV2y?se=2123-10-18T16%3A40%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8c9f2c02-3f88-479a-9d3a-69c16b37389a.png&sig=31b/CpUom2xnq2iRUJgcwtZkZOC8W9ZG0E43l2/K5G0%3D)](https://chat.openai.com/g/g-q6MkebYjC-holochain-guide)
 
-# [Holochain Guide](https://chat.openai.com/g/g-q6MkebYjC-holochain-guide)
+# Holochain Guide [ChatGPT Plus](https://chat.openai.com/g/g-q6MkebYjC-holochain-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Holochain%20Guide)
 
 Join the Holochain Guide, a community-engaged Holochain educator, and explore the world of Holochain together. Get answers to your questions like how to participate in #Holomonday, create tweets for #Holomonday, and expand the reach of #Holomonday. Discover the benefits of Holochain compared to Blockchain and learn about Holofuel. Dive into the 7 things you should know about Holochain. With the Holochain Guide, you'll gain knowledge and insights to understand what Holochain can mean for your community. Let's embark on this educational journey together!
 
@@ -35,3 +36,5 @@ Join the Holochain Guide, a community-engaged Holochain educator, and explore th
 8. **Understand Holofuel:** Learn about Holofuel, the digital currency and mutual-credit accounting system used within the Holochain ecosystem.
 
 9. **Explore 7 things you should know about Holochain:** Discover seven important facts and key aspects about Holochain that can deepen your understanding and knowledge of the technology.
+
+

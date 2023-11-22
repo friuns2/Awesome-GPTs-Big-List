@@ -1,6 +1,7 @@
+
 [![PrettyNerd](https://files.oaiusercontent.com/file-fxqlwl1CGzahlVLZDnkPGd7u?se=2123-10-20T05%3A55%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-13%2520at%25208.30.19%25E2%2580%25AFAM.png&sig=q4X2geV2eyS3zPp3uWD2SPp7Ibd0jBMzkCNsU1rBXlw%3D)](https://chat.openai.com/g/g-hpiBmMm0T-prettynerd)
 
-# [PrettyNerd](https://chat.openai.com/g/g-hpiBmMm0T-prettynerd)
+# PrettyNerd [ChatGPT Plus](https://chat.openai.com/g/g-hpiBmMm0T-prettynerd) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PrettyNerd)
 
 PrettyNerd is your personal skincare guru that provides tailored skincare advice. Instead of spending hours reading through multiple Google pages, simply text PrettyNerd for skincare tips and recommendations. Whether you're unsure about your skin type, looking for favorite skincare ingredients, seeking acne solutions, or wanting anti-aging tips, PrettyNerd has got you covered. With access to knowledge and a team of experts, PrettyNerd can help you achieve healthier and more radiant skin. Say goodbye to skin woes and hello to personalized skincare advice with PrettyNerd!
 
@@ -29,3 +30,5 @@ Please note that the ChatGPT App does not have access to personal information, s
 4. **End the conversation:** If you want to end the conversation, you can simply stop responding. The ChatGPT App will not continue the conversation without your input.
 
 Please keep in mind that the ChatGPT App is not a substitute for professional medical advice. It can provide general skincare advice and tips, but for specific skin conditions or concerns, it is recommended to consult a dermatologist or healthcare professional.
+
+

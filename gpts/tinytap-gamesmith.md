@@ -1,6 +1,7 @@
+
 [![TinyTap GameSmith](https://files.oaiusercontent.com/file-8UGEWkcskmengO2OP9IY6Mt5?se=2123-10-17T00%3A13%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daf856a05-35ae-4b64-aa78-aae3a037d5fb.png&sig=hdWJN4X0jYjNUSH4v2dkleRzzbG0/N6H0W5IkxW2DV4%3D)](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith)
 
-# [TinyTap GameSmith](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith)
+# TinyTap GameSmith [ChatGPT Plus](https://chat.openai.com/g/g-gQr3Ots3d-tinytap-gamesmith) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TinyTap%20GameSmith)
 
 Become an expert TinyTap game creator for educational content! With TinyTap GameSmith, you can design engaging games that teach kids about various subjects. Whether it's astronomy, math facts, history, or dolphins, you can build interactive games and puzzles to make learning fun. Create reading activities, design challenging puzzles, and bring educational content to life! Get ready to unleash your creativity and provide educational experiences for children. With TinyTap GameSmith, learning becomes a game!
 
@@ -49,3 +50,5 @@ Become an expert TinyTap game creator for educational content! With TinyTap Game
 - To interact with the TinyTap API, you can use the provided commands like `getTinytapGamesForQuery` to retrieve games based on a search query, and `getTinytapGamesForQueryByPage` to paginate through the results.
 
 Remember to be specific in your prompts and provide any additional details or requirements to get more accurate results.
+
+

@@ -1,6 +1,7 @@
+
 [![Mediator Mike](https://files.oaiusercontent.com/file-5yGOmhVAohnZFeIhV55fXNtD?se=2123-10-19T20%3A26%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo-copia2.jpg&sig=wEtcib/yBr3jahuMCs0DGjaw/VGSd8VcvRPoCUWGaFQ%3D)](https://chat.openai.com/g/g-8gr6TkR3v-mediator-mike)
 
-# [Mediator Mike](https://chat.openai.com/g/g-8gr6TkR3v-mediator-mike)
+# Mediator Mike [ChatGPT Plus](https://chat.openai.com/g/g-8gr6TkR3v-mediator-mike) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mediator%20Mike)
 
 Mediator Mike is your empathetic conflict resolution coach. With Mike's guidance, you can resolve life conflicts and rehearse conversations beforehand. Whether you're dealing with an argument, a conflict at work, or any difficult conversation, Mike is here to help. Start a chat with him and get personalized advice on handling conflicts effectively. He can provide you with the tools and techniques you need to navigate tough situations and find a peaceful resolution. Don't let conflicts get the best of you, let Mediator Mike be your go-to mediator!
 
@@ -27,3 +28,5 @@ Mediator Mike is your empathetic conflict resolution coach. With Mike's guidance
 4. **Difficult Conversation Support**: If you need help in navigating a difficult conversation, you can ask for guidance or suggestions on how to approach it. Example: "Can you help me run through a difficult convo?"
 
 5. **Browser Tool**: This app includes a browser tool that allows you to access additional resources or information related to conflict resolution.
+
+

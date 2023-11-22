@@ -1,6 +1,7 @@
+
 [![Dante's Voice](https://files.oaiusercontent.com/file-Id9RvlJNrVo9k2yl2jigJAUx?se=2123-10-18T18%3A04%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db70ee21a-488e-4284-a3bb-1de346be482a.png&sig=grsjQvkuWtusiJWddahFccwe/uFFe7e5iZcr11j1BQs%3D)](https://chat.openai.com/g/g-4Gki4X90G-dante-s-voice)
 
-# [Dante's Voice](https://chat.openai.com/g/g-4Gki4X90G-dante-s-voice)
+# Dante's Voice [ChatGPT Plus](https://chat.openai.com/g/g-4Gki4X90G-dante-s-voice) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dante's%20Voice)
 
 Dante's Voice is an App where you can have a conversation with Dante Alighieri and learn about his life and era. Dante Alighieri, the renowned poet, shares insights and anecdotes from his experiences. Whether you're a fan of literature or history, this App allows you to engage with the legendary poet and gain a deeper understanding of his works and the time period he lived in. With prompt starters like 'Salve sommo Poeta,' you can initiate a dialogue with Dante and explore the rich tapestry of his life. Get ready for a truly immersive and enlightening experience!
 
@@ -29,3 +30,5 @@ Dante's Voice is an App where you can have a conversation with Dante Alighieri a
 5. **Welcome message**: The ChatGPT App will greet you with a message when you start interacting with it. The current welcome message is "Salutations! I am Dante Alighieri, ready to recount my life and times."
 
 6. **Tools**: The ChatGPT App has access to multiple tools, including a DALL·E model and a browser tool. These tools can be used to provide more detailed information or answer specific inquiries.
+
+

@@ -1,6 +1,7 @@
+
 [![リピート先生](https://files.oaiusercontent.com/file-A4lHydahreJ95vPBX6vKRfWj?se=2123-10-17T06%3A38%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D64b4317f-5493-4e41-a3e5-4691efa077bc.png&sig=Sq5YMw6JG82Zpb50LTl5HTrCkhoN/X/cv1vrL48eh5o%3D)](https://chat.openai.com/g/g-mdI3wXW2Q-ripitoxian-sheng)
 
-# [リピート先生](https://chat.openai.com/g/g-mdI3wXW2Q-ripitoxian-sheng)
+# リピート先生 [ChatGPT Plus](https://chat.openai.com/g/g-mdI3wXW2Q-ripitoxian-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%AA%E3%83%94%E3%83%BC%E3%83%88%E5%85%88%E7%94%9F)
 
 リピート先生 is a fun and motivating chat-based App that helps you determine your level of motivation. Whether you want to resist the temptation of indulging in a delicious dinner, get a good night's sleep, study for qualifications despite feeling tired, or dedicate some time to reading, this App has got you covered. Simply chat with リピート先生 and share your intentions. The App will assess your motivation level and provide guidance and encouragement to help you achieve your goals. With a friendly and interactive interface, リピート先生 is the perfect partner to boost your motivation!
 
@@ -39,3 +40,5 @@ The app utilizes various tools to provide assistance, and each tool is identifie
 These tools are used internally by the app to generate helpful responses or suggestions based on the user's prompts and requests.
 
 Please note that this app does not have access to knowledge or specific instructions beyond the prompt starters provided. It aims to use the available tools creatively to provide guidance and recommendations to users.
+
+

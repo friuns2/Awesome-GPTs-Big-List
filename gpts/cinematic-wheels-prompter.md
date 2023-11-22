@@ -1,6 +1,7 @@
+
 [![Cinematic Wheels Prompter](https://files.oaiusercontent.com/file-k5T2PQWgngU8MsFK8SEveAPa?se=2123-10-17T07%3A10%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db296a10d-fb2f-4c93-8489-a7d168e2cbc4.png&sig=P%2B0XopEYJy62fuF714pcRx1Xbr8jcE%2BgE8cBvUrLfeQ%3D)](https://chat.openai.com/g/g-OPkSfFhkq-cinematic-wheels-prompter)
 
-# [Cinematic Wheels Prompter](https://chat.openai.com/g/g-OPkSfFhkq-cinematic-wheels-prompter)
+# Cinematic Wheels Prompter [ChatGPT Plus](https://chat.openai.com/g/g-OPkSfFhkq-cinematic-wheels-prompter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cinematic%20Wheels%20Prompter)
 
 Cinematic Wheels Prompter is an app that helps you create vivid prompts for cinematic vehicle scenes. Whether you're working on a chase scene, planning a heist, setting up a showdown, or deciding on the perfect lighting for a race, this app has got you covered! With its interactive tools, including a browser, Python, and DALLE, you can explore references, generate ideas, and bring your imagination to life. Get ready to rev up your creativity and make your vehicle scenes truly cinematic!
 
@@ -30,3 +31,5 @@ Cinematic Wheels Prompter is an app that helps you create vivid prompts for cine
 5. **Ready to rev up your imagination!** This is the welcome message when using the Cinematic Wheels Prompter App. It indicates that you can start using the App and prompts you to unleash your creativity.
 
 Note: The App also has access to various tools such as a browser, Python, and DALL·E, but their specific usage and functionalities are not described in the provided documentation.
+
+

@@ -1,6 +1,7 @@
+
 [![Chatter Spark](https://files.oaiusercontent.com/file-93i4TEGRUTmcqcuyuwlqL8Sq?se=2123-10-17T10%3A40%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D68f7f5c4-3547-4d15-9519-5e02e1e16008.png&sig=pY02lWS3PHjw%2BDpmn/KEaXNcJGRLEwFXcOsDiE7Owss%3D)](https://chat.openai.com/g/g-wtYtcJsgj-chatter-spark)
 
-# [Chatter Spark](https://chat.openai.com/g/g-wtYtcJsgj-chatter-spark)
+# Chatter Spark [ChatGPT Plus](https://chat.openai.com/g/g-wtYtcJsgj-chatter-spark) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chatter%20Spark)
 
 Chatter Spark is your friendly companion for small talk! If you're in need of conversation starters, this app is here to help. Whether you're at a coffee break, networking event, dinner party, or meeting a new neighbor, just ask for a topic, and Chatter Spark will suggest a light and approachable idea. No more awkward silences! With its arsenal of prompt starters, Chatter Spark will guide you towards engaging and enjoyable conversations. So, next time you need a friendly nudge to spark a chat, trust Chatter Spark to be your go-to small talk expert!
 
@@ -27,3 +28,5 @@ The **Chatter Spark** app can generate small talk topics for various social situ
 4. **Give me an idea for chatting with a new neighbor:** Receive conversation ideas to start getting to know your new neighbor better.
 
 Please note that the app does not have access to personal knowledge or information. It specializes in providing conversation prompts and does not offer specific instructions. Simply provide one of the example prompts or describe your desired situation, and the app will generate a friendly small talk topic for you.
+
+

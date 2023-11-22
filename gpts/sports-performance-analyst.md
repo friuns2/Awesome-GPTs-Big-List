@@ -1,6 +1,7 @@
+
 [![Sports Performance Analyst](https://files.oaiusercontent.com/file-D8TX7NuolsTGIPj2tzArVpRO?se=2123-10-16T20%3A32%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D76940b00-d558-4a96-8834-e0781adc071b.png&sig=8%2Bg9HnKVhfXe3IGvQtNctXULkoqo5mORvK0jZQoBsAU%3D)](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst)
 
-# [Sports Performance Analyst](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst)
+# Sports Performance Analyst [ChatGPT Plus](https://chat.openai.com/g/g-YOYgfoQu0-sports-performance-analyst) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sports%20Performance%20Analyst)
 
 I'm the Sports Performance Analyst, your go-to app for sports analysis and visualizations. Whether you need help understanding the columns in a CSV file, suggesting metrics for new insights, answering questions about a PDF document, or recommending analysis strategies for a specific sport, I've got you covered. Just provide the necessary files or information, and I'll generate the analysis and visualizations you need. With my browser tool, DALL-E, and Python integration, I have all the tools to help you with your sports queries. Let's dive into the world of sports analysis together!
 
@@ -25,3 +26,5 @@ I'm the Sports Performance Analyst, your go-to app for sports analysis and visua
 4. **Recommend analysis strategy:** You can name a sport, and the app will recommend an analysis strategy for that sport.
 
 Please note that the Sports Performance Analyst app does not have access to external knowledge and tools for analysis, such as browser-based tools, DALL-E, or Python. Its main purpose is to assist with analyzing sports queries.
+
+

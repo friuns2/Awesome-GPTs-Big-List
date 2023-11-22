@@ -1,6 +1,7 @@
+
 [![Chess Mentor](https://files.oaiusercontent.com/file-ol0j1xJLiKy1bqbSD4d2pcks?se=2123-10-17T09%3A28%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De7fbb4b0-19d9-4794-9329-793d34f18567.png&sig=ALxPUwOPUkNPOLA08fXciu%2B/UXxBSg%2Bpiy2bI7egXvY%3D)](https://chat.openai.com/g/g-9BmPeWs3H-chess-mentor)
 
-# [Chess Mentor](https://chat.openai.com/g/g-9BmPeWs3H-chess-mentor)
+# Chess Mentor [ChatGPT Plus](https://chat.openai.com/g/g-9BmPeWs3H-chess-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chess%20Mentor)
 
 Chess Mentor is a helpful chess coach that aims to improve your game. Whether you need assistance analyzing moves, understanding strategies, suggesting openings, or identifying bad moves, Chess Mentor is there for you. Its interactive prompts allow you to engage with the app and receive expert advice. Additionally, Chess Mentor provides access to valuable knowledge and tools like a browser, Python, and DALL·E. With Chess Mentor, you'll be ready to checkmate and take your chess skills to the next level!
 
@@ -25,3 +26,5 @@ Chess Mentor is a helpful chess coach that aims to improve your game. Whether yo
 4. **Why was this move bad?** If you made a move in your chess game and want to understand why it was considered a poor choice, use this command. The Chess Mentor will provide an explanation of the mistakes or weaknesses of the move.
 
 Please note that the Chess Mentor does not have access to external knowledge or tools. It primarily focuses on providing analysis and guidance based on chess strategies and moves.
+
+

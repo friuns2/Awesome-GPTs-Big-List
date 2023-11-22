@@ -1,6 +1,7 @@
+
 [![Personality Framework GPT](https://files.oaiusercontent.com/file-4pPxRFtU84HEF9a1bgWKBDE7?se=2123-10-17T02%3A50%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D07899503-6c06-46bc-a31c-42a3c03a1a1b.png&sig=eu1eP0RRi4Bu81g7k1f%2B8/fBp/JpuNnu4iwLSMeziO4%3D)](https://chat.openai.com/g/g-d4puCNZSr-personality-framework-gpt)
 
-# [Personality Framework GPT](https://chat.openai.com/g/g-d4puCNZSr-personality-framework-gpt)
+# Personality Framework GPT [ChatGPT Plus](https://chat.openai.com/g/g-d4puCNZSr-personality-framework-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Personality%20Framework%20GPT)
 
 Personality Framework GPT is an app that can accurately emulate and embody any personality. Whether it's a known personality or someone you want to talk to, simply provide a list of characteristics or details to get started. You can even have fictional characters like Dr. Horrible, Dr. Evil, Scott Evil, George Carlin, and Johnny Silverhand engage in discussions on topics like the balance between freedom and security. With the option to set profanity levels, you can have lively and expressive conversations. Get ready to explore different personalities and spark thought-provoking conversations!
 
@@ -35,3 +36,5 @@ Personality Framework GPT is an app that can accurately emulate and embody any p
 6. **welcome_message:** Displays a welcome message from the ChatGPT persona.
    
    Example usage: "What's your opening message?"
+
+

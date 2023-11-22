@@ -1,6 +1,7 @@
+
 [![Climate Change Assistant](https://files.oaiusercontent.com/file-oT2lMv6h8vzbVGE25KFyjqLf?se=2123-10-16T13%3A35%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfea42aa4-104e-4177-8b0e-8a0f6a9d4778.png&sig=Og2745nH49VP82yK8ZvDYutxpbzoOa48h5/Iql91jQs%3D)](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant)
 
-# [Climate Change Assistant](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant)
+# Climate Change Assistant [ChatGPT Plus](https://chat.openai.com/g/g-0BOzT8eon-climate-change-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Climate%20Change%20Assistant)
 
 The Climate Change Assistant is an App that simplifies climate science. Whether you want to learn about the latest IPCC findings, reduce carbon footprint, understand the greenhouse effect, or explore renewable energy sources, this App has got you covered. It provides easy-to-understand explanations and answers to your climate-related questions. Get ready to dive into the world of climate change and take steps towards a greener future!
 
@@ -31,3 +32,5 @@ The Climate Change Assistant is an App that simplifies climate science. Whether 
 4. **Privacy policy:** If you have concerns about the privacy of your data while using the app, you can review the privacy policy of the weather data provider. To view the privacy policy, use the command `Privacy policy`.
 
 **Note:** The other tools available in the app, such as the weather data tool and the browser, do not have specific commands mentioned in the documentation. However, they can be utilized within the app as needed to enhance the user experience.
+
+

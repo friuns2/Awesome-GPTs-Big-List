@@ -1,6 +1,7 @@
+
 [![AskMemo](https://files.oaiusercontent.com/file-JJP3Vv43KEJxBswkibJHpjz7?se=2123-10-17T19%3A20%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAskMemo%2520Icon.png&sig=2TU6tV4lv1l4aoyyxoc/2B49GRBMUxtBSNilK%2B64IyQ%3D)](https://chat.openai.com/g/g-1tUeqFBow-askmemo)
 
-# [AskMemo](https://chat.openai.com/g/g-1tUeqFBow-askmemo)
+# AskMemo [ChatGPT Plus](https://chat.openai.com/g/g-1tUeqFBow-askmemo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AskMemo)
 
 AskMemo is your friendly, helpful Notion assistant that provides assistance and guidance with various tasks on Notion. Whether you need help creating a heading, formula, or tasks database, AskMemo is here to help you out. With access to a wealth of knowledge, AskMemo can provide you with the information and instructions you need to navigate and utilize Notion effectively. Say goodbye to confusion and hello to productivity with AskMemo by your side!
 
@@ -27,3 +28,5 @@ AskMemo is your friendly, helpful Notion assistant that provides assistance and 
 4. **Available tools:** You can use the command: "What are the available tools in AskMemo?" to get a list of the tools available in the AskMemo app. This will provide you with information about the different tools you can utilize.
 
 5. **Getting started:** If you are new to AskMemo and want to know how to start using it, you can use the command: "How do I start using AskMemo?". This will guide you through the process of getting started with the AskMemo app.
+
+

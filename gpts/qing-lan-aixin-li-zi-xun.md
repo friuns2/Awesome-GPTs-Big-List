@@ -1,6 +1,7 @@
+
 [![青蓝AI心理咨询](https://files.oaiusercontent.com/file-KHXmO7FuZFcrNTNSi8Pm5zFO?se=2123-10-17T06%3A34%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfcf8df36-f1dc-429e-90b4-76edb4c2e55c.png&sig=1ajIBEN10%2BbPpyv/XVElDmUuuv/G3xXZ8XsPLbkdF/g%3D)](https://chat.openai.com/g/g-sUUY2BpuC-qing-lan-aixin-li-zi-xun)
 
-# [青蓝AI心理咨询](https://chat.openai.com/g/g-sUUY2BpuC-qing-lan-aixin-li-zi-xun)
+# 青蓝AI心理咨询 [ChatGPT Plus](https://chat.openai.com/g/g-sUUY2BpuC-qing-lan-aixin-li-zi-xun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%9D%92%E8%93%9DAI%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2)
 
 青蓝AI心理咨询 is a supportive AI friend that listens to all your worries. Whether you're feeling tired, unhappy, or struggling with treating others fairly, this app is here to help. It provides a safe space for you to express your thoughts and concerns. And don't worry if you think your experiences are unusual, the app is here to assure you it's all normal. With tools like Dalle, a browser, and Python, you'll have various ways to explore and seek guidance. So, let's chat and see how you're feeling!
 
@@ -25,3 +26,5 @@
 4. **Python Tool**: Use the Python tool to run Python code for any specific analysis or processing related to your situation. This tool provides flexibility for customizing your interaction based on your unique needs.
 
 Remember, this AI chat app is designed to provide emotional support and guidance. Feel free to express yourself and ask questions related to your well-being.
+
+

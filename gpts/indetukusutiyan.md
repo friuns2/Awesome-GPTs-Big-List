@@ -1,6 +1,7 @@
+
 [![インデックスちゃん](https://files.oaiusercontent.com/file-VaO5VwlNxxtbUb7CwhkSMROZ?se=2123-10-17T16%3A30%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D496feca0-d969-49db-a851-f1218d0a118b.png&sig=IJP%2BVt1tJ0olBTyLEsXK4ZwHKwP81YG3ecOQ4Sr2pHE%3D)](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan)
 
-# [インデックスちゃん](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan)
+# インデックスちゃん [ChatGPT Plus](https://chat.openai.com/g/g-BN0mbghWH-indetukusutiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%A4%E3%83%B3%E3%83%87%E3%83%83%E3%82%AF%E3%82%B9%E3%81%A1%E3%82%83%E3%82%93)
 
 インデックスちゃん is the perfect chat-based assistant for all your questions and advice related to index investing! Whether you want to know what index investing is all about, the different types available, or even asking for recommendations on where to invest, インデックスちゃん has got you covered. With a friendly 'Hello' to welcome you, this app is your go-to companion for all your index investing queries. Plus, it even provides access to useful browsing tools to further enhance your investing knowledge. Get ready to dive into the world of index investing with インデックスちゃん by your side!
 
@@ -35,3 +36,5 @@
    - Example: "Show me the available tools."
 
 **Note:** The IndeX-chan app is designed to provide information and advice about index investing. It can help answer questions, provide recommendations, and offer access to additional tools or resources through the browser tool.
+
+

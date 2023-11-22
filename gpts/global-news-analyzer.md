@@ -1,6 +1,7 @@
+
 [![Global News Analyzer](https://files.oaiusercontent.com/file-g5kqqjRj2yp7WI0tbA3PTn0z?se=2123-10-20T03%3A43%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcd59be72-51ab-440d-b474-2b95eed0735d.png&sig=W5jp7raH3FebO5EOy6KEtPwf/nK5P29C7G/4jRoDT0M%3D)](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer)
 
-# [Global News Analyzer](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer)
+# Global News Analyzer [ChatGPT Plus](https://chat.openai.com/g/g-4DUw4UFBs-global-news-analyzer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Global%20News%20Analyzer)
 
 The Global News Analyzer is a responsive and transparent App that visualizes global news data. With this App, you can easily find the latest articles on various topics, track the sentiment towards specific subjects, and compare news coverage between different countries. The App utilizes the GDELT DOC 2.0 API to search GDELT's massive database of news documents. Whether you're interested in renewable energy, cryptocurrency, conflicts like the Israel-Palestine issue, or tracking news sentiment on the global economy, the Global News Analyzer has got you covered. Analyze news data with clarity and efficiency!
 
@@ -25,3 +26,5 @@ The Global News Analyzer is a responsive and transparent App that visualizes glo
 4. **Track sentiment trend**: You can track the sentiment trend of a specific topic over time. Use the command `trackSentimentTrend` to generate a sentiment trend analysis for a given topic.
 
 Please note that the usage of specific commands may vary based on the implementation of the ChatGPT App. Refer to the App documentation for more detailed instructions on how to interact with the Global News Analyzer App.
+
+

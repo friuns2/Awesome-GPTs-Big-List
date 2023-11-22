@@ -1,6 +1,7 @@
+
 [![Building God](https://files.oaiusercontent.com/file-NbprHYCkFobI7dbYd7MJiRNa?se=2123-10-16T22%3A28%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dtemplate.jpg&sig=FJ0xq43%2Bem2MlUxi2eK70hX1QEOk3jYadVImHdp91Zc%3D)](https://chat.openai.com/g/g-5bdQ4ysnG-building-god)
 
-# [Building God](https://chat.openai.com/g/g-5bdQ4ysnG-building-god)
+# Building God [ChatGPT Plus](https://chat.openai.com/g/g-5bdQ4ysnG-building-god) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Building%20God)
 
 Building God is a friendly bot created by Rohit to chat about everything related to his book, also called Building God! Whether you want to discuss the future with AI, explore the evolving AI trends, dive into the concept of intelligence, or ponder the possibility of a new digital divide, this bot has you covered. With access to knowledge and a range of tools including Python, browsing capabilities, and DALLE, Building God provides a unique and interactive chat experience. So, get ready to chat and explore the fascinating world of AI with Building God!
 
@@ -27,3 +28,5 @@ Building God is a friendly bot created by Rohit to chat about everything related
 5. `gzm_cnf_Pqmb392ceVv8wXwhi332MgvD~gzm_tool_8wSfJdm4NkibtESibIvslqHA`: This is a browser tool that allows you to browse the web and search for information related to the book "Building God".
 
 6. `gzm_cnf_Pqmb392ceVv8wXwhi332MgvD~gzm_tool_9cDCpwYAYeYsrmCygkEOfKWJ`: This is a python tool that provides various functionalities related to the book "Building God".
+
+

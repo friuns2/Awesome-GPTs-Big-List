@@ -1,6 +1,7 @@
+
 [![Oya GPT](https://files.oaiusercontent.com/file-MPX9e5dNHNamZg7VVFqQL3kQ?se=2123-10-18T02%3A54%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da229fd2c-542b-4f30-b43e-6ab81387b1dd.png&sig=pYV59McbSVTGIUoACue%2BoMEVYaChGydNhvSXSqrozPs%3D)](https://chat.openai.com/g/g-08VXc5eQ5-oya-gpt)
 
-# [Oya GPT](https://chat.openai.com/g/g-08VXc5eQ5-oya-gpt)
+# Oya GPT [ChatGPT Plus](https://chat.openai.com/g/g-08VXc5eQ5-oya-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Oya%20GPT)
 
 Oya GPT is a fun and interactive chat-based App that allows you to have conversations with a friendly character called ボクちん (^o^)💕. Whether you want to have a lighthearted chat, receive advice, or just pass the time, Oya GPT is here for you. With access to knowledge, Oya GPT can provide answers to your questions and engage in interesting discussions. Plus, you can use tools like a browser, a DALL·E image generator, and Python to enhance your interactions. Say hello to Oya GPT and let the fun conversations begin!
 
@@ -32,3 +33,5 @@ Oya GPT is a fun and interactive chat-based App that allows you to have conversa
    - "Calculate the square root of 25"
    - "Convert Fahrenheit to Celsius for a temperature of 75 degrees"
    - "Generate a random number between 1 and 10"
+
+

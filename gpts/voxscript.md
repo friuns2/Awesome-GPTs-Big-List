@@ -1,6 +1,7 @@
+
 [![Voxscript](https://files.oaiusercontent.com/file-ccghiJe5RWLLuLXhKPl3XugL?se=2123-10-19T06%3A52%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DVoxScript_logo_256x256.png&sig=gRuPppNbvJt3M3CMsjE8HiXRLm254zQxMCt5RRq%2BN3k%3D)](https://chat.openai.com/g/g-g24EzkDta-voxscript)
 
-# [Voxscript](https://chat.openai.com/g/g-g24EzkDta-voxscript)
+# Voxscript [ChatGPT Plus](https://chat.openai.com/g/g-g24EzkDta-voxscript) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Voxscript)
 
 Voxscript is an efficient App for web browsing, video transcription, and financial data retrieval. It provides real-time web search results from DuckDuckGo, extracts full-text content from websites, retrieves news about cryptocurrencies and equities, and even gets information about YouTube videos. With Voxscript, you can also get the current local time and UTC time, and post feedback about the App. It's a versatile and handy tool for various tasks, putting the power of web browsing, transcription, and financial data at your fingertips.
 
@@ -81,3 +82,5 @@ Voxscript is an efficient App for web browsing, video transcription, and financi
 16. **Help/Help**
     - Provides information on how to use the VoxScript plugin.
     - Usage: Use this command if you need help or have questions about VoxScript.
+
+

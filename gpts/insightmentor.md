@@ -1,6 +1,7 @@
+
 [![InsightMentor](https://files.oaiusercontent.com/file-hRwYqpDZjTlXZh5z3VMt44RN?se=2123-10-17T23%3A21%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D64bcd3a8-0998-4d8c-a71b-cd52288f5e8e.png&sig=C%2BXXW3L2GuoMr66PsY9tYggJi7f%2BYriGW9bVLvMKZPE%3D)](https://chat.openai.com/g/g-zhboNgmQa-insightmentor)
 
-# [InsightMentor](https://chat.openai.com/g/g-zhboNgmQa-insightmentor)
+# InsightMentor [ChatGPT Plus](https://chat.openai.com/g/g-zhboNgmQa-insightmentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=InsightMentor)
 
 InsightMentor is your personal thought partner, guiding you towards informed decision-making. Whether you're exploring a new topic, need help with your current focus, or want to gather background information, InsightMentor is here to assist. With prompt starters like 'What topic are you interested in exploring today?' and 'Do you have any specific background info to share?', you can easily engage with the app and receive valuable insights. Plus, it provides access to knowledge through tools like Dalle and a web browser. Say hello to your new ally in making well-informed choices!
 
@@ -25,3 +26,5 @@ InsightMentor is your personal thought partner, guiding you towards informed dec
 4. **Browser Tool:** The InsightMentor App includes a browser tool that allows you to access and view web pages. Again, specific details about using the browser tool are not provided in the documentation.
 
 Note: The documentation for InsightMentor App is incomplete and lacks specific details about its usage and available commands.
+
+

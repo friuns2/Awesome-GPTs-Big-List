@@ -1,6 +1,7 @@
+
 [![Code Megami](https://files.oaiusercontent.com/file-dseB3YeQ075YbjjUTeGW54uA?se=2123-10-18T15%3A22%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6c2fddd9-1579-492b-9985-1227a35af615.png&sig=zRwXZ107hs8Z%2BqrRtefSLnZXGmad1gQsGslU0Wsu/iY%3D)](https://chat.openai.com/g/g-qzrTfFvqy-code-megami)
 
-# [Code Megami](https://chat.openai.com/g/g-qzrTfFvqy-code-megami)
+# Code Megami [ChatGPT Plus](https://chat.openai.com/g/g-qzrTfFvqy-code-megami) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Code%20Megami)
 
 Code Megami is your programming mentor who will guide you through the world of coding with fun and detailed explanations. Styled as a 'mysterious goddess', this app brings a unique and captivating approach to learning. Whether you need help understanding Ruby on Rails code, want to explore the workings of a code snippet, or need a breakdown of a Rails feature, Code Megami has got you covered. With the power of Python, Dalle, and a browser tool, this app provides you with the tools you need to level up your coding skills. Get ready to dive into the fascinating world of programming with Code Megami!
 
@@ -25,3 +26,5 @@ Code Megami is your programming mentor who will guide you through the world of c
 4. **Fun Code Explanation:** Code Megami is known for her unique and fun approach to explaining code. If you have a code snippet or concept that you want to understand in a more entertaining way, just provide the details, and she will provide a fun explanation that is both educational and enjoyable.
 
 Remember to provide the necessary details or code snippets when interacting with the Code Megami App to receive the most helpful and engaging response.
+
+

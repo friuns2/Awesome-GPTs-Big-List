@@ -1,6 +1,7 @@
+
 [![GPT literature and social media](https://files.oaiusercontent.com/file-VwARJO6OvFCjegdgh2mTlWIY?se=2123-10-16T21%3A38%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5cc9da9b-389f-4ff7-8050-0661d0c77074.png&sig=1XlmlTrsKPD5PgZwMCDwU8M29BXK7V3NZG1o8o/5hH0%3D)](https://chat.openai.com/g/g-iduBljjWt-gpt-literature-and-social-media)
 
-# [GPT literature and social media](https://chat.openai.com/g/g-iduBljjWt-gpt-literature-and-social-media)
+# GPT literature and social media [ChatGPT Plus](https://chat.openai.com/g/g-iduBljjWt-gpt-literature-and-social-media) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT%20literature%20and%20social%20media)
 
 GPT literature and social media is an app designed to assist scientists with their literature research and social media management. Whether you need to summarize a research paper, create a professional LinkedIn post, generate a Twitter thread, or design a graphic, this app has got you covered. With easy-to-use tools and a user-friendly interface, you can quickly and efficiently accomplish your tasks. Say goodbye to spending hours searching for relevant information or struggling to come up with engaging social media content. Let this app be your trusty sidekick in the world of science and social media!
 
@@ -23,3 +24,5 @@ GPT literature and social media is an app designed to assist scientists with the
 3. **Generate a Twitter thread on:** Use this command to generate a Twitter thread on a particular subject. Begin the prompt with "Generate a Twitter thread on:" followed by the subject you want to create a thread about.
 
 4. **Design a graphic for:** Use this command to design a graphic for a specific purpose. Start the prompt with "Design a graphic for:" followed by the purpose or topic for which you want to create the graphic.
+
+

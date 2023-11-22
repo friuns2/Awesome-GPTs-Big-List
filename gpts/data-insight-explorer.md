@@ -1,6 +1,7 @@
+
 [![Data Insight Explorer](https://files.oaiusercontent.com/file-zSOIQsdz1zjNGVn1fsOwIYPJ?se=2123-10-19T05%3A31%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc8b5b2f7-0cc0-47d6-94e5-ac789b1d0764.png&sig=PFulKcYEeT89qGTvZruBuwlxIxcLOr/Aj1oWm%2BQ5yA4%3D)](https://chat.openai.com/g/g-dleZnCTgC-data-insight-explorer)
 
-# [Data Insight Explorer](https://chat.openai.com/g/g-dleZnCTgC-data-insight-explorer)
+# Data Insight Explorer [ChatGPT Plus](https://chat.openai.com/g/g-dleZnCTgC-data-insight-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Data%20Insight%20Explorer)
 
 Data Insight Explorer is a powerful tool that extracts and presents valuable insights from files in user-friendly formats. Whether you have a CSV file, an Excel document, or any other dataset, this app can help you uncover key trends, summarize significant findings, and even create visual representations of your data. Simply upload your file and let Data Insight Explorer do the rest. With its intuitive interface and advanced analysis capabilities, this app is your go-to companion for exploring data and gaining valuable insights. Get ready to unlock the hidden potential of your files with Data Insight Explorer!
 
@@ -31,3 +32,5 @@ Data Insight Explorer is a powerful tool that extracts and presents valuable ins
 4. Identify significant findings in dataset:
    - Description: This command allows you to identify significant findings in a dataset.
    - Usage: Upload a dataset and ask ChatGPT to identify the significant findings in the data.
+
+

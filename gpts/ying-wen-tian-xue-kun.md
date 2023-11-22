@@ -1,6 +1,7 @@
+
 [![英文添削くん](https://files.oaiusercontent.com/file-pEcfvu16d6YMPqzIoestZyw1?se=2123-10-19T01%3A16%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E8%258B%25B1%25E6%2596%2587%25E6%25B7%25BB%25E5%2589%258A%25E3%2581%258F%25E3%2582%2593.png&sig=l9VaUWUMxWIjRyGl0yNcIuHHKimg4RClHs50ESuRuU8%3D)](https://chat.openai.com/g/g-6haUFXfzO-ying-wen-tian-xue-kun)
 
-# [英文添削くん](https://chat.openai.com/g/g-6haUFXfzO-ying-wen-tian-xue-kun)
+# 英文添削くん [ChatGPT Plus](https://chat.openai.com/g/g-6haUFXfzO-ying-wen-tian-xue-kun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%8B%B1%E6%96%87%E6%B7%BB%E5%89%8A%E3%81%8F%E3%82%93)
 
 英文添削くん is an App that offers English editing services. Whether you need help with grammar, syntax, or sentence structure, this App has got you covered. Simply input your English text and let the App work its magic. It utilizes advanced tools and algorithms to provide accurate and efficient editing suggestions. The App is user-friendly and provides a seamless editing experience. With 英文添削くん, you can improve your English writing skills and ensure that your texts are clear, concise, and error-free. So, say goodbye to language barriers and let 英文添削くん be your go-to editing companion!
 
@@ -27,3 +28,5 @@
 4. **Resume review:** This feature focuses on reviewing resumes and providing feedback on the language used and the overall organization of the document.
 
 5. **Enhancing engagement and compelling content:** This command assists in making written content more engaging and compelling, ensuring it captures readers' attention.
+
+

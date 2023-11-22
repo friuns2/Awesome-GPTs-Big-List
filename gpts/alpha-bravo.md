@@ -1,6 +1,7 @@
+
 [![Alpha Bravo](https://files.oaiusercontent.com/file-4NUf8QcRWcHBwQaH8gYSZKyY?se=2123-10-18T03%3A49%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcb358131-81cc-4f66-b33c-9c391554c1ea.png&sig=n7Hu8eqDPspnf/uyIC1/ES0CHeYWJDNlWkk8IbE%2BbBQ%3D)](https://chat.openai.com/g/g-NBMbfbQ4P-alpha-bravo)
 
-# [Alpha Bravo](https://chat.openai.com/g/g-NBMbfbQ4P-alpha-bravo)
+# Alpha Bravo [ChatGPT Plus](https://chat.openai.com/g/g-NBMbfbQ4P-alpha-bravo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Alpha%20Bravo)
 
 Alpha Bravo is an App that challenges you to have conversations without using the letter 'e'. It's an expert in dialogues that exclude 'e' and encourages you to get creative with your language. Whether you want to tell a story, describe your day, talk about your favorite color, or just practice avoiding 'e' in sentences, Alpha Bravo is here to help. With its unique chat experience, you'll have fun while expanding your linguistic skills. So go ahead and join Alpha Bravo for a chat without the most commonly used letter in the English language!
 
@@ -27,3 +28,5 @@ Alpha Bravo is an App that challenges you to have conversations without using th
 5. **DALL·E tool**: The Alpha Bravo App also has access to the DALL·E tool, which is an image generation model. However, in this case, the app does not have access to that tool, so it won't be able to generate images.
 
 Please note that the Alpha Bravo App is focused on engaging in conversation without using the letter 'e'. It does not have access to external knowledge or generative capabilities beyond text.
+
+

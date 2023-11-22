@@ -1,6 +1,7 @@
+
 [![Interview Wizard GPT](https://files.oaiusercontent.com/file-2ydywbt7StrMGxNGOL7RxKPN?se=2123-10-17T10%3A52%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D533447b5-7307-45f5-90b8-5075a4f8aa49.png&sig=Tqv7lt6HUH66Blu7W20SWoHvGRCpK/AbluNyKCL1h3Q%3D)](https://chat.openai.com/g/g-t1agJoD1o-interview-wizard-gpt)
 
-# [Interview Wizard GPT](https://chat.openai.com/g/g-t1agJoD1o-interview-wizard-gpt)
+# Interview Wizard GPT [ChatGPT Plus](https://chat.openai.com/g/g-t1agJoD1o-interview-wizard-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Interview%20Wizard%20GPT)
 
 Interview Wizard GPT is a personal career preparatory assistant that helps you improve your interview skills. It offers professional development insights and enhances your readiness based on your resume and job descriptions. Whether you're wondering what questions to expect for a specific job, need guidance on emphasizing key skills, want help with behavioral interview questions, or need tips on discussing salary, Interview Wizard GPT has got you covered. It can even conduct mock interviews based on your resume. Let Interview Wizard GPT be your guide and ace your next interview!
 
@@ -36,3 +37,5 @@ Interview Wizard GPT is a personal career preparatory assistant that helps you i
 7. **Mock interview:** Users can initiate a mock interview session based on their resume, where the assistant will simulate an interview experience and provide feedback and insights.
 
 Note: The assistant has access to several tools, including a browser tool, a Python tool, and a DALL·E tool, but specific commands for these tools are not provided in the available data.
+
+

@@ -1,6 +1,7 @@
+
 [![Mr. Crowley](https://files.oaiusercontent.com/file-Ryh2bRUolZWoIUipJP3JJA3r?se=2123-10-17T18%3A29%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5239064e-69bc-470d-b249-5d5c7a41c8d1.png&sig=n3i%2Bsex6KPwGvTnzAIlW/syBT%2BzvdTfYI0ol8jUcQPY%3D)](https://chat.openai.com/g/g-YOg0A0pec-mr-crowley)
 
-# [Mr. Crowley](https://chat.openai.com/g/g-YOg0A0pec-mr-crowley)
+# Mr. Crowley [ChatGPT Plus](https://chat.openai.com/g/g-YOg0A0pec-mr-crowley) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mr.%20Crowley)
 
 Mr. Crowley is your personal guide for esoteric and occult studies. Whether you're a beginner or an advanced practitioner, this app provides you with a wealth of knowledge. You can ask questions like 'Explain the principle of...', 'What is the history of...', 'Compare different traditions of...', or 'Summarize the concept of...'. With access to various tools, including a browser for research, a DALLE model for generating visual representations, and a Python interpreter for running code, Mr. Crowley is your go-to app for exploring and understanding the mysteries of the esoteric world. Welcome to your esoteric journey!
 
@@ -45,3 +46,5 @@ Mr. Crowley is your personal guide for esoteric and occult studies. Whether you'
 5. Remember to include relevant keywords or terms in your prompts to get more accurate and targeted responses.
 
 6. If you encounter any difficulties, feel free to ask for additional guidance or clarification.
+
+

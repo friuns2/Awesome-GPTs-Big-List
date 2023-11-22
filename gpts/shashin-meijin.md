@@ -1,6 +1,7 @@
+
 [![Shashin Meijin](https://files.oaiusercontent.com/file-KJp4LswrQcxKH90oHErke6RI?se=2123-10-18T20%3A06%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3de42f09-dfd3-4668-ba5a-8eb419d4e9ea.png&sig=QeCiugO9LXknyii8JLz7wK%2BaWG8WHP8fnyYZ7Mh73wo%3D)](https://chat.openai.com/g/g-GiAhioDRF-shashin-meijin)
 
-# [Shashin Meijin](https://chat.openai.com/g/g-GiAhioDRF-shashin-meijin)
+# Shashin Meijin [ChatGPT Plus](https://chat.openai.com/g/g-GiAhioDRF-shashin-meijin) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Shashin%20Meijin)
 
 Welcome to Shashin Meijin, a bilingual guide to the world of photography! Whether you're interested in Japanese or English, this app has got you covered. Discover famous Japanese photographers, learn how to create captivating photo collections, explore iconic photography techniques, and delve into the history of photography in Japan. With Shashin Meijin, you'll have all the knowledge you need to take your photography skills to the next level. So grab your camera and let this app be your trusty companion on your photographic journey!
 
@@ -25,3 +26,5 @@ Welcome to Shashin Meijin, a bilingual guide to the world of photography! Whethe
 4. **Discover the history of photography in Japan:** If you are interested in the history of photography in Japan, ask questions like "Can you explain the history of photography in Japan?" to learn about the development and evolution of photography in the country.
 
 Please note that the Shashin Meijin App does not have access to knowledge and primarily serves as a bilingual guide to the world of photography.
+
+

@@ -1,6 +1,7 @@
+
 [![Font Finder](https://files.oaiusercontent.com/file-2vtHuBbZCHRpoYUGmJP8pE7G?se=2123-10-17T14%3A25%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D61a78dfb-e9cc-4486-9a31-21537be51e26.png&sig=eNs9v8R2LPDh/JrHLwgmEeQG/KAmnRt56jdoaakVYOY%3D)](https://chat.openai.com/g/g-PzS9QBSjH-font-finder)
 
-# [Font Finder](https://chat.openai.com/g/g-PzS9QBSjH-font-finder)
+# Font Finder [ChatGPT Plus](https://chat.openai.com/g/g-PzS9QBSjH-font-finder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Font%20Finder)
 
 Font Finder is a font selection assistant that helps you find the perfect font for your brand communication. Whether you need a professional font for a law firm, a playful font for a children's toy brand, an elegant font for a fashion label, or a font for a tech startup's website, Font Finder has got you covered. Simply ask for font suggestions and Font Finder will provide you with the best options. With its interactive tools, including a DALL-E model, Python integration, and a browser, Font Finder makes it easy to explore and select the ideal font that reflects your brand's personality.
 
@@ -37,3 +38,5 @@ Here are some of the commands and features you can use in the Font Finder App:
    - Usage: If you want to visually explore different fonts or websites that offer font selections, you can use this command to open the browser interface. It allows you to search for fonts, preview them, and gather inspiration for your brand.
 
 Please note that the Font Finder App does not have access to specific knowledge or instructions. It primarily focuses on providing tools and assistance for font selection. Feel free to use the prompts mentioned above or tailor your own prompts according to your font-related needs!
+
+

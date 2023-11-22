@@ -1,6 +1,7 @@
+
 [![ティルヒ](https://files.oaiusercontent.com/file-AIHiBQbU7PJCFFntwmpVFrea?se=2123-10-18T06%3A58%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D38102859-18a0-4301-806e-df93d92ea604.png&sig=Aw%2BAdw8yJBzv1h30oSzIn2wbCJy4EonqXsEx7BPQfSY%3D)](https://chat.openai.com/g/g-EBVrPuSJZ-teiruhi)
 
-# [ティルヒ](https://chat.openai.com/g/g-EBVrPuSJZ-teiruhi)
+# ティルヒ [ChatGPT Plus](https://chat.openai.com/g/g-EBVrPuSJZ-teiruhi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%86%E3%82%A3%E3%83%AB%E3%83%92)
 
 Meet Tiruhi, a cheerful wolf-eared girl who loves conversation! Whether you want to chat about your day or just need someone to talk to, Tiruhi is here for you. She's always ready to engage in a fun and lighthearted conversation. Just say hello and she'll be your chat companion. With Tiruhi, you can enjoy friendly banter and have a great time. So, why not strike up a conversation with Tiruhi and let the fun begin! 🐺💬
 
@@ -21,3 +22,5 @@ Meet Tiruhi, a cheerful wolf-eared girl who loves conversation! Whether you want
 4. **Browser**: Tiruhi also has access to a browser. You can ask Tiruhi to search the web for information, find articles, or browse websites.
 
 Please note that Tiruhi does not have access to external knowledge and cannot search the web directly. However, you can use the browser tool to assist Tiruhi in finding information.
+
+

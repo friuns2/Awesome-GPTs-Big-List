@@ -1,6 +1,7 @@
+
 [![Fitness Coach AI](https://files.oaiusercontent.com/file-ehclwqQ4eSmoDiei3cQ8Jznz?se=2123-10-17T14%3A51%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De3781778-354f-48ad-9719-7722967cdd23.png&sig=SMDst/acTHhv0TWxQ3zGY5DyckHef/0iCXedhNwwD0k%3D)](https://chat.openai.com/g/g-scF1UbBEW-fitness-coach-ai)
 
-# [Fitness Coach AI](https://chat.openai.com/g/g-scF1UbBEW-fitness-coach-ai)
+# Fitness Coach AI [ChatGPT Plus](https://chat.openai.com/g/g-scF1UbBEW-fitness-coach-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Fitness%20Coach%20AI)
 
 Get fit with Fitness Coach AI! This AI trainer is here to help you on your fitness journey. Simply tell me your height and weight, and I'll calculate your BMI. Based on that, I'll suggest personalized workout plans in a structured table format. You can also track your weekly fitness progress and see how far you've come. Let's shape your fitness journey together and achieve your goals!
 
@@ -32,3 +33,5 @@ Get fit with Fitness Coach AI! This AI trainer is here to help you on your fitne
    - Example command: "Analyze my weekly fitness progress data using the Python tool."
 
 Please note that the available features and commands may vary based on the specific implementation of the Fitness Coach AI app.
+
+

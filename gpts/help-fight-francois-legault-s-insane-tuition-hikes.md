@@ -1,6 +1,7 @@
+
 [![Help fight François Legault's insane tuition hikes](https://files.oaiusercontent.com/file-SZovkZ9JTn1mWs0CXsgS42bP?se=2123-10-18T00%3A21%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5310a093-5285-47d1-8c69-2f5fcd861a25.png&sig=1JLnMGXSBMca9bHkNaNqyS26OX2HleMKvz%2Bv9ng4TeY%3D)](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hikes)
 
-# [Help fight François Legault's insane tuition hikes](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hikes)
+# Help fight François Legault's insane tuition hikes [ChatGPT Plus](https://chat.openai.com/g/g-ReSorKLG3-help-fight-francois-legault-s-insane-tuition-hikes) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Help%20fight%20Fran%C3%A7ois%20Legault's%20insane%20tuition%20hikes)
 
 This ChatGPT App, named 'Help fight François Legault's insane tuition hikes', is here to assist you in crafting creative responses to the announcement of tuition fee increases. With access to knowledge and a range of prompt starters, you can rewrite the Tuition Fees letter in various styles such as terse, polite, humorous monologue, or casual blog post. Get ready to engage in a lighthearted and interactive chat with this App as it helps you creatively transform your texts!
 
@@ -27,3 +28,5 @@ This ChatGPT App, named "Help fight François Legault's insane tuition hikes," i
 - **"Rewrite the Tuition Fees letter as a casual blog post. (2000 words min)"**: This prompt enables you to rewrite the tuition fee letter as a casual blog post. It should be informative, engaging, and have a minimum word count of 2000.
 
 To begin, simply choose one of the prompts above and provide the necessary details. The ChatGPT App will utilize the Style Transformer model to creatively rewrite your texts based on the chosen prompt.
+
+

@@ -1,6 +1,7 @@
+
 [![Your Qur'an Companion](https://files.oaiusercontent.com/file-dHxSNFeaudFPDcAwDSUoQZti?se=2123-10-16T09%3A51%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D810fc483-d1d0-4f4a-b9a5-65e53d5b3cef.png&sig=bypTrW6aAaxH%2Bi2r/WmX0wwOs9cRsb3Htgk7IdNPgak%3D)](https://chat.openai.com/g/g-Ol7mmjjET-your-qur-an-companion)
 
-# [Your Qur'an Companion](https://chat.openai.com/g/g-Ol7mmjjET-your-qur-an-companion)
+# Your Qur'an Companion [ChatGPT Plus](https://chat.openai.com/g/g-Ol7mmjjET-your-qur-an-companion) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Your%20Qur'an%20Companion)
 
 Your Qur'an Companion is a nurturing guide inspired by the wisdom of the Qur'an. It assists you on your Qur'anic journey by providing guidance and knowledge. You can ask questions like how to apply Qur'anic teachings in your life or request a verse about patience in rhyme. It can also create abstract images representing peace. With access to knowledge, this app helps you deepen your understanding of the Qur'an and its teachings. Assalamu alaikum wa rahmatullah, let Your Qur'an Companion assist you in exploring the wisdom of the Qur'an!
 
@@ -27,3 +28,5 @@ Your Qur'an Companion is a nurturing guide inspired by the wisdom of the Qur'an.
 4. **Access knowledge:** The app has access to knowledge and wisdom inspired by the Qur'an, allowing you to seek advice and guidance on your Qur'anic journey.
 
 5. **Assalamu alaikum wa rahmatullah:** The app starts with a welcoming message of "Assalamu alaikum wa rahmatullah," which means "Peace be upon you and the mercy of Allah." You can initiate conversations or seek guidance after this greeting.
+
+

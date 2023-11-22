@@ -1,6 +1,7 @@
+
 [![Excel Genie](https://files.oaiusercontent.com/file-83LOJO618ZiHoaQzSHjnJnCD?se=2123-10-18T04%3A04%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db41cbc20-e4f3-4c75-b957-60e6b6777c65.png&sig=pcRl1EUJ/5ce9X8vcR/aI0mc868HBB7ZhDQcl4spPs4%3D)](https://chat.openai.com/g/g-chBOK2ymp-excel-genie)
 
-# [Excel Genie](https://chat.openai.com/g/g-chBOK2ymp-excel-genie)
+# Excel Genie [ChatGPT Plus](https://chat.openai.com/g/g-chBOK2ymp-excel-genie) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Excel%20Genie)
 
 Excel Genie is a text-based Excel assistant that helps you manage your Excel tables using simple text commands. With Excel Genie, you can easily fill cells with data, set values for specific cells, apply formulas, and make changes to your table. It provides table results as text only, making it a convenient tool for those who prefer a text-based interface. Whether you're a beginner or an experienced Excel user, Excel Genie is here to assist you in managing your text-based Excel tables. Get ready to unleash the magic of Excel with Excel Genie!
 
@@ -29,3 +30,5 @@ The Excel Genie ChatGPT App is a text-based Excel assistant that provides table 
 4. **Change D5 to 'Total':** This command changes the value of the specified cell (D5) to the provided value ('Total').
 
 Please note that the Excel Genie ChatGPT App provides text-based results only and does not have access to additional knowledge or instructions beyond what is specified in the prompts and commands.
+
+

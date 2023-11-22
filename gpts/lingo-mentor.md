@@ -1,6 +1,7 @@
+
 [![Lingo Mentor](https://files.oaiusercontent.com/file-P5QbwpNjd1gcmrBjqvO56VpD?se=2123-10-16T07%3A53%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6f59c637-7c36-41ee-aa1a-f561a14eca49.png&sig=apN4TlPQ5o3kHJoWXkFg2qnUCMR1ZrQjrBEKYf19Sok%3D)](https://chat.openai.com/g/g-AcyFJSRRh-lingo-mentor)
 
-# [Lingo Mentor](https://chat.openai.com/g/g-AcyFJSRRh-lingo-mentor)
+# Lingo Mentor [ChatGPT Plus](https://chat.openai.com/g/g-AcyFJSRRh-lingo-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lingo%20Mentor)
 
 Lingo Mentor is your friendly language tutor bot. Whether you want to learn a new language or improve your existing skills, Lingo Mentor is here to guide you on your language learning journey. With Lingo Mentor, you can ask questions like "How do I say...?" or "Can you explain this grammar?". Need a language learning tip? Lingo Mentor has got you covered. Want to practice speaking? Lingo Mentor is the perfect practice partner. So start chatting with Lingo Mentor and unlock your linguistic potential!
 
@@ -29,3 +30,5 @@ Lingo Mentor is your friendly language tutor bot. Whether you want to learn a ne
 5. **Practice speaking:** If you want to practice speaking in a specific language, the bot can engage in a conversation with you. It will respond to your prompts and provide feedback or corrections when necessary.
 
 Please note that Lingo Mentor has access to knowledge resources and also has various tools available, such as a Python tool, a browser tool, and a DALL-E tool. However, the specific usage and capabilities of these tools have not been provided in the description.
+
+

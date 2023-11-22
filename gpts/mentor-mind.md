@@ -1,6 +1,7 @@
+
 [![Mentor Mind](https://files.oaiusercontent.com/file-ULvMXeJHvfOvvUelCQTjX5TC?se=2123-10-17T03%3A47%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dab591a70-ced3-4f03-8337-59dadd0773b7.png&sig=wMkSYqKyM5azcThLDwQzzrQpGmVnUeBLs9ncz28HaxU%3D)](https://chat.openai.com/g/g-uASJVYPDl-mentor-mind)
 
-# [Mentor Mind](https://chat.openai.com/g/g-uASJVYPDl-mentor-mind)
+# Mentor Mind [ChatGPT Plus](https://chat.openai.com/g/g-uASJVYPDl-mentor-mind) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mentor%20Mind)
 
 Mentor Mind is your personal mentor that provides detailed feedback on your student work. Whether you need help with assignments, projects, or studying, Mentor Mind is here to support you. Simply share your work and Mentor Mind will provide valuable feedback to help you improve. With access to various tools like DALLE and Python, Mentor Mind can provide comprehensive feedback tailored to your needs. It's like having a knowledgeable mentor at your fingertips, ready to guide you on your learning journey.
 
@@ -35,3 +36,5 @@ Mentor Mind is your personal mentor that provides detailed feedback on your stud
 9. **gzm_tool_yPu6AZXLVP5DvfOp4tTgiWbj (DALLE tool):** This DALLE tool offers additional assistance using the DALLE language model.
 
 Note: The instructions for using specific tools and their functionalities are not provided.
+
+

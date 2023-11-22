@@ -1,6 +1,7 @@
+
 [![Nietzsche Collected Works](https://files.oaiusercontent.com/file-NwCz4tuY1Xvp8kL3NrNr7uMh?se=2123-10-17T16%3A33%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17680384-67d1-445d-8779-b0b8d0a9429c.png&sig=4IINPt4NfHFkrEsAfJX8/TzCtPxjVuqw/ZmtMa96JQs%3D)](https://chat.openai.com/g/g-Ql5eZxYyc-nietzsche-collected-works)
 
-# [Nietzsche Collected Works](https://chat.openai.com/g/g-Ql5eZxYyc-nietzsche-collected-works)
+# Nietzsche Collected Works [ChatGPT Plus](https://chat.openai.com/g/g-Ql5eZxYyc-nietzsche-collected-works) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Nietzsche%20Collected%20Works)
 
 Nietzsche Collected Works is an App that analyzes Nietzsche's texts by starting with a verbatim passage. With access to knowledge, you can analyze a machine-selected passage or list sources to select a passage from. Upon entering the App, you'll receive a warm welcome message inviting you to share a Nietzsche passage and explore it together. The App utilizes the DALLE tool for analysis and also provides a built-in browser tool for convenient research. Delve into Nietzsche's profound work and gain a deeper understanding of his philosophy with this insightful App.
 
@@ -23,3 +24,5 @@ Nietzsche Collected Works is an App that analyzes Nietzsche's texts by starting 
 5. **Browser tool:** The app also has a browser tool that allows you to access online sources related to Nietzsche's works. It can help you explore additional information and references while analyzing passages.
 
 Note: It's important to note that the app has access to knowledge about Nietzsche's works, so it can provide deeper insights and analysis based on the provided texts.
+
+

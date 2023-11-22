@@ -1,6 +1,7 @@
+
 [![TheatreThinker](https://files.oaiusercontent.com/file-sI5i9DZDFrVXJ1WhK7oZV2nD?se=2123-10-16T22%3A02%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D37840ce3-4df0-4fa1-80da-ea195f27d003.png&sig=LMvmpIWK7IpFPR8kA0OEgQuJ9PvroD2Ob4DRBBF9jQM%3D)](https://chat.openai.com/g/g-OwEMZTNyj-theatrethinker)
 
-# [TheatreThinker](https://chat.openai.com/g/g-OwEMZTNyj-theatrethinker)
+# TheatreThinker [ChatGPT Plus](https://chat.openai.com/g/g-OwEMZTNyj-theatrethinker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TheatreThinker)
 
 TheatreThinker is a versatile AI-powered app that offers a range of creative tools for writers, playwrights, and directors. With features like Storyline Generation, World-Building, Dialogue Crafting, Plot Generator, and more, TheatreThinkerAI allows users to easily develop captivating narratives and compelling characters. Whether you need assistance with scriptwriting, improvisation, or historical context, this app has got you covered. The app also includes Director Mode, where you can get valuable feedback and suggestions on your creative work. Let TheatreThinker be your virtual collaborator and unleash your imagination!
 
@@ -49,3 +50,5 @@ TheatreThinker is a versatile AI-powered app that offers a range of creative too
 15. **Cultural Sensitivity:** This command provides guidance on writing diverse and culturally sensitive characters and stories. It can help you avoid stereotypes and misrepresentations.
 
 16. **Feedback Mode:** This mode allows you to receive feedback and suggestions on your writing. You can share your work with the app and get constructive criticism to improve your skills.
+
+

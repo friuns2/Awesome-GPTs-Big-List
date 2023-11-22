@@ -1,6 +1,7 @@
+
 [![MTGPT](https://files.oaiusercontent.com/file-sLtavNQTj05I5QMkDTKMecL7?se=2123-10-17T23%3A58%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D03e32db1-363b-4c2a-b885-f99cb56c4676.png&sig=4Dt%2Bq1%2BnNrccbDuvXXszdBVIowdPerrE4s3a/qz1msE%3D)](https://chat.openai.com/g/g-gYRGeSDQJ-mtgpt)
 
-# [MTGPT](https://chat.openai.com/g/g-gYRGeSDQJ-mtgpt)
+# MTGPT [ChatGPT Plus](https://chat.openai.com/g/g-gYRGeSDQJ-mtgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MTGPT)
 
 MTGPT is a must-have App for Magic: The Gathering players. It provides an in-depth analysis of MTG combos, offers valuable meta-game insights, and has a magical theme that adds to the fun. Whether you're a beginner looking to learn about card synergies or a seasoned player wanting to build a competitive deck, MTGPT has got you covered. You can ask the App to suggest combos for specific cards, inquire about a card's performance in the current meta, or even request assistance in building a deck around a particular card. With MTGPT, you'll be brewing magic and dominating the game in no time!
 
@@ -26,3 +27,5 @@ MTGPT is a must-have App for Magic: The Gathering players. It provides an in-dep
 4. **Explain this card's synergies**: This command provides detailed analysis on the synergies of a particular card. You can ask, "Explain this card's synergies," followed by the card name.
 
 Note: The MTGPT App offers in-depth combo analysis, meta-game insights, and deck-building options for Magic: The Gathering players. It also has access to extensive knowledge related to MTG.
+
+

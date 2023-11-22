@@ -1,6 +1,7 @@
+
 [![マンガ マッチメーカー](https://files.oaiusercontent.com/file-dnTqvDCuYAKtM0hhpOZkPQtN?se=2123-10-17T07%3A13%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2e6d13b5-4a00-47f1-a865-512bdced93db.png&sig=KyRTckyGNzs0M9/RjO8Od8a4jY6RKBvFT/umK0aS3SQ%3D)](https://chat.openai.com/g/g-LnvWAXMNj-manga-matutimeka)
 
-# [マンガ マッチメーカー](https://chat.openai.com/g/g-LnvWAXMNj-manga-matutimeka)
+# マンガ マッチメーカー [ChatGPT Plus](https://chat.openai.com/g/g-LnvWAXMNj-manga-matutimeka) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%9E%E3%83%B3%E3%82%AC%20%E3%83%9E%E3%83%83%E3%83%81%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC)
 
 マンガ マッチメーカー is a fun and interactive App that helps you discover your next favorite manga! Using GPT, this App recommends manga based on your preferences. Whether you're looking for action-packed series like Naruto, romantic manga to dive into, beginner-friendly titles, or the latest award-winning manga, this App has got you covered. Simply ask for recommendations like 'Narutoみたいなマンガを紹介して！' and get ready to explore a world of captivating stories. Say goodbye to endless searching and let マンガ マッチメーカー be your manga matchmaker!
 
@@ -22,3 +23,5 @@
 4. `findAwardWinningManga`: This command is used to find manga that have won awards in the current year. You can use prompts like "今年、漫画賞を受賞したマンガを教えて？" (Can you tell me manga that won awards this year?) to discover manga that have been recognized for their excellence.
 
 Note: The app provides a Japanese language interface.
+
+

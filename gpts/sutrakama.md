@@ -1,6 +1,7 @@
+
 [![SutraKama](https://files.oaiusercontent.com/file-GYrFfptSaHGmP8aaioYszsrK?se=2123-10-18T16%3A22%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252017.21.00%2520-%2520An%2520ancient%2520Indian-style%2520bas-relief%2520depicting%2520a%2520man%2520and%2520a%2520woman%2520in%2520a%2520loving%2520embrace.%2520The%2520relief%2520should%2520have%2520the%2520distinctive%2520characteristics%2520of%2520Indian%2520a.png&sig=kUIhdgLcggN3sYmfntKkMOFxxy8l5b/aH6ZaYLwMdqA%3D)](https://chat.openai.com/g/g-UExFZjKrh-sutrakama)
 
-# [SutraKama](https://chat.openai.com/g/g-UExFZjKrh-sutrakama)
+# SutraKama [ChatGPT Plus](https://chat.openai.com/g/g-UExFZjKrh-sutrakama) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SutraKama)
 
 Discover the ancient wisdom of SutraKama with this chat-based app. Powered by www.breebs.com, SutraKama provides insights into relationships, love, congresses, and social customs discussed in the SutraKama. Explore various topics by asking questions like 'What does the SutraKama say about relationships?' or 'How is love depicted in the SutraKama?'. Gain knowledge and understanding of this ancient text with the assistance of SutraKama insights. Get ready to dive into the world of love and relationships!
 
@@ -54,3 +55,5 @@ Discover the ancient wisdom of SutraKama with this chat-based app. Powered by ww
    - `prompt_ISO639_1`: The ISO 639-1 code of the language used in the prompt
    - `prompt_english`: The prompt translated in English
    - `is_sensitive`: Set to true if the content of the prompt or review message is sensitive (contains harmful, NSFW, personal, or confidential information), set to false otherwise.
+
+

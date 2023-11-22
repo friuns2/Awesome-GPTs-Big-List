@@ -1,6 +1,7 @@
+
 [![Apocalipsis GPT](https://files.oaiusercontent.com/file-rjnlxzK2mngFlvqbBHKk9FOl?se=2123-10-18T14%3A27%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd51c1a19-1213-4b38-9533-1e59a96e6763.png&sig=3yjzxjsb8iBcG/XkL8JyYoK02tt07eDJ1BFfv45Oe34%3D)](https://chat.openai.com/g/g-FHNMSM5c7-apocalipsis-gpt)
 
-# [Apocalipsis GPT](https://chat.openai.com/g/g-FHNMSM5c7-apocalipsis-gpt)
+# Apocalipsis GPT [ChatGPT Plus](https://chat.openai.com/g/g-FHNMSM5c7-apocalipsis-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Apocalipsis%20GPT)
 
 Apocalipsis GPT es una aplicación amigable y comprensible diseñada para guiar el estudio del Apocalipsis en Español. Con esta app, puedes obtener respuestas a tus preguntas sobre el Apocalipsis e incluso generar imágenes que te ayuden a comprender mejor tus estudios. ¿Qué es el Apocalipsis? ¿Qué significan los cuatro jinetes del apocalipsis? ¿Qué quería decir Juan con el libro del apocalipsis? Estas son solo algunas de las preguntas a las que tendrás respuesta en esta aplicación. ¡Explora el fascinante mundo del Apocalipsis de una manera sencilla y divertida!
 
@@ -27,3 +28,5 @@ Apocalipsis GPT es una aplicación amigable y comprensible diseñada para guiar 
 5. **Bienvenido a un diálogo enriquecedor sobre el Libro del Apocalipsis. ¿En qué puedo ayudarte?**: Este mensaje de bienvenida te da la bienvenida al diálogo y te invita a pedir ayuda o hacer preguntas relacionadas con el Libro del Apocalipsis.
 
 Note: The features and commands described here are based on the App documentation and description provided. Actual functionality may vary.
+
+

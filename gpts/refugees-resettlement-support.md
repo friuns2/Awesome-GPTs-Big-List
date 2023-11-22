@@ -1,6 +1,7 @@
+
 [![Refugees resettlement support](https://files.oaiusercontent.com/file-bzbchwFb7VuSakxloXtRxbzH?se=2123-10-17T06%3A08%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De0411c68-1c70-4b63-ae98-4edcc0d28751.png&sig=6Ee5efz36qMKU7b/gls/UydfRwvwoUIdw2ol3bpTaC8%3D)](https://chat.openai.com/g/g-YY4EMkB4J-refugees-resettlement-support)
 
-# [Refugees resettlement support](https://chat.openai.com/g/g-YY4EMkB4J-refugees-resettlement-support)
+# Refugees resettlement support [ChatGPT Plus](https://chat.openai.com/g/g-YY4EMkB4J-refugees-resettlement-support) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Refugees%20resettlement%20support)
 
 I'm an App designed to provide support for refugees who are resettling in a new country. Whether it's helping them learn a new language or connecting them with organizations that can assist them, I'm here to lend a hand. I can understand and communicate in multiple languages including English, French, Spanish, and more. Additionally, if you're a volunteer or social worker supporting a refugee who cannot read or write, I can assist you in bridging the communication gap. Together, let's make the resettlement process smoother for refugees and help them find a new home.
 
@@ -23,3 +24,5 @@ I'm an App designed to provide support for refugees who are resettling in a new 
 3. **Python tool:** Use the Python tool to access programming functionalities or perform specific tasks related to supporting refugees.
 
 Note: This ChatGPT App does not have access to knowledge but provides assistance and support to refugees and organizations working with refugees.
+
+

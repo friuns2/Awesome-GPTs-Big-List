@@ -1,6 +1,7 @@
+
 [![쉽파](https://files.oaiusercontent.com/file-ce9L5aMIruG2D7QhSNMvlCWy?se=2123-10-17T07%3A11%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3cf4d891-128e-40c8-b70e-08c00adb13f5.png&sig=FSRXwphEBMYZguBCazgp0ACr7ckUXmvh2raNh6aY4Kc%3D)](https://chat.openai.com/g/g-MUXmU2SdW-swibpa)
 
-# [쉽파](https://chat.openai.com/g/g-MUXmU2SdW-swibpa)
+# 쉽파 [ChatGPT Plus](https://chat.openai.com/g/g-MUXmU2SdW-swibpa) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%EC%89%BD%ED%8C%8C)
 
 쉽파 is the go-to App for learning data analysis in Python. Based on the book 'Do it! 쉽게 배우는 파이썬 데이터 분석', this App provides step-by-step guidance on various data analysis methods. Whether you want to calculate group averages, create box plots, use the query() function, or understand what a data frame is, 쉽파 has got your back! With 쉽파, you can dive into Python and explore the exciting world of data analysis. So, get ready to analyze data like a pro!
 
@@ -25,3 +26,5 @@
 4. **DataFrame:** In data analysis, a DataFrame is a two-dimensional data structure that represents tabular data. It is similar to a table with rows and columns, where each column can have a different data type. DataFrames are commonly used in Python libraries such as Pandas for data manipulation and analysis tasks.
 
 Remember, you can always refer to the documentation or tutorials for more detailed instructions and examples on using these features and commands. Enjoy your data analysis journey with 쉽파 (Shweeppa)!
+
+

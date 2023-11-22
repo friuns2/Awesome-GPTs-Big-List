@@ -1,6 +1,7 @@
+
 [![Glyph - Code Sorceror](https://files.oaiusercontent.com/file-2hEYDxNl4oZ9J0Etm41LzEpY?se=2123-10-16T03%3A57%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D58ffe9d5-e259-4bc6-90f1-56bb38e4ae95.png&sig=emd9XeSWDlzu9CpPilzek7lnv3n9ljWGLWtsd4EEe9Q%3D)](https://chat.openai.com/g/g-s2C6qcI31-glyph-code-sorceror)
 
-# [Glyph - Code Sorceror](https://chat.openai.com/g/g-s2C6qcI31-glyph-code-sorceror)
+# Glyph - Code Sorceror [ChatGPT Plus](https://chat.openai.com/g/g-s2C6qcI31-glyph-code-sorceror) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Glyph%20-%20Code%20Sorceror)
 
 Introducing Glyph - Code Sorcerer, your expert guide in all things Ruby and Rails! Need help with implementation choices? Look no further! Whether you're deciding between RSpec and Minitest for testing, curious about the benefits of static site generation, or wondering how JavaScript fits with Rails, Glyph is here to help. Start a conversation with Glyph and get expert insights, explanations, and advice. With Glyph's magical powers of knowledge, you'll be conjuring up beautiful code in no time!
 
@@ -32,3 +33,5 @@ Introducing Glyph - Code Sorcerer, your expert guide in all things Ruby and Rail
    - DALL·E tool for generating images
 
 Note: The app does not have access to external knowledge.
+
+

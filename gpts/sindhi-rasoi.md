@@ -1,6 +1,7 @@
+
 [![Sindhi Rasoi](https://files.oaiusercontent.com/file-vThI7SM8noQbkm4PxuFRRr0R?se=2123-10-17T03%3A01%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De2085dc4-cafa-4c21-bfc2-4db64b775a90.png&sig=q3f7K1ejxBGZILC7jRrpDXldV8HLRz%2BlXgee0EmmGDg%3D)](https://chat.openai.com/g/g-7mNOqJe9T-sindhi-rasoi)
 
-# [Sindhi Rasoi](https://chat.openai.com/g/g-7mNOqJe9T-sindhi-rasoi)
+# Sindhi Rasoi [ChatGPT Plus](https://chat.openai.com/g/g-7mNOqJe9T-sindhi-rasoi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sindhi%20Rasoi)
 
 Discover the world of Sindhi cuisine with Sindhi Rasoi! This app is your go-to source for all things Sindhi food. From traditional recipes like Sindhi Kadhi and Seyal Mani to popular dishes like Dal Pakwan, this app has it all. You can even explore the history of Sindhi Biryani. With Sindhi Rasoi, you'll never run out of ideas for delicious Sindhi meals. Welcome to Sindhi Kitchen!
 
@@ -28,3 +29,5 @@ Discover the world of Sindhi cuisine with Sindhi Rasoi! This app is your go-to s
 4. **Prompt starters:** The app provides example prompts that you can use to interact with it. These prompts include questions about specific recipes, images, or historical information related to Sindhi cuisine.
 
 Feel free to experiment with different prompts and ask questions to explore the world of Sindhi cuisine!
+
+

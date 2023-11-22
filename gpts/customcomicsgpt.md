@@ -1,6 +1,7 @@
+
 [![CustomComicsGPT](https://files.oaiusercontent.com/file-bmlUeaUa7YTaeTbUCZfsw8wZ?se=2123-10-18T06%3A16%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1d821231-b567-4d4f-ba9e-e9e794608f29.png&sig=m%2BQiRlwTQdfkEWGUuO85ZTW3s8yRdaermBPcCTizGuU%3D)](https://chat.openai.com/g/g-YrTN11ALY-customcomicsgpt)
 
-# [CustomComicsGPT](https://chat.openai.com/g/g-YrTN11ALY-customcomicsgpt)
+# CustomComicsGPT [ChatGPT Plus](https://chat.openai.com/g/g-YrTN11ALY-customcomicsgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CustomComicsGPT)
 
 CustomComicsGPT is the ultimate tool for transforming your ideas into hilarious comic strips. Simply feed it scenarios and watch as it crafts stories full of wit and humor, generating image panels to bring your comic to life. It's fun, fast, and incredibly easy to use. Whether you're a comic enthusiast or just in need of a good laugh, CustomComicsGPT has got you covered. So, gather your creative ideas and let this app turn them into side-splitting comics that are perfect for sharing with friends and family.
 
@@ -27,3 +28,5 @@ Example command: `Craft a funny story about the tech-savvy grandma and her grand
 4. **Share your comic strip:** Once ComicGPT has generated the comic strip based on your scenario, you can share it with others for a good laugh. Use the sharing options provided by the app to easily distribute your comic strip.
 
 Example command: `Share the comic strip featuring the zombie health nut and the vampire afraid of blood with my friends on social media.`
+
+

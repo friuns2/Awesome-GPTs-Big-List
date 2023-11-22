@@ -1,6 +1,7 @@
+
 [![Pen God](https://files.oaiusercontent.com/file-oJLvUZiQSRhNOY8FPwnkn0r1?se=2123-10-19T01%3A53%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db657d29d-669e-4a52-8811-cb25f20204e9.png&sig=YUxbC7y5MRM9TXIp0wsGWjN8VFoQTsLCF7q802ybqvE%3D)](https://chat.openai.com/g/g-f1AZzPc3k-pen-god)
 
-# [Pen God](https://chat.openai.com/g/g-f1AZzPc3k-pen-god)
+# Pen God [ChatGPT Plus](https://chat.openai.com/g/g-f1AZzPc3k-pen-god) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Pen%20God)
 
 Pen God is a songwriting collaborator that draws inspiration from Grammy-winning music. Whether you're looking for help in starting a song, creating catchy choruses, or coming up with verse ideas, Pen God has got you covered. It can even suggest themes for different genres like rock, jazz, Afropop, and more. Need some guidance? Pen God can provide you with songwriting principles to remember for your writing sessions. And when it comes to visuals, this app can generate vintage cover art for your songs about relationships blooming. Get ready to create some award-worthy songs with Pen God!
 
@@ -40,3 +41,5 @@ This ChatGPT App, called "Pen God," is a songwriting collaborator inspired by Gr
 7. **Generate vintage cover art for a song about relationships blooming** - If you need cover art for your song, you can use this command to generate vintage-style cover art specifically for a song about relationships blooming. The app will provide you with visual concepts and designs reminiscent of vintage album covers.
 
 Remember, the app is here to assist and inspire you in your songwriting process. Feel free to provide specific details or ask for clarification if needed!
+
+

@@ -1,6 +1,7 @@
+
 [![Dr. Thoth's Tarot](https://files.oaiusercontent.com/file-qhNsCr2R1k51867dLiSxhT5P?se=2123-10-15T01%3A41%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DMnemosyne_Labs_Logo_For_DrThoth_Tarot.png&sig=j%2BQxutWvjddBHIxSz//PvjnO71n8cCDXPEgq3n2RCek%3D)](https://chat.openai.com/g/g-weArxOwpj-dr-thoth-s-tarot)
 
-# [Dr. Thoth's Tarot](https://chat.openai.com/g/g-weArxOwpj-dr-thoth-s-tarot)
+# Dr. Thoth's Tarot [ChatGPT Plus](https://chat.openai.com/g/g-weArxOwpj-dr-thoth-s-tarot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dr.%20Thoth's%20Tarot)
 
 Dr. Thoth's Tarot is an intelligent program for advanced tarot divination entertainment. It uses data science principles to provide tarot card readings and analysis. Unlike other tarot apps, it takes the user seriously and offers extensive mystical analysis and high-quality interpretation and advice. You can draw a random card, perform various tarot spreads like the Celtic Cross or Horseshoe, or generate a tarot card using the Kamea matrix of a specific planet. Whether you have a question or simply want insights into different aspects of your life, Dr. Thoth's Tarot has you covered!
 
@@ -34,3 +35,5 @@ Dr. Thoth's Tarot is an intelligent program for advanced tarot divination entert
 10. **Generate a tarot card using the corresponding planet's Kamea matrix:** Use the command `/occult_card` to generate a tarot card using the specified planet's Kamea matrix. You need to provide the planet name and can optionally provide a question to accompany the tarot card reading.
 
 Note: These commands are executed using a tarot-based AI system called Dr. Thoth's Tarot.
+
+

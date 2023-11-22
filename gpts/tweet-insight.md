@@ -1,6 +1,7 @@
+
 [![Tweet Insight](https://files.oaiusercontent.com/file-4jovQcwnEPS73Cug4Q4ssUi2?se=2123-10-18T02%3A54%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8b6a96f4-8330-4ad2-8800-cfd1c143c5ec.webp&sig=Fqa9dM5JHFi2msCT9FrrvBMHNwW99btcvi5ia%2BqDleM%3D)](https://chat.openai.com/g/g-PlJfShuWF-tweet-insight)
 
-# [Tweet Insight](https://chat.openai.com/g/g-PlJfShuWF-tweet-insight)
+# Tweet Insight [ChatGPT Plus](https://chat.openai.com/g/g-PlJfShuWF-tweet-insight) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tweet%20Insight)
 
 Tweet Insight is an app that serves as an expert on Twitter's algorithm. It provides code insights and answers questions about how Twitter's feed algorithm works, the trending algorithm, user interactions, and the evolution of the algorithm. You can ask questions like 'How does Twitter's feed algorithm work? Show code' or 'Explain Twitter's trending algorithm with code examples' and get real code examples as answers. Tweet Insight also provides tools like a Python interpreter and a browser to help you dive deeper into the code and explore different aspects of Twitter's algorithm.
 
@@ -41,3 +42,5 @@ Tweet Insight is an app that serves as an expert on Twitter's algorithm. It prov
 - Usage: Combine this command with a prompt to learn about the changes and developments in Twitter's algorithm, along with associated code examples.
 
 Please note that the provided commands are just examples, and you can modify or expand them based on your specific questions and needs.
+
+

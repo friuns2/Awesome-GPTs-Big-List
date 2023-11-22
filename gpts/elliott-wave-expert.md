@@ -1,6 +1,7 @@
+
 [![Elliott Wave Expert](https://files.oaiusercontent.com/file-xW0d3umgdHRJ1SyACDJ1lUaZ?se=2123-10-19T03%3A19%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De93a9ea4-788c-48b9-949a-fe8127928efa.png&sig=J8pS4%2BD0CZk7LbJChdysDweNk6q8JXb9hsQgsmvkvtM%3D)](https://chat.openai.com/g/g-GMGhSS0LH-elliott-wave-expert)
 
-# [Elliott Wave Expert](https://chat.openai.com/g/g-GMGhSS0LH-elliott-wave-expert)
+# Elliott Wave Expert [ChatGPT Plus](https://chat.openai.com/g/g-GMGhSS0LH-elliott-wave-expert) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Elliott%20Wave%20Expert)
 
 Elliott Wave Expert is a stock analysis assistant that specializes in Elliott Wave theory. With detailed analysis, it helps you understand the wave patterns of various stocks. Whether you want to analyze SPY, explain a wave on TSLA, forecast BTCUSD price, or delve into NKE wave patterns, this app has got you covered. Wave analysis made easy! It provides insights and predictions to support your investment decisions. Welcome to the world of Elliott Wave and Fibonacci stock analysis with this lighthearted assistant!
 
@@ -27,3 +28,5 @@ This ChatGPT App is designed to assist with stock analysis using Elliott Wave th
 4. **Detail [stock symbol] wave patterns:** This command provides a comprehensive analysis of the wave patterns on a specific stock. Replace [stock symbol] with the symbol of the stock you want to analyze, for example, "Detail NKE wave patterns."
 
 Please note that this app may require additional tools such as a browser, Python, or a DALL·E model for its functionality.
+
+

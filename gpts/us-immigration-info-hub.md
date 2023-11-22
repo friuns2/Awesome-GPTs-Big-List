@@ -1,6 +1,7 @@
+
 [![US Immigration Info Hub](https://files.oaiusercontent.com/file-vr3THT255k69h9aP4gfvNTWJ?se=2123-10-17T21%3A56%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1e968cd8-47c7-4093-9797-9c73a2e8e209.png&sig=q37AHc0XmJHATS/qIsDxDD1l1D7oXh6QBBiKxEImkXc%3D)](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub)
 
-# [US Immigration Info Hub](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub)
+# US Immigration Info Hub [ChatGPT Plus](https://chat.openai.com/g/g-NvmWicqtP-us-immigration-info-hub) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=US%20Immigration%20Info%20Hub)
 
 Get all the information you need about US immigration with the US Immigration Info Hub! This app is your go-to assistant for USCIS and ICE-related queries. Whether you want to know about the immigration process, policy details, required documents, or how to contact USCIS or ICE, this app has got you covered. Just ask your questions and the app will provide you with the answers you need. With access to knowledge and helpful tools, navigating the world of US immigration has never been easier!
 
@@ -33,3 +34,5 @@ Get all the information you need about US immigration with the US Immigration In
 6. **Contact information:** If you need to reach out to USCIS or ICE regarding a specific case or inquiry, you can ask the App how to contact them. For example, you can ask how to contact USCIS or ICE to inquire about the status of your case or to seek clarification on a matter.
 
 Please note that while the App has access to knowledge related to USCIS and ICE, it may not have the ability to provide real-time or case-specific information. It can provide general guidance and information based on available resources.
+
+

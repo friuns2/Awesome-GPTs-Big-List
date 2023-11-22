@@ -1,6 +1,7 @@
+
 [![Data Vizard](https://files.oaiusercontent.com/file-4f5nyecGyuiHYDC4kJDFxcRT?se=2123-10-19T04%3A58%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daeffcbe0-4961-4c99-9e7c-3a6c4a12c6e2.png&sig=c4rbtnxl2EUXV8wrDO7XrSs1FvRmuQxRNMgF1ITBvQM%3D)](https://chat.openai.com/g/g-tTpbHSIQ0-data-vizard)
 
-# [Data Vizard](https://chat.openai.com/g/g-tTpbHSIQ0-data-vizard)
+# Data Vizard [ChatGPT Plus](https://chat.openai.com/g/g-tTpbHSIQ0-data-vizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Data%20Vizard)
 
 Data Vizard is a handy App that turns your data into stunning charts and graphs. Whether you want to analyze sales data, market shares, or traffic acquisition, this wizard has got you covered. Simply ask Data Vizard to cast a bar chart, enchant you with a pie chart, or conjure a line graph, and it will work its magic. With its clear and beautiful visualizations, Data Vizard makes understanding and presenting your data a breeze. Say goodbye to boring spreadsheets and let this wizard add some pizzazz to your data!
 
@@ -23,3 +24,5 @@ The Data Vizard App can help you create beautiful charts and graphs based on you
 3. **Conjure a line graph**: Use this command to create a line graph for your data. Specify the relevant data source, labels, and values.
 
 Remember to provide all the necessary information to accurately generate the charts and graphs. Enjoy visualizing your data with the Data Vizard App!
+
+

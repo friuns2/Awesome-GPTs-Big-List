@@ -1,6 +1,7 @@
+
 [![SmartBP - Blood Pressure Assistant](https://files.oaiusercontent.com/file-WO4UkoK59WT2mw03zwXIOpXU?se=2123-10-18T01%3A24%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D512.png&sig=ldE3c%2BgknRqGpc6oini9f0Ij7aC02bb6XF7fwl2FuCs%3D)](https://chat.openai.com/g/g-cK2nFbFXf-smartbp-blood-pressure-assistant)
 
-# [SmartBP - Blood Pressure Assistant](https://chat.openai.com/g/g-cK2nFbFXf-smartbp-blood-pressure-assistant)
+# SmartBP - Blood Pressure Assistant [ChatGPT Plus](https://chat.openai.com/g/g-cK2nFbFXf-smartbp-blood-pressure-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SmartBP%20-%20Blood%20Pressure%20Assistant)
 
 SmartBP - Blood Pressure Assistant is an app that uses artificial intelligence to analyze pictures of your blood pressure monitor readings. Simply snap a picture of your BP reading and let the app do the rest. It provides nudges and prompts to help you manage your blood pressure and stay in control. You can also log your readings in the SmartBP app for easy tracking. Wondering if your blood pressure is normal or what the average of your measurements is? Just ask the app! It even offers voice prompts and responses for quick summaries of your measurements. Stay healthy and in the know with SmartBP!
 
@@ -29,3 +30,5 @@ SmartBP - Blood Pressure Assistant is an app that uses artificial intelligence t
 4. **Voice prompts and responses**: Utilize the voice prompts and responses in the app for summaries of your blood pressure measurements. This feature allows you to get quick summaries of your data using voice commands.
 
 Note: The available tools for this ChatGPT app are DALLE and a browser tool. These tools may provide additional functionality and features for interacting with the app, but the specific details are not provided in the given data.
+
+

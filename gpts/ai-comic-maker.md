@@ -1,6 +1,7 @@
+
 [![AI Comic Maker](https://files.oaiusercontent.com/file-8glhcc0fCylSrOmVnQXNJRWg?se=2123-10-19T05%3A21%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcbdf89e0-744e-40b9-8d4d-57959f65b601.png&sig=gVPlgIb7kgzL8m2zJHIVSuvpIHI88nZlr3CY6rbVntQ%3D)](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
 
-# [AI Comic Maker](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
+# AI Comic Maker [ChatGPT Plus](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Comic%20Maker)
 
 AI Comic Maker is a helpful App that takes comic creation to the next level. With the power of AI, it ensures both consistency and creativity in your comics. Whether you're starting from scratch or need inspiration, this App has got your back. It offers various tools, including a browser for reference images, a browser for research, and two AI models for character design and dialogue improvement. Ready to bring your comic ideas to life? Let's get started with AI Comic Maker!
 
@@ -25,3 +26,5 @@ AI Comic Maker is a helpful App that takes comic creation to the next level. Wit
 4. **Improve dialogue:** If you want to improve the dialogue between characters in your comic, use a prompt like "How can I improve this dialogue?" and provide the existing dialogue. The AI will provide suggestions and help you refine and enhance the conversation.
 
 Note: The AI Comic Maker app uses various tools, including web browser tools and DALL-E, to assist in the comic creation process. These tools provide different functionalities and options to enhance and streamline the comic-making experience.
+
+

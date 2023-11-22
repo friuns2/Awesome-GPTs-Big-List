@@ -1,6 +1,7 @@
+
 [![Pine Assist](https://files.oaiusercontent.com/file-WAekQ0VK0guG1nDxqw7WxmoY?se=2123-10-16T03%3A15%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da9804550-da0f-402b-b222-e61496c4d402.png&sig=EoIJywNv2Z3FRo83WH%2BrqWMm75%2BIbPKqH6WF2H9eGwI%3D)](https://chat.openai.com/g/g-J5AU7p5hM-pine-assist)
 
-# [Pine Assist](https://chat.openai.com/g/g-J5AU7p5hM-pine-assist)
+# Pine Assist [ChatGPT Plus](https://chat.openai.com/g/g-J5AU7p5hM-pine-assist) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Pine%20Assist)
 
 Pine Assist is your digital professor for learning Pine Script v5+. Whether you're just starting out or an advanced coder, this app is here to help. Get answers to your questions about getting started, best practices, advanced functions, and debugging your code. With access to a wealth of knowledge, Pine Assist is your go-to resource for understanding Pine Script. Plus, it comes with useful tools like a Python interpreter and a browser to make your learning experience even better. Welcome aboard and let's begin your Pine Script journey together!
 
@@ -26,3 +27,5 @@ Pine Assist is your digital professor for learning Pine Script v5+. Whether you'
    - This command launches the browser tool in the ChatGPT App. It allows you to open websites or search for documentation, tutorials, and examples related to Pine Script.
 
 Note: The Pine Assist app is designed to assist users with Pine Script, a specific programming language. It provides guidance, explanations, and access to relevant tools to enhance the user's Pine Script journey.
+
+

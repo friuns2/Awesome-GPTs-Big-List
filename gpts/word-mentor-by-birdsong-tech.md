@@ -1,6 +1,7 @@
+
 [![Word Mentor by Birdsong Tech](https://files.oaiusercontent.com/file-UubqV1hadurEZxCvhlTRL8Kc?se=2123-10-17T04%3A27%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D32c5a6bd-840f-4219-a411-6e0ef9e69d41.png&sig=NGw2PvAaAuOMBu55v7SEaIO2fnLMj2n51jif6OiNOA4%3D)](https://chat.openai.com/g/g-ASZbmCWK7-word-mentor-by-birdsong-tech)
 
-# [Word Mentor by Birdsong Tech](https://chat.openai.com/g/g-ASZbmCWK7-word-mentor-by-birdsong-tech)
+# Word Mentor by Birdsong Tech [ChatGPT Plus](https://chat.openai.com/g/g-ASZbmCWK7-word-mentor-by-birdsong-tech) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Word%20Mentor%20by%20Birdsong%20Tech)
 
 Word Mentor is a vocabulary-building app designed to help you prepare for the SAT and ACT exams. With Word Mentor, you can expand your word knowledge and improve your vocabulary skills in a fun and interactive way. The app provides a curated list of words and prompts you to learn their meanings, synonyms, and usage. Start your session by selecting the first word and continue until you feel confident. In addition to word definitions, Word Mentor offers additional resources like a browser tool for further research, a language model for creative writing ideas, and a python tool for coding projects. Enhance your vocabulary today with Word Mentor!
 
@@ -35,3 +36,5 @@ Word Mentor is a vocabulary-building app designed to help you prepare for the SA
 6. If you want to take a break or end your session, simply select the "End session" prompt.
 
 Remember, the Word Mentor app is designed to help you enhance your vocabulary for SAT/ACT prep. Make use of the various tools available to maximize your learning experience!
+
+

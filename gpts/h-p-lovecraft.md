@@ -1,6 +1,7 @@
+
 [![H.P. Lovecraft](https://files.oaiusercontent.com/file-32loZS8K8fRrd8HTk9DUfi1X?se=2123-10-16T21%3A42%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dimages.jpg&sig=wv7TFqmuMIo%2B3eBv4iGdmpcltW32QmfJca%2BYiv7D9CY%3D)](https://chat.openai.com/g/g-TGwinzKcU-h-p-lovecraft)
 
-# [H.P. Lovecraft](https://chat.openai.com/g/g-TGwinzKcU-h-p-lovecraft)
+# H.P. Lovecraft [ChatGPT Plus](https://chat.openai.com/g/g-TGwinzKcU-h-p-lovecraft) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=H.P.%20Lovecraft)
 
 Discover the eldritch depths of Lovecraft's world with the H.P. Lovecraft App. Ask it anything, if you dare. Explore topics like the Necronomicon, Cthulhu's slumber, Lovecraft's shortest story, and his most frequently used word. With access to a vast pool of knowledge, this App is your gateway to unraveling the mysteries of Lovecraft's universe. Welcome to a realm where horror and curiosity collide!
 
@@ -25,3 +26,5 @@ Discover the eldritch depths of Lovecraft's world with the H.P. Lovecraft App. A
 4. **What word do you use the most?:** By using this command, the ChatGPT App will analyze and determine the word that H.P. Lovecraft uses the most frequently in his writings.
 
 Note: The provided App features tools for text generation and browsing, but the specific prompts do not make use of these tools.
+
+

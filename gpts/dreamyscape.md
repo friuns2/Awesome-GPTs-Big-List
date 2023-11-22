@@ -1,6 +1,7 @@
+
 [![DreamyScape](https://files.oaiusercontent.com/file-LhwZL32yqoLNBOmThi9lyOVi?se=2123-10-17T21%3A33%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6df58a00-9210-4e22-9708-33a9c6282731.png&sig=0qDX9sf9/ByuDzr0FkxQ6ui/fE2hwQbVVAc4spby5iA%3D)](https://chat.openai.com/g/g-CqleO5XAh-dreamyscape)
 
-# [DreamyScape](https://chat.openai.com/g/g-CqleO5XAh-dreamyscape)
+# DreamyScape [ChatGPT Plus](https://chat.openai.com/g/g-CqleO5XAh-dreamyscape) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=DreamyScape)
 
 DreamyScape is an App that allows you to create stunning dream-like landscapes with silhouette persons. Whether you envision mountains or a bustling city, this App can bring your imagination to life. With just a few simple inputs, you can generate unique and mesmerizing scenes that transport you to an ethereal realm. DreamyScape welcomes you with a friendly 'Hello' and provides you with powerful tools like a browser and Dalle model to enhance your creative process. Transform your visions into reality with DreamyScape and let your imagination run wild!
 
@@ -29,3 +30,5 @@ DreamyScape is an App that allows you to create stunning dream-like landscapes w
 5. **Create a tranquil forest setting with rays of sunlight:** This command allows you to generate a serene forest scene with rays of sunlight. It captures the essence of a peaceful natural environment.
 
 Remember to be creative with your prompts and provide specific details or preferences to get the desired dreamy landscape with silhouette persons.
+
+

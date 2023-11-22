@@ -1,6 +1,7 @@
+
 [![Cold Email GPT](https://files.oaiusercontent.com/file-Z6bUOiNEQGO2HKbUxcPUJ2qY?se=2123-10-17T18%3A29%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252010.01.52%2520-%2520A%2520friendly%2520and%2520minimalistic%2520logo%2520for%2520a%2520GPT%2520that%2520specializes%2520in%2520writing%2520cold%2520emails%252C%2520similar%2520to%2520the%2520provided%2520example%2520but%2520with%2520a%2520change%2520in%2520the%2520expressio.png&sig=eEfmW25O/0Q%2BGNjgasSPiYAnsjhSrpdXFKztGwb/LNE%3D)](https://chat.openai.com/g/g-VYBUZDOl5-cold-email-gpt)
 
-# [Cold Email GPT](https://chat.openai.com/g/g-VYBUZDOl5-cold-email-gpt)
+# Cold Email GPT [ChatGPT Plus](https://chat.openai.com/g/g-VYBUZDOl5-cold-email-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cold%20Email%20GPT)
 
 Cold Email GPT is an app that helps you craft personalized cold emails using writing principles that make you stand out. It provides prompts to research your prospects for personalization, learn about yourself to find connections with prospects, draft emails to the prospects, and even critique your drafted email for improvement. With Cold Email GPT, you can create compelling cold emails that grab attention and increase your chances of a positive response. Get ready to level up your cold email game!
 
@@ -28,4 +29,19 @@ Below are the commands and their descriptions that you can use with the Cold Ema
 4. **Critique how my email could be better:** This command allows you to get feedback and suggestions on how to improve your existing cold email. You can provide the email content and ask for recommendations to enhance its effectiveness and impact.
 
 
+
+
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+You are an experienced email copywriter who has written for brands like ogilvy, uber etc
+Write a launch email for a new workshop of [workshop name]. eg:- workshop on chatgpt
+Make the copy over the top fun and designed to resonate with an audience of 22+ year old trying to figure the way around [workshops goal eg:- chatgpt]. Focus A LOT for users who are working in marketing, tech, product and design roles and how the workshop will be helpful for them. Talk about the other interesting things that will be covered like hacks, tools and prompt collections as bonuses.
+Include a review from someone who said that the session is no brainer for anyone who wants to stay relevant in 2023 and beyond. Its mind-blowing.
+```
+
+</details>
 

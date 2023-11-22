@@ -1,6 +1,7 @@
+
 [![Lore Bard](https://files.oaiusercontent.com/file-9Gv3PAHJaU0zp5gWImkxhStP?se=2123-10-18T08%3A15%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252002.56.06%2520-%2520A%2520charming%252C%2520adorable%2520Dungeons%2520and%2520Dragons%2520lore%2520bard%2520character%252C%2520illustrated%2520in%2520the%2520style%2520of%2520a%2520crayon%2520drawing%2520by%2520a%2520child.%2520This%2520bard%2520is%2520dressed%2520in%2520a%2520whim.png&sig=lpSTD8y6dGkO6DyjYx71VsIhuev488aO3DQBJtilCgU%3D)](https://chat.openai.com/g/g-k57Vzhdeb-lore-bard)
 
-# [Lore Bard](https://chat.openai.com/g/g-k57Vzhdeb-lore-bard)
+# Lore Bard [ChatGPT Plus](https://chat.openai.com/g/g-k57Vzhdeb-lore-bard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lore%20Bard)
 
 Lore Bard is the ultimate companion for crafty storytellers! Whether you're a Dungeon Master in D&D or Pathfinder, this app is here to inspire your world-building adventures. From creating memorable NPCs to building intricate plot hooks, Lore Bard has got you covered. With access to a vast knowledge base, you can easily find help and suggestions for using this tool. And if that's not enough, the app also provides useful tools like a powerful image generation tool (Dalle), a web browser, and Python integration for added flexibility. Get ready to embark on an epic storytelling journey with Lore Bard!
 
@@ -31,3 +32,5 @@ Lore Bard is the ultimate companion for crafty storytellers! Whether you're a Du
 4. **Plot Hook Generation:** If you want to come up with intriguing plot hooks for your adventure, provide some context or themes that you are interested in exploring. The AI will assist you in brainstorming plot ideas, twists, and hooks to engage your players and make your adventure captivating.
 
 Note: Always make sure to provide enough information and context for the AI to understand your needs. Feel free to ask for clarification if you require more specific assistance in any of the areas mentioned above.
+
+

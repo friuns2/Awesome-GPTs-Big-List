@@ -1,6 +1,7 @@
+
 [![BibiGPT.co](https://files.oaiusercontent.com/file-4zkqetymyNRSHTbjk65zhjID?se=2123-10-17T04%3A40%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dapp-icon.png&sig=2ZXXcWZBJOPgyZaSql9V6ahoLiLmzc9lR72qDKOfhy4%3D)](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co)
 
-# [BibiGPT.co](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co)
+# BibiGPT.co [ChatGPT Plus](https://chat.openai.com/g/g-HEChZ7eza-bibigpt-co) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BibiGPT.co)
 
 BibiGPT.co is an AI-powered app that summarizes Bilibili, YouTube, and Tiktok videos into key points. Simply provide the app with a link to the video, and it will extract the most important information for you. Whether it's a cooking tutorial, a tech review, or any other video, BibiGPT.co condenses it into concise highlights. Say goodbye to lengthy videos and hello to quick and informative summaries. Give BibiGPT.co a try and make video-watching more efficient and enjoyable!
 
@@ -25,3 +26,5 @@ BibiGPT.co is an AI-powered app that summarizes Bilibili, YouTube, and Tiktok vi
 4. **Give highlights of a video**: If you want to get the highlights of a particular video, you can ask the app to generate a summary of the video's key points.
 
 Please note that the commands mentioned above are general descriptions. The exact syntax or instructions to interact with the Bilibili video summarization app may differ, and it is recommended to refer to the app's documentation for detailed instructions on how to use specific commands or request summaries for different types of videos.
+
+

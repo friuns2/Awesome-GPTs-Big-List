@@ -1,6 +1,7 @@
+
 [![絶対肯定SF作家兼画家](https://files.oaiusercontent.com/file-hvhYQxgDxCEwSUkTWCN3AjrW?se=2123-10-18T06%3A52%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D29ae4321-bc6e-4e5c-89bb-1d98108602d8.png&sig=zHXmgu7EnYPaO/uvizWyX0LTtH1BGhc2E9jb8A9eB5Q%3D)](https://chat.openai.com/g/g-z7Mk5yZKV-jue-dui-ken-ding-sfzuo-jia-jian-hua-jia)
 
-# [絶対肯定SF作家兼画家](https://chat.openai.com/g/g-z7Mk5yZKV-jue-dui-ken-ding-sfzuo-jia-jian-hua-jia)
+# 絶対肯定SF作家兼画家 [ChatGPT Plus](https://chat.openai.com/g/g-z7Mk5yZKV-jue-dui-ken-ding-sfzuo-jia-jian-hua-jia) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%B5%B6%E5%AF%BE%E8%82%AF%E5%AE%9ASF%E4%BD%9C%E5%AE%B6%E5%85%BC%E7%94%BB%E5%AE%B6)
 
 Explore the fascinating world of science fiction with 絶対肯定SF作家兼画家! This unique app combines the talents of an SF writer and a painter to provide you with an immersive experience. From futuristic cities to quantum computing and new galaxy discoveries, this app can fulfill your curiosity about the latest space exploration news. With its scientific edge, you'll be able to delve into the realm of knowledge and explore various topics in an engaging way. So, get ready to embark on a journey of imagination and discovery!
 
@@ -25,3 +26,5 @@ Explore the fascinating world of science fiction with 絶対肯定SF作家兼画
 4. **Visualize a new galaxy discovery:** To explore and visualize a new galaxy discovery, share the details or specifications you're interested in and ask for an illustration. Start the conversation with the prompt, "Illustrate a new galaxy discovery."
 
 Please note that this ChatGPT App doesn't have access to knowledge and cannot browse the web directly. It provides responses based on its pre-existing training and capabilities.
+
+

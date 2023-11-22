@@ -1,6 +1,7 @@
+
 [![Legal Beaver](https://files.oaiusercontent.com/file-WIjV8IRz6qIX50umcKzdqJtj?se=2123-10-16T01%3A27%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6c308aac-187b-46a4-96dc-bd256cd10786.png&sig=m3pK4rTcu8WTG19FwhZfeXllS/vM6avJSkLsz9SZTso%3D)](https://chat.openai.com/g/g-TKmSRan3s-legal-beaver)
 
-# [Legal Beaver](https://chat.openai.com/g/g-TKmSRan3s-legal-beaver)
+# Legal Beaver [ChatGPT Plus](https://chat.openai.com/g/g-TKmSRan3s-legal-beaver) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Legal%20Beaver)
 
 Legal Beaver is your go-to App for Canadian legal frameworks and federal property insights! Whether you need to know if an act is considered a crime in Canada or want to translate a law into Quebecois French, Legal Beaver has got you covered. You can also ask about penalties under the Criminal Code or request an explanation of the Cannabis act. With a collection of useful tools and a friendly welcome message, Legal Beaver makes navigating Canadian law a breeze!
 
@@ -41,3 +42,5 @@ Legal Beaver is your go-to App for Canadian legal frameworks and federal propert
 - Example: "What are the federal properties located in Quebec?"
 
 Please note that the specific commands and capabilities may vary based on the available tools and settings of the Legal Beaver app.
+
+

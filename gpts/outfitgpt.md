@@ -1,6 +1,7 @@
+
 [![OutfitGPT](https://files.oaiusercontent.com/file-thfiVEDcseIQQSHUcz4zQmhi?se=2123-10-18T00%3A18%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252000.16.29%2520-%2520A%2520minimalistic%2520and%2520creative%2520logo%2520for%2520a%2520customized%2520GPT%2520specialized%2520in%2520outfit%2520matching.%2520The%2520logo%2520features%2520a%2520stylized%252C%2520abstract%2520representation%2520of%2520a%2520cloth.png&sig=MQMsoDxqeuoKgPTvERzR8NaiiL1HAoJT4%2B5W5iRqssQ%3D)](https://chat.openai.com/g/g-Mq7LkXHlv-outfitgpt)
 
-# [OutfitGPT](https://chat.openai.com/g/g-Mq7LkXHlv-outfitgpt)
+# OutfitGPT [ChatGPT Plus](https://chat.openai.com/g/g-Mq7LkXHlv-outfitgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=OutfitGPT)
 
 OutfitGPT is your personal clothing matching expert. Whether you're heading to a wedding, taking an exam, or just going about your day, OutfitGPT has got your back. Just give it a little information about yourself or the occasion, and it will provide you with stylish outfit suggestions. With OutfitGPT, you'll never have to worry about what to wear again!
 
@@ -27,3 +28,5 @@ OutfitGPT is your personal clothing matching expert. Whether you're heading to a
 5. **"What should I wear for {event}":** If you have a specific event or occasion in mind, you can ask the app for outfit recommendations tailored to that event.
 
 Remember, the app is designed to help you with clothing matching and provide fashion advice. Use these prompts and commands to get the most out of OutfitGPT!
+
+

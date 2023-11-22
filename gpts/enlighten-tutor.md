@@ -1,6 +1,7 @@
+
 [![Enlighten Tutor](https://files.oaiusercontent.com/file-khDlMV1C2IZXSJFOfkdnjK7q?se=2123-10-17T07%3A47%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5634a1fc-a385-4794-a443-2d883bda7a2e.png&sig=Q32V8855B8U8Dl6MbTDj2jlccafTcWu/6ErRJZzFOxk%3D)](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-tutor)
 
-# [Enlighten Tutor](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-tutor)
+# Enlighten Tutor [ChatGPT Plus](https://chat.openai.com/g/g-tM5EBMGEF-enlighten-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Enlighten%20Tutor)
 
 Enlighten Tutor is a helpful app that provides clarification and enlightenment! With the ability to upload a photo of a problem and explain how to start solving it, this app is great for students and learners. Whether you're stuck on a math equation or need assistance with a concept, Enlighten Tutor is here to guide you. It also has access to knowledge and can provide real-time content from web pages. Say goodbye to confusion and hello to clarity with Enlighten Tutor!
 
@@ -38,3 +39,5 @@ Enlighten Tutor is a helpful app that provides clarification and enlightenment! 
    - `rules`: Adherence is required when outputting content.
 
 Note: For more details about the plugin, its capabilities, and usage, please refer to the [privacy policy](https://gpts.webpilot.ai/privacy_policy.html).
+
+

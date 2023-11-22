@@ -1,6 +1,7 @@
+
 [![BaldurGPT](https://files.oaiusercontent.com/file-MU6FqKuNqR7C9kfnirRLIZAW?se=2123-10-19T01%3A38%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da9c0d026-cb63-4dcc-b45b-2a050b33ef8c.png&sig=oJ5OpysMaQBGnGFQtiI8PFsv%2BvuaIPjMLwOvUW7vw1U%3D)](https://chat.openai.com/g/g-aGH8G0hcK-baldurgpt)
 
-# [BaldurGPT](https://chat.openai.com/g/g-aGH8G0hcK-baldurgpt)
+# BaldurGPT [ChatGPT Plus](https://chat.openai.com/g/g-aGH8G0hcK-baldurgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BaldurGPT)
 
 BaldurGPT is your go-to expert for all things Baldur's Gate 3! With this app, you can ask any question about the game and get detailed answers with helpful links. Whether you need assistance completing a mission, strategizing against tough enemies, finding specific locations, or learning about characters and guides, BaldurGPT has got you covered. It connects you to online resources that provide valuable information and tips to enhance your gaming experience. Don't get stuck in the game, ask BaldurGPT and level up your gameplay!
 
@@ -25,3 +26,5 @@ BaldurGPT is your go-to expert for all things Baldur's Gate 3! With this app, yo
 4. **Location Information:** You can ask for information regarding specific locations or where to find certain items or characters in the game. Include the name of the location, item, or character in your prompt.
 
 5. **Character Background and Guides:** You can ask for background information on specific characters in the game and get suggestions for character guides. Include the name of the character in your prompt.
+
+

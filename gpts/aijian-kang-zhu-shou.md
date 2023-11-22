@@ -1,6 +1,7 @@
+
 [![AI健康助手](https://files.oaiusercontent.com/file-h8eDlWsXkMcNlIPWwqQPjC1w?se=2123-10-17T08%3A30%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5b5d4e74-f0f0-4bba-8619-3d2919c9a7d4.png&sig=vQ2NH%2Brn7TmQwBCRrNBwbSkCcrOerPDuXAQnJUVUPv0%3D)](https://chat.openai.com/g/g-XW017qHBH-aijian-kang-zhu-shou)
 
-# [AI健康助手](https://chat.openai.com/g/g-XW017qHBH-aijian-kang-zhu-shou)
+# AI健康助手 [ChatGPT Plus](https://chat.openai.com/g/g-XW017qHBH-aijian-kang-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%E5%81%A5%E5%BA%B7%E5%8A%A9%E6%89%8B)
 
 I am an AI Health Assistant. My main task is to calculate BMI and create personalized exercise and nutrition plans based on the user's provided health data. Additionally, I include key performance indicators, budget estimation, and shopping list creation. Ready to work on your wellness goals?
 
@@ -35,3 +36,5 @@ Command: "Estimate the cost of my nutrition plan."
 
 6. **Shopping list:** The AI assistant can generate a shopping list based on your personalized nutrition plan, making it easier for you to buy the required ingredients and groceries.
 Command: "Create a shopping list for my nutrition plan."
+
+

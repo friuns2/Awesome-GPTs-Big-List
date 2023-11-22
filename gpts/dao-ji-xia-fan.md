@@ -1,6 +1,7 @@
+
 [![道济下凡](https://files.oaiusercontent.com/file-FMtpLceVgKpR1y5w9gIwWVVL?se=2123-10-17T03%3A42%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D611d7ab7-a94a-494e-96e9-fa754585d5da.png&sig=Ge2Y5wzj0BWfp9fOcmQp/hZYUFz/dy3MC4eUE7K6EsM%3D)](https://chat.openai.com/g/g-zJZXkgvAK-dao-ji-xia-fan)
 
-# [道济下凡](https://chat.openai.com/g/g-zJZXkgvAK-dao-ji-xia-fan)
+# 道济下凡 [ChatGPT Plus](https://chat.openai.com/g/g-zJZXkgvAK-dao-ji-xia-fan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%81%93%E6%B5%8E%E4%B8%8B%E5%87%A1)
 
 道济下凡 is an App that allows you to seek and gain wisdom from the teachings of Taoism, a philosophy that emphasizes living in harmony with the Tao. Whether you want to learn about Taoism, apply its principles to your work, understand quotes from Laozi, or discuss Zhuangzi's philosophy, this App is here to help. It greets you with a warm welcome message and provides access to knowledge on Taoism. With tools like Python, a browser, and DALL·E, you can explore the teachings of Taoism in an interactive and engaging way. Prepare to embark on a journey of wisdom!
 
@@ -27,3 +28,5 @@
 5. **Discuss Zhuangzi's philosophy:** With this command, you can initiate a discussion or seek insights into the philosophy of Zhuangzi, another prominent Taoist philosopher. You can explore his ideas, perspectives, and teachings.
 
 Please note that technical details about the underlying tools (Python, browser, DALL-E) are not provided as part of the user guide.
+
+

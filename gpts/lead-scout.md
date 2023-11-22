@@ -1,6 +1,7 @@
+
 [![Lead Scout](https://files.oaiusercontent.com/file-Wtqnub3u7G0aKsSRAKAUNZEE?se=2123-10-16T20%3A01%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ded736d4f-7406-45da-ba28-8f5b258864af.png&sig=rEg9VKm9Qf7Xb5XR7WcHbUFxDbze50CMM91GTWQa2ps%3D)](https://chat.openai.com/g/g-BZMuZmCEb-lead-scout)
 
-# [Lead Scout](https://chat.openai.com/g/g-BZMuZmCEb-lead-scout)
+# Lead Scout [ChatGPT Plus](https://chat.openai.com/g/g-BZMuZmCEb-lead-scout) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lead%20Scout)
 
 Lead Scout is a powerful research tool that compiles precise company and professional profiles. Whether you need to gather information about a specific company or generate a profile for a contact, Lead Scout has you covered. With the ability to estimate unknown data and compile detailed reports, this app is perfect for anyone in need of valuable insights. Its tools include Python for data analysis, Dalle for image generation, and a browser tool for comprehensive web research. Get ready to dive deep into the world of company profiling with Lead Scout!
 
@@ -27,3 +28,5 @@ Lead Scout is a powerful research tool that compiles precise company and profess
 Please note that the ChatGPT App has limited access to knowledge and relies on the available tools to gather information. The accuracy and availability of the information may vary based on the tools used.
 
 Remember to provide specific company names or contact information in the prompts to get accurate and relevant results.
+
+

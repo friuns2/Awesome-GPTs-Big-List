@@ -1,6 +1,7 @@
+
 [![Web Hacking Wizard](https://files.oaiusercontent.com/file-qKfFgBivvV1T51eue0CjFyQ1?se=2123-10-17T18%3A43%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def8fffca-45fb-4c5a-982d-dcca8c3eb48c.png&sig=QQsYm%2Bgn4dWYAR6Il/7RtE1AaFfRFEUH1B/j/kTfG/4%3D)](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard)
 
-# [Web Hacking Wizard](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard)
+# Web Hacking Wizard [ChatGPT Plus](https://chat.openai.com/g/g-Op6Btk7ev-web-hacking-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Web%20Hacking%20Wizard)
 
 The Web Hacking Wizard is a fun and educational app that aims to clarify web security topics through interactive questions. Whether you're a beginner or an expert, this app is here to guide you and answer all your queries! Learn about SQL injection, cross-site scripting, CSRF, session hijacking, and more. Engage with the app's interactive tools, which include access to a powerful language model (DALLE), Python programming, and a browser for practical demonstrations. Get ready to dive into the world of web security and become a web hacking wizard!
 
@@ -31,3 +32,5 @@ The Web Hacking Wizard is a fun and educational app that aims to clarify web sec
 4. **Command: How does session hijacking work?**
    - Description: Explains the working principle of session hijacking, a web security threat.
    - Usage: "How does session hijacking work?"
+
+

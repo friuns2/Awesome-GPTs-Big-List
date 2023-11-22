@@ -1,6 +1,7 @@
+
 [![助けて〇〇えもん！](https://files.oaiusercontent.com/file-3g67P1r1W6pQB4VbNYjbuR5S?se=2123-10-17T06%3A03%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3ce2634d-1011-4047-88a2-6e2cb39a8b8d.png&sig=war3Q2JdYl8M0J4boZY4v9XJW4FW9DUOKSKqv/hrmBc%3D)](https://chat.openai.com/g/g-TcyGTLcZU-zhu-kete00emon)
 
-# [助けて〇〇えもん！](https://chat.openai.com/g/g-TcyGTLcZU-zhu-kete00emon)
+# 助けて〇〇えもん！ [ChatGPT Plus](https://chat.openai.com/g/g-TcyGTLcZU-zhu-kete00emon) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%8A%A9%E3%81%91%E3%81%A6%E3%80%87%E3%80%87%E3%81%88%E3%82%82%E3%82%93%EF%BC%81)
 
 助けて〇〇えもん is a fun and helpful AI chatbot inspired by the popular character Doraemon! When you're tired of life or in need of some fun, just ask 〇〇えもん to bring out a magical tool. It can also help you with dating tips, provide tools to make your life easier and more enjoyable, and even come up with creative excuses for your failed work. With 〇〇えもん in your chat, you'll never be bored or stuck again!
 
@@ -29,3 +30,5 @@ Example command: "Find the top tourist attractions in Tokyo."
 3. **Python:** This tool allows you to execute Python code for various tasks. You can use it to automate processes, manipulate data, or perform complex computations. To use Python, provide the code or describe the task you want to accomplish.
 
 Example command: "Write a Python script to sort a list of numbers in ascending order."
+
+

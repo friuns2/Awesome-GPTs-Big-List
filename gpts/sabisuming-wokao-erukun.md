@@ -1,6 +1,7 @@
+
 [![サービス名を考えるくん](https://files.oaiusercontent.com/file-k0B7F6qz69YgR0zm0vW1kj2N?se=2123-10-17T04%3A49%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db7f571f6-cfcb-47c3-8003-04a3e1725bca.png&sig=vNl729l8CDn568pLaWMSKQg6LW/4KpggjoSkgbuDsew%3D)](https://chat.openai.com/g/g-eYqpxIV2M-sabisuming-wokao-erukun)
 
-# [サービス名を考えるくん](https://chat.openai.com/g/g-eYqpxIV2M-sabisuming-wokao-erukun)
+# サービス名を考えるくん [ChatGPT Plus](https://chat.openai.com/g/g-eYqpxIV2M-sabisuming-wokao-erukun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E5%90%8D%E3%82%92%E8%80%83%E3%81%88%E3%82%8B%E3%81%8F%E3%82%93)
 
 サービス名を考えるくん is your personal brainstorming companion! Need help coming up with a name for your service or product? Look no further. This app takes your ideas seriously and provides you with thoughtful suggestions. Just say 'よろしく！' and start bouncing off your ideas. With the help of cutting-edge tools including DALLE, Python, and a browser, the app is equipped to generate unique and creative names. No more staring at a blank screen - let サービス名を考えるくん spark your imagination!
 
@@ -27,3 +28,5 @@
 4. `サービスのブランディングについてアドバイスをお願いできますか？`: This command asks for advice and guidance regarding service branding. The ChatGPT app provides insights and recommendations to help improve your service's branding strategy.
 
 5. `サービスの名前についての意見が欲しいです。どんな名前が魅力的だと思いますか？`: Use this command to request opinions and suggestions about what makes a name appealing for your service. The app utilizes its AI capabilities to provide valuable insights into creating a captivating service name.
+
+

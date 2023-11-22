@@ -1,6 +1,7 @@
+
 [![NutriVision](https://files.oaiusercontent.com/file-iuqDKbPa3oCww8ZsE8z4R44x?se=2123-10-17T00%3A34%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D95d66f96-af4d-4f64-85d3-66f21c1e470e.png&sig=UPKPGWmMbFDRFpGWFkAC0iNRLj4c27EOTgwa5y1HFPI%3D)](https://chat.openai.com/g/g-jdhBuS3qR-nutrivision)
 
-# [NutriVision](https://chat.openai.com/g/g-jdhBuS3qR-nutrivision)
+# NutriVision [ChatGPT Plus](https://chat.openai.com/g/g-jdhBuS3qR-nutrivision) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NutriVision)
 
 NutriVision is your personal nutrition assistant. Simply upload a picture of your meal and get a detailed breakdown of its nutritional content. Wondering if your meal is healthy? NutriVision will give you a health rating for the dish. With NutriVision by your side, you can make informed choices and work towards a healthier lifestyle. Say goodbye to guessing and hello to a better understanding of what you're eating!
 
@@ -26,3 +27,5 @@ NutriVision is your personal nutrition assistant. Simply upload a picture of you
 4. **Get health rating**: If you want a quick evaluation of the healthiness of a dish, you can ask the NutriVision app to give you a health rating for that particular meal.
 
 Note: The NutriVision app does not have access to knowledge or any additional tools for you to use.
+
+

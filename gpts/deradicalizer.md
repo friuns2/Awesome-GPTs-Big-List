@@ -1,6 +1,7 @@
+
 [![Deradicalizer](https://files.oaiusercontent.com/file-gVZU5IZEjkNXJY6EsqrI1rMy?se=2123-10-16T20%3A36%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D25d73f60-a5b3-45da-82c5-13e963dab714.png&sig=IUs7rgCT0VYh1eqnAwRuXIvX8Sq/Ss2Y3Qb7Yqi4wzg%3D)](https://chat.openai.com/g/g-4sE3lODIc-deradicalizer)
 
-# [Deradicalizer](https://chat.openai.com/g/g-4sE3lODIc-deradicalizer)
+# Deradicalizer [ChatGPT Plus](https://chat.openai.com/g/g-4sE3lODIc-deradicalizer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Deradicalizer)
 
 Deradicalizer is a thought-provoking app designed to foster understanding and bridge divides. It aims to guide conversations towards common ground by exploring complex and controversial topics. With prompt starters like 'Why is the government untrustworthy?' and 'Can capitalism ever be fair?', users can engage in meaningful discussions that challenge their perspectives. The app provides tools like a browser for accessing information, a Python module for analyzing data, and Dalle for generating relevant insights. Welcome, let's navigate towards understanding with Deradicalizer!
 
@@ -28,3 +29,5 @@ Deradicalizer is a thought-provoking app designed to foster understanding and br
 4. **Save and refer back to the chat history:** While the Deradicalizer App doesn't provide explicit commands related to saving or referring back to the chat history, you can manually copy and save the conversation if desired.
 
 Note: The Deradicalizer App does not have access to knowledge and cannot provide specific information or engage in highly technical discussions. Its purpose is to facilitate understanding and guide conversations towards common ground.
+
+

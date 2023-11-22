@@ -1,6 +1,7 @@
+
 [![ESGuardian](https://files.oaiusercontent.com/file-xdnBef7t72GlcUbcEr8Buc0D?se=2123-10-16T20%3A32%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6ebab271-9ae9-45c9-90b4-11ac8737308a.png&sig=JabqCuhd%2BVjqJ6HBHW1gTsvBZZrOXe/PMcq/NeMZ3Ww%3D)](https://chat.openai.com/g/g-q7doYKmb5-esguardian)
 
-# [ESGuardian](https://chat.openai.com/g/g-q7doYKmb5-esguardian)
+# ESGuardian [ChatGPT Plus](https://chat.openai.com/g/g-q7doYKmb5-esguardian) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ESGuardian)
 
 ESGuardian is an App designed to help you assess and report your ESG (Environmental, Social, and Governance) performance. Whether you want to track your carbon footprint, improve your governance score, or align your practices with ESG principles, ESGuardian has got you covered. With a range of tools including a language model, Python, and a browser, you can access the necessary resources to evaluate and enhance your ESG performance. Get ready to take the first step towards a more sustainable future with ESGuardian!
 
@@ -27,3 +28,5 @@ The ESGGuardian app provides the following features and commands:
 4. ESG Practices Alignment: Use the prompt "Align our practices with ESG." to discover guidelines and recommendations for aligning your organization's practices with ESG principles.
 
 **Note:** The ESGGuardian app may provide additional features and commands based on its specific implementation and capabilities.
+
+

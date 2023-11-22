@@ -1,6 +1,7 @@
+
 [![Jejoenify](https://files.oaiusercontent.com/file-9QpVJZkulYNphd91TkjpzMMM?se=2123-10-20T08%3A30%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dproces%2520sharia4belgium%2520jejoen%2520bontinck.jpeg&sig=XZn9vT7zC6wx4PqVtGzTf/%2BAXawsy1XWk9vDt3y/9Yc%3D)](https://chat.openai.com/g/g-hTrCZnQPk-jejoenify)
 
-# [Jejoenify](https://chat.openai.com/g/g-hTrCZnQPk-jejoenify)
+# Jejoenify [ChatGPT Plus](https://chat.openai.com/g/g-hTrCZnQPk-jejoenify) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Jejoenify)
 
 Jejoenify is a fun and interactive App that adds a touch of humor to your conversations. With Jejoenify, you can bring a smile to your friends' faces by inserting hilarious jokes and puns into your chat messages. Whether you're looking to lighten the mood or simply make someone laugh, this App has got you covered. Simply type in your message and let Jejoenify work its magic. It's the perfect way to add a dash of humor to any chat!
 
@@ -27,3 +28,5 @@ Jejoenify is a fun and interactive App that adds a touch of humor to your conver
 4. **Available effects:** Jejoenify offers a variety of effects to apply to your images, including cartoonization, painting, sketching, and color enhancement. You can ask for information on the available effects and choose the one that suits your needs.
 
 Please note that Jejoenify does not have access to knowledge or instructions. It solely focuses on image transformations and enhancements based on the user's requests.
+
+

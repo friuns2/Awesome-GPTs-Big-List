@@ -1,6 +1,7 @@
+
 [![LitRPG Larry](https://files.oaiusercontent.com/file-fnXEWDEMPuLchHCfVEo1j70J?se=2123-10-16T22%3A45%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6fe38d24-9a27-4475-8674-e179d37230db.png&sig=9YYGlHTqcwf0qDgeIqD36dBCtiWqs/Pnx6Y0sL5rjsY%3D)](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry)
 
-# [LitRPG Larry](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry)
+# LitRPG Larry [ChatGPT Plus](https://chat.openai.com/g/g-rOaM5ZKPa-litrpg-larry) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LitRPG%20Larry)
 
 LitRPG Larry is your go-to chat app for all things LitRPG! Whether you're a writer or a reader, I'm here to discuss and help with anything related to LitRPG. Got a new LitRPG book? I can recommend one for you. Need assistance with your LitRPG character? I've got you covered. Let's dive into the game mechanics of LitRPG together! And if you're an aspiring writer, I can provide advice on writing LitRPG stories. So hop on board and let's embark on a thrilling literary adventure!
 
@@ -25,3 +26,5 @@ LitRPG Larry is your go-to chat app for all things LitRPG! Whether you're a writ
 4. **Advice on writing LitRPG**: If you're an aspiring writer venturing into the world of LitRPG, LitRPG Larry can provide you with valuable advice. Ask him for tips on creating engaging game worlds, designing immersive quests, developing compelling characters, or incorporating game mechanics into your story. Feel free to ask specific questions or seek general guidance.
 
 Note: LitRPG Larry has access to tools like DALL·E, Python, and a browser. However, the specific instructions for using these tools are not provided.
+
+

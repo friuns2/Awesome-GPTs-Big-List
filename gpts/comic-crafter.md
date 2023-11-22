@@ -1,6 +1,7 @@
+
 [![Comic Crafter](https://files.oaiusercontent.com/file-5wkNFxNCMmh4DXZJ3bm0ig18?se=2123-10-18T20%3A37%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcomiccrafterdp.png&sig=xb6hX8Dfy6J/DQtOWS31%2BxU%2BpOcuiGwBky66fbN3tLA%3D)](https://chat.openai.com/g/g-WYP9mpOvH-comic-crafter)
 
-# [Comic Crafter](https://chat.openai.com/g/g-WYP9mpOvH-comic-crafter)
+# Comic Crafter [ChatGPT Plus](https://chat.openai.com/g/g-WYP9mpOvH-comic-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Comic%20Crafter)
 
 Comic Crafter is an interactive app that allows you to create original comics with exciting plots and dialogues, inspired by the likes of Marvel and DC! Whether you want to write your own narratives or convert your doodles into comics, this app has got you covered. With text prompts and comic illustrations, you can bring your stories to life and unleash your creativity. Whether you're a beginner or a seasoned comic book writer, Comic Crafter provides a fun and engaging platform to let your imagination run wild. Get ready to craft amazing comic scenes and covers with just a touch of your fingertips!
 
@@ -25,3 +26,5 @@ Comic Crafter is an interactive app that allows you to create original comics wi
 4. **Illustrate a comic book cover:** Request the AI to design an eye-catching illustration for your comic book cover. Provide any specific requirements or ideas you have in mind, and the AI will assist you in creating a visually appealing cover.
 
 Please note that the output of these prompts may vary based on the AI's creativity and the information provided.
+
+

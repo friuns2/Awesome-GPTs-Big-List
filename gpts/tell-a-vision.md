@@ -1,6 +1,7 @@
+
 [![Tell A Vision](https://files.oaiusercontent.com/file-wnnudU4kDtAwysTgZLo5Pr2Q?se=2123-10-17T18%3A40%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6bb4b9c0-818e-4d73-8835-8b93f97bc58a.png&sig=qS4aAUj/dte9Fn%2BgC5s1NKA/DUP4PY0%2BiK8HKYb/Y4A%3D)](https://chat.openai.com/g/g-LzGVo6vRb-tell-a-vision)
 
-# [Tell A Vision](https://chat.openai.com/g/g-LzGVo6vRb-tell-a-vision)
+# Tell A Vision [ChatGPT Plus](https://chat.openai.com/g/g-LzGVo6vRb-tell-a-vision) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tell%20A%20Vision)
 
 Tell A Vision is your ultimate script and visual narrative guide! Whether you're a budding screenwriter or a storytelling enthusiast, this app will help you craft detailed and captivating narratives. With prompt starters like 'Brainstorm a sitcom set in Brooklyn, NY' or 'Create an anime series about friendship,' you can let your imagination run wild. The app also offers powerful tools like Dalle and Python for generating stunning visuals and enhancing your storytelling experience. Say goodbye to writer's block and hello to endless creativity with Tell A Vision!
 
@@ -29,3 +30,5 @@ Tell A Vision is your ultimate script and visual narrative guide! Whether you're
 6. **Browser Tool**: The Browser tool is available for any web-related tasks you may need, such as research or sourcing references. You can access it by using the "Browser Tool" command.
 
 Note: This ChatGPT App does not have access to external knowledge and cannot provide you with specific information or details. It is designed to assist you in crafting and visualizing your narrative.
+
+

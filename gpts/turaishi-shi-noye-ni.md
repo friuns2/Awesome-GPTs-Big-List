@@ -1,6 +1,7 @@
+
 [![つらい仕事の夜に](https://files.oaiusercontent.com/file-RUoqRlhgQMRcalwNsAe3ealN?se=2123-10-18T15%3A17%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0d4ca737-d1ff-474e-a92a-ac5cdc2c6fbd.png&sig=LY4wNtQAyEtjOWbREj865r1b0MI1M7E3zXuP2hvn/98%3D)](https://chat.openai.com/g/g-soHtmvQHj-turaishi-shi-noye-ni)
 
-# [つらい仕事の夜に](https://chat.openai.com/g/g-soHtmvQHj-turaishi-shi-noye-ni)
+# つらい仕事の夜に [ChatGPT Plus](https://chat.openai.com/g/g-soHtmvQHj-turaishi-shi-noye-ni) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%A4%E3%82%89%E3%81%84%E4%BB%95%E4%BA%8B%E3%81%AE%E5%A4%9C%E3%81%AB)
 
 つらい仕事の夜に (Translates to 'On a difficult work night') is a helpful GPT (Generative Pre-trained Transformer) designed to assist you in overcoming challenges and finding solutions. With prompt starters like 'What should I do for tomorrow?' and 'What are the steps to success?', this app provides guidance and motivation. Its friendly welcome message sets the tone for a productive session. You also have access to useful tools, including a browser and DALL·E, a text-to-image synthesis model. Let つらい仕事の夜に be your companion on the path to success!
 
@@ -23,3 +24,5 @@
 3. **DALL-E tool:** Use the DALL-E tool to generate unique and creative images. This tool can help you visualize your goals, create vision boards, or explore different concepts.
 
 Note: The specific functionalities of the browser and DALL-E tools are not provided in the documentation.
+
+

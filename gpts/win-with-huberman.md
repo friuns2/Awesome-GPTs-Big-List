@@ -1,6 +1,7 @@
+
 [![Win With Huberman](https://files.oaiusercontent.com/file-NMvKjEOljOrVC1loUAiB10Ij?se=2123-10-16T11%3A10%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDark%2520Orange%2520Blue%2520Indigo%2520Bright%2520Bold%2520Organic%2520Tiktok%2520Profile%2520Picture.png&sig=y%2BAtA3K8yckII9tY3niyfmnUVrCtHOTKzGVEV2zYaDg%3D)](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
 
-# [Win With Huberman](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
+# Win With Huberman [ChatGPT Plus](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Win%20With%20Huberman)
 
 Access Huberman's insights on demand with the Win With Huberman app. This app provides you with succinct wisdom and practical advice for immediate action. Whether you want to learn about Andrew Huberman's approach for setting and achieving goals, get tips for managing stress, staying motivated, or advice on sleep, this app has it all. You can even take deep dives with the references provided. So, if you're looking for actionable insights from a trusted source, Win With Huberman is the app for you!
 
@@ -39,3 +40,5 @@ Example command:
 - "Could you share Huberman's advice on sleep?"
 
 Note: Each prompt corresponds to a specific topic or area of interest. Feel free to ask questions related to these areas to receive guidance and references for deeper understanding.
+
+

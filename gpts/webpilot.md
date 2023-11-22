@@ -1,6 +1,7 @@
+
 [![WebPilot](https://files.oaiusercontent.com/file-mBN5IZoV9qWIesiiWuQLDh9n?se=2123-10-14T11%3A55%3A42Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36x36.png&sig=4jYkWrl5ZwFPF/8h4jGSYnnBoUCl4n61Th9AhGqRaB4%3D)](https://chat.openai.com/g/g-pNWGgUYqS)
 
-# [WebPilot](https://chat.openai.com/g/g-pNWGgUYqS)
+# WebPilot [ChatGPT Plus](https://chat.openai.com/g/g-pNWGgUYqS) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=WebPilot)
 
 WebPilot is an App that allows users to browse webpages, PDFs, and data. With WebPilot, you can chat and write with one or many URLs. Simply input the URL you want to visit and retrieve content from, and WebPilot will provide a comprehensible summary of the webpage. You can also access real-time content and explore additional search results. Whether you're researching, staying up-to-date with the latest news, or simply browsing the web, WebPilot is your go-to companion. So hop on board and let WebPilot navigate the vast ocean of the internet for you!
 
@@ -22,4 +23,7 @@ WebPilot is an App that allows users to browse webpages, PDFs, and data. With We
 | Feature/Command | Description |
 | --- | --- |
 | `visitWebPage` | This command allows you to input a URL and retrieve the web page content. It returns a comprehensible summary of the webpage, including the title, content, meta information, links, search results, and tips. |
+
+
+
 

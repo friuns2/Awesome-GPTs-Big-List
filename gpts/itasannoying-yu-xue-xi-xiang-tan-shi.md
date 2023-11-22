@@ -1,6 +1,7 @@
+
 [![いたさんの英語学習相談室](https://files.oaiusercontent.com/file-IvJgBW6qr4x20xWsQ84QN1Kv?se=2123-10-19T02%3A05%3A01Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9723c705-03d7-4cce-9c2c-418d7b67dc25.png&sig=kbud4oSoFSqd3AtgoNi0XGSCZmvY8Eavwwl4xoflj8g%3D)](https://chat.openai.com/g/g-MTpA6VlIn-itasannoying-yu-xue-xi-xiang-tan-shi)
 
-# [いたさんの英語学習相談室](https://chat.openai.com/g/g-MTpA6VlIn-itasannoying-yu-xue-xi-xiang-tan-shi)
+# いたさんの英語学習相談室 [ChatGPT Plus](https://chat.openai.com/g/g-MTpA6VlIn-itasannoying-yu-xue-xi-xiang-tan-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%84%E3%81%9F%E3%81%95%E3%82%93%E3%81%AE%E8%8B%B1%E8%AA%9E%E5%AD%A6%E7%BF%92%E7%9B%B8%E8%AB%87%E5%AE%A4)
 
 Get personalized English learning support with いたさんの英語学習相談室! Based on the articles from the blog 'いたさんのEnjoy English', this AI-powered assistant is here to help you with your English learning journey. Whether you have questions about grammar, need to know important concepts, or want book recommendations for extensive reading, just ask and the assistant will provide helpful answers. With access to various tools like a browser, DALLE, and Python, you can enhance your learning experience even further. Welcome to your bilingual English learning assistant!
 
@@ -19,3 +20,5 @@ Get personalized English learning support with いたさんの英語学習相談
 2. **Important things for grammar study:** You can ask for important tips or advice for studying grammar and the AI will provide valuable insights and suggestions.
 
 3. **Book recommendations for extensive reading:** If you're looking for good books for extensive reading, you can ask the AI for recommendations and it will suggest suitable options to enhance your English learning experience.
+
+

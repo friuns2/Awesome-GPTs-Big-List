@@ -1,6 +1,7 @@
+
 [![TYTIAS INTERIOR DESIGN 小助手](https://files.oaiusercontent.com/file-cSjuJPJgSZf9qfVRJWbLeFfK?se=2123-10-17T17%3A49%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dae9854e4-93a7-4b2d-b3c0-e681be8a4544.png&sig=1LI8A/CqVdKdxYHD9CZ6L7CGzd1hK38VzwqHG89W/qI%3D)](https://chat.openai.com/g/g-5XTzCQ1bB-tytias-interior-design-xiao-zhu-shou)
 
-# [TYTIAS INTERIOR DESIGN 小助手](https://chat.openai.com/g/g-5XTzCQ1bB-tytias-interior-design-xiao-zhu-shou)
+# TYTIAS INTERIOR DESIGN 小助手 [ChatGPT Plus](https://chat.openai.com/g/g-5XTzCQ1bB-tytias-interior-design-xiao-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TYTIAS%20INTERIOR%20DESIGN%20%E5%B0%8F%E5%8A%A9%E6%89%8B)
 
 TYTIAS INTERIOR DESIGN Assistant is here to provide quick and accurate suggestions for your home design needs. Whether you want to upload your floor plan for a 3D rendering, get ideas for your bedroom design, or learn how to contact our company, we've got you covered. Need tips on maintaining your wooden floors? We can help with that too! Just ask and our friendly assistant will assist you. With our handy tools, including a browser, DALLE image generator, and Python programming, we're ready to bring your interior design dreams to life.
 
@@ -21,3 +22,5 @@ TYTIAS INTERIOR DESIGN Assistant is here to provide quick and accurate suggestio
 2. **Dalle Tool:** This tool utilizes Dalle models to provide quick and accurate design suggestions for your home.
 
 3. **Python Tool:** This tool enables you to run Python code for any specific functionality you require.
+
+

@@ -1,6 +1,7 @@
+
 [![PowerBI GPT](https://files.oaiusercontent.com/file-JXom8WDboq2kxYPNt15ROaYx?se=2123-10-17T12%3A39%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D57082ea3-1e68-4e62-8a59-464e51bc641f.png&sig=czeHgdV4TOmbh46YEgy6wRuHIbxGQPpjdf2aDQprmAM%3D)](https://chat.openai.com/g/g-iA6FFkVTT-powerbi-gpt)
 
-# [PowerBI GPT](https://chat.openai.com/g/g-iA6FFkVTT-powerbi-gpt)
+# PowerBI GPT [ChatGPT Plus](https://chat.openai.com/g/g-iA6FFkVTT-powerbi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PowerBI%20GPT)
 
 Meet PowerBI GPT, your personal PowerBI Expert! Whether you need help debugging errors, brainstorming creative dashboard ideas, understanding the differences between PowerBI Service and the desktop version, or simply want to learn more about a specific PowerBI feature, this app has got you covered. With access to a wealth of knowledge and expertise, PowerBI GPT is here to assist you every step of the way. Just ask your questions and let this expert guide you towards insightful solutions and valuable insights. Get ready to take your PowerBI skills to the next level!
 
@@ -26,3 +27,5 @@ Meet PowerBI GPT, your personal PowerBI Expert! Whether you need help debugging 
 | `explainFeature` | This command allows you to learn about specific features in PowerBI. You can provide the name or description of the feature you want to understand, and the AI will provide an explanation and usage examples. |
 | `compareVersions` | This command compares PowerBI Service with the desktop version, highlighting the additional capabilities and functionalities offered by the service. You can specify the specific aspects you want to know more about, such as collaboration features, sharing options, or data refresh capabilities. |
 | `dynamicReports` | This command assists you in brainstorming ideas for creating dynamic reports in PowerBI. You can provide the context or purpose of the report, and the AI will suggest interactive elements, slicers, filters, and other techniques to make your reports more engaging and interactive. |
+
+

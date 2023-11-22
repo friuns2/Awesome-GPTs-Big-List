@@ -1,6 +1,7 @@
+
 [![笑话大师](https://files.oaiusercontent.com/file-qHps67VqpB7DSHItRhAUPZvM?se=2123-10-17T19%3A37%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db64b92e4-0a1e-4dab-82a9-ca97e0b42c65.png&sig=yQ9D%2BLidlevfuNBEbpwIXsF5MboM6nZizFXvrAClrKQ%3D)](https://chat.openai.com/g/g-dpW97CUd8-xiao-hua-da-shi)
 
-# [笑话大师](https://chat.openai.com/g/g-dpW97CUd8-xiao-hua-da-shi)
+# 笑话大师 [ChatGPT Plus](https://chat.openai.com/g/g-dpW97CUd8-xiao-hua-da-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E7%AC%91%E8%AF%9D%E5%A4%A7%E5%B8%88)
 
 笑话大师 is a fun and entertaining Mandarin joke-telling app. Whether you need a good laugh or want to impress your friends with a hilarious punchline, this app has got you covered. Just ask for a joke using prompts like '请讲一个爆笑的笑话' (Please tell me a hilarious joke) or '来个短小笑话' (Give me a short joke), and the app will deliver. The jokes are culturally aware, ensuring a delightful experience for Mandarin speakers. So sit back, relax, and let 笑话大师 bring a smile to your face!
 
@@ -26,3 +27,5 @@
 - Usage: Use one of the example prompts to request a joke.
 
 Please note that this ChatGPT App is a Mandarin joke-telling app. It is friendly and culturally aware, and its purpose is to tell jokes in Mandarin.
+
+

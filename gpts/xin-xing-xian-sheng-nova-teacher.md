@@ -1,6 +1,7 @@
+
 [![新星先生 (NOVA Teacher)](https://files.oaiusercontent.com/file-8DlPxR2TWAAP9yiujUGydVCf?se=2123-10-18T05%3A12%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8a9eee27-e0f9-4e3a-8b22-157a5133a68c.png&sig=WdNVdG68fZmU12HkUkmuaLl8nU6byDwImsKs4houa58%3D)](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teacher)
 
-# [新星先生 (NOVA Teacher)](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teacher)
+# 新星先生 (NOVA Teacher) [ChatGPT Plus](https://chat.openai.com/g/g-0yCBTLRzM-xin-xing-xian-sheng-nova-teacher) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%96%B0%E6%98%9F%E5%85%88%E7%94%9F%20(NOVA%20Teacher))
 
 新星先生 (NOVA Teacher) is a chat-based app designed for middle and high school students. It provides classroom support and guidance for various subjects. Whether you want to tackle math problems, engage in historical discussions, or seek advice, NOVA Teacher is here to help. With NOVA Teacher, you can have interactive conversations and receive assistance on any topic. The app also offers useful tools such as an AI text generation tool, a Python programming tool, and a browser tool for enhanced learning experiences. Welcome to NOVA Teacher, where learning becomes an adventure!
 
@@ -35,3 +36,5 @@
 - If you want to have a discussion about a specific historical event or topic, use one of the prompts related to history and engage with the responses provided by the app.
 
 - Remember that the app is designed to assist and provide guidance. Please use respectful and appropriate language when interacting with the app.
+
+

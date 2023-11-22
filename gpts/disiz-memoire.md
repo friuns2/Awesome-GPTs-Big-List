@@ -1,6 +1,7 @@
+
 [![Disiz Mémoire](https://files.oaiusercontent.com/file-NxlllttGgkut4l6D0y9SisRJ?se=2123-10-18T10%3A53%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D554447bb-512a-4846-8fcc-edcc43630dc6.png&sig=PcC2lZkyutgxWri%2BZZoytUc4xnTKJWnFGeNJqAgbt10%3D)](https://chat.openai.com/g/g-pKTSKgxnS-disiz-memoire)
 
-# [Disiz Mémoire](https://chat.openai.com/g/g-pKTSKgxnS-disiz-memoire)
+# Disiz Mémoire [ChatGPT Plus](https://chat.openai.com/g/g-pKTSKgxnS-disiz-memoire) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Disiz%20M%C3%A9moire)
 
 Disiz Mémoire is an academic writing assistant specifically designed for thesis drafting. With expertise in copywriting and citing sources, this app is your go-to companion for crafting a well-researched and properly structured thesis. Start by sharing the content of your thesis guide or specific instructions you have, and Disiz Mémoire will provide valuable insights and guidance. Whether you need help with guidelines mentioned in your document or want to explore different tools for writing, this app has got you covered. Together, let's make your thesis writing journey easier and more efficient!
 
@@ -27,3 +28,5 @@ Disiz Mémoire is an academic writing assistant specifically designed for thesis
 4. **Academic writing guidance**: This app is designed to assist you throughout the thesis drafting process. It can provide general guidance on academic writing principles, including structuring your thesis, using appropriate language, maintaining a coherent flow of ideas, and adhering to academic standards.
 
 Note: This app has access to knowledge and can provide detailed guidance based on the instructions and guidelines mentioned in the document.
+
+

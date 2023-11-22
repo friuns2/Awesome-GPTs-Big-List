@@ -1,6 +1,7 @@
+
 [![MBTI Explorer](https://files.oaiusercontent.com/file-DUIrhNlCAvzHMje7Z1NDY7MG?se=2123-10-18T09%3A02%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc9a8c383-b7fa-4570-9839-4ca31d7fe974.png&sig=0wiQ8sIWUDjVy3zbXFhk8gHgVxL6WdVqC3/NN2hQ/a0%3D)](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer)
 
-# [MBTI Explorer](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer)
+# MBTI Explorer [ChatGPT Plus](https://chat.openai.com/g/g-axVc2Ueh4-mbti-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MBTI%20Explorer)
 
 MBTI Explorer is a friendly guide for MBTI testing. It helps you discover your personality type and provides you with valuable insights. Whether you're starting the test, unsure about an answer, or curious about a specific personality type, this app has got you covered. With access to a wealth of knowledge, you can learn more about yourself and what makes you unique. Ready to embark on your MBTI journey? Let's begin!
 
@@ -31,3 +32,5 @@ MBTI Explorer is a friendly guide for MBTI testing. It helps you discover your p
 4. **What's next in the test?**
    - Use this command to inquire about the upcoming steps or sections in the MBTI test.
    - Example: "What's next in the test?"
+
+

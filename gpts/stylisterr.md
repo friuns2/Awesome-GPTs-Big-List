@@ -1,6 +1,7 @@
+
 [![Stylisterr](https://files.oaiusercontent.com/file-0JkIvGOb63fVp0sAcY8YPUw4?se=2123-10-17T23%3A58%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520at%252023.22.46.png&sig=hQmpuMK9rMA7UYxOvX4cGRj/fxue9s46Odivd88Fgp0%3D)](https://chat.openai.com/g/g-L7DN6iE3m-stylisterr)
 
-# [Stylisterr](https://chat.openai.com/g/g-L7DN6iE3m-stylisterr)
+# Stylisterr [ChatGPT Plus](https://chat.openai.com/g/g-L7DN6iE3m-stylisterr) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Stylisterr)
 
 Stylisterr is your ultimate fashion stylist companion! Get personalized outfit tips and visualize full outfit ideas effortlessly. Whether you're attending a beach wedding or a winter formal event, Stylisterr has got your back. Just ask for outfit suggestions for any occasion and you'll be presented with stylish options. Need a casual outfit for a day out? Seeking a professional look for a job interview? Stylisterr has you covered! With a combination of AI and expert styling knowledge, this app will help you look your best. Say goodbye to fashion dilemmas and hello to fashion-forward choices!
 
@@ -41,3 +42,5 @@ Usage: Describe the occasion or activity, mention any specific preferences (e.g.
 Example command: "I'm going to a brunch with friends, and I want a casual yet chic outfit."
 
 Please note that all commands and prompts should be given in natural language.
+
+

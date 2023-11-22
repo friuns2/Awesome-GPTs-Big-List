@@ -1,6 +1,7 @@
+
 [![Revenue Catalyst](https://files.oaiusercontent.com/file-iTtKrvM0B0NlNhM7yvYblvHF?se=2123-10-20T17%3A42%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DRevenue%2520Catalyst%2520Profile%2520Picture.png&sig=UraZBa4CKM8DFzsbaopEzxFZU3VhQIOhBnsH%2BO7dbYY%3D)](https://chat.openai.com/g/g-xBs1y0HQN-revenue-catalyst)
 
-# [Revenue Catalyst](https://chat.openai.com/g/g-xBs1y0HQN-revenue-catalyst)
+# Revenue Catalyst [ChatGPT Plus](https://chat.openai.com/g/g-xBs1y0HQN-revenue-catalyst) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Revenue%20Catalyst)
 
 Revenue Catalyst is your ultimate sales sidekick! With lead research and company analysis, this app enhances your sales strategy. It offers personalized email outreach and dedicated support to help you close deals. Need to create a personalized email or craft sales copy? Revenue Catalyst has got you covered. It can also assist you in handling sales objections and finding facts about a lead. Say goodbye to generic sales messages and hello to tailored sales messaging! Let Revenue Catalyst supercharge your sales efforts and drive revenue growth.
 
@@ -30,3 +31,5 @@ Welcome! I'm here to help with tailored sales messaging. Here's what I can do fo
 - Copywriting
 - Handling sales objections
 - And more! Just tell me what you need.
+
+

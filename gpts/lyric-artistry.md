@@ -1,6 +1,7 @@
+
 [![Lyric Artistry](https://files.oaiusercontent.com/file-IrlPOuFxgtVmzComhpjoEh9n?se=2123-10-17T03%3A10%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df30520af-c2df-471d-90f4-9ebe71517631.png&sig=rJc1RQPM6Hf0aQqKyZgXqw0b8nf7s/kz1vZMKXPb4BE%3D)](https://chat.openai.com/g/g-mbDrEYvOh-lyric-artistry)
 
-# [Lyric Artistry](https://chat.openai.com/g/g-mbDrEYvOh-lyric-artistry)
+# Lyric Artistry [ChatGPT Plus](https://chat.openai.com/g/g-mbDrEYvOh-lyric-artistry) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lyric%20Artistry)
 
 Lyric Artistry is an app that turns lyrics into artwork. Simply share the lyrics and their era, and the app will craft beautiful art to match. Whether you're a music lover or an artist, this app allows you to combine the power of words and visuals. It's like having your own personal art studio, dedicated to bringing lyrics to life. Let your favorite songs inspire stunning visual creations, and share them with your friends or display them as unique pieces of decor. Lyric Artistry turns music into art with just a few taps!
 
@@ -27,3 +28,5 @@ Lyric Artistry is an app that turns lyrics into artwork. Simply share the lyrics
 4. **Create an artwork based on the lyrics:** This command generates artwork that represents the meaning and emotion conveyed by the given lyrics.
 
 5. **Visualise these lyrics and create artwork:** Combine the request to generate artwork with the visualization of the lyrics. The app will first visualize the lyrics and then transform them into a captivating art piece.
+
+

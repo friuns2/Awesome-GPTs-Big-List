@@ -1,6 +1,7 @@
+
 [![Oxford Writer's Aid](https://files.oaiusercontent.com/file-YZwvMGctef4Jx8k0GcefbcjY?se=2123-10-18T12%3A51%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D76e23f49-5136-4cd7-9ba5-63b756a80328.png&sig=h1w5LwpGvhqzZ9qNYqLeY6uSO7GtAz2u5owrPeHPTmo%3D)](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid)
 
-# [Oxford Writer's Aid](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid)
+# Oxford Writer's Aid [ChatGPT Plus](https://chat.openai.com/g/g-XYPMCl1Hy-oxford-writer-s-aid) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Oxford%20Writer's%20Aid)
 
 Oxford Writer's Aid is an app that helps you improve your English writing. Whether you need to revise a text, edit a paragraph, or make a sentence better, this app has got you covered. It provides direct improvements and explanations for your English texts, giving you valuable insights into how to enhance your writing skills. With a variety of tools available, including a browser and a DALLE module, Oxford Writer's Aid is your go-to companion for refining your written communication. Welcome aboard! Let's elevate your English writing to new heights!
 
@@ -21,3 +22,5 @@ Oxford Writer's Aid is an app that helps you improve your English writing. Wheth
 1. **Browser tool:** This tool allows you to browse the web to gather information or access online resources related to your writing. You can use it to search for examples, find synonyms, or research specific topics.
 
 2. **Dalle tool:** This tool utilizes an AI model called DALL-E to generate relevant images based on your text. You can use it to enhance your written content with visually appealing illustrations or to stimulate your creativity during the writing process.
+
+

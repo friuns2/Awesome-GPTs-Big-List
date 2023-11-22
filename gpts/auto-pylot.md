@@ -1,6 +1,7 @@
+
 [![Auto-Pylot](https://files.oaiusercontent.com/file-Q8B57dLRO2uR6v9h7Gby7gOD?se=2123-10-16T00%3A34%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D68661214-8c4c-4621-b465-02b90bc3de04.png&sig=SJNALS88h3W/JaDq79aeGqeLA91ouERp0esODpR0fNM%3D)](https://chat.openai.com/g/g-cJsCi83vK-auto-pylot)
 
-# [Auto-Pylot](https://chat.openai.com/g/g-cJsCi83vK-auto-pylot)
+# Auto-Pylot [ChatGPT Plus](https://chat.openai.com/g/g-cJsCi83vK-auto-pylot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Auto-Pylot)
 
 Auto-Pylot is your Python Automation Auto Pilot. This App makes automations simple and quick, so you can save time and focus on more important tasks. Whether you need to automate email sorting, create a script for scheduling, automate file organization, or build a Python bot for reminders, Auto-Pylot has got you covered. Just ask for suggestions, and this App will guide you through the process. With access to various tools like a browser and Python, you'll have everything you need to automate your tasks efficiently. Get ready to sit back, relax, and let Auto-Pylot take care of the repetitive work!
 
@@ -27,3 +28,5 @@ Example prompt: "How to automate file organization?"
 
 - **Create a Python bot for reminders:** With the Auto-Pylot app, you can easily create a Python bot for reminders. Describe the type of reminders you want to set up and the app will guide you in generating the Python code for your bot.
 Example prompt: "Create a Python bot for reminders."
+
+

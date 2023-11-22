@@ -1,6 +1,7 @@
+
 [![LogoGPT](https://files.oaiusercontent.com/file-MyVdpExI8Sb9c1QfQAJpDquU?se=2123-10-18T13%3A14%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db318b967-f4b2-45ba-b4df-a3339568c704.png&sig=bwqre8q3NgwXOTH%2BzYJ9YcPp8A9jNYm2KdR0Rr6qV5M%3D)](https://chat.openai.com/g/g-z61XG6t54-logogpt)
 
-# [LogoGPT](https://chat.openai.com/g/g-z61XG6t54-logogpt)
+# LogoGPT [ChatGPT Plus](https://chat.openai.com/g/g-z61XG6t54-logogpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LogoGPT)
 
 LogoGPT is a fun and handy app that designs personalized logos from your sketches! Whether you have a masterpiece sketched on a napkin or a rough idea, LogoGPT can transform it into a professional logo. Simply upload your sketch, pick a style, and watch as LogoGPT works its magic. Want to include a business name in your logo? No problem! Just let LogoGPT know and it will incorporate it seamlessly. You can also choose your logo's background color and select from a variety of styles like Minimalistic, Vintage, and more. Give your brand the perfect logo with LogoGPT!
 
@@ -27,3 +28,5 @@ LogoGPT is a fun and handy app that designs personalized logos from your sketche
 4. **Select a logo style: Minimalistic, Vintage, etc.** You have the option to choose from various logo styles such as minimalistic, vintage, and more. Mention the desired style in your prompt or instruction, and the logo will be designed accordingly.
 
 5. **Welcome message:** The app greets you with a welcome message when you start the interaction. It encourages you to upload your sketch, choose a style, and specify if you want a business name included in the logo design.
+
+

@@ -1,6 +1,7 @@
+
 [![Image to Text to Image](https://files.oaiusercontent.com/file-39vggshGkosNEzU3idMYfthH?se=2123-10-17T07%3A31%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db5c1c792-7f2c-44af-9f29-30e1d220a5d2.png&sig=NgiFmWZCm8qOZtiQygChmtjvmWJylhO5iYy1V/%2BLxCI%3D)](https://chat.openai.com/g/g-Q3tXlmp0T-image-to-text-to-image)
 
-# [Image to Text to Image](https://chat.openai.com/g/g-Q3tXlmp0T-image-to-text-to-image)
+# Image to Text to Image [ChatGPT Plus](https://chat.openai.com/g/g-Q3tXlmp0T-image-to-text-to-image) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Image%20to%20Text%20to%20Image)
 
 Transform your photos into unique artworks with 图生文生图! This app analyzes your uploaded photos, describes them, and generates new images based on the analysis. Whether you want to explore different interpretations of a photo, describe it in a new image, or turn it into a one-of-a-kind artwork, 图生文生图 has got you covered. With a simple and intuitive interface, you can easily upload your photos and let the app work its magic. Get ready to unleash your creativity and discover endless possibilities with 图生文生图!
 
@@ -23,3 +24,5 @@ Transform your photos into unique artworks with 图生文生图! This app analyz
 3. **Turn this photo into a unique artwork:** Use this command to transform a photo into a unique artwork.
 
 4. **Create a new image from this photo:** Use this command to generate a new image based on a given photo.
+
+

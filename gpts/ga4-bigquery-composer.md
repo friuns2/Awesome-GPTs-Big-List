@@ -1,6 +1,7 @@
+
 [![GA4 BigQuery Composer](https://files.oaiusercontent.com/file-YHwFBnBvgOOdYr29aP0TwMRw?se=2123-10-17T19%3A25%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D20bf5fd8-4d1a-42e2-86b1-190b53308ad0.png&sig=0YlqUtC36Y9tOusg4tKumjZU8GofiN7SMUVG5UPqgMs%3D)](https://chat.openai.com/g/g-J9EWjR3ga-ga4-bigquery-composer)
 
-# [GA4 BigQuery Composer](https://chat.openai.com/g/g-J9EWjR3ga-ga4-bigquery-composer)
+# GA4 BigQuery Composer [ChatGPT Plus](https://chat.openai.com/g/g-J9EWjR3ga-ga4-bigquery-composer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GA4%20BigQuery%20Composer)
 
 GA4 BigQuery Composer is a helpful assistant for SQL queries in GA4. With a focus on efficiency and precision, it allows you to easily convert default metrics to calculated ones. Whether you need to identify new users, create custom SQL queries for your data, or compare GA4 data with BigQuery reports, GA4 BigQuery Composer has got you covered. Simply provide your GA4 table ID for the SQL query, and you're good to go. It offers a browser tool and a Python tool, giving you flexibility in your query approach. Get ready to dive deep into your GA4 data with ease!
 
@@ -27,3 +28,5 @@ GA4 BigQuery Composer is a helpful assistant for SQL queries in GA4. With a focu
 5. **Compare GA4 data with BigQuery reports:** If you need help comparing GA4 data with BigQuery reports, the assistant can guide you through the process. Provide the necessary information, and the assistant will assist you in performing the comparison.
 
 Note: The available tools include a browser and Python. You can choose the tool that suits your needs for performing the required tasks.
+
+

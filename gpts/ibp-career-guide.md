@@ -1,6 +1,7 @@
+
 [![IBP Career Guide](https://files.oaiusercontent.com/file-Y2eVVkzIkTj7ke6zXIFilvXA?se=2123-10-17T11%3A25%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c11da32-c87f-4990-bdc1-659b598b5a58.png&sig=7Coifypg3A/fJiH7zui6aH4lwGys3IKu%2BGipovd/jTk%3D)](https://chat.openai.com/g/g-LU7O5IYGC-ibp-career-guide)
 
-# [IBP Career Guide](https://chat.openai.com/g/g-LU7O5IYGC-ibp-career-guide)
+# IBP Career Guide [ChatGPT Plus](https://chat.openai.com/g/g-LU7O5IYGC-ibp-career-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=IBP%20Career%20Guide)
 
 IBP Career Guide is a helpful assistant for students and graduates of the IBP program. It provides guidance on how to apply IBP knowledge in real life and explains the competencies gained from studying at IBP. The app also explores the general relevance of IBP courses and their connection to entrepreneurship. With access to various tools like browsing, AI image generation, and Python programming, the app offers valuable resources to navigate the IBP career path. Say hello to the IBP Career Guide and let it assist you in shaping a successful career!
 
@@ -27,3 +28,5 @@ IBP Career Guide is a helpful assistant for students and graduates of the IBP pr
 5. **Access to knowledge:** The IBP Career Guide has access to relevant information and resources that can help you in your IBP studies and future career. You can ask questions and seek guidance on various topics and receive valuable insights.
 
 Note: The specific functionalities and capabilities of the mentioned tools may vary. Please refer to the App documentation for detailed instructions on using each tool effectively.
+
+

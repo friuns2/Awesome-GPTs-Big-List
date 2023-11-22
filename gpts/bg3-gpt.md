@@ -1,6 +1,7 @@
+
 [![BG3-GPT](https://files.oaiusercontent.com/file-GXMwU64mN3vwHc7WeIdO7MSr?se=2123-10-17T16%3A36%3A06Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcb0b202a-a054-43e1-be74-0480b9b8e7df.png&sig=ZIHYOZQ3wJNQ9deaf1b5sq84XHi/uVoNtgFrG339LsU%3D)](https://chat.openai.com/g/g-sYLwCAmeF-bg3-gpt)
 
-# [BG3-GPT](https://chat.openai.com/g/g-sYLwCAmeF-bg3-gpt)
+# BG3-GPT [ChatGPT Plus](https://chat.openai.com/g/g-sYLwCAmeF-bg3-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BG3-GPT)
 
 BG3-GPT is your ultimate guide to all things Baldur's Gate 3! Whether you want to dive into the captivating story of the Mind Flayers, discover the romance options available to you, explore the different classes to master, or even learn how to earn some extra gold, BG3-GPT has got you covered. With access to a wealth of knowledge about the game, you can ask any question and receive helpful answers. It's like having a knowledgeable friend by your side as you journey through the world of Baldur's Gate 3!
 
@@ -29,3 +30,5 @@ BG3-GPT is your ultimate guide to all things Baldur's Gate 3! Whether you want t
 5. **Mind Flayers**: Discover the history and background of the Mind Flayers in Baldur's Gate 3.
 
 6. **Quest Help**: Get assistance and hints for specific quests in the game.
+
+

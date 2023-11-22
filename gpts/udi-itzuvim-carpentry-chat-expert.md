@@ -1,6 +1,7 @@
+
 [![Udi Itzuvim Carpentry Chat Expert](https://files.oaiusercontent.com/file-RTox0owKP1gn5SeHqiYw5wA0?se=2123-10-21T10%3A18%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db7a63c56-425c-4a50-80ba-fb753a12f778.png&sig=5RsRls4ENfTwA9rHaPEZxJlmIhRDCXdEsuu2rvExFBk%3D)](https://chat.openai.com/g/g-tNcpqKPdW-udi-itzuvim-carpentry-chat-expert)
 
-# [Udi Itzuvim Carpentry Chat Expert](https://chat.openai.com/g/g-tNcpqKPdW-udi-itzuvim-carpentry-chat-expert)
+# Udi Itzuvim Carpentry Chat Expert [ChatGPT Plus](https://chat.openai.com/g/g-tNcpqKPdW-udi-itzuvim-carpentry-chat-expert) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Udi%20Itzuvim%20Carpentry%20Chat%20Expert)
 
 Udi Itzuvim Carpentry Chat Expert is your go-to app for all your carpentry projects. With Udi as your advisor and guide, you'll never be lost in the world of carpentry again. Need help with creating an advanced interior design prompt? Udi's got you covered. Want to calculate the cost of your project and find the best suppliers? Udi can do that too. This app is packed with helpful tools like Dalle for generating images, Python for coding, and a browser for all your internet research needs. Get started on your carpentry project today with Udi Itzuvim!
 
@@ -27,3 +28,5 @@ Udi Itzuvim Carpentry Chat Expert is your go-to app for all your carpentry proje
 4. `Help to calculate the cost of the order, deep reconnaissance: suppliers of components, materials for the manufacture of furniture, all the necessary and available sources in the center of Israel to complete the task.` - This command is for assistance in calculating the cost of an order. The AI will provide information about suppliers for components and materials necessary for furniture manufacturing, specifically focusing on sources in the center of Israel.
 
 Please note that all prompts and commands should be written in natural language.
+
+

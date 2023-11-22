@@ -1,6 +1,7 @@
+
 [![Super Prompter](https://files.oaiusercontent.com/file-x354VI82y3mBBTalQcNPi4ue?se=2123-10-18T12%3A48%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df91f8cfc-06fa-45dc-96f6-f52499362b33.png&sig=a9IHzWpYnEiXuJHyjXluiU2Ml30BI2sA4gmIakzozZc%3D)](https://chat.openai.com/g/g-DrQzIJn2K-super-prompter)
 
-# [Super Prompter](https://chat.openai.com/g/g-DrQzIJn2K-super-prompter)
+# Super Prompter [ChatGPT Plus](https://chat.openai.com/g/g-DrQzIJn2K-super-prompter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Super%20Prompter)
 
 Super Prompter is an expert App in creating custom-tailored prompts for your needs! Whether you need a prompt for anything, want to create a prompt based on your idea, need a prompt for crafting a SEO article, or assistance in designing a prompt for your project, Super Prompter has got you covered. With a user-friendly interface and access to a wealth of knowledge, this App ensures that you never run out of inspiration or ideas. Let Super Prompter be your go-to companion for prompt creation!
 
@@ -25,3 +26,5 @@ Super Prompter is an expert App in creating custom-tailored prompts for your nee
 4. **Find the most cited articles on a topic from a specific time period:** If you're looking for highly cited articles on a specific topic from a certain time frame, you can ask "I want to find the most cited articles about artificial intelligence from the last five years" or "Find research on the use of machine learning in healthcare after 2020."
 
 5. **Read and save a paper to your library:** If you want to read a paper and then save it to your library, you can say "I found a paper I'm interested in, can you help me read it and then save it to my Zotero library?"
+
+

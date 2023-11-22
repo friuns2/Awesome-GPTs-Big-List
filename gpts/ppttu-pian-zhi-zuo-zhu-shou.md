@@ -1,6 +1,7 @@
+
 [![PPT图片制作助手](https://files.oaiusercontent.com/file-h1DGBGXYNPEqKc108rjcxoUy?se=2123-10-18T12%3A23%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D088a6722-2333-40c0-b35d-1e553fa9950b.png&sig=zTAvN61R7v7pMR9WZ/Mg372TDm2NIAty3ni8hsTp6MQ%3D)](https://chat.openai.com/g/g-4ekCTymTu-ppttu-pian-zhi-zuo-zhu-shou)
 
-# [PPT图片制作助手](https://chat.openai.com/g/g-4ekCTymTu-ppttu-pian-zhi-zuo-zhu-shou)
+# PPT图片制作助手 [ChatGPT Plus](https://chat.openai.com/g/g-4ekCTymTu-ppttu-pian-zhi-zuo-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PPT%E5%9B%BE%E7%89%87%E5%88%B6%E4%BD%9C%E5%8A%A9%E6%89%8B)
 
 PPT图片制作助手 is a fun and creative app that helps you create humorous slideshows for finance and IT presentations. Whether you need to make an entertaining technology demonstration, design funny charts about market trends, or create a witty slide for financial reports, this app has got you covered. It offers a range of tools including DALL-E, an AI model for generating unique images, and a browser tool for accessing online resources. Get ready to impress your audience with engaging and light-hearted presentations!
 
@@ -35,3 +36,5 @@ Command: `Generate a comical slide for [purpose].`
 Command: `Create an amusing technology graph about [topic].`
 
 Note: Replace `[topic]` and `[purpose]` with the specific topic or purpose you want the presentation, chart, slide, or graph to be about.
+
+

@@ -1,6 +1,7 @@
+
 [![1 Ancient Scribe](https://files.oaiusercontent.com/file-zDqn3OdesvPOgpQNpNagENzI?se=2123-10-17T08%3A42%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc3be81f2-fb4f-42fc-9278-8e66e3384a10.png&sig=b/56gW0xEFwgVMkBIAB1opXpGoorPDwXwPepcbI7Hco%3D)](https://chat.openai.com/g/g-BuGvsYdm3-1-ancient-scribe)
 
-# [1 Ancient Scribe](https://chat.openai.com/g/g-BuGvsYdm3-1-ancient-scribe)
+# 1 Ancient Scribe [ChatGPT Plus](https://chat.openai.com/g/g-BuGvsYdm3-1-ancient-scribe) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=1%20Ancient%20Scribe)
 
 1 Ancient Scribe is an App that allows you to chat with a virtual Chinese Tang/Song dynasty scholar. Get your questions answered, seek advice, or engage in discussions on various topics. Whether you want to know the weather, share your favorite ancient Chinese poetry, or learn how to deal with workplace manipulation, this App has got you covered. With access to knowledge and the ability to compose poems, the Ancient Scribe is here to assist you like a wise sage of the past. So, bring your curiosity and let the scholarly conversation begin!
 
@@ -28,3 +29,5 @@
 
 
 Note: This app does not have access to external knowledge, so it cannot retrieve real-time information or perform internet searches.
+
+

@@ -1,6 +1,7 @@
+
 [![Google Chrome Search & Browse GPT](https://files.oaiusercontent.com/file-oZc4VHxvoGWcVG5mlSDPonS4?se=2123-10-18T00%3A21%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DGoogle_Chrome_icon_%2528February_2022%2529.svg.png&sig=EVo53025mClVFjsbW2pbOKe4OZqhA4PQZQH4d95fX50%3D)](https://chat.openai.com/g/g-FRuuETkCy-google-chrome-search-browse-gpt)
 
-# [Google Chrome Search & Browse GPT](https://chat.openai.com/g/g-FRuuETkCy-google-chrome-search-browse-gpt)
+# Google Chrome Search & Browse GPT [ChatGPT Plus](https://chat.openai.com/g/g-FRuuETkCy-google-chrome-search-browse-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Google%20Chrome%20Search%20%26%20Browse%20GPT)
 
 I'm here to help you search the web with Google, archive discoveries, and seamlessly link them to your shared knowledge base between multiple GPTs.
 
@@ -52,3 +53,5 @@ I'm here to help you search the web with Google, archive discoveries, and seamle
    - Parameters:
      - q: Set this parameter as ''
    - When to use: To clear all personal knowledge base entries. (Note: This operation will delete all personal knowledge base entries and requires confirmation from the user.)
+
+

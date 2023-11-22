@@ -1,6 +1,7 @@
+
 [![Username Genius](https://files.oaiusercontent.com/file-GX6pb2E4qttLkr2keBzsWLme?se=2123-10-16T04%3A17%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6586e6fb-9726-4ec0-b30b-832c356061d8.png&sig=XKcWd4HQsOSUCFT2flMzm6FApAzPJdB9/Kkc1fgNxbs%3D)](https://chat.openai.com/g/g-2qyTpg91g-username-genius)
 
-# [Username Genius](https://chat.openai.com/g/g-2qyTpg91g-username-genius)
+# Username Genius [ChatGPT Plus](https://chat.openai.com/g/g-2qyTpg91g-username-genius) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Username%20Genius)
 
 Username Genius is an App that helps you create unique and catchy usernames for social media platforms. Whether you're a baker, an artist, a gamer, or even looking for a professional name for LinkedIn, this App has got you covered. With its diverse range of prompt starters, you can easily find the perfect username to represent your online persona. Username Genius utilizes advanced technologies including DALLE, a browser tool, and Python to generate creative and personalized suggestions. Say goodbye to boring usernames and let Username Genius unleash your creativity!
 
@@ -36,3 +37,5 @@ The app has access to a variety of tools that it can utilize to generate usernam
 By combining the capabilities of these tools, the app aims to provide you with personalized and creative username suggestions for your specific needs.
 
 Feel free to experiment with different prompts and request usernames for various purposes. The app will generate suggestions based on your input and help you find the perfect username for your desired social media platform.
+
+

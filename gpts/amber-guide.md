@@ -1,6 +1,7 @@
+
 [![Amber Guide](https://files.oaiusercontent.com/file-Crcoz0Wx3j1vSAYOv8BUFMZv?se=2123-10-17T04%3A33%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3a357c1e-a9b0-4c17-ac2c-09680f45bd18.png&sig=TBBfiJ195WxNaLk0nwZheDbS2%2BUgV7fuV3Ldn3mYL5M%3D)](https://chat.openai.com/g/g-yrO85Hgl3-amber-guide)
 
-# [Amber Guide](https://chat.openai.com/g/g-yrO85Hgl3-amber-guide)
+# Amber Guide [ChatGPT Plus](https://chat.openai.com/g/g-yrO85Hgl3-amber-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Amber%20Guide)
 
 Amber Guide is your go-to expert when it comes to the Amber manual. This handy app provides accurate answers to all your questions about Amber. Whether you need to know what the manual says about a specific topic or need help with step-by-step instructions, Amber Guide has got you covered. With access to all the knowledge in the Amber manual, you can get detailed explanations and guidance. Just ask a question like 'What does Amber manual say about...' or 'Can you explain the part in Amber about...' and let Amber Guide provide you with the answers you need. Explore the world of Amber with confidence!
 
@@ -21,3 +22,5 @@ Amber Guide is your go-to expert when it comes to the Amber manual. This handy a
 6. **Browser tool:** A browser tool is available for accessing online resources or tutorials.
 7. **Dalle tool:** A Dalle tool is available for generating images or visualizations related to Amber.
 8. **Settings:** Additional settings or configurations may be available for the tools, but further details are not provided.
+
+

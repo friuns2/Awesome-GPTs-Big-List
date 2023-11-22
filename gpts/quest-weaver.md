@@ -1,6 +1,7 @@
+
 [![Quest Weaver](https://files.oaiusercontent.com/file-HKEyuSN5JzbEIuLticHWkrHR?se=2123-10-17T19%3A47%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1264b1d0-8f3a-4e4c-855e-e2ec057deb67.png&sig=o1kbxwXkJUGcflZDw%2Bvr%2BlxcQZ50gIe36T3GC8DgyAw%3D)](https://chat.openai.com/g/g-6zLtVHDfn-quest-weaver)
 
-# [Quest Weaver](https://chat.openai.com/g/g-6zLtVHDfn-quest-weaver)
+# Quest Weaver [ChatGPT Plus](https://chat.openai.com/g/g-6zLtVHDfn-quest-weaver) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Quest%20Weaver)
 
 Embark on a thrilling adventure in 'Elemental Mage Quest'! This text-based RPG will guide you through a mysterious world filled with magic and danger. Choose your actions, encounter strange creatures, cast powerful spells, and manage your inventory to progress in the game. With its immersive storyline and engaging gameplay, Elemental Mage Quest will keep you hooked for hours. Are you ready to become a legendary mage and save the realm? Get ready to cast spells and unravel the mysteries that lie ahead!
 
@@ -25,3 +26,5 @@ Embark on a thrilling adventure in 'Elemental Mage Quest'! This text-based RPG w
 4. **Select item:** Use this command to choose an item from your inventory. Specify the item you want to select.
 
 Note: The available actions, creatures, spells, and items may vary based on the game progress and context. Remember to provide clear and meaningful descriptions or names when interacting with the ChatGPT App.
+
+

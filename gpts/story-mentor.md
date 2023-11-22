@@ -1,6 +1,7 @@
+
 [![Story Mentor](https://files.oaiusercontent.com/file-O7JrNdoIGbktcrfPwATgvLYq?se=2123-10-18T13%3A09%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da889a705-f843-434a-ace1-c2cc2d00ae12.png&sig=h/br/iilR9udvM4cSCM%2Bw7aNIEIVJa6O6YL4COdqSwQ%3D)](https://chat.openai.com/g/g-euPtVLBly-story-mentor)
 
-# [Story Mentor](https://chat.openai.com/g/g-euPtVLBly-story-mentor)
+# Story Mentor [ChatGPT Plus](https://chat.openai.com/g/g-euPtVLBly-story-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Story%20Mentor)
 
 Story Mentor is a helpful app designed to assist you in your writing journey. Whether you're working on a novel, screenplay, or any other written piece, this app is here to provide guidance and support. With the help of an experienced writing mentor, you can get personalized advice on how to make your protagonist more relatable, develop exciting subplots, incorporate magical realism, or create a unique legal system for your dystopia. Additionally, Story Mentor offers useful tools like a browser and DALL·E, an AI-powered image generation model, to inspire your creativity. Get ready to weave some fantastic stories!
 
@@ -37,3 +38,5 @@ Example: "Can you suggest a surprising twist for my mystery novel?"
 Example: "What would be an interesting political system for my fantasy world?"
 
 Note: Remember to provide clear and specific prompts to generate the most helpful and relevant responses.
+
+

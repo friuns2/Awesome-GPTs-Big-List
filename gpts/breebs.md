@@ -1,6 +1,7 @@
+
 [![Breebs](https://files.oaiusercontent.com/file-an8lUktZX8gBPmQxCIFScmi3?se=2123-10-13T21%3A12%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.webp&sig=WcoM%2BDKvKENbJ0ijLHvBKPGiklm6Ja5hiFHWll8upOY%3D)](https://chat.openai.com/g/g-lObyD60FY-breebs)
 
-# [Breebs](https://chat.openai.com/g/g-lObyD60FY-breebs)
+# Breebs [ChatGPT Plus](https://chat.openai.com/g/g-lObyD60FY-breebs) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Breebs)
 
 Breebs is a knowledge-based chat companion powered by GPT. It provides community-generated knowledge pills on various topics. With Breebs, you can craft and share new Breebs to enhance your conversations. Whether you want to know more about a specific topic, create live stickers on iOS17, or get tips to make money with Instagram, Breebs has you covered! Simply ask Breebs anything, and it will provide you with text snippets and instructions to improve your answers. Explore the full catalog of Breebs at www.breebs.com and unleash the power of community knowledge!
 
@@ -27,3 +28,5 @@ Breebs is a knowledge-based chat companion powered by GPT. It provides community
 - `/breeb/report`: If you encounter any issues such as technical problems, harmful content, or copyright violations, use this command to report the problem. Provide a description of the issue and select the appropriate category for the report.
 
 Note: The Breeb App documentation contains more detailed information about these commands and their parameters.
+
+

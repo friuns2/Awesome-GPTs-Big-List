@@ -1,6 +1,7 @@
+
 [![FluentGPT](https://files.oaiusercontent.com/file-o6VC8u7JkJuRKVNcKs5XmnPE?se=2123-10-18T15%3A21%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd4826261-a5e9-4938-8d09-fae62dc3ceca.png&sig=nmZ3P2pGlgPwX7mglhBS4MUBTEhogwxmbLOVJBpFhgc%3D)](https://chat.openai.com/g/g-pOO4Lq2RC-fluentgpt)
 
-# [FluentGPT](https://chat.openai.com/g/g-pOO4Lq2RC-fluentgpt)
+# FluentGPT [ChatGPT Plus](https://chat.openai.com/g/g-pOO4Lq2RC-fluentgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FluentGPT)
 
 FluentGPT is a language practice bot designed to help you improve your language skills. Whether you want to expand your vocabulary, practice speaking, or test your language level, FluentGPT has got you covered. With a wide range of interactive exercises and prompts, you can have fun while enhancing your language proficiency. Oh, and did we mention it can also share interesting and funny language facts? So, why wait? Start practicing now and become a fluent speaker in no time!
 
@@ -23,3 +24,5 @@ FluentGPT is a language practice bot designed to help you improve your language 
 3. `Tell me a funny fact about language`: This command asks the ChatGPT app to share an interesting and humorous fact related to languages. The app will respond with a funny fact in the specified language.
 
 4. `Check my language level`: This command allows the user to assess their proficiency level in a particular language. The ChatGPT app will provide an evaluation of the user's language skills and suggest areas for improvement.
+
+

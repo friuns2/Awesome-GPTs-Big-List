@@ -1,6 +1,7 @@
+
 [![WeddingReady](https://files.oaiusercontent.com/file-IlalDVNkKbzOmZxrOURV8AmA?se=2123-10-18T02%3A01%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D05d66b7d-15e9-401f-bc64-0bbaa826ce34.png&sig=/lPkni1/p4EosZ%2BwfPCldec0%2B5S1bJ98j8LFm4cmgzE%3D)](https://chat.openai.com/g/g-UJICGyYdU-weddingready)
 
-# [WeddingReady](https://chat.openai.com/g/g-UJICGyYdU-weddingready)
+# WeddingReady [ChatGPT Plus](https://chat.openai.com/g/g-UJICGyYdU-weddingready) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=WeddingReady)
 
 WeddingReady is your personal wedding planning assistant, here to help you with every aspect of your big day! Need suggestions for wedding themes? Want tips on choosing the perfect venue? Feeling overwhelmed by wedding stress? Just ask WeddingReady and it will provide you with expert advice and ideas. Looking for unique wedding favors? WeddingReady has got you covered! With WeddingReady, you can plan your dream wedding stress-free and with confidence. So sit back, relax, and let WeddingReady take care of all your wedding planning needs!
 
@@ -27,3 +28,5 @@ WeddingReady is your personal wedding planning assistant, here to help you with 
 5. **Unique wedding favors**: If you're looking for unique wedding favors, you can ask the app for ideas using the prompt "What are some unique wedding favors?"
 
 Note: This app has access to two tools - `dalle` and `browser` - but the documentation doesn't provide details on how to use them.
+
+

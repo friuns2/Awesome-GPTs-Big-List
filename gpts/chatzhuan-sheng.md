@@ -1,6 +1,7 @@
+
 [![Chat転生](null)](https://chat.openai.com/g/g-LRPcOO46s-chatzhuan-sheng)
 
-# [Chat転生](https://chat.openai.com/g/g-LRPcOO46s-chatzhuan-sheng)
+# Chat転生 [ChatGPT Plus](https://chat.openai.com/g/g-LRPcOO46s-chatzhuan-sheng) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chat%E8%BB%A2%E7%94%9F)
 
 Chat転生 is an interactive chat-based App that allows you to embark on an adventure in another world. Reconnect with your childhood friend, who is now a hero in a different realm. Start the game, reset your progress, or ask for images of this mysterious world. With Chat転生, you can immerse yourself in a thrilling storyline and make meaningful choices. Say goodbye to boredom and hello to exciting quests and unexpected twists. Get ready to unleash your inner hero!
 
@@ -20,3 +21,5 @@ Chat転生 is an interactive chat-based App that allows you to embark on an adve
 2. `リセット` - This command resets the game progress.
 
 3. `異世界の画像を出して` - This command requests the app to generate an image of the alternate world.
+
+

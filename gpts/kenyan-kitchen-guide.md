@@ -1,6 +1,7 @@
+
 [![Kenyan Kitchen Guide](https://files.oaiusercontent.com/file-dpqEowpNHKU1UzgqPQoMdcgZ?se=2123-10-19T07%3A44%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4472d47b-1550-49ab-90b9-117cdc30d9a6.png&sig=PIGd9BdmZS7hOuyM8pbbE9%2BxbQyU/UNsTthuws3mQFw%3D)](https://chat.openai.com/g/g-I0d25Eiaw-kenyan-kitchen-guide)
 
-# [Kenyan Kitchen Guide](https://chat.openai.com/g/g-I0d25Eiaw-kenyan-kitchen-guide)
+# Kenyan Kitchen Guide [ChatGPT Plus](https://chat.openai.com/g/g-I0d25Eiaw-kenyan-kitchen-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Kenyan%20Kitchen%20Guide)
 
 Explore the vibrant flavors of Kenyan cuisine with the Kenyan Kitchen Guide! This app is your go-to resource for authentic Kenyan recipes, offering step-by-step instructions and visualizations of mouthwatering meals. Whether you're craving Kenyan Pilau, Githeri, Sukuma Wiki, or a traditional Kenyan dessert, this app has you covered. It even provides tips and tricks to help you perfect your cooking skills. Ready to embark on a culinary adventure? Start your journey into Kenyan cuisine with the Kenyan Kitchen Guide!
 
@@ -26,3 +27,5 @@ Explore the vibrant flavors of Kenyan cuisine with the Kenyan Kitchen Guide! Thi
 | `cookingTips` | This command provides cooking tips and advice for specific Kenyan dishes. You can learn about the best techniques for cooking Sukuma Wiki or get tips to enhance the flavor of your Kenyan Pilau. |
 | `findDesserts` | This command helps you discover traditional Kenyan desserts. You can find information about popular Kenyan sweets and desserts such as Mandazi, Chapati, or Ugali. |
 | `exploreBreakfast` | This command provides information about typical Kenyan breakfast options. You can learn about the various dishes that make up a traditional Kenyan breakfast, such as tea with mandazi, or ugali with sukuma wiki. |
+
+

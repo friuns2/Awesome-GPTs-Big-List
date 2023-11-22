@@ -1,6 +1,7 @@
+
 [![K-pop Korean Tutor](https://files.oaiusercontent.com/file-nRAp3riBy8fWqtbMr04lyAaF?se=2123-10-18T11%3A55%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DKorean%2520Tutor%25202.png&sig=vriL4ztp5X/om0yhhyAKColOJET/pCtX6SKtCVbbpnQ%3D)](https://chat.openai.com/g/g-Lco6LZwZf-k-pop-korean-tutor)
 
-# [K-pop Korean Tutor](https://chat.openai.com/g/g-Lco6LZwZf-k-pop-korean-tutor)
+# K-pop Korean Tutor [ChatGPT Plus](https://chat.openai.com/g/g-Lco6LZwZf-k-pop-korean-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=K-pop%20Korean%20Tutor)
 
 Learn Korean with the K-pop Korean Tutor! This app is your language teacher, helping you master the basics of Korean and dive into the world of K-pop. Start a conversation with a K-pop star or ask the app to explain K-pop lyrics to you. You can even explore Korean culture through K-culture! With interactive tools like a language model, browser, and Python integration, the K-pop Korean Tutor is a fun and engaging way to learn a new language. 안녕하세요! How can I help you today?
 
@@ -26,3 +27,5 @@ Learn Korean with the K-pop Korean Tutor! This app is your language teacher, hel
 4. **Teach Korean culture through K-culture:** Use this command to learn about Korean culture through K-culture, including K-pop, K-drama, and other aspects of Korean entertainment. The app will provide information, trivia, and interesting facts to deepen your understanding of Korean culture.
 
 Note: The app supports a combination of AI models, a browser tool, and a Python tool to provide accurate and helpful responses.
+
+

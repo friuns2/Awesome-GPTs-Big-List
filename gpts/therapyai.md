@@ -1,6 +1,7 @@
+
 [![TherapyAI](https://files.oaiusercontent.com/file-JqdO3j71aQcJVelq11DxouEI?se=2123-10-16T19%3A11%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D11d92af7-c311-4d79-a2e8-86d49f137972.png&sig=chSDmzKg1G7B0HPGtd4ugNwAbkRL6I4Y07v7EmddU60%3D)](https://chat.openai.com/g/g-8yHB0UD8j-therapyai)
 
-# [TherapyAI](https://chat.openai.com/g/g-8yHB0UD8j-therapyai)
+# TherapyAI [ChatGPT Plus](https://chat.openai.com/g/g-8yHB0UD8j-therapyai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TherapyAI)
 
 TherapyAI is an AI-powered app that serves as a supportive companion for managing mental health challenges. It offers a compassionate listening ear, personalized guidance, and insights into behavioral patterns. Users can openly share their thoughts and feelings to gain a better understanding of their emotions. The app provides a safe space to explore thoughts and offers helpful sessions tailored to individual needs. With TherapyAI, you can find support and guidance whenever you need it, helping you on your journey to better mental well-being.
 
@@ -29,3 +30,5 @@ TherapyAI is an AI-powered app that serves as a supportive companion for managin
 5. `Cope with work-related stress`: If work is causing you stress and affecting your mental health, seek guidance from TherapyAI on how to cope with work-related challenges. They can offer insights and suggestions to help you navigate difficult situations.
 
 Remember, TherapyAI is a compassionate, non-licensed mental health advisor. While they provide support and guidance, they are not a substitute for professional help. If you're in need of urgent assistance or experiencing a crisis, please reach out to a licensed mental health professional or a helpline in your country.
+
+

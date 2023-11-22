@@ -1,6 +1,7 @@
+
 [![Lean Belly](null)](https://chat.openai.com/g/g-fdozExg7K-lean-belly)
 
-# [Lean Belly](https://chat.openai.com/g/g-fdozExg7K-lean-belly)
+# Lean Belly [ChatGPT Plus](https://chat.openai.com/g/g-fdozExg7K-lean-belly) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lean%20Belly)
 
 Lean Belly is your ultimate guide to maintaining a healthy lifestyle. Whether you're looking to lose weight, find healthy meal ideas, stay motivated, create a workout plan, track your food calories, or relieve stress, this app has got you covered. With Lean Belly, you'll be ready to embark on your health journey. It provides you with a variety of tools, including an AI-powered assistant, a Python scripting tool, and a built-in browser. Get ready to achieve your fitness goals and embrace a leaner and healthier you!
 
@@ -44,3 +45,5 @@ Example usage: "Calculate my food calories."
 6. `Stress relief ideas`: This command provides suggestions and techniques for relieving stress and promoting relaxation.
 
 Example usage: "Give me some ideas about stress relief."
+
+

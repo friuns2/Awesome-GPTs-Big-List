@@ -1,6 +1,7 @@
+
 [![plugin surf](https://files.oaiusercontent.com/file-VqmUMMuSS1rSkacv4DAUUTdF?se=2123-10-17T07%3A39%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dlogo.png&sig=34dABpq5vTTVrluKbgigAHqHFfUD7T0BynM8IbHCdDM%3D)](https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf)
 
-# [plugin surf](https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf)
+# plugin surf [ChatGPT Plus](https://chat.openai.com/g/g-4Rf4RWwe7-plugin-surf) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=plugin%20surf)
 
 Find the best GPTs and plugins for your AI workflow! Look no further than plugin surf, where you can search, discover, and read reviews about various GPTs and plugins. Whether you're looking for fun, educational, or cryptocurrency-related GPTs, we've got you covered. Each GPT comes with detailed information and a direct link for easy access. Don't hesitate to ask for more information about any GPT - we're here to help! So, catch the wave 🤙 and enhance your ChatGPT experience with plugin surf!
 
@@ -23,3 +24,5 @@ Find the best GPTs and plugins for your AI workflow! Look no further than plugin
 3. **Search plugins:** You can search for plugins by entering a specific query. For example, you can search for plugins related to music by using the command "Search plugins related to music". 
 
 Remember to keep a positive mood and use emojis where applicable. You can also add references to surfing like "catch the wave 🤙".
+
+

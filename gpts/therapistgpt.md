@@ -1,6 +1,7 @@
+
 [![TherapistGPT](https://files.oaiusercontent.com/file-Un7GPTUkcBxa5HlkV2svBBed?se=2123-10-16T21%3A16%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De8788272-32de-4586-b7d4-d4391e0e82e8.png&sig=aB%2BQwpeaIXd3tQpnBvsm33gfXp81WiO6FHtSicWnCj4%3D)](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt)
 
-# [TherapistGPT](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt)
+# TherapistGPT [ChatGPT Plus](https://chat.openai.com/g/g-gmnjKZywZ-therapistgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TherapistGPT)
 
 TherapistGPT is a self-exploration app that helps you understand your internal world, recognize your role in challenges, accept unchangeable aspects, and navigate life successfully. Whether you're having a tough time, need someone to talk to, or want help understanding your feelings, TherapistGPT is here to guide you. It's like having a personal therapist in your pocket! This app provides a safe space for you to reflect on your thoughts and emotions, offering valuable insights and support. Say goodbye to feeling overwhelmed and hello to a healthier and happier you!
 
@@ -29,3 +30,5 @@ TherapistGPT is a self-exploration app that helps you understand your internal w
 5. **Welcome message:** When you start a conversation with the app, it will greet you with a welcome message. This is designed to create a comforting and supportive atmosphere.
 
 Remember, the TherapistGPT app is a proof of concept and should not be used as a substitute for professional therapy or counseling. Always consult with a qualified mental health professional for serious concerns or issues.
+
+

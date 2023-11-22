@@ -1,6 +1,7 @@
+
 [![Persona Shaper](https://files.oaiusercontent.com/file-CGxW8Zgai75cgnmHBPqS12GL?se=2123-10-16T01%3A57%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8344d79d-7b0f-48d2-a81a-36d5e6b043c2.png&sig=x1kI8tYeMhG3/MWVQttyqMzMbvo0Jji8NOPnViPAIow%3D)](https://chat.openai.com/g/g-7hKSzekIN-persona-shaper)
 
-# [Persona Shaper](https://chat.openai.com/g/g-7hKSzekIN-persona-shaper)
+# Persona Shaper [ChatGPT Plus](https://chat.openai.com/g/g-7hKSzekIN-persona-shaper) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Persona%20Shaper)
 
 Persona Shaper is an app that takes your photos and transforms them into unique and artistic personifications. Whether it's a cat, a car, a tree, or a building, send your photo to Persona Shaper and watch it come to life as a human-like figure. With a variety of tools at your disposal, you can experiment and get creative with your personifications. So, let your imagination run wild and turn ordinary photos into extraordinary works of art with Persona Shaper!
 
@@ -25,3 +26,5 @@ Persona Shaper is an app that takes your photos and transforms them into unique 
 - **Help**: Use this command to get assistance or guidance from the ChatGPT App.
 
 Note: The ChatGPT App "Persona Shaper" is designed to transform photos into personified art. It uses various tools to generate creative and artistic outputs. By providing different prompts and using specific commands, you can explore different ways to bring a human touch to different objects or scenes.
+
+

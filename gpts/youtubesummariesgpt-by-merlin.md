@@ -1,6 +1,7 @@
+
 [![YoutubeSummariesGPT by Merlin](https://files.oaiusercontent.com/file-RKx3fKlSBQiw8LliJwhmexMt?se=2123-10-16T23%3A00%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dyoutube_logo_circular_text.png&sig=rwL8TOQVhQuTb5Ay7oWuPU%2BtrTX69XI%2Bs8ELXjNEFRA%3D)](https://chat.openai.com/g/g-1wExrKkCI-youtubesummariesgpt-by-merlin)
 
-# [YoutubeSummariesGPT by Merlin](https://chat.openai.com/g/g-1wExrKkCI-youtubesummariesgpt-by-merlin)
+# YoutubeSummariesGPT by Merlin [ChatGPT Plus](https://chat.openai.com/g/g-1wExrKkCI-youtubesummariesgpt-by-merlin) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=YoutubeSummariesGPT%20by%20Merlin)
 
 YoutubeSummariesGPT by Merlin is a helpful bot that can provide you with summaries of YouTube videos. Simply input the video ID and the bot will generate a concise summary for you. Whether you're short on time or just want to get the key points of a video, this app has got you covered. No need to watch the entire video, let the bot do the work for you!
 
@@ -27,3 +28,5 @@ YoutubeSummariesGPT by Merlin is a helpful bot that can provide you with summari
 7. **gzm_tool_vhvfhbksiyeW6eDv1rLkfPCj**: Tool for getting the transcript of a YouTube video.
 8. **gzm_tool_K2wctrUSWByvhDWsGeVopcc1**: Tool for getting the transcript of a YouTube video.
 9. **gzm_tool_MKfjqGM2oHWxUmw0nRXA2EQ8**: Tool for getting the transcript of a YouTube video.
+
+

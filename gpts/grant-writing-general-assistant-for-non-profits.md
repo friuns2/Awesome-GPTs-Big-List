@@ -1,6 +1,7 @@
+
 [![Grant Writing & General Assistant for Non-Profits](https://files.oaiusercontent.com/file-nd80UM2oKdnZdh60K9Ki5Bxo?se=2123-10-16T17%3A35%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D11141433-48ea-4457-9c75-abc79d3bf5f3.png&sig=N8hLSmX9/uxw36k7cBGS9zPs3XXZwyg2OOa4BbyPFl8%3D)](https://chat.openai.com/g/g-kXcpwjpwo-grant-writing-general-assistant-for-non-profits)
 
-# [Grant Writing & General Assistant for Non-Profits](https://chat.openai.com/g/g-kXcpwjpwo-grant-writing-general-assistant-for-non-profits)
+# Grant Writing & General Assistant for Non-Profits [ChatGPT Plus](https://chat.openai.com/g/g-kXcpwjpwo-grant-writing-general-assistant-for-non-profits) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Grant%20Writing%20%26%20General%20Assistant%20for%20Non-Profits)
 
 Non-Profit Nova Aid is an expert app that provides support for non-profit organizations and helps with grant writing. With this app, you can easily apply for grants by uploading the grant you want to apply for. It also offers a range of helpful tools including a Python tool, a DALLE tool, and a browser tool. Whether you need assistance in planning an event, drafting a newsletter, finding relevant grants, or creating a budget template, Non-Profit Nova Aid is here to help. Welcome to Non-Profit Nova Aid, your go-to assistant for all your non-profit needs!
 
@@ -25,3 +26,5 @@ Non-Profit Nova Aid is an expert app that provides support for non-profit organi
 4. **Find relevant grants:** Ask the assistant to help you find relevant grants for your non-profit organization. Specify any specific requirements or criteria you have in mind.
 
 5. **Create a budget template:** Request assistance from the assistant in creating a budget template for your non-profit. Specify any specific details or categories you would like to include.
+
+

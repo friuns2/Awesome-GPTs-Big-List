@@ -1,6 +1,7 @@
+
 [![Software Interview Guru](https://files.oaiusercontent.com/file-LWDVW5Ju5KgAW5i5XnaoOwxn?se=2123-10-18T19%3A36%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D857fc767-43fe-4a89-9e5d-3a32d0670eef.png&sig=RPKg8odfSZT%2B/y8hiAkrWA4yjIi9I%2BcD77zXcFOgs/U%3D)](https://chat.openai.com/g/g-Tr5PYvW4s-software-interview-guru)
 
-# [Software Interview Guru](https://chat.openai.com/g/g-Tr5PYvW4s-software-interview-guru)
+# Software Interview Guru [ChatGPT Plus](https://chat.openai.com/g/g-Tr5PYvW4s-software-interview-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Software%20Interview%20Guru)
 
 Software Interview Guru is a strategic and in-depth interview preparation assistant. It provides valuable guidance to help you excel in your FAANG interviews. The app offers prompts to suggest clarifying questions for the interviewer, provide two brief solution approaches, list 4-5 test cases (including edge cases), anticipate follow-up questions from the interviewer, and even helps you verify your code for the test cases. With Software Interview Guru, you'll be ready to master your FAANG interview strategy and increase your chances of success. Get started now and let this app be your guru on your path to acing your software interviews!
 
@@ -39,3 +40,5 @@ Command: `What follow-up questions might the interviewer ask?`
 Command: `How can I verify the code for these test cases?`
 
 Please note that the Software Interview Guru app is a strategic, in-depth interview prep assistant specifically designed to help you master your FAANG interview strategy. It provides various tools and prompts to assist you in better preparing for your software engineering interviews.
+
+

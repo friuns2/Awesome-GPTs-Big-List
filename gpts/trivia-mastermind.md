@@ -1,6 +1,7 @@
+
 [![Trivia Mastermind](https://files.oaiusercontent.com/file-KcqUquhEuiZ0Kjk3eq1Xy4P6?se=2123-10-16T06%3A01%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D90cf1452-2cb6-4750-bef4-c102c01d4772.png&sig=OGQg%2BEOCNwk7NidhwNfd4QkCKPuEqR/mjg12RqgKbnE%3D)](https://chat.openai.com/g/g-P6cIwB2Lh-trivia-mastermind)
 
-# [Trivia Mastermind](https://chat.openai.com/g/g-P6cIwB2Lh-trivia-mastermind)
+# Trivia Mastermind [ChatGPT Plus](https://chat.openai.com/g/g-P6cIwB2Lh-trivia-mastermind) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Trivia%20Mastermind)
 
 Trivia Mastermind is your ultimate trivia companion! I've got a collection of trivia questions at different difficulty levels, all at your fingertips. Whether you're a quiz whiz or just looking to test your knowledge, I've got you covered. Simply choose a category and a difficulty level from 1-5, and I'll serve up the questions. From easy general knowledge to science image questions, or even sports trivia, I have it all. Get ready to challenge yourself and have a blast with Trivia Mastermind!
 
@@ -27,3 +28,5 @@ Trivia Mastermind is your ultimate trivia companion! I've got a collection of tr
 5. **Sports Trivia Question:** This command generates a sports-related trivia question. For example, "Can I have sports trivia to guess?"
 
 6. **General Knowledge Picture Questions:** This command generates a set of general knowledge trivia questions with accompanying pictures. For example, "I'd like 5 medium general knowledge picture questions."
+
+

@@ -1,6 +1,7 @@
+
 [![Game Dev Mentor](https://files.oaiusercontent.com/file-a5PNxmyImVOEB5PeMS8h9lDy?se=2123-10-16T21%3A14%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D08026570-2cb4-4374-bbbf-3a689481f8ec.png&sig=MT3fx8zpLbTVlZLtJBtbMSEKMbpb9H3o6BJL5QzlYsQ%3D)](https://chat.openai.com/g/g-Q4yGQG2vZ-game-dev-mentor)
 
-# [Game Dev Mentor](https://chat.openai.com/g/g-Q4yGQG2vZ-game-dev-mentor)
+# Game Dev Mentor [ChatGPT Plus](https://chat.openai.com/g/g-Q4yGQG2vZ-game-dev-mentor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Game%20Dev%20Mentor)
 
 Game Dev Mentor is an app that provides assistance and guidance for game development. Whether you need help with Unreal Engine 5 shortcuts, first-person scripts in Unity, or effective lighting techniques in Pygame, this app has got you covered. You can also request specific script examples, like a 2D platformer made in Pygame. With access to a variety of tools, including Dalle, a browser, and Python, Game Dev Mentor offers a comprehensive learning experience. Say goodbye to being stuck in your game development journey and let this app be your knowledgeable companion!
 
@@ -33,3 +34,5 @@ Game Dev Mentor is an app that provides assistance and guidance for game develop
     - **Tool 5 - Dalle**: Another tool for generating images using DALL-E, an AI model.
     
     - **Tool 6 - Python**: Another Python environment tool that enables the chatbot to execute Python code snippets.
+
+

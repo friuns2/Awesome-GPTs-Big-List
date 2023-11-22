@@ -1,6 +1,7 @@
+
 [![Analyseur CV Emploi](https://files.oaiusercontent.com/file-m9Uz5miMv3jCg0OrLMEEE09Y?se=2123-10-18T13%3A14%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dab02038e-8b75-4bac-bcbd-44cbecd2a631.png&sig=s7DdYMG3c7mcmlGTHUTQJlG3KKMMPaeAIjXehbs3QQw%3D)](https://chat.openai.com/g/g-aHbbEzYQv-analyseur-cv-emploi)
 
-# [Analyseur CV Emploi](https://chat.openai.com/g/g-aHbbEzYQv-analyseur-cv-emploi)
+# Analyseur CV Emploi [ChatGPT Plus](https://chat.openai.com/g/g-aHbbEzYQv-analyseur-cv-emploi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Analyseur%20CV%20Emploi)
 
 Analyseur CV Emploi is a specialist app that helps analyze CVs and job offers. Simply send your CV and the job offer to the app, and it will provide detailed analysis and insights. With access to expert knowledge, this app gives you valuable feedback on how to improve your CV and increase your chances of getting hired. Whether you're a job seeker or an employer, Analyseur CV Emploi is your go-to tool for optimizing your hiring process. Get started today and let this app take your career to the next level!
 
@@ -28,3 +29,5 @@ Analyseur CV Emploi is a specialist app that helps analyze CVs and job offers. S
 4. **Évaluer un CV par rapport à une offre d'emploi:** Cette fonctionnalité vous aide à évaluer votre CV par rapport à une offre d'emploi donnée. Vous pouvez utiliser cette fonctionnalité pour identifier les points forts et les points faibles de votre CV par rapport aux exigences de l'offre d'emploi.
 
 5. **Demander des conseils sur l'analyse CV-offre d'emploi:** Vous pouvez utiliser cette commande pour demander des conseils sur la meilleure façon d'analyser un CV et une offre d'emploi. L'assistant vous fournira des informations et des astuces pour mener une analyse efficace.
+
+

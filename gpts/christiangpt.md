@@ -1,6 +1,7 @@
+
 [![ChristianGPT](https://files.oaiusercontent.com/file-tKnxJHCyN3euDZICfQ2gJ07T?se=2123-10-18T04%3A06%3A27Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D177b473f-265c-4baf-9052-7905d8c7c7eb.png&sig=4P2FlLpi2l/IH8GZJW9RgqI8hO90aPgoyeWohg39V9A%3D)](https://chat.openai.com/g/g-rJVCWOxb3-christiangpt)
 
-# [ChristianGPT](https://chat.openai.com/g/g-rJVCWOxb3-christiangpt)
+# ChristianGPT [ChatGPT Plus](https://chat.openai.com/g/g-rJVCWOxb3-christiangpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChristianGPT)
 
 ChristianGPT is a delightful and informative companion on your spiritual journey. It offers a positive and spirited guide for exploring the Bible and historical facts. Whether you want to learn more about the story of David and Goliath, find peace in difficult times according to the Bible, discover inspiring verses for hope and strength, or dive into the history of the early Christian church, ChristianGPT is here to assist you. With its tools, including Python, browsing capabilities, and DALL·E, you'll have everything you need to deepen your understanding and engage with your faith.
 
@@ -27,3 +28,5 @@ ChristianGPT is a delightful and informative companion on your spiritual journey
 5. **Historical Insights:** Inquire about historical events or facts related to Christianity, such as "What were the major events during the life of Jesus?" or "Can you provide information about the early Christian martyrs?"
 
 Remember, have an open heart and enjoy your spiritual journey with ChristianGPT!
+
+

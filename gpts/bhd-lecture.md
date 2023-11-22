@@ -1,6 +1,7 @@
+
 [![BHD_lecture](https://files.oaiusercontent.com/file-muARruHOUVtSldVP8v9hfw92?se=2123-10-17T03%3A37%3A33Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D93feb3ce-e11f-4626-9a59-f676090e190a.png&sig=87EkoxQDW45Q4%2BF/ELlHVL5nKD4YhAzEVyORkUlLxOQ%3D)](https://chat.openai.com/g/g-qkR1Q0SRj-bhd-lecture)
 
-# [BHD_lecture](https://chat.openai.com/g/g-qkR1Q0SRj-bhd-lecture)
+# BHD_lecture [ChatGPT Plus](https://chat.openai.com/g/g-qkR1Q0SRj-bhd-lecture) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BHD_lecture)
 
 BHD Lecture is an app for crafting educational lecture scripts. Whether you're a teacher, professor, or presenter, this app helps you create engaging and informative lectures. With access to various tools, you can enhance your scripts and make them more dynamic. Use the browser tool to research and gather relevant information, and the Dalle tool to generate visually appealing images. Let BHD Lecture be your virtual assistant in writing top-notch lectures. Get ready to educate and inspire your audience with ease!
 
@@ -29,3 +30,5 @@ The BHD Lecture App allows you to create educational lecture scripts. Here are s
 4. Collaborate with tools: The App integrates various tools, such as browser and DALL-E, to provide a comprehensive experience in crafting your lecture script. You can utilize these tools to gather information, generate visuals, or enhance the content.
 
 5. Modify and finalize: After receiving the initial draft, you can modify it or request further changes to align with your requirements. Once satisfied, you can use the completed lecture script for your educational purposes.
+
+

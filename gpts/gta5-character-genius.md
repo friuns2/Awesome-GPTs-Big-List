@@ -1,6 +1,7 @@
+
 [![GTA5 Character Genius](https://files.oaiusercontent.com/file-5eAf4pTSTEwFVWT1P5rf6H3L?se=2123-10-18T01%3A39%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddd2527e9-1852-4fc3-95bf-d81a72d6cf19.png&sig=pXJicdSGXpFKqVu7lPuClJEcu%2BblRSm94s87hKJF6IE%3D)](https://chat.openai.com/g/g-zJ8N42vaj-gta5-character-genius)
 
-# [GTA5 Character Genius](https://chat.openai.com/g/g-zJ8N42vaj-gta5-character-genius)
+# GTA5 Character Genius [ChatGPT Plus](https://chat.openai.com/g/g-zJ8N42vaj-gta5-character-genius) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GTA5%20Character%20Genius)
 
 GTA5 Character Genius is a helpful app for designing and creating your own unique GTA 5 character. It offers style tips and even generates visual images to inspire your character's design. With this app, you can bring your GTA character to life and visualize their personality and appearance. Need some inspiration or want a visual representation for your character idea? GTA5 Character Genius has got you covered!
 
@@ -31,3 +32,5 @@ Example command: "I want to visually create my GTA character's style, can you he
 Example command: "I need some inspiration for my GTA character's design, can you generate some images?"
 
 Note: The above prompts and commands are for reference only. The exact phrasing and variations may depend on the actual implementation and capabilities of the GTA5 Character Genius app.
+
+

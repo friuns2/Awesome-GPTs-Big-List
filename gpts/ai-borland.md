@@ -1,6 +1,7 @@
+
 [![AI Borland](https://files.oaiusercontent.com/file-pCg3MIoqcCS5DIhqrcuWf1hs?se=2123-10-16T21%3A09%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-09%2520at%25203.07.16%2520PM.png&sig=CrYuYFUIjUm3aalklXYJD9uZsSE933X2UrpGb60dI0I%3D)](https://chat.openai.com/g/g-DJQUFa25e-ai-borland)
 
-# [AI Borland](https://chat.openai.com/g/g-DJQUFa25e-ai-borland)
+# AI Borland [ChatGPT Plus](https://chat.openai.com/g/g-DJQUFa25e-ai-borland) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Borland)
 
 AI Borland is your personal home improvement assistant. Whether you need help fixing something, installing a new item, or building a project, AI Borland has got you covered. With access to a vast knowledge base, AI Borland can provide you with step-by-step instructions, tips, and expert advice. From choosing the right tools to understanding different materials, AI Borland helps you become a DIY pro. Get ready to tackle any home improvement task with confidence and make your space the best it can be!
 
@@ -35,3 +36,5 @@ Example command: "I want to build a bookshelf. What items do I need?"
 Example command: "Why is flannel considered a superior textile? What advantages does it have?"
 
 Please note: The AI Borland app does not have access to knowledge and does not provide specific instructions or recommendations for tools or techniques.
+
+

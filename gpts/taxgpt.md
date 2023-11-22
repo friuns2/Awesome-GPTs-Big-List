@@ -1,6 +1,7 @@
+
 [![TaxGPT](https://files.oaiusercontent.com/file-a8Ri8p6s360AUCTQdsOqE6l6?se=2123-10-17T20%3A41%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5c5c7a36-995e-457d-81c2-ea05a48ae583.png&sig=1oLKQr2ovckOga8UmMI%2B2o7ZGp7yWcxOK9uUcJTc3d8%3D)](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt)
 
-# [TaxGPT](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt)
+# TaxGPT [ChatGPT Plus](https://chat.openai.com/g/g-cxe3Tq6Ha-taxgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TaxGPT)
 
 TaxGPT is your go-to app for tax advice and guidance. Whether you have questions about saving on taxes, understanding the latest tax deductions, explaining tax regulations, or finding out if an expense is tax-deductible, TaxGPT has got you covered. With a wealth of tax-related knowledge, TaxGPT is here to help you navigate the complicated world of taxes. Say hello to TaxGPT and bid farewell to your tax-related worries!
 
@@ -23,3 +24,5 @@ TaxGPT is your go-to app for tax advice and guidance. Whether you have questions
 | `checkExpenseDeductibility` | This command helps you determine if a specific expense is tax-deductible. You need to provide details about the expense such as its nature, purpose, and any relevant documentation. The AI will analyze the information and provide guidance on whether the expense can be deducted from your taxes. |
 | `saveTaxTips` | This command allows you to save useful tax-saving tips or strategies provided by the AI to refer to later. You can specify a category or tag for easy organization of the tips. |
 | `askForTaxAdvice` | This command enables you to ask the AI for personalized tax advice based on your specific situation or query. You can provide details about your income, investments, deductions, and any other relevant information to receive tailored advice on tax optimization. |
+
+

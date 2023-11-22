@@ -1,6 +1,7 @@
+
 [![Mentat Advisor](https://files.oaiusercontent.com/file-4GE7wQSBDIyBckaJJZ0VhQKR?se=2123-10-18T17%3A09%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd61cd5c3-ce07-445f-a5cb-782f2443fdea.png&sig=8uhYI8MWpVnB4RSaxkkj63TGxxRDm4gOtveBN65VuTE%3D)](https://chat.openai.com/g/g-xvCAs4yXb-mentat-advisor)
 
-# [Mentat Advisor](https://chat.openai.com/g/g-xvCAs4yXb-mentat-advisor)
+# Mentat Advisor [ChatGPT Plus](https://chat.openai.com/g/g-xvCAs4yXb-mentat-advisor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mentat%20Advisor)
 
 Mentat Advisor is an App that delivers Dune-inspired wisdom and advice. Whether you need guidance for decision-making, managing a team, achieving work-life balance, or simply want to understand what a Mentat is, this App has you covered. Connect with the app to access its extensive knowledge base. With access to tools like Python, a browser, and DALL-E, this app ensures that you have all the resources you need to navigate life like a true Mentat. Don't hesitate to seek Dune-inspired wisdom and ask any questions you may have!
 
@@ -25,3 +26,5 @@ Mentat Advisor is an App that delivers Dune-inspired wisdom and advice. Whether 
 4. **Understanding Mentats:** If you're curious about what a Mentat is, you can ask "What is a Mentat?" The Mentat Advisor will provide you with an explanation and description of Mentats, who are human computers capable of advanced information processing and analysis in the world of Dune.
 
 Note: The Mentat Advisor has access to knowledge and wisdom inspired by the Dune series, and it uses various tools such as Python, a browser, and DALL-E for generating responses and providing assistance.
+
+

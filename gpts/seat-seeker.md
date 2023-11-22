@@ -1,6 +1,7 @@
+
 [![Seat Seeker](https://files.oaiusercontent.com/file-keuLyxJhdOP4mU6ZqZ8QCWih?se=2123-10-17T20%3A54%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5d4229e4-71ce-4b0f-9990-69b972e88479.png&sig=6xuBgW0GgTeMvKFnL6nOeOw9ItpscS2KblRRcZVt%2BLg%3D)](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
 
-# [Seat Seeker](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
+# Seat Seeker [ChatGPT Plus](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Seat%20Seeker)
 
 Seat Seeker is an app that helps you find the perfect spot for work, relaxation, or studying. Just tell Seat Seeker what you're looking for, like a quiet spot with Wi-Fi, a place with outlets for charging, or a social, lively space. Seat Seeker will provide you with suggestions based on your preferences and location. Say goodbye to the struggle of searching for the ideal spot, and let Seat Seeker do the work for you!
 
@@ -29,3 +30,5 @@ Seat Seeker is an app that helps you find the perfect spot for work, relaxation,
 6. **Find quiet study area**: If you're looking for a quiet study area nearby, you can ask the app with a prompt like "Looking for a quiet study area nearby, suggestions?"
 
 Please note that the commands mentioned above assume you have access to the Seat Seeker app and its functionality.
+
+

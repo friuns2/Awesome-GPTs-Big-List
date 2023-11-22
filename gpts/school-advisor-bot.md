@@ -1,6 +1,7 @@
+
 [![School Advisor Bot](https://files.oaiusercontent.com/file-DrIW6qviHXhJoC91tjyEFpAl?se=2123-10-18T06%3A41%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2e5d7863-f5bc-4614-a65b-8202e7597633.png&sig=GRrfjXYVkDC%2BnN53XaaVYYpKc8jYAT%2BzEFSvjegBwP0%3D)](https://chat.openai.com/g/g-5ev3Ij20Z-school-advisor-bot)
 
-# [School Advisor Bot](https://chat.openai.com/g/g-5ev3Ij20Z-school-advisor-bot)
+# School Advisor Bot [ChatGPT Plus](https://chat.openai.com/g/g-5ev3Ij20Z-school-advisor-bot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=School%20Advisor%20Bot)
 
 School Advisor Bot is here to provide advice on proposals for teacher work practices and children's growth. Whether you need feedback on teacher meeting proposals, labor documents, improvement points for child development plans, or analysis of education strategy proposals, this bot has got you covered. With access to knowledge and a set of tools including a browser, python, and DALL-E, the bot is ready to help enhance your school proposals. Get ready to take your school's initiatives to the next level!
 
@@ -31,3 +32,5 @@ Example usage: "Please suggest improvements for this child growth plan."
 4. **Analyze educational strategy**: You can request the analysis of an educational strategy proposal.
 
 Example usage: "Could you analyze this educational strategy proposal?"
+
+

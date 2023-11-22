@@ -1,6 +1,7 @@
+
 [![AI Garden Designer](null)](https://chat.openai.com/g/g-AtJ1uhD5c-ai-garden-designer)
 
-# [AI Garden Designer](https://chat.openai.com/g/g-AtJ1uhD5c-ai-garden-designer)
+# AI Garden Designer [ChatGPT Plus](https://chat.openai.com/g/g-AtJ1uhD5c-ai-garden-designer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Garden%20Designer)
 
 AI Garden Designer is an app that helps you design your dream garden. Whether you want a modern style garden, a farmhouse style garden, or some water landscape elements, this app has got you covered. Simply upload photos of your garden and communicate your design ideas. Need help with designing a garden fence? No problem, just ask! With the AI Garden Designer, you'll have access to powerful tools like image browsing and AI-powered image generation to bring your garden visions to life. Get ready to create a beautiful outdoor space that will make your neighbors green with envy!
 
@@ -23,3 +24,5 @@ AI Garden Designer is an app that helps you design your dream garden. Whether yo
 3. **Design garden fence:** If you want to design a garden fence, you can simply say "Design garden fence" and the ChatGPT app will guide you.
 
 Please note that the available tools for garden design are not described in the provided data, so no further information on the functionalities of the tools is available.
+
+

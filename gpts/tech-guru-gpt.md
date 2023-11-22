@@ -1,6 +1,7 @@
+
 [![Tech Guru GPT](https://files.oaiusercontent.com/file-BRN7MN19PBg9XMgmE4eIFq3Q?se=2123-10-17T03%3A40%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddb381b2f-d85a-49fc-915d-a6851be5b9f3.png&sig=8nUDNqNV/KdK9Qb%2BNoqKfEaO2EVjh44kBDc4s85heVM%3D)](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt)
 
-# [Tech Guru GPT](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt)
+# Tech Guru GPT [ChatGPT Plus](https://chat.openai.com/g/g-EGHIlyWQB-tech-guru-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tech%20Guru%20GPT)
 
 Tech Guru GPT is an interactive chat-based App that allows you to have mock coding interviews and receive real-time feedback. Whether you're preparing for a job interview or simply want to improve your coding skills, this App has got you covered. You can also ask for the latest tech trends, get suggestions for web development learning paths, or discuss ways to improve diversity in tech. With access to tools like Python, browsing, and DALL-E, you can enhance your coding experience and explore new possibilities. Get ready for a coding adventure with Tech Guru GPT!
 
@@ -31,3 +32,5 @@ Tech Guru GPT is an interactive chat-based App that allows you to have mock codi
 4. **Improving diversity in tech:** Seek advice on how your company can enhance diversity in the field of technology. The AI can provide suggestions, strategies, and best practices to promote inclusivity and diversity within your organization.
 
    Example command: "How can my company improve diversity in tech?"
+
+

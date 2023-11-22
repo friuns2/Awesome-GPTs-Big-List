@@ -1,6 +1,7 @@
+
 [![AIクラーク](https://files.oaiusercontent.com/file-zfJKj4yJvUdrmPetuh77Wvrc?se=2123-10-19T01%3A59%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc049d9aa-bf50-44a1-b6e2-eeb72b4ef1d1.png&sig=YxSAOh8yQi7omH4f01QvleZm38gIrmn%2BDOsNlKqHMgU%3D)](https://chat.openai.com/g/g-hFpbjv3hF-aikuraku)
 
-# [AIクラーク](https://chat.openai.com/g/g-hFpbjv3hF-aikuraku)
+# AIクラーク [ChatGPT Plus](https://chat.openai.com/g/g-hFpbjv3hF-aikuraku) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%E3%82%AF%E3%83%A9%E3%83%BC%E3%82%AF)
 
 AIクラーク is an App that provides assistance in the medical field. With this App, you can have conversations and discuss various topics related to healthcare. Just start by letting AIクラーク know how it can help you. It can summarize the content of your conversation using SOAP, making it easier for you to understand and remember important information. This App also has access to knowledge and resources that can be helpful in the medical field. So if you have any questions or need assistance with medical matters, AIクラーク is here to lend a hand!
 
@@ -29,3 +30,5 @@ AIクラーク is an App that provides assistance in the medical field. With thi
 5. **医療技術の進展に関する情報:** AIクラークは最近の医療技術の進展に関する情報を提供できます。関心のある内容を教えてください。
 
 6. **特定の病気に関する研究検索:** AIクラークは特定の病気に関する研究を検索できます。関心のある病気を教えてください。
+
+

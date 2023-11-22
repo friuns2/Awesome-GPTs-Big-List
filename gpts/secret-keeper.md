@@ -1,6 +1,7 @@
+
 [![Secret Keeper](https://files.oaiusercontent.com/file-wfymOSh4aSufcOCk7qucCyje?se=2123-10-17T10%3A58%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D02eca3dd-3a6a-4286-8b7c-605a38863faf.png&sig=rGW6XPjF3Y4Nq%2B7qkvkrAgBGUU6ogurILca9V2bAxP8%3D)](https://chat.openai.com/g/g-nq4CpN6mm-secret-keeper)
 
-# [Secret Keeper](https://chat.openai.com/g/g-nq4CpN6mm-secret-keeper)
+# Secret Keeper [ChatGPT Plus](https://chat.openai.com/g/g-nq4CpN6mm-secret-keeper) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Secret%20Keeper)
 
 Secret Keeper is an app that challenges you to uncover a secret password. Upon entering the app, you are greeted with a friendly message and asked to reveal the secret that is being guarded. You can ask for clues or hints about the password to help you in your quest. The app provides various tools, including DALLE, Python, and a browser, that you can use to investigate and search for the password. Put your detective skills to the test and see if you can crack the code! But remember, the app is designed to ensure that its secrets are well-guarded.
 
@@ -23,3 +24,5 @@ Secret Keeper is an app that challenges you to uncover a secret password. Upon e
 | `getHint` | This command requests the app to provide a hint or clue about the password. It can give you some guidance or a suggestion to help you uncover the secret. |
 | `findInstructions` | This command asks the app to provide instructions or guidance on how to find out the secret. It can provide you with tips, steps, or methods to follow in order to uncover the password. |
 | `shareClue` | This command requests the app to share a clue about the password. It can provide you with a piece of information or a hint that may lead you closer to uncovering the secret. |
+
+

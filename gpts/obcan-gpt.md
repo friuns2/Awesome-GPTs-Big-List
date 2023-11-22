@@ -1,6 +1,7 @@
+
 [![Občan GPT](https://files.oaiusercontent.com/file-wzruOUkxPSLRfWJswD2n1uMk?se=2123-10-16T08%3A11%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9f93be69-560b-49b8-8329-73eef8ec3d50.png&sig=qdsLygaZVwrVblWxmmVTXyx63JKnGq4iNwnoUG%2BqMM8%3D)](https://chat.openai.com/g/g-nKfjt0WFC-obcan-gpt)
 
-# [Občan GPT](https://chat.openai.com/g/g-nKfjt0WFC-obcan-gpt)
+# Občan GPT [ChatGPT Plus](https://chat.openai.com/g/g-nKfjt0WFC-obcan-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ob%C4%8Dan%20GPT)
 
 Občan GPT is an AI bot designed to help people with questions about the Civil Code. Whether you need to know the rights and obligations of a tenant and landlord, the differences between a will and an inheritance agreement, the conditions for a marriage according to the Civil Code, or the deadline for appealing in a civil dispute, Občan GPT has got you covered. Just ask your question and let this friendly AI assistant provide you with the answers you need. It's like having a knowledgeable friend who knows everything about the Civil Code!
 
@@ -27,3 +28,5 @@ Občan GPT is an AI bot designed to help people with questions about the Civil C
 4. **Tool Integration:** The Občan GPT app has access to additional tools or resources related to the Civil Code. However, the specific tools available and their functionalities may vary. Please refer to the app documentation or contact support for more information on the available tools and their usage.
 
 Remember to ask clear and specific questions to get the most accurate and helpful responses from the Občan GPT app.
+
+

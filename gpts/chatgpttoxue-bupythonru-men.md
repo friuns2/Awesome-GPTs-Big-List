@@ -1,6 +1,7 @@
+
 [![ChatGPTと学ぶPython入門](https://files.oaiusercontent.com/file-FJeAN06T7qwE2vdfr7JI4cCM?se=2123-10-17T12%3A29%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D81BiWajMUgL._SL1500_.jpg&sig=FosHRB79jUVj2/2Rz7O4YqO1EASRnEFMLsucvsP70wk%3D)](https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men)
 
-# [ChatGPTと学ぶPython入門](https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men)
+# ChatGPTと学ぶPython入門 [ChatGPT Plus](https://chat.openai.com/g/g-uXS5g9kR6-chatgpttoxue-bupythonru-men) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChatGPT%E3%81%A8%E5%AD%A6%E3%81%B6Python%E5%85%A5%E9%96%80)
 
 ChatGPT & Python Intro is an AI assistant designed to help you with any questions you may have about the book. Whether you're wondering what the book is about, if it's suitable for beginners, who the author is, or what makes it different from other introductory books, this AI is here to provide answers. With its access to knowledge and expertise, it can assist you in making an informed decision about purchasing the book. So, why not chat with ChatGPT & Python Intro and get all the information you need before diving into the world of Python programming?
 
@@ -27,3 +28,5 @@ The 'ChatGPT & Python Intro' app allows you to interact with an AI assistant to 
 - "How is this book different from other introductory books?" - Use this prompt to understand what sets this book apart from other introductory books on Python programming.
 
 Remember, you can ask any questions related to the book or its content. The AI assistant is here to help you!
+
+

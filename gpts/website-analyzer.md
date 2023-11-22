@@ -1,6 +1,7 @@
+
 [![Website Analyzer](https://files.oaiusercontent.com/file-4ZawQqdOc0H9mSYCwrl95rA4?se=2123-10-20T11%3A03%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7a3bb87d-56bf-48f0-ae1f-2b2b789ce0fc.png&sig=8AU2Gg5PiUT6mxsoz%2B40uSm%2BHZafFxpXBV38P2NJiLs%3D)](https://chat.openai.com/g/g-53G4uH3XE-website-analyzer)
 
-# [Website Analyzer](https://chat.openai.com/g/g-53G4uH3XE-website-analyzer)
+# Website Analyzer [ChatGPT Plus](https://chat.openai.com/g/g-53G4uH3XE-website-analyzer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Website%20Analyzer)
 
 Boost your webpage's SEO with Website Analyzer! This app analyzes and explains website performance, SEO, and UX metrics, with a focus on Web Vitals. You'll have access to a range of tools, including browser-based and Python-based tools, to analyze and evaluate your website's performance. Want to know how your site's SEO results are influenced by its performance? Website Analyzer can provide you with insights and explanations. Whether you're an e-commerce site owner or a web enthusiast, optimizing your website has never been easier with Website Analyzer!
 
@@ -19,3 +20,5 @@ Boost your webpage's SEO with Website Analyzer! This app analyzes and explains w
 | Feature/Command | Description |
 | --- | --- |
 | `analyzeSEO` | This feature provides tools to analyze website SEO. You can use these tools and ask for the results, which will be explained to you. It also explains how site's performance influences SEO results. It provides information on where you can check your website's SEO. It also explains the negative impact of lower SEO on site's results, especially for e-commerce sites. |
+
+

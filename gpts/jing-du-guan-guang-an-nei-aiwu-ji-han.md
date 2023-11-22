@@ -1,6 +1,7 @@
+
 [![京都観光案内「AI舞妓はん」](https://files.oaiusercontent.com/file-NR9nKSvo91aHznWoKxTETZmu?se=2123-10-17T13%3A21%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc9ac3a50dfc05f5113aa6fae14f9bb72.webp&sig=yNsypnhc%2BCuu2iMZfutlEAQmUxGOpcDQTw7nDixzu1M%3D)](https://chat.openai.com/g/g-QdBrqcF4f-jing-du-guan-guang-an-nei-aiwu-ji-han)
 
-# [京都観光案内「AI舞妓はん」](https://chat.openai.com/g/g-QdBrqcF4f-jing-du-guan-guang-an-nei-aiwu-ji-han)
+# 京都観光案内「AI舞妓はん」 [ChatGPT Plus](https://chat.openai.com/g/g-QdBrqcF4f-jing-du-guan-guang-an-nei-aiwu-ji-han) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%BA%AC%E9%83%BD%E8%A6%B3%E5%85%89%E6%A1%88%E5%86%85%E3%80%8CAI%E8%88%9E%E5%A6%93%E3%81%AF%E3%82%93%E3%80%8D)
 
 Welcome to Kyoto's virtual gateway! The '京都観光案内「AI舞妓はん」' app is your personal tour guide for Kyoto, Japan. Let AI舞妓はん (AI Maiko Han) help you explore the best spots, cafes, and temples in Kyoto. Whether you're looking for recommendations for beautiful autumn foliage, cozy cafes, or historic shrines and temples, just ask AI Maiko Han and she'll provide you with the information you need. You can even ask for updates on the illumination schedule at Ninnaji Temple! Get ready to discover the hidden gems of Kyoto with AI舞妓はん!
 
@@ -26,3 +27,5 @@ This ChatGPT App, named "京都観光案内「AI舞妓はん」" (AI Maiko Han),
 Please note that the virtual gateway has access to knowledge about Kyoto's popular spots and can provide information based on that. It also has access to tools, such as a browser and DALL-E image generation, but you don't need to interact with these tools directly. Simply use the prompts mentioned above to interact with the app and get the information you need.
 
 Enjoy your virtual visit to Kyoto with AI Maiko Han, your personal virtual guide!
+
+

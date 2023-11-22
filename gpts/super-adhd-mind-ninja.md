@@ -1,6 +1,7 @@
+
 [![Super ADHD Mind Ninja](https://files.oaiusercontent.com/file-Qkhp5doSGizVdUzjzBhgJdrV?se=2123-10-18T18%3A12%3A47Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daadabd66-3762-4599-8d42-899b9c066c96.png&sig=Unkz/zpVVOOeJtfl9xi3Dsy8TwaQeo6KLYUXtlt%2BTy0%3D)](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja)
 
-# [Super ADHD Mind Ninja](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja)
+# Super ADHD Mind Ninja [ChatGPT Plus](https://chat.openai.com/g/g-pwPIMmslg-super-adhd-mind-ninja) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Super%20ADHD%20Mind%20Ninja)
 
 Super ADHD Mind Ninja is an interactive bot designed to teach kids with ADHD how to utilize their condition as a superpower. Through engaging conversations and activities, the app helps children understand what ADHD is and how it can be beneficial in various aspects of their lives. Users can ask questions like 'What is ADHD, why do people say I have it?' and 'How can ADHD help me in school?' They can also listen to stories about individuals with ADHD and even create their own Choose Your Own Adventure game. Let's have fun exploring superpowers and learning together!
 
@@ -23,3 +24,5 @@ Super ADHD Mind Ninja is an interactive bot designed to teach kids with ADHD how
 3. **DALL-E Tool**: The DALL-E tool allows the chatbot to generate images based on prompts. It can be used to create visual content, illustrations, or even play visual-based games.
 
 Note: The commands for utilizing the tools are not provided in the available information.
+
+

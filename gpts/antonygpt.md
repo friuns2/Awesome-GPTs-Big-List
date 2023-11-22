@@ -1,6 +1,7 @@
+
 [![AntonyGPT](https://files.oaiusercontent.com/file-vasWLOHztyV1DXaz1XUqcOf4?se=2123-10-16T17%3A34%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da9ef8a7b-b155-4065-8151-ecda1e8c370d.png&sig=PyGlJiF4nipppjL/rIUvQA1SJJ0dbw1vzi6gOH4qfOI%3D)](https://chat.openai.com/g/g-RonP74bhN-antonygpt)
 
-# [AntonyGPT](https://chat.openai.com/g/g-RonP74bhN-antonygpt)
+# AntonyGPT [ChatGPT Plus](https://chat.openai.com/g/g-RonP74bhN-antonygpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AntonyGPT)
 
 AntonyGPT is an App that provides access to a collection of Antony Slumbers' blog posts from 2020 to 2023. With the App, you can ask questions about topics like #SpaceasaService, the difference between a chicken and a pig, the future of offices, and Antony's opinion on Generative AI. The App welcomes you with a friendly message and is here to answer any queries you have about Antony Slumbers' insightful blogs. It also offers useful tools such as a visual generation model (DALL-E), a Python interpreter, and a browsing tool to enhance your experience.
 
@@ -33,3 +34,5 @@ AntonyGPT is an App that provides access to a collection of Antony Slumbers' blo
 - To access additional information or external resources mentioned in the blogs, you can utilize the `browser tool` to search, browse, and access specific websites.
 
 - If you encounter any issues or have specific requirements, feel free to ask for assistance or clarification.
+
+

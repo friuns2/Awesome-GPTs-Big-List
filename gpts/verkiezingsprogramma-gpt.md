@@ -1,6 +1,7 @@
+
 [![Verkiezingsprogramma GPT](https://files.oaiusercontent.com/file-7OZkoTdZwGSzzhmgxhGhxNyg?se=2123-10-19T12%3A06%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D22c51dde-ef97-4c36-8f0a-b0625ddb3e47.png&sig=cZo2m2H4dXwywtje%2BFSRSU6PQ1kIkYKjzCzYKnivQG8%3D)](https://chat.openai.com/g/g-P3WVwE0G8-verkiezingsprogramma-gpt)
 
-# [Verkiezingsprogramma GPT](https://chat.openai.com/g/g-P3WVwE0G8-verkiezingsprogramma-gpt)
+# Verkiezingsprogramma GPT [ChatGPT Plus](https://chat.openai.com/g/g-P3WVwE0G8-verkiezingsprogramma-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Verkiezingsprogramma%20GPT)
 
 Verkiezingsprogramma GPT is an App that analyzes Dutch election documents to provide insights and summaries. It allows you to analyze the election program of a political party, compare the economic policies of two parties, summarize the key points of a particular election program, and explain the environmental policies in a program. With access to knowledge and tools like Dalle and a browser, you can easily navigate through the verkiezingsprogramma. Get ready to dive into Dutch politics!
 
@@ -27,3 +28,5 @@ Verkiezingsprogramma GPT is an App that analyzes Dutch election documents to pro
 
 4. **Leg het milieubeleid in dit verkiezingsprogramma uit.**
    - Use this command to get an explanation of the environmental policy outlined in a specific election program. It will help you understand the party's stance on environmental issues.
+
+

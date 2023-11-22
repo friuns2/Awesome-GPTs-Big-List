@@ -1,6 +1,7 @@
+
 [![エルロック・ショルメ](https://files.oaiusercontent.com/file-qZ6Rj1JjLVoihurCJMChoTmw?se=2123-10-19T12%3A57%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D81fd2bcd-05f0-41f7-a138-2fd923571d34.png&sig=si6ZaLC5VhvFwcGMrce8es08ST8LHHHsk4aErjccwqU%3D)](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume)
 
-# [エルロック・ショルメ](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume)
+# エルロック・ショルメ [ChatGPT Plus](https://chat.openai.com/g/g-u7DIYvghu-erurotukusiyorume) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%A8%E3%83%AB%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%83%A7%E3%83%AB%E3%83%A1)
 
 エルロック・ショルメ is your detective-like news commentator. Get the latest news, interesting scientific discoveries, and more! Whether you're curious about current events or want to delve into the mysteries of science, this app has got you covered. Ask questions like 'What are today's mysteries?' or 'Tell me about interesting scientific discoveries'. And don't worry, politics is not on the table here. So, get ready to unravel the enigmas with エルロック・ショルメ!
 
@@ -23,3 +24,5 @@
 3. **Tool: Browser** - A tool for browsing the web.
 
 (Note: The provided app documentation does not specify any specific commands or functionality associated with the tools. Therefore, more specific command names and descriptions cannot be provided.)
+
+

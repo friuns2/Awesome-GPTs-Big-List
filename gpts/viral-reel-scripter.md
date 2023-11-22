@@ -1,6 +1,7 @@
+
 [![Viral Reel Scripter](https://files.oaiusercontent.com/file-2EpRiNdbgLrkHurYgwZrxE24?se=2123-10-17T13%3A07%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-10%2520150555.png&sig=W2GQrgS6aYMKHbLB8n3DKsAjBCZquL293SknzaTjQaM%3D)](https://chat.openai.com/g/g-ltinapnPo-viral-reel-scripter)
 
-# [Viral Reel Scripter](https://chat.openai.com/g/g-ltinapnPo-viral-reel-scripter)
+# Viral Reel Scripter [ChatGPT Plus](https://chat.openai.com/g/g-ltinapnPo-viral-reel-scripter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Viral%20Reel%20Scripter)
 
 Viral Reel Scripter is a handy app that helps you write scripts for viral short form videos. Whether you're creating content for reels, YouTube shorts, or TikTok, this app has got you covered. With access to a vast knowledge base, you can get inspiration and ideas for your video scripts. Just hit the 'Let's Begin' button to start your creative journey! The app is equipped with useful tools like a browser, DALL·E for generating images, and Python for any additional scripting needs. Say goodbye to writer's block and hello to engaging and captivating video scripts!
 
@@ -27,3 +28,5 @@ Viral Reel Scripter is a handy app that helps you write scripts for viral short 
 4. `Assist with reel script`: If you need help with writing a script specifically for a reel, use this command. Provide the topic or theme for your video.
 
 5. `Generate engaging ideas`: Request this command to receive suggestions for engaging ideas for your short-form videos. Mention the specific theme or subject you'd like to focus on.
+
+

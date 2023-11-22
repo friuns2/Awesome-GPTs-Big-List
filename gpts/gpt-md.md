@@ -1,6 +1,7 @@
+
 [![GPT MD](https://files.oaiusercontent.com/file-GZYDetd0GRa2lm8Hh9wCoyg1?se=2123-10-17T09%3A32%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc98ac15c-0f2d-4166-b15a-dafd7e31b66d.png&sig=jZMwGuf78Y4wQdblwmM5rfKizlwFOYlvQsFpRJWJSGY%3D)](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md)
 
-# [GPT MD](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md)
+# GPT MD [ChatGPT Plus](https://chat.openai.com/g/g-BpGWNpIAo-gpt-md) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT%20MD)
 
 GPT MD is an experimental virtual doctor designed by a real doctor. It's here to provide medical guidance and answer your health-related questions in simple terms. Whether you have a cough, are gaining weight, dealing with high sugars, or finding your medications too expensive, GPT MD is ready to help. With access to a wide range of tools, including a browser, Python, and the advanced DALLE system, GPT MD can provide accurate and informed responses. Say goodbye to confusing medical jargon and hello to a friendly and knowledgeable virtual doctor.
 
@@ -37,3 +38,5 @@ GPT MD is an experimental virtual doctor designed by a real doctor. It's here to
 5. For more detailed and comprehensive responses, you can request the app to use the Dalle tool, which generates relevant and up-to-date information.
 
 Remember, the virtual doctor is designed to provide guidance and information based on the knowledge it has access to. It is always recommended to consult a qualified healthcare professional for accurate medical diagnosis and advice.
+
+

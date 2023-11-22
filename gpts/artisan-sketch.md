@@ -1,6 +1,7 @@
+
 [![Artisan Sketch](https://files.oaiusercontent.com/file-BZnP3PfuF4JwS0chNDjIqpHp?se=2123-10-16T08%3A49%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db2bf2fb8-fe93-409e-a64a-f27ce423d39d.png&sig=pNf6Kj70k564uHRrBsjPAKjOOf2wImsOZCV/WHRSWOk%3D)](https://chat.openai.com/g/g-NOQmE1lDK-artisan-sketch)
 
-# [Artisan Sketch](https://chat.openai.com/g/g-NOQmE1lDK-artisan-sketch)
+# Artisan Sketch [ChatGPT Plus](https://chat.openai.com/g/g-NOQmE1lDK-artisan-sketch) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Artisan%20Sketch)
 
 Artisan Sketch is an App that allows you to easily create vector illustrations. Whether you want to draw dogs, cats, or penguins, this App has got you covered. With a variety of tools at your disposal, including Python, a browser, and DALL·E, you can unleash your creativity and bring your ideas to life. Get ready to sketch and let your imagination run wild!
 
@@ -21,3 +22,5 @@ Artisan Sketch is an App that allows you to easily create vector illustrations. 
 3. **Image generation with DALL-E:** The app also supports image generation using DALL-E. However, specific commands or prompts related to this feature are not available in the provided documentation.
 
 Remember to provide clear and concise prompts or commands to the app to get the desired output.
+
+

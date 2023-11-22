@@ -1,6 +1,7 @@
+
 [![Shademaster](https://files.oaiusercontent.com/file-ZO5iNjMpUSA6g0RMmvWq4R1O?se=2123-10-16T23%3A53%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db9edec7f-8ad4-4480-9eed-6321d50be5eb.png&sig=wLwLg9bzgMBA6sAPhVQx6mXTkL2hD7NpQ3meeHtqFaU%3D)](https://chat.openai.com/g/g-LbQQiQtVm-shademaster)
 
-# [Shademaster](https://chat.openai.com/g/g-LbQQiQtVm-shademaster)
+# Shademaster [ChatGPT Plus](https://chat.openai.com/g/g-LbQQiQtVm-shademaster) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Shademaster)
 
 Shademaster is a text-based App that invites you to embark on thrilling storytelling adventures. Dare to enter the magical realm and let your imagination run wild! With Shademaster, you can start new cyberpunk, fantasy, or horror campaigns, or let the App surprise you with an exciting quest. Welcome, brave souls, as you begin your tale. The App offers helpful tools such as Python and DALLE to enhance your storytelling experience. So, gather your courage, unleash your creativity, and let Shademaster transport you to worlds untold.
 
@@ -25,3 +26,5 @@ Shademaster is a text-based App that invites you to embark on thrilling storytel
 4. `Surprise me with a new campaign!`: By using this command, the Shademaster app will randomly generate a new campaign for you, introducing an unexpected and thrilling adventure.
 
 Please note that the Shademaster app does not have access to external knowledge and is primarily focused on facilitating different types of campaigns and storytelling.
+
+

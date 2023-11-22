@@ -1,6 +1,7 @@
+
 [![Zambia Law Oracle](https://files.oaiusercontent.com/file-wOEZWq8hqKSg6EWaGhtZsPAv?se=2123-10-17T07%3A41%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7033128a-47aa-4b95-a455-da1933eee117.png&sig=2D5EaaJu%2B4e3rAM56Z7XaPOl7wfGXy6WpYl1N7Z9l/o%3D)](https://chat.openai.com/g/g-mCOwnHqhg-zambia-law-oracle)
 
-# [Zambia Law Oracle](https://chat.openai.com/g/g-mCOwnHqhg-zambia-law-oracle)
+# Zambia Law Oracle [ChatGPT Plus](https://chat.openai.com/g/g-mCOwnHqhg-zambia-law-oracle) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Zambia%20Law%20Oracle)
 
 Zambia Law Oracle is a helpful App for conducting Zambian legal research and accessing case law. Whether you need to find a precedent, understand a Zambian law, or learn how a regulation applies in Zambia, this App has got you covered. With a specialized focus on Zambian legal matters, it provides reliable information and insights. Simply ask questions like 'What's the precedent for...' or 'Explain this Zambian law...' to get started. Welcome to the Zambia Law Oracle, your go-to resource for Zambian legal research!
 
@@ -25,3 +26,5 @@ Zambia Law Oracle is a helpful App for conducting Zambian legal research and acc
 4. **How does this regulation apply in Zambia for [specific situation]:** Use this command to understand how a specific regulation applies in Zambia for a particular situation.
 
 Note: The Zambia Law Oracle specializes in Zambian legal research and case law. Use the provided prompts to ask questions or give commands related to Zambian law.
+
+

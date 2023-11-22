@@ -1,6 +1,7 @@
+
 [![Novel Cover Creator](https://files.oaiusercontent.com/file-0WgtiEVAtscqY1W9cdHvah1m?se=2123-10-18T12%3A17%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D384df888-dd5f-4cae-8fba-9088bc0141b9.png&sig=D4Z6gBPz9CxAttOkhqksXnmwmBC1NDQI4QPdYl6RDPQ%3D)](https://chat.openai.com/g/g-9NBFM6Fco-novel-cover-creator)
 
-# [Novel Cover Creator](https://chat.openai.com/g/g-9NBFM6Fco-novel-cover-creator)
+# Novel Cover Creator [ChatGPT Plus](https://chat.openai.com/g/g-9NBFM6Fco-novel-cover-creator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Novel%20Cover%20Creator)
 
 Novel Cover Creator is an app that allows you to easily create thematic cover art for your novels. Whether you're writing a romance or a historical fiction, this app has got you covered! Simply provide your story summary and let the app do the work. It excludes book illustrations to let you focus on creating a captivating cover. With a variety of styles to choose from, you can customize your cover to match your preferences. Get ready to make your novel stand out with the help of Novel Cover Creator!
 
@@ -21,3 +22,5 @@ Novel Cover Creator is an app that allows you to easily create thematic cover ar
 4. **Access to tools**: The app has access to two tools - DALLE and a browser tool. These tools help in generating the cover art based on the provided prompts.
 
 **Note**: The app does not have access to knowledge and cannot provide specific instructions or guidance. It focuses solely on creating thematic cover art for novels.
+
+

@@ -1,6 +1,7 @@
+
 [![Agile Coach](https://files.oaiusercontent.com/file-Q4W2km0zW0sdQTJiGtuRk7KO?se=2123-10-18T21%3A08%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db97717e4-0119-47c5-8ec8-2d65de604b6b.png&sig=1qe4H9h81KS3rj5zitcr5ozgl1f4F0QgUMmPGd06Ngo%3D)](https://chat.openai.com/g/g-1GXrG7Nwr-agile-coach)
 
-# [Agile Coach](https://chat.openai.com/g/g-1GXrG7Nwr-agile-coach)
+# Agile Coach [ChatGPT Plus](https://chat.openai.com/g/g-1GXrG7Nwr-agile-coach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Agile%20Coach)
 
 Agile Coach is a helpful GPT coach for Scrum Masters, Product Owners, and Developers. It provides guidance on Agile, Scrum, and Scaled Scrum frameworks and methodologies. Whether you're new to Scrum or need expert advice, Agile Coach has you covered. Ask questions like 'What is the purpose of Scrum?' or 'How do you scale Scrum?' and get instant answers. With access to the Scrum at Scale Guide, you can dive deep into Scrum principles and best practices. The app also offers useful tools like a browser and DALLE for enhanced learning and exploration. Level up your Agile knowledge with Agile Coach!
 
@@ -32,3 +33,5 @@ Agile Coach is a helpful GPT coach for Scrum Masters, Product Owners, and Develo
 6. **Scaling Scrum:** This command offers guidance on how to scale the Scrum framework for larger and more complex projects or organizations, addressing the challenges and best practices for implementing Scaled Scrum methodologies.
 
 Note: The commands mentioned above are hypothetical and are not based on the actual implementation of the ChatGPT App.
+
+

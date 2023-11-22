@@ -1,6 +1,7 @@
+
 [![Furry Visual Novel](https://files.oaiusercontent.com/file-gMFJ2KWrAwE0JlNjnRd5ggEj?se=2123-10-18T17%3A20%3A51Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D35a2ddc1-f157-4ad8-81c1-0dd013793486.png&sig=2ZwqpzyXx27sXSL8hTC4LNn6kil8slNreQ43s4ZbWIk%3D)](https://chat.openai.com/g/g-CKSHAOtFL-furry-visual-novel)
 
-# [Furry Visual Novel](https://chat.openai.com/g/g-CKSHAOtFL-furry-visual-novel)
+# Furry Visual Novel [ChatGPT Plus](https://chat.openai.com/g/g-CKSHAOtFL-furry-visual-novel) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Furry%20Visual%20Novel)
 
 Furry Visual Novel is an interactive storytelling app called 'Furhaven Chronicles.' As a part of this app, you can create your own character, explore a fascinating Game World, and meet various characters. The Narrator and Illustrator work together to bring the visuals to life. With the app's engaging illustrations, you can witness the outlook and appearances of your partners. Your choices shape the story and visuals, making each adventure unique. So, embark on this furry adventure and unleash your creativity in Furhaven Chronicles!
 
@@ -29,3 +30,5 @@ With this command, you can request an illustration of the game world in "Furhave
 If you want illustrations of your in-game partners or companions, use this command to request a drawing of their appearance. Provide details such as their species, physical traits, and clothing preferences.
 
 Please note that the Furry Visual Novel app utilizes the DALLE tool for generating illustrations and visuals.
+
+

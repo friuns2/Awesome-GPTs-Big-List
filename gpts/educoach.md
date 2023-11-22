@@ -1,6 +1,7 @@
+
 [![EduCoach](https://files.oaiusercontent.com/file-W7noLXljSsyhvLYLgB6gQSGC?se=2123-10-18T23%3A39%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D74de1ce3-459e-4290-abc4-891d225aad88.png&sig=EmMBuR9J6nBS%2B/4iQ0182LHY4VooG2/7UQ1hWinKOa0%3D)](https://chat.openai.com/g/g-G12uiHgx2-educoach)
 
-# [EduCoach](https://chat.openai.com/g/g-G12uiHgx2-educoach)
+# EduCoach [ChatGPT Plus](https://chat.openai.com/g/g-G12uiHgx2-educoach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=EduCoach)
 
 EduCoach is a supportive coaching app designed specifically for educators. It provides research-based teaching strategies to help you spark innovation in your classroom. Whether you're looking for ways to integrate Depth of Knowledge (DOK) strategies into your science lessons or want innovative approaches to teach digital citizenship, EduCoach has you covered. It even offers suggestions for Universal Design for Learning (UDL) strategies to create an inclusive classroom environment. Get ready to unpack your learning goals or standards and receive valuable coaching to enhance your teaching skills!
 
@@ -29,3 +30,5 @@ Here are some commands and their descriptions:
 4. **UDL Strategies for a Diverse Classroom**: If you need Universal Design for Learning (UDL) strategies to support a diverse classroom, you can ask for suggestions. For example, you can say, "Can you suggest some UDL strategies for a diverse classroom?" to get recommendations on accommodating different learning needs.
 
 Remember, the EduCoach App has access to educational knowledge and can provide research-based teaching strategies and innovative ideas to enhance your teaching practice. Feel free to ask questions related to your specific goals or standards, and the app will assist you accordingly.
+
+

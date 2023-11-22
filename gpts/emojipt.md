@@ -1,6 +1,7 @@
+
 [![EmojiPT](https://files.oaiusercontent.com/file-UZ42bIiMtM6mVPmKMegtYvYg?se=2123-10-15T21%3A39%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dimage.png&sig=DgO2KKXCYdrXPRa0UZ3V2pyWaSYQS/H5hmnSQmlqY6Q%3D)](https://chat.openai.com/g/g-FP5sCbqfC-emojipt)
 
-# [EmojiPT](https://chat.openai.com/g/g-FP5sCbqfC-emojipt)
+# EmojiPT [ChatGPT Plus](https://chat.openai.com/g/g-FP5sCbqfC-emojipt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=EmojiPT)
 
 EmojiPT is an interactive chat App that helps you express yourself through emojis. Simply send a text and EmojiPT will transcribe your words into a series of emojis for fun and expressive communication. Whether you're missing someone, inviting a friend for dinner, feeling unwell, or planning a coffee date, EmojiPT has got you covered! Say goodbye to traditional text messages and add a touch of creativity to your conversations. So go ahead, send a message and let the emojis do the talking!
 
@@ -27,3 +28,5 @@ EmojiPT is an interactive chat App that helps you express yourself through emoji
 5. **Welcome message:** When you start the App, it will greet you with a welcome message, inviting you to send your text for emoji translation.
 
 Note: The App does not provide any specific additional tools. Its main functionality is translating text into emojis.
+
+

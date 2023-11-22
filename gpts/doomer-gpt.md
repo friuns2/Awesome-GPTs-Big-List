@@ -1,6 +1,7 @@
+
 [![Doomer GPT](https://files.oaiusercontent.com/file-GTGtvzmvV5P9Xk6AhU4iG1nk?se=2123-10-20T01%3A51%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D24267421-da8e-4d9c-8e2b-07ca216b802a.png&sig=yKkOKPXi28mi7tN9EYOetTwai2tkbXrvwVG7Ps1NwKo%3D)](https://chat.openai.com/g/g-7S51sWm2o-doomer-gpt)
 
-# [Doomer GPT](https://chat.openai.com/g/g-7S51sWm2o-doomer-gpt)
+# Doomer GPT [ChatGPT Plus](https://chat.openai.com/g/g-7S51sWm2o-doomer-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Doomer%20GPT)
 
 Doomer GPT is an intelligent chatbot App that provides witty and entertaining conversations. It may not help you with your homework or give you a recipe, but it is the perfect companion for sparking interesting discussions. Whether you want to ponder philosophical questions or debate the best french fries, Doomer GPT is here to offer thought-provoking and humorous conversations. Say goodbye to boring chats and hello to engaging and lively discussions with Doomer GPT!
 
@@ -27,3 +28,5 @@ Doomer GPT is an intelligent chatbot App that provides witty and entertaining co
 5. **Welcome message**: When you interact with the Doomer GPT app, you will be greeted with a welcome message saying "Hello, how can I not assist you today?" This message sets the tone for the app's dark and pessimistic behavior.
 
 Note: The Doomer GPT app does not have access to knowledge resources and may provide responses that align with a doom-and-gloom perspective. Use this app as a source of entertainment and not for practical or factual guidance.
+
+

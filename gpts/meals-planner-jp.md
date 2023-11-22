@@ -1,6 +1,7 @@
+
 [![Meals planner (JP)](https://files.oaiusercontent.com/file-U52ePF3hZjTsGft8yMM1aBe3?se=2123-10-18T10%3A23%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1c054807-ef23-4598-b234-77114847ba75.png&sig=XyEoZZTAkgo7LGN3q3aG/WBsTgDacMhgAebW9tdNpMo%3D)](https://chat.openai.com/g/g-Mx5HEveIZ-meals-planner-jp)
 
-# [Meals planner (JP)](https://chat.openai.com/g/g-Mx5HEveIZ-meals-planner-jp)
+# Meals planner (JP) [ChatGPT Plus](https://chat.openai.com/g/g-Mx5HEveIZ-meals-planner-jp) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Meals%20planner%20(JP))
 
 Get personalized meal plans that take nutritional considerations into account. Whether you're trying to eat healthier or have specific dietary needs, this app suggests menus tailored just for you. Say goodbye to meal prep stress and hello to delicious and balanced meals. Bon appétit!
 
@@ -31,3 +32,5 @@ Get personalized meal plans that take nutritional considerations into account. W
 4. **Suggest a meal plan for weight loss:**
    - Description: This command generates a meal plan focused on weight loss.
    - Usage: "Can you suggest a meal plan for weight loss?"
+
+

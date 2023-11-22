@@ -1,6 +1,7 @@
+
 [![Real World Color Craft](https://files.oaiusercontent.com/file-BXHexBzfmIarmZihtmffPux4?se=2123-10-19T05%3A05%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D89a10a56-61bf-4211-a640-9433324e6cc4.png&sig=Ks6sNpb6d9yMsxqplETQyiMTiS3OtG2yBKrKfAoOlZg%3D)](https://chat.openai.com/g/g-YMP0E2d5u-real-world-color-craft)
 
-# [Real World Color Craft](https://chat.openai.com/g/g-YMP0E2d5u-real-world-color-craft)
+# Real World Color Craft [ChatGPT Plus](https://chat.openai.com/g/g-YMP0E2d5u-real-world-color-craft) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Real%20World%20Color%20Craft)
 
 Real World Color Craft is a fun and artistic app that can generate beautiful color palettes from your uploaded images. Simply upload an image and specify the number of colors you want in the palette. Whether you need a vibrant palette for your artwork or want to find the perfect colors for your design projects, this app will assist you in creating eye-catching color combinations. With its playful interface and ability to provide hex values for each color, Real World Color Craft is a must-have tool for artists, designers, and anyone looking to add a touch of color to their creations.
 
@@ -27,3 +28,5 @@ Real World Color Craft is a fun and artistic app that can generate beautiful col
 5. **Tools**: The app utilizes two tools: a browser tool and a DALL-E tool. These tools work behind the scenes to process the image and extract the color palette. You don't need to interact with these tools directly; they are integrated into the app to enhance its functionality.
 
 Note: This app does not have access to external knowledge. It focuses on generating color palettes from images with hex values.
+
+

@@ -1,6 +1,7 @@
+
 [![Tango Multi-Agent Wizard](https://files.oaiusercontent.com/file-Cl9adU5KDyDMhWJm81z0iP7B?se=2123-10-16T17%3A01%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D25d2c5ff-f9bd-4eeb-a1bd-d9e6f49f077f.png&sig=qo5jWM3E1%2BI9dUtyVKtWzFYyMOvZkIa4C90ASHDPl34%3D)](https://chat.openai.com/g/g-k9lDs6DpB-tango-multi-agent-wizard)
 
-# [Tango Multi-Agent Wizard](https://chat.openai.com/g/g-k9lDs6DpB-tango-multi-agent-wizard)
+# Tango Multi-Agent Wizard [ChatGPT Plus](https://chat.openai.com/g/g-k9lDs6DpB-tango-multi-agent-wizard) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Tango%20Multi-Agent%20Wizard)
 
 Tango Multi-Agent Wizard is your ultimate companion in simulating dialogues with any persona, entity, style, or expertise. Whether you want to create a debate between two philosophers, have a tech expert discuss AI, conduct a product focus group, or even interview a historical figure, Tango can make it happen. With Tango, you have access to a wide range of instances, both real and fictional, allowing you to explore different communication styles and interactions. So, let's begin and see what interesting conversations Tango can help you bring to life!
 
@@ -25,3 +26,5 @@ Tango Multi-Agent Wizard is your ultimate companion in simulating dialogues with
 4. **Channel:** Use the command "Channel" followed by a description of the historical figure you want to embody. For example, you can use the prompt "Channel a historical figure for an interview" to simulate an interview where you take on the persona of a historical figure.
 
 Note: Make sure to provide clear and detailed descriptions in your prompts to get accurate and relevant responses from Tango.
+
+

@@ -1,6 +1,7 @@
+
 [![AIMedGPT](https://files.oaiusercontent.com/file-Hwh37H7Qzp0N8bRHsIao2En6?se=2123-10-18T14%3A35%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D63f98967-ace5-42a2-8bec-f9fbe0b85389.png&sig=detSxdW6f8Wj7bzTykUokhGf%2BbCDcvVDJRZZq%2BQAQDw%3D)](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt)
 
-# [AIMedGPT](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt)
+# AIMedGPT [ChatGPT Plus](https://chat.openai.com/g/g-YR5uQNmwg-aimedgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AIMedGPT)
 
 AIMedGPT is an App that uses GPT technology to assist with AI in the field of medicine. It provides a chat-based interface where you can interact with the AI to get information and insights related to medical topics. Whether you need help with research, diagnosis, or treatment options, AIMedGPT is here to assist you. With its advanced language processing capabilities, it understands medical terminology and can provide valuable suggestions. Say hello to AIMedGPT and let it help you unlock the power of AI in medicine!
 
@@ -25,3 +26,5 @@ AIMedGPT is an App that uses GPT technology to assist with AI in the field of me
 3. **DALLE Tool:** This tool is powered by DALL-E, which is a language model trained to generate images from text descriptions. It can assist in visualizing medical concepts or generating visual representations based on your prompts.
 
 Remember to provide clear and specific prompts to get the most accurate and relevant responses.
+
+

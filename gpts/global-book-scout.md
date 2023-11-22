@@ -1,6 +1,7 @@
+
 [![Global Book Scout](https://files.oaiusercontent.com/file-2WGhz5iXcagtTjnoiMxxirxO?se=2123-10-18T08%3A55%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D79c4d671-1624-4ae9-963d-65b04e9d57c3.png&sig=3VFQEi7zuS8H1sbEP0fuCJEDMKTW6Lp2zzeUm3E4U5E%3D)](https://chat.openai.com/g/g-EP88JL04z-global-book-scout)
 
-# [Global Book Scout](https://chat.openai.com/g/g-EP88JL04z-global-book-scout)
+# Global Book Scout [ChatGPT Plus](https://chat.openai.com/g/g-EP88JL04z-global-book-scout) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Global%20Book%20Scout)
 
 Global Book Scout is your ultimate resource for discovering great books from around the world. Whether you're searching for a book on a specific topic, exploring the latest bestsellers in your favorite genre, or looking for recommendations similar to your favorite author, Global Book Scout has got you covered! With its extensive knowledge base, the app provides personalized book suggestions based on your interests and hobbies. Say goodbye to endless browsing and hello to your next favorite book with Global Book Scout!
 
@@ -29,3 +30,5 @@ To interact with the app, you can use the following commands:
 4. **Must-read books:** If you have a specific interest or hobby in mind, you can ask the app for must-read books related to it. For example, you can use prompts like "What are some must-read books for [insert interest or hobby]?" This command helps you find books that are highly recommended within a particular field or topic.
 
 Feel free to interact with the app using these prompts and commands to discover your next favorite book!
+
+

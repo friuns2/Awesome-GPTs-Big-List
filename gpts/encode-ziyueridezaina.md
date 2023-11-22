@@ -1,6 +1,7 @@
+
 [![ENCODE ジュエリーデザイナー](https://files.oaiusercontent.com/file-OyO5T1F65bIEeQyR0X8vyi8T?se=2123-10-17T08%3A13%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3%2520%25284%2529.png&sig=SPCkOrFdQHgwjfA50aGppVr7XKtVvLjhz0/p6hcx6kE%3D)](https://chat.openai.com/g/g-aKQ9gHaQT-encode-ziyueridezaina)
 
-# [ENCODE ジュエリーデザイナー](https://chat.openai.com/g/g-aKQ9gHaQT-encode-ziyueridezaina)
+# ENCODE ジュエリーデザイナー [ChatGPT Plus](https://chat.openai.com/g/g-aKQ9gHaQT-encode-ziyueridezaina) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ENCODE%20%E3%82%B8%E3%83%A5%E3%82%A8%E3%83%AA%E3%83%BC%E3%83%87%E3%82%B6%E3%82%A4%E3%83%8A%E3%83%BC)
 
 Design the perfect jewelry for your budget with ENCODE Jewelry Designer. This app allows you to create your desired jewelry design based on your budget, and even offers 3D printing options. Whether you want a silver ring, a jewelry proposal within a 30,000 yen budget, or need a design image for a ring, this app has got you covered. With ENCODE Jewelry Designer, you can easily bring your jewelry ideas to life. Welcome aboard! Let's create the jewelry of your dreams.
 
@@ -25,3 +26,5 @@ Design the perfect jewelry for your budget with ENCODE Jewelry Designer. This ap
 4. **Designing an emerald ring:** To create a design specifically for an emerald ring, you can use the prompt "I need a design for an emerald ring" and provide any additional details or preferences.
 
 Note: The app also includes tools for utilizing a DALL-E model and a browser-based tool, but the specific commands or prompts for using these tools are not provided in the documentation.
+
+

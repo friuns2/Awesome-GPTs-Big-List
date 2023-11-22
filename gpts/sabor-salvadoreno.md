@@ -1,6 +1,7 @@
+
 [![Sabor Salvadoreño](https://files.oaiusercontent.com/file-SJpJRkLmaOcmVhRbiYaBmoKx?se=2123-10-16T19%3A08%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da8b502e9-c93c-4627-a6c5-745b062eff2b.png&sig=lp9yEoBX9sQxiJT0J%2BQ%2B7qXAuDMmSqkJRDMQqO5exNU%3D)](https://chat.openai.com/g/g-gSWJbkw7X-sabor-salvadoreno)
 
-# [Sabor Salvadoreño](https://chat.openai.com/g/g-gSWJbkw7X-sabor-salvadoreno)
+# Sabor Salvadoreño [ChatGPT Plus](https://chat.openai.com/g/g-gSWJbkw7X-sabor-salvadoreno) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sabor%20Salvadore%C3%B1o)
 
 Find the best restaurants in El Salvador with Sabor Salvadoreño! Whether you're in San Salvador or anywhere else in the country, this app will help you discover top-rated dining spots. Craving seafood? Just ask and Sabor Salvadoreño will recommend a top restaurant specializing in seafood. With its extensive knowledge of the culinary scene in El Salvador, this app has got your hunger covered. Don't settle for ordinary meals - let Sabor Salvadoreño guide you to the best dining experiences in the country!
 
@@ -23,3 +24,5 @@ Find the best restaurants in El Salvador with Sabor Salvadoreño! Whether you're
 3. `Find a restaurant for a specific cuisine`: If you have a specific cuisine in mind, you can mention it in your prompt. For example, you can ask "Give me a top restaurant for seafood."
 
 Note: Sabor Salvadoreño doesn't have access to knowledge and the provided tools are not relevant for interacting with the app.
+
+

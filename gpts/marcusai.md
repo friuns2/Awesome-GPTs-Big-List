@@ -1,6 +1,7 @@
+
 [![MarcusAI](null)](https://chat.openai.com/g/g-2e43ea58g-marcusai)
 
-# [MarcusAI](https://chat.openai.com/g/g-2e43ea58g-marcusai)
+# MarcusAI [ChatGPT Plus](https://chat.openai.com/g/g-2e43ea58g-marcusai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MarcusAI)
 
 MarcusAI is an app that brings the wisdom of Marcus Aurelius to life with the help of artificial intelligence. Get ready for interesting thoughts, revelations about personal development, discussions on values and virtues, and even casual small talk. With MarcusAI, you can have meaningful conversations and gain valuable insights. The app has access to extensive knowledge and tools like a browser, image generation with DALLE, and Python scripting. Whether you're seeking inspiration or simply want to chat, MarcusAI is here to be your wise companion.
 
@@ -25,3 +26,5 @@ MarcusAI is an app that brings the wisdom of Marcus Aurelius to life with the he
 4. **Small talk**: This command initiates a friendly conversation with MarcusAI to engage in casual and informal discussions.
 
 Please note that MarcusAI has access to knowledge and can provide information and insights on various topics. Feel free to explore and ask questions!
+
+

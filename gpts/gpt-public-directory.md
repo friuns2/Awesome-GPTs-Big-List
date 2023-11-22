@@ -1,6 +1,7 @@
+
 [![GPT Public Directory](https://files.oaiusercontent.com/file-DupxJF2klTF6jKm3eVpigk6S?se=2123-10-17T00%3A54%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd845b335-61d1-4832-aaf2-e5e8f0cfd452.png&sig=f05Y/YpM2Gtl122M/IXfvqKLVWcrACAuCKU6Qn3J5cg%3D)](https://chat.openai.com/g/g-tQBmTaWqj-gpt-public-directory)
 
-# [GPT Public Directory](https://chat.openai.com/g/g-tQBmTaWqj-gpt-public-directory)
+# GPT Public Directory [ChatGPT Plus](https://chat.openai.com/g/g-tQBmTaWqj-gpt-public-directory) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT%20Public%20Directory)
 
 GPT Public Directory is a directory assistant that helps you find and register GPTs. With a vast database of 8234 GPTs, you can easily search for the perfect one for your needs. Whether you're looking for a GPT for a specific category or want to explore random options, this app has got you covered. It provides a user-friendly interface to make the process quick and effortless. No more hassle of manually searching for GPTs, let this app be your guide. Start your GPT hunt now!
 
@@ -30,3 +31,5 @@ GPT Public Directory is a directory assistant that helps you find and register G
 5. **Random GPTs**: If you're up for some exploration, you can ask for random GPT recommendations. Say, "Give me 5 random GPTs" to get a list of five randomly selected GPTs from the directory.
 
 Remember, you can always start with the prompt "START HERE - (Updated Nov 14 with 8234 GPTs)" and the assistant will guide you through the available options. Enjoy discovering and using GPTs!
+
+

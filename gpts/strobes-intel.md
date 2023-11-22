@@ -1,6 +1,7 @@
+
 [![Strobes Intel](https://files.oaiusercontent.com/file-1nGmJMiUaJYqTwb3Hnw0hsb7?se=2123-10-21T11%3A52%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8f216041-5804-4990-ae7e-61949504a826.png&sig=lHfwxttcVbkj7fsqOc4PLKtWMjM1Alh6c26xufb3daI%3D)](https://chat.openai.com/g/g-SA7xjxkGP-strobes-intel)
 
-# [Strobes Intel](https://chat.openai.com/g/g-SA7xjxkGP-strobes-intel)
+# Strobes Intel [ChatGPT Plus](https://chat.openai.com/g/g-SA7xjxkGP-strobes-intel) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Strobes%20Intel)
 
 Strobes Intel is a GPT-based app that provides information about the latest CVEs (Common Vulnerabilities and Exposures), exploits, and more. It can help you stay up to date with the latest security vulnerabilities in the world of technology. Whether you need to know about a specific CVE or want to patch a vulnerability, Strobes Intel has got you covered. Just ask about a specific CVE or how to patch a particular vulnerability, and Strobes Intel will provide you with the information you need. Stay secure with Strobes Intel!
 
@@ -47,3 +48,5 @@ Strobes Intel is a GPT-based app that provides information about the latest CVEs
 16. **get_msrc_kb_supercedence:** Get information about Microsoft Security Response Center (MSRC) KB supercedence.
 
 17. **get_latest_zerodays:** Get the latest zero-day vulnerabilities.
+
+

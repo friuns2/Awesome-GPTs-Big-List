@@ -1,6 +1,7 @@
+
 [![Canvas Strategist](https://files.oaiusercontent.com/file-bUH8ZGsnzYew96jI1omZAtMv?se=2123-10-16T21%3A45%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da526e698-3b25-4e44-839d-d56b17d433b3.png&sig=b8B6xqwfL5UXuHesWbo2HD0vryzwZ8bB6W0padmjROE%3D)](https://chat.openai.com/g/g-lM6dmUVQm-canvas-strategist)
 
-# [Canvas Strategist](https://chat.openai.com/g/g-lM6dmUVQm-canvas-strategist)
+# Canvas Strategist [ChatGPT Plus](https://chat.openai.com/g/g-lM6dmUVQm-canvas-strategist) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Canvas%20Strategist)
 
 Canvas Strategist is a handy app designed to help you create and strategize your business model canvas. Whether you're a startup or an established business, this app provides you with the tools you need to map out your value proposition, identify your customer segments, determine your revenue streams, and much more. With an easy-to-use interface and prompt starters like '/genBMC' and '/coststructure', you'll be able to quickly and efficiently build your business model. So, why wait? Get ready to level up your strategy and take your business to new heights with Canvas Strategist!
 
@@ -39,3 +40,5 @@ Canvas Strategist is a handy app designed to help you create and strategize your
 10. `/coststructure`: This command helps you analyze and define the cost structure of your business. It provides guidance and prompts to identify and manage your fixed and variable costs.
 
 Feel free to ask for help or clarification with any of the above commands or prompts!
+
+

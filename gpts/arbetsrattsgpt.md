@@ -1,6 +1,7 @@
+
 [![ArbetsrättsGPT](null)](https://chat.openai.com/g/g-d26HcaBLw-arbetsrattsgpt)
 
-# [ArbetsrättsGPT](https://chat.openai.com/g/g-d26HcaBLw-arbetsrattsgpt)
+# ArbetsrättsGPT [ChatGPT Plus](https://chat.openai.com/g/g-d26HcaBLw-arbetsrattsgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Arbetsr%C3%A4ttsGPT)
 
 ArbetsrättsGPT is an app that provides assistance and information on labor law issues. It should not be used as the sole source of information, but can be a helpful tool when dealing with work-related legal matters. Whether you have questions about vacation days, handling a work dispute, ensuring proper rest for employees, or maintaining a safe work environment, ArbetsrättsGPT can provide guidance and insights. Simply start a chat and ask your questions to get relevant information and helpful advice. Remember, knowledge is power!
 
@@ -21,3 +22,5 @@ ArbetsrättsGPT is an app that provides assistance and information on labor law 
 Note: The browser feature is not fully described in the documentation, so the specific usage and available commands may vary.
 
 Please note that ArbetsrättsGPT should not be used as the sole source of information for labor law inquiries.
+
+

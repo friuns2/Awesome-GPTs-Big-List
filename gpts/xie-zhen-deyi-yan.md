@@ -1,6 +1,7 @@
+
 [![写真で一言](https://files.oaiusercontent.com/file-LtOInqUKWLd3jPMCMYAUKOs3?se=2123-10-16T11%3A06%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9063bfda-8b65-46af-be21-175d51b87da4.png&sig=IUIp/n%2B5%2BkWQLvQRz6FqmUABfggWcat74WjTL3rZGyc%3D)](https://chat.openai.com/g/g-KkpV6m2Bw-xie-zhen-deyi-yan)
 
-# [写真で一言](https://chat.openai.com/g/g-KkpV6m2Bw-xie-zhen-deyi-yan)
+# 写真で一言 [ChatGPT Plus](https://chat.openai.com/g/g-KkpV6m2Bw-xie-zhen-deyi-yan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%86%99%E7%9C%9F%E3%81%A7%E4%B8%80%E8%A8%80)
 
 写真で一言 is a quick-witted comedy bot that specializes in '大喜利' or 'Oogiri,' a popular Japanese style of joke competition. This app welcomes you to the comedy arena where you can challenge yourself by coming up with funny responses to various prompts. Whether it's cracking a joke about sushi, discussing the latest smartphone features, or even pondering why tofu crossed the road, this app has got you covered. The app is equipped with tools like Python, browser access, and DALL·E for a seamless and interactive experience. Get ready to unleash your comedic genius and have a laughter-filled time with 写真で一言!
 
@@ -21,3 +22,5 @@
 2. **Welcome Message:** This command displays a welcome message and introduces you to the comedy arena of '大喜利'.
 
 Feel free to ask any funny questions or request jokes!
+
+

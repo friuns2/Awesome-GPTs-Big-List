@@ -1,6 +1,7 @@
+
 [![Mr. Taylor](https://files.oaiusercontent.com/file-1A0LyL7wOrpqCiMmIKrADl2h?se=2123-10-17T23%3A41%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddb007a54-a498-4deb-9b1f-86104a8cf558.png&sig=BhZZOH5bPPNg1XdcxcrRo60F8q3vzwlIQoAbQpNc8H0%3D)](https://chat.openai.com/g/g-Fdlq1ielY-mr-taylor)
 
-# [Mr. Taylor](https://chat.openai.com/g/g-Fdlq1ielY-mr-taylor)
+# Mr. Taylor [ChatGPT Plus](https://chat.openai.com/g/g-Fdlq1ielY-mr-taylor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mr.%20Taylor)
 
 Mr. Taylor is your career assistant that helps you create cover letters from your resumes. Simply upload your resume and job description, and Mr. Taylor will guide you on how to improve your resume for the specific role and will even help you write a cover letter for the job. With Mr. Taylor's expertise, you'll know which skills to highlight in your application. Say goodbye to the stress of crafting cover letters and let Mr. Taylor make the process easier for you!
 
@@ -23,3 +24,5 @@ Mr. Taylor is your career assistant that helps you create cover letters from you
 3. **Cover letter creation:** Request assistance in writing a cover letter for a specific job.
 
 4. **Highlight skills:** Seek advice on which skills to emphasize in your cover letter for a particular position.
+
+

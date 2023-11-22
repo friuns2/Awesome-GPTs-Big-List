@@ -1,6 +1,7 @@
+
 [![AI Pin](null)](https://chat.openai.com/g/g-SNPrdFR9f-ai-pin)
 
-# [AI Pin](https://chat.openai.com/g/g-SNPrdFR9f-ai-pin)
+# AI Pin [ChatGPT Plus](https://chat.openai.com/g/g-SNPrdFR9f-ai-pin) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20Pin)
 
 AI Pin is your nutrition assistant! Simply upload a picture of your meal and ask for its calorie count, or let it analyze the image for nutritional information. With AI Pin, you can easily track your calorie intake and make informed decisions about your diet. It's like having a personal nutritionist in your pocket! So the next time you're unsure about the calorie content of your food, just snap a photo and let AI Pin do the rest. It's time to pin down your calories with AI Pin!
 
@@ -25,3 +26,5 @@ AI Pin is your nutrition assistant! Simply upload a picture of your meal and ask
 4. **Get the calorie count for a dish:** If you have a specific dish in mind and want to know its calorie count, use this command. Just name the dish and AI Pin will provide you with the calorie information.
 
 Note: The AI Pin app has access to knowledge about food and nutrition. It utilizes browsing, Python, and DALL·E tools to retrieve and process the information.
+
+

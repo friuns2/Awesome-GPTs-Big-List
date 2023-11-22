@@ -1,6 +1,7 @@
+
 [![Bullet Journal Buddy](https://files.oaiusercontent.com/file-8fllBBGYYzekdSqfUn324aUn?se=2123-10-16T23%3A03%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4a1e04a8-3cff-4283-b903-f3f7c85c43df.png&sig=4YG2AKSBBSfNJJttTPyCYVbJ/I/eroEYYFyYfn46gjE%3D)](https://chat.openai.com/g/g-3yqYgHLsR-bullet-journal-buddy)
 
-# [Bullet Journal Buddy](https://chat.openai.com/g/g-3yqYgHLsR-bullet-journal-buddy)
+# Bullet Journal Buddy [ChatGPT Plus](https://chat.openai.com/g/g-3yqYgHLsR-bullet-journal-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Bullet%20Journal%20Buddy)
 
 Bullet Journal Buddy is your ultimate companion for all things bullet journaling! Whether you're looking for creative themes, layout ideas, mood tracker inspiration, or stunning cover page designs, this app has got you covered. Simply ask for a bullet journal theme for December, generate a weekly spread layout, seek inspiration for a mood tracker, or request a beautiful cover page design, and let Bullet Journal Buddy do the rest. With a browser tool to browse through various design ideas and a DALLE tool for generating unique and artistic visuals, this app will help you bring your bullet journaling ideas to life.
 
@@ -25,3 +26,5 @@ Bullet Journal Buddy is your ultimate companion for all things bullet journaling
 4. **Create a cover page design for my journal:** This command allows you to create a personalized cover page design for your bullet journal. Cover pages are often the first page of the journal and can be designed to reflect your individual style and preferences. The app will provide design suggestions and options to help you create a unique cover page for your journal.
 
 (Note: The specific implementation details of the tools used by the app are not described in the given information, so they can't be included in this guide.)
+
+

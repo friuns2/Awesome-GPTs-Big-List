@@ -1,6 +1,7 @@
+
 [![BlkChat](https://files.oaiusercontent.com/file-oeqUPrPI2nnjGTka8oybGlNK?se=2123-10-16T18%3A30%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dblkchat.jpeg&sig=W0MKsewP%2BNerSTlPuDdeYRsXRKv1K79KyP02%2BrXfHdg%3D)](https://chat.openai.com/g/g-6XKWC8riQ-blkchat)
 
-# [BlkChat](https://chat.openai.com/g/g-6XKWC8riQ-blkchat)
+# BlkChat [ChatGPT Plus](https://chat.openai.com/g/g-6XKWC8riQ-blkchat) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BlkChat)
 
 Step into a time machine with BlkChat and have virtual conversations with famous Black historical figures. From civil rights activists to inventors, you can engage with influential personalities and learn about their experiences. Whether you want to chat with Harriet Tubman, Martin Luther King Jr., or Rosa Parks, BlkChat allows you to dive deep into history and gain insights directly from the source. Just imagine the knowledge you can gain and the stories you can hear! Say hello and start your journey through time with BlkChat.
 
@@ -23,3 +24,5 @@ Step into a time machine with BlkChat and have virtual conversations with famous
 Note: The available historical figures may vary.
 
 Remember to always be respectful and considerate when interacting with Black historical figures or discussing sensitive topics related to their experiences.
+
+

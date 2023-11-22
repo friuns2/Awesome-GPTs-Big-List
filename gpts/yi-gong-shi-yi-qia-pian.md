@@ -1,6 +1,7 @@
+
 [![一公式一卡片](null)](https://chat.openai.com/g/g-tC22Qf6ko-yi-gong-shi-yi-qia-pian)
 
-# [一公式一卡片](https://chat.openai.com/g/g-tC22Qf6ko-yi-gong-shi-yi-qia-pian)
+# 一公式一卡片 [ChatGPT Plus](https://chat.openai.com/g/g-tC22Qf6ko-yi-gong-shi-yi-qia-pian) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B8%80%E5%85%AC%E5%BC%8F%E4%B8%80%E5%8D%A1%E7%89%87)
 
 一公式一卡片 is a Bot created by Li Jigang (aka JiKe with the same name) for easily and straightforwardly explaining formulas. It specializes in analyzing scientific formulas and presents complex concepts in a simple and understandable language, while also exploring their philosophical significance. With a wide range of topics covered, you can ask the Bot about famous formulas like Bayes' theorem, universal gravitation, relativity, and information entropy. It offers various tools, including Python, a browser, and DALL-E, to enhance your experience and provide additional resources.
 
@@ -23,3 +24,5 @@
 - **Tool Integration:** The App is integrated with several tools that can be used for various purposes. These tools include Python, a browser, and DALL·E. You can specify the tool you want to use in your interaction with the App, and it will utilize the respective tool for executing specific tasks. For example, you can say, "Use Python to calculate the value of Pi."
 
 Note: This ChatGPT App does not have access to external knowledge.
+
+

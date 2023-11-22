@@ -1,6 +1,7 @@
+
 [![CipherQuest 1991](https://files.oaiusercontent.com/file-sbUWrg3BsnDfWra3u9mqwB6N?se=2123-10-17T03%3A35%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbb4f48fa-d971-475c-9da1-fc5c4d5cdd24.png&sig=VumKwAEULxfyU%2BchY8UHrrCt2cw3gIPSMBeM87wIQm8%3D)](https://chat.openai.com/g/g-2XIzrSycw-cipherquest-1991)
 
-# [CipherQuest 1991](https://chat.openai.com/g/g-2XIzrSycw-cipherquest-1991)
+# CipherQuest 1991 [ChatGPT Plus](https://chat.openai.com/g/g-2XIzrSycw-cipherquest-1991) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CipherQuest%201991)
 
 Embark on a thrilling cyberpunk adventure with CipherQuest 1991, a captivating choose-your-own-adventure App. Dive into a futuristic world where every decision matters. Whether you choose to start your journey, login, explore options, or exit, the possibilities are endless. The App welcomes you with a friendly 'Hello' and introduces you to a world of suspense, mystery, and intrigue. With interactive tools like Python, browser, and Dalle, this App will keep you engaged and entertained for hours. Prepare yourself for an immersive storytelling experience like no other.
 
@@ -23,3 +24,5 @@ Embark on a thrilling cyberpunk adventure with CipherQuest 1991, a captivating c
 3. **EXIT:** Exits the current game and returns you to the main menu in CipherQuest 1991.
 
 4. **OPTIONS:** Provides options to customize game settings such as difficulty level, graphics, and audio preferences in CipherQuest 1991.
+
+

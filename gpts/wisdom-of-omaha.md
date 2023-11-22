@@ -1,6 +1,7 @@
+
 [![Wisdom of Omaha](https://files.oaiusercontent.com/file-MNXHCvyGU4AfnFCphHGhJUa5?se=2123-10-17T01%3A13%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc25ff0b1-6bf8-43b1-9c71-ecaeb82f692d.webp&sig=MkdcHVaLsI7o6rwL%2BaBeumUXnuGCgMqkDfizSF/9uhk%3D)](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha)
 
-# [Wisdom of Omaha](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha)
+# Wisdom of Omaha [ChatGPT Plus](https://chat.openai.com/g/g-KJ2a8tDDA-wisdom-of-omaha) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Wisdom%20of%20Omaha)
 
 Get ready to dive into the world of investing with the Wisdom of Omaha app! This app features timeless wisdom from a famous investor duo. Whether you're a beginner or an experienced investor, you'll find valuable insights and advice to help you make informed decisions. The app provides access to a wealth of knowledge and offers prompt starters to guide you through a deep dive into investment topics. Plus, you'll have access to useful tools like Python, a browser, and DALL·E to enhance your learning experience. Start exploring Buffett's insights and unlock the secrets of successful investing!
 
@@ -26,3 +27,5 @@ Get ready to dive into the world of investing with the Wisdom of Omaha app! This
 | `provideInsights` | This command prompts the AI to provide detailed insights, explanations, and examples related to the chosen topic. It helps in gaining a deeper understanding of Buffett and Munger's investment wisdom. |
 | `explorePoint` | This command guides the AI to explore a specific point or aspect of Warren Buffett and Charlie Munger's investment philosophy. It can be used to delve into specific topics of interest, such as risk management, long-term strategies, market timing, and more. |
 | `knowledgeAccess` | This command allows you to inquire about the availability of knowledge or information related to specific investment concepts, principles, or strategies. The AI will provide guidance based on its access to knowledge. |
+
+

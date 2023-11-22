@@ -1,6 +1,7 @@
+
 [![Text Tune Up GPT](https://files.oaiusercontent.com/file-M5GzeHKJ5I9eAp4Hw0mJz8SC?se=2123-10-17T07%3A58%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db41bcd7d-e292-412c-b56a-e1d2ef444f62.png&sig=Q2NACiLJwILHzShqzeq7OaySvLj06LCjxMVjg%2Bni%2Bso%3D)](https://chat.openai.com/g/g-m2qGKrget-text-tune-up-gpt)
 
-# [Text Tune Up GPT](https://chat.openai.com/g/g-m2qGKrget-text-tune-up-gpt)
+# Text Tune Up GPT [ChatGPT Plus](https://chat.openai.com/g/g-m2qGKrget-text-tune-up-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Text%20Tune%20Up%20GPT)
 
 Text Tune Up GPT is a helpful tool for editing articles. Whether you need to improve clarity, respectfulness, or maintain your unique style, this app has got you covered. Simply send your text and let Text Tune Up do its magic. With access to knowledge and a keen eye for detail, this app ensures that your articles are polished and ready to impress. Say goodbye to tedious editing and hello to a smoother writing process!
 
@@ -29,3 +30,5 @@ Text Tune Up GPT is a helpful tool for editing articles. Whether you need to imp
 5. **Enhance flow:** If you're struggling with the flow of your article and need some guidance on how to improve it, use this command. Share the text with a request to provide suggestions for improving the flow.
 
 Note: The available commands may depend on the app version and capabilities. Refer to the app documentation for more details on specific features and usage instructions.
+
+

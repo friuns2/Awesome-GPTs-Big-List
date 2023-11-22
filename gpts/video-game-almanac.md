@@ -1,6 +1,7 @@
+
 [![Video Game Almanac](https://files.oaiusercontent.com/file-ZRWRiDR3Xjtf03j5RKXizWSR?se=2123-10-17T00%3A19%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbfe36956-065a-49a9-abe8-110690b148b8.png&sig=NSBarofwSqOUNzACFFhTuBTGBrQguTCvwXFnooySRF0%3D)](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac)
 
-# [Video Game Almanac](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac)
+# Video Game Almanac [ChatGPT Plus](https://chat.openai.com/g/g-CXIpGA7ub-video-game-almanac) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Video%20Game%20Almanac)
 
 Video Game Almanac is your ultimate gaming companion! Whether you're looking for strategies, streamers to watch, or tips and tricks for specific games like Zelda or God of War, I've got you covered. Just ask me how to speed run in Zelda, suggest a streamer for RPGs, or how to get hidden trophies in God of War, and I'll provide you with the information you need. You can also rely on me to recommend games similar to The Witcher 3. Get ready to level up your gaming experience!
 
@@ -36,3 +37,5 @@ Example usage: "How to get hidden trophies in God of War?"
 Example usage: "Recommend games like The Witcher 3"
 
 Please note that this guide provides an overview of the commands and prompts that can be used with the ChatGPT App for the Video Game Almanac. For detailed instructions and further assistance, refer to the app's documentation or instructions provided.
+
+

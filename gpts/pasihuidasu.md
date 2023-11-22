@@ -1,6 +1,7 @@
+
 [![パシフィダス](https://files.oaiusercontent.com/file-bckAPMoLeDDwLzoNxQ1PBo2J?se=2123-10-17T16%3A45%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4fd71a05-4160-48c6-8ff6-310d9afa09a4.png&sig=ynFgtyBZowFEYSZR/iwjHh6vyXamSyBvXbmeJ9ZT5Do%3D)](https://chat.openai.com/g/g-doclfy4Xc-pasihuidasu)
 
-# [パシフィダス](https://chat.openai.com/g/g-doclfy4Xc-pasihuidasu)
+# パシフィダス [ChatGPT Plus](https://chat.openai.com/g/g-doclfy4Xc-pasihuidasu) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%91%E3%82%B7%E3%83%95%E3%82%A3%E3%83%80%E3%82%B9)
 
 パシフィダス is an image creator app that allows you to unleash your creativity. With a variety of tools at your disposal, you can bring your ideas to life in the form of beautiful images. Whether you want to create stunning landscapes, cute characters, or surreal artwork, パシフィダス has got you covered. Simply input your commands and let the app do the rest. It's like having a virtual studio in your pocket! So why wait? Start exploring your artistic side and wow your friends with your incredible creations.
 
@@ -21,3 +22,5 @@
 4. **Image sharing:** The App provides options to share the generated images through different platforms or save them locally.
 
 Note: This is an example guide for a hypothetical ChatGPT App named "パシフィダス" which is described as an "image creator". The guide provides example prompts for interacting with the App and mentions some potential features and commands.
+
+

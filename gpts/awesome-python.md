@@ -1,6 +1,7 @@
+
 [![Awesome Python](https://files.oaiusercontent.com/file-UEKXuZxWdmrPiOPfoVFMrvjG?se=2123-10-17T02%3A37%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5502cfcd-dd21-4572-af84-6f00faa6c088.png&sig=gCTiBMdPRD8LdJKRYePDCHK2EW6S07V1LNejMWHR9EI%3D)](https://chat.openai.com/g/g-wOzU4bXYb-awesome-python)
 
-# [Awesome Python](https://chat.openai.com/g/g-wOzU4bXYb-awesome-python)
+# Awesome Python [ChatGPT Plus](https://chat.openai.com/g/g-wOzU4bXYb-awesome-python) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Awesome%20Python)
 
 Get all the information and resources you need about Python with Awesome Python! As an expert on Python resources, I'm here to assist you. Whether you're looking for details on Python ASGI servers, Python web frameworks, Python data analysis tools, or even a Python admin panel, I've got you covered. Just ask and I'll provide you with all the relevant information and resources. Start exploring Python with Awesome Python now!
 
@@ -27,3 +28,5 @@ Get all the information and resources you need about Python with Awesome Python!
 4. **Query about Python web frameworks:** Use this prompt to get information about Python web frameworks. You can ask about popular frameworks, their features, or their suitability for specific project requirements.
 
 Please note that the ChatGPT app is an expert on Python resources and can provide information and recommendations based on its knowledge.
+
+

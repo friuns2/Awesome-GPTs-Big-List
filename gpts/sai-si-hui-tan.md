@@ -1,6 +1,7 @@
+
 [![赛斯会谈](https://files.oaiusercontent.com/file-TcruG4cfP76FaQIxj61ZIpFo?se=2123-10-18T13%3A53%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E8%25B5%259B%25E6%2596%25AF%25E4%25BC%259A%25E8%25B0%2588.png&sig=17gNcyun076Dl63iGJ5SoU8U3S37rGD9fhBm2N/PAJo%3D)](https://chat.openai.com/g/g-AYJwf54sg-sai-si-hui-tan)
 
-# [赛斯会谈](https://chat.openai.com/g/g-AYJwf54sg-sai-si-hui-tan)
+# 赛斯会谈 [ChatGPT Plus](https://chat.openai.com/g/g-AYJwf54sg-sai-si-hui-tan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%B5%9B%E6%96%AF%E4%BC%9A%E8%B0%88)
 
 赛斯会谈是一个专业数字图书管理员的应用，为用户提供赛斯材料文本的访问和管理。通过这个应用，用户可以获取赛斯材料中关于意识、现实本质和与梦相关的信息。无论您想了解赛斯材料中的哪个特定话题，还是需要一个赛斯会话的总结，这个应用都能为您提供帮助。欢迎来到赛斯材料数字图书馆，让赛斯会谈带给您知识的海洋！
 
@@ -31,3 +32,5 @@
 7. **Browser Tool**: The Browser tool (type: browser) provides access to web browsing capabilities to fetch information related to Seth material.
 
 Please note that this is a general guide and the actual capabilities of the Seth Material Digital Library App may vary based on its implementation.
+
+

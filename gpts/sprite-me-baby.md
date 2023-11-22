@@ -1,6 +1,7 @@
+
 [![Sprite Me Baby](https://files.oaiusercontent.com/file-6WvotqJBuOXk65ro8dsDO3Rk?se=2123-10-17T23%3A26%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D886d1ef9-cf7b-438c-93b0-890258e2a9ab.png&sig=fQh4VFXyQWatX//PNvP9iU0Afaf%2BcsgGv4YS0zOlaPQ%3D)](https://chat.openai.com/g/g-liOqpzb4E-sprite-me-baby)
 
-# [Sprite Me Baby](https://chat.openai.com/g/g-liOqpzb4E-sprite-me-baby)
+# Sprite Me Baby [ChatGPT Plus](https://chat.openai.com/g/g-liOqpzb4E-sprite-me-baby) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sprite%20Me%20Baby)
 
 Sprite Me Baby is a fun and helpful app for creating 16-bit sprite and pixel art characters. Whether you're designing game assets or just exploring your artistic side, this app has got you covered. Simply name an object and Sprite Me Baby will generate multiple perspectives for you to choose from. Need a red sports car with a spoiler? How about a soldier from a Sci-Fi movie? With a wide range of options and a great starting point, this app makes creating detailed sprites a breeze. Get ready to unleash your creativity on a sprite sheet!
 
@@ -25,3 +26,5 @@ Sprite Me Baby is a fun and helpful app for creating 16-bit sprite and pixel art
 4. `Browser`: This is another tool used by the app. It may be used for various purposes, such as accessing references or resources related to sprite creation.
 
 Note: The app does not have access to knowledge and cannot provide information or instructions beyond generating sprites.
+
+

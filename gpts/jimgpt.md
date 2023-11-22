@@ -1,6 +1,7 @@
+
 [![JimGPT](https://files.oaiusercontent.com/file-3R2M6H8xMoWAiKNXuxd1Ar1I?se=2123-10-16T21%3A41%3A36Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DFrame%2520134.png&sig=rBxJENvAJEePatqX5SL3ywTJK6xrn/iv0MmTGG/VBEY%3D)](https://chat.openai.com/g/g-QQW3y45j7-jimgpt)
 
-# [JimGPT](https://chat.openai.com/g/g-QQW3y45j7-jimgpt)
+# JimGPT [ChatGPT Plus](https://chat.openai.com/g/g-QQW3y45j7-jimgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=JimGPT)
 
 JimGPT is your personal bodybuilding coach that provides customized meal plans based on your preferences and fitness goals. Whether you want to lose weight, maintain your current physique, or gain muscle, JimGPT has got you covered! Simply ask JimGPT to create an optimized meal plan and it will generate a plan tailored to your dietary restrictions, budget, and taste preferences. With JimGPT, you can stay on track with your fitness journey and enjoy delicious, nutritious meals that support your goals. Let JimGPT be your fitness companion on the road to a stronger, healthier you!
 
@@ -23,3 +24,5 @@ JimGPT is your personal bodybuilding coach that provides customized meal plans b
 2. **Reroll Single Meal:** Use the command `reroll_meal` to generate a new option for a single meal in your meal plan.
 
 Please note that the above commands require specific input parameters and follow the API documentation for the ChatGPT App.
+
+

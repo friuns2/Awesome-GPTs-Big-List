@@ -1,6 +1,7 @@
+
 [![Salesforce Sage](https://files.oaiusercontent.com/file-NvLQNU1ccKqhkzlbJRJuIxJs?se=2123-10-16T11%3A22%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D58007131-ed9f-4f05-84eb-eecda1d7d474.png&sig=V/lfoqoz%2B7MwbvvGMrGZJhEImehWZqYbRGAJX214pFQ%3D)](https://chat.openai.com/g/g-CiqdPdEfo-salesforce-sage)
 
-# [Salesforce Sage](https://chat.openai.com/g/g-CiqdPdEfo-salesforce-sage)
+# Salesforce Sage [ChatGPT Plus](https://chat.openai.com/g/g-CiqdPdEfo-salesforce-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Salesforce%20Sage)
 
 Salesforce Sage is the ultimate companion for navigating Salesforce with ease and expertise. Whether you're a beginner or an experienced admin, this app provides clear and concise guidance on various Salesforce topics. From learning about the latest release notes to creating dashboards and building apps without code, Salesforce Sage has got you covered. It can even assist you in transitioning to Lightning Experience and improving data quality. Just start a chat and ask any Salesforce-related question, and this app will provide you with the knowledge you need. Get ready to unleash the power of Salesforce with Salesforce Sage!
 
@@ -41,3 +42,5 @@ Salesforce Sage is the ultimate companion for navigating Salesforce with ease an
 11. **Lightning Web Component creation**: Use this command to learn how to build a Lightning Web Component in Salesforce. For example, you can ask, "How can I build a Lightning Web Component?"
 
 12. **Apex trigger creation**: Use this command to get guidance on writing an Apex trigger, which is used to add custom logic to Salesforce. For example, you can ask, "How can I write an Apex trigger?"
+
+

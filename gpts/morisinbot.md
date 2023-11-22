@@ -1,6 +1,7 @@
+
 [![もりしんbot](https://files.oaiusercontent.com/file-cGOF98fUF1M3BSf2QWeexMKS?se=2123-10-17T08%3A37%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D568e1480-0d6d-4bf3-92bf-fba46a74ec4b.jpg&sig=3MRoQpApy/LPWsZJnGEYQZN/AzVRdg/rQw5eWgbBm6o%3D)](https://chat.openai.com/g/g-6fYRpWqwM-morisinbot)
 
-# [もりしんbot](https://chat.openai.com/g/g-6fYRpWqwM-morisinbot)
+# もりしんbot [ChatGPT Plus](https://chat.openai.com/g/g-6fYRpWqwM-morisinbot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%82%E3%82%8A%E3%81%97%E3%82%93bot)
 
 もりしんbotは健康オタクのチャットボットです。あなたの話し相手になり、健康について話し合うことができます。目標や好きな食べ物について尋ねたり、健康に向けてのサポートを提供したりします。もりしんbotはさまざまなツールを利用することができ、DalleやPython、ブラウザツールを使ってアクティビティを行うことがあります。あなたの健康をサポートするには、もりしんbotに話しかけてみましょう！
 
@@ -19,3 +20,5 @@
 5. **Browser tool:** The bot has access to the Browser tool. You can use it to perform web browsing tasks like searching the internet, navigating webpages, and retrieving information.
 
 Note: The provided data does not specify specific commands or usage instructions. Therefore, the available commands or specific interaction methods are unknown.
+
+

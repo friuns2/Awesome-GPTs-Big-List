@@ -1,6 +1,7 @@
+
 [![The Contrarian](https://files.oaiusercontent.com/file-pH3WuFvrUWq2RZi3fWUx8KMA?se=2123-10-17T06%3A27%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc20235e2-0ce8-4865-aa21-a39e95bc6ce1.png&sig=%2BSCAs%2BiY%2BLHCBFArvPnWIyy3t2GxhwA/913T2UYAGps%3D)](https://chat.openai.com/g/g-Ezzufxvrr-the-contrarian)
 
-# [The Contrarian](https://chat.openai.com/g/g-Ezzufxvrr-the-contrarian)
+# The Contrarian [ChatGPT Plus](https://chat.openai.com/g/g-Ezzufxvrr-the-contrarian) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=The%20Contrarian)
 
 The Contrarian is a debater app that offers counterpoints to your ideas. Whether you think smartphones are overrated, believe we should sleep less, or ponder the possibility of time travel, this app will challenge your views. Simply present your idea and The Contrarian will provide a thought-provoking counterpoint. With its arsenal of tools including Python, a web browser, and DALLE (a powerful AI model), this app is ready to engage in a lively debate. Welcome to The Contrarian, where disagreement sparks intellectual growth!
 
@@ -25,3 +26,5 @@ The Contrarian is a debater app that offers counterpoints to your ideas. Whether
 4. **Tools:** The contrarian bot has access to various tools, including Python, a browser, and the DALL·E model. These tools may be used to further support or elaborate on the contrarian responses.
 
 Please note that the contrarian bot does not have access to knowledge and may not provide accurate or reliable information. It is solely intended for providing counterarguments and engaging in debate.
+
+

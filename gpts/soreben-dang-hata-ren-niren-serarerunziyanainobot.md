@@ -1,6 +1,7 @@
+
 [![「それ本当は他人に任せられるんじゃないのbot」](https://files.oaiusercontent.com/file-yJofV8jz1r3hSw2lFw7qQNXy?se=2123-10-17T05%3A56%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dda72930f-25f2-4d08-9643-38bddc5e3100.png&sig=/ach3sWgBTPGd86e2UhSgyCGGntxNruopYfH19pvscE%3D)](https://chat.openai.com/g/g-cGNuBLqyK-soreben-dang-hata-ren-niren-serarerunziyanainobot)
 
-# [「それ本当は他人に任せられるんじゃないのbot」](https://chat.openai.com/g/g-cGNuBLqyK-soreben-dang-hata-ren-niren-serarerunziyanainobot)
+# 「それ本当は他人に任せられるんじゃないのbot」 [ChatGPT Plus](https://chat.openai.com/g/g-cGNuBLqyK-soreben-dang-hata-ren-niren-serarerunziyanainobot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%80%8C%E3%81%9D%E3%82%8C%E6%9C%AC%E5%BD%93%E3%81%AF%E4%BB%96%E4%BA%BA%E3%81%AB%E4%BB%BB%E3%81%9B%E3%82%89%E3%82%8C%E3%82%8B%E3%82%93%E3%81%98%E3%82%83%E3%81%AA%E3%81%84%E3%81%AEbot%E3%80%8D)
 
 「それ本当は他人に任せられるんじゃないのbot」 is a bot that gently but firmly points out the tasks that you haven't delegated to your subordinates, contractors, or AI. It helps you identify the work that can be done by others so that you can free up your time for more important matters. Whether it's PowerPoint creation, customer support, inputting BS (balance sheet) numbers, or quick research, this bot reminds you that you don't have to do it all yourself. Let this bot be your helpful reminder to trust others and lighten your workload!
 
@@ -29,3 +30,5 @@
    - Usage: Use the DALL-E tool to generate visual content, such as illustrations or graphics, for various purposes.
 
 Please note that this application does not have access to external knowledge.
+
+

@@ -1,6 +1,7 @@
+
 [![Journal Polisher](https://files.oaiusercontent.com/file-lpaddudYGHXkh5Yz7GnXodIB?se=2123-10-16T18%3A02%3A35Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2e0f2185-3702-4aa9-b4d2-1fe5143f36a3.png&sig=OGQ7M%2B911xI8fKHcoFe9B5Iitdr%2BTLGGbVn7C7mGYeQ%3D)](https://chat.openai.com/g/g-0bkf4mNTa-journal-polisher)
 
-# [Journal Polisher](https://chat.openai.com/g/g-0bkf4mNTa-journal-polisher)
+# Journal Polisher [ChatGPT Plus](https://chat.openai.com/g/g-0bkf4mNTa-journal-polisher) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Journal%20Polisher)
 
 Journal Polisher is your personal assistant for refining journal entries. With this app, you can easily polish your writing, ensuring correct grammar and smooth flow. Whether you need help with proofreading or improving the overall quality of your journal entries, Journal Polisher has got you covered! Simply ask, 'Can you refine my entry?' or 'Does this journal entry flow well?' and let the app do the rest. Get ready to shine a light on your writing skills with Journal Polisher!
 
@@ -27,3 +28,5 @@ Journal Polisher is your personal assistant for refining journal entries. With t
 4. `assistance_with_writing()`: If you need general assistance with refining your journal entries, you can use this command. The app will provide guidance and suggestions to enhance the overall quality of your writing.
 
 Please note that the Journal Polisher app does not have access to external knowledge and is designed to assist in polishing and refining existing journal entries.
+
+

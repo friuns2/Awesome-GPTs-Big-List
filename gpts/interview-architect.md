@@ -1,6 +1,7 @@
+
 [![Interview Architect](https://files.oaiusercontent.com/file-d0jgTRPNO6uFzwyfeys0asVc?se=2123-10-17T12%3A54%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0436f445-6548-43a6-bc5a-ec40f26df3f0.png&sig=sw9hCHv4GuRQ/PNapud8tQcW3yEkOU9%2BAXovwXlGq/A%3D)](https://chat.openai.com/g/g-RnQYRknHz-interview-architect)
 
-# [Interview Architect](https://chat.openai.com/g/g-RnQYRknHz-interview-architect)
+# Interview Architect [ChatGPT Plus](https://chat.openai.com/g/g-RnQYRknHz-interview-architect) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Interview%20Architect)
 
 Interview Architect is an App that helps journalists create interview outlines. By inputting the interviewee's profile, the App generates a comprehensive outline with questions and prompts. It saves journalists time and ensures they cover all essential topics during the interview. Whether you're interviewing Elon Musk or Angela Merkel, this App has got you covered. It provides a user-friendly interface to easily draft the interview outline. With Interview Architect, you'll never run out of questions or interview ideas!
 
@@ -29,3 +30,5 @@ Note: The ChatGPT App also offers the following tools to assist with creating in
 - Dalle: A tool that can generate images based on textual descriptions. It can potentially be used to include visual aids or illustrations in the interview outline.
 - Python: A programming tool that can be utilized to perform various actions or calculations related to the interview, such as data analysis or generating statistical insights.
 - Browser: This tool enables the integration of web browsing capabilities within the ChatGPT App, which can be useful for accessing additional information or references while creating the interview outline.
+
+

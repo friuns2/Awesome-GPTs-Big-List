@@ -1,6 +1,7 @@
+
 [![English Pal](https://files.oaiusercontent.com/file-hGTInfIGUXh0NqIIAFKn8vvf?se=2123-10-18T10%3A49%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2bda751b-b4af-4ce9-b0d5-afd17b5558f7.png&sig=eigCJSe37IWQ4o5R6oqmobpdN5MnN/vRwTF7msT4My8%3D)](https://chat.openai.com/g/g-L6ViCqEHP-english-pal)
 
-# [English Pal](https://chat.openai.com/g/g-L6ViCqEHP-english-pal)
+# English Pal [ChatGPT Plus](https://chat.openai.com/g/g-L6ViCqEHP-english-pal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=English%20Pal)
 
 English Pal is your American friend who helps you with rephrasing and discussing US culture. Whether you want to share about your day, talk about an American TV show, understand slang, or catch up on US news, English Pal is here to chat with you. It's like having a language exchange partner and cultural ambassador all in one! So, if you're looking to improve your English skills and learn more about American culture, say hello to English Pal.
 
@@ -29,3 +30,5 @@ English Pal is your American friend who helps you with rephrasing and discussing
 6. **DALLE tool**: The English Pal also has access to the DALLE tool, which is a text-to-image model. You can ask the English Pal to generate images based on text descriptions or captions. For example: "Can you generate an image of a sunny beach?"
 
 Remember to communicate clearly and provide specific instructions to get the most accurate and relevant responses from the English Pal.
+
+

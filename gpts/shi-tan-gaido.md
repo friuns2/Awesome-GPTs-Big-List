@@ -1,6 +1,7 @@
+
 [![食探ガイド](https://files.oaiusercontent.com/file-TxMWX7EN0qYthG8Q3IIdj9gc?se=2123-10-17T03%3A07%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5044c713-9556-477a-aa17-95e2056bd309.png&sig=cMrFu3oxji5bIK//vLcYWeYFIwNin5tIzKvHA14efpg%3D)](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaido)
 
-# [食探ガイド](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaido)
+# 食探ガイド [ChatGPT Plus](https://chat.openai.com/g/g-yEDiYuY5O-shi-tan-gaido) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%A3%9F%E6%8E%A2%E3%82%AC%E3%82%A4%E3%83%89)
 
 食探ガイド is a specialized Japanese GPT chatbot that helps you explore restaurants. It provides recommendations, allows you to provide images of dishes, and gives detailed information about restaurants. Whether you're looking for a specific type of cuisine or simply want to discover new dining options, 食探ガイド has got you covered. With its expertise in restaurant search, it takes the guesswork out of finding the perfect place to satisfy your cravings. Get ready for a culinary adventure with 食探ガイド!
 
@@ -31,3 +32,5 @@
 
 4. `どのような店を探していますか？` (What type of restaurant are you looking for?)
    - This command is used to specify the type of restaurant or criteria the user is searching for. Users can mention preferences like cuisine, location, price range, ambience, etc.
+
+

@@ -1,6 +1,7 @@
+
 [![Puzzle Solver](https://files.oaiusercontent.com/file-ZZIC6cB4NPMOPvadXVz3K5TO?se=2123-10-17T03%3A08%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddd29e867-7278-4b54-add4-1269ea34b6ec.png&sig=vdHieYRpDnoeODluY10Fg9FflmEsqwOLaq0s3VWbSKs%3D)](https://chat.openai.com/g/g-nGJMOb5Et-puzzle-solver)
 
-# [Puzzle Solver](https://chat.openai.com/g/g-nGJMOb5Et-puzzle-solver)
+# Puzzle Solver [ChatGPT Plus](https://chat.openai.com/g/g-nGJMOb5Et-puzzle-solver) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Puzzle%20Solver)
 
 Puzzle Solver is a math puzzle-solving app that can help you find solutions to arithmetic puzzles. With given numbers, it can calculate the correct combinations to reach a target number. Whether you're trying to make 24 from 20, 20, 2, and 18, or you need to get 40 with 8, 1, 2, and 5, Puzzle Solver has got you covered. It's the perfect app to exercise your math skills and challenge yourself with mind-bending puzzles. Get ready to solve some math puzzles and impress your friends with your problem-solving abilities!
 
@@ -21,3 +22,5 @@ Puzzle Solver is a math puzzle-solving app that can help you find solutions to a
 2. **Welcome message**: The app will greet you with a welcome message when you start using it. The current welcome message is "Let's solve some math puzzles!"
 
 3. **Tools**: The app has access to various tools to assist in solving puzzles, including a DALL·E image generation tool, a browser tool, and a Python code execution tool. These tools can be used by the app to help find solutions to puzzles.
+
+

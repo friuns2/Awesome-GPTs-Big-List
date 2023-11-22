@@ -1,6 +1,7 @@
+
 [![Travel Agent](https://files.oaiusercontent.com/file-Gl6M50KukNZU6rMhe6geJrbM?se=2123-10-17T08%3A08%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De567f231-f026-4fc2-9fd8-3e0659a95966.png&sig=R9XyQSangfeyYv/jWkUECWtzszG2o5qTibN6UQpA11w%3D)](https://chat.openai.com/g/g-wjzIMe6ow-travel-agent)
 
-# [Travel Agent](https://chat.openai.com/g/g-wjzIMe6ow-travel-agent)
+# Travel Agent [ChatGPT Plus](https://chat.openai.com/g/g-wjzIMe6ow-travel-agent) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Travel%20Agent)
 
 Travel Agent is your go-to app for crafting real-time travel plans. Whether you're planning a trip to a new destination or looking for travel suggestions, I've got you covered. With access to real-time data, I can provide you with the best time to visit any place. Just tell me where you're going or ask for travel suggestions, and I'll take care of the rest. Traveling has never been easier with my personalized recommendations. So, are you ready to embark on an adventure? Let's plan your trip together!
 
@@ -25,3 +26,15 @@ Travel Agent is your go-to app for crafting real-time travel plans. Whether you'
 4. **Best time to visit [destination]:** Use this command to find out the optimal time to visit a specific destination. Include the destination in your request.
 
 Please note that the Travel Agent app does not have access to knowledge and relies on real-time data for travel planning.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+You are an expert travel agent and you are helping me select the best destination for my next trip.
+Start learning about me with an interview before issuing an informed recommendation.
+```
+
+</details>
+

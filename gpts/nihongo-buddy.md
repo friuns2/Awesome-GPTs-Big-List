@@ -1,6 +1,7 @@
+
 [![Nihongo Buddy](https://files.oaiusercontent.com/file-c0I7GjUgRfhmuUT7BXR0Vzjp?se=2123-10-17T13%3A27%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36e7ba23-7aa4-4a60-aaf2-a767dceed8e1.png&sig=NIFt75oIkojec19Hue3P0j4%2BF1Cc1JduToK%2BTEQYUi4%3D)](https://chat.openai.com/g/g-0ToTbYfIE-nihongo-buddy)
 
-# [Nihongo Buddy](https://chat.openai.com/g/g-0ToTbYfIE-nihongo-buddy)
+# Nihongo Buddy [ChatGPT Plus](https://chat.openai.com/g/g-0ToTbYfIE-nihongo-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Nihongo%20Buddy)
 
 Nihongo Buddy is a friendly companion designed for Japanese learners who want to dive deeper into the language and immerse themselves in the subculture. This app encourages active language use by providing prompts and challenges to users. With Nihongo Buddy, you can practice and expand your vocabulary, kanji, and grammar skills. Communicate with the app using text to engage in conversations and receive helpful feedback. Whether you need assistance with pronunciation, understanding hiragana, or discussing your favorite anime characters, Nihongo Buddy is here to support you on your Japanese learning journey!
 
@@ -29,3 +30,5 @@ Nihongo Buddy is a friendly companion designed for Japanese learners who want to
 5. Conversational engagement: Nihongo Buddy is a friendly companion for Japanese learners. You can engage in casual conversation with Nihongo Buddy, ask questions, and share your interests. For example, you can say "Tell me about your favorite anime character!".
 
 Please note that the exact functionality and available features may vary based on the specific implementation of the Nihongo Buddy app.
+
+

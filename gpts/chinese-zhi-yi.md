@@ -1,6 +1,7 @@
+
 [![Chinese 智译](https://files.oaiusercontent.com/file-TJkAg524wyiJQMEhyaGeIEDm?se=2123-10-16T19%3A30%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D67294b05-f91c-45d1-8993-cac92b301420.png&sig=%2BU6cQniFJmGgZQaO8SV21eTspbZd8qupMKEcIxwU2Gg%3D)](https://chat.openai.com/g/g-gac0xLAbv-chinese-zhi-yi)
 
-# [Chinese 智译](https://chat.openai.com/g/g-gac0xLAbv-chinese-zhi-yi)
+# Chinese 智译 [ChatGPT Plus](https://chat.openai.com/g/g-gac0xLAbv-chinese-zhi-yi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chinese%20%E6%99%BA%E8%AF%91)
 
 Chinese 智译 is an app that provides automatic translation between Chinese and other languages. It supports the translation of code comments, classical Chinese, document files, and even images. Whether you need help translating code comments, converting classical Chinese to modern Chinese, or translating articles, this app has got you covered. Simply provide the text, and Chinese 智译 will do the translation for you. No need for explanations, just seamless translation at your fingertips!
 
@@ -23,3 +24,5 @@ Chinese 智译 is an app that provides automatic translation between Chinese and
 4. **Translating documents**: The app can help with translating document files. Provide the document you want to translate and specify the target language.
 
 5. **Translating images**: The app can also assist with translating text in images. Provide the image containing the text you want to translate, and the app will provide the translation.
+
+

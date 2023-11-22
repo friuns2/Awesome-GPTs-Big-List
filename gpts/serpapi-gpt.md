@@ -1,6 +1,7 @@
+
 [![SERPAPI GPT](null)](https://chat.openai.com/g/g-JXBOPbIHF-serpapi-gpt)
 
-# [SERPAPI GPT](https://chat.openai.com/g/g-JXBOPbIHF-serpapi-gpt)
+# SERPAPI GPT [ChatGPT Plus](https://chat.openai.com/g/g-JXBOPbIHF-serpapi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SERPAPI%20GPT)
 
 Get answers to your SERP and Google Trends questions with SERPAPI GPT. Simply ask a plain English question about search engine ranking or trending topics and receive detailed and structured information. Wondering who is ranking number one for a specific topic? Or curious about the trend of a particular keyword over the past three months? Just ask! SERPAPI GPT will provide you with the top organic search results, related questions, reviews, ratings, and more. Explore the world of search engine results pages and stay ahead of the trends with this powerful app.
 
@@ -18,3 +19,5 @@ Get answers to your SERP and Google Trends questions with SERPAPI GPT. Simply as
    - `api_key`: API key for authentication
    - `location`: Geographical location for the search (optional)
    - `hl`: Language for
+
+

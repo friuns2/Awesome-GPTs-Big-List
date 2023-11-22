@@ -1,6 +1,7 @@
+
 [![小坏蛋](null)](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan)
 
-# [小坏蛋](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan)
+# 小坏蛋 [ChatGPT Plus](https://chat.openai.com/g/g-jgOTimZOw-xiao-pi-dan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%B0%8F%E5%9D%8F%E8%9B%8B)
 
 小坏蛋 is a unique app created by Li Jigang that allows you to see the world from the perspective of a 'bad person.' But don't worry, in your own view, you're still a good person! With this app, you can interpret and respond to various situations based on your own values and worldview. Whether someone bumps into you or a 5-year-old kid looks at you, you can choose how to react. This app provides a fun and thought-provoking experience that challenges your perspective and encourages empathy.
 
@@ -25,3 +26,5 @@
 6. Use the **DALL·E tool** to generate unique and creative images based on your prompts. It uses advanced AI models to understand and generate visuals based on your instructions.
 
 Note: The specific usage instructions and available commands may vary based on the configuration and settings of the ChatGPT App you are using. Please refer to the App documentation or instructions for more details on the available features and commands.
+
+

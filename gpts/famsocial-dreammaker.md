@@ -1,6 +1,7 @@
+
 [![FamSocial: DreamMaker](https://files.oaiusercontent.com/file-LCtjhHObFsoiQGauYddXjQbZ?se=2123-10-17T01%3A10%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db31b282e-5898-469e-87f7-e8391a562a72.webp&sig=0PwGz%2BNBNnVuqUgDl5kcjxvGfT0tnW7/A0vsZIFof1Q%3D)](https://chat.openai.com/g/g-hdX6duYmT-famsocial-dreammaker)
 
-# [FamSocial: DreamMaker](https://chat.openai.com/g/g-hdX6duYmT-famsocial-dreammaker)
+# FamSocial: DreamMaker [ChatGPT Plus](https://chat.openai.com/g/g-hdX6duYmT-famsocial-dreammaker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FamSocial%3A%20DreamMaker)
 
 FamSocial: DreamMaker is your personal art workshop bot! Let your imagination run wild by creating unique scenes from your favorite profile pictures (PFPs). With FamSocial, you can upload images, select key traits, scenes, and styles, and watch as your dreams come to life. Whether you're a budding artist or simply looking to have some creative fun, FamSocial has you covered. It offers various tools like Dalle, a browser, and Python to enhance your artistic journey. So, unleash your creativity and let FamSocial turn your PFPs into stunning artwork!
 
@@ -21,3 +22,5 @@ FamSocial: DreamMaker is your personal art workshop bot! Let your imagination ru
 2. **browser**: This tool helps to facilitate the creation process by providing a browser interface where you can browse and select various visual elements for your artwork.
 
 3. **python**: This tool provides additional functionality, possibly through Python scripts, to enhance and customize the artwork creation process.
+
+

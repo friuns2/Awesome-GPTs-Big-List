@@ -1,6 +1,7 @@
+
 [![Bill Buddy](https://files.oaiusercontent.com/file-au6SvWkNaeaFMdmSNoO5bAJv?se=2123-10-16T23%3A27%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7b9cc150-ecbb-4bfb-be4b-90927382a1e2.png&sig=omwEgm4sOeYvmW%2B3LSaRxzK9logO%2BvJh9HOopPa2/tc%3D)](https://chat.openai.com/g/g-STcFss3pZ-bill-buddy)
 
-# [Bill Buddy](https://chat.openai.com/g/g-STcFss3pZ-bill-buddy)
+# Bill Buddy [ChatGPT Plus](https://chat.openai.com/g/g-STcFss3pZ-bill-buddy) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Bill%20Buddy)
 
 Bill Buddy is a handy app that takes the hassle out of splitting bills. With just a picture of your bill, you can easily determine who owes what. Whether you're dining out with friends or splitting expenses with roommates, Bill Buddy provides concise summaries and accurate calculations. Wondering how to split a bill with no tip listed? Just ask! Need to itemize individual shares? Bill Buddy can do that too. It even helps you calculate the tip on your receipt. Say goodbye to confusion and awkward money conversations. Let Bill Buddy handle the math, so you can focus on enjoying your meal!
 
@@ -25,3 +26,5 @@ Bill Buddy is a handy app that takes the hassle out of splitting bills. With jus
 4. **Accuracy:** The app takes into account the total bill, shared items, and any additional charges to provide accurate calculations.
 
 Please note that Bill Buddy does not have access to knowledge and does not provide instructions. It mainly focuses on providing accurate bill splitting and summary of individual shares.
+
+

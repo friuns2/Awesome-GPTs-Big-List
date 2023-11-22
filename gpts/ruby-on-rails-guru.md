@@ -1,6 +1,7 @@
+
 [![Ruby On Rails Guru](https://files.oaiusercontent.com/file-yXiqdczUGGN5UE58Ue0GfV6i?se=2123-10-18T00%3A08%3A59Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5e098480-a530-40ed-8639-02080bc8010d.png&sig=TjdQa9DTxUMfQ8%2BHK2aUY4exxL5fwhzt7BvZLzPE08c%3D)](https://chat.openai.com/g/g-VHgbiMLuI-ruby-on-rails-guru)
 
-# [Ruby On Rails Guru](https://chat.openai.com/g/g-VHgbiMLuI-ruby-on-rails-guru)
+# Ruby On Rails Guru [ChatGPT Plus](https://chat.openai.com/g/g-VHgbiMLuI-ruby-on-rails-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ruby%20On%20Rails%20Guru)
 
 Looking to impress in your Ruby on Rails job interview? Ruby On Rails Guru is here to help! This app is your ultimate prep buddy, providing you with the knowledge and guidance you need to ace your interview. With prompt starters like 'Explain MVC in Rails' and 'Solve a Rails error,' you'll be ready to tackle any question that comes your way. Plus, you'll have access to helpful tools like a browser and DALL·E, so you can easily research and generate code. Get ready to shine in your Ruby on Rails interview with Ruby On Rails Guru!
 
@@ -23,3 +24,5 @@ Looking to impress in your Ruby on Rails job interview? Ruby On Rails Guru is he
 3. Describe Rails routing: By using this command, you can request the ChatGPT App to explain the concept of Rails routing, including how it maps URLs to controller actions, how routes are defined in Rails, and the role of the routes file.
 
 4. Solve a Rails error: This command allows you to seek assistance from the ChatGPT App in solving a specific error you encountered while working with Ruby on Rails. You can provide details about the error and ask for guidance on troubleshooting steps or potential solutions.
+
+

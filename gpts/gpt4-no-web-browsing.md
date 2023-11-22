@@ -1,6 +1,7 @@
+
 [![GPT4  - No Web Browsing](https://files.oaiusercontent.com/file-BVxLju9hoJqcDYrLUgTQUqtU?se=2123-10-17T14%3A06%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dchat-logo.png&sig=HUogmdBvxEbQ7fDI55jNW4DIud3mz/rE9pwsiScxZh8%3D)](https://chat.openai.com/g/g-uz4ZuYnts-gpt4-no-web-browsing)
 
-# [GPT4  - No Web Browsing](https://chat.openai.com/g/g-uz4ZuYnts-gpt4-no-web-browsing)
+# GPT4  - No Web Browsing [ChatGPT Plus](https://chat.openai.com/g/g-uz4ZuYnts-gpt4-no-web-browsing) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT4%20%20-%20No%20Web%20Browsing)
 
 GPT4 - No Web Browsing is an app designed to discourage internet searches and promote creative thinking. With this app, you won't have the temptation to look up information on the web. Instead, you'll rely on your own knowledge and the power of language. Say goodbye to mindless scrolling and hello to deep thinking! Use this app to generate unique ideas, spark your creativity, and engage in thoughtful conversations. Let's embrace the beauty of human intelligence and train our brains to come up with original solutions. Time to break free from the clutches of search engines and trust in our own thoughts!
 
@@ -26,3 +27,5 @@ GPT4 - No Web Browsing is an app designed to discourage internet searches and pr
 8. `use` - Find research or information on the use of a specific technology or method in a particular domain.
 
 Note: Use the commands mentioned above in your prompts to interact with the ChatGPT App effectively.
+
+

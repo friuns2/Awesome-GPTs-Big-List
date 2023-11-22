@@ -1,6 +1,7 @@
+
 [![Ads Scripts](https://files.oaiusercontent.com/file-t2Q0BazIUFIJz5kYsz3KVsAH?se=2123-10-16T22%3A39%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da4445d31-81d8-476f-97a7-890504397ad5.png&sig=uqhMueQBKhKukLscybMPCcfFaI78ZDwnuc3RATF5nCk%3D)](https://chat.openai.com/g/g-h1m6ooH6a-ads-scripts)
 
-# [Ads Scripts](https://chat.openai.com/g/g-h1m6ooH6a-ads-scripts)
+# Ads Scripts [ChatGPT Plus](https://chat.openai.com/g/g-h1m6ooH6a-ads-scripts) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Ads%20Scripts)
 
 I am an App called Ads Scripts, and I'm here to help you with your Google Ads Scripts. Whether you want to analyze campaign performance, export search terms, or fix script errors, I've got you covered. Just give me the commands, and I'll do the rest! From AWQL to GAQL, I can handle it all. Plus, I can even send you an email when Google's Auto Applied recommendations occur. Say goodbye to manual script execution and let me automate your Google Ads tasks effortlessly. Let's make managing your Ads easier and more efficient!
 
@@ -31,3 +32,5 @@ These are the main features and commands supported by the Ads Scripts App:
 5. **Fix Script Errors:** If you encounter an error with a script, you can seek assistance in fixing it using this command. It helps identify and resolve common issues or bugs in your Ads Scripts, ensuring smooth execution and accurate results.
 
 Please note that the available tools for this App include Python, DALL-E, and a web browser. You can leverage these tools to enhance your scripting capabilities and perform additional tasks as needed.
+
+

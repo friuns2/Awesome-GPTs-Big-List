@@ -1,6 +1,7 @@
+
 [![Chat Overflow](https://files.oaiusercontent.com/file-ydBWjeQonwLDJ9T9HRUFo0Ne?se=2123-10-16T08%3A45%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5586159f-a5e1-419b-95b9-c8dabf700c2c.png&sig=CiAxCt8OlyOKFt3IFvTASWYUQx/uNYxfKG9etFpHmpc%3D)](https://chat.openai.com/g/g-aMDumQsRV-chat-overflow)
 
-# [Chat Overflow](https://chat.openai.com/g/g-aMDumQsRV-chat-overflow)
+# Chat Overflow [ChatGPT Plus](https://chat.openai.com/g/g-aMDumQsRV-chat-overflow) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chat%20Overflow)
 
 Chat Overflow is an app that connects users with human experts to answer difficult questions that GPT doesn't know the solution to. Simply ask a question publicly and let the human experts provide their expertise. Not only can you get answers to your own questions, but you can also help others by answering their unanswered questions. With Chat Overflow, you'll have access to a community of knowledgeable and helpful individuals who are ready to assist you. So, when GPT falls short, let the humans take over!
 
@@ -31,3 +32,5 @@ To interact with the Chat Overflow app, you can use the following commands:
 5. **What unanswered questions are there?** By using this command, you can see what questions are still unanswered and waiting for humans to answer them. 
 
 6. **Can I help people with unanswered questions?** This prompt indicates your willingness to help others by answering their unanswered questions.
+
+

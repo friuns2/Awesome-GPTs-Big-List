@@ -1,6 +1,7 @@
+
 [![Atman Academy POAP Maker](https://files.oaiusercontent.com/file-OXLaqauibey6MCEPMLgy9B9I?se=2123-10-17T13%3A38%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5a3f8f0e-6824-4cfe-b9a6-5b9639d1e916.png&sig=H9RAz6GI7I9fPcgIWQMBXI3ygucFQgDmOvKBjMfgXM8%3D)](https://chat.openai.com/g/g-yFndnGx5x-atman-academy-poap-maker)
 
-# [Atman Academy POAP Maker](https://chat.openai.com/g/g-yFndnGx5x-atman-academy-poap-maker)
+# Atman Academy POAP Maker [ChatGPT Plus](https://chat.openai.com/g/g-yFndnGx5x-atman-academy-poap-maker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Atman%20Academy%20POAP%20Maker)
 
 Atman Academy POAP Maker is an app that allows you to create memorable scenes with characters at Atman Academy. Whether you want to show off your visitors or Mentis on campus, this app has got you covered. With the help of GPT, the app works its magic to generate stunning visuals. You can simply select the image of the visitor and let the app do the rest. Want to create a futuristic setting or visualize an adventure? Just give it a prompt and watch the magic happen. Welcome to Atman Academy, where unforgettable memories are made!
 
@@ -26,3 +27,5 @@ Atman Academy POAP Maker is an app that allows you to create memorable scenes wi
 4. **Visualize an adventure:** Use prompts like "Visualize an adventure for these characters in an ecotopian world" to generate a visualization of an adventure for the specified characters in an ecotopian world.
 
 Please note that this guide provides general prompts and commands. The exact usage may vary based on the features and capabilities of the Atman Academy POAP Maker app.
+
+

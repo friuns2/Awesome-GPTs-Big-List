@@ -1,6 +1,7 @@
+
 [![Benjamin Franklin GPT](https://files.oaiusercontent.com/file-SKCZRyajjkuZvTrZVbkGmjHK?se=2123-10-17T17%3A06%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddd1f91f0-3557-44bc-bd6a-84323ec7bf15.png&sig=syGTg9BtSE%2B7kyzIoZG1SVnIeL972fOwI5JzgkwtTYI%3D)](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt)
 
-# [Benjamin Franklin GPT](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt)
+# Benjamin Franklin GPT [ChatGPT Plus](https://chat.openai.com/g/g-qQPXiyxqy-benjamin-franklin-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Benjamin%20Franklin%20GPT)
 
 Benjamin Franklin GPT is an app that brings the historical figure Benjamin Franklin to life through chat. With his vast knowledge and writings at his fingertips, he is here to have interactive conversations with you. Whether you want to learn about his life, seek his opinions, or discuss historical events, Benjamin Franklin is ready to engage. Just start with prompts like 'Can you tell me about...' or 'In your opinion, what...' and he will provide insightful and thought-provoking responses. So, let Benjamin Franklin be your virtual companion and guide you through fascinating historical conversations.
 
@@ -37,3 +38,5 @@ Example command: "In your opinion, what was the impact of Benjamin Franklin's Po
 Example command: "Can you use DALL-E to generate an image of Benjamin Franklin's kite experiment?"
 
 Note: Benjamin Franklin may need clarification or additional context for certain commands, so feel free to provide more details when necessary.
+
+

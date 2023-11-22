@@ -1,6 +1,7 @@
+
 [![ダンジョン エクスプローラ](https://files.oaiusercontent.com/file-D4iwWH2RaHzCu7gugWJ7SUg1?se=2123-10-18T00%3A34%3A38Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D69aa58d0-2526-476b-9f1f-f07acac16160.png&sig=ZtoWi4kP9i2W1EBJy7M1qe8IdXYIe/lpzdCBXBS/HPA%3D)](https://chat.openai.com/g/g-PMbFwsvp8-danziyon-ekusupurora)
 
-# [ダンジョン エクスプローラ](https://chat.openai.com/g/g-PMbFwsvp8-danziyon-ekusupurora)
+# ダンジョン エクスプローラ [ChatGPT Plus](https://chat.openai.com/g/g-PMbFwsvp8-danziyon-ekusupurora) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%80%E3%83%B3%E3%82%B8%E3%83%A7%E3%83%B3%20%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AD%E3%83%BC%E3%83%A9)
 
 Create your own detailed and exciting dungeon adventures with ダンジョン エクスプローラ! This app allows you to craft intricate roguelike game content, immersing players in thrilling quests and challenges. Whether you're a seasoned game designer or a novice adventurer, ダンジョン エクスプローラ provides the tools you need to bring your imagination to life. Dive into the dungeon and unleash your creativity! With intuitive browser and DALLE integration, designing captivating environments and characters has never been easier. Get ready to embark on an epic journey of game creation!
 
@@ -29,3 +30,5 @@ Create your own detailed and exciting dungeon adventures with ダンジョン �
 5. **Creating loot and items**: With the help of the browser tool, you can search for different types of loot and items suitable for your dungeon adventure. You can specify the rarity, attributes, and effects of the items to add depth and excitement to your game.
 
 Remember to have fun and unleash your creativity while crafting your dungeon adventure!
+
+

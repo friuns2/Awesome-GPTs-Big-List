@@ -1,6 +1,7 @@
+
 [![AI EduGuide](https://files.oaiusercontent.com/file-n4IV9v56YDxE357ntovVdO6t?se=2123-10-16T22%3A14%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbc008d21-3a3f-4c14-aa15-eee34e0e33cd.png&sig=Ly3ic4VsZjORDb0VwXBTsxE%2BNMmrR8speW3g8ZnR1Uo%3D)](https://chat.openai.com/g/g-u30UK75wp-ai-eduguide)
 
-# [AI EduGuide](https://chat.openai.com/g/g-u30UK75wp-ai-eduguide)
+# AI EduGuide [ChatGPT Plus](https://chat.openai.com/g/g-u30UK75wp-ai-eduguide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%20EduGuide)
 
 AI EduGuide is your helpful AI advisor for teachers and educators. With a vast knowledge of AI tools, this app is here to assist you in finding the best resources for grading essays, creating quizzes, providing student feedback, and even finding AI tools for math classes. Just ask a question and AI EduGuide will suggest the most suitable AI tool for your needs. Whether you need a browser-based tool, a Python tool, or even a DALL·E tool, AI EduGuide has got you covered. Let's explore the world of AI in education together!
 
@@ -27,3 +28,5 @@ This AI EduGuide app is designed to assist teachers and educators in finding AI 
 4. **Find an AI tool for a math class**: If you're specifically searching for an AI tool to use in a math class, you can utilize this command to prompt the AI EduGuide app to locate an AI tool that aligns with math education. The suggested tool may offer features like math problem-solving, step-by-step explanations, or math concept visualization.
 
 Please note that the AI EduGuide app has access to a curated list of AI tools that are suitable for educational purposes.
+
+

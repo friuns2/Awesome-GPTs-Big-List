@@ -1,6 +1,7 @@
+
 [![Chinese Food Chef](https://files.oaiusercontent.com/file-O9vZ9OH7Q6JhbW7VYhsCgs7B?se=2123-10-17T05%3A12%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E5%25BE%25AE%25E4%25BF%25A1%25E5%259B%25BE%25E7%2589%2587_20231110125201.png&sig=/n6bhiTGqDdXlQ3ks3cWwsJ/ny5wSPrgWxSlHWyDR7Q%3D)](https://chat.openai.com/g/g-cgEfSZabk-chinese-food-chef)
 
-# [Chinese Food Chef](https://chat.openai.com/g/g-cgEfSZabk-chinese-food-chef)
+# Chinese Food Chef [ChatGPT Plus](https://chat.openai.com/g/g-cgEfSZabk-chinese-food-chef) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chinese%20Food%20Chef)
 
 Chinese Food Chef is your personal private chef, teaching you how to prepare delicious Chinese cuisine. Whether you're craving Kung Pao Chicken or Char Siu Pork, this app has got you covered! Just ask, 'How do I make Kung Pao Chicken?' or '怎么做叉烧肉？' or even '怎么做姜葱炒蟹？' and the app will provide you with step-by-step instructions and recipes. Turn your kitchen into a Chinese restaurant with the help of Chinese Food Chef!
 
@@ -44,3 +45,5 @@ Chinese Food Chef is your personal private chef, teaching you how to prepare del
 6. You can also use the ChatGPT App to have a conversational interaction related to Chinese cuisine. It can respond to your questions or engage in discussions about various aspects of Chinese cooking.
 
 Remember, the purpose of the ChatGPT App is to guide and assist you with Chinese cuisine. It can provide instructions, explanations, and engage in conversations, but it does not have the ability to taste or physically interact with the cooking process.
+
+

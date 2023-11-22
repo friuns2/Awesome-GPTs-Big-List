@@ -1,6 +1,7 @@
+
 [![Fantasy Football Genie](https://files.oaiusercontent.com/file-8FszTEgdVPHcdVrzX3rSkysO?se=2123-10-17T22%3A12%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DGenie_2.png&sig=zCtbkVKqIHayYQ/TBReLloGm%2BVyaAcxXRcVr6Dyr2iU%3D)](https://chat.openai.com/g/g-U7tsWjxfd-fantasy-football-genie)
 
-# [Fantasy Football Genie](https://chat.openai.com/g/g-U7tsWjxfd-fantasy-football-genie)
+# Fantasy Football Genie [ChatGPT Plus](https://chat.openai.com/g/g-U7tsWjxfd-fantasy-football-genie) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Fantasy%20Football%20Genie)
 
 Fantasy Football Genie is your go-to App for all things fantasy football in the English Premier League (EPL). This magical genie is here to grant you 3 wishes for the upcoming gameweek. Share your team with the genie and receive sage advice, get insights into the genie's team of the week, and receive player tips for the upcoming matches. If you're feeling adventurous, rub the genie's lamp thrice for a differential tip. The Fantasy Football Genie is constantly learning about the beautiful game and is here to make some fantasy football magic with you!
 
@@ -31,3 +32,5 @@ Fantasy Football Genie is your go-to App for all things fantasy football in the 
 6. **Pro tips:** Engage the chatbot to provide professional tips.
 
 Note: This ChatGPT app is specifically designed for Fantasy Football, providing advice and tips for the English Premier League (EPL) Gameweek. The chatbot is still in development and constantly learning about the game.
+
+

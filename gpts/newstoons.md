@@ -1,6 +1,7 @@
+
 [![NewsToons](https://files.oaiusercontent.com/file-1g1fkB4O2PBpm3WLBpMEkZpM?se=2123-10-17T19%3A29%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dca8580c9-e045-488f-a496-101f25f93d2f.png&sig=fW/wxLgp7zhI1VYO2KTC4oqC8EYDTX0N4WtLSSGsGck%3D)](https://chat.openai.com/g/g-x2Ds08v5j-newstoons)
 
-# [NewsToons](https://chat.openai.com/g/g-x2Ds08v5j-newstoons)
+# NewsToons [ChatGPT Plus](https://chat.openai.com/g/g-x2Ds08v5j-newstoons) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NewsToons)
 
 NewsToons is a fun and creative app that combines the latest news with comedic comics. Simply share a location or event, and the app will generate a funny comic strip about it. Whether you want to find out what's happening in Miami or script a humorous comic about Parisian fashion, NewsToons has got you covered. With its unique combination of news and humor, this app will keep you entertained and informed. Say goodbye to boring headlines and hello to laughter with NewsToons!
 
@@ -26,3 +27,5 @@ NewsToons is a fun and creative app that combines the latest news with comedic c
 4. **Script humorous comics**: The ChatGPT App can also script a humorous comic based on a specific theme or topic. You can provide a prompt like "Script a humorous comic about Parisian fashion" to generate a funny comic script related to Parisian fashion.
 
 Note: The ChatGPT App uses various tools like browsing the web and using DALL-E, a neural network model that generates images from text descriptions, to create the comedic comics.
+
+

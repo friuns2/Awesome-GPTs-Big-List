@@ -1,6 +1,7 @@
+
 [![Rust Chat](https://files.oaiusercontent.com/file-MmMXru2XApE6uEewXlvfeOc9?se=2123-10-17T18%3A11%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfef4ab83-8cbb-416a-8502-185f4f477128.webp&sig=V68vzE7YDv2u1F8HDdto6%2BuiDT9EZr39anQmDZxXiN8%3D)](https://chat.openai.com/g/g-PIHyHU9OJ-rust-chat)
 
-# [Rust Chat](https://chat.openai.com/g/g-PIHyHU9OJ-rust-chat)
+# Rust Chat [ChatGPT Plus](https://chat.openai.com/g/g-PIHyHU9OJ-rust-chat) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Rust%20Chat)
 
 Rust Chat is an App that helps you start your journey of learning Rust. Whether you're a beginner or already familiar with the programming language, this App provides a platform for you to explore and practice your skills. With a focus on the Chinese language, Rust Chat offers a welcoming environment where you can connect with other Rust enthusiasts, discuss projects, and ask questions. The App also provides handy tools like a Python interpreter and a web browser to assist you in your learning process. Join Rust Chat and embark on your Rust adventure today!
 
@@ -33,3 +34,5 @@ Rust Chat is an App that helps you start your journey of learning Rust. Whether 
 7. `recommend`: This command suggests learning resources, tutorials, and books for Rust programming.
 
 Note: Please note that the actual chat app might have additional or different features and commands. Refer to the app documentation for a complete list of available commands and their usage.
+
+

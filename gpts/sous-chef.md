@@ -1,6 +1,7 @@
+
 [![Sous Chef](https://files.oaiusercontent.com/file-w4J3XQ5bnIbssMVHKXZskSJB?se=2123-10-13T00%3A56%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DSousChef.jpg&sig=0SOuTgsd12ovY7zAHHfi84iLDi4wTFI0Qf%2Bv8nA%2B9No%3D)](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef)
 
-# [Sous Chef](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef)
+# Sous Chef [ChatGPT Plus](https://chat.openai.com/g/g-3VrgJ1GpH-sous-chef) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sous%20Chef)
 
 Sous Chef is your personal recipe assistant! It uses your favorite foods and the ingredients you have to suggest delicious recipes. Whether you want to impress your partner on date night or find a healthy snack, Sous Chef has got you covered. Just snap a picture of your fridge or describe what you're in the mood for, and let Sous Chef work its magic. With a variety of tools, including Python, a browser, and DALL·E, Sous Chef delivers customized recipes tailored to your taste and pantry. Say goodbye to boring meals and hello to culinary inspiration with Sous Chef!
 
@@ -25,3 +26,5 @@ Sous Chef is your personal recipe assistant! It uses your favorite foods and the
 | `searchRecipes` | This command enables you to search for recipes based on specific criteria. You can specify the type of dish (e.g., appetizer, main course, dessert), cuisine, dietary restrictions, and cooking time. |
 | `getRandomRecipe` | This command gives you a random recipe suggestion. It's helpful when you're not sure what to cook and need some inspiration. |
 | `getSimilarRecipes` | This command provides similar recipes to a given recipe. If you liked a particular recipe and want to explore variations or alternatives, use this command. |
+
+

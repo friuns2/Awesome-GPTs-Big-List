@@ -1,6 +1,7 @@
+
 [![中文学术助手](https://files.oaiusercontent.com/file-fo6O3ny5qNeUBTe0DkeOlFQC?se=2123-10-19T23%3A47%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc6a996aa-b081-4339-8b97-e223ece818b4.png&sig=gtJ44wjTKCLfsU7fmZFUDHdLDbxFYlX22B7b%2By2NwY8%3D)](https://chat.openai.com/g/g-KSZGI3uo3-zhong-wen-xue-zhu-zhu-shou)
 
-# [中文学术助手](https://chat.openai.com/g/g-KSZGI3uo3-zhong-wen-xue-zhu-zhu-shou)
+# 中文学术助手 [ChatGPT Plus](https://chat.openai.com/g/g-KSZGI3uo3-zhong-wen-xue-zhu-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B8%AD%E6%96%87%E5%AD%A6%E6%9C%AF%E5%8A%A9%E6%89%8B)
 
 中文学术助手 is a scholarly assistant that provides support for all stages of paper writing. Whether you need help improving the sentence structure of your paper, analyzing data, choosing the right citation format, or efficiently managing academic literature, this app has got you covered. With a friendly welcome message of '您好，让我们一起为更新的学术成果努力！' (Hello, let's strive for updated academic achievements together!), 中文学术助手 offers a range of tools including a browser, Python, and DALL·E integration to assist you in your research and writing process. Get ready to excel in your scholarly endeavors with this app!
 
@@ -30,3 +31,5 @@ Here are the tools available in this app:
 To interact with this app, you can start with one of the example prompts provided above. Simply choose a prompt that aligns with your specific need or question, and the app will offer guidance and support based on the prompt.
 
 Please note that this app does not have access to knowledge and cannot directly access specific resources or databases. Its purpose is to assist you with general advice and provide tools that can aid your academic endeavors.
+
+

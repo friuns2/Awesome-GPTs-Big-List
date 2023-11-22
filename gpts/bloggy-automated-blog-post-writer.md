@@ -1,6 +1,7 @@
+
 [![Bloggy: Automated Blog Post Writer](https://files.oaiusercontent.com/file-yN6Pz708NERE4NBraTFNLgEy?se=2123-10-19T17%3A57%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcd166778-ea7e-4e44-b9d1-6f4a0d902e59.png&sig=HCvU/RwrIeci1GgFU6w4v0lkHMn%2BCPjRu7M2h0Soxjc%3D)](https://chat.openai.com/g/g-82ALdp8Nj-bloggy-automated-blog-post-writer)
 
-# [Bloggy: Automated Blog Post Writer](https://chat.openai.com/g/g-82ALdp8Nj-bloggy-automated-blog-post-writer)
+# Bloggy: Automated Blog Post Writer [ChatGPT Plus](https://chat.openai.com/g/g-82ALdp8Nj-bloggy-automated-blog-post-writer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Bloggy%3A%20Automated%20Blog%20Post%20Writer)
 
 Bloggy: Automated Blog Post Writer is an App that helps you create professionally written and researched blog posts in your unique voice. Whether you need help coming up with a new blog post idea or want to write a post from scratch, Bloggy has got you covered. With its user-friendly interface, you can easily craft engaging and informative content that captivates your readers. The App provides a variety of tools, including a browser for research and a DALL-E model for generating creative ideas. Say goodbye to writer's block and hello to effortless blog writing with Bloggy!
 
@@ -27,3 +28,5 @@ Bloggy: Automated Blog Post Writer is an App that helps you create professionall
 5. **Incorporate DALL-E**: DALL-E, a powerful AI model, can assist in generating visual content such as images or illustrations for your blog post. You can leverage this feature to enhance the visual appeal and engagement of your blog post.
 
 Remember to provide clear and concise prompts or instructions to get the desired output for your blog post.
+
+

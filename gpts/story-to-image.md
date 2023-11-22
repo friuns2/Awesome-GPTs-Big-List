@@ -1,6 +1,7 @@
+
 [![Story to Image](https://files.oaiusercontent.com/file-S72jL858U1Mz57upkLNCc4GZ?se=2123-10-16T00%3A47%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1.png&sig=Drnhf7pvggvRspKpe7QGxKsIVkK2twvY8vCnjP8NU9c%3D)](https://chat.openai.com/g/g-NlsXX52uQ-story-to-image)
 
-# [Story to Image](https://chat.openai.com/g/g-NlsXX52uQ-story-to-image)
+# Story to Image [ChatGPT Plus](https://chat.openai.com/g/g-NlsXX52uQ-story-to-image) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Story%20to%20Image)
 
 Story to Image is an app that transforms text into captivating visual storyboards. Whether you have a story snippet, a scene in mind, or want to choose an art style, this app has got you covered! With a variety of tools at your disposal, including a browser and the powerful DALLE model, you can bring your story to life visually. Get ready to unleash your creativity and turn your story into a stunning visual masterpiece. Take the leap and let Story to Image be your storytelling companion!
 
@@ -31,3 +32,5 @@ Story to Image is an app that transforms text into captivating visual storyboard
 7. **Save and download**: Use the command "Save and download" to save your visual story and download it to your device. This will allow you to share or use the generated images as desired.
 
 Remember to provide clear and specific instructions for the app to generate visually appealing and accurate results for your story.
+
+

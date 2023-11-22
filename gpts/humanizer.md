@@ -1,6 +1,7 @@
+
 [![Humanizer](https://files.oaiusercontent.com/file-biDPha5NzGent2izGzpkFgpt?se=2123-10-20T07%3A31%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D06aeab5e-16f6-4429-aae5-3317432f3863.png&sig=aOJahzyYkP57gEW8SBT3a4YzhQHlC3KkWfhhIYcPmPc%3D)](https://chat.openai.com/g/g-O6oqtb4zb-humanizer)
 
-# [Humanizer](https://chat.openai.com/g/g-O6oqtb4zb-humanizer)
+# Humanizer [ChatGPT Plus](https://chat.openai.com/g/g-O6oqtb4zb-humanizer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Humanizer)
 
 Humanizer is an app that helps you reword your emails to have a more empathetic and engaging tone. Whether you need help making your message sound warmer, finding a good sign-off, or adding a personal touch to your draft, Humanizer has got you covered. With its friendly interface, this app is ready to assist you in creating emails that truly connect with your recipients. So say goodbye to generic emails and let Humanizer bring a personal touch to your communications!
 
@@ -27,3 +28,5 @@ Humanizer is an app that helps you reword your emails to have a more empathetic 
     
 4. **Add a personal touch:** Seek help in adding a personal touch to a draft to make it feel more customized.
     Example command: "Can you add a personal touch to this draft?"
+
+

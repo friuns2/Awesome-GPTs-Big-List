@@ -1,6 +1,7 @@
+
 [![Notes GPT](https://files.oaiusercontent.com/file-cLg8n83XQ5wan2pCBVHdxvi1?se=2123-10-16T22%3A52%3A45Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc9c48ddf-bce8-4f2e-8daf-a875016dcf78.png&sig=ITsgFp2CkTJ/H0bYr9I5EZhpMVA67AGUqduO6x0PF3A%3D)](https://chat.openai.com/g/g-CDjGiCqI2-notes-gpt)
 
-# [Notes GPT](https://chat.openai.com/g/g-CDjGiCqI2-notes-gpt)
+# Notes GPT [ChatGPT Plus](https://chat.openai.com/g/g-CDjGiCqI2-notes-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Notes%20GPT)
 
 Notes GPT is the perfect App for students and professionals who need help organizing their notes. Just paste your notes into the App and it will work its magic, re-organizing your hastily written notes and providing you with a clear summary. But that's not all! This App goes the extra mile by giving you actionable insights, helping you to better understand and make use of your notes. Say goodbye to messy and confusing notes, and hello to organized and insightful ones!
 
@@ -29,3 +30,5 @@ Notes GPT is the perfect App for students and professionals who need help organi
 5. **Extract Key Information:** This command extracts essential information from your notes, filtering out the noise and providing you with the most relevant and important points.
 
 Remember to provide your notes to the Notes GPT app before using any of the commands. The app will then process the information and generate the desired output based on the command used.
+
+

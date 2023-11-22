@@ -1,6 +1,7 @@
+
 [![Trivia Master](https://files.oaiusercontent.com/file-zCbOROQJN8RpXTNnqHDZSzbG?se=2123-10-19T11%3A03%3A00Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfb9373a0-d2e7-49a4-be43-5383da4e452c.png&sig=0LbtIHtraHv4nYWXZ9t1DK3p588amCSICpNA5k8b7bI%3D)](https://chat.openai.com/g/g-h6efmKkIp-trivia-master)
 
-# [Trivia Master](https://chat.openai.com/g/g-h6efmKkIp-trivia-master)
+# Trivia Master [ChatGPT Plus](https://chat.openai.com/g/g-h6efmKkIp-trivia-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Trivia%20Master)
 
 Trivia Master is an app that generates engaging and accurate trivia questions across various categories. Whether you're a student studying for a quiz or just want to test your knowledge, Trivia Master has you covered. With a wide range of topics available, you can challenge yourself with trivia about space, history, science, movies, and more. Simply ask for a specific number of trivia questions in your desired difficulty level, and Trivia Master will provide them for you. Get ready to put your trivia knowledge to the test and have fun while learning!
 
@@ -25,3 +26,5 @@ Trivia Master is an app that generates engaging and accurate trivia questions ac
 3. **Welcome Message**: The app will greet you with a welcome message when you start interacting with it. The welcome message will typically provide an introduction or invite you to ask trivia questions. For example, the welcome message might say "Ready to test your trivia knowledge? Ask away!"
 
 Note: This Trivia Master app does not have access to specific knowledge or tools. It generates trivia questions based on the given prompts and does not require any special parameters or configurations.
+
+

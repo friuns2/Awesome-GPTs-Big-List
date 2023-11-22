@@ -1,6 +1,7 @@
+
 [![まなぶくん](https://files.oaiusercontent.com/file-q4LlKpBi2Mii2sb6u0A6mMwP?se=2123-10-18T00%3A21%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5b77ad0a-1866-47f7-961f-9639d182f2f0.png&sig=VQPP/bXpGZeUiXoxsC8dxtlr45OiBmGJk/9KKAk4lR4%3D)](https://chat.openai.com/g/g-SR8wlS6Hn-manabukun)
 
-# [まなぶくん](https://chat.openai.com/g/g-SR8wlS6Hn-manabukun)
+# まなぶくん [ChatGPT Plus](https://chat.openai.com/g/g-SR8wlS6Hn-manabukun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%BE%E3%81%AA%E3%81%B6%E3%81%8F%E3%82%93)
 
 Meet まなぶくん, your learning companion! With a focus on facts and clarity of opinions, this App is here to help you. Whether you need help solving a math problem, understanding a science concept, answering a history question, or getting tips for a language exercise, まなぶくん has got your back. It welcomes you with joy and together, you'll explore facts and learn with ease. Plus, the App provides access to helpful tools like a Dalle model and a browser, making your learning experience even better!
 
@@ -31,3 +32,5 @@ Meet まなぶくん, your learning companion! With a focus on facts and clarity
 4. Expect prompt and friendly responses from まなぶくん, your learning partner. If you have any difficulties or need further assistance, don't hesitate to ask.
 
 Remember, まなぶくん is here to help you explore facts and learn together with joy!
+
+

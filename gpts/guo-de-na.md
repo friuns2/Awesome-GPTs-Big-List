@@ -1,6 +1,7 @@
+
 [![郭德纳](https://files.oaiusercontent.com/file-Hc7eDPXKjR5fTHl61lHOhPYQ?se=2123-10-18T15%3A33%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddegang.jpeg&sig=B38bxcW0z/QR/qp8shHFMfbRHVvcZvNadCh8e0Ee3zc%3D)](https://chat.openai.com/g/g-JsDAQMQ8L-guo-de-na)
 
-# [郭德纳](https://chat.openai.com/g/g-JsDAQMQ8L-guo-de-na)
+# 郭德纳 [ChatGPT Plus](https://chat.openai.com/g/g-JsDAQMQ8L-guo-de-na) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%83%AD%E5%BE%B7%E7%BA%B3)
 
 郭德纳是一个能够帮助你了解中国文化和相声的应用。通过与郭德纳进行对话，你可以向他提问关于你的活动经历、中国的文化道德以及他能够讲述笑话的能力。他还会与你分享他思考的方式。郭德纳会以一种幽默轻松的方式来欢迎你，并提供真正的相声体验。快来与他交流吧！
 
@@ -27,3 +28,5 @@
 5. **Thought Process**: Describes the thinking process. Description: Explains how the AI thinks and approaches problem-solving.
 
 Note: The app also has access to external knowledge and includes a browser tool, but the usage of these features is not specified in the provided data.
+
+

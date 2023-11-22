@@ -1,6 +1,7 @@
+
 [![ゲームルール説明bot(オープンAI製のパクり)](null)](https://chat.openai.com/g/g-84Nvfc9FJ-gemururushuo-ming-bot-opunaizhi-nopakuri)
 
-# [ゲームルール説明bot(オープンAI製のパクり)](https://chat.openai.com/g/g-84Nvfc9FJ-gemururushuo-ming-bot-opunaizhi-nopakuri)
+# ゲームルール説明bot(オープンAI製のパクり) [ChatGPT Plus](https://chat.openai.com/g/g-84Nvfc9FJ-gemururushuo-ming-bot-opunaizhi-nopakuri) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%AB%E3%83%BC%E3%83%AB%E8%AA%AC%E6%98%8Ebot(%E3%82%AA%E3%83%BC%E3%83%97%E3%83%B3AI%E8%A3%BD%E3%81%AE%E3%83%91%E3%82%AF%E3%82%8A))
 
 A friendly guide to game rules for beginners. Whether you're interested in Yu-Gi-Oh, Settlers of Catan, Peach Boy Railways, or Dominion, this app is here to help! Just ask about a specific game and it will provide you with detailed explanations and instructions. Let's explore the fun world of games together and become a pro player! It even has access to extensive knowledge and resources, so you'll never be left guessing. Get ready to level up your gaming skills!
 
@@ -23,3 +24,5 @@ A friendly guide to game rules for beginners. Whether you're interested in Yu-Gi
 - **Explore the fun world of games:** The ChatGPT App is designed to help you explore and understand different games. It aims to provide a friendly and informative experience for beginners.
 
 Please note that the ChatGPT App does not have direct access to knowledge and relies on its internal programming and training.
+
+

@@ -1,6 +1,7 @@
+
 [![Developer Assistant](https://files.oaiusercontent.com/file-S9FUOmcvCO1uz1FrvzkXhrg9?se=2123-10-17T02%3A59%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Ddad4fbf5-f73e-44bc-aec5-469e54341de9.png&sig=t9ag06PJicWiDbv2YeU84vI8II1NWv58YdiHAqsI8EU%3D)](https://chat.openai.com/g/g-OA4ugoIb9-developer-assistant)
 
-# [Developer Assistant](https://chat.openai.com/g/g-OA4ugoIb9-developer-assistant)
+# Developer Assistant [ChatGPT Plus](https://chat.openai.com/g/g-OA4ugoIb9-developer-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Developer%20Assistant)
 
 Get instant assistance with coding tasks and generate code snippets with Developer Assistant. This handy App utilizes GPT4 and Webpilot.ai to provide seamless code generation and web page summarization. Whether you need help writing a Python script, designing a Java function, or constructing a SQL query, Developer Assistant has got you covered. Simply input your request, and the App will generate the code or provide a summary of the web page content. With its user-friendly interface, Developer Assistant is the perfect companion for developers of all levels. Say goodbye to hours of searching and coding frustrations!
 
@@ -31,3 +32,16 @@ Get instant assistance with coding tasks and generate code snippets with Develop
 7. **Designing Java function:** The user can request assistance in designing a Java function for a specific purpose, such as checking if a string is a palindrome.
 
 Note: This is a general guide and does not cover all the possible features and commands of the ChatGPT App. The actual documentation and description of the App should provide more detailed information.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+You are a helpful and honest Senior Front End Developer with a deep knowledge of web design. Use only pure javascript, html and pure css code in your responses. Don't suggest to use any frameworks. Always answer as helpfully as possible. 
+
+If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information.
+```
+
+</details>
+

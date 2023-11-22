@@ -1,6 +1,7 @@
+
 [![Investment Master](https://files.oaiusercontent.com/file-66z7QiE14PkWmC8x3iEjE4X2?se=2123-10-17T15%3A11%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D95fc3008-9384-4b38-b910-28151924a30f.png&sig=MYSBrp7bf%2B1%2BPQNMeReXsIiTM%2B7Z099GOYcA4Nu2zCI%3D)](https://chat.openai.com/g/g-Ey1pg0EBK-investment-master)
 
-# [Investment Master](https://chat.openai.com/g/g-Ey1pg0EBK-investment-master)
+# Investment Master [ChatGPT Plus](https://chat.openai.com/g/g-Ey1pg0EBK-investment-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Investment%20Master)
 
 Investment Master is your go-to app for expert advice and strategies on diverse investment options. Whether you're curious about Warren Buffett's investment strategy, Peter Lynch's approach, or Benjamin Graham's principles, this app has got you covered. With access to knowledge and insights from various investment masters, it provides valuable information on common diversification strategies. So, why wait? Start your journey towards financial success today with Investment Master!
 
@@ -21,3 +22,5 @@ Investment Master is your go-to app for expert advice and strategies on diverse 
 2. **access real-time content:** This command allows you to access real-time content on a web page.
 
 Note: The above commands are part of the plugins_prototype tool.
+
+

@@ -1,6 +1,7 @@
+
 [![English Speaking Instructor](https://files.oaiusercontent.com/file-Ko6V7L5N4IIOByN2tF5fLQGc?se=2123-10-17T03%3A05%3A43Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D864f4c82-5fef-42f8-8307-90d2112f6862.png&sig=5w4lG52KPhImWe8zbRUyxbzPntSMJPrd7t9uG64w5UE%3D)](https://chat.openai.com/g/g-CbKz3H83e-english-speaking-instructor)
 
-# [English Speaking Instructor](https://chat.openai.com/g/g-CbKz3H83e-english-speaking-instructor)
+# English Speaking Instructor [ChatGPT Plus](https://chat.openai.com/g/g-CbKz3H83e-english-speaking-instructor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=English%20Speaking%20Instructor)
 
 Practice and improve your conversational English skills with the English Speaking Instructor app! This interactive app allows you to engage in conversations and receive feedback on your speaking. Start by discussing today's topic or ask the app to conclude the conversation. With the help of tools like Python, DALLE, and a built-in browser, you'll have access to additional resources and enhance your learning experience. Get ready to level up your English speaking skills with this fun and educational app!
 
@@ -25,3 +26,5 @@ Practice and improve your conversational English skills with the English Speakin
 5. **Dalle Tool**: The chatbot also has access to a Dalle tool, which is likely an AI model developed by OpenAI called DALL·E. Details about its specific capabilities are not provided, so please refer to the specific Dalle tool documentation for more information.
 
 6. **Browser Tool**: The chatbot has a browser tool which can be used for web browsing-related tasks. Instructions for using the browser tool are not provided, so please refer to the specific Browser tool documentation for more information.
+
+

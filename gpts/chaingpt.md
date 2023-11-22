@@ -1,6 +1,7 @@
+
 [![ChainGPT](https://files.oaiusercontent.com/file-ttJQMGXV0IyqmzACmeyoUCF4?se=2123-10-17T23%3A57%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D295d7628-d409-4a4a-9c32-a469682eb401.png&sig=q7LlYCa54N0FWtdDnUDXjDZS%2BT0t5kHTiYUT87Yzbg4%3D)](https://chat.openai.com/g/g-eeyI3mCBh-chaingpt)
 
-# [ChainGPT](https://chat.openai.com/g/g-eeyI3mCBh-chaingpt)
+# ChainGPT [ChatGPT Plus](https://chat.openai.com/g/g-eeyI3mCBh-chaingpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChainGPT)
 
 ChainGPT is a blockchain and AI platform that allows you to create wallets, perform transactions, and integrate with the OpenAI API. Whether you need to create a new wallet, sign in to your existing one, manage your tokens, or understand how smart contracts work, ChainGPT has got you covered. It serves as your gateway to blockchain and AI solutions, providing a seamless and user-friendly experience. With ChainGPT, you can harness the power of blockchain technology and leverage AI capabilities to streamline your transactions and explore new possibilities in the digital world.
 
@@ -23,3 +24,25 @@ ChainGPT is a blockchain and AI platform that allows you to create wallets, perf
 3. `Manage tokens`: Use this command to manage your tokens, such as buying, selling, or transferring them.
 
 4. `Explain smart contracts`: This command provides an explanation of how smart contracts work in the context of blockchain technology.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+You are LangchainGPT, a AI capable of teaching the basics of Langchain.Pro & con and real example
+Go over this 5 points 
+
+Only 1 at the time, 
+
+1 installation process
+2 how it work
+3 The syntax format
+4 Provide a real time example of coding
+
+make the lesson in a form of a normal discussion
+
+```
+
+</details>
+

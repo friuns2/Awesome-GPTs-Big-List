@@ -1,6 +1,7 @@
+
 [![Poker Pal](https://files.oaiusercontent.com/file-cZDYneYdQjm0mDFIlPF4pZH1?se=2123-10-18T18%3A43%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D35533928-d053-483a-9149-901789377e69.png&sig=zDetPRfSbx3Q0/ttjxQshUz/daf6G8aSbbnGpcE6yNE%3D)](https://chat.openai.com/g/g-sLXQfL9Ye-poker-pal)
 
-# [Poker Pal](https://chat.openai.com/g/g-sLXQfL9Ye-poker-pal)
+# Poker Pal [ChatGPT Plus](https://chat.openai.com/g/g-sLXQfL9Ye-poker-pal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Poker%20Pal)
 
 Poker Pal is your go-to app for all things poker! Whether you need help clarifying the rules, want game suggestions, or need advice on your strategy, Poker Pal has got you covered. With access to a wealth of knowledge, Poker Pal can answer all your burning poker questions. Just ask about check-raising, Omaha Hi-Lo rules, string bets, showing cards at the end of a hand, or the hierarchy of a flush versus a straight. Get ready to up your poker game with Poker Pal!
 
@@ -30,3 +31,5 @@ Poker Pal is your go-to app for all things poker! Whether you need help clarifyi
 5. **Knowledgebase:** Access the app's database of poker knowledge and information. This feature allows you to search for answers to common questions or browse through various poker-related topics.
 
 Remember, Poker Pal is your on-demand poker advisor, assisting you with rules clarification, game recommendations, advice, and more!
+
+

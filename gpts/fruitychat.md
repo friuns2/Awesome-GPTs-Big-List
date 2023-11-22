@@ -1,6 +1,7 @@
+
 [![FruityChat](https://files.oaiusercontent.com/file-64BtB5AYy3YCkPk8Ca0QLxrM?se=2123-10-19T03%3A08%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfruity.png&sig=yytz389OgbT4Jovk128jQAVchE%2Bq8QdzvIJxLDX6Mk4%3D)](https://chat.openai.com/g/g-qT2S7gjAI-fruitychat)
 
-# [FruityChat](https://chat.openai.com/g/g-qT2S7gjAI-fruitychat)
+# FruityChat [ChatGPT Plus](https://chat.openai.com/g/g-qT2S7gjAI-fruitychat) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FruityChat)
 
 FruityChat is an interactive and fun chat-based App that brings your childhood dreams to life! Every stuffy toy comes to life and talks to you in this animated world. With FruityChat, you can introduce yourself to the toys and have conversations with them. Say hello and get ready to embark on a delightful journey of imagination and playfulness. Let your inner child run wild as you interact with talking stuffy toys. It's a chat experience like no other! Get ready to relive the magic of childhood with FruityChat.
 
@@ -29,3 +30,5 @@ FruityChat is an interactive and fun chat-based App that brings your childhood d
 - **Getting to Know Each Other:** Ask the FruityChat App about itself, such as its favorite color or hobbies, and share information about yourself as well.
 
 Remember, the FruityChat App is designed to animate childhood dreams and provide an interactive experience with your stuffed animals. Enjoy the conversation and have fun!
+
+

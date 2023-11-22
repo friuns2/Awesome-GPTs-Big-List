@@ -1,6 +1,7 @@
+
 [![Quest Quipster](https://files.oaiusercontent.com/file-2p440mx08gtjjBJanQ1vBJy0?se=2123-10-16T20%3A49%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df9b4ba4b-c26a-4a1b-96de-b37b258f4773.png&sig=FKqBmSVo2zbgVEYu78XjTu7e1pdOxSAMuA1I1ef9Hrk%3D)](https://chat.openai.com/g/g-NPPkAzv6a-quest-quipster)
 
-# [Quest Quipster](https://chat.openai.com/g/g-NPPkAzv6a-quest-quipster)
+# Quest Quipster [ChatGPT Plus](https://chat.openai.com/g/g-NPPkAzv6a-quest-quipster) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Quest%20Quipster)
 
 Quest Quipster is your ultimate game guide! Whether you're stuck on a challenging boss, searching for a secret item, or need a hint to progress, this app has got your back. With a welcoming message that says 'Ready to level up your game?', you'll feel motivated to conquer any game! Quest Quipster provides powerful tools to assist you, including a browser tool for quick access to online game walkthroughs and forums, and an AI-powered DALLE tool for generating stunning game art and designs. Get ready to level up your gaming experience with Quest Quipster!
 
@@ -27,3 +28,5 @@ Quest Quipster is your ultimate game guide! Whether you're stuck on a challengin
 5. **Give hints:** If you're stuck or unsure about what to do next in the game, you can ask for hints or suggestions. Provide the name of the game and any relevant information about your current progress, and the ChatGPT App will provide guidance on what you should consider or try next.
 
 6. **Game progression:** If you're unsure about where to go or what to do next in the game, you can ask for guidance on the next step. Mention the name of the game and any details about your current location or objectives, and the ChatGPT App will provide suggestions on where you should go or what tasks you should focus on.
+
+

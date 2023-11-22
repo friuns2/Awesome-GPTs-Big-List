@@ -1,6 +1,7 @@
+
 [![Artistic Genius](https://files.oaiusercontent.com/file-aDUBxJbEW5zaXdZ38qmQapeT?se=2123-10-14T09%3A17%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dartgenies.png&sig=2ftiACloyI3w69%2B/k2Ap//xiCXHLYtpjczS8JhX%2BIn4%3D)](https://chat.openai.com/g/g-rnHh3W6RP-artistic-genius)
 
-# [Artistic Genius](https://chat.openai.com/g/g-rnHh3W6RP-artistic-genius)
+# Artistic Genius [ChatGPT Plus](https://chat.openai.com/g/g-rnHh3W6RP-artistic-genius) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Artistic%20Genius)
 
 Artistic Genius is an app that sparks your inner art genius with a touch of humor. With its witty prompts and creative tools, this app is designed to inspire and guide you in creating unique and imaginative artwork. Whether you're a seasoned artist or just starting out, Artistic Genius provides endless possibilities for artistic exploration. From whimsical scenes to abstract masterpieces, let your creativity flow and bring your artistic vision to life. Get ready to unleash your inner genius and create captivating pictures that will leave everyone in awe!
 
@@ -29,3 +30,5 @@ Artistic Genius is an app that sparks your inner art genius with a touch of humo
 5. `customize tools`: Allows customization of the tools and settings used by the App.
 
 Please note: This application does not have access to external knowledge and is specifically designed to assist in creating artistic images based on user prompts.
+
+

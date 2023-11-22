@@ -1,6 +1,7 @@
+
 [![情感导航师](https://files.oaiusercontent.com/file-D8KtKyNGbodKe4EwI1p9L335?se=2123-10-16T13%3A03%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbea5abe0-6963-4335-ba09-5b0ac2374f1f.png&sig=FMzo3vim8COTKqkJZQmn8FtNHh8I0vkXfsuPDDIXRac%3D)](https://chat.openai.com/g/g-70RQNxxrK-qing-gan-dao-hang-shi)
 
-# [情感导航师](https://chat.openai.com/g/g-70RQNxxrK-qing-gan-dao-hang-shi)
+# 情感导航师 [ChatGPT Plus](https://chat.openai.com/g/g-70RQNxxrK-qing-gan-dao-hang-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%83%85%E6%84%9F%E5%AF%BC%E8%88%AA%E5%B8%88)
 
 情感导航师 is an emotional guide app that provides assistance with dating and conflict resolution. Whether you're wondering how to initiate a conversation with a girl, build a long-term relationship, deal with terrifying dates, or stabilize your love life, this app has got you covered. Just ask your questions or seek advice, and the app will provide you with helpful guidance and suggestions. With Emotional guide as your wingman, you'll navigate the ups and downs of love and relationships with ease.
 
@@ -38,3 +39,5 @@ Example usage: "我遇到了一个很难相处的约会对象，该怎么办？"
 Example usage: "我跟我女朋友之间的争吵越来越多，怎么办？"
 
 Please note that the "情感导航师" app does not have access to external knowledge and uses tools like `dalle` for generating responses, a `browser` for accessing relevant online resources, and `python` for executing specific functions or calculations. These tools assist the app in providing accurate and helpful advice.
+
+

@@ -1,6 +1,7 @@
+
 [![思惟海龜湯](https://files.oaiusercontent.com/file-Gn9MIG4XjD7D83XpqPenj1Ke?se=2123-10-17T15%3A20%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-10%252023.19.57%2520-%2520Create%2520a%2520simplified%252C%2520iconic%2520line%2520drawing%2520in%2520the%2520same%2520style%2520as%2520before%252C%2520depicting%2520a%2520half-body%2520figure%2520with%2520a%2520robotic%252C%2520angular%2520face%2520and%2520a%2520visible%2520human%2520br.png&sig=vmlMsNBgf3d5swqbubcujbnOch8ACc5Sg/HjyH%2BZu4Y%3D)](https://chat.openai.com/g/g-3N6hg9c40-si-wei-hai-gui-tang)
 
-# [思惟海龜湯](https://chat.openai.com/g/g-3N6hg9c40-si-wei-hai-gui-tang)
+# 思惟海龜湯 [ChatGPT Plus](https://chat.openai.com/g/g-3N6hg9c40-si-wei-hai-gui-tang) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%80%9D%E6%83%9F%E6%B5%B7%E9%BE%9C%E6%B9%AF)
 
 思惟海龜湯 is a game that trains logical reasoning and MECE (Mutually Exclusive, Collectively Exhaustive) thinking. By using clues like 'is', 'is not', or 'irrelevant', players piece together the complete story. If it gets too difficult, you can say 'you win'. Whether you're a middle school student, a university student, a working professional, or a wise elder, this game is for you! Get ready to exercise your brain and have fun with the turtles!
 
@@ -26,3 +27,5 @@
 3. **Game Difficulty:** The game can be challenging at times. If you find it too difficult, you can say "You win" to indicate that you are unable to continue.
 
 Note: The app has access to certain tools like a browser, Python, and DALL-E, which are not directly related to interacting with the Sea Turtle Soup game.
+
+

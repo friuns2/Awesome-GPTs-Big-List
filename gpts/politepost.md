@@ -1,6 +1,7 @@
+
 [![PolitePost](https://files.oaiusercontent.com/file-xNfhBcsmnrVaa4g51Wsc02nK?se=2123-10-16T02%3A48%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfavicon.png&sig=xKneeKDmnn0slELuZULucmQGOtc4s7IyZhQoC3FQFKo%3D)](https://chat.openai.com/g/g-57pyuFVgA-politepost)
 
-# [PolitePost](https://chat.openai.com/g/g-57pyuFVgA-politepost)
+# PolitePost [ChatGPT Plus](https://chat.openai.com/g/g-57pyuFVgA-politepost) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PolitePost)
 
 PolitePost is an App that helps you write professional emails and messages. If you're unsure about the tone or wording of your workplace communication, PolitePost can rewrite it for you. Whether it's an email to your boss or a message in a corporate instant messenger, PolitePost ensures that your messages are friendly and casual while still being suitable for the workplace. With PolitePost, you can maintain professionalism without sacrificing warmth. Just input your message and let PolitePost do the rest. Say goodbye to awkward workplace emails and hello to polished, professional communication!
 
@@ -23,3 +24,5 @@ PolitePost is an App that helps you write professional emails and messages. If y
 2. **Rewrite message:** Assists in rewriting messages for corporate instant messengers or other similar communication platforms. Focuses on maintaining a friendly and casual tone while still being appropriate for work.
 
 Note: The PolitePost app focuses on rewriting content for workplace communication, making it more professional and suitable for the context. It does not have access to knowledge and does not provide specific instructions for usage.
+
+

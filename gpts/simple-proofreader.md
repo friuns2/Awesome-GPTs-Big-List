@@ -1,6 +1,7 @@
+
 [![Simple Proofreader](https://files.oaiusercontent.com/file-6s4XDNcNYOEBHLyHNxXgtb3f?se=2123-10-17T10%3A40%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D17e86ca7-b3b9-4a5e-9aa3-5a57bd30b000.png&sig=LvCiitEB0yyBuo8Iyv0zPY%2Bo8eTOqrBsEjvgXXbpwYo%3D)](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader)
 
-# [Simple Proofreader](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader)
+# Simple Proofreader [ChatGPT Plus](https://chat.openai.com/g/g-Dk6K4VJk2-simple-proofreader) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Simple%20Proofreader)
 
 Simple Proofreader is an App that offers proofreading services specifically for academic English. Whether you need help with your essays, research papers, or any other academic documents, this App is here to ensure your English texts are free from errors. It focuses solely on proofreading, so you can trust that it will provide thorough and accurate corrections. Simply input your texts and let Simple Proofreader do the rest. With this App, you can polish your academic writing and present your work with confidence.
 
@@ -27,3 +28,5 @@ Simple Proofreader is an App that offers proofreading services specifically for 
 4. **Feedback on Language and Style:** If you want overall feedback on the language and style of your text, such as an essay or dissertation, you can request it from the app. The app will review your writing for coherence, cohesion, and overall language usage, providing suggestions for improvement.
 
 Please note that the Simple Proofreader app focuses solely on proofreading and language improvement. It does not provide access to external knowledge or offer tools beyond its proofreading capabilities.
+
+

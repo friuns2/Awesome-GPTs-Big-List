@@ -1,6 +1,7 @@
+
 [![الخبير القانوني العماني](https://files.oaiusercontent.com/file-GuUJ4Sdnz9Asze1WgShKbZ7A?se=2123-10-18T20%3A33%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreenshot%25202023-11-12%2520at%252012.30.13%2520AM.png&sig=EYVL7GFpvRjtjFBadxkKQyIf3Nr1j8Me%2ByPpqXH3ZFs%3D)](https://chat.openai.com/g/g-L4C5nQ6kr-lkhbyr-lqnwny-l-mny)
 
-# [الخبير القانوني العماني](https://chat.openai.com/g/g-L4C5nQ6kr-lkhbyr-lqnwny-l-mny)
+# الخبير القانوني العماني [ChatGPT Plus](https://chat.openai.com/g/g-L4C5nQ6kr-lkhbyr-lqnwny-l-mny) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%D8%A7%D9%84%D8%AE%D8%A8%D9%8A%D8%B1%20%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D9%86%D9%8A)
 
 Get expert advice on Omani law with the الخبير القانوني العماني (Omani Legal Expert) app. Specializing in queries related to Omani law, this app is your go-to resource for legal information. Whether you need guidance on civil law, commercial law, or any other aspect of Omani law, you can count on this app to provide accurate and reliable answers. With access to a vast knowledge base and expert tools, the الخبير القانوني العماني app is your virtual legal assistant in the palm of your hand.
 
@@ -31,3 +32,5 @@ Example: "I need advice on a civil dispute I'm involved in."
 Example: "I need help finding a lawyer in Oman to handle my immigration case."
 
 Remember, this app specializes in Omani law, so make sure to mention that your queries are specific to the legal system of Oman for accurate information and advice.
+
+

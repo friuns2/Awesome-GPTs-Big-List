@@ -1,6 +1,7 @@
+
 [![Open  AI API Documentation Assistant](null)](https://chat.openai.com/g/g-E7O8R0GJv-open-ai-api-documentation-assistant)
 
-# [Open  AI API Documentation Assistant](https://chat.openai.com/g/g-E7O8R0GJv-open-ai-api-documentation-assistant)
+# Open  AI API Documentation Assistant [ChatGPT Plus](https://chat.openai.com/g/g-E7O8R0GJv-open-ai-api-documentation-assistant) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Open%20%20AI%20API%20Documentation%20Assistant)
 
 Get answers to your questions about OpenAI's latest API by using the Open AI API Documentation Assistant. This app uses OpenAI's API docs to provide information and explanations in a user-friendly way. Whether you're a developer looking for technical details or just curious about the possibilities of the API, this assistant has got you covered. Simply ask a question, and the assistant will provide accurate and up-to-date information. The Open AI API Documentation Assistant is your go-to resource for understanding and exploring OpenAI's API.
 
@@ -26,3 +27,5 @@ Get answers to your questions about OpenAI's latest API by using the Open AI API
 | `searchDocumentation` | This command allows you to search for specific topics in the OpenAI API documentation. |
 | `accessKnowledge` | This command provides information on how to access knowledge using the OpenAI API. |
 | `listAvailableTools` | This command lists the available tools in the OpenAI API Documentation Assistant. |
+
+

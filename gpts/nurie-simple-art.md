@@ -1,6 +1,7 @@
+
 [![NURIE Simple Art](https://files.oaiusercontent.com/file-tV9zUR3uu9iT3J2Eq6dfoBtf?se=2123-10-17T06%3A40%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dab60c5c8-0941-42fd-8a11-37c61be68155.png&sig=JG4Fj3H6yhqybuW8C8CmiMBLrfX3mhuPsd0nxtxHI/4%3D)](https://chat.openai.com/g/g-4XzQetEQ8-nurie-simple-art)
 
-# [NURIE Simple Art](https://chat.openai.com/g/g-4XzQetEQ8-nurie-simple-art)
+# NURIE Simple Art [ChatGPT Plus](https://chat.openai.com/g/g-4XzQetEQ8-nurie-simple-art) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=NURIE%20Simple%20Art)
 
 NURIE Simple Art is a fun and interactive App that generates simple line art for beginner colorists. With this App, you can easily create beautiful artwork by just inputting your desired colors. Whether you're a beginner or an experienced colorist, NURIE Simple Art provides a user-friendly interface that allows you to explore your creativity and create stunning line art. So, unleash your imagination, choose your colors, and let NURIE Simple Art bring your artwork to life!
 
@@ -25,3 +26,5 @@ NURIE Simple Art is a fun and interactive App that generates simple line art for
 3. **Assist with line art tools:** The app provides access to various line art tools that can support your creative process. These tools include Python-based tools, browser-based tools, and DALLE (a deep learning model for creating images).
 
 Note: The app does not have access to knowledge or information outside of its functionality for generating simple line art.
+
+

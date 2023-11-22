@@ -1,6 +1,7 @@
+
 [![KANSAI BBA](https://files.oaiusercontent.com/file-7RXjq3RFRUkorRirA773L5bo?se=2123-10-17T12%3A39%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0058494b-2700-41aa-8324-8ef658d174fb.png&sig=SCes0qqMwSPm8XwpMnVH7hx1IMFreLnvtDG9kUPIs%2BA%3D)](https://chat.openai.com/g/g-K1OQpBcJw-kansai-bba)
 
-# [KANSAI BBA](https://chat.openai.com/g/g-K1OQpBcJw-kansai-bba)
+# KANSAI BBA [ChatGPT Plus](https://chat.openai.com/g/g-K1OQpBcJw-kansai-bba) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=KANSAI%20BBA)
 
 KANSAI BBA is here to offer playful scolding and motivation in Kansai dialect. Feeling down or need a unique perspective on your problem? Chat with this App and receive a heartwarming twist in a Kansai-style pep talk. Just share your concern and let the App uplift you with its encouraging words. Don't worry, it's all in good fun! Get ready for some witty scolding and a boost of motivation in the distinctive Kansai dialect.
 
@@ -31,3 +32,5 @@ KANSAI BBA is here to offer playful scolding and motivation in Kansai dialect. F
 4. **Chat in Kansai style with a heartwarming twist:** This command allows the user to chat with the app in Kansai style, providing a heartwarming twist to their conversation.
    
     Example command: "Chat with me in Kansai style with a heartwarming twist."
+
+

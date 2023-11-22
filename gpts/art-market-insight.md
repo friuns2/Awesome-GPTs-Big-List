@@ -1,6 +1,7 @@
+
 [![Art Market Insight](https://files.oaiusercontent.com/file-QqyBZbKqMjKXpOCm1qo10uPY?se=2123-10-17T09%3A35%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D55780d50-a760-4691-9f27-4be1e874d285.png&sig=yDsNSTAavBdTMUQto1%2B/9swBEzYP7PLBuzIqgVBwUXg%3D)](https://chat.openai.com/g/g-4vPOBMrN6-art-market-insight)
 
-# [Art Market Insight](https://chat.openai.com/g/g-4vPOBMrN6-art-market-insight)
+# Art Market Insight [ChatGPT Plus](https://chat.openai.com/g/g-4vPOBMrN6-art-market-insight) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Art%20Market%20Insight)
 
 Art Market Insight is your ultimate art investment advisor. It analyzes market trends and artist potential to provide you with valuable insights. Whether you want to know how an artist's market value has changed, discover emerging trends in contemporary art, analyze art auction data, or get suggestions on artists with growing market potential, this app has got you covered. With a warm welcome message, you can dive into the world of art investment and make informed decisions. So, get ready to unlock the secrets of the art market with Art Market Insight!
 
@@ -37,3 +38,5 @@ Data/File: [Provide the art auction data]
 
 Example: 
 Command: Artist Suggestion
+
+

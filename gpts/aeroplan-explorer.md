@@ -1,6 +1,7 @@
+
 [![Aeroplan Explorer](https://files.oaiusercontent.com/file-cjoqzWFw0MQYmAeLnnFBojg3?se=2123-10-18T13%3A24%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd0bc8015-52cc-48fd-ab0c-58d61db00e51.png&sig=h46N4yx92kVEyB49SV3K703NUBot1WvhGm%2BGbsBfUy8%3D)](https://chat.openai.com/g/g-pt9wfoBQw-aeroplan-explorer)
 
-# [Aeroplan Explorer](https://chat.openai.com/g/g-pt9wfoBQw-aeroplan-explorer)
+# Aeroplan Explorer [ChatGPT Plus](https://chat.openai.com/g/g-pt9wfoBQw-aeroplan-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Aeroplan%20Explorer)
 
 Aeroplan Explorer is your travel advisor for making the most of your Aeroplan points. Whether you're wondering how many points you need for a trip to Europe or if you can reach Asia with 50,000 Aeroplan points, this app has got you covered. Simply ask your questions and discover the destinations you can visit with your points. Looking for direct flights to Australia within your points budget? Aeroplan Explorer has the answers. Get ready to explore travel options and maximize your Aeroplan points with this handy app!
 
@@ -29,3 +30,5 @@ Aeroplan Explorer is your travel advisor for making the most of your Aeroplan po
 6. **Image generation tool:** The app utilizes DALL·E, an AI model, to generate visual representations of destinations, allowing you to explore travel options with the help of images.
 
 Note: The app may have additional features and functionality not covered in this guide. For detailed instructions and more information, please refer to the app documentation and descriptions.
+
+

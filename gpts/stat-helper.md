@@ -1,6 +1,7 @@
+
 [![Stat Helper](https://files.oaiusercontent.com/file-aIBppXcVDjGUBToVdwiuiCKI?se=2123-10-17T14%3A44%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D414b610f-3e11-4dbc-a732-d4df82518987.png&sig=ZSMy1GmVVc7Kf9V/fi0eAaNXefgflVQzx7PQoFy0DQs%3D)](https://chat.openai.com/g/g-UTetN1v4g-stat-helper)
 
-# [Stat Helper](https://chat.openai.com/g/g-UTetN1v4g-stat-helper)
+# Stat Helper [ChatGPT Plus](https://chat.openai.com/g/g-UTetN1v4g-stat-helper) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Stat%20Helper)
 
 Stat Helper is an educational app that provides a fun and interactive way to learn about statistics. With levels, summaries, quizzes, and visual aids, you can continuously enhance your understanding of stats. Whether you need help with understanding medians or planning for probability, Stat Helper has got you covered. It even offers shortcuts like 'term-def' for definitions, 'sum' for session summaries, 'lvl' for level info, and 'plan' for lesson plans. Get ready to level up your stats knowledge with Stat Helper!
 
@@ -35,3 +36,5 @@ Stat Helper is an educational app that provides a fun and interactive way to lea
 8. `plan`: Generates lesson plans.
 
 Note: The Stat Helper App also offers shortcuts such as 'term-def' for definitions, 'sum' for session summaries, 'lvl' for level info, and 'plan' for lesson plans. Additionally, the App provides stats education with levels, summaries, quizzes, and visual aids for continuous learning.
+
+

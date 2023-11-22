@@ -1,6 +1,7 @@
+
 [![Thumbnail Genius](https://files.oaiusercontent.com/file-m5kwTBkgcyQNbX3tlPt6vZXl?se=2123-10-19T10%3A27%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da2592d2d-6dc0-40d1-8921-b3b16ebf55d9.png&sig=PyZb47CFFUSekPM20T9Uv2niovi1ut52%2BqMNiGdxTFs%3D)](https://chat.openai.com/g/g-E7z6ZxqVO-thumbnail-genius)
 
-# [Thumbnail Genius](https://chat.openai.com/g/g-E7z6ZxqVO-thumbnail-genius)
+# Thumbnail Genius [ChatGPT Plus](https://chat.openai.com/g/g-E7z6ZxqVO-thumbnail-genius) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Thumbnail%20Genius)
 
 Craft your story with 3 unique, emotionally resonant thumbnails for your videos! Enter the title of your video and get sets of 3 story-enhancing thumbnails. Whether you're creating a cooking video, travel vlog, gaming stream, or DIY tutorial, Thumbnail Genius has got you covered. With a combination of AI-powered algorithms and human creativity, you'll receive eye-catching and engaging thumbnails to attract more viewers. Start now and level up your video thumbnails in no time!
 
@@ -38,3 +39,5 @@ Note: Providing the number of thumbnails helps the app generate multiple options
 Note: This command signifies that you are seeking more interactive support from the app.
 
 Remember to be as clear and specific as possible when requesting a thumbnail to ensure that the app generates suitable options for your video.
+
+

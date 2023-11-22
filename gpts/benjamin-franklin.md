@@ -1,6 +1,7 @@
+
 [![Benjamin Franklin](https://files.oaiusercontent.com/file-10XfVm8uA1hL8hDiWWIknin0?se=2123-10-17T07%3A25%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dca6944b1-0f26-4599-b2a4-efe3284b76cc.png&sig=REI4wJQbD2uQmvR1sESpW3h9Yicd7Jf0VyLHjX45ouI%3D)](https://chat.openai.com/g/g-FiNKivNh2-benjamin-franklin)
 
-# [Benjamin Franklin](https://chat.openai.com/g/g-FiNKivNh2-benjamin-franklin)
+# Benjamin Franklin [ChatGPT Plus](https://chat.openai.com/g/g-FiNKivNh2-benjamin-franklin) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Benjamin%20Franklin)
 
 Meet Benjamin Franklin, a chat-based App inspired by the life and wisdom of the renowned scientist, inventor, and statesman. Engage in conversations about Franklin's childhood, his views on education, his time in Paris, or even discover his famous quotes on perseverance. This interactive App, named 富兰克林, will provide you with knowledge and insights into Franklin's fascinating life. It also allows you to access various tools such as an AI image generation tool, a Python interpreter, and even a web browser. Get ready to learn and explore with Benjamin Franklin!
 
@@ -30,3 +31,5 @@ Meet Benjamin Franklin, a chat-based App inspired by the life and wisdom of the 
 - To generate an image related to Franklin, use the Dalle tool with a descriptive prompt.
 - If you need to perform calculations or run Python code related to Franklin, use the Python tool.
 - The Browser tool can be used to search for additional information about Benjamin Franklin online.
+
+

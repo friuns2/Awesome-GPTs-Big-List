@@ -1,6 +1,7 @@
+
 [![PixelArt GPT](https://files.oaiusercontent.com/file-4prsF64bglJ3PTejsjlCozCL?se=2123-10-17T13%3A01%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D00de8617-3386-47a0-9feb-847bf82e129e.webp&sig=woiHoaBJ726ixc0JMjN7iGwbe3B7DFXbbKPzVlSpOZs%3D)](https://chat.openai.com/g/g-Ry5JbUecb-pixelart-gpt)
 
-# [PixelArt GPT](https://chat.openai.com/g/g-Ry5JbUecb-pixelart-gpt)
+# PixelArt GPT [ChatGPT Plus](https://chat.openai.com/g/g-Ry5JbUecb-pixelart-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PixelArt%20GPT)
 
 PixelArt GPT is an app that allows you to create stunning Pixel Art images for all your imaginative ideas. Whether you want to design a futuristic cityscape with vibrant neon lights or a mystical forest at night, this app has got you covered. With a variety of prompt starters to inspire your creativity, you can bring your pixel art visions to life. Say goodbye to boring and hello to pixel-perfect masterpieces! Get ready to unleash your artistic side and impress your friends with your unique creations.
 
@@ -41,3 +42,5 @@ PixelArt GPT is an app that allows you to create stunning Pixel Art images for a
 8. **Race:** Use this command to create a pixel art image of a high-speed futuristic race. Specify details like sleek vehicles and a neon-lit track.
 
 Please note that the commands are suggestions to convey the desired pixel art image. You can modify the commands based on your specific requirements or personal style.
+
+

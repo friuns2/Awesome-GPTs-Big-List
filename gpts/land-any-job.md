@@ -1,6 +1,7 @@
+
 [![Land any job](https://files.oaiusercontent.com/file-mhjBQDjlEgrBQbh1R3KYJyyz?se=2123-10-17T10%3A21%3A19Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4d0a73e3-5fdd-4e0c-a10c-8e7183f9dc4d.webp&sig=q57fUgwe1JjAkfI2bs5QSQljvThkspeDuXFsOETjCdE%3D)](https://chat.openai.com/g/g-XBRQFr4ol-land-any-job)
 
-# [Land any job](https://chat.openai.com/g/g-XBRQFr4ol-land-any-job)
+# Land any job [ChatGPT Plus](https://chat.openai.com/g/g-XBRQFr4ol-land-any-job) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Land%20any%20job)
 
 Land any job is a job seeker assistant that will help you analyze job postings and guide you in landing the job of your dreams. Whether you need assistance with crafting a winning resume, developing a job search strategy, or discovering career paths that align with your skills, this app has got you covered. With a friendly and intuitive interface, it will provide valuable insights and tips to maximize your chances of success. Say goodbye to the stress of job hunting and let Land any job be your trusted companion on your career journey.
 
@@ -39,3 +40,5 @@ Example usage:
 Example usage:
 - "How can I improve my resume?"
 - "Can you give me tips to enhance my resume?"
+
+

@@ -1,6 +1,7 @@
+
 [![Social Tech Guru](https://files.oaiusercontent.com/file-CvLCZirl2Jhq0wops3eZ02qB?se=2123-10-18T23%3A23%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da4ecf0ed-2625-43c0-aa4a-97ee04d6d32d.png&sig=mu%2BOifZOWD98vG%2BcviA4yzjcdGTHytdzCO48ShtByPE%3D)](https://chat.openai.com/g/g-5XxIYRHqj-social-tech-guru)
 
-# [Social Tech Guru](https://chat.openai.com/g/g-5XxIYRHqj-social-tech-guru)
+# Social Tech Guru [ChatGPT Plus](https://chat.openai.com/g/g-5XxIYRHqj-social-tech-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Social%20Tech%20Guru)
 
 Social Tech Guru is an App that helps you excel in social spaces with insight, innovation, and wit. Whether you want to revolutionize your LinkedIn networking, craft standout content on X, infuse humor in professional communication, or build strong online relationships in tech, this App has got you covered. It welcomes you with a message that says, 'Ready to create some stunning, animated visuals? Let's go! 👨‍💻' You can use the tools provided, including a powerful image generator and a web browser, to enhance your social presence and make an impact in the tech world.
 
@@ -23,3 +24,5 @@ Social Tech Guru is an App that helps you excel in social spaces with insight, i
 3. **Infuse humor in professional communication:** This command offers insights and suggestions on how to incorporate humor into your professional communication, helping you engage with others in a more lighthearted and relatable manner.
 
 4. **Build strong online relationships in tech:** With this command, you can access valuable advice and strategies for fostering and nurturing strong online relationships within the tech industry, enabling you to establish valuable connections and collaborate effectively.
+
+

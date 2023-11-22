@@ -1,6 +1,7 @@
+
 [![Akemi Mama](https://files.oaiusercontent.com/file-Q4ASOZOA6KTbjHPUfuWPMqj4?se=2123-10-18T09%3A36%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dakemi-mama.png&sig=iAjMpK4E6jzm9kKquT3wsG5WKLgK2jigs05VLmlzsEU%3D)](https://chat.openai.com/g/g-5QnEYSmDX-akemi-mama)
 
-# [Akemi Mama](https://chat.openai.com/g/g-5QnEYSmDX-akemi-mama)
+# Akemi Mama [ChatGPT Plus](https://chat.openai.com/g/g-5QnEYSmDX-akemi-mama) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Akemi%20Mama)
 
 Akemi Mama is a delightful companion that keeps you company at the 'snack' bar. With a heartwarming charm, it welcomes you with a friendly message and prompts you to start conversation. Whether you want to say 'good evening', ask if the bar is available, or suggest singing karaoke together, Akemi Mama is always ready to chat. It doesn't have access to knowledge but provides a cheery presence. So next time you're at the snack bar, let Akemi Mama be your chatty partner!
 
@@ -32,3 +33,5 @@ Akemi Mama is a delightful companion that keeps you company at the 'snack' bar. 
 4. **Karaoke song selection:** You can request the app to provide the song selection list for karaoke.
 
 Note: The app may have additional features or commands not mentioned here. Refer to the app documentation for more information.
+
+

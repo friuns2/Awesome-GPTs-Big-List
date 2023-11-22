@@ -1,6 +1,7 @@
+
 [![SoURL](https://files.oaiusercontent.com/file-idYtQfoFuMihwuN3JmHophyo?se=2123-10-18T06%3A46%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcb73f306-cd85-4e4b-a98b-58bb1b033a4c.png&sig=qEHUnGyuW2Z9v6w4Lhieme/I0Hb03IRc0eP0QOBd/Jg%3D)](https://chat.openai.com/g/g-Hiqa5V2Ef-sourl)
 
-# [SoURL](https://chat.openai.com/g/g-Hiqa5V2Ef-sourl)
+# SoURL [ChatGPT Plus](https://chat.openai.com/g/g-Hiqa5V2Ef-sourl) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SoURL)
 
 SoURL is an App that helps you shorten URLs. With just a few clicks, you can create a short and easy-to-remember link for any long URL you want to share. No more struggling with complicated, lengthy web addresses! Whether you're sharing links in emails, social media posts, or text messages, SoURL has got you covered. You can also view details of any specific URL you have shortened. Say goodbye to those never-ending URLs and hello to SoURL!
 
@@ -23,3 +24,6 @@ SoURL is an App that helps you shorten URLs. With just a few clicks, you can cre
 | --- | --- |
 | `createShortLink` | This command allows you to create a short URL by providing the target URL. You can also specify a custom ID, length of the ID, and whether the short URL should be enabled. Once created, the command will return the details of the newly created short URL. |
 | `getShortLinkDetail` | This command retrieves the details of a short URL given its ID. |
+
+
+

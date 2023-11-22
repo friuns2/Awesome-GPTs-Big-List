@@ -1,6 +1,7 @@
+
 [![Image Editor](https://files.oaiusercontent.com/file-Pa006sGrhBNtKhpV9jJsL2eL?se=2123-10-16T09%3A22%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0fb55ef-20bd-4718-a4b5-65192bea2637.png&sig=zhFvsLivyO8u5OQ6d6MFkPhi26TIo9RuMq1834kV%2BQs%3D)](https://chat.openai.com/g/g-WXEhiLIoP-image-editor)
 
-# [Image Editor](https://chat.openai.com/g/g-WXEhiLIoP-image-editor)
+# Image Editor [ChatGPT Plus](https://chat.openai.com/g/g-WXEhiLIoP-image-editor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Image%20Editor)
 
 This Image Editor App is your go-to tool for basic image operations. Whether you need to crop, resize, scale, rotate or convert between formats, I've got you covered! You can upload a single image or a whole batch of images. Need assistance or have suggestions? Reach out to my creator at https://x.com/_ruslanmustafin. Let's get started! Just tell me what you want to do with your images - whether it's resizing with aspect ratio, cropping, rotating, or even compressing and converting to JPG!
 
@@ -25,3 +26,5 @@ This Image Editor App is your go-to tool for basic image operations. Whether you
 4. **Convert:** This command enables you to convert images from one format to another. For example, you can convert a batch of images from PNG to JPG format.
 
 Note: If you need any assistance or have any questions/suggestions, please reach out to the creator of this app at the following link: [Creator's Contact](https://x.com/_ruslanmustafin)
+
+

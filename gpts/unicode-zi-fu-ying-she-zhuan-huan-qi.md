@@ -1,6 +1,7 @@
+
 [![Unicode 字符映射转换器](null)](https://chat.openai.com/g/g-QTXXSV2uX-unicode-zi-fu-ying-she-zhuan-huan-qi)
 
-# [Unicode 字符映射转换器](https://chat.openai.com/g/g-QTXXSV2uX-unicode-zi-fu-ying-she-zhuan-huan-qi)
+# Unicode 字符映射转换器 [ChatGPT Plus](https://chat.openai.com/g/g-QTXXSV2uX-unicode-zi-fu-ying-she-zhuan-huan-qi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Unicode%20%E5%AD%97%E7%AC%A6%E6%98%A0%E5%B0%84%E8%BD%AC%E6%8D%A2%E5%99%A8)
 
 Unicode Character Mapping Converter is a Bot created by Li Jigang (same name as on Just now) for beautifying English styles. It can convert English characters into stylish ones that can be pasted into software like WeChat that doesn't support font switching. If you input Chinese, it will first translate it into English and then convert it. With this app, you can easily transform your text and make it visually appealing. Impress your friends with fancy text styles and fonts!
 
@@ -28,3 +29,5 @@ Unicode Character Mapping Converter is a Bot created by Li Jigang (same name as 
 4. **Translate and convert**: Translates Chinese text to English and then converts it to a stylish format.
 
 5. **Convert and translate**: Converts English text to a stylish format and then translates it to Chinese.
+
+

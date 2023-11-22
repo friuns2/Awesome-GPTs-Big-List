@@ -1,6 +1,7 @@
+
 [![Chronicles of the Neon Shroud](https://files.oaiusercontent.com/file-5LZUhFTWk4Bq9ghsJSN0SLlw?se=2123-10-16T23%3A09%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4428653f-4b63-42c0-949c-1f728b48a1fe.png&sig=Vm01JIoNdVCQDJR7poQbANEzcAj22Cu6ci/xlL/FLNM%3D)](https://chat.openai.com/g/g-rKkvmcSXg-chronicles-of-the-neon-shroud)
 
-# [Chronicles of the Neon Shroud](https://chat.openai.com/g/g-rKkvmcSXg-chronicles-of-the-neon-shroud)
+# Chronicles of the Neon Shroud [ChatGPT Plus](https://chat.openai.com/g/g-rKkvmcSXg-chronicles-of-the-neon-shroud) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chronicles%20of%20the%20Neon%20Shroud)
 
 Step into the cyberpunk world of Chronicles of the Neon Shroud and choose your character. Will you become the rogue hacker with a neon-green mohawk, the street-smart merc with cybernetic arms, the mysterious informant with holo tattoos, or the sly corporate spy in a stealth suit? With this interactive text-based app, you have the power to create your own destiny in a futuristic dystopia. Use Python coding, browse the virtual web, and leverage the advanced capabilities of DALLE to navigate through the story and uncover hidden secrets. Get ready for an immersive cyberpunk adventure like no other!
 
@@ -30,3 +31,5 @@ Step into the cyberpunk world of Chronicles of the Neon Shroud and choose your c
    - Tool 1: Python tool (id: gzm_cnf_Dd2XXHgBgyHkvYGVQhUrMvrN~gzm_tool_TGvgHAzSE0AUZmyt7t5c8Ltf)
    - Tool 2: Browser tool (id: gzm_cnf_Dd2XXHgBgyHkvYGVQhUrMvrN~gzm_tool_v3LWv03sHDp17tObhis1QteP)
    - Tool 3: Dalle tool (id: gzm_cnf_Dd2XXHgBgyHkvYGVQhUrMvrN~gzm_tool_lrIf1BrHqSziUOyRdOEq6KGl)
+
+

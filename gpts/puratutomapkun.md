@@ -1,6 +1,7 @@
+
 [![ぷらっとmapくん](https://files.oaiusercontent.com/file-s5KhUqj0plr6qoYk62y4i0T8?se=2123-10-22T05%3A45%3A13Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D686e5fe8-571b-4fc2-98b1-fbfd9fcea495.png&sig=%2BonC3%2BG2w/X9FWUfCcm7LixY14P%2BHdg5sDkMDx6NOZk%3D)](https://chat.openai.com/g/g-pephh8zrK-puratutomapkun)
 
-# [ぷらっとmapくん](https://chat.openai.com/g/g-pephh8zrK-puratutomapkun)
+# ぷらっとmapくん [ChatGPT Plus](https://chat.openai.com/g/g-pephh8zrK-puratutomapkun) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%B7%E3%82%89%E3%81%A3%E3%81%A8map%E3%81%8F%E3%82%93)
 
 ぷらっとmapくん is your guide to visualizing patent data trends and maps. Whether you want to create bar graphs ranking applicants or patent classifications, or line graphs showing the changes in application numbers, this app has got you covered! With the ability to preprocess data and count the number of applicants in separate cells, it makes analyzing patent data a breeze. And if you're feeling adventurous, you can even create your own interesting graphs! Get ready to dive into the world of patent data visualization with ぷらっとmapくん!
 
@@ -27,3 +28,5 @@
 4. **Test the app**: This command helps you test the functionality of the app.
 
 Note: The app specializes in visualizing patent data trends and maps. It provides tools for browser-based visualization and Python-based data processing. The app also has access to knowledge related to patent data.
+
+

@@ -1,6 +1,7 @@
+
 [![Email Artisan](https://files.oaiusercontent.com/file-jMJa5IKKgqHuBunbF254ADhX?se=2123-10-16T21%3A21%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7f082c94-bffe-4b9b-9430-986027fa09b1.png&sig=qnC1LWdlfOzjv5/5Ec4MRxCuQy3YwjS%2BGAvtPR3NK8I%3D)](https://chat.openai.com/g/g-fUyGkPnv7-email-artisan)
 
-# [Email Artisan](https://chat.openai.com/g/g-fUyGkPnv7-email-artisan)
+# Email Artisan [ChatGPT Plus](https://chat.openai.com/g/g-fUyGkPnv7-email-artisan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Email%20Artisan)
 
 Email Artisan is an app that helps you write engaging cold emails. Whether you're pitching a SaaS product or reaching out to potential clients, this app has got you covered. With prompt starters like drafting a cold email, rewriting for better engagement, creating templates, and giving tips for subject lines, you'll have all the tools you need to craft compelling and effective emails. Plus, you'll have access to Python code, a browser, and DALL·E, an AI-powered tool, to enhance your email-writing skills. Get ready to impress with your email prowess!
 
@@ -25,3 +26,5 @@ Email Artisan is an app that helps you write engaging cold emails. Whether you'r
 4. **Subject Line Tips:** Get tips for crafting better subject lines for your cold emails. This command provides suggestions and best practices to make your subject lines more attention-grabbing and compelling.
 
 Note: The app utilizes various tools, including Python, browser, and DALL-E, to assist in the email drafting process.
+
+

@@ -1,6 +1,7 @@
+
 [![CTF Conqueror](https://files.oaiusercontent.com/file-LkqthJaSvAAasNzmqcjecWs4?se=2123-10-16T22%3A28%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Da5f54e36-2a37-4aef-82cf-c9b5195b527b.png&sig=3uWuqygz7N77%2BHlwXuD2983jdtEoqycvotsCBXre7Y8%3D)](https://chat.openai.com/g/g-hYLE56hua-ctf-conqueror)
 
-# [CTF Conqueror](https://chat.openai.com/g/g-hYLE56hua-ctf-conqueror)
+# CTF Conqueror [ChatGPT Plus](https://chat.openai.com/g/g-hYLE56hua-ctf-conqueror) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CTF%20Conqueror)
 
 CTF Conqueror is the ultimate companion for anyone participating in Capture the Flag (CTF) competitions. This app provides expert advice and winning strategies to help you conquer any challenge. Whether you're looking for tips on approaching a CTF, improving teamwork, defending against common attacks, or delving into binary exploitation, CTF Conqueror has got you covered. With a champion's corner welcome message, you'll feel motivated and ready to take on the competition. Plus, you have access to powerful tools including DALL-E for creative problem-solving, Python for scripting, and a browser for exploring the web. Get ready to dominate the CTF arena with CTF Conqueror!
 
@@ -31,3 +32,5 @@ CTF Conqueror is the ultimate companion for anyone participating in Capture the 
    c. **Browser**: This tool provides a browsing functionality. It can be used to search for CTF-related resources, tutorials, or write-ups on various topics.
 
 Note: The App does not have access to knowledge and will provide advice based on general recommendations and strategies for CTF.
+
+

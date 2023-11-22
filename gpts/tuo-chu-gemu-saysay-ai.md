@@ -1,6 +1,7 @@
+
 [![脱出ゲーム - saysay.ai](null)](https://chat.openai.com/g/g-51ki0MJ1S-tuo-chu-gemu-saysay-ai)
 
-# [脱出ゲーム - saysay.ai](https://chat.openai.com/g/g-51ki0MJ1S-tuo-chu-gemu-saysay-ai)
+# 脱出ゲーム - saysay.ai [ChatGPT Plus](https://chat.openai.com/g/g-51ki0MJ1S-tuo-chu-gemu-saysay-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0%20-%20saysay.ai)
 
 In the '脱出ゲーム - saysay.ai' app, you find yourself trapped in a room and your mission is to escape. Put your problem-solving skills to the test as you search for clues, solve puzzles, and unlock doors. With each step, you'll uncover new challenges and hidden secrets. Can you find a way out? Get ready for a thrilling adventure that will keep you hooked until the very end!
 
@@ -27,3 +28,5 @@ In the '脱出ゲーム - saysay.ai' app, you find yourself trapped in a room an
 - Remember that the goal of the game is to escape from the locked room. Use your creativity and problem-solving skills to find solutions and overcome obstacles.
 
 - Enjoy the game and have fun trying to escape!
+
+

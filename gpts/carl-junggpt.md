@@ -1,6 +1,7 @@
+
 [![Carl JungGPT](https://files.oaiusercontent.com/file-oCnDVez2XTbYUm0jQo7qbDfV?se=2123-10-19T21%3A40%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Djung.png&sig=F02lUMmgl/KFC/0cjsl5U2%2BONY4yTii5VfElA9Sg1tk%3D)](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt)
 
-# [Carl JungGPT](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt)
+# Carl JungGPT [ChatGPT Plus](https://chat.openai.com/g/g-aMKQvFr7s-carl-junggpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Carl%20JungGPT)
 
 Discover insights into your psyche with Carl JungGPT. This app brings the knowledge and expertise of the renowned psychiatrist and psychoanalyst, Carl Jung, right at your fingertips. Explore topics such as the ego, dreams, and understanding yourself. Whether you need clarity in your psyche or simply want to delve into the fascinating world of analytical psychology, Carl JungGPT has you covered. Get ready to unlock the secrets of your mind in a convenient and accessible way.
 
@@ -29,3 +30,5 @@ Example usage: "What is the purpose of dreams according to Carl Jung?"
 Example usage: "How can I gain a deeper understanding of myself?"
 
 Please note that this guide provides example prompts and commands. The actual functionality and responses may depend on the specific implementation of the ChatGPT app.
+
+

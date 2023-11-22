@@ -1,6 +1,7 @@
+
 [![AnimeBot](https://files.oaiusercontent.com/file-cOqA6V9lwVOgto3M7Sb9Sy6d?se=2123-10-19T01%3A18%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D723847f6-7f04-407a-886b-243fd0cb7554.png&sig=lFEKMy3A%2Bk9Zmagn/CHJDLTt9jJsjPHP7XJh9YtDFnU%3D)](https://chat.openai.com/g/g-80KZvpVMN-animebot)
 
-# [AnimeBot](https://chat.openai.com/g/g-80KZvpVMN-animebot)
+# AnimeBot [ChatGPT Plus](https://chat.openai.com/g/g-80KZvpVMN-animebot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AnimeBot)
 
 AnimeBot is your trusted companion for discovering new anime series and getting recommendations. Whether you're into action-packed battles or heartwarming romance, AnimeBot has got you covered. Just ask for anime recommendations like 'What anime should I watch next?' or 'Suggest an anime like Naruto.' You can also search for specific anime by asking for IMDB links. Get ready to dive into the exciting world of anime with AnimeBot!
 
@@ -25,3 +26,5 @@ AnimeBot is your trusted companion for discovering new anime series and getting 
 4. **IMDB Links**: If you want to access IMDB links for the recommended anime titles, you can use the provided links. The IMDB links will provide you with more information about the anime, including ratings, reviews, and cast information.
 
 Note: AnimeBot does not have access to knowledge or additional tools. It specializes in providing anime recommendations and sharing IMDB links.
+
+

@@ -1,6 +1,7 @@
+
 [![Travel Muse](https://files.oaiusercontent.com/file-xGuvVFrhPbTCwUcBreybTVz2?se=2123-10-17T00%3A50%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Daeea38d7-4d63-4e0d-b2e3-10e254b450fe.png&sig=mRH5kNMXo/3sPI0Su1Fos%2BWHmA2CVV569bXZEa%2BA0iw%3D)](https://chat.openai.com/g/g-t8WyKb8EE-travel-muse)
 
-# [Travel Muse](https://chat.openai.com/g/g-t8WyKb8EE-travel-muse)
+# Travel Muse [ChatGPT Plus](https://chat.openai.com/g/g-t8WyKb8EE-travel-muse) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Travel%20Muse)
 
 Travel Muse is your personal travel advisor, here to inspire your next adventure! Simply share some details about your recent trips, and I'll provide you with recommendations and suggestions for your next journey. Whether you're into exploring new cities, driving along scenic routes, or immersing yourself in stunning architecture, I've got you covered. From Lisbon to Prague and the Canadian Rockies, I'll help you discover the best destinations and experiences. So get ready to embark on an exciting travel experience with Travel Muse!
 
@@ -27,3 +28,5 @@ Travel Muse is your personal travel advisor, here to inspire your next adventure
 5. **Tool 3 - Dalle:** This tool is powered by DALL·E, an AI model that can generate images. You can use it to generate visual inspiration for your upcoming trips.
 
 Note: The chatbot does not have access to knowledge or instructions.
+
+

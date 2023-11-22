@@ -1,6 +1,7 @@
+
 [![ChatDoc](https://files.oaiusercontent.com/file-M0NLFmpNx4tL1yomlSmyHThS?se=2123-10-17T06%3A40%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D58a93068-5a4b-4389-bf36-301630360da2.png&sig=Q7/yEAucdkSLneEm/DOLIyFNoaHB4OH0gnU3A3wib5Q%3D)](https://chat.openai.com/g/g-SVV3sT9Wo-chatdoc)
 
-# [ChatDoc](https://chat.openai.com/g/g-SVV3sT9Wo-chatdoc)
+# ChatDoc [ChatGPT Plus](https://chat.openai.com/g/g-SVV3sT9Wo-chatdoc) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=ChatDoc)
 
 ChatDoc is an app that allows you to have interactive conversations with documents. Simply start a conversation by asking a document-based question, and ChatDoc will assist you in finding the relevant information. You can ask questions like 'What does the document say about...' or 'Can you find information on...'. With access to various tools, including a browser, Python, and DALL·E (a text-to-image generator), ChatDoc can provide comprehensive answers and insights. Whether you need help with research, analysis, or understanding complex documents, ChatDoc is here to assist you!
 
@@ -21,3 +22,5 @@ ChatDoc is an app that allows you to have interactive conversations with documen
 2. **Retrieve specific details:** You can ask the ChatGPT App to provide specific details based on the content of the document. Use prompts like "Based on the document, how many..." or "Using only the document, explain...".
 
 Remember, the ChatGPT App is designed to provide document-based responses based on the given instructions. Feel free to ask questions or request information related to the document, and the App will do its best to assist you!
+
+

@@ -1,6 +1,7 @@
+
 [![Bahá'í Explorer](https://files.oaiusercontent.com/file-E58dDCQl0HTAwgZZkR9ObDyU?se=2123-10-19T19%3A57%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D091c6b0b-528b-49a9-8569-b2f30a1f5db6.png&sig=CoN915s7zKEumdNN5Drm%2BmImD1dAAaCc3WO7Hwy6sHM%3D)](https://chat.openai.com/g/g-YFue8FRU9-baha-i-explorer)
 
-# [Bahá'í Explorer](https://chat.openai.com/g/g-YFue8FRU9-baha-i-explorer)
+# Bahá'í Explorer [ChatGPT Plus](https://chat.openai.com/g/g-YFue8FRU9-baha-i-explorer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Bah%C3%A1'%C3%AD%20Explorer)
 
 Bahá'í Explorer is your AI guide to the Bahá'í Faith. Whether you're new to the faith or seeking answers, this app has you covered. Ask any question about the Bahá'í Faith, and the app will provide informative and accurate answers. From explaining the concept of unity and the teachings of Baha'u'llah to discussing gender equality and the evolution of religion, Bahá'í Explorer is your knowledgeable companion. It's like having a Bahá'í expert in your pocket, ready to share insights and deepen your understanding of this fascinating religion.
 
@@ -33,3 +34,5 @@ Bahá'í Explorer is your AI guide to the Bahá'í Faith. Whether you're new to 
    - "Are there any official sources I can refer to?"
 
 Note: The provided commands and prompts are just examples. Feel free to ask any questions or inquire about any aspect of the Bahá'í Faith's teachings.
+
+

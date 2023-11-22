@@ -1,6 +1,7 @@
+
 [![Compatibility Guide](https://files.oaiusercontent.com/file-wuZIayfJvJskQobL0GkKnons?se=2123-10-18T20%3A46%3A14Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfadeb8c4-b5b4-4789-a17a-b2f479d17fc5.png&sig=2dRhJnyhhbVJvFVE1GUkYdOeytnplZqzQm1bjEKxa/E%3D)](https://chat.openai.com/g/g-GustC552H-compatibility-guide)
 
-# [Compatibility Guide](https://chat.openai.com/g/g-GustC552H-compatibility-guide)
+# Compatibility Guide [ChatGPT Plus](https://chat.openai.com/g/g-GustC552H-compatibility-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Compatibility%20Guide)
 
 Compatibility Guide is an App that specializes in interpreting personality profiles to enhance communication. Whether you're creating a team or want to know who you're compatible with, this App has got you covered. Get insights into different personality types and learn how to effectively communicate with each one. Have questions about personality profile tests or need advice on interacting with a specific type? Compatibility Guide has all the answers. With a friendly and informative interface, it's like having a personal guide to help you navigate the world of personality profiles. Discover the keys to successful communication, one profile at a time!
 
@@ -33,3 +34,5 @@ Example command: "As an ISFJ, who am I compatible with according to different pe
 Example command: "How should I communicate with an ENFP?"
 
 Please note that this app does not have access to knowledge or tools.
+
+

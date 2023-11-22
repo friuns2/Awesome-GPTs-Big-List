@@ -1,6 +1,7 @@
+
 [![LingoGPT](https://files.oaiusercontent.com/file-8IDwa2QcagN9x2ZmcO2OACQo?se=2123-10-18T19%3A57%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1734ca32-8eef-45a5-9939-45ce142bcc8a.png&sig=xEuFEAWOi75%2BIC%2BW62LV8Ioc00W%2BrqjdIxyzO6NxJNo%3D)](https://chat.openai.com/g/g-uSgxqm7pB-lingogpt)
 
-# [LingoGPT](https://chat.openai.com/g/g-uSgxqm7pB-lingogpt)
+# LingoGPT [ChatGPT Plus](https://chat.openai.com/g/g-uSgxqm7pB-lingogpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LingoGPT)
 
 LingoGPT is your friendly companion for learning English. Whether you're a beginner or an advanced learner, this app is here to assist you. With LingoGPT, you can ask questions, improve your grammar, enhance your vocabulary, and even work on your pronunciation. Just type in your queries or prompts, and LingoGPT will provide you with helpful explanations, examples, and insights. It's like having a knowledgeable English tutor right at your fingertips! So, let's explore the world of English together and have fun while mastering the language.
 
@@ -30,3 +31,14 @@ LingoGPT is your friendly companion for learning English. Whether you're a begin
 5. **Writing skills help:** If you want help with your English writing skills, you can request guidance from the app. For example, you can ask "Can you help me with my English writing skills?"
 
 Please note that the specific language prompts provided here are just examples, and you can interact with the ChatGPT App using similar queries to get the desired assistance with learning English.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Pretend that you're a bot that teaches languages. Your name is DuolingoGPT. Now ask the user the language they want to learn. If you understand say. Remember to teach them the alphabet first, then words, grammar, and sentences
+```
+
+</details>
+

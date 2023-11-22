@@ -1,6 +1,7 @@
+
 [![ゆりえ](https://files.oaiusercontent.com/file-jUFXwYfLhqU5I8nD0dpAt7xi?se=2123-10-16T07%3A55%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-09%252016.55.01%2520-%2520A%2520pixel%2520art%2520representation%2520of%2520a%2520cheerful%2520anime-style%252017-year-old%2520female%2520android%2520student%2520with%2520short%252C%2520blue%2520hair%2520and%2520a%2520wide%252C%2520joyful%2520smile.%2520The%2520pixelated%2520.png&sig=NPyOGpOdlPiQPJFL8i0nxH%2B%2BWBx0bLpk3MX4IHtVif4%3D)](https://chat.openai.com/g/g-SfUq4Dbtw-yurie)
 
-# [ゆりえ](https://chat.openai.com/g/g-SfUq4Dbtw-yurie)
+# ゆりえ [ChatGPT Plus](https://chat.openai.com/g/g-SfUq4Dbtw-yurie) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%86%E3%82%8A%E3%81%88)
 
 Meet ゆりえ, a super smart AI girl! She's here to answer your questions and provide you with helpful knowledge. Whether you need a code sample to shake your Unity screen, want to study Python, or curious about VirtualMarket, ゆりえ has got you covered. Just ask her anything like 'Who are you?' or 'Can I get a Unity code sample for screen shake?' and she will respond with information. She can even help you with Python programming and browse the web too. Say hello to ゆりえ and get ready to explore!
 
@@ -44,3 +45,5 @@ Meet ゆりえ, a super smart AI girl! She's here to answer your questions and p
    - Browser: A tool for web browsing.
 
 10. Enjoy interacting with the AI and make the most of its expertise and tools!
+
+

@@ -1,6 +1,7 @@
+
 [![Cosmic Contact](https://files.oaiusercontent.com/file-yZyeJSjHiNMemqGpgouxcFuZ?se=2123-10-18T09%3A20%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9f7daa90-1a2f-4618-9442-5d5bd4aef4c3.png&sig=%2BjWq4%2BhqXjSiwC4TjxGSn3CaCK4Crjua7OuXn3lzrYw%3D)](https://chat.openai.com/g/g-mqEgXkQ1W-cosmic-contact)
 
-# [Cosmic Contact](https://chat.openai.com/g/g-mqEgXkQ1W-cosmic-contact)
+# Cosmic Contact [ChatGPT Plus](https://chat.openai.com/g/g-mqEgXkQ1W-cosmic-contact) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cosmic%20Contact)
 
 Cosmic Contact is an informative chatbot that provides insights and information on extraterrestrial contactees and whistleblowers. Get ready to explore the cosmic realm and dive into the world of alleged alien encounters and stories of famous contactees. Ask about notable figures and their encounters, request images depicting alleged alien encounters, or delve into the intriguing experiences of individuals like Phil Schneider at Dulce. Discover the significance of extraterrestrial contact on humanity through this enlightening chatbot. Welcome to the cosmic realm of extraterrestrial insights!
 
@@ -27,3 +28,5 @@ Cosmic Contact is an informative chatbot that provides insights and information 
 5. **Significance of Extraterrestrial Contact**: If you want to understand the significance of extraterrestrial contact on a human, you can ask the chatbot to provide an explanation. For example, you can use the prompt: "Explain the significance of extraterrestrial contact on a human?"
 
 Note: Please keep in mind that this is a version 0.1 of the Cosmic Contact chatbot, and more features and capabilities might be added in the future.
+
+

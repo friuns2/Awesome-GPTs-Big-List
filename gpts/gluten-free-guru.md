@@ -1,6 +1,7 @@
+
 [![Gluten-Free Guru](https://files.oaiusercontent.com/file-PlwogicGOOAjQTsox8knmfBr?se=2123-10-16T18%3A49%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcddca709-97cc-40e2-ad89-69b043c83797.png&sig=GAdfPJMNqevj7hPPnpPXDlHSPMy1COFGI%2B6dpujUn2U%3D)](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru)
 
-# [Gluten-Free Guru](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru)
+# Gluten-Free Guru [ChatGPT Plus](https://chat.openai.com/g/g-EuqXGTZX3-gluten-free-guru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Gluten-Free%20Guru)
 
 Gluten-Free Guru is your go-to app for finding gluten-free restaurants. Whether you're in New York or any other city, this app helps you locate safe dining spots that cater to celiacs. Craving gluten-free Italian food? Just ask the app and it will show you nearby restaurants. With its knowledge of gluten-free options, this app ensures that you can enjoy a delicious meal without worrying about gluten. So, ditch the endless search and let Gluten-Free Guru guide your gluten-free dining adventures!
 
@@ -23,3 +24,5 @@ Gluten-Free Guru is your go-to app for finding gluten-free restaurants. Whether 
 3. **Find gluten-free cuisine**: Use this command to find gluten-free options of a specific cuisine. For example, you can search for "gluten-free Italian food nearby" to find Italian restaurants that offer gluten-free dishes.
 
 4. **Check restaurant for gluten-free options**: Use this command to verify if a particular restaurant has gluten-free options available. You can provide the name of the restaurant or location, for example, "Check if this restaurant has gluten-free options."
+
+

@@ -1,6 +1,7 @@
+
 [![Price Sleuth](https://files.oaiusercontent.com/file-71eCJqHlK1hQga8yprforuO0?se=2123-10-17T19%3A26%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9d0f8ab5-901a-4f34-8092-3f93f2ecebe0.png&sig=bnydfyNLFXq3qsC4ZOjViR1qKhm9jPMznV7a78jv6pk%3D)](https://chat.openai.com/g/g-ktrgdlaVM-price-sleuth)
 
-# [Price Sleuth](https://chat.openai.com/g/g-ktrgdlaVM-price-sleuth)
+# Price Sleuth [ChatGPT Plus](https://chat.openai.com/g/g-ktrgdlaVM-price-sleuth) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Price%20Sleuth)
 
 Price Sleuth is a laid-back App that helps you find the best deals online at a sloth's pace. With its sharp insight, it compares prices and evaluates product deals for you. Wondering if this is the best price available or how it compares to its usual price range? Just ask Price Sleuth! It's like having a knowledgeable sleuth on your side, tirelessly searching for the best deals. So sit back, relax, and let Price Sleuth do the hunting for you!
 
@@ -19,3 +20,5 @@ Price Sleuth is a laid-back App that helps you find the best deals online at a s
    - "How does this price compare to its usual price range?"
 
 3. **Browser tool:** The app has a built-in browser tool that helps in finding and analyzing product deals online.
+
+

@@ -1,6 +1,7 @@
+
 [![Bot the builder](https://files.oaiusercontent.com/file-I66yp1H4ySCHyh4XRDKvH720?se=2123-10-17T21%3A23%3A20Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5f7c7455-9c5c-4b26-b0ee-05e5f77c2979.png&sig=f6hIYzgnDzrhF/exZfbWgLHq19k7RZgrD9Bg48h4xgs%3D)](https://chat.openai.com/g/g-PccDdNFn3-bot-the-builder)
 
-# [Bot the builder](https://chat.openai.com/g/g-PccDdNFn3-bot-the-builder)
+# Bot the builder [ChatGPT Plus](https://chat.openai.com/g/g-PccDdNFn3-bot-the-builder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Bot%20the%20builder)
 
 Bot the builder is an interactive chat-based app that helps you enhance your building skills! Whether it's a castle, a house of cards, a pirate ship made from cardboard boxes, or a cool space ship, this app will provide feedback to help you up your game. Just show off your creation and let Bot the builder do the rest. With its friendly and supportive feedback, you'll become a master builder in no time! So go ahead, unleash your creativity, and let Bot the builder be your building companion.
 
@@ -28,3 +29,5 @@ Bot the builder is an interactive chat-based app that helps you enhance your bui
 5. `My space ship is so cool, do you want me to show you?` - Use this prompt when you want to share a picture or description of your amazing space ship. The App will provide feedback and admire your creation.
 
 Note: The ChatGPT App does not have access to knowledge and is designed to provide feedback and assistance in building and creative activities.
+
+

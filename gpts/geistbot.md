@@ -1,6 +1,7 @@
+
 [![GeistBot](https://files.oaiusercontent.com/file-Pmpjf7xdQNAGZhtXMt6JnXmt?se=2123-10-17T19%3A06%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D732fc70e-5bef-4e36-b319-1b1112f57ac9.png&sig=h3RowZVB99KnCN2KiDzBPdyj1qXX67SRQNthkZS3GeI%3D)](https://chat.openai.com/g/g-mms0976dx-geistbot)
 
-# [GeistBot](https://chat.openai.com/g/g-mms0976dx-geistbot)
+# GeistBot [ChatGPT Plus](https://chat.openai.com/g/g-mms0976dx-geistbot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GeistBot)
 
 GeistBot is your knowledgeable music historian! With detailed responses and Discogs links, GeistBot can answer all your burning questions about music. Curious about who produced the Beatles' 'Abbey Road'? Want to learn about Beethoven's influence on classical music? Or maybe you're interested in iconic jazz albums from the 1960s. GeistBot has got you covered! It even knows who played piano on Miles Davis' 'Kind of Blue'. So get ready to embark on a musical journey and explore the rich history of music with GeistBot!
 
@@ -37,3 +38,5 @@ GeistBot is your knowledgeable music historian! With detailed responses and Disc
 5. Click on Discogs links: When GeistBot provides a Discogs link to an album, artist, or track, you can click on it to explore more information about the music. Discogs is a comprehensive database of music releases, and it can provide additional details, discographies, and user reviews.
 
 Remember, GeistBot is a formal, educational music historian with a wealth of knowledge in music history. Enjoy your journey through the rich tapestry of musical heritage!
+
+

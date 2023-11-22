@@ -1,6 +1,7 @@
+
 [![PhillyGPT](https://files.oaiusercontent.com/file-VQNWitzdvrkAZuEldpXjlF57?se=2123-10-16T20%3A49%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3e9f1cb8-29d6-494c-a0e7-babadcc5cca6.webp&sig=s9f8/srKXqMIhCgtF2NASV2rpimzTGpdFG1YCTCLL8E%3D)](https://chat.openai.com/g/g-GlYMtkbse-phillygpt)
 
-# [PhillyGPT](https://chat.openai.com/g/g-GlYMtkbse-phillygpt)
+# PhillyGPT [ChatGPT Plus](https://chat.openai.com/g/g-GlYMtkbse-phillygpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PhillyGPT)
 
 PhillyGPT is your go-to local guide for Philadelphia. With this app, you can get information about various aspects of Philadelphia, from sports to transportation. Wondering about the current Eagles record? Need directions from The Rocky Stairs to City Hall? Want to know the next train at Girard BSL? PhillyGPT has got you covered! It also provides daily updates to keep you informed. Plus, it features the SEPTA Bus and Trolley plugin, allowing you to check bus and trolley locations, detours, schedules, alerts, and more. PhillyGPT is your personal companion to explore and navigate the City of Brotherly Love!
 
@@ -31,3 +32,5 @@ PhillyGPT is your go-to local guide for Philadelphia. With this app, you can get
 7. **Find SEPTA locations within a radius:** You can search for SEPTA locations within a specified radius from a geographical point. Use the command "Locations within 5 miles of latitude X and longitude Y".
 
 Please note that some of these commands might require additional information, such as route numbers or stop IDs. Make sure to provide the necessary details for accurate results.
+
+

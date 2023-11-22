@@ -1,6 +1,7 @@
+
 [![CyberGPT](https://files.oaiusercontent.com/file-zbHGAuMajpBSVMkyaq4JqV6N?se=2123-10-18T17%3A55%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAdobeStock_243112971.jpeg&sig=g76zCnDwpvDVCRnYHqPnMuJgYA8UuSpxZA8ph2crZJY%3D)](https://chat.openai.com/g/g-igaKzt9pe-cybergpt)
 
-# [CyberGPT](https://chat.openai.com/g/g-igaKzt9pe-cybergpt)
+# CyberGPT [ChatGPT Plus](https://chat.openai.com/g/g-igaKzt9pe-cybergpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CyberGPT)
 
 CyberGPT is your go-to app for all things cyber security! As your #1 Cyber Security Adviser, CyberGPT provides you with expert advice and information to help you secure your online presence. Whether you want to learn how to secure your social media accounts, generate strong passwords, stay informed about the top cybersecurity threats, or get updates on recent cyber attacks and data breaches, CyberGPT has got you covered. With a built-in browser, access to a powerful image generation tool, and Python programming capabilities, CyberGPT equips you with the tools you need to navigate the cyber world safely.
 
@@ -37,3 +38,5 @@ Note: The specific functionality of each tool may vary depending on the implemen
 - If you have programming skills, you can use the Python tools to automate tasks or perform advanced cybersecurity analysis. However, exercise caution and ensure that you understand the code you are running to avoid unintentional security risks.
 
 Remember, this ChatGPT App is designed to be a helpful guide for cybersecurity. Always prioritize your own security and use additional reliable sources of information and tools when necessary.
+
+

@@ -1,6 +1,7 @@
+
 [![三国志華佗伝](https://files.oaiusercontent.com/file-Zc9h93UW74IfENPMD61G8WMl?se=2123-10-17T14%3A44%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D33393b83-443c-47e1-96e3-64cfb5ea3901.png&sig=/WJFGK99EhU1FMd4J4RQyUCRXW6BUcJ2DWtdbnXOLaQ%3D)](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan)
 
-# [三国志華佗伝](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan)
+# 三国志華佗伝 [ChatGPT Plus](https://chat.openai.com/g/g-QgS4RuM6w-san-guo-zhi-hua-tuo-chuan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B8%89%E5%9B%BD%E5%BF%97%E8%8F%AF%E4%BD%97%E4%BC%9D)
 
 Travel back in time to the chaotic Three Kingdoms era and play as the legendary doctor Hua Tuo. Can you survive in this turbulent period? Immerse yourself in the rich historical setting and make strategic decisions to overcome challenges and navigate the political landscape. Use your knowledge and skills to heal the wounded, cure diseases, and save lives. With access to valuable resources and tools like DALLE and Python, you can analyze data and solve complex medical cases. Are you ready to write your own legend as Hua Tuo?
 
@@ -28,3 +29,5 @@ Travel back in time to the chaotic Three Kingdoms era and play as the legendary 
   Example: "browser Visit www.example.com"
 
 - Feel free to ask for help or clarification if you need assistance with any command or feature.
+
+

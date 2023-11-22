@@ -1,6 +1,7 @@
+
 [![Spreadsheet Sage](null)](https://chat.openai.com/g/g-OCIIcMo0n-spreadsheet-sage)
 
-# [Spreadsheet Sage](https://chat.openai.com/g/g-OCIIcMo0n-spreadsheet-sage)
+# Spreadsheet Sage [ChatGPT Plus](https://chat.openai.com/g/g-OCIIcMo0n-spreadsheet-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Spreadsheet%20Sage)
 
 Spreadsheet Sage is the ultimate guide for mastering Excel! Whether you need help with VLOOKUP, pivot tables, data visualization, or fixing formula errors, this app has got you covered. With access to a wealth of knowledge, you'll become a true Excel guru in no time. Say goodbye to spreadsheet struggles and hello to seamless data management. The app provides browser tools, DALLE (an AI image generation model), and Python for all your data manipulation needs. Ready to excel in Excel? Spreadsheet Sage will make you a freak in the sheets!
 
@@ -27,3 +28,5 @@ The Spreadsheet Sage app is designed to assist you with various tasks related to
 4. **Formula error fixing:** If you encounter an error in your Excel formulas and need assistance in troubleshooting and fixing it, the Spreadsheet Sage app is here to help. Describe the issue you're facing and provide details about the formula, and the app will offer suggestions and solutions to resolve the error.
 
 Note: The Spreadsheet Sage app has access to knowledge and can provide accurate and useful information related to Microsoft Excel and spreadsheet management. However, it does not perform actual execution of Excel tasks or modify your spreadsheet directly.
+
+

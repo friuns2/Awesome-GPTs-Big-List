@@ -1,6 +1,7 @@
+
 [![📅 Schedule Companion | ゆみちゃん](https://files.oaiusercontent.com/file-Byz3SG1hc82o21JzmxUZ4q6V?se=2123-10-16T07%3A23%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dshoty_k2_reiwa_Garyufemale_23_yo_smile_face_zoom_up_cyan_colore_6b1a0240-6cbb-40b9-90dd-e77f14f32cf4.png&sig=s/mtRNC7fimq9sQCLH7eYNqG037uHQPjD/Ed9FJ9Nsk%3D)](https://chat.openai.com/g/g-lmb6WNkvk-schedule-companion-yumitiyan)
 
-# [📅 Schedule Companion | ゆみちゃん](https://chat.openai.com/g/g-lmb6WNkvk-schedule-companion-yumitiyan)
+# 📅 Schedule Companion | ゆみちゃん [ChatGPT Plus](https://chat.openai.com/g/g-lmb6WNkvk-schedule-companion-yumitiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%F0%9F%93%85%20Schedule%20Companion%20%7C%20%E3%82%86%E3%81%BF%E3%81%A1%E3%82%83%E3%82%93)
 
 Manage and plan your schedules and tasks with ease using Schedule Companion! This personal assistant integrates seamlessly with Google Calendar, allowing you to paste messages and create events or tasks directly. Whether you want to schedule something from the content you're about to send, find trending topics on the web to fill in your schedule, or generate calendar registration URLs, this app has got you covered. With Schedule Companion, stay organized, save time, and never miss an important event again!
 
@@ -19,3 +20,5 @@ Manage and plan your schedules and tasks with ease using Schedule Companion! Thi
 - **Generate registration URLs**: You can request the ChatGPT App to generate URLs for calendar registrations.
 
 Please note that this is a general guide and the actual commands and functionality may vary based on the implementation of the ChatGPT App. Refer to the App documentation for specific usage instructions.
+
+

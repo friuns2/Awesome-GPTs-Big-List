@@ -1,6 +1,7 @@
+
 [![MentiHeal](https://files.oaiusercontent.com/file-C3bmgGXg4MUq51ZsK2ZVYuTK?se=2123-10-17T19%3A32%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D3946ed97-d0b9-4662-879c-d63976488c55.png&sig=TvvjDvCGLcW3KMPdWNd8f6DyLIavC6UPRKnsmvr4O%2Bk%3D)](https://chat.openai.com/g/g-tnAgDftpO-mentiheal)
 
-# [MentiHeal](https://chat.openai.com/g/g-tnAgDftpO-mentiheal)
+# MentiHeal [ChatGPT Plus](https://chat.openai.com/g/g-tnAgDftpO-mentiheal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=MentiHeal)
 
 MentiHeal is your trusted companion for navigating mental health, relationships, and career wellness. Whether you need help managing daily stress, learning mindfulness exercises, or finding ways to relax after work, MentiHeal has got you covered. With a focus on mental wellness and understanding depression, MentiHeal is here to assist you in your journey towards a healthier and happier life. Let's explore the world of mental wellness together!
 
@@ -25,3 +26,5 @@ MentiHeal is your trusted companion for navigating mental health, relationships,
 4. **Feeling overwhelmed:** Users who feel overwhelmed can seek advice on what to do and receive recommendations or coping strategies.
 
 5. **Relaxing after work:** Users can ask for suggestions on how to relax and unwind after work, and receive ideas or activities to help them relax.
+
+

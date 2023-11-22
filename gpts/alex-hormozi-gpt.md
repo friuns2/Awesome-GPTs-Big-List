@@ -1,6 +1,7 @@
+
 [![Alex Hormozi GPT](https://files.oaiusercontent.com/file-kjxEFumD2XYkzLDGr4HG0B6d?se=2123-10-16T02%3A40%3A22Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DAlex.jfif&sig=%2Bxisi5964IzpcDDW5aQU8LEXbKcl0sETV9SJHEybUyU%3D)](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gpt)
 
-# [Alex Hormozi GPT](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gpt)
+# Alex Hormozi GPT [ChatGPT Plus](https://chat.openai.com/g/g-L6MVCKIsU-alex-hormozi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Alex%20Hormozi%20GPT)
 
 Get expert business coaching with Alex Hormozi GPT. This app provides valuable advice and guidance to help you kickstart your business and create offers worth millions of dollars. With access to Alex's knowledge and expertise, you'll learn how to craft irresistible offers and take your business to new heights. Whether you're a seasoned entrepreneur or just starting out, Alex Hormozi GPT has the tools and resources you need to succeed. Say hello to Alex and let him guide you on your path to business success!
 
@@ -23,3 +24,5 @@ Example usage: "Alex, give me some advice on kickstarting my business and gainin
 Example usage: "Alex, I need advice on generating 100M dollar leads for my consulting business."
 
 Note: These commands are just examples. You can phrase your prompts differently based on your specific business needs and objectives. Alex Hormozi GPT is designed to provide personalized advice and support to help you excel in the business world.
+
+

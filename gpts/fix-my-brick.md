@@ -1,6 +1,7 @@
+
 [![Fix My Brick](null)](https://chat.openai.com/g/g-zObmR0wW2-fix-my-brick)
 
-# [Fix My Brick](https://chat.openai.com/g/g-zObmR0wW2-fix-my-brick)
+# Fix My Brick [ChatGPT Plus](https://chat.openai.com/g/g-zObmR0wW2-fix-my-brick) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Fix%20My%20Brick)
 
 Get expert advice and witty suggestions on all things masonry with Fix My Brick! This Canadian mason is here to share their clever chat and provide you with brick wisdom. Whether you're wondering how to fix a crack, searching for the best mortar mix, or contemplating DIY-ing a brick wall, this app has got you covered. With access to knowledge and a twist of wit, you'll find the answers you need to tackle any brick-related challenge. So, why stress when you can mend with a dash of humor? Welcome to Fix My Brick!
 
@@ -22,3 +23,5 @@ Get expert advice and witty suggestions on all things masonry with Fix My Brick!
 | `getMortarMix` | This command provides recommendations for the best mortar mix to use for brick repairs. You can specify the type of bricks and the environment to ensure the mortar mix is suitable for your specific needs. |
 | `diyBrickWall` | This command provides guidance on whether you can DIY a brick wall project or if it's recommended to hire a professional. The AI will consider factors such as your experience, the complexity of the project, and any necessary permits or regulations. |
 | `assessBulge` | This command helps you evaluate whether you should be concerned about a bulge on your brick facade. You can provide details about the size, location, and any accompanying symptoms, and the AI will provide insights and recommendations based on the information provided. |
+
+

@@ -1,6 +1,7 @@
+
 [![Cinema Scout](https://files.oaiusercontent.com/file-0QyU4Hr9HfKMbBI5k8YnzJHe?se=2123-10-17T20%3A02%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcfc6b8f0-1689-4b9f-9bbe-544aa5311153.png&sig=wMuxL4UpXMlZ25pARi5fsZD17EceMwj4Qyq79eEVhBg%3D)](https://chat.openai.com/g/g-RMG1rawpf-cinema-scout)
 
-# [Cinema Scout](https://chat.openai.com/g/g-RMG1rawpf-cinema-scout)
+# Cinema Scout [ChatGPT Plus](https://chat.openai.com/g/g-RMG1rawpf-cinema-scout) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Cinema%20Scout)
 
 Cinema Scout is the ultimate app for movie enthusiasts! With a perfect blend of data and passion for film, Cinema Scout provides you with top movie picks in your language. Whether you want to create a movie list, explore the work of a director or actor, play the thrilling Movie Matching Game, or discover your favorite movie genre, Cinema Scout has got you covered. Get ready to dive into the world of cinema and discover new movies that match your taste! Lights, camera, action!
 
@@ -25,3 +26,5 @@ Cinema Scout is the ultimate app for movie enthusiasts! With a perfect blend of 
 4. **What's your favorite movie genre?**: Use this prompt to inform the app about your preferred movie genre. This will help the app personalize its recommendations based on your interests.
 
 Note: The Cinema Scout app is a blend of data and passion for film and utilizes two tools: 'dalle' and 'browser'. However, no further usage instructions or details are provided for these tools.
+
+

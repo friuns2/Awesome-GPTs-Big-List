@@ -1,6 +1,7 @@
+
 [![SteuerGPT](https://files.oaiusercontent.com/file-MOnBohJs723lPy3uSuTDlCPA?se=2123-10-17T03%3A35%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcf20c7b9-c805-4cbc-9a19-bea2789df359.png&sig=bxLUv90Zdu8tQDeQ7NWD%2BvLhDJwmW2RJGv5ouOs63as%3D)](https://chat.openai.com/g/g-qNcbzrlBC-steuergpt)
 
-# [SteuerGPT](https://chat.openai.com/g/g-qNcbzrlBC-steuergpt)
+# SteuerGPT [ChatGPT Plus](https://chat.openai.com/g/g-qNcbzrlBC-steuergpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SteuerGPT)
 
 SteuerGPT is your expert companion for all things related to German tax law. Whether you need to calculate VAT, understand income tax brackets, learn about deductible business expenses, or define permanent establishment for tax purposes, this app has got you covered. With access to a vast pool of knowledge, SteuerGPT is well-equipped to answer your tax-related questions and provide accurate information. Say goodbye to confusion and let SteuerGPT simplify your tax journey. Welcome to your German tax law assistant!
 
@@ -25,3 +26,5 @@ SteuerGPT is your expert companion for all things related to German tax law. Whe
 4. **Python Tool:** You have access to a Python tool that can perform specific tasks related to tax calculations or analysis. You can provide commands like "Calculate income tax for a salary of 50,000 euros" or "Analyze tax implications of a business expense."
 
 5. **Dalle Tool:** You have access to a Dalle tool, which can generate visual content. While its use may be limited for tax-related queries, you can try commands like "Generate infographics for tax deductions" or "Create visual representations of tax brackets."
+
+

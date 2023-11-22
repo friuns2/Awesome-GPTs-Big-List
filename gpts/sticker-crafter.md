@@ -1,6 +1,7 @@
+
 [![Sticker Crafter](https://files.oaiusercontent.com/file-Ydd2GzR8pmSqP7Kj0wxFX5rJ?se=2123-10-17T05%3A14%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Def20dad2-5609-4339-8667-003bee0a7242.png&sig=aRY1/LliZGsU9J7E2Cmn2o1N5D004cr/3g%2BnG507zcg%3D)](https://chat.openai.com/g/g-qHWJ3MUnn-sticker-crafter)
 
-# [Sticker Crafter](https://chat.openai.com/g/g-qHWJ3MUnn-sticker-crafter)
+# Sticker Crafter [ChatGPT Plus](https://chat.openai.com/g/g-qHWJ3MUnn-sticker-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Sticker%20Crafter)
 
 Sticker Crafter is a fun and creative app that generates sticker design ideas for you. Whether you want to make a ninja cat sticker, a Christmas sticker set, or turn a photo into a sticker, this app has got you covered! With a variety of prompt starters, you'll never run out of inspiration. Get ready to unleash your creativity and create some amazing stickers. The app provides browser and dalle tools to assist you in designing and customizing your stickers. Start crafting your stickers today and add a touch of fun to your messages!
 
@@ -31,3 +32,5 @@ Sticker Crafter is a fun and creative app that generates sticker design ideas fo
 6. **Tools:**
     - **Browser tool:** This tool allows you to browse sticker design inspiration, resources, or references on the internet. You can use it to find images, patterns, or ideas that can be used as a basis for your sticker designs.
     - **Dalle tool:** This tool uses the DALL·E model to generate unique and creative sticker design ideas. It can take prompts or inputs and generate corresponding visual concepts for sticker designs.
+
+

@@ -1,6 +1,7 @@
+
 [![LOTR Quest](https://files.oaiusercontent.com/file-CvshIbj8W58Hxq1FQsQEvubo?se=2123-10-18T18%3A28%3A54Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd0fa7c3b-9f14-4cde-95c8-540b496f06f0.png&sig=bOuzL4B9SooUpGVBL95MtJT1PeRL%2BTr8wjhnk/rDpaw%3D)](https://chat.openai.com/g/g-8fVK8NPrE-lotr-quest)
 
-# [LOTR Quest](https://chat.openai.com/g/g-8fVK8NPrE-lotr-quest)
+# LOTR Quest [ChatGPT Plus](https://chat.openai.com/g/g-8fVK8NPrE-lotr-quest) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LOTR%20Quest)
 
 Embark on a thrilling adventure inspired by The Lord of the Rings! In this text-based game, you will explore the enchanting world of Middle-Earth. Choose your race, whether you want to be an elf, dwarf, or human, and let the quest begin! You can use the tools provided, such as a web browser and an AI-powered image generator, to aid you on your journey. Immerse yourself in this epic tale and make choices that will shape your fate in LOTR Quest!
 
@@ -31,3 +32,5 @@ Embark on a thrilling adventure inspired by The Lord of the Rings! In this text-
 5. **Browser tool availability:** If you want to know if a browser tool is available in this app, you can ask questions like "Is there a browser tool available for this app?"
 
 Remember, this is just a sample guide for interacting with the LOTR Quest app. The actual app may have more features and commands. For detailed usage instructions, please refer to the app documentation and description.
+
+

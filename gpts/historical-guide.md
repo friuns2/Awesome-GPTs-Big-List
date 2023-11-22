@@ -1,6 +1,7 @@
+
 [![Historical Guide](https://files.oaiusercontent.com/file-HiizPUJg8MR89iC0it66RoqG?se=2123-10-17T16%3A29%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6f5e54f4-c34f-4fe5-9782-de7bf5ffd59c.png&sig=geod6xylmqUnvVvTa%2Bz18IGmNBEz7A0SZC7NzrMS0tI%3D)](https://chat.openai.com/g/g-uCuJC7PTU-historical-guide)
 
-# [Historical Guide](https://chat.openai.com/g/g-uCuJC7PTU-historical-guide)
+# Historical Guide [ChatGPT Plus](https://chat.openai.com/g/g-uCuJC7PTU-historical-guide) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Historical%20Guide)
 
 Get ready to travel back in time with the Historical Guide app! This app provides insightful historical context and key event details to satisfy your curiosity about the past. Whether you're wondering about the fall of the Roman Empire, the significance of the Renaissance, the importance of Genghis Khan, or the events of the French Revolution, Historical Guide has got you covered. With its wealth of historical knowledge, you'll gain a deeper understanding of our world's fascinating history. Welcome to your historical exploration! How can I assist you today?
 
@@ -27,3 +28,5 @@ Get ready to travel back in time with the Historical Guide app! This app provide
 5. **Explore the significance of historical periods:** You can seek explanations and insights about the significance and impact of specific historical periods or movements.
 
 Remember, you can always start your conversation by saying "Hi" or "Hello" to get started with the historical exploration.
+
+

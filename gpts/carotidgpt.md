@@ -1,6 +1,7 @@
+
 [![CarotidGPT](null)](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt)
 
-# [CarotidGPT](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt)
+# CarotidGPT [ChatGPT Plus](https://chat.openai.com/g/g-XXNwiDocs-carotidgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CarotidGPT)
 
 Meet CarotidGPT, your expert on "S3 guidelines for extracranial carotid stenosis". This App is designed to answer all your questions about carotid stenosis, but only in German. Whether you want to know about recommended therapies, diagnosis methods, post-treatment care, risk factors, or even the number of cerebral ischemia caused by carotid artery stenosis in Germany, CarotidGPT has got you covered! Just ask your questions and let CarotidGPT provide you with the knowledge you seek. Willkommen!
 
@@ -15,3 +16,5 @@ Meet CarotidGPT, your expert on "S3 guidelines for extracranial carotid stenosis
 4. **Prompt 4:** "Können Sie mir die Risikofaktoren für Carotisstenose erklären?"
 
 5. **Prompt 5:** "Wie viele zerebrale Ischämien in Deutschland werden durch >50%ige Stenosen oder Verschlüsse der extracraniellen A. carotis verursacht?"
+
+

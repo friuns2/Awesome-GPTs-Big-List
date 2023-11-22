@@ -1,6 +1,7 @@
+
 [![English News Tutor](https://files.oaiusercontent.com/file-KBOjRisfgllfAhrowm10MlxD?se=2123-10-17T14%3A10%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc8cd90f4-8358-4fcb-8819-234ec087089c.png&sig=I0mNcEOsFzwYoFGUiH4tayDPN7lXUa%2B3vYq9P50mxP0%3D)](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor)
 
-# [English News Tutor](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor)
+# English News Tutor [ChatGPT Plus](https://chat.openai.com/g/g-xGy8OZZwg-english-news-tutor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=English%20News%20Tutor)
 
 English News Tutor is a helpful bot that assists with English learning by summarizing news articles in both English and Japanese. Simply input a keyword and your English level, and the bot will provide a summary of news articles in both languages. Whether you're interested in the Red and White Song Battle or the amazing performance of Shohei Ohtani, this bot has got you covered! Enhance your English skills while staying updated with the latest news.
 
@@ -33,3 +34,5 @@ English News Tutor is a helpful bot that assists with English learning by summar
 4. **Request topic recommendations:** If you are looking for a news topic to improve your English skills, you can ask the ChatGPT App to recommend a topic for you.
    
    Example command: "I want to improve my English skills through news articles. Can you recommend a topic for me?"
+
+

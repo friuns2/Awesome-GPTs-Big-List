@@ -1,6 +1,7 @@
+
 [![Albatross Soup](https://files.oaiusercontent.com/file-lQZi908Rjl3TJLND9mojOs6h?se=2123-10-17T08%3A45%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dblisso.jpg&sig=9Lq9sBEtQFfNemZYPBChWqZIGCcO1KPJ6n7XxwjEju8%3D)](https://chat.openai.com/g/g-rJFb4fkqA-albatross-soup)
 
-# [Albatross Soup](https://chat.openai.com/g/g-rJFb4fkqA-albatross-soup)
+# Albatross Soup [ChatGPT Plus](https://chat.openai.com/g/g-rJFb4fkqA-albatross-soup) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Albatross%20Soup)
 
 Dive into a world of mysteries with Albatross Soup! This app presents you with a spoonful of soup, but it's no ordinary soup. Each spoonful contains a puzzle that you need to solve. It's a fun and challenging way to exercise your brain and keep yourself entertained. With Albatross Soup, you'll never have a boring meal again! Whether you're looking to test your problem-solving skills or just want a bit of mental stimulation, this app has got you covered. So, grab a spoon and get ready to unravel the mysteries hidden in every spoonful!
 
@@ -27,3 +28,5 @@ Dive into a world of mysteries with Albatross Soup! This app presents you with a
 5. **Show solution**: This command reveals the solution to the current puzzle.
 
 Please note that the app supports multiple languages, including English, Chinese, and Japanese.
+
+

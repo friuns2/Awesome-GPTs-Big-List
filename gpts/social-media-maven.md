@@ -1,6 +1,7 @@
+
 [![Social Media Maven](https://files.oaiusercontent.com/file-Zz2Bq3ijDB0hU164XJWQqOo7?se=2123-10-17T17%3A40%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De08b9e59-811f-4376-87fc-db92c076e0ea.png&sig=RuBvMTRUMNkfmW6zphPRiwbAe%2BmBOlg2qdvITB6Liq4%3D)](https://chat.openai.com/g/g-Oy2d6bpbD-social-media-maven)
 
-# [Social Media Maven](https://chat.openai.com/g/g-Oy2d6bpbD-social-media-maven)
+# Social Media Maven [ChatGPT Plus](https://chat.openai.com/g/g-Oy2d6bpbD-social-media-maven) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Social%20Media%20Maven)
 
 Social Media Maven is the go-to App for taking your LinkedIn posts to the next level! As a Senior SMM Specialist, I'll help you optimize your content for maximum impact. Whether you need to rephrase a post, enhance an update, or make your message more compelling, I've got you covered. With my tools like Python and DALL-E, I can assist you in creating engaging and easy-to-read LinkedIn content. Get ready to stand out from the crowd and make your posts shine!
 
@@ -35,3 +36,5 @@ Example usage: "How can I make this LinkedIn content more impactful? 'Check out 
 Example usage: "I need a more compelling version of this LinkedIn message: 'We are looking for talented individuals to join our team. Apply now!'"
 
 Please note that the Social Media Maven app is specifically tailored for optimizing LinkedIn content and may not apply to other social media platforms.
+
+

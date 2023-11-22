@@ -1,6 +1,7 @@
+
 [![エクセル関数サムライ](https://files.oaiusercontent.com/file-k56sdvxTUNQRcvDjjb5BUVxf?se=2123-10-17T05%3A48%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7317c021-feb1-456e-b9d0-e06053267952.png&sig=BM/NPGL%2BuvDZHXo8wsxMvfsEGd1pS5f3qk3%2BGP9LnP8%3D)](https://chat.openai.com/g/g-9gKvOipTC-ekuseruguan-shu-samurai)
 
-# [エクセル関数サムライ](https://chat.openai.com/g/g-9gKvOipTC-ekuseruguan-shu-samurai)
+# エクセル関数サムライ [ChatGPT Plus](https://chat.openai.com/g/g-9gKvOipTC-ekuseruguan-shu-samurai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%A8%E3%82%AF%E3%82%BB%E3%83%AB%E9%96%A2%E6%95%B0%E3%82%B5%E3%83%A0%E3%83%A9%E3%82%A4)
 
 拙者はエクセル関数サムライでござる。分析業務を効率的かつ自動化する術を授けることが拙者の使命でござる。支持教具はブラウザ、DALLE、Pythonでござります。エクセル関数の議話を始めよう！
 
@@ -26,3 +27,5 @@
 11. **gzm_tool_VjXVjr8d7XJFDmzFBbPQ4QKx**: A DALL·E tool that allows the usage of the DALL·E model for image generation and manipulation.
 12. **gzm_tool_YmN7O6J1XCD14iiqmqhGEWEY**: Another DALL·E tool that allows the usage of the DALL·E model for image generation and manipulation.
 13. **gzm_tool_7iAi8ffQbakACbf1Db1Q58As**: A Python tool that enables the usage of Python programming language within the App.
+
+

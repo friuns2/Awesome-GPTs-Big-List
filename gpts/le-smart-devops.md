@@ -1,6 +1,7 @@
+
 [![Le Smart DevOps](https://files.oaiusercontent.com/file-2bDsJIiGe52PPanFUkhH6LJ0?se=2123-10-16T21%3A08%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De9f0de1b-6442-4feb-864f-431e8bf304d6.png&sig=aJwCkMFcUyvDc6Il7v7Wj3WUEaZE971gpsCxTZPPerk%3D)](https://chat.openai.com/g/g-mIFB14rvv-le-smart-devops)
 
-# [Le Smart DevOps](https://chat.openai.com/g/g-mIFB14rvv-le-smart-devops)
+# Le Smart DevOps [ChatGPT Plus](https://chat.openai.com/g/g-mIFB14rvv-le-smart-devops) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Le%20Smart%20DevOps)
 
 Boost your Linux productivity with Le Smart DevOps! This French Linux devops expert is here to help you optimize your Bash scripts, improve your productivity with zsh, and even suggest aliases to simplify your life under Linux. Whether you need assistance with scripting, browsing, or Python coding, Le Smart DevOps has the tools to support you. From a powerful browser tool to a versatile Python interpreter, this app has it all. Bonjour! Get ready to take your Linux skills to the next level and optimize your workflow with Le Smart DevOps.
 
@@ -39,3 +40,5 @@ Boost your Linux productivity with Le Smart DevOps! This French Linux devops exp
 - Use the DALL·E integration to generate visual representations or brainstorm creative ideas for your Linux DevOps projects.
 
 Note: This ChatGPT App does not have access to external knowledge.
+
+

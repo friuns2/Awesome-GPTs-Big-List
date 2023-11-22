@@ -1,6 +1,7 @@
+
 [![CodaPackGPT](https://files.oaiusercontent.com/file-8cuDwla6RnMlhVf7N3P2bbhP?se=2123-10-16T22%3A38%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De617dc5a-5911-43f1-9985-1f39a851b0d5.png&sig=VJqPplydSnxdw7UV3rXHl/r7FcsYWSHbNUFGSjmEZvU%3D)](https://chat.openai.com/g/g-5UJUNQkU8-codapackgpt)
 
-# [CodaPackGPT](https://chat.openai.com/g/g-5UJUNQkU8-codapackgpt)
+# CodaPackGPT [ChatGPT Plus](https://chat.openai.com/g/g-5UJUNQkU8-codapackgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CodaPackGPT)
 
 CodaPackGPT is an App that helps you build Coda Packs. Whether you're new to Pack Building or an experienced user, this App has got you covered! With CodaPackGPT, you can easily create and customize Packs using a range of tools. Need to browse the web for information? No problem, it has a built-in browser tool. Want to generate creative content? It also features a DALL·E tool. And if you need to add some Python scripts to your Pack, there's a Python tool too! Say goodbye to manual Pack building and let CodaPackGPT streamline the process for you.
 
@@ -41,3 +42,5 @@ CodaPackGPT is an App that helps you build Coda Packs. Whether you're new to Pac
 7. Keep iterating and refining your Pack based on user feedback and evolving requirements. Continuous improvement is key to building successful Packs.
 
 Remember, building a Pack is a creative and iterative process. Don't be afraid to experiment, learn from others, and adapt your approach as you progress. Good luck with your Pack building journey!
+
+

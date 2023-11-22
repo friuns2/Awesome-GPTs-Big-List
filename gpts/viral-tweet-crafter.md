@@ -1,6 +1,7 @@
+
 [![Viral Tweet Crafter](https://files.oaiusercontent.com/file-qR24PEnSzMSfSwNQX62VuWkW?se=2123-10-20T01%3A07%3A29Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8c925778-dad4-47bc-8f22-1cf6cc3fe085.png&sig=e8IC/3jZwT92Erh1HMTYwk6Gt24CKIgXJgyInB0SPpc%3D)](https://chat.openai.com/g/g-asjT98uiQ-viral-tweet-crafter)
 
-# [Viral Tweet Crafter](https://chat.openai.com/g/g-asjT98uiQ-viral-tweet-crafter)
+# Viral Tweet Crafter [ChatGPT Plus](https://chat.openai.com/g/g-asjT98uiQ-viral-tweet-crafter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Viral%20Tweet%20Crafter)
 
 Viral Tweet Crafter is the perfect app for turning your ideas into engaging, share-worthy tweets. With just a click, this app transforms any input into a viral tweet that matches your tone. Whether you want to share your failed startup journey or announce an upcoming Producthunt launch on Twitter, this app has got you covered. It even helps you find a great image that matches your tweet about SpaceX. Get ready to catch fire with your tweets and publish them instantly to captivate your audience!
 
@@ -23,3 +24,5 @@ Viral Tweet Crafter is the perfect app for turning your ideas into engaging, sha
 | `findImage` | This command suggests a great image that matches your tweet about a specific topic. For example, if you want an image for a tweet about SpaceX, the AI can provide suitable image recommendations. |
 
 *Note: The Viral Tweet Crafter app has access to knowledge, which means it can gather relevant information to assist in crafting viral tweets.*
+
+

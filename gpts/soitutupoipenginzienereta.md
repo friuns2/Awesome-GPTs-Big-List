@@ -1,6 +1,7 @@
+
 [![#そいつっぽいペンギンジェネレーター](https://files.oaiusercontent.com/file-IeeT9NeMo9S5D5wZUM1aBnHD?se=2123-10-17T01%3A44%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dicon_512.png&sig=xdXROaJ0Ein/%2BZHSYND2xjXh2Qg22bh%2BdtnSTZ0cbqw%3D)](https://chat.openai.com/g/g-a60SnBnOs-soitutupoipenginzienereta)
 
-# [#そいつっぽいペンギンジェネレーター](https://chat.openai.com/g/g-a60SnBnOs-soitutupoipenginzienereta)
+# #そいつっぽいペンギンジェネレーター [ChatGPT Plus](https://chat.openai.com/g/g-a60SnBnOs-soitutupoipenginzienereta) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%23%E3%81%9D%E3%81%84%E3%81%A4%E3%81%A3%E3%81%BD%E3%81%84%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%8D%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC)
 
 Upload your image and watch it transform into a penguin with #そいつっぽいペンギンジェネレーター! This unique app uses advanced technology to recreate your uploaded image in a cute and fun penguin version. Whether you want to see yourself or your favorite photo transformed into a penguin, this app has got you covered. Get ready to have a flippin' good time with the #そいつっぽいペンギンジェネレーター!
 
@@ -19,3 +20,5 @@ Upload your image and watch it transform into a penguin with #そいつっぽい
 | --- | --- |
 | Upload an image | You can upload an image of your choice to be transformed into a penguin. |
 | `generatePenguin` | This command generates a penguin version of the uploaded image. |
+
+

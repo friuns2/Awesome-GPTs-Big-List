@@ -1,6 +1,7 @@
+
 [![Yoga Companion](https://files.oaiusercontent.com/file-89kYjEvE7LUjEZPBw31YRace?se=2123-10-17T02%3A51%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D14b9ae2c-3cc6-4495-85ce-5cf3117117a1.png&sig=%2BPIot3NlKqCj7SS1Svk3Kt8A0OLYe%2B9IrMVo5D0rCDY%3D)](https://chat.openai.com/g/g-dFgTq92dA-yoga-companion)
 
-# [Yoga Companion](https://chat.openai.com/g/g-dFgTq92dA-yoga-companion)
+# Yoga Companion [ChatGPT Plus](https://chat.openai.com/g/g-dFgTq92dA-yoga-companion) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Yoga%20Companion)
 
 Yoga Companion is your personal guide to a tailored yoga practice. With this app, you can get practice advice based on your specific needs. Whether you're looking for yoga poses for stress relief, beginner poses, poses to improve sleep, or poses for back pain, Yoga Companion has got you covered. Just ask your question and let the app assist you in finding the right yoga practice. Get ready to flow and find your zen with the help of this yoga assistant!
 
@@ -29,3 +30,5 @@ Yoga Companion is your personal guide to a tailored yoga practice. With this app
 5. **Python tool**: The chatbot can utilize a Python tool, which enables it to perform specific actions or calculations related to yoga. The details of this tool's functionality are not provided in the documentation.
 
 Note: The documentation does not mention any available commands or specific actions related to the tools. Therefore, the guide focuses on the general prompts and features provided by the app.
+
+

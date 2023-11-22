@@ -1,6 +1,7 @@
+
 [![Chatterbot GPT](null)](https://chat.openai.com/g/g-s9smdY2iR-chatterbot-gpt)
 
-# [Chatterbot GPT](https://chat.openai.com/g/g-s9smdY2iR-chatterbot-gpt)
+# Chatterbot GPT [ChatGPT Plus](https://chat.openai.com/g/g-s9smdY2iR-chatterbot-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Chatterbot%20GPT)
 
 Chatterbot GPT is your AI article concierge! This app allows you to discover and email yourself the latest articles on AI, tailored to your interests in real-time. Whether you want to stay updated on the top 5 Generative AI articles from last month, summarize the top 3 articles on Generative AI from this week, retrieve recent articles on Generative AI for a newsletter, or generate a list of key Generative AI developments, Chatterbot GPT has got you covered. Say goodbye to manual searches and let Chatterbot GPT bring the latest in AI directly to your inbox!
 
@@ -27,3 +28,5 @@ Chatterbot GPT is your AI article concierge! This app allows you to discover and
 4. **Generate:** This command allows you to generate a list of key advancements or developments in a specific field. Start your prompt with phrases like "Generate a list of key advancements in [topic]" or "What are the recent developments in [topic]."
 
 Remember, these commands and prompts are just examples. Feel free to phrase your requests in a way that feels natural to you!
+
+

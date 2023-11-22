@@ -1,6 +1,7 @@
+
 [![道歉文 GPT](https://files.oaiusercontent.com/file-qZ7fAlhkApktPEvZp6VytNQW?se=2123-10-18T05%3A11%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252013.10.13%2520-%2520An%25208-bit%2520style%2520profile%2520picture%2520of%2520a%2520man%2520crying%2520and%2520apologizing%2520at%2520a%2520press%2520conference.%2520The%2520man%2520should%2520have%2520a%2520remorseful%2520expression%252C%2520with%2520tears%2520streamin.png&sig=yAAmSDjUkgvdwTouE8A7oPyntjj64rOLobh4XxOimsI%3D)](https://chat.openai.com/g/g-fEAJyVYMu-dao-qian-wen-gpt)
 
-# [道歉文 GPT](https://chat.openai.com/g/g-fEAJyVYMu-dao-qian-wen-gpt)
+# 道歉文 GPT [ChatGPT Plus](https://chat.openai.com/g/g-fEAJyVYMu-dao-qian-wen-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E9%81%93%E6%AD%89%E6%96%87%20GPT)
 
 道歉文 GPT is an app that can help you apologize by telling me the situation. Whether you're a YouTuber caught smoking marijuana, a politician involved in a drunk driving accident, an airline CEO dealing with a mishap on a Japanese flight, or an internet troll facing a defamation lawsuit, I've got you covered! Just provide me with the details, and I'll generate a sincere apology for you. Let me take the burden off your shoulders and help you make amends.
 
@@ -25,3 +26,5 @@
 4. **Welcome Message:** The app starts the interaction with a simple greeting message saying "Hello".
 
 Note: Remember to provide a clear and concise description of the incident or situation you want to apologize for, so the app can generate a more effective apology letter or statement.
+
+

@@ -1,6 +1,7 @@
+
 [![Safe Haven Advisor](https://files.oaiusercontent.com/file-BhbqsmIz5pUOdXBPXSlaILif?se=2123-10-17T03%3A35%3A41Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D52114590-a3c9-439c-8f6f-a40a9ad6b847.png&sig=YUZoajimsFsVYgE4WDsvm3eJE7/N4BYmGzq8sxkfcU0%3D)](https://chat.openai.com/g/g-7NkQtY5aX-safe-haven-advisor)
 
-# [Safe Haven Advisor](https://chat.openai.com/g/g-7NkQtY5aX-safe-haven-advisor)
+# Safe Haven Advisor [ChatGPT Plus](https://chat.openai.com/g/g-7NkQtY5aX-safe-haven-advisor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Safe%20Haven%20Advisor)
 
 Safe Haven Advisor is an emergency advice application that provides quick and safe disaster responses. This interactive app uses GPT to answer your questions and provide real-time emergency alerts. Ask about current emergency alerts in your area, recent flooding alerts, fire incidents, or even find police incidents in your neighborhood. Stay informed and prepared for emergencies with Safe Haven Advisor. It's like having a trustworthy and knowledgeable advisor at your fingertips!
 
@@ -25,3 +26,5 @@ Safe Haven Advisor is an emergency advice application that provides quick and sa
 4. **Police incidents**: If you need to find police incidents in your neighborhood, you can ask "Can you find police incidents in my neighborhood?" The ChatGPT App will gather the necessary data and give you the information you're looking for.
 
 Remember, this ChatGPT App is designed to provide quick, safe, and reliable disaster response advice.
+
+

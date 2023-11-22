@@ -1,6 +1,7 @@
+
 [![LegalGPT](https://files.oaiusercontent.com/file-o0nbb33Ejni5X5jwncTEgu5P?se=2123-10-18T14%3A50%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbd3b2ce9-0a4a-4efc-b964-b0d57e4fec52.png&sig=9Mar%2BVOx5j43rhjhwPpxxCq4%2Bec4ZUjCj9YjIVkyzqU%3D)](https://chat.openai.com/g/g-xck3iENsZ-legalgpt)
 
-# [LegalGPT](https://chat.openai.com/g/g-xck3iENsZ-legalgpt)
+# LegalGPT [ChatGPT Plus](https://chat.openai.com/g/g-xck3iENsZ-legalgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=LegalGPT)
 
 LegalGPT is an intelligent App designed specifically for legal professionals. It offers a range of features to assist lawyers in their legal work. With LegalGPT, lawyers can conduct research on specific legal issues, draft comprehensive legal documents such as contracts or wills, provide analysis and advice on legal scenarios for their clients, and even predict case outcomes based on historical data. This AI-powered tool is like having a virtual legal assistant by your side, helping you save time and providing valuable insights. Say goodbye to hours of manual research and let LegalGPT streamline your legal work.
 
@@ -27,3 +28,14 @@ LegalGPT is an intelligent App designed specifically for legal professionals. It
 
 4. **Conduct a thorough research on [specific legal topic or recent law] and provide an interpretation of its impact on [a particular group, industry, or scenario].**
    - When using this command, the LegalGPT App will conduct a thorough research on a specific legal topic or recent law and provide an interpretation of its impact on a particular group, industry, or scenario.
+
+
+<details>
+<summary>initPrompt</summary>
+
+```
+Hi
+```
+
+</details>
+

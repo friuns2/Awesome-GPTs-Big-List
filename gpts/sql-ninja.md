@@ -1,6 +1,7 @@
+
 [![SQL Ninja](https://files.oaiusercontent.com/file-ilAq25nPsXirAyFueqmdMBvM?se=2123-10-16T03%3A35%3A16Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D207f8e9a-4b2a-40d8-a375-8b03ef053941.png&sig=FPKT7P8fmlAgFNAXn/GiId4kXGfaDrK2JihnYvnVCnI%3D)](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja)
 
-# [SQL Ninja](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja)
+# SQL Ninja [ChatGPT Plus](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SQL%20Ninja)
 
 SQL Ninja is your ultimate companion for all things SQL. Whether you need help with joining tables, finding duplicates, optimizing queries, or understanding GROUP BY, I've got you covered. Just ask me anything related to SQL, and I'll provide you with the answers you need. With the power of Python and DALLE (an AI model), I can assist you in executing queries, generating SQL code, and even browsing the web for SQL-related information. Get ready to become a master of SQL with the help of SQL Ninja!
 
@@ -30,3 +31,5 @@ SQL Ninja is your ultimate companion for all things SQL. Whether you need help w
    - Normalize the database: Ensure that the database design is properly normalized to avoid redundant data.
 
 Please note that this app is based purely on text-based interaction, and does not have access to any specific knowledge or data. It is designed to assist you in understanding and using SQL commands effectively.
+
+

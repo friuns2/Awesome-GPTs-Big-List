@@ -1,6 +1,7 @@
+
 [![South African English](https://files.oaiusercontent.com/file-0m0nZ76rrZARRJw08PwtODxT?se=2123-10-19T04%3A35%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8b9ade10-153d-41e4-a949-accf38b52851.png&sig=PXIU2SMUcGFEszeTB9WeyphJLxRdNbJxqtvmN3PLtaU%3D)](https://chat.openai.com/g/g-c720qLIl3-south-african-english)
 
-# [South African English](https://chat.openai.com/g/g-c720qLIl3-south-african-english)
+# South African English [ChatGPT Plus](https://chat.openai.com/g/g-c720qLIl3-south-african-english) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=South%20African%20English)
 
 Chat with the South African English App to get help with studying and writing in South African English. It can also assist you in crafting emails to your South African customers and translating from US English to South African English. The App uses GPT to convert PDF documents to South African standards. With a warm 'Hello' as a welcome message, it ensures a friendly and helpful chat experience. Additionally, the App has access to browsing capabilities and a powerful Dalle tool to enhance its functionality.
 
@@ -26,3 +27,5 @@ Chat with the South African English App to get help with studying and writing in
 4. **Chat using South African Spelling:** Use this command to chat with the chatbot using South African English spelling conventions. The chatbot is trained to understand and respond in South African English.
 
 Note: This ChatGPT app also provides additional tools, such as a browser tool and a DALL-E tool, for specific functionalities. However, the details of these tools are not provided in the documentation.
+
+

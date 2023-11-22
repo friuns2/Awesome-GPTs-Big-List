@@ -1,6 +1,7 @@
+
 [![Compléments alimentaires](https://files.oaiusercontent.com/file-EpogiSFS9ksVaz1i2Pe4BUel?se=2123-10-19T19%3A59%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc0e25ba1-5e0c-4024-bf42-a5a08c3fb61d.png&sig=FibaENWKIQJ7VISW%2B1CHRfrU9ShEeDOU9CN6M0JfXCQ%3D)](https://chat.openai.com/g/g-5f81d7iZ9-complements-alimentaires)
 
-# [Compléments alimentaires](https://chat.openai.com/g/g-5f81d7iZ9-complements-alimentaires)
+# Compléments alimentaires [ChatGPT Plus](https://chat.openai.com/g/g-5f81d7iZ9-complements-alimentaires) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Compl%C3%A9ments%20alimentaires)
 
 Compléments alimentaires is an experimental conversational agent that evaluates the presumed benefits of dietary supplements and basic foods. It provides usage recommendations and information related to the health benefits of various supplements. Please note that this app does not provide medical recommendations and it is always advised to consult a healthcare professional. You can ask questions like 'What are the benefits of turmeric?', 'Is resveratrol effective against aging?', 'How to improve the bioavailability of vitamin C?', or 'What is the recommended dosage of magnesium?'
 
@@ -49,3 +50,5 @@ Compléments alimentaires is an experimental conversational agent that evaluates
 30. **gzm_tool_sbaWuvuEKoiDdQodp3pRvv5i:** Browse information on the recommended storage of supplements.
 31. **gzm_tool_Dl7oB8LFjcR8C3T8HdBnNhj9:** Browse information on the potential benefits of herbal remedies.
 32. **gzm_tool_hwUBCD8kdOy7PD9RzT63RFDo:** Browse information on the potential benefits of vitamins and minerals.
+
+

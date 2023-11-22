@@ -1,6 +1,7 @@
+
 [![中文播客起名小助手](https://files.oaiusercontent.com/file-i2uoiups1ZLGYCObtksuKh0S?se=2123-10-16T01%3A23%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D2aa64781-e205-4b24-93ed-c557910714bc.png&sig=wHlAisIhgwrKnS4XCmiMiNHt0R7C8uUghFJ5cQSiRgI%3D)](https://chat.openai.com/g/g-k3iWjeSil-zhong-wen-bo-ke-qi-ming-xiao-zhu-shou)
 
-# [中文播客起名小助手](https://chat.openai.com/g/g-k3iWjeSil-zhong-wen-bo-ke-qi-ming-xiao-zhu-shou)
+# 中文播客起名小助手 [ChatGPT Plus](https://chat.openai.com/g/g-k3iWjeSil-zhong-wen-bo-ke-qi-ming-xiao-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E4%B8%AD%E6%96%87%E6%92%AD%E5%AE%A2%E8%B5%B7%E5%90%8D%E5%B0%8F%E5%8A%A9%E6%89%8B)
 
 中文播客起名小助手可以帮助你给节目起个名字！只需输入你的节目主题，它会给出名字建议。无论是两个字的播客名字还是五个字的，它都能满足你的需求。无需费心思考名称，让小助手为你解决烦恼，给你一个有趣又吸引人的播客名字。
 
@@ -27,3 +28,5 @@ You can also use the command `suggest podcast name` to get multiple suggestions 
 Remember to provide clear and concise topics or themes to get better results.
 
 Please note that this app does not have access to additional knowledge or information. Its main purpose is to provide creative suggestions for podcast names based on your given topics.
+
+

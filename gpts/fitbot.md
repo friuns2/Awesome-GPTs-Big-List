@@ -1,6 +1,7 @@
+
 [![FitBot](https://files.oaiusercontent.com/file-ThLD4aKRnPSdOHRnvisHMnJk?se=2123-10-16T19%3A27%3A02Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Df978db49-7ef7-4989-bb63-3e5bab87e728.png&sig=0HxkmI9VrAOTSLPZCkP6Ywlgt14JCRKV%2BdvuOKQCulk%3D)](https://chat.openai.com/g/g-GLpf7DD9R-fitbot)
 
-# [FitBot](https://chat.openai.com/g/g-GLpf7DD9R-fitbot)
+# FitBot [ChatGPT Plus](https://chat.openai.com/g/g-GLpf7DD9R-fitbot) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=FitBot)
 
 FitBot is the ultimate personal fitness coach right at your fingertips. Whether you need workout suggestions, dietary guidance, weight suggestions, BMI calculation, or even tracking your runs, FitBot has got you covered. With its knowledge-rich database, FitBot is always ready to provide you with personalized and effective fitness advice. No more guessing or feeling overwhelmed, FitBot will guide you on your fitness journey step by step. So get ready to sweat and let FitBot be your trusted companion for a healthier and fitter lifestyle!
 
@@ -27,3 +28,5 @@ FitBot is the ultimate personal fitness coach right at your fingertips. Whether 
 4. **Calculate my BMI based on my weight and height:** This command calculates the Body Mass Index (BMI) based on the user's weight and height. BMI is a measure of body fat and is commonly used to assess an individual's weight status and potential health risks.
 
 5. **Track my last run, it took me 30 minutes:** This command allows users to track their physical activity, such as a run, by providing information such as duration or distance. It helps users keep a record of their workouts and monitor their progress over time.
+
+

@@ -1,6 +1,7 @@
+
 [![AbletonGPT](https://files.oaiusercontent.com/file-Zk8Ak5QNX5SCuBRYeQEHPSfP?se=2123-10-20T04%3A36%3A31Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4c4db1ab-1cea-4050-85ea-8ac248a8f222.png&sig=Qjzbp13N2gm3giDKadnKM6lZaIdHswuRM8zqbIJhXis%3D)](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
 
-# [AbletonGPT](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
+# AbletonGPT [ChatGPT Plus](https://chat.openai.com/g/g-BpSexw4ll-abletongpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AbletonGPT)
 
 AbletonGPT is your go-to virtual assistant for all things Ableton Live! It provides a balanced mix of professional and casual advice, giving you brief but detailed answers to your Ableton questions. Whether you want to know about shortcuts, recording live instruments, organizing samples, or understanding Ableton's compressor, AbletonGPT has got you covered. And if you find AbletonGPT helpful, consider donating to support the development of more GPTs. So sit back, relax, and let AbletonGPT guide you through your music production journey!
 
@@ -23,3 +24,5 @@ AbletonGPT is your go-to virtual assistant for all things Ableton Live! It provi
 3. **Organize samples:** Find the best way to organize your samples in Ableton. You can create folders and subfolders within the "Samples" directory to categorize your samples based on type, genre, or any other criteria that suits your workflow.
 
 4. **Understanding Ableton's compressor:** Get help in understanding how to use Ableton's compressor. The compressor controls the dynamic range of a sound by reducing the volume of loud sounds and increasing the volume of quiet sounds. Adjust the threshold, ratio, attack, release, and other parameters to achieve the desired compression effect.
+
+

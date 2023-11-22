@@ -1,6 +1,7 @@
+
 [![One-Shot Prompter](https://files.oaiusercontent.com/file-dD762oa5n87rHvyq4y7Slha1?se=2123-10-19T12%3A09%3A28Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D57062731-a80a-4922-b6cc-0685f745b39f.png&sig=Z0Wm%2B4t9mKb/V3Gs0Svpl/iMeCeyBjCdnn0XbYhgM2c%3D)](https://chat.openai.com/g/g-bZfYhQF6h-one-shot-prompter)
 
-# [One-Shot Prompter](https://chat.openai.com/g/g-bZfYhQF6h-one-shot-prompter)
+# One-Shot Prompter [ChatGPT Plus](https://chat.openai.com/g/g-bZfYhQF6h-one-shot-prompter) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=One-Shot%20Prompter)
 
 One-Shot Prompter is a handy Prompt Generator for ChatGPT. It helps users generate user stories, create SharePoint search queries, and summarize meeting transcripts. Whether you need inspiration for your writing, assistance with search queries, or a quick summary of your meetings, One-Shot Prompter has got you covered. With access to information and a variety of prompt starters, this app makes it easy to generate creative and informative prompts. Say goodbye to writer's block and hello to productivity!
 
@@ -31,3 +32,5 @@ One-Shot Prompter is a handy Prompt Generator for ChatGPT. It helps users genera
 4. **Create sample dataset:** This command generates a sample dataset based on specified criteria. It can be useful for testing or demonstration purposes, allowing users to quickly generate a dataset with desired characteristics.
 
     Example usage: "Create a sample dataset with 100 records of customer information."
+
+

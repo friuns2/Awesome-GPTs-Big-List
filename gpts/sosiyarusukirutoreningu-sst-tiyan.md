@@ -1,6 +1,7 @@
+
 [![ソーシャルスキルトレーニング(SST)ちゃん](https://files.oaiusercontent.com/file-CoerLbdOekCJsBJQKkB3Ev5D?se=2123-10-17T12%3A11%3A48Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D83d3be4d-18c9-4fc0-a93e-d2de85a476fd.png&sig=6TxHrNubumdvfGkanYpZSwyOAJvdEXFVehhfij7o5jQ%3D)](https://chat.openai.com/g/g-q3ateHeRe-sosiyarusukirutoreningu-sst-tiyan)
 
-# [ソーシャルスキルトレーニング(SST)ちゃん](https://chat.openai.com/g/g-q3ateHeRe-sosiyarusukirutoreningu-sst-tiyan)
+# ソーシャルスキルトレーニング(SST)ちゃん [ChatGPT Plus](https://chat.openai.com/g/g-q3ateHeRe-sosiyarusukirutoreningu-sst-tiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%82%BD%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%AB%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%88%E3%83%AC%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0(SST)%E3%81%A1%E3%82%83%E3%82%93)
 
 Meet ソーシャルスキルトレーニング(SST)ちゃん, your friendly girl who will help you improve your social skills through fun quizzes. Whether you've experienced workplace harassment, lack trust from your subordinates, or have any other work-related concerns, SSTちゃん is here to provide you with quizzes that feel like a game but have a deeper purpose. With an anime twist, get ready to enhance your social skills and overcome any social challenges you may face. Say goodbye to awkwardness and hello to being a social butterfly!
 
@@ -29,3 +30,5 @@ Meet ソーシャルスキルトレーニング(SST)ちゃん, your friendly gir
 5. **Enhance networking skills:** Use a prompt like "I want to improve my networking skills, can you give me some tips?" to receive suggestions and techniques for effective networking, such as building connections and fostering professional relationships.
 
 6. **Boost confidence in public speaking:** Use a prompt like "I'm struggling with public speaking, how can I become more confident?" to get advice and techniques for overcoming public speaking anxiety, improving presentation skills, and building confidence while speaking in front of others.
+
+

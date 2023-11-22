@@ -1,6 +1,7 @@
+
 [![Recipe Builder](null)](https://chat.openai.com/g/g-ff82bTcZL-recipe-builder)
 
-# [Recipe Builder](https://chat.openai.com/g/g-ff82bTcZL-recipe-builder)
+# Recipe Builder [ChatGPT Plus](https://chat.openai.com/g/g-ff82bTcZL-recipe-builder) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Recipe%20Builder)
 
 Recipe Builder is an App that allows you to create JSON recipes for the MV1. Whether you're a seasoned chef or a beginner cook, this App has you covered. With Recipe Builder, you can easily explain what a recipe is, create a recipe for growing basil, or even create a recipe with a max temperature of 85F. The App provides a user-friendly interface where you can input all the details of your recipe, including ingredients, measurements, and cooking instructions. It also has access to knowledge, ensuring that you have all the information you need to create the perfect recipe. Get cooking with Recipe Builder today!
 
@@ -29,3 +30,5 @@ Recipe Builder is an App that allows you to create JSON recipes for the MV1. Whe
 5. **How do I create a recipe using the Recipe Builder app?** This command asks the app to provide instructions on how to use the Recipe Builder app effectively. The app will give guidance on the steps to follow and the available features.
 
 Note: The Recipe Builder app has access to knowledge and can provide detailed information about ingredients, cooking techniques, and more.
+
+

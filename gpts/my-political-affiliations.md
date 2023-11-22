@@ -1,6 +1,7 @@
+
 [![My Political Affiliations](https://files.oaiusercontent.com/file-WmBDClzzKOzMNo7K94LbZN5F?se=2123-10-16T21%3A50%3A34Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9679fbd8-05ef-44dc-8538-94368ed6a329.png&sig=iTEl9QpJCQrxRSaWqea9PcGO5u1Pm0iGHixwaxfgT3Y%3D)](https://chat.openai.com/g/g-6RoOrZo6Z-my-political-affiliations)
 
-# [My Political Affiliations](https://chat.openai.com/g/g-6RoOrZo6Z-my-political-affiliations)
+# My Political Affiliations [ChatGPT Plus](https://chat.openai.com/g/g-6RoOrZo6Z-my-political-affiliations) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=My%20Political%20Affiliations)
 
 Discover your US political party affiliation with My Political Affiliations! This interactive app will ask you five thought-provoking questions about your beliefs on various topics like economic policy, social issues, foreign policy, and environmental regulations. Based on your answers, the app will analyze your political leanings and help you identify your party alignment. Whether you're a Democrat, Republican, Independent, or something else entirely, this app will provide valuable insights into your political identity. Get ready to dive into the world of politics and uncover where you stand!
 
@@ -28,3 +29,5 @@ Discover your US political party affiliation with My Political Affiliations! Thi
 4. **Ask me about my beliefs on environmental regulations:** Use this command to discuss your opinions on environmental regulations and policies, such as climate change, sustainable energy, and conservation.
  
 5. **Ready to start? I'll ask you five questions to understand your political leanings:** This command initiates the process of asking five questions to help determine your political affiliations. The questions may cover various aspects like economic policy, social issues, foreign policy, and environmental regulations.
+
+

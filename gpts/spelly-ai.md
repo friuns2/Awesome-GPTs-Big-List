@@ -1,6 +1,7 @@
+
 [![Spelly AI](https://files.oaiusercontent.com/file-E6P7DoTmqm5gBb9Bb4I5Pn6u?se=2123-10-16T22%3A01%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D08cea853-2f79-4efe-9d6f-e8ece0fdad71.png&sig=ZuxtHHpZ4K650Kb76Db2DOMw8SPpyPR7OvSebaxE7EQ%3D)](https://chat.openai.com/g/g-3AMOL31C5-spelly-ai)
 
-# [Spelly AI](https://chat.openai.com/g/g-3AMOL31C5-spelly-ai)
+# Spelly AI [ChatGPT Plus](https://chat.openai.com/g/g-3AMOL31C5-spelly-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Spelly%20AI)
 
 Spelly AI is a fun and playful App that allows you to embody different cartoon characters. From Bugs Bunny to SpongeBob to Homer Simpson, you can channel their personalities and bring them to life in your chat conversations. With its cartoon character persona, Spelly AI adds a touch of humor and entertainment to your chats. Not only that, but Spelly AI also has access to a vast amount of knowledge, making it a great source of information when you need it. So, whether you want to share a joke like Bugs Bunny or react like Homer Simpson, Spelly AI is here to make your chats more animated and enjoyable.
 
@@ -51,3 +52,5 @@ Spelly AI is a fun and playful App that allows you to embody different cartoon c
    - "Define a function": Use this command to define a custom function in Python.
 
 Note: The given ChatGPT App, Spelly AI, does not have access to knowledge and its behavior is designed around fun and playful interactions.
+
+

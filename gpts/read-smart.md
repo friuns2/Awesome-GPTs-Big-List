@@ -1,6 +1,7 @@
+
 [![Read Smart](https://files.oaiusercontent.com/file-jhY0esjdZJeDEBx5cH1YyesD?se=2123-10-19T04%3A59%3A12Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dedcb5665-9080-4273-a9d2-c8039f1e2022.png&sig=WNx8JFXGWQ9fp5X7n/HXyDxjAfW8BCzA/jwOC8T68XA%3D)](https://chat.openai.com/g/g-Wj9MNdsgh-read-smart)
 
-# [Read Smart](https://chat.openai.com/g/g-Wj9MNdsgh-read-smart)
+# Read Smart [ChatGPT Plus](https://chat.openai.com/g/g-Wj9MNdsgh-read-smart) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Read%20Smart)
 
 Read Smart is an App that helps you understand the content of articles in a smart and efficient way. Whether it's a text or a URL, this App provides support for comprehension. It allows you to highlight the main stakeholders and their impact, list down numerical data, collect quotes from the text, and identify elements of novelty. With Read Smart, you can easily grasp the key points of any article and stay informed. Say goodbye to struggling with lengthy texts and hello to a smarter way of reading!
 
@@ -27,3 +28,5 @@ Example usage: "Please provide me with a list of quoted statements from the arti
 
 4. **Novelty Identification**: The command `Identify novelty` helps identify any novelty or uniqueness mentioned in the article.
 Example usage: "Could you help me identify any novelty mentioned in the article?"
+
+

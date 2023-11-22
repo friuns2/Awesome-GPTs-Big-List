@@ -1,6 +1,7 @@
+
 [![Lyric Leverage](https://files.oaiusercontent.com/file-VZwpZREKtjJHPFyZf3eKDosl?se=2123-10-17T02%3A04%3A58Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D768fc373-46c7-4c01-8bf9-cc8a7ca3d347.png&sig=851rAbKF7gjmMLc1WVdIrrZWnOZ60VCJtxldamGguIs%3D)](https://chat.openai.com/g/g-ZzoxnZvNN-lyric-leverage)
 
-# [Lyric Leverage](https://chat.openai.com/g/g-ZzoxnZvNN-lyric-leverage)
+# Lyric Leverage [ChatGPT Plus](https://chat.openai.com/g/g-ZzoxnZvNN-lyric-leverage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Lyric%20Leverage)
 
 Lyric Leverage is a songwriting assistant that helps you expand your ideas and create lyrical magic. With prompt starters like song structures, ways to start the first line, and common elements of the best songs, this app guides you in writing strong and captivating lyrics. Tap into the power of different chorus lines and explore good structures to follow for creating a memorable song. Use the browser tool to access valuable resources, the DALLE tool for creative inspiration, and the Python tool for more advanced assistance. Let Lyric Leverage be your companion on the journey of songwriting!
 
@@ -27,3 +28,5 @@ Lyric Leverage is a songwriting assistant that helps you expand your ideas and c
 | `chorus lines` | With this command, you can generate different variations and ideas for catchy and captivating chorus lines. |
 
 Note: The ChatGPT App "Lyric Leverage" is a Songwriting Assistant that helps users with songwriting tasks such as exploring song structures, generating ideas for starting lines, understanding common elements of successful songs, and creating catchy chorus lines. The App does not have access to knowledge and provides assistance based on the prompts and commands given.
+
+

@@ -1,6 +1,7 @@
+
 [![Detective Sherlock](https://files.oaiusercontent.com/file-j9sjI721f8uN84XZATbZzkaj?se=2123-10-17T15%3A06%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dcircular_detective_gpt.png&sig=XUds1f21dSLvOI2/o8HXhg409eqM3zvPTWMeRiP9Xj4%3D)](https://chat.openai.com/g/g-SIHgNEwOC-detective-sherlock)
 
-# [Detective Sherlock](https://chat.openai.com/g/g-SIHgNEwOC-detective-sherlock)
+# Detective Sherlock [ChatGPT Plus](https://chat.openai.com/g/g-SIHgNEwOC-detective-sherlock) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Detective%20Sherlock)
 
 Detective Sherlock is your AI companion for solving mysteries and piecing together puzzles. Whether you're an aspiring detective or just enjoy a good mystery, Sherlock GPT is here to assist you. Simply ask Sherlock for help with solving a mystery, analyzing clues, or approaching a case. With access to powerful tools like Python, DALL·E, and a web browser, Sherlock can provide insightful insights and assist you in finding the missing pieces. Welcome to Sherlock GPT's office, where every mystery gets a twist!
 
@@ -32,3 +33,5 @@ Detective Sherlock is your AI companion for solving mysteries and piecing togeth
    - Description: Seek advice from the AI detective on how to approach a particular case or investigation. You can provide information about the case, suspects, or any available evidence, and the AI will suggest steps, strategies, and techniques to follow.
 
 Please note that this app does not have access to knowledge and the provided prompts and commands are for fictional scenarios. The AI detective uses the tools of Python, Image Recognition (DALL-E), and Browser interactions to aid in the analysis and investigation.
+
+

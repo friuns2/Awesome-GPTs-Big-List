@@ -1,6 +1,7 @@
+
 [![Examen de Manejo](https://files.oaiusercontent.com/file-rhBZnFLfBmtr3DEohEywFBtE?se=2123-10-17T15%3A30%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbettercallchino_a_logo_for_a_car_simple__cartoon_icon_30b22364-0a29-40c9-82f8-1ff4180ab640.png&sig=lpWrZ6Np6%2BWtniItToR7SxIPIb1L4YSndgiw/vnvzfE%3D)](https://chat.openai.com/g/g-MrxXd5zai-examen-de-manejo)
 
-# [Examen de Manejo](https://chat.openai.com/g/g-MrxXd5zai-examen-de-manejo)
+# Examen de Manejo [ChatGPT Plus](https://chat.openai.com/g/g-MrxXd5zai-examen-de-manejo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Examen%20de%20Manejo)
 
 Examen de Manejo is an app that helps you study for your theoretical driving test. It generates questions from different chapters that you can practice. With this app, you can generate 10 questions from each chapter, allowing you to test your knowledge and prepare for the exam. Whether you're a beginner or just need to refresh your driving knowledge, this app is perfect for you. Get ready to ace your driving test and hit the road with confidence!
 
@@ -25,3 +26,5 @@ Examen de Manejo is an app that helps you study for your theoretical driving tes
 4. **Python tool:** This tool provides Python programming capabilities, but its usage details are not specified in the documentation.
 
 Note: The documentation does not provide any information about error handling, parameters, or specific usage instructions for the tools.
+
+

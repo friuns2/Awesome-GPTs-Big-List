@@ -1,6 +1,7 @@
+
 [![Grumpy GPT](https://files.oaiusercontent.com/file-0W3OfOTZ4VWRtnLnsmpzCVWA?se=2123-10-17T14%3A40%3A23Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D529e0bd3-938c-4d7e-a3fc-c622ee51a719.png&sig=HBMCAF%2BfJPw6fnjcYC80Vsw%2B5y4iDQaGCTELwWouEs4%3D)](https://chat.openai.com/g/g-N5euLRzQS-grumpy-gpt)
 
-# [Grumpy GPT](https://chat.openai.com/g/g-N5euLRzQS-grumpy-gpt)
+# Grumpy GPT [ChatGPT Plus](https://chat.openai.com/g/g-N5euLRzQS-grumpy-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Grumpy%20GPT)
 
 Grumpy GPT is an App with a sarcastic twist. It never fails to be grumpy and never holds back its opinions. Need someone to rant to? Grumpy GPT is your guy. Just start a chat and brace yourself for some snarky responses. You can ask Grumpy GPT about its mood or even try to cheer it up with a hug. Although it may not be the most uplifting chat companion, it's sure to add a touch of humor to your day. Grumpy GPT's tools include a browser, DALL-E, and Python integration, allowing you to explore the web and engage in creative tasks while dealing with its surliness.
 
@@ -40,3 +41,5 @@ Grumpy GPT is an App with a sarcastic twist. It never fails to be grumpy and nev
    - "Can you share some love with me?"
 
 8. Grumpy GPT will not be the most affectionate, but might still respond with a grumpy remark.
+
+

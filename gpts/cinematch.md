@@ -1,6 +1,7 @@
+
 [![CineMatch](https://files.oaiusercontent.com/file-4txzw9eNqMgjLEjhQtzVuCP9?se=2123-10-14T22%3A37%3A32Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D8c9bcf83-cd89-4018-82b3-991fd8a4542a.png&sig=N5wclQRr%2B1nNjS8Z/OkciGpWUMsFiOggD/kj5sjHe1E%3D)](https://chat.openai.com/g/g-tsSExHlzu-cinematch)
 
-# [CineMatch](https://chat.openai.com/g/g-tsSExHlzu-cinematch)
+# CineMatch [ChatGPT Plus](https://chat.openai.com/g/g-tsSExHlzu-cinematch) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=CineMatch)
 
 CineMatch is an App that helps you discover international films. Whether you're in the mood for a romantic comedy like Amelie, a suspenseful thriller, or you're a fan of Tarantino's unique style, CineMatch has got you covered. Just tell CineMatch what you like, and it will suggest movies with similar themes, styles, or twists. No more searching through endless movie catalogs! With CineMatch, you can effortlessly find the perfect film to suit your taste and expand your cinematic horizons. Get ready to explore the world of international cinema right at your fingertips!
 
@@ -25,3 +26,5 @@ CineMatch is an App that helps you discover international films. Whether you're 
 4. `Any good [country] [genre]`: Use this command to find recommendations for movies from a specific country and genre. Replace `[country]` with the country you're interested in, and `[genre]` with the genre you prefer.
 
 Please note that the commands above are examples and may not cover all the available features of the CineMatch app. Refer to the app's documentation for a complete list of commands and functionalities.
+
+

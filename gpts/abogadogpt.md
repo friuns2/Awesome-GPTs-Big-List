@@ -1,6 +1,7 @@
+
 [![AbogadoGPT](https://files.oaiusercontent.com/file-9KtkeklIpZLXr1MjLu1MPgiF?se=2123-10-16T11%3A00%3A17Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D26ea7227-9ab1-4e12-8358-48e4e21691da.png&sig=UaHtEobAZAIUKdZwXP6%2BZCCGQYsyZwtUNfIt%2BHEMEAk%3D)](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt)
 
-# [AbogadoGPT](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt)
+# AbogadoGPT [ChatGPT Plus](https://chat.openai.com/g/g-ge5SuA7Is-abogadogpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AbogadoGPT)
 
 AbogadoGPT is your go-to expert for Spanish law and taxes. Whether you need help understanding taxes, reviewing legal documents, or creating contracts, AbogadoGPT has got you covered. With its vast knowledge and experience, AbogadoGPT can answer your questions and provide guidance on various legal and tax matters. Just ask any legal or tax-related question, and AbogadoGPT will be there to assist you. Say hello to your virtual Spanish law and tax expert!
 
@@ -26,3 +27,5 @@ AbogadoGPT is your go-to expert for Spanish law and taxes. Whether you need help
 | `checkLegality` | This command allows you to ask if a specific action or business practice is legal in Spain. You can provide the details of the activity or practice, and the AI will provide information on its legality based on Spanish law. |
 | `createContract` | This command generates a contract based on the specifications provided. You can specify the type of contract, the parties involved, and any specific terms and conditions you require. |
 | `draftDocumentation` | This command assists you in drafting legal documentation. You can specify the type of document you need, such as a rental agreement or a will, and the AI will provide guidance and suggestions on how to draft it according to Spanish law. |
+
+

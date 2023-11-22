@@ -1,6 +1,7 @@
+
 [![TRPGシナリオサポート](https://files.oaiusercontent.com/file-OrogaKUT52r5UKFrjTHnhm8N?se=2123-10-16T06%3A52%3A07Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd6053e6d-a482-4648-af51-24f6bd6c482b.png&sig=vhzmBuAFKlDINcogxBTl1E7kbQoV4s9zAukYE9jgrao%3D)](https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto)
 
-# [TRPGシナリオサポート](https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto)
+# TRPGシナリオサポート [ChatGPT Plus](https://chat.openai.com/g/g-XnKu5lq3I-trpgsinariosapoto) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TRPG%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88)
 
 TRPGシナリオサポート is an app that assists in creating scenarios for tabletop role-playing games (TRPG). It provides various tools to help you with scenario creation, such as generating plots, designing characters, brainstorming endings, and generating background images. Whether you're a seasoned game master or a beginner, this app is here to support you in crafting immersive and exciting game experiences. Get started with TRPGシナリオサポート and let your creativity flow!
 
@@ -23,3 +24,5 @@ TRPGシナリオサポート is an app that assists in creating scenarios for ta
 3. **エンディングを考えて**: エンディングを考えるためのコマンドです。これにより、シナリオの最後のシーンや結末に関するアイデアを生成することができます。
 
 4. **背景画像を生成して**: 背景画像を生成するためのコマンドです。これにより、洞窟や街の風景などの背景画像を作成することができます.
+
+

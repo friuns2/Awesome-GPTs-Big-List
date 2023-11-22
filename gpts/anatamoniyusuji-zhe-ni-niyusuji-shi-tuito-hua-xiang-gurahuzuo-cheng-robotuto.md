@@ -1,6 +1,7 @@
+
 [![あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット](https://files.oaiusercontent.com/file-5kykzWRPJpxFPGYtqWAKEv65?se=2123-10-18T11%3A49%3A08Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DDALL%25C2%25B7E%25202023-11-11%252019.48.43%2520-%2520A%2520professional%2520Caucasian%2520female%2520reporter%2520presenting%2520the%2520news.%2520She%2520stands%2520confidently%2520in%2520front%2520of%2520a%2520generic%2520news%2520studio%2520background%252C%2520devoid%2520of%2520any%2520speci.png&sig=A6jhjl9SXxilF4NUspSU7J9Ln/Rr5WuCJopPDrjuCuI%3D)](https://chat.openai.com/g/g-HR6in7fJW-anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto)
 
-# [あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット](https://chat.openai.com/g/g-HR6in7fJW-anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto)
+# あなたもニュース記者に！ニュース記事&ツイート&画像&グラフ作成ロボット [ChatGPT Plus](https://chat.openai.com/g/g-HR6in7fJW-anatamoniyusuji-zhe-ni-niyusuji-shi-tuito-hua-xiang-gurahuzuo-cheng-robotuto) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%82%E3%81%AA%E3%81%9F%E3%82%82%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E8%A8%98%E8%80%85%E3%81%AB%EF%BC%81%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E8%A8%98%E4%BA%8B%26%E3%83%84%E3%82%A4%E3%83%BC%E3%83%88%26%E7%94%BB%E5%83%8F%26%E3%82%B0%E3%83%A9%E3%83%95%E4%BD%9C%E6%88%90%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88)
 
 Become a news reporter with the News Article & Tweet & Image & Graph Creation Robot! This app allows you to research news and articles on the web. Simply input the article and the app will generate a news article, a promotional tweet, and even images and graphs. Want to know Apple's financial results? Look it up, and the app will create a tweet and an article for you!
 
@@ -39,3 +40,5 @@ Example command: "Create an image based on the latest technology trends."
 Example command: "Generate a graph showing the stock market trends in the past month."
 
 Remember to provide specific details and information when using the commands to get the desired output.
+
+

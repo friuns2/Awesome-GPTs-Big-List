@@ -1,6 +1,7 @@
+
 [![Photo of a business card 2 Contacts](https://files.oaiusercontent.com/file-0co4Hia8GMpxK7GdPtyE1BBZ?se=2123-10-17T07%3A30%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dab420fe5-1324-4196-ac08-52370934181c.png&sig=aA%2BsbviR1aOhZYnP1GW5J%2B1JF0kIZE4%2Bk0HSBqKv5E4%3D)](https://chat.openai.com/g/g-KK2rvvAuw-photo-of-a-business-card-2-contacts)
 
-# [Photo of a business card 2 Contacts](https://chat.openai.com/g/g-KK2rvvAuw-photo-of-a-business-card-2-contacts)
+# Photo of a business card 2 Contacts [ChatGPT Plus](https://chat.openai.com/g/g-KK2rvvAuw-photo-of-a-business-card-2-contacts) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Photo%20of%20a%20business%20card%202%20Contacts)
 
 Convert business card photos into CSV files for Google Contacts with this handy app! Simply upload a picture of the card and let the wizard do its magic. You can specify any specific details you want to extract from the card. Need to analyze another business card? No problem, just let me know! Hola, soy tu asistente para convertir tarjetas de visita en CSV. Sube tu foto y empieza. Use '--n' para añadir notas.
 
@@ -27,3 +28,5 @@ Convert business card photos into CSV files for Google Contacts with this handy 
 5. **Export to CSV:** After analyzing the business card, the app will provide you with a CSV file containing the extracted information. You can save this file and import it into your Google Contacts or use it for other purposes.
 
 Note: Remember to follow the prompts and provide clear instructions to ensure accurate extraction of information from the business card.
+
+

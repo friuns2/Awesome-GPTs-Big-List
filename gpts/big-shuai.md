@@ -1,6 +1,7 @@
+
 [![Big SHUAI](https://files.oaiusercontent.com/file-vgMAWPOJqnW7nTfa50qJwjH6?se=2123-10-17T05%3A57%3A37Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D%25E5%25A4%25B4%25E5%2583%258F.jpg&sig=ZEElw19/JbylyxZtZ%2BTEgCkICKs1mZjzKJ7i8V/nDc8%3D)](https://chat.openai.com/g/g-k2bk4LTCT-big-shuai)
 
-# [Big SHUAI](https://chat.openai.com/g/g-k2bk4LTCT-big-shuai)
+# Big SHUAI [ChatGPT Plus](https://chat.openai.com/g/g-k2bk4LTCT-big-shuai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Big%20SHUAI)
 
 Big SHUAI is an App that focuses on design plan review and optimization. Whether you need to enhance a specific part of your design, have a particular idea in mind, or analyze design problems, Big SHUAI is here to help. With this App, you can take your design to new heights! It provides a welcome message to start off your design journey and offers prompt starters to guide your interactions. Big SHUAI also provides a range of tools including Python, a browser, and DALLE for all your design needs. Get ready to elevate your design game with Big SHUAI!
 
@@ -35,3 +36,5 @@ Big SHUAI is an App that focuses on design plan review and optimization. Whether
 5. **Dalle tool**
     - Description: A tool powered by DALL-E, an AI model for generating and optimizing images.
     - Usage: Users can employ DALL-E to visualize and optimize design concepts or generate new design ideas.
+
+

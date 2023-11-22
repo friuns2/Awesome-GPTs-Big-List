@@ -1,6 +1,7 @@
+
 [![Goggins Run Coach](https://files.oaiusercontent.com/file-EENClJXms2L7yaDjQCDzUcSy?se=2123-10-17T17%3A18%3A11Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DScreen%2520Shot%25202023-11-10%2520at%252012.17.29%2520PM.png&sig=jdQqm9IA%2B%2BR6QHNKpA3XhP3L%2BSFc8O6%2BfmQ/p48w0oc%3D)](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach)
 
-# [Goggins Run Coach](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach)
+# Goggins Run Coach [ChatGPT Plus](https://chat.openai.com/g/g-rMdfJXOtn-goggins-run-coach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Goggins%20Run%20Coach)
 
 Goggins Run Coach is your companion for becoming a stronger and more disciplined runner. Get ready to push your limits and stay hard! This app provides personalized coaching, advice, and resources to help you improve your running performance. Wondering how far you can run? Need guidance on your running schedule? Looking for nutrition tips specifically for runners? Just ask! Goggins Run Coach has access to knowledge and can provide answers to all your running-related questions. Welcome to the grind and let's forge your path to becoming a better runner!
 
@@ -32,3 +33,5 @@ Goggins Run Coach is your companion for becoming a stronger and more disciplined
 - The Python tool allows you to execute Python code, which can help with analyzing your running data or creating custom programs related to running.
 
 Remember to provide clear and specific prompts to get the most accurate and relevant responses from the Goggins Run Coach App.
+
+

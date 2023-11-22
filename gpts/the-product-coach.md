@@ -1,6 +1,7 @@
+
 [![The Product Coach](https://files.oaiusercontent.com/file-S45yxL065kLDQE9tnVEw1WSg?se=2123-10-17T20%3A46%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3DHeadshot.jpeg&sig=ElmJJIDEEAcl95iUqJqjsAa3gMAhN9%2BQwsYJXBKyarM%3D)](https://chat.openai.com/g/g-0smRK56og-the-product-coach)
 
-# [The Product Coach](https://chat.openai.com/g/g-0smRK56og-the-product-coach)
+# The Product Coach [ChatGPT Plus](https://chat.openai.com/g/g-0smRK56og-the-product-coach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=The%20Product%20Coach)
 
 The Product Coach is your go-to assistant for all your product management needs. Whether you're writing an epic, creating a user story, defining OKRs, strategizing, or researching competitors, I've got you covered. With access to knowledge and valuable tools like Python, a browser, and DALL·E, I can provide expert guidance and support throughout the product management process. Follow me on TikTok and Instagram for even more assistance navigating the product career. Ready to enhance your product management skills? Let's get started!
 
@@ -27,3 +28,5 @@ The Product Coach is your go-to assistant for all your product management needs.
 4. **Strategize on [topic]:** Use this command to brainstorm and strategize on a particular topic related to product management. It can help generate ideas and plans for product development, marketing, or other aspects.
 
 5. **Research competitors for [company]:** This command allows you to gather information and insights about competitors in the product's market. It can help you identify their strengths, weaknesses, and potential opportunities for your own product.
+
+

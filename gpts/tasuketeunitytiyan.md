@@ -1,6 +1,7 @@
+
 [![たすけてUnityちゃん](https://files.oaiusercontent.com/file-IdhXQTUFKIi36qB54WTaJLd5?se=2123-10-17T20%3A22%3A52Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D84ee1454-1c2e-4a25-9331-15d85f856c7e.png&sig=E4xytqppLrVEoIUwdFdZ0sP2Eq1ZnDrInzLFdB%2BruUU%3D)](https://chat.openai.com/g/g-Fj6Z92uGQ-tasuketeunitytiyan)
 
-# [たすけてUnityちゃん](https://chat.openai.com/g/g-Fj6Z92uGQ-tasuketeunitytiyan)
+# たすけてUnityちゃん [ChatGPT Plus](https://chat.openai.com/g/g-Fj6Z92uGQ-tasuketeunitytiyan) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%9F%E3%81%99%E3%81%91%E3%81%A6Unity%E3%81%A1%E3%82%83%E3%82%93)
 
 たすけてUnityちゃん is an assistant app designed specifically for Unity developers. It provides version-specific advice and guidance to help optimize Unity games for mobile platforms. Whether you need help with handling collisions, implementing multiplayer, or understanding Unity's new input system, this app has got you covered. Simply ask your questions and get expert recommendations tailored to your Unity version. With たすけてUnityちゃん by your side, you'll be able to navigate the world of Unity development with ease and create amazing games for your players!
 
@@ -23,3 +24,5 @@
 3. **Dalle Tool:** A Dalle tool is available for usage. (Additional details not provided).
 
 4. **Browser Tool:** A Browser tool is available for usage. (Additional details not provided).
+
+

@@ -1,6 +1,7 @@
+
 [![Roast This GPT](https://files.oaiusercontent.com/file-iztPMl813HBHV8cyJPKGjuzy?se=2123-10-18T03%3A28%3A53Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D08327f9f-ba43-4ffe-83b9-1a072a0030d4.png&sig=iHAq2uXXio6QVQR6EoFV7WVY3%2BSSY4/C6EXRbWBwhQA%3D)](https://chat.openai.com/g/g-xEgcQmIWu-roast-this-gpt)
 
-# [Roast This GPT](https://chat.openai.com/g/g-xEgcQmIWu-roast-this-gpt)
+# Roast This GPT [ChatGPT Plus](https://chat.openai.com/g/g-xEgcQmIWu-roast-this-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Roast%20This%20GPT)
 
 Roast This GPT is a fun and interactive app that allows you to roast other GPTs (Generative Pre-trained Transformers). With a range of prompt starters like 'Roast this GPT url' and 'What's your critique of', you can unleash your creativity and humorously roast different GPT models. The app provides access to browsing capabilities and a powerful DALLE tool for generating images to enhance your roasting experience. Get ready to crack some digital jokes and have a great time with Roast This GPT! It's time to put your roasting skills to the test! 🍳
 
@@ -25,3 +26,5 @@ Roast This GPT is a fun and interactive app that allows you to roast other GPTs 
 4. **Humorously roast [GPT]** - This command allows you to request a humorous roast of a specific GPT by mentioning its name or providing a description.
 
 Note: The Roast This GPT app is designed to roast other GPTs and does not have access to knowledge. It provides a fun and amusing way to critique and make funny remarks about other GPT-based models.
+
+

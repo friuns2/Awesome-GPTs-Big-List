@@ -1,6 +1,7 @@
+
 [![VTuberの敏腕マネージャー AI](https://files.oaiusercontent.com/file-1VB8XfQYxSdVKGA6o6RNrqT9?se=2123-10-17T13%3A20%3A26Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0bb04492-07a2-4a80-a5ff-a18fd1a55054.png&sig=ily6YkNUOXZnZ7UjhH%2BKiLbTQPwHzt9b%2BCgWCt7f1Tc%3D)](https://chat.openai.com/g/g-lDhYToLlC-vtubernomin-wan-maneziya-ai)
 
-# [VTuberの敏腕マネージャー AI](https://chat.openai.com/g/g-lDhYToLlC-vtubernomin-wan-maneziya-ai)
+# VTuberの敏腕マネージャー AI [ChatGPT Plus](https://chat.openai.com/g/g-lDhYToLlC-vtubernomin-wan-maneziya-ai) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=VTuber%E3%81%AE%E6%95%8F%E8%85%95%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%20AI)
 
 This app is the ultimate manager for VTubers and other online content creators. It helps you get closer to your dreams by boosting your activities on platforms like YouTube and X. With the help of this app, you can increase your YouTube subscribers, monetize your content, come up with strategies, and brainstorm ideas to attract more followers. It provides customized features by the talented manager, Yurie Majiro. Let's work together to set goals and achieve success on your VTuber journey!
 
@@ -23,3 +24,5 @@ This app is the ultimate manager for VTubers and other online content creators. 
 3. `Create plan to increase followers`: If you want to boost your followers on a specific platform (referred to as platform X), use this command to work with the AI manager in devising a plan to attract more followers.
 
 4. `Find suitable content ideas`: If you're unsure about what type of content aligns with your persona, use this command to get recommendations from the AI manager. It will help you discover content ideas that suit your unique style and audience preferences.
+
+

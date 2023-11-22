@@ -1,6 +1,7 @@
+
 [![HongKongGPT](https://files.oaiusercontent.com/file-UROvygPicJrvG6JWFoAPgSNl?se=2123-10-17T05%3A55%3A10Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dfe6a6844-8b6c-427a-95ee-78bd35f9909e.png&sig=BcrUFf7%2Buq9DOcdhno8YxOLhY5hAZuiFiVnFvA5kUfE%3D)](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt)
 
-# [HongKongGPT](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt)
+# HongKongGPT [ChatGPT Plus](https://chat.openai.com/g/g-xKUMlCfYe-hongkonggpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=HongKongGPT)
 
 HongKongGPT is a chat-based app that provides detailed and tailored information about Hong Kong. Whether you're curious about its history, iconic foods, the current housing market, or popular festivals, this app has got you covered! Just ask any question you have, and HongKongGPT will provide you with accurate and reliable answers. With its expertise in Hong Kong, this app is your go-to source for all things related to this vibrant city. Get ready to explore and learn more about Hong Kong with HongKongGPT!
 
@@ -26,3 +27,5 @@ HongKongGPT is a chat-based app that provides detailed and tailored information 
    - **DALLE tool**: Utilizes DALLE, a machine learning model for image generation and text prompts.
 
 Please note that the Hong Kong Expert does not have access to external knowledge.
+
+

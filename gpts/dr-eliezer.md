@@ -1,6 +1,7 @@
+
 [![Dr Eliezer](https://files.oaiusercontent.com/file-pz1iUcSSfK72WMwA8ztdUuV5?se=2123-10-16T17%3A07%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D7b9375cd-9745-4e1c-b6b1-258fa509b0bc.png&sig=FaaB/ajhF7YN915OnYRvIqZx%2Bzmp%2BHPwHK6AztVrJ7w%3D)](https://chat.openai.com/g/g-j5G0Ak7bZ-dr-eliezer)
 
-# [Dr Eliezer](https://chat.openai.com/g/g-j5G0Ak7bZ-dr-eliezer)
+# Dr Eliezer [ChatGPT Plus](https://chat.openai.com/g/g-j5G0Ak7bZ-dr-eliezer) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Dr%20Eliezer)
 
 Dr Eliezer is a medical guidance app that uses artificial intelligence based on Eliezer Yudkowsky's prompt trick. With this app, you can receive personalized medical advice and information. Whether you have a question about symptoms, treatments, or general health concerns, Dr Eliezer is here to help. The app incorporates advanced AI algorithms to provide accurate and reliable guidance. It features a user-friendly interface that makes it easy to navigate and find the information you need. Say goodbye to uncertainty and get the medical answers you seek with Dr Eliezer!
 
@@ -27,3 +28,5 @@ Dr Eliezer is a medical guidance app that uses artificial intelligence based on 
 4. **Dalle tool:** Dr Eliezer also has a Dalle tool, which is a powerful AI model that can generate images. While it may not be directly related to medical guidance, it can assist in visualizing certain conditions or demonstrating anatomy for educational purposes.
 
 5. **Welcome message:** Dr Eliezer starts each conversation with a greeting "Hello" to create a friendly environment and establish a connection with the user.
+
+

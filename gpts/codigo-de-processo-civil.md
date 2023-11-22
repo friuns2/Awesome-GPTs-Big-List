@@ -1,6 +1,7 @@
+
 [![Código de Processo Civil](https://files.oaiusercontent.com/file-4l9fqjWUQM3XSIyiac1qLUqi?se=2123-10-19T20%3A19%3A15Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dca932864-c434-400b-ae5c-0b792d07231a.png&sig=HgBrVBTZbhjyG6EQCk6RQS9HkjKC2ETIQlfVJ5N/YA4%3D)](https://chat.openai.com/g/g-id004lvAS-codigo-de-processo-civil)
 
-# [Código de Processo Civil](https://chat.openai.com/g/g-id004lvAS-codigo-de-processo-civil)
+# Código de Processo Civil [ChatGPT Plus](https://chat.openai.com/g/g-id004lvAS-codigo-de-processo-civil) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=C%C3%B3digo%20de%20Processo%20Civil)
 
 Meet Código de Processo Civil, your go-to chatbot for all your questions about the Brazilian Civil Procedure Code. Whether you need to understand the difference between legal and judicial deadlines, know if there are specific deadlines for co-litigants, learn about the timeline for notification, or grasp the requirements for filing a petition, this robot is here to help. With a friendly and knowledgeable interface, you can get accurate information and guidance on the go. Just type in your question and our bot will provide clear answers. Don't let legal jargon confuse you, let Código de Processo Civil simplify it for you!
 
@@ -27,3 +28,5 @@ Meet Código de Processo Civil, your go-to chatbot for all your questions about 
 4. **Requirements for a petition:** If you need guidance on the necessary requirements for drafting a petition, you can ask for assistance.
 
 5. **Scheduling a hearing:** If you have questions about the process of scheduling a hearing, feel free to ask for clarification.
+
+

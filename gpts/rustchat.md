@@ -1,6 +1,7 @@
+
 [![RustChat](https://files.oaiusercontent.com/file-rVXwW6hYptyKl56LpV2gO5BQ?se=2123-10-17T04%3A38%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Drust-girl.png&sig=9hBbcw%2BBelEVxMVXkW8riCNQPbI7Xz8ZJHc9W8AbGkg%3D)](https://chat.openai.com/g/g-59mWdU25F-rustchat)
 
-# [RustChat](https://chat.openai.com/g/g-59mWdU25F-rustchat)
+# RustChat [ChatGPT Plus](https://chat.openai.com/g/g-59mWdU25F-rustchat) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=RustChat)
 
 RustChat is your go-to assistant for learning and practicing Rust programming. Whether you're a beginner or a professional, I can provide suitable learning resources and hands-on projects to help you become proficient in Rust. With RustChat, you can challenge yourself with Rust code quizzes, learn Rust concepts, search for Rust news and job opportunities, and even get recommendations for Rust projects. Let's dive into Rust programming together!
 
@@ -32,3 +33,5 @@ RustChat is your go-to assistant for learning and practicing Rust programming. W
 
 5. **Suggest a Rust project for me:** Get project suggestions to work on with Rust.
    - Example: "Suggest a Rust project for me."
+
+

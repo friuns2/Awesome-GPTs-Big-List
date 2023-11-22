@@ -1,6 +1,7 @@
+
 [![Handyman](https://files.oaiusercontent.com/file-jIugYD1KRuOlgNm1r77mNHyT?se=2123-10-17T13%3A26%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3De50f370e-76cb-48e0-a282-71ece11793f4.png&sig=rWh04LtAV6e9tbdZ20dDZmNi4ZGoSRc5hUVzSql3E2o%3D)](https://chat.openai.com/g/g-sHMxXtp1M-handyman)
 
-# [Handyman](https://chat.openai.com/g/g-sHMxXtp1M-handyman)
+# Handyman [ChatGPT Plus](https://chat.openai.com/g/g-sHMxXtp1M-handyman) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Handyman)
 
 Handyman is your trusty sidekick for all your home repair needs. Whether you're dealing with a dripping faucet, a loose floorboard, or a small hole in your wall, Handyman is here to help. Just ask me your home repair questions, and I'll provide you with step-by-step instructions and expert advice to get the job done right. With Handyman, you won't need to hire a professional or spend hours searching for DIY solutions online. Let's tackle those home repairs together!
 
@@ -29,3 +30,5 @@ Handyman is your trusty sidekick for all your home repair needs. Whether you're 
 6. `patch <type>`: If you have a hole in your wall that needs to be fixed, you can use the `patch` command followed by the type of patching you want to do. For example, you can say "I have a small hole in my wall, how do I patch it?"
 
 Remember, the Handyman app is here to provide guidance and instructions for your home repair tasks. If you need help or have any questions, feel free to ask!
+
+

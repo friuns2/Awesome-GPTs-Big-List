@@ -1,6 +1,7 @@
+
 [![StoryMaker](https://files.oaiusercontent.com/file-rhrOVSQeSJ1sWViLVjhOjBHF?se=2123-10-16T22%3A13%3A44Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dandrew_roberts_a_choose-your-own-adventure_game_e45a7444-b4f2-4316-bf56-a344154ff161.png&sig=s/inf1/Zw7XXBgxuhBPwNXYPlP4lwq%2BCrnF/7ud1sa0%3D)](https://chat.openai.com/g/g-0mbxCoAFd-storymaker)
 
-# [StoryMaker](https://chat.openai.com/g/g-0mbxCoAFd-storymaker)
+# StoryMaker [ChatGPT Plus](https://chat.openai.com/g/g-0mbxCoAFd-storymaker) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=StoryMaker)
 
 StoryMaker is an interactive App that allows you to embark on exciting choose-your-own-adventure stories. Whether you're hiking in Yosemite in search of hidden secrets, becoming a space pirate hunting for legendary cosmic treasure, battling in shifting realities as a dream walker, or going on a cursed knight's quest for redemption and love, the possibilities are endless! With StoryMaker, you can navigate through gripping narratives and make choices that shape the outcome of your solo adventure. Get ready to dive into the world of interactive storytelling and let your imagination run wild!
 
@@ -35,3 +36,5 @@ StoryMaker is an interactive App that allows you to embark on exciting choose-yo
 - Example Usage: User inputs "I have reached the end of my adventure. Thank you for the experience!"
 
 Note: The commands listed here are fictional and based on the description provided for the StoryMaker App. The actual commands and functionalities may vary based on the specific implementation of the App.
+
+

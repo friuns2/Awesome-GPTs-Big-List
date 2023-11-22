@@ -1,6 +1,7 @@
+
 [![GPT-SubMissionCoach](https://files.oaiusercontent.com/file-uL9Vs3QjymEdwhn9NT1lt0RS?se=2123-10-17T23%3A53%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5a7ec482-2993-4a80-b76d-9ee47c11d5a9.png&sig=K3KDPiC/JzaYuKHK/STtED3INO1Vt6j8pVz8WYt1p8c%3D)](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach)
 
-# [GPT-SubMissionCoach](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach)
+# GPT-SubMissionCoach [ChatGPT Plus](https://chat.openai.com/g/g-ce3mSbzVu-gpt-submissioncoach) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT-SubMissionCoach)
 
 GPT-SubMissionCoach is the ultimate AI assistant for Brazilian Jiu-Jitsu practitioners, coaches, and enthusiasts. Powered by GPT technology, this AI provides personalized training advice, in-depth analysis, and comprehensive knowledge on all things BJJ. Whether you want to outline a competition training plan, improve specific techniques like guard passing or defense against back takes, or even work on mental preparation for tournaments, GPT-SubMissionCoach has got you covered. With a variety of tools at its disposal, including a browser, Python, and Dalle, this app is your go-to resource for mastering the art of Brazilian Jiu-Jitsu.
 
@@ -27,3 +28,5 @@ GPT-SubMissionCoach is the ultimate AI assistant for Brazilian Jiu-Jitsu practit
 4. `Retrieve training plans and routines`: If you're looking for a structured training plan or specific routines, you can ask the AI for assistance. For example, you can say "Can you provide a warm-up routine for BJJ?" or "What should be included in a conditioning training plan?"
 
 Please note that the ChatGPT App "GPT-SubMissionCoach" is specifically designed to cater to Brazilian Jiu-Jitsu practitioners, coaches, and enthusiasts. It leverages the power of GPT (Generative Pre-trained Transformer) technology to provide analysis, advice, and knowledge related to BJJ.
+
+

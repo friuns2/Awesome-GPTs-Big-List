@@ -1,6 +1,7 @@
+
 [![PamploGPT](https://files.oaiusercontent.com/file-WIQN4xGOYo9915hYkyXj7WHG?se=2123-10-16T07%3A43%3A25Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dbaf0f5e1-bda7-4530-9c8d-8c687d92db5e.png&sig=IHfQxz8t8jfm/YHHRWNr9yEIskuXp%2BYcHXcU8cTxw8g%3D)](https://chat.openai.com/g/g-LliXTwjAl-pamplogpt)
 
-# [PamploGPT](https://chat.openai.com/g/g-LliXTwjAl-pamplogpt)
+# PamploGPT [ChatGPT Plus](https://chat.openai.com/g/g-LliXTwjAl-pamplogpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=PamploGPT)
 
 Discover the best things to do in Pamplona with PamploGPT! This app puts all the must-see attractions, activities, and restaurants of Pamplona right at your fingertips. Whether you're looking for a fun fact about Pamplona, ideas for today's plans, or recommendations for the best restaurants in town, PamploGPT has got you covered. With PamploGPT, you'll never run out of things to do during your visit to Pamplona. So, get ready to explore this beautiful city and have an unforgettable experience!
 
@@ -19,3 +20,6 @@ Discover the best things to do in Pamplona with PamploGPT! This app puts all the
 | Feature/Command | Description |
 | --- | --- |
 | N/A | The PamploGPT app does not provide any specific command or feature. It is designed to provide information and assistance related to Pamplona. |
+
+
+

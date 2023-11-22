@@ -1,6 +1,7 @@
+
 [![Mystic Sage（算命神器）](https://files.oaiusercontent.com/file-TkDbmmTOu5QbhnBvTFg12P46?se=2123-10-20T04%3A33%3A56Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D28883c7f-7416-426e-abea-79f63555e556.png&sig=Ae5E4RspjlO9IDOkpJJZozLqAHYQhIAsLp6HC33SbIo%3D)](https://chat.openai.com/g/g-ezzK8pt3x-mystic-sage-suan-ming-shen-qi)
 
-# [Mystic Sage（算命神器）](https://chat.openai.com/g/g-ezzK8pt3x-mystic-sage-suan-ming-shen-qi)
+# Mystic Sage（算命神器） [ChatGPT Plus](https://chat.openai.com/g/g-ezzK8pt3x-mystic-sage-suan-ming-shen-qi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Mystic%20Sage%EF%BC%88%E7%AE%97%E5%91%BD%E7%A5%9E%E5%99%A8%EF%BC%89)
 
 Mystic Sage is an App that specializes in Feng Shui and I Ching. It provides expert guidance and assists users in calculating their BaZi. With Mystic Sage, users can receive in-depth analysis and insights into these ancient practices. Whether you want to understand BaZi, explore the principles of I Ching, or learn about Feng Shui, Mystic Sage is here to help. Just ask questions like 'What is Bazi?' or 'Explain the I Ching' and let Mystic Sage guide you through this mystical journey. Get ready to unlock the secrets of Feng Shui and enhance your knowledge with Mystic Sage!
 
@@ -25,3 +26,5 @@ Mystic Sage is an App that specializes in Feng Shui and I Ching. It provides exp
 4. **BaZi analysis:** If you have your BaZi and want an in-depth analysis, you can request "BaZi analysis" or ask "Can you provide a detailed analysis of my BaZi?" The Mystic Sage will provide personalized insights based on your BaZi chart.
 
 5. **Ask specific questions:** You can ask specific questions related to Feng Shui, I Ching, or BaZi, such as "How can I improve my career using Feng Shui?" or "What does my BaZi reveal about my relationships?" The Mystic Sage will offer relevant guidance and explanations.
+
+

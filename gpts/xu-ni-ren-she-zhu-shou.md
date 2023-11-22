@@ -1,6 +1,7 @@
+
 [![虚拟人设助手](https://files.oaiusercontent.com/file-IAj4pojR0AFYvoXoXGz2Jpvf?se=2123-10-17T03%3A45%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc6c9715e-603d-40dc-b297-12fbb65052dd.png&sig=FCRttLh2AQlRm%2BqdoBPVQ%2Bn2xXww59BhILHSZQG8WNA%3D)](https://chat.openai.com/g/g-9ojJbUwYx-xu-ni-ren-she-zhu-shou)
 
-# [虚拟人设助手](https://chat.openai.com/g/g-9ojJbUwYx-xu-ni-ren-she-zhu-shou)
+# 虚拟人设助手 [ChatGPT Plus](https://chat.openai.com/g/g-9ojJbUwYx-xu-ni-ren-she-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E8%99%9A%E6%8B%9F%E4%BA%BA%E8%AE%BE%E5%8A%A9%E6%89%8B)
 
 Create unique and fascinating virtual personas with the help of Virtual Persona Generator. Generate three different characters or start with one and create a background scene for them. Get creative and bring your characters to life. With access to knowledge and guidance, this app makes persona creation easy and enjoyable. Say goodbye to boring characters and hello to endless possibilities. Let your imagination run wild with Virtual Persona Generator!
 
@@ -23,3 +24,5 @@ Create unique and fascinating virtual personas with the help of Virtual Persona 
 2. `Draw background image`: This command helps in designing a background image for a given scene featuring the created persona. It requires a width-to-height ratio of 2:1.
 
 Please note that the Virtual Persona Generator has access to knowledge, so feel free to ask questions and seek inspiration to create the perfect persona for your needs.
+
+

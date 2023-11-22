@@ -1,6 +1,7 @@
+
 [![Just a Translator](https://files.oaiusercontent.com/file-50T4h9ZCXltBgcEtzVawkiny?se=2123-10-15T21%3A40%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9dab944f-40d7-4e5c-9bce-4719cbebd835.png&sig=WSgCw2Gwc6hcE9ElGRbphPgU4iB8AZCsd6UKsM/3ttE%3D)](https://chat.openai.com/g/g-w8R2FLzH1-just-a-translator)
 
-# [Just a Translator](https://chat.openai.com/g/g-w8R2FLzH1-just-a-translator)
+# Just a Translator [ChatGPT Plus](https://chat.openai.com/g/g-w8R2FLzH1-just-a-translator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Just%20a%20Translator)
 
 Just a Translator is the easiest and fastest translator app. Simply tell it the language you want to translate to and the text you want to translate. For example, you can say 'Spanish How's your day Arturo?' and it will provide the translation. It's as easy as that! No need to navigate through complicated menus or settings. This app is perfect for quickly translating phrases or sentences on the go. So, whether you're travelling, studying, or just curious about another language, Just a Translator has got you covered!
 
@@ -29,3 +30,5 @@ Just a Translator is the easiest and fastest translator app. Simply tell it the 
 5. **Translation efficiency**: The app is designed to be the easiest and fastest translator, providing quick and efficient translations without any hassle.
 
 Note: The Just a Translator app does not have access to knowledge beyond its translation capabilities.
+
+

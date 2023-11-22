@@ -1,6 +1,7 @@
+
 [![8 Bit Art](null)](https://chat.openai.com/g/g-rs0UZCRQ2-8-bit-art)
 
-# [8 Bit Art](https://chat.openai.com/g/g-rs0UZCRQ2-8-bit-art)
+# 8 Bit Art [ChatGPT Plus](https://chat.openai.com/g/g-rs0UZCRQ2-8-bit-art) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=8%20Bit%20Art)
 
 Create amazing 8-bit images with 8 Bit Art! This fun app allows you to unleash your creativity by building pixelated masterpieces. With a variety of tools at your disposal, such as a browser and DALLE, you can bring your imagination to life. Whether you're a fan of retro gaming or simply enjoy the nostalgic charm of pixel art, 8 Bit Art is the perfect app to express your artistic side. Get ready to dive into a world of colorful blocks and create pixel-perfect designs. Time to bring out your inner Picasso!
 
@@ -23,3 +24,5 @@ Create amazing 8-bit images with 8 Bit Art! This fun app allows you to unleash y
 2. **Choose 8 bit tools:** This command allows you to choose between different tools available for creating 8 bit images. Currently, there are two tools available: a browser-based tool and a DALL-E tool.
 
 Remember to provide clear and specific instructions or prompts when interacting with the app to get the desired results.
+
+

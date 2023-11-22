@@ -1,6 +1,7 @@
+
 [![沖縄料理ナビ](https://files.oaiusercontent.com/file-AjDLWLf1KTndYgT3uQyFCYef?se=2123-10-19T02%3A18%3A30Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Db3cfd887-3a28-4ef8-9902-8c8708a88dfb.png&sig=YdcwA1J3K%2BwboEq/%2BacTgkBqdpFrP5huXY2wSpd2GWs%3D)](https://chat.openai.com/g/g-pTZNq0Me8-chong-nawa-liao-li-nabi)
 
-# [沖縄料理ナビ](https://chat.openai.com/g/g-pTZNq0Me8-chong-nawa-liao-li-nabi)
+# 沖縄料理ナビ [ChatGPT Plus](https://chat.openai.com/g/g-pTZNq0Me8-chong-nawa-liao-li-nabi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%B2%96%E7%B8%84%E6%96%99%E7%90%86%E3%83%8A%E3%83%93)
 
 Explore the world of Okinawa cuisine with the Okinawa Cuisine Guide. Get recommendations for the best Okinawa dishes, discover recipes using ingredients in your fridge, learn how to make Okinawa soba, and find out about traditional Okinawan desserts. You can even use the app to browse websites for more information. Let's embark on a culinary journey and satisfy your taste buds with the flavors of Okinawa!
 
@@ -35,3 +36,5 @@ Translation: "Please tell me how to make Okinawa soba."
 4. **Traditional desserts of Okinawa:** Discover the traditional desserts unique to Okinawa.
 Example command: "沖縄の伝統的なデザートは何ありますか？"
 Translation: "What are the traditional desserts of Okinawa?"
+
+

@@ -1,6 +1,7 @@
+
 [![塗り絵制作](https://files.oaiusercontent.com/file-QMzPXlkmtepdg8yNcZJEUhIE?se=2123-10-19T07%3A59%3A18Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dc400fda8-6b25-4cf9-b15c-854b1a2c1291.png&sig=JVDrfBwOOtRd6uLodEcclDdVPqnnooLS30lpr0pC2h8%3D)](https://chat.openai.com/g/g-wrU3quC0r-tu-rihui-zhi-zuo)
 
-# [塗り絵制作](https://chat.openai.com/g/g-wrU3quC0r-tu-rihui-zhi-zuo)
+# 塗り絵制作 [ChatGPT Plus](https://chat.openai.com/g/g-wrU3quC0r-tu-rihui-zhi-zuo) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%A1%97%E3%82%8A%E7%B5%B5%E5%88%B6%E4%BD%9C)
 
 This App allows you to create coloring pages from your uploaded images! It uses advanced technology to extract the outlines of the image, so you can easily turn any picture into a coloring page. Whether you want to create custom coloring pages for your kids or relax and de-stress by coloring yourself, this App has got you covered. Get ready to unleash your creativity and bring your images to life with beautiful colors!
 
@@ -26,3 +27,5 @@ This App allows you to create coloring pages from your uploaded images! It uses 
 
 3. **Welcome Message**: The app greets you with a friendly message when you interact with it.
     - Usage: "Hello! Can you assist me in making a coloring page from an image?"
+
+

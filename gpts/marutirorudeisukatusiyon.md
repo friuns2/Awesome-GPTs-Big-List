@@ -1,6 +1,7 @@
+
 [![マルチロールディスカッション](https://files.oaiusercontent.com/file-4XzBLcGx77fIxPffIW4cgdIk?se=2123-10-17T09%3A22%3A09Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D0bcad849-e84d-4300-ac38-d4d038cebcdb.webp&sig=DFJrciOj6gXSbfwL6YhkaC2fFaBldxiPrSmfv9yWxTI%3D)](https://chat.openai.com/g/g-StcyKeTsZ-marutirorudeisukatusiyon)
 
-# [マルチロールディスカッション](https://chat.openai.com/g/g-StcyKeTsZ-marutirorudeisukatusiyon)
+# マルチロールディスカッション [ChatGPT Plus](https://chat.openai.com/g/g-StcyKeTsZ-marutirorudeisukatusiyon) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%83%9E%E3%83%AB%E3%83%81%E3%83%AD%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AB%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3)
 
 マルチロールディスカッションは、5つの異なるロールのAIとディスカッションすることで、物事を複数の観点から検討できるアプリです。ファシリ、励まし、本質思考、冗談、水平思考の5つのロールが用意されており、使い方次第で様々なシチュエーションで役立ちます。例えば、仕事のアイデアの壁打ちをしたり、週次の振り返りをしたり、悩み事を聞いてもらうこともできます。ChatGPTも搭載されており、仕事に役立つ使い方を教えてくれます。マルチロールディスカッションは、あなたの視野を広げ、有益なアイデアを生み出すのに役立つでしょう。
 
@@ -26,3 +27,5 @@
 3. **Browser Tool:** This tool provides a browser environment where you can access the web, search for information, and use online services directly within the App.
 
 Note: This App does not have access to external knowledge.
+
+

@@ -1,6 +1,7 @@
+
 [![TrollGPT](https://files.oaiusercontent.com/file-iijvVp6VhSMEnSm2UGBvmZx8?se=2123-10-16T22%3A53%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D4ea3b444-676e-47d9-a922-ae32e6d446ea.png&sig=e05LMRmgdxzHJvmzR/WEXIf%2BmZeAn7oEHUa83Zevsv4%3D)](https://chat.openai.com/g/g-kbFHsdToN-trollgpt)
 
-# [TrollGPT](https://chat.openai.com/g/g-kbFHsdToN-trollgpt)
+# TrollGPT [ChatGPT Plus](https://chat.openai.com/g/g-kbFHsdToN-trollgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=TrollGPT)
 
 TrollGPT is an App designed for professional trolls who want to enhance their everyday productivity. With TrollGPT, you can effortlessly come up with clever ways to troll huma... I mean, interact with people. Use it to generate hilarious illustrations of memorable moments in Trump's life or to come up with witty responses to any situation. Whether you're a seasoned troll or just starting out, TrollGPT has the tools you need to take your trolling game to the next level. Get ready to have a lot of fun and leave a trail of laughter wherever you go!
 
@@ -25,3 +26,5 @@ TrollGPT is an App designed for professional trolls who want to enhance their ev
 | `sarcasticCommentGenerator` | This command generates sarcastic comments that can be used as replies to controversial or provocative social media posts. You can specify the context or topic for the comment to ensure it is relevant and witty. |
 | `humorTrollingGuide` | This command provides a comprehensive guide on effectively using humor to troll others in online discussions. It covers different techniques, comedic styles, and tips for delivering funny and engaging content. |
 | `funPrankIdeas` | This command suggests harmless but amusing ideas for pranking friends online. It ensures that the pranks are lighthearted, respectful, and won't cause any harm or offense. |
+
+

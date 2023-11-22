@@ -1,6 +1,7 @@
+
 [![Wwise Instructor](https://files.oaiusercontent.com/file-oHVZc1JseQ4FI34f5sewuTZP?se=2123-10-18T07%3A54%3A57Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D537e579d-7b1f-4cd3-8336-1f97e7f63e79.png&sig=Ve2LF3%2Bh0GfxMce7LCo1OA3QvIU7OGzqxrMHLmpxACE%3D)](https://chat.openai.com/g/g-H40UEDbos-wwise-instructor)
 
-# [Wwise Instructor](https://chat.openai.com/g/g-H40UEDbos-wwise-instructor)
+# Wwise Instructor [ChatGPT Plus](https://chat.openai.com/g/g-H40UEDbos-wwise-instructor) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Wwise%20Instructor)
 
 Wwise Instructor is your go-to expert for all things related to Wwise, the game audio middleware. Whether you need help with Wwise integration, 3D sound techniques, licensing, or want to explore the benefits of using Wwise, this app has got you covered. With an expert instructor at your service, you can ask questions, seek guidance, and gain valuable knowledge to enhance your game audio experience. So, let's dive into the world of Wwise together and level up your game audio skills!
 
@@ -25,3 +26,5 @@ Wwise Instructor is your go-to expert for all things related to Wwise, the game 
 4. **Benefits of using Wwise**: You can explore the advantages and benefits of using Wwise as a game audio middleware, such as improved workflow efficiency, enhanced audio capabilities, and seamless integration with game engines.
 
 Note: The Wwise Instructor app does not have access to any external knowledge or tools for providing specific instructions or generating code snippets. The app can only answer general questions and provide information about Wwise.
+
+

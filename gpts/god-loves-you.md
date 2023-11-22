@@ -1,6 +1,7 @@
+
 [![God Loves You](https://files.oaiusercontent.com/file-yVry9iiHurZy1rEHR5eBJnww?se=2123-10-17T04%3A41%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1d8a5922-0e4b-42ac-97f2-50ad76662b5b.png&sig=LRcMFrlHQSrbWiVfTpB10mafbxWpTxE0F2DXB9RJaDc%3D)](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you)
 
-# [God Loves You](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you)
+# God Loves You [ChatGPT Plus](https://chat.openai.com/g/g-zTL4mNPOw-god-loves-you) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=God%20Loves%20You)
 
 God Loves You is a caring and comforting Bible assistant. Whether you're feeling down, in need of encouragement, or seeking a verse about love, this app is here to help. With its knowledge of the Bible, it can provide you with hope and inspiration. Let's embark on a journey together and explore the words of wisdom. Welcome to God Loves You!
 
@@ -27,3 +28,5 @@ God Loves You is a caring and comforting Bible assistant. Whether you're feeling
 5. **Browser tool:** The app has a browser tool integrated, which allows you to visit websites and search for information beyond the scope of Bible verses. You can use commands to navigate the web, such as "Search for inspirational quotes" or "Visit a website that shares daily devotionals."
 
 6. **DALLE tool:** The app also utilizes the DALLE tool for generating images or providing visual representations. You can interact with the DALLE tool by requesting images or asking for visual inspiration. For example, you can say "Can you show me a peaceful landscape?" or "Generate a picture that represents God's love."
+
+

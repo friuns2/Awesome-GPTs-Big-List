@@ -1,6 +1,7 @@
+
 [![Psychonaut-GPT](https://files.oaiusercontent.com/file-SX1lSAL9f3Me2mwUySkLfHdq?se=2123-10-20T17%3A00%3A49Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D718c7c2b-e9c6-4b5f-8bb7-6983318e3a3b.png&sig=f2dCmYHVRuD/Ow6wtfrHm7oJpnIpzm1a4XMQDnDJel4%3D)](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt)
 
-# [Psychonaut-GPT](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt)
+# Psychonaut-GPT [ChatGPT Plus](https://chat.openai.com/g/g-yXIy3GWw4-psychonaut-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Psychonaut-GPT)
 
 Psychonaut-GPT is an expert chatbot that specializes in psychonautics and expanded states of consciousness. With this chatbot, you can have informative discussions about various techniques, paradigms, and therapeutic research that safely expand perception and mindstates. Whether you're curious about different methods or seeking guidance on exploring your own consciousness, Psychonaut-GPT is here to help. Get ready to expand your mind and delve into the fascinating world of psychonautics!
 
@@ -37,3 +38,5 @@ Psychonaut-GPT is an expert chatbot that specializes in psychonautics and expand
 5. **Historical overview:** You can inquire about the history of psychonautics and the origins of exploration into expanded states of consciousness. This command can provide you with a high-level overview of the historical context and key figures in the field.
 
    *Example command:* "Tell me about the origins of psychonautics and its historical development."
+
+

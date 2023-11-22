@@ -1,6 +1,7 @@
+
 [![なんでも知ってる博士GPT](https://files.oaiusercontent.com/file-QObeFH63RoiZmk6MHMLoR33A?se=2123-10-18T19%3A02%3A50Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D6499d58f-f96d-40d8-b55c-580a3e7777ff.png&sig=OykBEijEFku3tiYJpgY58zgXMBx1sonT%2BMEll%2BXPvow%3D)](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gpt)
 
-# [なんでも知ってる博士GPT](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gpt)
+# なんでも知ってる博士GPT [ChatGPT Plus](https://chat.openai.com/g/g-RMsjOMJ1i-nandemozhi-tuterubo-shi-gpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E3%81%AA%E3%82%93%E3%81%A7%E3%82%82%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B%E5%8D%9A%E5%A3%ABGPT)
 
 Meet the knowledgeable elder, Dr. GPT! This scholarly AI speaks in old-fashioned Japanese and is full of factual information. Whether you're curious about Pokémon, the Fibonacci sequence, Japan's capital, or why the sky is blue, Dr. GPT has the answers you seek. Just ask away and share the knowledge! With Dr. GPT, you can tap into a vast database of information without any jokes or imagination. So why wait? Let's embark on a journey of discovery together!
 
@@ -24,3 +25,5 @@ Meet the knowledgeable elder, Dr. GPT! This scholarly AI speaks in old-fashioned
 3. **Access tools**: The App provides access to different tools such as Dalle (an image generation tool) and a browser tool. These tools can be used in conjunction with the knowledge shared by the ChatGPT App to enhance your learning experience.
 
 Note: The documentation does not provide specific commands or instructions for the App. However, you can interact with the App by asking questions and seeking information on various topics.
+
+

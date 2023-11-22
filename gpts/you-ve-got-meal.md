@@ -1,6 +1,7 @@
+
 [![You've Got Meal](https://files.oaiusercontent.com/file-4kfVfCYasZzV4AUuOgw3VkPX?se=2123-10-17T09%3A03%3A55Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D895fe223-b31d-4dd6-a3de-a6a9ed70ac83.png&sig=tFsoiWR9oXNUZugTWVLPYVI7wsxy8ptAVhKS1a5oiUU%3D)](https://chat.openai.com/g/g-8XD9SVd6L-you-ve-got-meal)
 
-# [You've Got Meal](https://chat.openai.com/g/g-8XD9SVd6L-you-ve-got-meal)
+# You've Got Meal [ChatGPT Plus](https://chat.openai.com/g/g-8XD9SVd6L-you-ve-got-meal) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=You've%20Got%20Meal)
 
 You've Got Meal is an App that helps you plan and prepare delicious meals. With a collection of recipes and meal ideas, you'll never run out of inspiration for your next meal. Whether you're a beginner or an experienced chef, the App provides step-by-step instructions to guide you through the cooking process. Say goodbye to the age-old question of 'What's for dinner?' and let You've Got Meal take care of your meal planning needs. Bon appétit!
 
@@ -27,3 +28,5 @@ The "You've Got Meal" app is designed to assist you in finding and exploring var
 3. **Healthy options**: If you're conscious about your health or dietary preferences, you can ask the app for healthy recipe options. For example, you can say "Find a healthy smoothie recipe" or "Can you suggest a low-fat dinner recipe?"
 
 Remember, the app provides a wide range of recipes, so feel free to be creative with your requests and explore different cuisines and ingredients. Enjoy your cooking!
+
+

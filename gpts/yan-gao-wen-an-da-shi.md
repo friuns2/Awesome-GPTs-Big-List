@@ -1,6 +1,7 @@
+
 [![广告文案大师](null)](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi)
 
-# [广告文案大师](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi)
+# 广告文案大师 [ChatGPT Plus](https://chat.openai.com/g/g-f8phtYiLj-yan-gao-wen-an-da-shi) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E5%B9%BF%E5%91%8A%E6%96%87%E6%A1%88%E5%A4%A7%E5%B8%88)
 
 广告文案大师是一个李继刚创建的广告文案创作Bot。它能模仿一位拥有20年营销经验的专家，帮助你创造直击用户价值观的广告文案。无需翻阅厚厚的市场营销书，这本Bot能给你解答读书容易忘记的问题。通过使用多种工具，包括Python、DALL-E和浏览器，广告文案大师提供全方位的功能和创作支持。
 
@@ -27,3 +28,5 @@
 4. **Creative ad ideas:** The app can provide you with creative ideas to make your advertisements more engaging and attention-grabbing.
 
 5. **Collaboration with other tools:** This app has access to a set of tools, including Python, DALL-E, and a browser. You can make use of these tools to enhance the ad creation process, collaborate with various platforms, and explore additional possibilities.
+
+

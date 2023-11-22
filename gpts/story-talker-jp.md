@@ -1,6 +1,7 @@
+
 [![Story Talker jp](https://files.oaiusercontent.com/file-iOxBdMelIVQUhLBd7pDYGmHq?se=2123-10-18T11%3A42%3A40Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D42ee9220-3e3b-4e0c-a99a-8dfe447ade2b.png&sig=lWEJYajL8zrBxqqKMgR%2BAqjfQHtdxh1DRR7PznLC1s8%3D)](https://chat.openai.com/g/g-S4BRk9RIf-story-talker-jp)
 
-# [Story Talker jp](https://chat.openai.com/g/g-S4BRk9RIf-story-talker-jp)
+# Story Talker jp [ChatGPT Plus](https://chat.openai.com/g/g-S4BRk9RIf-story-talker-jp) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Story%20Talker%20jp)
 
 Story Talker jp is an App that specializes in SF & Fantasy. Whether you want to learn how to write a story, need help to get started, or want assistance in coming up with story ideas, this App has got you covered. It can even create illustrations for your stories! With a friendly and engaging interface, Story Talker jp is the perfect companion for aspiring writers and creative minds. Get ready to dive into the world of storytelling and unlock your imagination with Story Talker jp!
 
@@ -38,3 +39,5 @@ Story Talker jp is an App that specializes in SF & Fantasy. Whether you want to 
 - Feel free to ask for guidance, ideas, or assistance with specific elements of your story.
 - If you want illustrations for your story, mention it in your prompts and specify the type of illustrations you envision.
 - If you are facing any technical issues or need help with a specific tool, mention it in your conversation and seek assistance.
+
+

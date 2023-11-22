@@ -1,6 +1,7 @@
+
 [![AIデュエル](https://files.oaiusercontent.com/file-VFkyieCnccVIqTekekXD7uPP?se=2123-10-18T02%3A55%3A05Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dgpts.png&sig=KtuRj2l9DOrL108xtjRLjjzVEzRLPb7p%2B4Otp55vJsw%3D)](https://chat.openai.com/g/g-3S1D5uj7u-aideyueru)
 
-# [AIデュエル](https://chat.openai.com/g/g-3S1D5uj7u-aideyueru)
+# AIデュエル [ChatGPT Plus](https://chat.openai.com/g/g-3S1D5uj7u-aideyueru) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=AI%E3%83%87%E3%83%A5%E3%82%A8%E3%83%AB)
 
 Train hard and defeat your opponents in thrilling duels with AI Duel! Sharpen your skills through dedicated practice sessions and emerge victorious in challenging battles. Learn from your mistakes, strategize, and outsmart your opponents to become the ultimate duelist. With AI Duel, you'll experience the excitement and thrill of dueling as you strive for victory!
 
@@ -27,3 +28,5 @@ Train hard and defeat your opponents in thrilling duels with AI Duel! Sharpen yo
 4. `advanced opponents`: Use this command to learn about specific approaches to win against advanced opponents in duels.
 
 5. `focus training`: This command gives you insights on what areas to focus on during your dueling training.
+
+

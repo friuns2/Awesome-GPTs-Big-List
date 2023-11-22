@@ -1,6 +1,7 @@
+
 [![Your English Friend!!](null)](https://chat.openai.com/g/g-IR8iTwx5u-your-english-friend)
 
-# [Your English Friend!!](https://chat.openai.com/g/g-IR8iTwx5u-your-english-friend)
+# Your English Friend!! [ChatGPT Plus](https://chat.openai.com/g/g-IR8iTwx5u-your-english-friend) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Your%20English%20Friend!!)
 
 An English learning support service for Japanese speakers. Get help with English problems, corrections, translations, and learn detailed usage. Start practicing English now!
 
@@ -24,3 +25,5 @@ An English learning support service for Japanese speakers. Get help with English
 3. **Translation assistance:** If you need help with translating English sentences, you can ask by using prompts like "I need help with translating English sentences", "Can you assist me with English translation?", or "Translate this English paragraph for me".
 
 4. **Service usage details:** To get more information about how to use this service, you can request it by using prompts like "Can you explain how to use this service in more detail?", "Tell me more about the features of this English learning support service", or "Guide me through the process of using this service".
+
+

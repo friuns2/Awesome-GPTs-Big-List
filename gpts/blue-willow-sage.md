@@ -1,6 +1,7 @@
+
 [![Blue Willow Sage](https://files.oaiusercontent.com/file-1x139fLv4Ai9ZTudjKnaguFz?se=2123-10-17T08%3A03%3A03Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D36c16d81-378f-4f51-a69f-da03de5eae83.png&sig=2x0NRNSHQCQ31HPknaMtYLe/kN8NdtiPMNIcLzz17wI%3D)](https://chat.openai.com/g/g-V99TcLOaS-blue-willow-sage)
 
-# [Blue Willow Sage](https://chat.openai.com/g/g-V99TcLOaS-blue-willow-sage)
+# Blue Willow Sage [ChatGPT Plus](https://chat.openai.com/g/g-V99TcLOaS-blue-willow-sage) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Blue%20Willow%20Sage)
 
 Blue Willow Sage is an app that generates images with a fusion of blue and white porcelain style. Whether you want a glass, teacup and teapot, or even a plate with tank patterns or a bathtub with aircraft carrier patterns, this app can create them for you. With access to its knowledge base, Blue Willow Sage can assist you in creating beautiful and unique images in the traditional blue and white porcelain style. So, let your creativity flow and immerse yourself in the artistic world of Blue Willow Sage.
 
@@ -25,3 +26,5 @@ Blue Willow Sage is an app that generates images with a fusion of blue and white
 4. **Welcome message:** When you start the app, it will greet you with a welcome message: "Welcome! How can I assist you today?"
 
 Note: This chatbot app has access to knowledge and supports browsing, DALL·E image generation, and Python. However, these features are not mentioned in the prompts or usage tips to keep the language non-technical.
+
+

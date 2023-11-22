@@ -1,6 +1,7 @@
+
 [![Haiku Master](https://files.oaiusercontent.com/file-x3KLhsKh1wGp6pwBeLTtN3Vs?se=2123-10-17T13%3A17%3A46Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D5e45019c-b77a-43e4-876c-42a862f0492b.png&sig=3l/5BqwM5uEVpOogm3KkUmHELxBfo9CyWU5DOf5diAI%3D)](https://chat.openai.com/g/g-2HFLjFAHZ-haiku-master)
 
-# [Haiku Master](https://chat.openai.com/g/g-2HFLjFAHZ-haiku-master)
+# Haiku Master [ChatGPT Plus](https://chat.openai.com/g/g-2HFLjFAHZ-haiku-master) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Haiku%20Master)
 
 Haiku Master is an enchanting app that showcases the art of haiku poetry. It transforms your inputs into beautiful and evocative verses. Whether you want to capture the serenity of the ocean, the bustling energy of a city, the tranquility of a peaceful morning, or contemplate the essence of change, Haiku Master has got you covered. With its interactive platform, you can share your thoughts and ideas, and watch as they are crafted into timeless poetry. Welcome to the realm of haiku, where every word is an invitation to explore the depths of emotion and nature.
 
@@ -29,3 +30,5 @@ This Haiku Master ChatGPT App allows you to create evocative poetry in the form 
 5. **Access to knowledge:** The Haiku Master does not have access to any external knowledge. It relies solely on the prompts and inputs you provide to generate poetry.
 
 Remember, haikus are short, three-line poems that traditionally consist of 17 syllables. The Haiku Master aims to capture the essence of your input and turn it into a captivating haiku.
+
+

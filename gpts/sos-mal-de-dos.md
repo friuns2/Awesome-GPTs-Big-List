@@ -1,6 +1,7 @@
+
 [![SOS Mal de Dos](https://files.oaiusercontent.com/file-tcIWp5efi6L8oddpF9XBRRVn?se=2123-10-17T19%3A20%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D9347a3b8-5a33-4077-8b42-405a00a1c5bc.png&sig=8dwbBm529Crycdr18fkBD54CX6PPM6chPf4CKXrbgbw%3D)](https://chat.openai.com/g/g-NEbRXt8u4-sos-mal-de-dos)
 
-# [SOS Mal de Dos](https://chat.openai.com/g/g-NEbRXt8u4-sos-mal-de-dos)
+# SOS Mal de Dos [ChatGPT Plus](https://chat.openai.com/g/g-NEbRXt8u4-sos-mal-de-dos) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=SOS%20Mal%20de%20Dos)
 
 SOS Mal de Dos is an empathetic assistant for back pain. It provides information and guidance on relieving and preventing back pain. With this app, you can ask questions about the best exercises to alleviate lower back pain, the importance of posture in managing back pain, and how heat or cold can help relieve back pain. Additionally, it offers tips for preventing back pain at work and the role of physical activity in managing back pain. Whether you're looking for exercise recommendations or advice on how to relieve your back pain, SOS Mal de Dos is here to help!
 
@@ -35,3 +36,5 @@ Here are some of the commands you can use:
 5. **Physical activity and back pain:** To explore the relationship between physical activity and back pain, you can use the prompt "Activité physique et Mal de Dos".
 
 6. **Seek relief for back pain:** If you're experiencing back pain and want some suggestions to find relief, you can use the prompt "Soulager mes douleurs de Dos".
+
+

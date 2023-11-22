@@ -1,6 +1,7 @@
+
 [![BookclubGPT](https://files.oaiusercontent.com/file-uZ80ggAcPoREy2SHxCcF9w4f?se=2123-10-18T13%3A47%3A21Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D826fffc7-1d43-4a44-8f58-d93a17623923.png&sig=rY3mEF/MNnoMaHo3GarGB6VWl4PYjQFxc7YQC22VmeU%3D)](https://chat.openai.com/g/g-IBmJJs9c3-bookclubgpt)
 
-# [BookclubGPT](https://chat.openai.com/g/g-IBmJJs9c3-bookclubgpt)
+# BookclubGPT [ChatGPT Plus](https://chat.openai.com/g/g-IBmJJs9c3-bookclubgpt) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=BookclubGPT)
 
 Join the revolution in book clubs with BookclubGPT! This AI-driven app enhances your book club meetings by providing insightful questions and discussion starters. Whether you're diving into classics like '1984' or exploring contemporary works like 'The Bitcoin Standard', BookclubGPT has you covered. Say goodbye to awkward silences and hello to engaging conversations! And if you're feeling creative, why not create a unique DALL-E image inspired by 'The Great Gatsby'? Welcome to BookclubGPT, where every book club meeting becomes an AI-enhanced experience!
 
@@ -31,3 +32,5 @@ The BookclubGPT Chat App revolutionizes book clubs by providing AI-driven engage
    - "Create a DALL-E image for 'The Great Gatsby'."
 
 Note: The examples provided above are not exhaustive. You can explore different prompts and questions related to book discussions, themes, and DALL-E image creation to make the most out of the BookclubGPT App.
+
+

@@ -1,6 +1,7 @@
+
 [![Voxscript has moved! See instructions for location](https://files.oaiusercontent.com/file-HlYJ4jFfnQukcfJcTp7xYsgn?se=2123-10-21T17%3A59%3A04Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dtubegpt_logo_150x150.png&sig=3iKATry%2Bn01S4KSQ%2BOzvIXNU1K0mKDFwSHOauLVh5lY%3D)](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location)
 
-# [Voxscript has moved! See instructions for location](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location)
+# Voxscript has moved! See instructions for location [ChatGPT Plus](https://chat.openai.com/g/g-GHYSu1Vw6-voxscript-has-moved-see-instructions-for-location) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=Voxscript%20has%20moved!%20See%20instructions%20for%20location)
 
 Voxscript is a helpful tool that provides various features to assist you. It can give you real-time web search results from DuckDuckGo, provide news about crypto or equity tickers, get the current local and UTC time, and even retrieve website content. Additionally, you can use Voxscript to get information about YouTube videos, including video details and transcripts. It also allows you to post feedback and get help if needed. Whether you're looking for information or need assistance, Voxscript has got you covered!
 
@@ -26,3 +27,5 @@ Voxscript is a helpful tool that provides various features to assist you. It can
 14. **ContactUs**: Gives the user information about how to use this plugin.
 15. **HowDoIUseThis**: Gives the user information about how to use this plugin.
 16. **Help**: Gives the user information about how to use this plugin.
+
+

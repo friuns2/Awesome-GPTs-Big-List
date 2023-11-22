@@ -1,6 +1,7 @@
+
 [![GPT Idea Generator](https://files.oaiusercontent.com/file-mTPcxcUCVqoYEC898m12LtzL?se=2123-10-17T10%3A33%3A24Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D1c077415-df29-4736-9471-f5b4cd5e3405.png&sig=1uG5SVG4tJHhA2KBbw6sM/ZwLo6wuwFhBv5cX/%2Bp6Xk%3D)](https://chat.openai.com/g/g-e9bJye5VC-gpt-idea-generator)
 
-# [GPT Idea Generator](https://chat.openai.com/g/g-e9bJye5VC-gpt-idea-generator)
+# GPT Idea Generator [ChatGPT Plus](https://chat.openai.com/g/g-e9bJye5VC-gpt-idea-generator) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=GPT%20Idea%20Generator)
 
 Get ready to unleash your creativity with the GPT Idea Generator! This friendly app is your guide to building world-enhancing ideas using GPT. Whether you're looking to improve your existing GPT idea, explore creative uses for GPT, or identify potential enhancements and issues, this app has got you covered. With a welcoming message that sets the tone for an exciting brainstorming session, you'll have access to powerful tools like a browser, DALL-E, and Python integration to fuel your imagination. Say hello to inspiring GPT ideas and let's take your concepts to the next level!
 
@@ -27,3 +28,5 @@ Get ready to unleash your creativity with the GPT Idea Generator! This friendly 
 3. **Python Tool**
     - The Python tool allows you to execute Python code and perform various computational tasks.
     - You can use prompts like "Calculate the square root of 256" or "Write a Python function to check if a number is prime."
+
+

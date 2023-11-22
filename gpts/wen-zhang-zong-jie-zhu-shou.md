@@ -1,6 +1,7 @@
+
 [![文章总结助手](https://files.oaiusercontent.com/file-unFHUHuc6gFgZb6FSpbqr9uv?se=2123-10-18T08%3A01%3A39Z&sp=r&sv=2021-08-06&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3D648e91f3-ff78-43ba-8197-fb2db36c0101.png&sig=gSBNzgMzrqLQHBk6u4r5YvqccRFAJmUrM%2BZQ3PUS51Q%3D)](https://chat.openai.com/g/g-uuUftccRa-wen-zhang-zong-jie-zhu-shou)
 
-# [文章总结助手](https://chat.openai.com/g/g-uuUftccRa-wen-zhang-zong-jie-zhu-shou)
+# 文章总结助手 [ChatGPT Plus](https://chat.openai.com/g/g-uuUftccRa-wen-zhang-zong-jie-zhu-shou) / [Search ChatGPT Free](https://gptcall.net/index.html#/?search=%E6%96%87%E7%AB%A0%E6%80%BB%E7%BB%93%E5%8A%A9%E6%89%8B)
 
 The 文章总结助手 is a handy assistant that specializes in summarizing web content in both Chinese and English. Simply provide the link to the article and this app will generate a concise summary for you. Whether you need a quick overview of a conversation or a brief summary of an article, this app has got you covered. It uses advanced tools like a browser tool and a DALL-E tool to gather information and condense it into a digestible summary. Save time and get the key points without the hassle of reading through lengthy articles.
 
@@ -23,3 +24,5 @@ The 文章总结助手 is a handy assistant that specializes in summarizing web 
 3. **Get a brief summary:** If you need a brief summary of any text, you can ask the app by saying, "I need a brief summary."
 
 4. **Summarize an article:** If you have an article that needs to be summarized, you can provide the text or link and ask the app to summarize it. For example, you can say, "Summarize this article for me."
+
+
