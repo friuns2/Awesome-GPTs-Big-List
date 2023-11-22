@@ -1,5 +1,8 @@
 # Awesome GPTs You Should Know About
 
+## Update
+Don't have GPTs plus subscription? No problem! I just made list of free GPTs [Here](https://github.com/friuns2/FreeGPTs.git)
+
 ## Categories
 
 - [Entertainment](./entertainment.md)
@@ -756,5 +759,18 @@
 - [**Slick Rick the Salesman**](./gpts/slick-rick-the-salesman.md) Always be Selling!
 - [**Linux Mimic**](https://chat.openai.com/g/g-9U7RIw4jI-linux-mimic)I pretend to be a Linux terminal.
 - [**Kanji Sensei**](https://chat.openai.com/g/g-bF3w9fwQC-kanji-sensei) Kanji Mentor, https://kreijstal-contributions.github.io/GPTs/kanjisensei
+- [**3rd SoftSec Reviewer**](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer) I perform 3rd party software security review.
+- [Canva](https://gptstore.ai/gpts/4nBAUVbWT-canva) - Effortlessly design anything: presentations, logos, social media posts and more.
+- [Bilingual Social Post Creator](https://gptstore.ai/gpts/MKRmiCVx1B-bilingual-social-post-creator) - Bilingual social media post creator for various topics.
+- [Trendy Tagline](https://gptstore.ai/gpts/H9g3MdzG3M-) - Create trendy captions for influencer's social media post.
+- [Profile Pic Pro](https://gptstore.ai/gpts/7aTDvCqGPm-profile-pic-pro) - Creates personalized, trendy profile pictures for social media.
+- [Editby](https://gptstore.ai/gpts/_6HFmgKGUI-editby-seo-and-social-media-writer) - Write engaging SEO-optimized articles and social media posts.
+- [PostCraft](https://gptstore.ai/gpts/wjufbB3mSq-postcraft) - Generates customized social media posts & hashtags for various platforms.
+- [AI Tool Finder](https://gptstore.ai/gpts/JLPO47jD7l-ai-finder-net) - provide personalized recommendations tailored to specific needs, guiding users through a comprehensive collection of AI applications.
+- [Abel](https://gptstore.ai/gpts/i3ytcAH4D3-abel) - Interactive music production assistant with simulated expert collaboration.
+- [After Effects Animation & Expression Builder](https://gptstore.ai/gpts/yhR1GLD0dY-after-effects-animation-expression-builder) - Focused After Effects animation and expression guide.
+- [Anime Art Creator](https://gptstore.ai/gpts/HTX5isqUGs-anime-art-creator) - Expert in creating & editing anime-style images.
+- [Logo Crafter](https://gptstore.ai/gpts/IgZqEnO4vf-logo-crafter) - Create flat, sleek, custom logos.
+- [Thumbnail Sketcher](https://gptstore.ai/gpts/lRIqkqVLk-thumbnail-sketcher) - Create blog thumbnails.
 
 ![View Count](https://komarev.com/ghpvc/?username=friuns2&repo=Awesome-GPTs-Big-List&color=blue)
