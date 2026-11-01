@@ -216,6 +216,15 @@ I just made list of free GPTs [Here](https://github.com/friuns2/BlackFriday-GPTs
 - [**I Spy AI V0.1**](./gpts/i-spy-ai-v0-1.md) with my little UI
 - [**KSEA Climatology**](./gpts/ksea-climatology.md) Friendly expert on Seattle climatology since 1950 - using data reported at KSEA
 - [**Journey Weaver**](./gpts/journey-weaver.md) I craft complex prompts for midjourney explorations.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s widescreen solo dance video (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance video with reference soundtrack (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99)
 - [**Monk GPT**](./gpts/monk-gpt.md) A Monk GPT specializing in Advaita Vedanta teachings.
 - [**SassyGPT**](./gpts/sassygpt.md) SassyGPT: A sharp-tongued GPT model delivering concise, helpful answers with a twist of snark and playful mockery
 - [**Auto Care Assistant**](./gpts/auto-care-assistant.md) 車のメンテナンスをサポート
