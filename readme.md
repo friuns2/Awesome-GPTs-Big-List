@@ -216,6 +216,9 @@ I just made list of free GPTs [Here](https://github.com/friuns2/BlackFriday-GPTs
 - [**I Spy AI V0.1**](./gpts/i-spy-ai-v0-1.md) with my little UI
 - [**KSEA Climatology**](./gpts/ksea-climatology.md) Friendly expert on Seattle climatology since 1950 - using data reported at KSEA
 - [**Journey Weaver**](./gpts/journey-weaver.md) I craft complex prompts for midjourney explorations.
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [**Monk GPT**](./gpts/monk-gpt.md) A Monk GPT specializing in Advaita Vedanta teachings.
 - [**SassyGPT**](./gpts/sassygpt.md) SassyGPT: A sharp-tongued GPT model delivering concise, helpful answers with a twist of snark and playful mockery
 - [**Auto Care Assistant**](./gpts/auto-care-assistant.md) 車のメンテナンスをサポート
